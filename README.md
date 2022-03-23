@@ -6,6 +6,7 @@
   - [Back-end Frameworks](#back-end-frameworks)
   - [Blockchain](#blockchain)
   - [CI/CD (Continuous Integration and Continuous Delivery)](#cicd-continuous-integration-and-continuous-delivery)
+  - [CSS](#css)
   - [CSS Frameworks](#css-frameworks)
   - [CSS in JS](#css-in-js)
   - [CSS Preprocessors](#css-preprocessors)
@@ -16,13 +17,14 @@
   - [IaC (Infrastructure as Code)](#iac-infrastructure-as-code)
   - [Languages](#languages)
   - [Message Brokers](#message-brokers)
+  - [Node.js](#nodejs)
   - [Operating Systems](#operating-systems)
-  - [ORM (Object-relational mapping)](#orm-object-relational-mapping)
   - [PaaS (Platform as a Service)](#paas-platform-as-a-service)
   - [Redux](#redux)
   - [SaaS (Software as a Service)](#saas-software-as-a-service)
   - [Serverless](#serverless)
   - [Servers](#servers)
+  - [Web Security](#web-security)
 
 ## APIs
 
@@ -52,14 +54,29 @@
 
 ## CI/CD (Continuous Integration and Continuous Delivery)
 
-- [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
-- [GitHub Actions](https://github.com/features/actions)
-- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
-- [Jenkins](https://www.jenkins.io/)
+- CI/CD
+  - [Circle CI](https://circleci.com/)
+  - [Jenkins](https://www.jenkins.io/)
+  - [Travis CI](https://www.travis-ci.com/)
+- Version Control
+  - [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
+  - [GitHub Actions](https://github.com/features/actions)
+  - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+
+## CSS
+
+- [Values and Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
 ## CSS Frameworks
 
+- [Bootstrap](https://getbootstrap.com/)
+- [Bulma](https://bulma.io/)
+- [Foundation](https://get.foundation/)
+- [Materializecss](https://materializecss.com/)
+- [Milligram](https://milligram.io/)
+- [Pure CSS](https://purecss.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [UIKit](https://getuikit.com/)
 
 ## CSS in JS
 
@@ -144,6 +161,13 @@
 - [(AWS) MSK](https://aws.amazon.com/msk/)
 - [(AWS) SQS](https://aws.amazon.com/sqs/)
 
+## Node.js
+
+- [Node.js](https://nodejs.org/en/)
+- Packages
+  - [TypeORM](https://typeorm.io/#/)
+  - [Webpack](https://webpack.js.org/)
+
 ## Operating Systems
 
 - Linux
@@ -156,10 +180,6 @@
   - [Ubuntu](https://ubuntu.com/)
 - [(Apple) MacOS](https://www.apple.com/macos)
 - [(Microsoft) Windows](https://www.microsoft.com/en-us/windows/)
-
-## ORM (Object-relational mapping)
-
-- [TypeORM](https://typeorm.io/#/)
 
 ## PaaS (Platform as a Service)
 
@@ -186,3 +206,10 @@
 
 - [Apache](https://httpd.apache.org/)
 - [Nginx](https://www.nginx.com/)
+
+## Web Security
+
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [CSRF](https://developer.mozilla.org/en-US/docs/Glossary/CSRF)
+- [XSS](https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting)
