@@ -2,6 +2,7 @@
 
 - [Techstack](#techstack)
   - [APIs](#apis)
+  - [Authentication](#authentication)
   - [Back-end Frameworks](#back-end-frameworks)
   - [Blockchain](#blockchain)
   - [CI/CD (Continuous Integration and Continuous Delivery)](#cicd-continuous-integration-and-continuous-delivery)
@@ -19,6 +20,7 @@
   - [ORM (Object-relational mapping)](#orm-object-relational-mapping)
   - [PaaS (Platform as a Service)](#paas-platform-as-a-service)
   - [Redux](#redux)
+  - [SaaS (Software as a Service)](#saas-software-as-a-service)
   - [Serverless](#serverless)
   - [Servers](#servers)
 
@@ -26,6 +28,11 @@
 
 - [fixer.io](https://fixer.io/)
 - [rest.countries](https://restcountries.com/)
+
+## Authentication
+
+- [JWT](https://jwt.io/)
+- [OAuth](https://oauth.net/)
 
 ## Back-end Frameworks
 
@@ -164,6 +171,10 @@
 - Middlewares
   - [Saga](https://redux-saga.js.org/)
   - [Thunk](https://www.npmjs.com/package/redux-thunk)
+
+## SaaS (Software as a Service)
+
+- [Auth0](https://auth0.com/)
 
 ## Serverless
 
