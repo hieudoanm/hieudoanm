@@ -24,6 +24,7 @@
   - [SaaS (Software as a Service)](#saas-software-as-a-service)
   - [Serverless](#serverless)
   - [Servers](#servers)
+  - [UI Components](#ui-components)
   - [Web Security](#web-security)
 
 ## APIs
@@ -69,14 +70,15 @@
 
 ## CSS Frameworks
 
-- [Bootstrap](https://getbootstrap.com/)
-- [Bulma](https://bulma.io/)
-- [Foundation](https://get.foundation/)
-- [Materializecss](https://materializecss.com/)
-- [Milligram](https://milligram.io/)
-- [Pure CSS](https://purecss.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [UIKit](https://getuikit.com/)
+- [Bootstrap](https://getbootstrap.com/) - [GitHub](https://github.com/twbs/bootstrap)
+- [Bulma](https://bulma.io/) - [GitHub](https://github.com/jgthms/bulma)
+- [Foundation](https://get.foundation/) - [GitHub](https://github.com/foundation/foundation-sites)
+- [Materializecss](https://materializecss.com/) - [GitHub](https://github.com/Dogfalo/materialize)
+- [Milligram](https://milligram.io/) - [GitHub](https://github.com/milligram/milligram)
+- [Pure CSS](https://purecss.io/) - [GitHub](https://github.com/pure-css/pure/)
+- [Skeleton](http://getskeleton.com/)
+- [Tailwind CSS](https://tailwindcss.com/) - [GitHub](https://github.com/tailwindlabs/tailwindcss) - [GitHub](https://github.com/dhg/Skeleton)
+- [UIKit](https://getuikit.com/) - [GitHub](https://github.com/uikit/uikit)
 
 ## CSS in JS
 
@@ -206,6 +208,12 @@
 
 - [Apache](https://httpd.apache.org/)
 - [Nginx](https://www.nginx.com/)
+
+## UI Components
+
+- [MUI](https://mui.com/)
+- [Semantic UI](https://semantic-ui.com/) - [GitHub](https://github.com/Semantic-Org/Semantic-UI)
+- [TailwindUI](https://tailwindui.com/)
 
 ## Web Security
 
