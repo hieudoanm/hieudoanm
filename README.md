@@ -12,19 +12,24 @@
   - [CSS Preprocessors](#css-preprocessors)
   - [Databases](#databases)
   - [Documentation](#documentation)
-  - [Front-end Frameworks](#front-end-frameworks)
   - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
   - [IaC (Infrastructure as Code)](#iac-infrastructure-as-code)
   - [IDE (Integrated Development Environment)](#ide-integrated-development-environment)
   - [Languages](#languages)
   - [Message Brokers](#message-brokers)
   - [Node.js](#nodejs)
+    - [Back-end](#back-end)
+    - [Database](#database)
+    - [Development](#development)
+    - [Front-end](#front-end)
+    - [Testing](#testing)
   - [Operating Systems](#operating-systems)
   - [PaaS (Platform as a Service)](#paas-platform-as-a-service)
   - [Redux](#redux)
   - [SaaS (Software as a Service)](#saas-software-as-a-service)
   - [Serverless](#serverless)
   - [Servers](#servers)
+  - [Terminal](#terminal)
   - [UI Components](#ui-components)
   - [Web Security](#web-security)
 
@@ -42,10 +47,6 @@
 
 - Java
   - [Spring Boot](https://spring.io/projects/spring-boot)
-- Node.js
-  - [Apollo](https://www.apollographql.com/)
-  - [express.js](http://expressjs.com/)
-  - [Nest.js](https://nestjs.com/)
 - Python
   - [Django](https://www.djangoproject.com/)
   - [Flask](https://flask.palletsprojects.com/)
@@ -119,17 +120,6 @@
 - [swagger](https://swagger.io/)
 - [tsoa](https://tsoa-community.github.io/docs/)
 
-## Front-end Frameworks
-
-- Client Side
-  - [(Facebook) React](https://reactjs.org/)
-  - [(Google) Angular](https://angular.io/)
-  - [Svelte](https://svelte.dev/)
-  - [Vue.js](https://vuejs.org/)
-- Server Side
-  - [Gatsby.js](https://www.gatsbyjs.com/)
-  - [Next.js](https://nextjs.org/)
-
 ## IaaS (Infrastructure as a Service)
 
 - [AWS (Amazon Web Services)](https://aws.amazon.com/)
@@ -176,9 +166,38 @@
 ## Node.js
 
 - [Node.js](https://nodejs.org/en/)
-- Packages
-  - [TypeORM](https://typeorm.io/#/)
-  - [Webpack](https://webpack.js.org/)
+
+### Back-end
+
+- [apollo-graphql](https://www.apollographql.com/)
+- [express.js](http://expressjs.com/)
+- [nest.js](https://nestjs.com/)
+
+### Database
+
+- [type-orm](https://typeorm.io/#/)
+
+### Development
+
+- [eslint](https://eslint.org/)
+- [prettier](https://prettier.io/)
+- [webpack](https://webpack.js.org/)
+
+### Front-end
+
+- Client
+  - [(Facebook) React](https://reactjs.org/)
+  - [(Google) Angular](https://angular.io/)
+  - [Svelte](https://svelte.dev/)
+  - [Vue.js](https://vuejs.org/)
+- Server
+
+  - [Gatsby.js](https://www.gatsbyjs.com/)
+  - [Next.js](https://nextjs.org/)
+
+### Testing
+
+- [jest](https://jestjs.io/)
 
 ## Operating Systems
 
@@ -222,6 +241,14 @@
 
 - [Apache](https://httpd.apache.org/)
 - [Nginx](https://www.nginx.com/)
+
+## Terminal
+
+- [autojump](https://github.com/wting/autojump)
+- [nvm (node version manager)](https://github.com/nvm-sh/nvm)
+- [oh my zsh](https://ohmyz.sh/)
+  - [auto suggestions](https://github.com/zsh-users/zsh-autosuggestions)
+  - [history database](https://github.com/larkery/zsh-histdb)
 
 ## UI Components
 
