@@ -15,6 +15,7 @@
   - [Front-end Frameworks](#front-end-frameworks)
   - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
   - [IaC (Infrastructure as Code)](#iac-infrastructure-as-code)
+  - [IDE (Integrated Development Environment)](#ide-integrated-development-environment)
   - [Languages](#languages)
   - [Message Brokers](#message-brokers)
   - [Node.js](#nodejs)
@@ -150,6 +151,13 @@
   - [Terraform](https://www.terraform.io/)
   - [(AWS) CloudFormation](https://aws.amazon.com/cloudformation/)
 
+## IDE (Integrated Development Environment)
+
+- [Android Studio](https://developer.android.com/studio/)
+- [Atom](https://atom.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+
 ## Languages
 
 - [Golang](https://go.dev/)
@@ -196,7 +204,11 @@
 
 ## SaaS (Software as a Service)
 
-- [Auth0](https://auth0.com/)
+- Authentication
+  - [Auth0](https://auth0.com/)
+- Payment
+  - [PayPal](https://www.paypal.com/)
+  - [Stripe](https://stripe.com/)
 
 ## Serverless
 
