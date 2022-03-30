@@ -149,6 +149,8 @@
   - [(AWS) EKS](https://aws.amazon.com/eks/)
 - Infrastructure Provisioning
   - [Terraform](https://www.terraform.io/)
+    - [AWS](https://learn.hashicorp.com/collections/terraform/aws-get-started)
+    - [Docker](https://learn.hashicorp.com/collections/terraform/docker-get-started)
   - [(AWS) CloudFormation](https://aws.amazon.com/cloudformation/)
 
 ## IDE (Integrated Development Environment)
