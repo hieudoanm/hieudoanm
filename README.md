@@ -10,16 +10,14 @@
 
 ## Projects
 
-- 👨‍💻 [Lodash](https://lodash.com/) ([TypeScript `.ts`][lodash-ts])
+- 👨‍💻 [Lodash](https://lodash.com/)
 - ⚽ [V.League](https://vleague.vercel.app/)
 - 🏦 [VI](https://vitien.vercel.app/)
 
 ## Awesome
 
 - [Icons](https://hieudoanm.github.io/awesome-icons/)
-- [Quotes](https://hieudoanm.github.io/awesome-quotes/)
 - [Techstack](https://hieudoanm.github.io/awesome-techstack/)
 - [Use Hooks](https://hieudoanm.github.io/awesome-use-hooks/)
 
 [github-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=hieudoanm&theme=onedark&cache_seconds=1800&hide_border=false
-[lodash-ts]: https://github.com/hieudoanm/lodash.ts
