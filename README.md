@@ -10,10 +10,10 @@
 2. `Python` - 3.93%
 3. `Jupyter Notebook` - 2.92%
 4. `Go` - 1.16%
-5. `CSS` - 0.71%
+5. `CSS` - 0.61%
 6. `Shell` - 0.61%
-7. `Dockerfile` - 0.43%
-8. `SCSS` - 0.4%
+7. `SCSS` - 0.5%
+8. `Dockerfile` - 0.43%
 9. `C` - 0.2%
 10. `C++` - 0.19%
 11. `JavaScript` - 0.16%
