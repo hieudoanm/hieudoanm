@@ -6,21 +6,21 @@
 
 ## Languages
 
-1. `TypeScript` - 89.06%
-2. `Python` - 3.93%
+1. `TypeScript` - 88.58%
+2. `Python` - 4.52%
 3. `Jupyter Notebook` - 2.92%
 4. `Go` - 1.16%
-5. `CSS` - 0.61%
-6. `Shell` - 0.61%
-7. `SCSS` - 0.5%
-8. `Dockerfile` - 0.43%
-9. `C` - 0.2%
-10. `C++` - 0.19%
-11. `JavaScript` - 0.16%
-12. `HCL` - 0.15%
+5. `SCSS` - 0.94%
+6. `Shell` - 0.6%
+7. `Dockerfile` - 0.43%
+8. `C` - 0.2%
+9. `C++` - 0.19%
+10. `JavaScript` - 0.16%
+11. `HCL` - 0.15%
+12. `CSS` - 0.07%
 13. `Solidity` - 0.06%
 14. `HTML` - 0.03%
-15. `Makefile` - 0.0%
+15. `Makefile` - 0.01%
 
 ## Projects
 
@@ -32,10 +32,10 @@
 6. [blockchain-solana](https://github.com/hieudoanm/blockchain-solana)
 7. [cdn](https://github.com/hieudoanm/cdn)
 8. [chatbot](https://github.com/hieudoanm/chatbot)
-9. [chess](https://github.com/hieudoanm/chess)
-10. [devops](https://github.com/hieudoanm/devops)
-11. [football-battle](https://github.com/hieudoanm/football-battle)
-12. [free-cron](https://github.com/hieudoanm/free-cron)
+9. [chess-app](https://github.com/hieudoanm/chess-app)
+10. [chess-engine](https://github.com/hieudoanm/chess-engine)
+11. [devops](https://github.com/hieudoanm/devops)
+12. [football-battle](https://github.com/hieudoanm/football-battle)
 13. [go-reverse-proxy](https://github.com/hieudoanm/go-reverse-proxy)
 14. [go-sdk](https://github.com/hieudoanm/go-sdk)
 15. [go-starter](https://github.com/hieudoanm/go-starter)
