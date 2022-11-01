@@ -10,17 +10,16 @@
 2. `Python` - 4.52%
 3. `Jupyter Notebook` - 2.92%
 4. `Go` - 1.16%
-5. `SCSS` - 0.94%
+5. `SCSS` - 1.01%
 6. `Shell` - 0.6%
 7. `Dockerfile` - 0.43%
 8. `C` - 0.2%
 9. `C++` - 0.19%
 10. `JavaScript` - 0.16%
 11. `HCL` - 0.15%
-12. `CSS` - 0.07%
-13. `Solidity` - 0.06%
-14. `HTML` - 0.03%
-15. `Makefile` - 0.01%
+12. `Solidity` - 0.06%
+13. `HTML` - 0.03%
+14. `Makefile` - 0.01%
 
 ## Projects
 
