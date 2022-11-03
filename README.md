@@ -6,9 +6,9 @@
 
 ## Languages
 
-1. `TypeScript` - 88.73%
-2. `Python` - 4.53%
-3. `Jupyter Notebook` - 2.92%
+1. `TypeScript` - 88.71%
+2. `Python` - 4.58%
+3. `Jupyter Notebook` - 2.91%
 4. `Go` - 1.16%
 5. `SCSS` - 1.01%
 6. `Shell` - 0.61%
