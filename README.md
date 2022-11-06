@@ -6,14 +6,14 @@
 
 ## Languages
 
-1. `TypeScript` - 88.14%
-2. `Python` - 5.11%
+1. `TypeScript` - 87.95%
+2. `Python` - 5.3%
 3. `Jupyter Notebook` - 2.92%
 4. `Go` - 1.16%
 5. `SCSS` - 1.01%
 6. `Shell` - 0.61%
-7. `Dockerfile` - 0.43%
-8. `C` - 0.21%
+7. `Dockerfile` - 0.44%
+8. `C` - 0.2%
 9. `C++` - 0.19%
 10. `HCL` - 0.15%
 11. `Solidity` - 0.06%
@@ -22,16 +22,16 @@
 ## Projects
 
 1. [add-on](https://github.com/hieudoanm/add-on)
-2. [awesome-icons](https://github.com/hieudoanm/awesome-icons)
-3. [awesome-techstack](https://github.com/hieudoanm/awesome-techstack)
-4. [awesome-use-hooks](https://github.com/hieudoanm/awesome-use-hooks)
-5. [blockchain-hedera](https://github.com/hieudoanm/blockchain-hedera)
-6. [blockchain-solana](https://github.com/hieudoanm/blockchain-solana)
-7. [cdn](https://github.com/hieudoanm/cdn)
-8. [chatbot](https://github.com/hieudoanm/chatbot)
-9. [chess-app](https://github.com/hieudoanm/chess-app)
-10. [chess-engine](https://github.com/hieudoanm/chess-engine)
-11. [devops](https://github.com/hieudoanm/devops)
+2. [awesome-techstack](https://github.com/hieudoanm/awesome-techstack)
+3. [awesome-use-hooks](https://github.com/hieudoanm/awesome-use-hooks)
+4. [blockchain-hedera](https://github.com/hieudoanm/blockchain-hedera)
+5. [blockchain-solana](https://github.com/hieudoanm/blockchain-solana)
+6. [cdn](https://github.com/hieudoanm/cdn)
+7. [chatbot](https://github.com/hieudoanm/chatbot)
+8. [chess-app](https://github.com/hieudoanm/chess-app)
+9. [chess-engine](https://github.com/hieudoanm/chess-engine)
+10. [devops](https://github.com/hieudoanm/devops)
+11. [filebase](https://github.com/hieudoanm/filebase)
 12. [football-battle](https://github.com/hieudoanm/football-battle)
 13. [go-reverse-proxy](https://github.com/hieudoanm/go-reverse-proxy)
 14. [go-sdk](https://github.com/hieudoanm/go-sdk)
