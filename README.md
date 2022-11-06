@@ -6,8 +6,8 @@
 
 ## Languages
 
-1. `TypeScript` - 87.95%
-2. `Python` - 5.3%
+1. `TypeScript` - 87.93%
+2. `Python` - 5.31%
 3. `Jupyter Notebook` - 2.92%
 4. `Go` - 1.16%
 5. `SCSS` - 1.01%
@@ -17,7 +17,7 @@
 9. `C++` - 0.19%
 10. `HCL` - 0.15%
 11. `Solidity` - 0.06%
-12. `Makefile` - 0.01%
+12. `Makefile` - 0.02%
 
 ## Projects
 
