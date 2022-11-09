@@ -6,15 +6,15 @@
 
 ## Languages
 
-1. `TypeScript` - 87.33%
-2. `Python` - 5.96%
-3. `Jupyter Notebook` - 2.9%
-4. `Go` - 1.15%
-5. `SCSS` - 1.0%
-6. `Shell` - 0.6%
-7. `Dockerfile` - 0.44%
-8. `C` - 0.2%
-9. `C++` - 0.18%
+1. `TypeScript` - 87.26%
+2. `Python` - 6.03%
+3. `Jupyter Notebook` - 2.93%
+4. `Go` - 1.18%
+5. `SCSS` - 0.91%
+6. `Shell` - 0.61%
+7. `Dockerfile` - 0.45%
+8. `C` - 0.21%
+9. `C++` - 0.19%
 10. `HCL` - 0.15%
 11. `Solidity` - 0.06%
 12. `Makefile` - 0.02%
@@ -24,8 +24,8 @@
 1. [add-on](https://github.com/hieudoanm/add-on)
 2. [awesome-techstack](https://github.com/hieudoanm/awesome-techstack)
 3. [awesome-use-hooks](https://github.com/hieudoanm/awesome-use-hooks)
-4. [blockchain-hedera](https://github.com/hieudoanm/blockchain-hedera)
-5. [blockchain-solana](https://github.com/hieudoanm/blockchain-solana)
+4. [blockchain-solana](https://github.com/hieudoanm/blockchain-solana)
+5. [blockchain-wallet](https://github.com/hieudoanm/blockchain-wallet)
 6. [cdn](https://github.com/hieudoanm/cdn)
 7. [chatbot](https://github.com/hieudoanm/chatbot)
 8. [chess-app](https://github.com/hieudoanm/chess-app)
