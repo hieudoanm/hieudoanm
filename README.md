@@ -6,10 +6,10 @@
 
 ## Languages
 
-1. `TypeScript` - 87.26%
-2. `Python` - 6.03%
+1. `TypeScript` - 87.19%
+2. `Python` - 6.02%
 3. `Jupyter Notebook` - 2.93%
-4. `Go` - 1.18%
+4. `Go` - 1.26%
 5. `SCSS` - 0.91%
 6. `Shell` - 0.61%
 7. `Dockerfile` - 0.45%
@@ -17,25 +17,25 @@
 9. `C++` - 0.19%
 10. `HCL` - 0.15%
 11. `Solidity` - 0.06%
-12. `Makefile` - 0.02%
+12. `Makefile` - 0.03%
 
 ## Projects
 
 1. [add-on](https://github.com/hieudoanm/add-on)
 2. [awesome-techstack](https://github.com/hieudoanm/awesome-techstack)
 3. [awesome-use-hooks](https://github.com/hieudoanm/awesome-use-hooks)
-4. [blockchain-solana](https://github.com/hieudoanm/blockchain-solana)
-5. [blockchain-wallet](https://github.com/hieudoanm/blockchain-wallet)
-6. [cdn](https://github.com/hieudoanm/cdn)
-7. [chatbot](https://github.com/hieudoanm/chatbot)
-8. [chess-app](https://github.com/hieudoanm/chess-app)
-9. [chess-engine](https://github.com/hieudoanm/chess-engine)
-10. [devops](https://github.com/hieudoanm/devops)
-11. [filebase](https://github.com/hieudoanm/filebase)
-12. [football-battle](https://github.com/hieudoanm/football-battle)
-13. [go-reverse-proxy](https://github.com/hieudoanm/go-reverse-proxy)
-14. [go-sdk](https://github.com/hieudoanm/go-sdk)
-15. [go-starter](https://github.com/hieudoanm/go-starter)
+4. [blockchain-wallet](https://github.com/hieudoanm/blockchain-wallet)
+5. [cdn](https://github.com/hieudoanm/cdn)
+6. [chatbot](https://github.com/hieudoanm/chatbot)
+7. [chess-app](https://github.com/hieudoanm/chess-app)
+8. [chess-engine](https://github.com/hieudoanm/chess-engine)
+9. [devops](https://github.com/hieudoanm/devops)
+10. [filebase](https://github.com/hieudoanm/filebase)
+11. [football-battle](https://github.com/hieudoanm/football-battle)
+12. [go-backend-starter](https://github.com/hieudoanm/go-backend-starter)
+13. [go-message-brokers](https://github.com/hieudoanm/go-message-brokers)
+14. [go-reverse-proxy](https://github.com/hieudoanm/go-reverse-proxy)
+15. [go-sdk](https://github.com/hieudoanm/go-sdk)
 16. [hieudoanm](https://github.com/hieudoanm/hieudoanm)
 17. [hieudoanm.github.io](https://github.com/hieudoanm/hieudoanm.github.io)
 18. [lodash](https://github.com/hieudoanm/lodash)
