@@ -6,13 +6,13 @@
 
 ## Languages
 
-1. `TypeScript` - 82.1%
-2. `Go` - 6.25%
-3. `Python` - 6.08%
-4. `Jupyter Notebook` - 2.96%
+1. `TypeScript` - 81.69%
+2. `Go` - 6.72%
+3. `Python` - 6.05%
+4. `Jupyter Notebook` - 2.94%
 5. `SCSS` - 0.92%
 6. `Shell` - 0.6%
-7. `Dockerfile` - 0.44%
+7. `Dockerfile` - 0.43%
 8. `C` - 0.21%
 9. `C++` - 0.19%
 10. `HCL` - 0.15%
