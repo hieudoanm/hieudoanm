@@ -6,34 +6,34 @@
 
 ## Languages
 
-1. `Jupyter Notebook` - 36.62%
-2. `TypeScript` - 31.79%
-3. `Go` - 13.75%
+1. `Jupyter Notebook` - 36.65%
+2. `TypeScript` - 31.81%
+3. `Go` - 13.76%
 4. `Python` - 6.23%
-5. `C` - 4.5%
+5. `C` - 4.51%
 6. `JavaScript` - 1.33%
 7. `Kotlin` - 1.27%
-8. `Dockerfile` - 0.95%
+8. `Dockerfile` - 0.92%
 9. `Java` - 0.76%
 10. `C++` - 0.72%
 11. `Dart` - 0.45%
 12. `Shell` - 0.43%
 13. `Swift` - 0.37%
 14. `C#` - 0.18%
-15. `Makefile` - 0.15%
+15. `Makefile` - 0.13%
 16. `SCSS` - 0.13%
-17. `HCL` - 0.12%
-18. `Svelte` - 0.11%
-19. `Rust` - 0.09%
+17. `Svelte` - 0.11%
+18. `Rust` - 0.09%
+19. `HCL` - 0.08%
 20. `Solidity` - 0.06%
 
 ## Projects
 
 1. [add-on](https://github.com/hieudoanm/add-on)
-2. [cdn](https://github.com/hieudoanm/cdn)
-3. [chess](https://github.com/hieudoanm/chess)
-4. [cs-backend-starter](https://github.com/hieudoanm/cs-backend-starter)
-5. [devops](https://github.com/hieudoanm/devops)
+2. [ai-starter](https://github.com/hieudoanm/ai-starter)
+3. [cdn](https://github.com/hieudoanm/cdn)
+4. [chess](https://github.com/hieudoanm/chess)
+5. [cs-backend-starter](https://github.com/hieudoanm/cs-backend-starter)
 6. [filebase](https://github.com/hieudoanm/filebase)
 7. [flutter-starter](https://github.com/hieudoanm/flutter-starter)
 8. [frontend-starter](https://github.com/hieudoanm/frontend-starter)
