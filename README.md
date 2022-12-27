@@ -8,15 +8,15 @@
 
 1. `Jupyter Notebook` - 65.73%
 2. `TypeScript` - 17.19%
-3. `Go` - 7.53%
-4. `Python` - 3.31%
+3. `Go` - 7.55%
+4. `Python` - 3.3%
 5. `C` - 2.43%
 6. `JavaScript` - 0.72%
 7. `Kotlin` - 0.69%
 8. `Dockerfile` - 0.5%
 9. `Java` - 0.41%
 10. `C++` - 0.39%
-11. `Dart` - 0.25%
+11. `Dart` - 0.24%
 12. `Shell` - 0.23%
 13. `Swift` - 0.2%
 14. `C#` - 0.1%
