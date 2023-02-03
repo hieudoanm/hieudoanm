@@ -6,11 +6,11 @@
 
 ## Languages
 
-1. `Jupyter Notebook` - 67.75%
-2. `TypeScript` - 14.45%
-3. `Go` - 7.78%
-4. `Python` - 3.43%
-5. `C` - 2.51%
+1. `Jupyter Notebook` - 67.43%
+2. `TypeScript` - 14.71%
+3. `Go` - 7.74%
+4. `Python` - 3.41%
+5. `C` - 2.5%
 6. `JavaScript` - 0.86%
 7. `Kotlin` - 0.71%
 8. `Dockerfile` - 0.51%
@@ -18,11 +18,11 @@
 10. `C++` - 0.4%
 11. `Dart` - 0.25%
 12. `Shell` - 0.24%
-13. `Swift` - 0.2%
-14. `C#` - 0.1%
-15. `Rust` - 0.09%
-16. `Makefile` - 0.08%
-17. `SCSS` - 0.07%
+13. `SCSS` - 0.22%
+14. `Swift` - 0.2%
+15. `C#` - 0.1%
+16. `Rust` - 0.09%
+17. `Makefile` - 0.08%
 18. `Svelte` - 0.06%
 19. `HCL` - 0.05%
 20. `Solidity` - 0.03%
