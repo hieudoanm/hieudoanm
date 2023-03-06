@@ -6,19 +6,19 @@
 
 ## Languages
 
-1. `Jupyter Notebook` - 71.33%
-2. `TypeScript` - 10.01%
-3. `Go` - 8.19%
-4. `Python` - 3.61%
-5. `C` - 2.64%
-6. `JavaScript` - 0.87%
-7. `Kotlin` - 0.75%
-8. `Dockerfile` - 0.54%
-9. `Java` - 0.45%
+1. `Jupyter Notebook` - 70.86%
+2. `Go` - 8.14%
+3. `JavaScript` - 5.94%
+4. `TypeScript` - 5.65%
+5. `Python` - 3.58%
+6. `C` - 2.63%
+7. `Kotlin` - 0.74%
+8. `Java` - 0.44%
+9. `Dockerfile` - 0.43%
 10. `C++` - 0.42%
 11. `Dart` - 0.26%
-12. `Shell` - 0.25%
-13. `Swift` - 0.22%
+12. `Shell` - 0.23%
+13. `Swift` - 0.21%
 14. `C#` - 0.11%
 15. `Rust` - 0.1%
 16. `Makefile` - 0.08%
@@ -30,7 +30,7 @@
 ## Projects
 
 1. [add-on](https://github.com/hieudoanm/add-on)
-2. [ai-starter](https://github.com/hieudoanm/ai-starter)
+2. [australia](https://github.com/hieudoanm/australia)
 3. [c-starter](https://github.com/hieudoanm/c-starter)
 4. [cdn](https://github.com/hieudoanm/cdn)
 5. [chess](https://github.com/hieudoanm/chess)
@@ -42,9 +42,9 @@
 11. [hieudoanm](https://github.com/hieudoanm/hieudoanm)
 12. [hieudoanm.github.io](https://github.com/hieudoanm/hieudoanm.github.io)
 13. [java-starter](https://github.com/hieudoanm/java-starter)
-14. [kotlin-starter](https://github.com/hieudoanm/kotlin-starter)
-15. [minh](https://github.com/hieudoanm/minh)
-16. [node-starter](https://github.com/hieudoanm/node-starter)
+14. [jupiter-notebook-starter](https://github.com/hieudoanm/jupiter-notebook-starter)
+15. [kotlin-starter](https://github.com/hieudoanm/kotlin-starter)
+16. [minh](https://github.com/hieudoanm/minh)
 17. [notebook](https://github.com/hieudoanm/notebook)
 18. [python-starter](https://github.com/hieudoanm/python-starter)
 19. [rust-starter](https://github.com/hieudoanm/rust-starter)
