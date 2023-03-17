@@ -6,21 +6,21 @@
 
 ## Languages
 
-1. `Jupyter Notebook` - 78.33%
-2. `Go` - 7.62%
-3. `Python` - 3.94%
-4. `TypeScript` - 3.49%
-5. `C` - 2.82%
-6. `Kotlin` - 0.8%
-7. `Java` - 0.48%
-8. `JavaScript` - 0.47%
-9. `C++` - 0.45%
-10. `Dockerfile` - 0.44%
-11. `Dart` - 0.28%
-12. `Shell` - 0.25%
-13. `Swift` - 0.23%
-14. `C#` - 0.11%
-15. `Rust` - 0.1%
+1. `Jupyter Notebook` - 80.92%
+2. `Go` - 7.8%
+3. `Python` - 4.04%
+4. `TypeScript` - 3.18%
+5. `Kotlin` - 0.82%
+6. `Java` - 0.49%
+7. `JavaScript` - 0.47%
+8. `C++` - 0.46%
+9. `Dockerfile` - 0.45%
+10. `Dart` - 0.29%
+11. `Shell` - 0.25%
+12. `Swift` - 0.24%
+13. `C` - 0.18%
+14. `C#` - 0.12%
+15. `Rust` - 0.11%
 16. `Makefile` - 0.08%
 17. `SCSS` - 0.04%
 18. `Svelte` - 0.04%
@@ -30,26 +30,26 @@
 
 1. [add-on](https://github.com/hieudoanm/add-on)
 2. [australia](https://github.com/hieudoanm/australia)
-3. [c-starter](https://github.com/hieudoanm/c-starter)
-4. [chess](https://github.com/hieudoanm/chess)
-5. [chess.com](https://github.com/hieudoanm/chess.com)
-6. [cs-backend-starter](https://github.com/hieudoanm/cs-backend-starter)
-7. [filebase](https://github.com/hieudoanm/filebase)
-8. [flutter-starter](https://github.com/hieudoanm/flutter-starter)
-9. [gamma](https://github.com/hieudoanm/gamma)
-10. [go-starter](https://github.com/hieudoanm/go-starter)
-11. [hieudoanm](https://github.com/hieudoanm/hieudoanm)
-12. [hieudoanm.github.io](https://github.com/hieudoanm/hieudoanm.github.io)
-13. [java-starter](https://github.com/hieudoanm/java-starter)
-14. [jupiter-notebook-starter](https://github.com/hieudoanm/jupiter-notebook-starter)
-15. [kotlin-starter](https://github.com/hieudoanm/kotlin-starter)
-16. [minh](https://github.com/hieudoanm/minh)
-17. [notebook](https://github.com/hieudoanm/notebook)
-18. [oracle-of-bacon](https://github.com/hieudoanm/oracle-of-bacon)
-19. [python-starter](https://github.com/hieudoanm/python-starter)
-20. [rust-starter](https://github.com/hieudoanm/rust-starter)
-21. [svelte-starter](https://github.com/hieudoanm/svelte-starter)
-22. [swift-starter](https://github.com/hieudoanm/swift-starter)
+3. [chess](https://github.com/hieudoanm/chess)
+4. [chess.com](https://github.com/hieudoanm/chess.com)
+5. [filebase](https://github.com/hieudoanm/filebase)
+6. [gamma](https://github.com/hieudoanm/gamma)
+7. [hieudoanm](https://github.com/hieudoanm/hieudoanm)
+8. [hieudoanm.github.io](https://github.com/hieudoanm/hieudoanm.github.io)
+9. [minh](https://github.com/hieudoanm/minh)
+10. [notebook](https://github.com/hieudoanm/notebook)
+11. [oracle](https://github.com/hieudoanm/oracle)
+12. [starter.c](https://github.com/hieudoanm/starter.c)
+13. [starter.cs](https://github.com/hieudoanm/starter.cs)
+14. [starter.dart](https://github.com/hieudoanm/starter.dart)
+15. [starter.go](https://github.com/hieudoanm/starter.go)
+16. [starter.ipynb](https://github.com/hieudoanm/starter.ipynb)
+17. [starter.java](https://github.com/hieudoanm/starter.java)
+18. [starter.kt](https://github.com/hieudoanm/starter.kt)
+19. [starter.py](https://github.com/hieudoanm/starter.py)
+20. [starter.rs](https://github.com/hieudoanm/starter.rs)
+21. [starter.svelte](https://github.com/hieudoanm/starter.svelte)
+22. [starter.swift](https://github.com/hieudoanm/starter.swift)
 23. [tablebase](https://github.com/hieudoanm/tablebase)
 24. [vi](https://github.com/hieudoanm/vi)
 25. [words](https://github.com/hieudoanm/words)
