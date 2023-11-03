@@ -1,55 +1,73 @@
-# Good Day, IM [HIEU DOAN](https://hieudoanm.github.io)
+<div align="center">
+  <h1>Good Day from <a href="https://hieudoanm.github.io">me</a></h1>
+</div>
 
-## Achievements
+## About
 
-- 🎖️ I achieved the [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a427ccdc-fc44-4874-a422-21d772e0e4b3?source=linked_in_profile) in **2021-09-11**.
+- 🍸 Building API with [Express.js](https://expressjs.com/) and [Gin](https://gin-gonic.com/)
+- 📊 Building Dashboard with [Next.js](https://nextjs.org/) and [Tailwindcss](https://tailwindcss.com)
+- 📟 Building CLI with [Golang](https://go.dev/) and [Cobra](https://cobra.dev/)
+- 👨‍💻 Building Template for [TypeScript][organisation-typescript], [Python][organisation-python] and [Go][organisation-go]
+- ♟️ [An amateur chess player](https://www.chess.com/member/thedarkknighttrilogy) and chess programming.
+- 🧠 Computational Neuroscience Enthusiast
+- 🎖️ Achieved the [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a427ccdc-fc44-4874-a422-21d772e0e4b3?source=linked_in_profile) in **2021-09-11**.
 
-## Languages
+## Techstack
 
-1. `Jupyter Notebook` - 80.92%
-2. `Go` - 7.8%
-3. `Python` - 4.04%
-4. `TypeScript` - 3.18%
-5. `Kotlin` - 0.82%
-6. `Java` - 0.49%
-7. `JavaScript` - 0.47%
-8. `C++` - 0.46%
-9. `Dockerfile` - 0.45%
-10. `Dart` - 0.29%
-11. `Shell` - 0.25%
-12. `Swift` - 0.24%
-13. `C` - 0.18%
-14. `C#` - 0.12%
-15. `Rust` - 0.11%
-16. `Makefile` - 0.08%
-17. `SCSS` - 0.04%
-18. `Svelte` - 0.04%
-19. `Solidity` - 0.04%
+<p>
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/languages/typescript.svg" alt="TypeScript" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/python.svg" alt="Python" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/java.svg" alt="Java" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/google/go.svg" alt="Go" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/dart.svg" alt="Dart" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/eslint.svg" alt="eslint" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/prettier.svg" alt="prettier" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/jest.svg" alt="jest" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/webpack.svg" alt="webpack.js" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/react.svg" alt="React" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/mobile/flutter.svg" alt="Flutter" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/nextjs.svg" alt="Next.js" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/material-ui.svg" alt="MUI" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/nodejs.svg" alt="Node.js" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/meta/apollostack.svg" alt="Apollo Stack" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/meta/graphql.svg" alt="GraphQL" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/spring.svg" alt="Spring" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/prisma.svg" alt="Prisma" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/postgresql.svg" alt="PostgreSQL" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/redis.svg" alt="Redis" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/mongodb.svg" alt="MongoDB" width="32px" height="32px" />
+</p>
 
-## Projects
+## Data Science
 
-1. [add-on](https://github.com/hieudoanm/add-on)
-2. [australia](https://github.com/hieudoanm/australia)
-3. [chess](https://github.com/hieudoanm/chess)
-4. [chess.com](https://github.com/hieudoanm/chess.com)
-5. [filebase](https://github.com/hieudoanm/filebase)
-6. [gamma](https://github.com/hieudoanm/gamma)
-7. [hieudoanm](https://github.com/hieudoanm/hieudoanm)
-8. [hieudoanm.github.io](https://github.com/hieudoanm/hieudoanm.github.io)
-9. [minh](https://github.com/hieudoanm/minh)
-10. [notebook](https://github.com/hieudoanm/notebook)
-11. [oracle](https://github.com/hieudoanm/oracle)
-12. [starter.c](https://github.com/hieudoanm/starter.c)
-13. [starter.cs](https://github.com/hieudoanm/starter.cs)
-14. [starter.dart](https://github.com/hieudoanm/starter.dart)
-15. [starter.go](https://github.com/hieudoanm/starter.go)
-16. [starter.ipynb](https://github.com/hieudoanm/starter.ipynb)
-17. [starter.java](https://github.com/hieudoanm/starter.java)
-18. [starter.kt](https://github.com/hieudoanm/starter.kt)
-19. [starter.py](https://github.com/hieudoanm/starter.py)
-20. [starter.rs](https://github.com/hieudoanm/starter.rs)
-21. [starter.svelte](https://github.com/hieudoanm/starter.svelte)
-22. [starter.swift](https://github.com/hieudoanm/starter.swift)
-23. [tablebase](https://github.com/hieudoanm/tablebase)
-24. [vi](https://github.com/hieudoanm/vi)
-25. [words](https://github.com/hieudoanm/words)
+<p>
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/numpy.svg" alt="Numpy" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/pandas.svg" alt="Pandas" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/tensorflow.svg" alt="TensorFlow" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/pytorch.svg" alt="PyTorch" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/keras.svg" alt="Keras" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/scipy.svg" alt="SciPy" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/scikit-learn.svg" alt="Scikit-learn" width="32px" height="32px" />
+</p>
+
+## DevOps
+
+<p>
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/ide/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/intellij-idea.svg" alt="IntelliJ IDEA" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/postman.svg" alt="Postman" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/git/git.svg" alt="Git" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/git/github.svg" alt="GitHub" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/devops/docker.svg" alt="Docker" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/tech/kubernetes.svg" alt="Kubernetes" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/ci/jenkins.svg" alt="Jenkins" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/aws/aws.svg" alt="AWS" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/aws/ec2.svg" alt="AWS EC2" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/aws/lambda.svg" alt="AWS Lambda" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/aws/rds.svg" alt="AWS RDS" width="32px" height="32px" />
+  <img src="https://raw.githubusercontent.com/hieudoanm/HouseOfMystery/master/svg/icons/aws/s3.svg" alt="AWS S3" width="32px" height="32px" />
+</p>
+
+[organisation-python]: https://github.com/houseofpython3
+[organisation-typescript]: https://github.com/houseoftypescript
+[organisation-go]: https://github.com/houseofgo
