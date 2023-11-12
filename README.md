@@ -24,6 +24,7 @@
     - [Languages](#languages)
       - [Markup](#markup)
       - [Programming](#programming)
+        - [Node.js](#nodejs)
       - [Query](#query)
       - [Scripting](#scripting)
     - [Software Development](#software-development)
@@ -200,12 +201,50 @@ Match these strings
   - [Python](https://www.python.org)
   - [R](https://www.r-project.org/)
 - Front-end Development
-  - [TypeScript](https://www.typescriptlang.org)
+  - [Node.js](https://nodejs.org/en)
+    - [JavaScript](https://www.javascript.com/)
+    - [TypeScript](https://www.typescriptlang.org)
 - Back-end Development
   - [Golang](https://go.dev)
   - [Java](https://www.java.com/en/)
 - Hardware Development
   - C/C++
+
+##### Node.js
+
+- `Event Loop` job is to get first function from Event `Queue` and push it to `Call Stack` - last in first out
+- `Heap` <=> `Call Stack` => `Web API` => `Queue`
+
+```javascript
+setTimeout(() => {
+  console.log('setTimeout');
+}, 0);
+
+setImmediate(() => {
+  console.log('setImmediate');
+});
+
+new Promise((resolve) => {
+  resolve();
+  console.log('resolve');
+}).then(() => {
+  console.log('then');
+});
+
+process.nextTick(() => {
+  console.log('nextTick');
+});
+
+console.log('log');
+
+// Output:
+// resolve
+// log
+// nextTick
+// then
+// setTimeout
+// setImmediate
+```
 
 #### Query
 
