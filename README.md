@@ -52,6 +52,7 @@
           - [State Management](#state-management)
       - [Back-end](#back-end)
         - [Status Codes](#status-codes)
+        - [API Architectures](#api-architectures)
         - [Back-end Frameworks](#back-end-frameworks)
         - [Security](#security)
         - [Object Relational Mapping (ORM)](#object-relational-mapping-orm)
@@ -479,13 +480,29 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
   - 510 Not Extended
   - 511 Network Authentication Required
 
+##### API Architectures
+
+- SOAP (XML)
+- RESTful (JSON)
+- GraphQL
+- gRPC (Google Remote Procedure Call)
+- WebSocket (Bi-directional)
+- WebHook (Event Driven)
+
 ##### Back-end Frameworks
 
+- Java
+  - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Node.js](https://nodejs.org/en)
-  - [express.js](https://expressjs.com/)
-  - [fastify](https://www.fastify.io/)
-  - [nest.js](https://nestjs.com/)
   - [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)
+  - [Express.js](https://expressjs.com/)
+  - [Fastify](https://www.fastify.io/)
+  - [Nest.js](https://nestjs.com/)
+  - [Socket.io](https://socket.io/)
+- Python
+  - [Django](https://www.djangoproject.com/)
+  - [FastAPI](https://fastapi.tiangolo.com/)
+  - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
 ##### Security
 
@@ -505,9 +522,12 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ##### Database
 
-- [Redis](https://redis.io/) for Caching
-- [PostgreSQL](https://www.postgresql.org/) for Relational SQL
-- [MongoDB](https://www.mongodb.com/) for NoSQL
+- Key-Value
+  - [Redis](https://redis.io/) for Caching
+- Document Oriented
+  - [MongoDB](https://www.mongodb.com/) for NoSQL
+- Relational
+  - [PostgreSQL](https://www.postgresql.org/) for Relational SQL
 
 ##### Message Broker
 
@@ -543,8 +563,12 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ##### Servers
 
-|     | nginx (Engine X) | Apache HTTP Server |
-| --- | ---------------- | ------------------ |
+|        | nginx (Engine X)     | Apache HTTP Server   |
+| ------ | -------------------- | -------------------- |
+|        | Reverse Proxy Server |                      |
+| Static | Yes                  | No                   |
+| Speed  | Faster               |                      |
+|        | URI locations        | Filesystem locations |
 
 ##### [Docker](https://www.docker.com/)
 
