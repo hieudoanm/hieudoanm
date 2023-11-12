@@ -63,6 +63,7 @@
           - [Data Visualization](#data-visualization)
           - [Machine Learning](#machine-learning)
       - [DevOps](#devops)
+        - [Servers](#servers)
         - [Docker](#docker)
         - [Platform](#platform)
           - [Serverless](#serverless)
@@ -319,10 +320,18 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ###### Client-side
 
-- Google
-  - [Angular](https://angular.io/)
-  - [AngularJS](https://angularjs.org/)
-- [React](https://react.dev/) - Meta
+|                  | [Angular](https://angular.io/) | [React](https://react.dev/) |
+| ---------------- | ------------------------------ | --------------------------- |
+| Languages        | TypeScript                     | TypeScript                  |
+| Type             | Framework                      | Library                     |
+| DOM Manipulation | Traditional DOM                | Virtual DOM                 |
+| Data Binding     | two-way                        | one-way                     |
+| HTML             | HTML with JS                   | JS with HTML (JSX)          |
+| Testing          | Jasmine                        | Jest                        |
+| Developer        | Google                         | Meta                        |
+| Learning Curve   | More Difficult                 | Easier                      |
+
+- ~~[AngularJS](https://angularjs.org/): is JavaScript based. Works on MVC. {{ }} expressions are used for two way binding between view and model. Special methods, ng-bind can also be used to do the same. Prefer a hierarchical dependency injection.~~
 - [Solid](https://www.solidjs.com/)
 - [Svelte](https://svelte.dev/) - Vercel
 - [Vue.js](https://vuejs.org/)
@@ -339,7 +348,7 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 - [Ionic](https://ionicframework.com/)
 - [NativeScript](https://nativescript.org/)
-- [React Native](https://reactnative.dev/)
+- [React Native](https://reactnative.dev/) - Meta
 
 ##### Libraries
 
@@ -493,9 +502,12 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 #### DevOps
 
-- [Docker](https://www.docker.com/)
+##### Servers
 
-##### Docker
+|     | nginx (Engine X) | Apache HTTP Server |
+| --- | ---------------- | ------------------ |
+
+##### [Docker](https://www.docker.com/)
 
 - Image Layers
   - Each layer is an image itself, just one without a human-assigned tag. They have auto-generated IDs though.
@@ -656,24 +668,24 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 #### United States
 
-| No  | University                         | Group          | City         | State         |
-| --- | ---------------------------------- | -------------- | ------------ | ------------- |
-| 01  | Brown University                   | Ivy League     | Providence   | Rhode Island  |
-| 02  | Columbia University                | Ivy League     | New York     | New York      |
-| 03  | Cornell University                 | Ivy League     | Ithaca       | New York      |
-| 04  | Dartmouth College                  | Ivy League     | Hanover      | New Hampshire |
-| 05  | Harvard University                 | Ivy League     | Cambridge    | Massachusetts |
-| 06  | University of Pennsylvania         | Ivy League     | Philadelphia | Pennsylvania  |
-| 07  | Princeton University               | Ivy League     | Princeton    | New Jersey    |
-| 08  | Yale University                    | Ivy League     | New Haven    | Connecticut   |
-| 09  | University of California           | Public School  |              | California    |
-| 10  | University of Texas                | Public School  |              | Texas         |
-| 11  | Duke University                    | Private School |              |               |
-| 12  | MIT                                | Private School |              | Massachusetts |
-| 13  | Stanford University                | Private School |              | California    |
-| 14  | Johns Hopkins University           | Private School |              |               |
-| 15  | California Institute of Technology | Private School |              | California    |
-| 16  | University of Notre Dame           | Private School |              |               |
+| No  | University                         | Group          | City         | State          |
+| --- | ---------------------------------- | -------------- | ------------ | -------------- |
+| 01  | Brown University                   | Ivy League     | Providence   | Rhode Island   |
+| 02  | Columbia University                | Ivy League     | New York     | New York       |
+| 03  | Cornell University                 | Ivy League     | Ithaca       | New York       |
+| 04  | Dartmouth College                  | Ivy League     | Hanover      | New Hampshire  |
+| 05  | Harvard University                 | Ivy League     | Cambridge    | Massachusetts  |
+| 06  | University of Pennsylvania         | Ivy League     | Philadelphia | Pennsylvania   |
+| 07  | Princeton University               | Ivy League     | Princeton    | New Jersey     |
+| 08  | Yale University                    | Ivy League     | New Haven    | Connecticut    |
+| 09  | University of California           | Public School  |              | California     |
+| 10  | University of Texas                | Public School  |              | Texas          |
+| 11  | Duke University                    | Private School | Durham       | North Carolina |
+| 12  | MIT                                | Private School |              | Massachusetts  |
+| 13  | Stanford University                | Private School |              | California     |
+| 14  | Johns Hopkins University           | Private School | Baltimore    | Maryland       |
+| 15  | California Institute of Technology | Private School |              | California     |
+| 16  | University of Notre Dame           | Private School | South Bend   | Indiana        |
 
 ### Online
 
