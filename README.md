@@ -44,9 +44,10 @@
           - [Frameworks](#frameworks)
           - [Components](#components)
         - [Front-end Frameworks](#front-end-frameworks)
-          - [Client-side](#client-side)
-          - [Server-side](#server-side)
+          - [Web Client Side Rendering (CSR)](#web-client-side-rendering-csr)
+          - [Web Server Side Rendering (SSR)](#web-server-side-rendering-ssr)
           - [Mobile](#mobile)
+          - [Desktop](#desktop)
         - [Libraries](#libraries)
           - [Charts](#charts)
           - [State Management](#state-management)
@@ -358,7 +359,7 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ##### Front-end Frameworks
 
-###### Client-side
+###### Web Client Side Rendering (CSR)
 
 |                  | [Angular](https://angular.io/) | [React](https://react.dev/) |
 | ---------------- | ------------------------------ | --------------------------- |
@@ -376,19 +377,24 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 - [Svelte](https://svelte.dev/) - Vercel
 - [Vue.js](https://vuejs.org/)
 
-###### Server-side
+###### Web Server Side Rendering (SSR)
 
 - [Gatsby.js](https://gatsbyjs.org) - Netlify
 - [Next.js](https://nextjs.org/) - Vercel
 - [Nuxt](https://nuxtjs.org/)
 - [SolidStart](https://start.solidjs.com)
-- [SvelteKit](https://kit.svelte.dev/) - Vercel
+- [SvelteKit](https://kit.svelte.dev/)
 
 ###### Mobile
 
+- [Flutter](https://flutter.dev/)
 - [Ionic](https://ionicframework.com/)
 - [NativeScript](https://nativescript.org/)
 - [React Native](https://reactnative.dev/) - Meta
+
+###### Desktop
+
+- [Electron](https://www.electronjs.org/)
 
 ##### Libraries
 
