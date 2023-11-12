@@ -22,9 +22,10 @@
         - [Anchors](#anchors)
         - [Review](#review)
     - [Languages](#languages)
-      - [Markup Languages](#markup-languages)
+      - [Markup](#markup)
       - [Programming](#programming)
-      - [Query Languages](#query-languages)
+      - [Query](#query)
+      - [Scripting](#scripting)
     - [Software Development](#software-development)
       - [Development Tools](#development-tools)
         - [Version Control](#version-control)
@@ -185,7 +186,7 @@ Match these strings
 
 ### Languages
 
-#### Markup Languages
+#### Markup
 
 - Markdown
 - SVG (Scalable Vector Graphics)
@@ -197,15 +198,20 @@ Match these strings
   - [R](https://www.r-project.org/)
 - Front-end Development
   - [TypeScript](https://www.typescriptlang.org)
-- Back-end Developmene
+- Back-end Development
   - [Golang](https://go.dev)
   - [Java](https://www.java.com/en/)
 - Hardware Development
   - C/C++
 
-#### Query Languages
+#### Query
 
+- [GraphQL](https://graphql.org/) (Graph Query Language)
 - SQL (Structured Query Language)
+
+#### Scripting
+
+- Shell Scripts
 
 ### Software Development
 
@@ -724,5 +730,5 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ### Investment Management
 
-- BlackRock
-- BlackStone
+- BlackRock (Index Fund)
+- BlackStone (Private Equity)
