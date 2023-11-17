@@ -25,35 +25,18 @@
       - [Markup](#markup)
       - [Programming](#programming)
         - [Node.js](#nodejs)
-      - [Query](#query)
-      - [Scripting](#scripting)
-    - [Software Development](#software-development)
-      - [Development Tools](#development-tools)
-        - [Version Control](#version-control)
-        - [Linters and Formatters](#linters-and-formatters)
-      - [Front-end](#front-end)
-        - [Front-end Frameworks](#front-end-frameworks)
-          - [Web Client Side Rendering (CSR)](#web-client-side-rendering-csr)
-        - [Libraries](#libraries)
-      - [Back-end](#back-end)
+        - [Agular vs React](#agular-vs-react)
         - [Status Codes](#status-codes)
         - [API Architectures](#api-architectures)
-        - [Back-end Frameworks](#back-end-frameworks)
-      - [DevOps](#devops)
         - [Servers](#servers)
         - [Docker](#docker)
         - [Platform](#platform)
-          - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
-      - [Tools](#tools)
-        - [Diagrams](#diagrams)
-    - [Hardware Development](#hardware-development)
-      - [Electronics](#electronics)
+    - [Techstack](#techstack)
+      - [Popular](#popular)
+      - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
   - [Education](#education)
     - [Universities](#universities)
     - [Online](#online)
-      - [Blogs](#blogs)
-      - [Coding Exercises](#coding-exercises)
-      - [Courses](#courses)
   - [Companies](#companies)
 
 ## Technology
@@ -197,39 +180,7 @@ console.log('log');
 // setImmediate
 ```
 
-#### Query
-
-- [GraphQL](https://graphql.org/) (Graph Query Language)
-- SQL (Structured Query Language)
-
-#### Scripting
-
-- Shell Scripts
-
-### Software Development
-
-#### Development Tools
-
-##### Version Control
-
-- [Git](https://git-scm.com/)
-
-##### Linters and Formatters
-
-1. [husky](https://typicode.github.io/husky/#/) - Modern native Git hooks made easy
-
-```sh
-yarn add --dev --exact husky eslint prettier
-yarn eslint --init
-yarn husky install
-yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
-```
-
-#### Front-end
-
-##### Front-end Frameworks
-
-###### Web Client Side Rendering (CSR)
+##### Agular vs React
 
 |                  | [Angular](https://angular.io/) | [React](https://react.dev/) |
 | ---------------- | ------------------------------ | --------------------------- |
@@ -243,10 +194,6 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 | Learning Curve   | More Difficult                 | Easier                      |
 
 - ~~[AngularJS](https://angularjs.org/): is JavaScript based. Works on MVC. {{ }} expressions are used for two way binding between view and model. Special methods, ng-bind can also be used to do the same. Prefer a hierarchical dependency injection.~~
-
-##### Libraries
-
-#### Back-end
 
 ##### Status Codes
 
@@ -325,142 +272,6 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 - WebSocket (Bi-directional)
 - WebHook (Event Driven)
 
-##### Back-end Frameworks
-
-CLI: Command-line Interface
-e2e: End to End
-ORM: Object Relational Mapping
-
-| No  | Development  | Supersector                       | Sector              | Subsector         | URL                                                                     | Usage   | Developer |
-| --- | ------------ | --------------------------------- | ------------------- | ----------------- | ----------------------------------------------------------------------- | ------- | --------- |
-|     | Full-stack   |                                   | Language            |                   | C                                                                       |         |           |
-|     | Full-stack   |                                   | Language            |                   | C++                                                                     |         |           |
-|     | Full-stack   |                                   | Language            |                   | C#                                                                      |         | Microsoft |
-|     | Full-stack   |                                   | Language            |                   | [Golang](https://go.dev)                                                |         | Google    |
-|     | Full-stack   |                                   | Language            |                   | [Java](https://www.java.com/en/)                                        |         | Oracle    |
-|     | Full-stack   |                                   | Language            |                   | [Python](https://www.python.org)                                        |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Language            |                   | [JavaScript](https://www.javascript.com/)                               |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Language            |                   | [TypeScript](https://www.typescriptlang.org)                            |         | Microsoft |
-|     | Full-stack   | [Golang](https://go.dev/)         | Package Manager     |                   | [Go Packages](https://pkg.go.dev/)                                      |         | Google    |
-|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                   | [Gradle](https://gradle.org/)                                           |         |           |
-|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                   | [JFrog](https://jfrog.com/)                                             |         |           |
-|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                   | [Maven](https://maven.apache.org/)                                      |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                   | [npm](https://www.npmjs.com/)                                           |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                   | [pnpm](https://pnpm.io/)                                                |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                   | [yarn](https://yarnpkg.com/)                                            |         |           |
-|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [anaconda](https://www.anaconda.com/)                                   |         |           |
-|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [conda](https://docs.conda.io/en/latest/)                               |         |           |
-|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [pip](https://pypi.org/project/pip/)                                    |         |           |
-|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [pipenv](https://pipenv.pypa.io/en/latest/)                             |         |           |
-|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [virtualenv](https://virtualenv.pypa.io/en/latest/)                     |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                   | [npmlog](https://github.com/npm/npmlog)                                 |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                   | [pino](https://getpino.io)                                              |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                   | [winston](https://github.com/winstonjs)                                 |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Linting & Formatter | Linting           | [eslint](https://eslint.org)                                            |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Linting & Formatter | Formatter         | [prettier](https://prettier.io)                                         |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Build               |                   | [webpack](https://webpack.js.org/)                                      |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit              | [jasmine](https://jasmine.github.io/)                                   |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit              | [jest](http://jestjs.io/)                                               |         | Meta      |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit              | [mocha](https://mochajs.org/)                                           |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | CLI                 |                   | [vite](https://vitejs.dev/)                                             |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML  | [docsify](https://docsify.js.org/#/)                                    |         |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML  | [docusaurus](https://docusaurus.io/)                                    |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Extension     | [PostCSS](https://postcss.org/)                                         |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Extension     | [SASS](https://sass-lang.com/)                                          |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework     | [Bootstrap](https://getbootstrap.com/)                                  |         | Twitter   |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework     | [Materialize CSS](https://materializecss.com/)                          |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework     | [TailwindCSS](https://tailwindcss.com/)                                 |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [Ant Design](https://ant.design/)                                       |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [Chakra UI](https://chakra-ui.com)                                      |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [TailwindUI](https://tailwindui.com/)                                   |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [Theme UI](https://theme-ui.com/)                                       |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [MUI](https://mui.com)                                                  |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [NextUI](https://nextui.org/)                                           |         | Vercel    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | Documentation     | [storybook](https://storybook.js.org/)                                  |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | ~~[AngularJS](https://angularjs.org/)~~                                 |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Angular](https://angular.io/)                                          |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [React](https://react.dev/)                                             |         | Meta      |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Solid](https://www.solidjs.com/)                                       |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Svelte](https://svelte.dev/)                                           |         | Vercel    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Vue.js](https://vuejs.org/)                                            |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [Gatsby.js](https://gatsbyjs.org)                                       |         | Netlify   |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [Next.js](https://nextjs.org/)                                          |         | Vercel    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [Nuxt](https://nuxtjs.org/)                                             |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [SolidStart](https://start.solidjs.com)                                 |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [SvelteKit](https://kit.svelte.dev/)                                    |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [Flutter](https://flutter.dev/)                                         |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [Ionic](https://ionicframework.com/)                                    |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [NativeScript](https://nativescript.org/)                               |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [React Native](https://reactnative.dev/)                                |         | Meta      |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Desktop           | [Electron](https://www.electronjs.org/)                                 |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e               | [cypress](https://www.cypress.io/)                                      |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e               | [karma](https://karma-runner.github.io)                                 |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e               | [playwright](https://playwright.dev/)                                   |         | Microsoft |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Charts.js](https://www.chartjs.org/)                                   |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Chartist.js](https://gionkunz.github.io/chartist-js/)                  |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [D3.js](https://d3js.org/)                                              |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Google Chart](https://developers.google.com/chart)                     |         | Google    |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Highcharts](https://www.highcharts.com/)                               |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               | React             | [Recharts](https://recharts.org/)                                       |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React             | [Redux](https://redux.js.org/)                                          |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React             | [Redux Saga](https://redux-saga.js.org/)                                |         |           |
-|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React             | [Redux Thunk](https://www.npmjs.com/package/redux-thunk)                |         |           |
-|     | Mobile       |                                   | Language            |                   | [Kotlin](https://kotlinlang.org/)                                       |         | JetBrains |
-|     | Mobile       |                                   | Language            |                   | [Swift](https://developer.apple.com/swift/)                             |         | Apple     |
-|     | Back-end     | [Java](https://www.java.com/en/)  | Framework           |                   | [Spring Boot](https://spring.io/projects/spring-boot)                   |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | GraphQL           | [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)     |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                   | [Express.js](https://expressjs.com/)                                    |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                   | [Fastify](https://www.fastify.io/)                                      |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                   | [Nest.js](https://nestjs.com/)                                          |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | WebSocket         | [Socket.io](https://socket.io/)                                         |         |           |
-|     | Back-end     | [Python](https://www.python.org/) | Framework           |                   | [Django](https://www.djangoproject.com/)                                |         |           |
-|     | Back-end     | [Python](https://www.python.org/) | Framework           |                   | [FastAPI](https://fastapi.tiangolo.com/)                                |         |           |
-|     | Back-end     | [Python](https://www.python.org/) | Framework           |                   | [Flask](https://flask.palletsprojects.com/en/3.0.x/)                    |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Authentication    | [jsonwebtoken](https://jwt.io/)                                         |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Authentication    | [passport](https://www.passportjs.org/)                                 |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Protection        | [cors](https://github.com/expressjs/cors)                               |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Protection        | [helmet](https://helmetjs.github.io/)                                   |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | Swagger             | Documentation     | [tsoa](https://tsoa-community.github.io/docs/)                          |         |           |
-|     | Back-end     |                                   | Database            | Key-Value         | [Redis](https://redis.io/)                                              | Caching |           |
-|     | Back-end     |                                   | Database            | Key-Value         | [Memcached](https://memcached.org/)                                     | Caching |           |
-|     | Back-end     |                                   | Database            | Wide Column       | [Cassandra](https://cassandra.apache.org/)                              | NoSQL   | Apache    |
-|     | Back-end     |                                   | Database            | Wide Column       | [HBase](https://hbase.apache.org/)                                      | NoSQL   | Apache    |
-|     | Back-end     |                                   | Database            | Document Oriented | [MongoDB](https://www.mongodb.com/)                                     | NoSQL   |           |
-|     | Back-end     |                                   | Database            | Document Oriented | [CouchDB](https://couchdb.apache.org/)                                  | NoSQL   | Apache    |
-|     | Back-end     |                                   | Database            | Relational        | [PostgreSQL](https://www.postgresql.org/)                               | SQL     |           |
-|     | Back-end     |                                   | Database            | Relational        | [MySQL](https://www.mysql.com/)                                         | SQL     |           |
-|     | Back-end     |                                   | Database            | Relational        | [CockroachDB](https://www.cockroachlabs.com/)                           | SQL     |           |
-|     | Back-end     |                                   | Database            | Relational        | [SQLite](https://www.sqlite.org/)                                       | SQL     |           |
-|     | Back-end     |                                   | Database            | Graph             | [neo4j](https://neo4j.com/)                                             |         |           |
-|     | Back-end     |                                   | Database            | Search Engine     | [elasticsearch](https://www.elastic.co/elasticsearch)                   |         | Elastic   |
-|     | Back-end     |                                   | Database            | Multi Model       | [FaunaDB](https://fauna.com/)                                           |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [Mongoose](https://mongoosejs.com/)                                     | NoSQL   |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [Prisma](https://www.prisma.io/)                                        |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [Sequelize](https://sequelize.org/)                                     |         |           |
-|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [TypeORM](https://typeorm.io/)                                          |         |           |
-|     | Back-end     |                                   | Message Broker      |                   | [ActiveMQ](https://activemq.apache.org/)                                |         | Apache    |
-|     | Back-end     |                                   | Message Broker      |                   | [Kafka](https://kafka.apache.org/)                                      |         | Apache    |
-|     | Back-end     |                                   | Message Broker      |                   | [RabbitMQ](https://www.rabbitmq.com/)                                   |         |           |
-|     | Data Science |                                   | Language            |                   | [R](https://www.r-project.org/)                                         |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Data Collection     |                   | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Data Collection     |                   | [scrapy](https://scrapy.org/)                                           |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Data Exploration    |                   | [pandas](https://pandas.pydata.org/)                                    |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Data Exploration    |                   | [numpy](https://numpy.org/)                                             |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Data Visualization  |                   | [matplotlib](https://matplotlib.org/)                                   |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [keras](https://keras.io/)                                              |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [pytorch](https://pytorch.org/)                                         |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [scikit-learn](https://scikit-learn.org/stable/)                        |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [scipy](https://scipy.org/)                                             |         |           |
-|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [tensorflow](https://www.tensorflow.org/)                               |         | Google    |
-|     | DevOps       |                                   | SaaS                | Version Control   | [GitHub](https://github.com/)                                           |         |           |
-|     | DevOps       |                                   | SaaS                | Version Control   | [GitLab](https://about.gitlab.com/)                                     |         |           |
-|     | DevOps       |                                   | Serverless          |                   | [Netlify](https://www.netlify.com/)                                     |         |           |
-|     | DevOps       |                                   | Serverless          |                   | [Vercel](https://vercel.com)                                            |         |           |
-|     | DevOps       |                                   | PaaS                |                   | [heroku](https://www.heroku.com/)                                       |         |           |
-|     | DevOps       |                                   | PaaS                |                   | [render](https://render.com/)                                           |         |           |
-
-#### DevOps
-
 ##### Servers
 
 |        | nginx (Engine X)     | Apache HTTP Server   |
@@ -486,7 +297,152 @@ ORM: Object Relational Mapping
 
 ##### Platform
 
-###### IaaS (Infrastructure as a Service)
+### Techstack
+
+#### Popular
+
+CLI: Command-line Interface
+e2e: End to End
+ORM: Object Relational Mapping
+
+| No  | Development  | Supersector                       | Sector              | Subsector                   | URL                                                                     | Usage   | Developer |
+| --- | ------------ | --------------------------------- | ------------------- | --------------------------- | ----------------------------------------------------------------------- | ------- | --------- |
+|     | Full-stack   |                                   | Language            |                             | C                                                                       |         |           |
+|     | Full-stack   |                                   | Language            |                             | C++                                                                     |         |           |
+|     | Full-stack   |                                   | Language            |                             | C#                                                                      |         | Microsoft |
+|     | Full-stack   |                                   | Language            |                             | [Golang](https://go.dev)                                                |         | Google    |
+|     | Full-stack   |                                   | Language            |                             | [Java](https://www.java.com/en/)                                        |         | Oracle    |
+|     | Full-stack   |                                   | Language            |                             | [Python](https://www.python.org)                                        |         |           |
+|     | Full-stack   |                                   | Language            |                             | [Shell Script](https://www.shellscript.sh/)                             |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Language            |                             | [JavaScript](https://www.javascript.com/)                               |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Language            |                             | [TypeScript](https://www.typescriptlang.org)                            |         | Microsoft |
+|     | Full-stack   | [Golang](https://go.dev/)         | Package Manager     |                             | [Go Packages](https://pkg.go.dev/)                                      |         | Google    |
+|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                             | [Gradle](https://gradle.org/)                                           |         |           |
+|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                             | [JFrog](https://jfrog.com/)                                             |         |           |
+|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                             | [Maven](https://maven.apache.org/)                                      |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                             | [npm](https://www.npmjs.com/)                                           |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                             | [pnpm](https://pnpm.io/)                                                |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                             | [yarn](https://yarnpkg.com/)                                            |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                             | [anaconda](https://www.anaconda.com/)                                   |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                             | [conda](https://docs.conda.io/en/latest/)                               |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                             | [pip](https://pypi.org/project/pip/)                                    |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                             | [pipenv](https://pipenv.pypa.io/en/latest/)                             |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                             | [virtualenv](https://virtualenv.pypa.io/en/latest/)                     |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                             | [npmlog](https://github.com/npm/npmlog)                                 |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                             | [pino](https://getpino.io)                                              |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                             | [winston](https://github.com/winstonjs)                                 |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Linting & Formatter | Linting                     | [eslint](https://eslint.org)                                            |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Linting & Formatter | Formatter                   | [prettier](https://prettier.io)                                         |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Build               |                             | [webpack](https://webpack.js.org/)                                      |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit                        | [jasmine](https://jasmine.github.io/)                                   |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit                        | [jest](http://jestjs.io/)                                               |         | Meta      |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit                        | [mocha](https://mochajs.org/)                                           |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Git Hooks           |                             | [husky](https://typicode.github.io/husky/#/)                            |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | CLI                 |                             | [vite](https://vitejs.dev/)                                             |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML            | [docsify](https://docsify.js.org/#/)                                    |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML            | [docusaurus](https://docusaurus.io/)                                    |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Extension               | [PostCSS](https://postcss.org/)                                         |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Extension               | [SASS](https://sass-lang.com/)                                          |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework               | [Bootstrap](https://getbootstrap.com/)                                  |         | Twitter   |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework               | [Materialize CSS](https://materializecss.com/)                          |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework               | [TailwindCSS](https://tailwindcss.com/)                                 |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components              | [Ant Design](https://ant.design/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components              | [Chakra UI](https://chakra-ui.com)                                      |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components              | [TailwindUI](https://tailwindui.com/)                                   |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components              | [Theme UI](https://theme-ui.com/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components              | [MUI](https://mui.com)                                                  |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components              | [NextUI](https://nextui.org/)                                           |         | Vercel    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | Documentation               | [storybook](https://storybook.js.org/)                                  |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client                      | ~~[AngularJS](https://angularjs.org/)~~                                 |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client                      | [Angular](https://angular.io/)                                          |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client                      | [React](https://react.dev/)                                             |         | Meta      |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client                      | [Solid](https://www.solidjs.com/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client                      | [Svelte](https://svelte.dev/)                                           |         | Vercel    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client                      | [Vue.js](https://vuejs.org/)                                            |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server                      | [Gatsby.js](https://gatsbyjs.org)                                       |         | Netlify   |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server                      | [Next.js](https://nextjs.org/)                                          |         | Vercel    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server                      | [Nuxt](https://nuxtjs.org/)                                             |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server                      | [SolidStart](https://start.solidjs.com)                                 |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server                      | [SvelteKit](https://kit.svelte.dev/)                                    |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid                      | [Flutter](https://flutter.dev/)                                         |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid                      | [Ionic](https://ionicframework.com/)                                    |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid                      | [NativeScript](https://nativescript.org/)                               |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid                      | [React Native](https://reactnative.dev/)                                |         | Meta      |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Desktop                     | [Electron](https://www.electronjs.org/)                                 |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e                         | [cypress](https://www.cypress.io/)                                      |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e                         | [karma](https://karma-runner.github.io)                                 |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e                         | [playwright](https://playwright.dev/)                                   |         | Microsoft |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                             | [Charts.js](https://www.chartjs.org/)                                   |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                             | [Chartist.js](https://gionkunz.github.io/chartist-js/)                  |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                             | [D3.js](https://d3js.org/)                                              |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                             | [Google Chart](https://developers.google.com/chart)                     |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                             | [Highcharts](https://www.highcharts.com/)                               |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               | React                       | [Recharts](https://recharts.org/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React                       | [Redux](https://redux.js.org/)                                          |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React                       | [Redux Saga](https://redux-saga.js.org/)                                |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React                       | [Redux Thunk](https://www.npmjs.com/package/redux-thunk)                |         |           |
+|     | Mobile       |                                   | Language            |                             | [Kotlin](https://kotlinlang.org/)                                       |         | JetBrains |
+|     | Mobile       |                                   | Language            |                             | [Swift](https://developer.apple.com/swift/)                             |         | Apple     |
+|     | Back-end     | [Java](https://www.java.com/en/)  | Framework           |                             | [Spring Boot](https://spring.io/projects/spring-boot)                   |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | GraphQL                     | [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)     |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                             | [Express.js](https://expressjs.com/)                                    |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                             | [Fastify](https://www.fastify.io/)                                      |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                             | [Nest.js](https://nestjs.com/)                                          |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | WebSocket                   | [Socket.io](https://socket.io/)                                         |         |           |
+|     | Back-end     | [Python](https://www.python.org/) | Framework           |                             | [Django](https://www.djangoproject.com/)                                |         |           |
+|     | Back-end     | [Python](https://www.python.org/) | Framework           |                             | [FastAPI](https://fastapi.tiangolo.com/)                                |         |           |
+|     | Back-end     | [Python](https://www.python.org/) | Framework           |                             | [Flask](https://flask.palletsprojects.com/en/3.0.x/)                    |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Authentication              | [jsonwebtoken](https://jwt.io/)                                         |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Authentication              | [passport](https://www.passportjs.org/)                                 |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Protection                  | [cors](https://github.com/expressjs/cors)                               |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Protection                  | [helmet](https://helmetjs.github.io/)                                   |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Swagger             | Documentation               | [tsoa](https://tsoa-community.github.io/docs/)                          |         |           |
+|     | Back-end     | Database                          | Language            |                             | [GraphQL](https://graphql.org/)                                         |         |           |
+|     | Back-end     | Database                          | Language            |                             | SQL (Structured Query Language)                                         |         |           |
+|     | Back-end     | Database                          | Paradigm            | Key-Value                   | [Redis](https://redis.io/)                                              | Caching |           |
+|     | Back-end     | Database                          | Paradigm            | Key-Value                   | [Memcached](https://memcached.org/)                                     | Caching |           |
+|     | Back-end     | Database                          | Paradigm            | Wide Column                 | [Cassandra](https://cassandra.apache.org/)                              | NoSQL   | Apache    |
+|     | Back-end     | Database                          | Paradigm            | Wide Column                 | [HBase](https://hbase.apache.org/)                                      | NoSQL   | Apache    |
+|     | Back-end     | Database                          | Paradigm            | Document Oriented           | [MongoDB](https://www.mongodb.com/)                                     | NoSQL   |           |
+|     | Back-end     | Database                          | Paradigm            | Document Oriented           | [CouchDB](https://couchdb.apache.org/)                                  | NoSQL   | Apache    |
+|     | Back-end     | Database                          | Paradigm            | Relational                  | [PostgreSQL](https://www.postgresql.org/)                               | SQL     |           |
+|     | Back-end     | Database                          | Paradigm            | Relational                  | [MySQL](https://www.mysql.com/)                                         | SQL     |           |
+|     | Back-end     | Database                          | Paradigm            | Relational                  | [CockroachDB](https://www.cockroachlabs.com/)                           | SQL     |           |
+|     | Back-end     | Database                          | Paradigm            | Relational                  | [SQLite](https://www.sqlite.org/)                                       | SQL     |           |
+|     | Back-end     | Database                          | Paradigm            | Graph                       | [neo4j](https://neo4j.com/)                                             |         |           |
+|     | Back-end     | Database                          | Paradigm            | Search Engine               | [elasticsearch](https://www.elastic.co/elasticsearch)                   |         | Elastic   |
+|     | Back-end     | Database                          | Paradigm            | Multi Model                 | [FaunaDB](https://fauna.com/)                                           |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                             | [Mongoose](https://mongoosejs.com/)                                     | NoSQL   |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                             | [Prisma](https://www.prisma.io/)                                        |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                             | [Sequelize](https://sequelize.org/)                                     |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                             | [TypeORM](https://typeorm.io/)                                          |         |           |
+|     | Back-end     |                                   | Message Broker      |                             | [ActiveMQ](https://activemq.apache.org/)                                |         | Apache    |
+|     | Back-end     |                                   | Message Broker      |                             | [Kafka](https://kafka.apache.org/)                                      |         | Apache    |
+|     | Back-end     |                                   | Message Broker      |                             | [RabbitMQ](https://www.rabbitmq.com/)                                   |         |           |
+|     | Data Science |                                   | Language            |                             | [R](https://www.r-project.org/)                                         |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Collection     |                             | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Collection     |                             | [scrapy](https://scrapy.org/)                                           |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Exploration    |                             | [pandas](https://pandas.pydata.org/)                                    |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Exploration    |                             | [numpy](https://numpy.org/)                                             |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Visualization  |                             | [matplotlib](https://matplotlib.org/)                                   |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [keras](https://keras.io/)                                              |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [pytorch](https://pytorch.org/)                                         |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [scikit-learn](https://scikit-learn.org/stable/)                        |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [scipy](https://scipy.org/)                                             |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [tensorflow](https://www.tensorflow.org/)                               |         | Google    |
+|     | Operations   |                                   | SaaS                | [Git](https://git-scm.com/) | [GitHub](https://github.com/)                                           |         |           |
+|     | Operations   |                                   | SaaS                | [Git](https://git-scm.com/) | [GitLab](https://about.gitlab.com/)                                     |         |           |
+|     | Operations   |                                   | SaaS                | Diagrams                    | [Diagrams](https://www.diagrams.net/)                                   |         |           |
+|     | Operations   |                                   | SaaS                | Diagrams                    | [Sequence Diagram](https://sequencediagram.org/)                        |         |           |
+|     | Operations   |                                   | Serverless          |                             | [Netlify](https://www.netlify.com/)                                     |         |           |
+|     | Operations   |                                   | Serverless          |                             | [Vercel](https://vercel.com)                                            |         |           |
+|     | Operations   |                                   | PaaS                |                             | [heroku](https://www.heroku.com/)                                       |         |           |
+|     | Operations   |                                   | PaaS                |                             | [render](https://render.com/)                                           |         |           |
+|     | Hardware     |                                   | Framework           |                             | [Qt](https://www.qt.io/)                                                |         |           |
+|     | Hardware     |                                   | Electronics         |                             | [Arduino](https://www.arduino.cc/)                                      |         |           |
+|     | Hardware     |                                   | Electronics         |                             | [Raspberry PI](https://www.raspberrypi.com/)                            |         |           |
+
+#### IaaS (Infrastructure as a Service)
 
 | IaaS            |                                          | Amazon Web Services (AWS)           | Azure                                    | Google Cloud                | Digital Ocean               |
 | --------------- | ---------------------------------------- | ----------------------------------- | ---------------------------------------- | --------------------------- | --------------------------- | --- |
@@ -529,22 +485,6 @@ ORM: Object Relational Mapping
 |                 | Integrated Development Environment (IDE) |                                     | Visual Studio                            |                             |                             |
 |                 |                                          |                                     | Visual Studio Code                       |                             |                             |
 
-#### Tools
-
-##### Diagrams
-
-- [Diagrams](https://www.diagrams.net/)
-- [Sequence Diagram](https://sequencediagram.org/)
-
-### Hardware Development
-
-- [Qt](https://www.qt.io/)
-
-#### Electronics
-
-- [Arduino](https://www.arduino.cc/)
-- [Raspberry PI](https://www.raspberrypi.com/)
-
 ## Education
 
 ### Universities
@@ -577,30 +517,30 @@ ORM: Object Relational Mapping
 | 24  |                | Singapore      |                              |              | National University of Singapore (NUS) |
 | 25  |                | Singapore      |                              |              | Duke - NUS Medical School              |
 | 26  |                | Singapore      |                              |              | Yale - NUS College                     |
-| 27  | Russell        | United Kingdom | England                      | Cambridge    | University of Cambridge                |
-| 28  | Russell        | United Kingdom | England                      | Oxford       | University of Oxford                   |
-| 29  | Russell        | United Kingdom | England                      | London       | Imperial College London                |
-| 30  | Russell        | United Kingdom | England                      | London       | King's College London                  |
-| 31  | Russell        | United Kingdom | England                      | London       | London School of Economics             |
-| 32  | Russell        | United Kingdom | England                      | London       | Queen Mary University of London        |
-| 33  | Russell        | United Kingdom | England                      | London       | University College London              |
-| 34  | Russell        | United Kingdom | England                      | Birmingham   | University of Birmingham               |
-| 35  | Russell        | United Kingdom | England                      | Bristol      | University of Bristol                  |
-| 36  | Russell        | United Kingdom | England                      | Durham       | Durham University                      |
-| 37  | Russell        | United Kingdom | England                      | Exeter       | University of Exeter                   |
-| 38  | Russell        | United Kingdom | England                      | Leeds        | University of Leeds                    |
-| 39  | Russell        | United Kingdom | England                      | Liverpool    | University of Liverpool                |
-| 40  | Russell        | United Kingdom | England                      | Manchester   | University of Manchester               |
-| 41  | Russell        | United Kingdom | England                      | Newcastle    | Newcastle University                   |
-| 42  | Russell        | United Kingdom | England                      | Nottingham   | University of Nottingham               |
-| 43  | Russell        | United Kingdom | England                      | Sheffield    | University of Sheffield                |
-| 44  | Russell        | United Kingdom | England                      | Southampton  | University of Southampton              |
-| 45  | Russell        | United Kingdom | England                      | Coventry     | University of Warwick                  |
-| 46  | Russell        | United Kingdom | England                      | York         | University of York                     |
-| 47  | Russell        | United Kingdom | Northern Ireland             | Belfast      | Queen's University Belfast             |
-| 48  | Russell        | United Kingdom | Scotland                     | Edinburgh    | University of Edinburgh                |
-| 49  | Russell        | United Kingdom | Scotland                     | Glasgow      | University of Glasgow                  |
-| 50  | Russell        | United Kingdom | Wales                        | Cardiff      | Cardiff University                     |
+| 27  | Russell Group  | United Kingdom | England                      | Cambridge    | University of Cambridge                |
+| 28  | Russell Group  | United Kingdom | England                      | Oxford       | University of Oxford                   |
+| 29  | Russell Group  | United Kingdom | England                      | London       | Imperial College London                |
+| 30  | Russell Group  | United Kingdom | England                      | London       | King's College London                  |
+| 31  | Russell Group  | United Kingdom | England                      | London       | London School of Economics             |
+| 32  | Russell Group  | United Kingdom | England                      | London       | Queen Mary University of London        |
+| 33  | Russell Group  | United Kingdom | England                      | London       | University College London              |
+| 34  | Russell Group  | United Kingdom | England                      | Birmingham   | University of Birmingham               |
+| 35  | Russell Group  | United Kingdom | England                      | Bristol      | University of Bristol                  |
+| 36  | Russell Group  | United Kingdom | England                      | Durham       | Durham University                      |
+| 37  | Russell Group  | United Kingdom | England                      | Exeter       | University of Exeter                   |
+| 38  | Russell Group  | United Kingdom | England                      | Leeds        | University of Leeds                    |
+| 39  | Russell Group  | United Kingdom | England                      | Liverpool    | University of Liverpool                |
+| 40  | Russell Group  | United Kingdom | England                      | Manchester   | University of Manchester               |
+| 41  | Russell Group  | United Kingdom | England                      | Newcastle    | Newcastle University                   |
+| 42  | Russell Group  | United Kingdom | England                      | Nottingham   | University of Nottingham               |
+| 43  | Russell Group  | United Kingdom | England                      | Sheffield    | University of Sheffield                |
+| 44  | Russell Group  | United Kingdom | England                      | Southampton  | University of Southampton              |
+| 45  | Russell Group  | United Kingdom | England                      | Coventry     | University of Warwick                  |
+| 46  | Russell Group  | United Kingdom | England                      | York         | University of York                     |
+| 47  | Russell Group  | United Kingdom | Northern Ireland             | Belfast      | Queen's University Belfast             |
+| 48  | Russell Group  | United Kingdom | Scotland                     | Edinburgh    | University of Edinburgh                |
+| 49  | Russell Group  | United Kingdom | Scotland                     | Glasgow      | University of Glasgow                  |
+| 50  | Russell Group  | United Kingdom | Wales                        | Cardiff      | Cardiff University                     |
 | 51  | Ivy League     | United States  | Rhode Island                 | Providence   | Brown University                       |
 | 52  | Ivy League     | United States  | New York                     | New York     | Columbia University                    |
 | 53  | Ivy League     | United States  | New York                     | Ithaca       | Cornell University                     |
@@ -620,31 +560,25 @@ ORM: Object Relational Mapping
 
 ### Online
 
-#### Blogs
-
-- [Baeldung](https://www.baeldung.com/)
-- [dev.to](https://dev.to/)
-- [roadmap](https://roadmap.sh)
-
-#### Coding Exercises
-
-- [CodeWars](https://www.codewars.com/)
-- [Codility](https://www.codility.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [LeetCode](https://leetcode.com/)
-- [NeetCode](https://neetcode.io/)
-
-#### Courses
-
-- [A Cloud Guru](https://acloudguru.com/)
-- [Codecademy](https://www.codecademy.com/)
-- [Coursera](https://www.coursera.org/)
-- [DataCamp](https://www.datacamp.com/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Harvard](https://pll.harvard.edu/)
-- [PluralSight](https://www.pluralsight.com/)
-- [Udacity](https://www.udacity.com/)
-- [Udemy](https://www.udemy.com/)
+|                  |                                               |
+| ---------------- | --------------------------------------------- |
+| Resources        | [Baeldung](https://www.baeldung.com/)         |
+| Resources        | [dev.to](https://dev.to/)                     |
+| Resources        | [roadmap](https://roadmap.sh)                 |
+| Coding Exercises | [Codecademy](https://www.codecademy.com/)     |
+| Coding Exercises | [CodeWars](https://www.codewars.com/)         |
+| Coding Exercises | [Codility](https://www.codility.com/)         |
+| Coding Exercises | [HackerRank](https://www.hackerrank.com/)     |
+| Coding Exercises | [LeetCode](https://leetcode.com/)             |
+| Coding Exercises | [NeetCode](https://neetcode.io/)              |
+| Online Courses   | [A Cloud Guru](https://acloudguru.com/)       |
+| Online Courses   | [Coursera](https://www.coursera.org/)         |
+| Online Courses   | [DataCamp](https://www.datacamp.com/)         |
+| Online Courses   | [FreeCodeCamp](https://www.freecodecamp.org/) |
+| Online Courses   | [Harvard](https://pll.harvard.edu/)           |
+| Online Courses   | [PluralSight](https://www.pluralsight.com/)   |
+| Online Courses   | [Udacity](https://www.udacity.com/)           |
+| Online Courses   | [Udemy](https://www.udemy.com/)               |
 
 ## Companies
 
