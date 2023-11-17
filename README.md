@@ -274,7 +274,7 @@ ORM: Object Relational Mapping
 
 ### Online
 
-|                  |                                               |
+| Category         | Name                                          |
 | ---------------- | --------------------------------------------- |
 | Resources        | [Baeldung](https://www.baeldung.com/)         |
 | Resources        | [dev.to](https://dev.to/)                     |
@@ -298,10 +298,15 @@ ORM: Object Relational Mapping
 
 | Category                   | Company                                                | Location                                 | Product        |
 | -------------------------- | ------------------------------------------------------ | ---------------------------------------- | -------------- |
-|                            | [Alphabet](http://alphabet.com/)                       |                                          |                |
-|                            | [Amazon](https://www.amazon.com/)                      |                                          |                |
-|                            | [Meta](https://www.meta.com/)                          |                                          |                |
-|                            | [Microsoft](https://www.microsoft.com)                 |                                          |                |
+| Big Tech                   | [Alphabet](http://alphabet.com/)                       |                                          | Software Dev   |
+| Big Tech                   | [Amazon](https://www.amazon.com/)                      |                                          | Software Dev   |
+| Big Tech                   | [Apache](https://www.apache.org/)                      |                                          | Software Dev   |
+| Big Tech                   | [Apple](https://www.apple.com/)                        |                                          | Software Dev   |
+| Big Tech                   | [IBM](https://www.ibm.com/)                            |                                          | Software Dev   |
+| Big Tech                   | [Meta](https://www.meta.com/)                          |                                          | Social Media   |
+| Big Tech                   | [Microsoft](https://www.microsoft.com)                 |                                          | Software Dev   |
+| Big Tech                   | [Oracle](https://www.oracle.com/)                      |                                          | Software Dev   |
+| Big Tech                   | [Twitter](https://twitter.com/)                        |                                          | Social Media   |
 | Computational Neuroscience | [Kernel](https://www.kernel.com/)                      |                                          |                |
 | Computational Neuroscience | [BrainGate](https://www.braingate.org/)                | Stanford, California, United States      |                |
 | Computational Neuroscience | [Blackrock Neurotech](https://blackrockneurotech.com/) | Salt Lake City, Utah, United States      |                |
