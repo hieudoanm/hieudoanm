@@ -30,48 +30,19 @@
     - [Software Development](#software-development)
       - [Development Tools](#development-tools)
         - [Version Control](#version-control)
-        - [Package Manager](#package-manager)
         - [Linters and Formatters](#linters-and-formatters)
-        - [Logging](#logging)
-        - [Documentation](#documentation)
-        - [Build Tools](#build-tools)
-        - [Testing](#testing)
-          - [Unit Test](#unit-test)
-          - [End-to-end](#end-to-end)
       - [Front-end](#front-end)
-        - [Styling](#styling)
-          - [Preprocessors](#preprocessors)
-          - [Frameworks](#frameworks)
-          - [Components](#components)
         - [Front-end Frameworks](#front-end-frameworks)
           - [Web Client Side Rendering (CSR)](#web-client-side-rendering-csr)
-          - [Web Server Side Rendering (SSR)](#web-server-side-rendering-ssr)
-          - [Mobile](#mobile)
-          - [Desktop](#desktop)
         - [Libraries](#libraries)
-          - [Charts](#charts)
-          - [State Management](#state-management)
       - [Back-end](#back-end)
         - [Status Codes](#status-codes)
         - [API Architectures](#api-architectures)
         - [Back-end Frameworks](#back-end-frameworks)
-        - [Security](#security)
-        - [Object Relational Mapping (ORM)](#object-relational-mapping-orm)
-        - [Database](#database)
-        - [Message Broker](#message-broker)
-      - [Data Science](#data-science)
-        - [Data Science Libraries](#data-science-libraries)
-          - [Data Collection](#data-collection)
-          - [Data Manipulation](#data-manipulation)
-          - [Data Visualization](#data-visualization)
-          - [Machine Learning](#machine-learning)
       - [DevOps](#devops)
         - [Servers](#servers)
         - [Docker](#docker)
         - [Platform](#platform)
-          - [Serverless](#serverless)
-          - [SaaS](#saas)
-          - [PaaS](#paas)
           - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
       - [Tools](#tools)
         - [Diagrams](#diagrams)
@@ -84,10 +55,6 @@
       - [Coding Exercises](#coding-exercises)
       - [Courses](#courses)
   - [Companies](#companies)
-    - [Big Tech](#big-tech)
-    - [Computational Neuroscience](#computational-neuroscience)
-    - [Investment Banking](#investment-banking)
-    - [Investment Management](#investment-management)
 
 ## Technology
 
@@ -194,19 +161,6 @@ Match these strings
 
 #### Programming
 
-- Data Science
-  - [Python](https://www.python.org)
-  - [R](https://www.r-project.org/)
-- Front-end Development
-  - [Node.js](https://nodejs.org/en)
-    - [JavaScript](https://www.javascript.com/)
-    - [TypeScript](https://www.typescriptlang.org)
-- Back-end Development
-  - [Golang](https://go.dev)
-  - [Java](https://www.java.com/en/)
-- Hardware Development
-  - C/C++
-
 ##### Node.js
 
 - `Event Loop` job is to get first function from Event `Queue` and push it to `Call Stack` - last in first out
@@ -259,33 +213,10 @@ console.log('log');
 ##### Version Control
 
 - [Git](https://git-scm.com/)
-  - [GitHub](https://github.com/)
-  - [GitLab](https://about.gitlab.com/)
-
-##### Package Manager
-
-- [Golang](https://go.dev/)
-  - Go Modules
-- [Java](https://www.java.com/en/)
-  - [Gradle](https://gradle.org/)
-  - [JFrog](https://jfrog.com/)
-  - [Maven](https://maven.apache.org/)
-- [Node.js](https://nodejs.org/en)
-  - [npm](https://www.npmjs.com/)
-  - [yarn](https://yarnpkg.com/)
-  - [pnpm](https://pnpm.io/)
-- [Python](https://www.python.org/)
-  - [anaconda](https://www.anaconda.com/)
-  - [conda](https://docs.conda.io/en/latest/)
-  - [pip](https://pypi.org/project/pip/)
-  - [pipenv](https://pipenv.pypa.io/en/latest/)
-  - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
 ##### Linters and Formatters
 
-1. [eslint](https://eslint.org) - A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease
-2. [husky](https://typicode.github.io/husky/#/) - Modern native Git hooks made easy
-3. [prettier](https://prettier.io) - Opinionated Code Formatter
+1. [husky](https://typicode.github.io/husky/#/) - Modern native Git hooks made easy
 
 ```sh
 yarn add --dev --exact husky eslint prettier
@@ -294,63 +225,7 @@ yarn husky install
 yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 ```
 
-##### Logging
-
-- [Node.js](https://nodejs.org/en)
-  - [npmlog](https://github.com/npm/npmlog)
-  - [pino](https://getpino.io)
-  - [winston](https://github.com/winstonjs)
-
-##### Documentation
-
-- Markdown to HTML
-  - [docsify](https://docsify.js.org/#/)
-  - [docusaurus](https://docusaurus.io/)
-- Front-end
-  - [storybook](https://storybook.js.org/)
-- Back-end
-  - [tsoa](https://tsoa-community.github.io/docs/)
-
-##### Build Tools
-
-- [Node.js](https://nodejs.org/en)
-  - [vite](https://vitejs.dev/)
-  - [webpack](https://webpack.js.org/)
-
-##### Testing
-
-###### Unit Test
-
-- [jasmine](https://jasmine.github.io/)
-- [jest](http://jestjs.io/) - Meta
-- [mocha](https://mochajs.org/)
-
-###### End-to-end
-
-- [cypress](https://www.cypress.io/)
-- [karma](https://karma-runner.github.io) - Google
-- [playwright](https://playwright.dev/) - Microsoft
-
 #### Front-end
-
-##### Styling
-
-###### Preprocessors
-
-- CSS
-  - [PostCSS](https://postcss.org/)
-  - [SASS](https://sass-lang.com/)
-
-###### Frameworks
-
-- [TailwindCSS](https://tailwindcss.com/)
-
-###### Components
-
-- [Ant Design](https://ant.design/)
-- [Chakra UI](https://chakra-ui.com)
-- [Theme UI](https://theme-ui.com/)
-- [MUI](https://mui.com) - Google
 
 ##### Front-end Frameworks
 
@@ -368,118 +243,78 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 | Learning Curve   | More Difficult                 | Easier                      |
 
 - ~~[AngularJS](https://angularjs.org/): is JavaScript based. Works on MVC. {{ }} expressions are used for two way binding between view and model. Special methods, ng-bind can also be used to do the same. Prefer a hierarchical dependency injection.~~
-- [Solid](https://www.solidjs.com/)
-- [Svelte](https://svelte.dev/) - Vercel
-- [Vue.js](https://vuejs.org/)
-
-###### Web Server Side Rendering (SSR)
-
-- [Gatsby.js](https://gatsbyjs.org) - Netlify
-- [Next.js](https://nextjs.org/) - Vercel
-- [Nuxt](https://nuxtjs.org/)
-- [SolidStart](https://start.solidjs.com)
-- [SvelteKit](https://kit.svelte.dev/)
-
-###### Mobile
-
-- [Flutter](https://flutter.dev/)
-- [Ionic](https://ionicframework.com/)
-- [NativeScript](https://nativescript.org/)
-- [React Native](https://reactnative.dev/) - Meta
-
-###### Desktop
-
-- [Electron](https://www.electronjs.org/)
 
 ##### Libraries
-
-###### Charts
-
-- [Charts.js](https://www.chartjs.org/)
-- [Chartist.js](https://gionkunz.github.io/chartist-js/)
-- [D3.js](https://d3js.org/)
-- [Google Chart](https://developers.google.com/chart)
-- [Highcharts](https://www.highcharts.com/)
-- [Recharts](https://recharts.org/)
-
-###### State Management
-
-- [Redux](https://redux.js.org/)
-  - [Saga](https://redux-saga.js.org/)
-  - [Thunk](https://www.npmjs.com/package/redux-thunk)
 
 #### Back-end
 
 ##### Status Codes
 
-- Information responses
-  - 100 - Continue
-  - 101 - Switching Protocols
-  - 102 - Processing (WebDAV)
-  - 103 - Early Hints
-- Successful responses
-  - 200 - OK
-  - 201 - Created
-  - 202 - Accepted
-  - 203 - Non-Authoritative Information
-  - 204 - No Content
-  - 205 - Reset Content
-  - 206 - Partial Content
-  - 207 - Multi-Status (WebDAV)
-  - 208 - Already Reported (WebDAV)
-  - 226 - IM Used (WebDAV)
-- Redirection messages
-  - 300 - Multiple Choices
-  - 301 - Moved Permanently
-  - 302 - Found
-  - 303 - See Other
-  - 304 - Not Modified
-  - 305 - Use Proxy
-  - 306 - Unused
-  - 307 - Temporary Redirect
-  - 308 - Permanent Redirect
-- Client error responses
-  - 400 - Bad Request
-  - 401 - Unauthorized
-  - 402 - Payment Required
-  - 403 - Forbidden
-  - 404 - Not Found
-  - 405 - Method Not Allowed
-  - 406 - Not Acceptable
-  - 407 - Proxy Authentication Required
-  - 408 - Request Timeout
-  - 409 - Conflict
-  - 410 - Gone
-  - 411 - Length Required
-  - 412 - Precondition Failed
-  - 413 - Payload Too Large
-  - 414 - URI Too Long
-  - 415 - Unsupported Media Type
-  - 416 - Range Not Satisfiable
-  - 417 - Expectation Failed
-  - 418 - I'm a teapot
-  - 421 - Misdirected Request
-  - 422 - Unprocessable Entity (WebDAV)
-  - 423 - Locked (WebDAV)
-  - 424 - Failed Dependency (WebDAV)
-  - 425 - Too Early
-  - 426 - Upgrade Required
-  - 428 - Precondition Required
-  - 429 - Too Many Requests
-  - 431 - Request Header Fields Too Large
-  - 451 - Unavailable For Legal Reasons
-- Server error responses
-  - 500 Internal Server Error
-  - 501 Not Implemented
-  - 502 Bad Gateway
-  - 503 Service Unavailable
-  - 504 Gateway Timeout
-  - 505 HTTP Version Not Supported
-  - 506 Variant Also Negotiates
-  - 507 Insufficient Storage (WebDAV)
-  - 508 Loop Detected (WebDAV)
-  - 510 Not Extended
-  - 511 Network Authentication Required
+|                        | Status Codes                          |
+| ---------------------- | ------------------------------------- |
+| Information responses  | 100 - Continue                        |
+|                        | 101 - Switching Protocols             |
+|                        | 102 - Processing (WebDAV)             |
+|                        | 103 - Early Hints                     |
+| Successful responses   | 200 - OK                              |
+|                        | 201 - Created                         |
+|                        | 202 - Accepted                        |
+|                        | 203 - Non-Authoritative Information   |
+|                        | 204 - No Content                      |
+|                        | 205 - Reset Content                   |
+|                        | 206 - Partial Content                 |
+|                        | 207 - Multi-Status (WebDAV)           |
+|                        | 208 - Already Reported (WebDAV)       |
+|                        | 226 - IM Used (WebDAV)                |
+| Redirection messages   | 300 - Multiple Choices                |
+|                        | 301 - Moved Permanently               |
+|                        | 302 - Found                           |
+|                        | 303 - See Other                       |
+|                        | 304 - Not Modified                    |
+|                        | 305 - Use Proxy                       |
+|                        | 306 - Unused                          |
+|                        | 307 - Temporary Redirect              |
+|                        | 308 - Permanent Redirect              |
+| Client error responses | 400 - Bad Request                     |
+|                        | 401 - Unauthorized                    |
+|                        | 402 - Payment Required                |
+|                        | 403 - Forbidden                       |
+|                        | 404 - Not Found                       |
+|                        | 405 - Method Not Allowed              |
+|                        | 406 - Not Acceptable                  |
+|                        | 407 - Proxy Authentication Required   |
+|                        | 408 - Request Timeout                 |
+|                        | 409 - Conflict                        |
+|                        | 410 - Gone                            |
+|                        | 411 - Length Required                 |
+|                        | 412 - Precondition Failed             |
+|                        | 413 - Payload Too Large               |
+|                        | 414 - URI Too Long                    |
+|                        | 415 - Unsupported Media Type          |
+|                        | 416 - Range Not Satisfiable           |
+|                        | 417 - Expectation Failed              |
+|                        | 418 - I'm a teapot                    |
+|                        | 421 - Misdirected Request             |
+|                        | 422 - Unprocessable Entity (WebDAV)   |
+|                        | 423 - Locked (WebDAV)                 |
+|                        | 424 - Failed Dependency (WebDAV)      |
+|                        | 425 - Too Early                       |
+|                        | 426 - Upgrade Required                |
+|                        | 428 - Precondition Required           |
+|                        | 429 - Too Many Requests               |
+|                        | 431 - Request Header Fields Too Large |
+|                        | 451 - Unavailable For Legal Reasons   |
+| Server error responses | 500 Internal Server Error             |
+|                        | 501 Not Implemented                   |
+|                        | 502 Bad Gateway                       |
+|                        | 503 Service Unavailable               |
+|                        | 504 Gateway Timeout                   |
+|                        | 505 HTTP Version Not Supported        |
+|                        | 506 Variant Also Negotiates           |
+|                        | 507 Insufficient Storage (WebDAV)     |
+|                        | 508 Loop Detected (WebDAV)            |
+|                        | 510 Not Extended                      |
+|                        | 511 Network Authentication Required   |
 
 ##### API Architectures
 
@@ -492,73 +327,131 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ##### Back-end Frameworks
 
-- Java
-  - [Spring Boot](https://spring.io/projects/spring-boot)
-- [Node.js](https://nodejs.org/en)
-  - [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)
-  - [Express.js](https://expressjs.com/)
-  - [Fastify](https://www.fastify.io/)
-  - [Nest.js](https://nestjs.com/)
-  - [Socket.io](https://socket.io/)
-- Python
-  - [Django](https://www.djangoproject.com/)
-  - [FastAPI](https://fastapi.tiangolo.com/)
-  - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+CLI: Command-line Interface
+e2e: End to End
+ORM: Object Relational Mapping
 
-##### Security
-
-- [Node.js](https://nodejs.org/en)
-  - [cors](https://github.com/expressjs/cors)
-  - [helmet](https://helmetjs.github.io/)
-  - Authentication
-    - [jsonwebtoken](https://jwt.io/)
-    - [passport](https://www.passportjs.org/)
-
-##### Object Relational Mapping (ORM)
-
-- [Mongoose](https://mongoosejs.com/)
-- [Prisma](https://www.prisma.io/) for ORM
-- [Sequelize](https://sequelize.org/)
-- [TypeORM](https://typeorm.io/)
-
-##### Database
-
-- Key-Value
-  - [Redis](https://redis.io/) for Caching
-- Document Oriented
-  - [MongoDB](https://www.mongodb.com/) for NoSQL
-- Relational
-  - [PostgreSQL](https://www.postgresql.org/) for Relational SQL
-
-##### Message Broker
-
-- [Kafka](https://kafka.apache.org/)
-
-#### Data Science
-
-##### Data Science Libraries
-
-###### Data Collection
-
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [scrapy](https://scrapy.org/)
-
-###### Data Manipulation
-
-- [pandas](https://pandas.pydata.org/)
-- [numpy](https://numpy.org/)
-
-###### Data Visualization
-
-- [matplotlib](https://matplotlib.org/)
-
-###### Machine Learning
-
-- [keras](https://keras.io/)
-- [pytorch](https://pytorch.org/)
-- [scikit-learn](https://scikit-learn.org/stable/)
-- [scipy](https://scipy.org/)
-- [tensorflow](https://www.tensorflow.org/)
+| No  | Development  | Supersector                       | Sector              | Subsector         | URL                                                                     | Usage   | Developer |
+| --- | ------------ | --------------------------------- | ------------------- | ----------------- | ----------------------------------------------------------------------- | ------- | --------- |
+|     | Full-stack   |                                   | Language            |                   | C                                                                       |         |           |
+|     | Full-stack   |                                   | Language            |                   | C++                                                                     |         |           |
+|     | Full-stack   |                                   | Language            |                   | C#                                                                      |         | Microsoft |
+|     | Full-stack   |                                   | Language            |                   | [Golang](https://go.dev)                                                |         | Google    |
+|     | Full-stack   |                                   | Language            |                   | [Java](https://www.java.com/en/)                                        |         | Oracle    |
+|     | Full-stack   |                                   | Language            |                   | [Python](https://www.python.org)                                        |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Language            |                   | [JavaScript](https://www.javascript.com/)                               |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Language            |                   | [TypeScript](https://www.typescriptlang.org)                            |         | Microsoft |
+|     | Full-stack   | [Golang](https://go.dev/)         | Package Manager     |                   | [Go Packages](https://pkg.go.dev/)                                      |         | Google    |
+|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                   | [Gradle](https://gradle.org/)                                           |         |           |
+|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                   | [JFrog](https://jfrog.com/)                                             |         |           |
+|     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                   | [Maven](https://maven.apache.org/)                                      |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                   | [npm](https://www.npmjs.com/)                                           |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                   | [pnpm](https://pnpm.io/)                                                |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                   | [yarn](https://yarnpkg.com/)                                            |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [anaconda](https://www.anaconda.com/)                                   |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [conda](https://docs.conda.io/en/latest/)                               |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [pip](https://pypi.org/project/pip/)                                    |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [pipenv](https://pipenv.pypa.io/en/latest/)                             |         |           |
+|     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                   | [virtualenv](https://virtualenv.pypa.io/en/latest/)                     |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                   | [npmlog](https://github.com/npm/npmlog)                                 |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                   | [pino](https://getpino.io)                                              |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Logging             |                   | [winston](https://github.com/winstonjs)                                 |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Linting & Formatter | Linting           | [eslint](https://eslint.org)                                            |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Linting & Formatter | Formatter         | [prettier](https://prettier.io)                                         |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Build               |                   | [webpack](https://webpack.js.org/)                                      |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit              | [jasmine](https://jasmine.github.io/)                                   |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit              | [jest](http://jestjs.io/)                                               |         | Meta      |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit              | [mocha](https://mochajs.org/)                                           |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | CLI                 |                   | [vite](https://vitejs.dev/)                                             |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML  | [docsify](https://docsify.js.org/#/)                                    |         |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML  | [docusaurus](https://docusaurus.io/)                                    |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Extension     | [PostCSS](https://postcss.org/)                                         |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Extension     | [SASS](https://sass-lang.com/)                                          |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework     | [Bootstrap](https://getbootstrap.com/)                                  |         | Twitter   |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework     | [Materialize CSS](https://materializecss.com/)                          |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Framework     | [TailwindCSS](https://tailwindcss.com/)                                 |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [Ant Design](https://ant.design/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [Chakra UI](https://chakra-ui.com)                                      |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [TailwindUI](https://tailwindui.com/)                                   |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [Theme UI](https://theme-ui.com/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [MUI](https://mui.com)                                                  |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | CSS Components    | [NextUI](https://nextui.org/)                                           |         | Vercel    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Styling             | Documentation     | [storybook](https://storybook.js.org/)                                  |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | ~~[AngularJS](https://angularjs.org/)~~                                 |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Angular](https://angular.io/)                                          |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [React](https://react.dev/)                                             |         | Meta      |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Solid](https://www.solidjs.com/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Svelte](https://svelte.dev/)                                           |         | Vercel    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Client            | [Vue.js](https://vuejs.org/)                                            |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [Gatsby.js](https://gatsbyjs.org)                                       |         | Netlify   |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [Next.js](https://nextjs.org/)                                          |         | Vercel    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [Nuxt](https://nuxtjs.org/)                                             |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [SolidStart](https://start.solidjs.com)                                 |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Server            | [SvelteKit](https://kit.svelte.dev/)                                    |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [Flutter](https://flutter.dev/)                                         |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [Ionic](https://ionicframework.com/)                                    |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [NativeScript](https://nativescript.org/)                               |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Hybrid            | [React Native](https://reactnative.dev/)                                |         | Meta      |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Framework           | Desktop           | [Electron](https://www.electronjs.org/)                                 |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e               | [cypress](https://www.cypress.io/)                                      |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e               | [karma](https://karma-runner.github.io)                                 |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Testing             | e2e               | [playwright](https://playwright.dev/)                                   |         | Microsoft |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Charts.js](https://www.chartjs.org/)                                   |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Chartist.js](https://gionkunz.github.io/chartist-js/)                  |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [D3.js](https://d3js.org/)                                              |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Google Chart](https://developers.google.com/chart)                     |         | Google    |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               |                   | [Highcharts](https://www.highcharts.com/)                               |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | Chart               | React             | [Recharts](https://recharts.org/)                                       |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React             | [Redux](https://redux.js.org/)                                          |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React             | [Redux Saga](https://redux-saga.js.org/)                                |         |           |
+|     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React             | [Redux Thunk](https://www.npmjs.com/package/redux-thunk)                |         |           |
+|     | Mobile       |                                   | Language            |                   | [Kotlin](https://kotlinlang.org/)                                       |         | JetBrains |
+|     | Mobile       |                                   | Language            |                   | [Swift](https://developer.apple.com/swift/)                             |         | Apple     |
+|     | Back-end     | [Java](https://www.java.com/en/)  | Framework           |                   | [Spring Boot](https://spring.io/projects/spring-boot)                   |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | GraphQL           | [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)     |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                   | [Express.js](https://expressjs.com/)                                    |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                   | [Fastify](https://www.fastify.io/)                                      |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                   | [Nest.js](https://nestjs.com/)                                          |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | WebSocket         | [Socket.io](https://socket.io/)                                         |         |           |
+|     | Back-end     | [Python](https://www.python.org/) | Framework           |                   | [Django](https://www.djangoproject.com/)                                |         |           |
+|     | Back-end     | [Python](https://www.python.org/) | Framework           |                   | [FastAPI](https://fastapi.tiangolo.com/)                                |         |           |
+|     | Back-end     | [Python](https://www.python.org/) | Framework           |                   | [Flask](https://flask.palletsprojects.com/en/3.0.x/)                    |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Authentication    | [jsonwebtoken](https://jwt.io/)                                         |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Authentication    | [passport](https://www.passportjs.org/)                                 |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Protection        | [cors](https://github.com/expressjs/cors)                               |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Security            | Protection        | [helmet](https://helmetjs.github.io/)                                   |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | Swagger             | Documentation     | [tsoa](https://tsoa-community.github.io/docs/)                          |         |           |
+|     | Back-end     |                                   | Database            | Key-Value         | [Redis](https://redis.io/)                                              | Caching |           |
+|     | Back-end     |                                   | Database            | Key-Value         | [Memcached](https://memcached.org/)                                     | Caching |           |
+|     | Back-end     |                                   | Database            | Wide Column       | [Cassandra](https://cassandra.apache.org/)                              | NoSQL   | Apache    |
+|     | Back-end     |                                   | Database            | Wide Column       | [HBase](https://hbase.apache.org/)                                      | NoSQL   | Apache    |
+|     | Back-end     |                                   | Database            | Document Oriented | [MongoDB](https://www.mongodb.com/)                                     | NoSQL   |           |
+|     | Back-end     |                                   | Database            | Document Oriented | [CouchDB](https://couchdb.apache.org/)                                  | NoSQL   | Apache    |
+|     | Back-end     |                                   | Database            | Relational        | [PostgreSQL](https://www.postgresql.org/)                               | SQL     |           |
+|     | Back-end     |                                   | Database            | Relational        | [MySQL](https://www.mysql.com/)                                         | SQL     |           |
+|     | Back-end     |                                   | Database            | Relational        | [CockroachDB](https://www.cockroachlabs.com/)                           | SQL     |           |
+|     | Back-end     |                                   | Database            | Relational        | [SQLite](https://www.sqlite.org/)                                       | SQL     |           |
+|     | Back-end     |                                   | Database            | Graph             | [neo4j](https://neo4j.com/)                                             |         |           |
+|     | Back-end     |                                   | Database            | Search Engine     | [elasticsearch](https://www.elastic.co/elasticsearch)                   |         | Elastic   |
+|     | Back-end     |                                   | Database            | Multi Model       | [FaunaDB](https://fauna.com/)                                           |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [Mongoose](https://mongoosejs.com/)                                     | NoSQL   |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [Prisma](https://www.prisma.io/)                                        |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [Sequelize](https://sequelize.org/)                                     |         |           |
+|     | Back-end     | [Node.js](https://nodejs.org/en)  | ORM                 |                   | [TypeORM](https://typeorm.io/)                                          |         |           |
+|     | Back-end     |                                   | Message Broker      |                   | [ActiveMQ](https://activemq.apache.org/)                                |         | Apache    |
+|     | Back-end     |                                   | Message Broker      |                   | [Kafka](https://kafka.apache.org/)                                      |         | Apache    |
+|     | Back-end     |                                   | Message Broker      |                   | [RabbitMQ](https://www.rabbitmq.com/)                                   |         |           |
+|     | Data Science |                                   | Language            |                   | [R](https://www.r-project.org/)                                         |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Collection     |                   | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Collection     |                   | [scrapy](https://scrapy.org/)                                           |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Exploration    |                   | [pandas](https://pandas.pydata.org/)                                    |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Exploration    |                   | [numpy](https://numpy.org/)                                             |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Data Visualization  |                   | [matplotlib](https://matplotlib.org/)                                   |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [keras](https://keras.io/)                                              |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [pytorch](https://pytorch.org/)                                         |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [scikit-learn](https://scikit-learn.org/stable/)                        |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [scipy](https://scipy.org/)                                             |         |           |
+|     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [tensorflow](https://www.tensorflow.org/)                               |         | Google    |
 
 #### DevOps
 
@@ -587,27 +480,24 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ##### Platform
 
-###### Serverless
-
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com)
-
-###### SaaS
-
-###### PaaS
-
-- [heroku](https://www.heroku.com/)
-- [render](https://render.com/)
+| Type       |                                   | Platform                            |
+| ---------- | --------------------------------- | ----------------------------------- |
+| Serverless |                                   | [Netlify](https://www.netlify.com/) |
+| Serverless |                                   | [Vercel](https://vercel.com)        |
+| SaaS       | Version Control                   | [GitHub](https://github.com/)       |
+| SaaS       | Version Control                   | [GitLab](https://about.gitlab.com/) |
+| PaaS       | [heroku](https://www.heroku.com/) |                                     |
+| PaaS       | [render](https://render.com/)     |                                     |
 
 ###### IaaS (Infrastructure as a Service)
 
 | IaaS            |                                          | Amazon Web Services (AWS)           | Azure                                    | Google Cloud                | Digital Ocean               |
-| --------------- | ---------------------------------------- | ----------------------------------- | ---------------------------------------- | --------------------------- | --------------------------- |
+| --------------- | ---------------------------------------- | ----------------------------------- | ---------------------------------------- | --------------------------- | --------------------------- | --- |
 | Compute         |                                          |                                     | Azure Virtual Machines (Linux & Windows) | Compute Engine              |                             |
 |                 | Orchestration                            |                                     | Azure Kubernetes Service (AKS)           | Google Kubernetes Engine    |                             |
 |                 |                                          |                                     |                                          |                             |                             |
 |                 | PaaS                                     | AWS Elastic Beanstalk               | App Service                              | Google App Engine           | App Platform                |
-|                 | Serverless                               |                                     | Azure Functions                          | Cloud Functions             |                             |
+|                 |                                          | Serverless                          |                                          | Azure Functions             | Cloud Functions             |     |
 |                 |                                          |                                     |                                          |                             |                             |
 | Storage         |                                          | Amazon Simple Storage Service (S3)  |                                          |                             | Spaces Object Storage       |
 |                 |                                          |                                     |                                          |                             |                             |
@@ -662,74 +552,74 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ### Universities
 
-| No  | Country        | University                             | Group          | City         | State                        |
-| --- | -------------- | -------------------------------------- | -------------- | ------------ | ---------------------------- |
-| 01  | Australia      | Australian National University         | Group of Eight | Acton        | Australian Capital Territory |
-| 02  | Australia      | University of New South Wales          | Group of Eight | Sydney       | New South Wales              |
-| 03  | Australia      | University of Sydney                   | Group of Eight | Sydney       | New South Wales              |
-| 04  | Australia      | University of Queensland               | Group of Eight | Brisbane     | Queensland                   |
-| 05  | Australia      | University of Adelaide                 | Group of Eight | Adelaide     | South Australia              |
-| 06  | Australia      | University of Melbourne                | Group of Eight | Melbourne    | Victoria                     |
-| 07  | Australia      | Monash University                      | Group of Eight | Melbourne    | Victoria                     |
-| 08  | Australia      | University of Western Australia        | Group of Eight | Perth        | Western Australia            |
-| 09  | Canada         | University of Alberta                  | U15            | Edmonton     | Alberta                      |
-| 10  | Canada         | University of Calgary                  | U15            | Calgary      | Alberta                      |
-| 11  | Canada         | University of British Columbia         | U15            | Vancouver    | British Columbia             |
-| 12  | Canada         | University of Manitoba                 | U15            | Winnipeg     | Manitoba                     |
-| 13  | Canada         | Dalhousie University                   | U15            | Halifax      | Nova Scotia                  |
-| 14  | Canada         | McMaster University                    | U15            | Hamilton     | Ontario                      |
-| 15  | Canada         | University of Ottawa                   | U15            | Ottawa       | Ontario                      |
-| 16  | Canada         | Queen's University                     | U15            | Kingston     | Ontario                      |
-| 17  | Canada         | University of Toronto                  | U15            | Toronto      | Ontario                      |
-| 18  | Canada         | University of Waterloo                 | U15            | Waterloo     | Ontario                      |
-| 19  | Canada         | University of Western Ontario          | U15            | London       | Ontario                      |
-| 20  | Canada         | Université Laval                       | U15            | Quebec City  | Quebec                       |
-| 21  | Canada         | McGill University                      | U15            | Montreal     | Quebec                       |
-| 22  | Canada         | Université de Montréal                 | U15            | Montreal     | Quebec                       |
-| 23  | Canada         | University of Saskatchewan             | U15            | Saskatoon    | Saskatchewan                 |
-| 24  | Singapore      | National University of Singapore (NUS) |                |              |                              |
-| 25  | Singapore      | Duke - NUS Medical School              |                |              |                              |
-| 26  | Singapore      | Yale - NUS College                     |                |              |                              |
-| 27  | United Kingdom | University of Cambridge                | Russell        | Cambridge    | England                      |
-| 28  | United Kingdom | University of Oxford                   | Russell        | Oxford       | England                      |
-| 29  | United Kingdom | Imperial College London                | Russell        | London       | England                      |
-| 30  | United Kingdom | King's College London                  | Russell        | London       | England                      |
-| 31  | United Kingdom | London School of Economics             | Russell        | London       | England                      |
-| 32  | United Kingdom | Queen Mary University of London        | Russell        | London       | England                      |
-| 33  | United Kingdom | University College London              | Russell        | London       | England                      |
-| 34  | United Kingdom | University of Birmingham               | Russell        | Birmingham   | England                      |
-| 35  | United Kingdom | University of Bristol                  | Russell        | Bristol      | England                      |
-| 36  | United Kingdom | Durham University                      | Russell        | Durham       | England                      |
-| 37  | United Kingdom | University of Exeter                   | Russell        | Exeter       | England                      |
-| 38  | United Kingdom | University of Leeds                    | Russell        | Leeds        | England                      |
-| 39  | United Kingdom | University of Liverpool                | Russell        | Liverpool    | England                      |
-| 40  | United Kingdom | University of Manchester               | Russell        | Manchester   | England                      |
-| 41  | United Kingdom | Newcastle University                   | Russell        | Newcastle    | England                      |
-| 42  | United Kingdom | University of Nottingham               | Russell        | Nottingham   | England                      |
-| 43  | United Kingdom | University of Sheffield                | Russell        | Sheffield    | England                      |
-| 44  | United Kingdom | University of Southampton              | Russell        | Southampton  | England                      |
-| 45  | United Kingdom | University of Warwick                  | Russell        | Coventry     | England                      |
-| 46  | United Kingdom | University of York                     | Russell        | York         | England                      |
-| 47  | United Kingdom | Queen's University Belfast             | Russell        | Belfast      | Northern Ireland             |
-| 48  | United Kingdom | University of Edinburgh                | Russell        | Edinburgh    | Scotland                     |
-| 49  | United Kingdom | University of Glasgow                  | Russell        | Glasgow      | Scotland                     |
-| 50  | United Kingdom | Cardiff University                     | Russell        | Cardiff      | Wales                        |
-| 51  | United States  | Brown University                       | Ivy League     | Providence   | Rhode Island                 |
-| 52  | United States  | Columbia University                    | Ivy League     | New York     | New York                     |
-| 53  | United States  | Cornell University                     | Ivy League     | Ithaca       | New York                     |
-| 54  | United States  | Dartmouth College                      | Ivy League     | Hanover      | New Hampshire                |
-| 55  | United States  | Harvard University                     | Ivy League     | Cambridge    | Massachusetts                |
-| 56  | United States  | University of Pennsylvania             | Ivy League     | Philadelphia | Pennsylvania                 |
-| 57  | United States  | Princeton University                   | Ivy League     | Princeton    | New Jersey                   |
-| 58  | United States  | Yale University                        | Ivy League     | New Haven    | Connecticut                  |
-| 59  | United States  | University of California               | Public Ivy     |              | California                   |
-| 60  | United States  | University of Texas                    | Public Ivy     |              | Texas                        |
-| 61  | United States  | Duke University                        | Private School | Durham       | North Carolina               |
-| 62  | United States  | MIT                                    | Private School |              | Massachusetts                |
-| 63  | United States  | Stanford University                    | Private School |              | California                   |
-| 64  | United States  | Johns Hopkins University               | Private School | Baltimore    | Maryland                     |
-| 65  | United States  | California Institute of Technology     | Private School |              | California                   |
-| 66  | United States  | University of Notre Dame               | Private School | South Bend   | Indiana                      |
+| No  | Group          | Country        | State                        | City         | University                             |
+| --- | -------------- | -------------- | ---------------------------- | ------------ | -------------------------------------- |
+| 01  | Group of Eight | Australia      | Australian Capital Territory | Acton        | Australian National University         |
+| 02  | Group of Eight | Australia      | New South Wales              | Sydney       | University of New South Wales          |
+| 03  | Group of Eight | Australia      | New South Wales              | Sydney       | University of Sydney                   |
+| 04  | Group of Eight | Australia      | Queensland                   | Brisbane     | University of Queensland               |
+| 05  | Group of Eight | Australia      | South Australia              | Adelaide     | University of Adelaide                 |
+| 06  | Group of Eight | Australia      | Victoria                     | Melbourne    | University of Melbourne                |
+| 07  | Group of Eight | Australia      | Victoria                     | Melbourne    | Monash University                      |
+| 08  | Group of Eight | Australia      | Western Australia            | Perth        | University of Western Australia        |
+| 09  | U15            | Canada         | Alberta                      | Edmonton     | University of Alberta                  |
+| 10  | U15            | Canada         | Alberta                      | Calgary      | University of Calgary                  |
+| 11  | U15            | Canada         | British Columbia             | Vancouver    | University of British Columbia         |
+| 12  | U15            | Canada         | Manitoba                     | Winnipeg     | University of Manitoba                 |
+| 13  | U15            | Canada         | Nova Scotia                  | Halifax      | Dalhousie University                   |
+| 14  | U15            | Canada         | Ontario                      | Hamilton     | McMaster University                    |
+| 15  | U15            | Canada         | Ontario                      | Ottawa       | University of Ottawa                   |
+| 16  | U15            | Canada         | Ontario                      | Kingston     | Queen's University                     |
+| 17  | U15            | Canada         | Ontario                      | Toronto      | University of Toronto                  |
+| 18  | U15            | Canada         | Ontario                      | Waterloo     | University of Waterloo                 |
+| 19  | U15            | Canada         | Ontario                      | London       | University of Western Ontario          |
+| 20  | U15            | Canada         | Quebec                       | Quebec City  | Université Laval                       |
+| 21  | U15            | Canada         | Quebec                       | Montreal     | McGill University                      |
+| 22  | U15            | Canada         | Quebec                       | Montreal     | Université de Montréal                 |
+| 23  | U15            | Canada         | Saskatchewan                 | Saskatoon    | University of Saskatchewan             |
+| 24  |                | Singapore      |                              |              | National University of Singapore (NUS) |
+| 25  |                | Singapore      |                              |              | Duke - NUS Medical School              |
+| 26  |                | Singapore      |                              |              | Yale - NUS College                     |
+| 27  | Russell        | United Kingdom | England                      | Cambridge    | University of Cambridge                |
+| 28  | Russell        | United Kingdom | England                      | Oxford       | University of Oxford                   |
+| 29  | Russell        | United Kingdom | England                      | London       | Imperial College London                |
+| 30  | Russell        | United Kingdom | England                      | London       | King's College London                  |
+| 31  | Russell        | United Kingdom | England                      | London       | London School of Economics             |
+| 32  | Russell        | United Kingdom | England                      | London       | Queen Mary University of London        |
+| 33  | Russell        | United Kingdom | England                      | London       | University College London              |
+| 34  | Russell        | United Kingdom | England                      | Birmingham   | University of Birmingham               |
+| 35  | Russell        | United Kingdom | England                      | Bristol      | University of Bristol                  |
+| 36  | Russell        | United Kingdom | England                      | Durham       | Durham University                      |
+| 37  | Russell        | United Kingdom | England                      | Exeter       | University of Exeter                   |
+| 38  | Russell        | United Kingdom | England                      | Leeds        | University of Leeds                    |
+| 39  | Russell        | United Kingdom | England                      | Liverpool    | University of Liverpool                |
+| 40  | Russell        | United Kingdom | England                      | Manchester   | University of Manchester               |
+| 41  | Russell        | United Kingdom | England                      | Newcastle    | Newcastle University                   |
+| 42  | Russell        | United Kingdom | England                      | Nottingham   | University of Nottingham               |
+| 43  | Russell        | United Kingdom | England                      | Sheffield    | University of Sheffield                |
+| 44  | Russell        | United Kingdom | England                      | Southampton  | University of Southampton              |
+| 45  | Russell        | United Kingdom | England                      | Coventry     | University of Warwick                  |
+| 46  | Russell        | United Kingdom | England                      | York         | University of York                     |
+| 47  | Russell        | United Kingdom | Northern Ireland             | Belfast      | Queen's University Belfast             |
+| 48  | Russell        | United Kingdom | Scotland                     | Edinburgh    | University of Edinburgh                |
+| 49  | Russell        | United Kingdom | Scotland                     | Glasgow      | University of Glasgow                  |
+| 50  | Russell        | United Kingdom | Wales                        | Cardiff      | Cardiff University                     |
+| 51  | Ivy League     | United States  | Rhode Island                 | Providence   | Brown University                       |
+| 52  | Ivy League     | United States  | New York                     | New York     | Columbia University                    |
+| 53  | Ivy League     | United States  | New York                     | Ithaca       | Cornell University                     |
+| 54  | Ivy League     | United States  | New Hampshire                | Hanover      | Dartmouth College                      |
+| 55  | Ivy League     | United States  | Massachusetts                | Cambridge    | Harvard University                     |
+| 56  | Ivy League     | United States  | Pennsylvania                 | Philadelphia | University of Pennsylvania             |
+| 57  | Ivy League     | United States  | New Jersey                   | Princeton    | Princeton University                   |
+| 58  | Ivy League     | United States  | Connecticut                  | New Haven    | Yale University                        |
+| 59  | Public Ivy     | United States  | California                   | Los Angeles  | University of California               |
+| 60  | Public Ivy     | United States  | Texas                        | Austin       | University of Texas                    |
+| 61  | Private School | United States  | North Carolina               | Durham       | Duke University                        |
+| 62  | Private School | United States  | Massachusetts                | Cambridge    | MIT                                    |
+| 63  | Private School | United States  | California                   | Stanford     | Stanford University                    |
+| 64  | Private School | United States  | Maryland                     | Baltimore    | Johns Hopkins University               |
+| 65  | Private School | United States  | California                   | Pasadena     | California Institute of Technology     |
+| 66  | Private School | United States  | Indiana                      | South Bend   | University of Notre Dame               |
 
 ### Online
 
@@ -761,49 +651,32 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ## Companies
 
-### Big Tech
-
-- Alphabet (Google)
-- Amazon
-- Meta (Facebook)
-- Microsoft
-
-### Computational Neuroscience
-
-- [Kernel](https://www.kernel.com/)
-- [BrainGate](https://www.braingate.org/)
-  - Stanford, California, United States
-- [Blackrock Neurotech](https://blackrockneurotech.com/)
-  - Salt Lake City, Utah, United States
-- [Neurable](https://neurable.com/)
-  - Boston, Massachusetts, United States
-- [BrainCo](https://brainco.tech/)
-  - Boston, Massachusetts, United States
-- [Neuralink](https://neuralink.com/)
-  - Fremont, California, United States
-  - Austin, Texas, United States
-- [Synchron](https://synchron.com/)
-  - Brooklyn, New York, United States
-  - Melbourne, Victoria, Australia
-- [Bitbrain](https://www.bitbrain.com/)
-  - Zaragoza, Zaragoza, Spain
-  - New York City, New York, United States
-- [Precision Neuroscience](https://precisionneuro.io/)
-  - Manhattan, New York, United States
-  - Mountain View, California, United States
-  - Minneapolis, Minnesota, United States
-- [Emotiv](https://www.emotiv.com/)
-  - San Francisco, California, United States
-  - Sydney, New South Wales, Australia
-  - Hanoi, Hanoi, Vietnam
-
-### Investment Banking
-
-- Goldman Sachs
-- J.P. Morgan
-- Morgan Stanley
-
-### Investment Management
-
-- BlackRock (Index Fund)
-- BlackStone (Private Equity)
+| Category                   | Company                                                | Location                                 | Product        |
+| -------------------------- | ------------------------------------------------------ | ---------------------------------------- | -------------- |
+|                            | [Alphabet](http://alphabet.com/)                       |                                          |                |
+|                            | [Amazon](https://www.amazon.com/)                      |                                          |                |
+|                            | [Meta](https://www.meta.com/)                          |                                          |                |
+|                            | [Microsoft](https://www.microsoft.com)                 |                                          |                |
+| Computational Neuroscience | [Kernel](https://www.kernel.com/)                      |                                          |                |
+| Computational Neuroscience | [BrainGate](https://www.braingate.org/)                | Stanford, California, United States      |                |
+| Computational Neuroscience | [Blackrock Neurotech](https://blackrockneurotech.com/) | Salt Lake City, Utah, United States      |                |
+| Computational Neuroscience | [Neurable](https://neurable.com/)                      | Boston, Massachusetts, United States     |                |
+| Computational Neuroscience | [BrainCo](https://brainco.tech/)                       | Boston, Massachusetts, United States     |                |
+| Computational Neuroscience | [Neuralink](https://neuralink.com/)                    | Fremont, California, United States       |                |
+|                            |                                                        | Austin, Texas, United States             |                |
+| Computational Neuroscience | [Synchron](https://synchron.com/)                      | Brooklyn, New York, United States        |                |
+|                            |                                                        | Melbourne, Victoria, Australia           |                |
+| Computational Neuroscience | [Bitbrain](https://www.bitbrain.com/)                  | Zaragoza, Zaragoza, Spain                |                |
+|                            |                                                        | New York City, New York, United States   |                |
+| Computational Neuroscience | [Precision Neuroscience](https://precisionneuro.io/)   | Manhattan, New York, United States       |                |
+|                            |                                                        | Mountain View, California, United States |                |
+|                            |                                                        | Minneapolis, Minnesota, United States    |                |
+| Computational Neuroscience | [Emotiv](https://www.emotiv.com/)                      | San Francisco, California, United States |                |
+|                            |                                                        | Sydney, New South Wales, Australia       |                |
+|                            |                                                        | Hanoi, Hanoi, Vietnam                    |                |
+| Investment Banking         | Goldman Sachs                                          |                                          |                |
+| Investment Banking         | J.P. Morgan                                            |                                          |                |
+| Investment Banking         | Morgan Stanley                                         |                                          |                |
+| Venture Capital            | [BlackRock](https://www.blackrock.com/)                |                                          | Index Fund     |
+| Venture Capital            | [BlackStone](https://www.blackstone.com/)              |                                          | Private Equity |
+| Venture Capital            | [Vanguard](https://www.vanguard.com)                   |                                          | Index Fund     |
