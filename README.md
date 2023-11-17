@@ -452,6 +452,12 @@ ORM: Object Relational Mapping
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [scikit-learn](https://scikit-learn.org/stable/)                        |         |           |
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [scipy](https://scipy.org/)                                             |         |           |
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                   | [tensorflow](https://www.tensorflow.org/)                               |         | Google    |
+|     | DevOps       |                                   | SaaS                | Version Control   | [GitHub](https://github.com/)                                           |         |           |
+|     | DevOps       |                                   | SaaS                | Version Control   | [GitLab](https://about.gitlab.com/)                                     |         |           |
+|     | DevOps       |                                   | Serverless          |                   | [Netlify](https://www.netlify.com/)                                     |         |           |
+|     | DevOps       |                                   | Serverless          |                   | [Vercel](https://vercel.com)                                            |         |           |
+|     | DevOps       |                                   | PaaS                |                   | [heroku](https://www.heroku.com/)                                       |         |           |
+|     | DevOps       |                                   | PaaS                |                   | [render](https://render.com/)                                           |         |           |
 
 #### DevOps
 
@@ -479,15 +485,6 @@ ORM: Object Relational Mapping
   - Using the Cache Well: it is better to update the package management files (`package.json` & `requirements.txt`), you only have to do it once.
 
 ##### Platform
-
-| Type       |                                   | Platform                            |
-| ---------- | --------------------------------- | ----------------------------------- |
-| Serverless |                                   | [Netlify](https://www.netlify.com/) |
-| Serverless |                                   | [Vercel](https://vercel.com)        |
-| SaaS       | Version Control                   | [GitHub](https://github.com/)       |
-| SaaS       | Version Control                   | [GitLab](https://about.gitlab.com/) |
-| PaaS       | [heroku](https://www.heroku.com/) |                                     |
-| PaaS       | [render](https://render.com/)     |                                     |
 
 ###### IaaS (Infrastructure as a Service)
 
