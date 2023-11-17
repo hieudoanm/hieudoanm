@@ -79,11 +79,6 @@
       - [Electronics](#electronics)
   - [Education](#education)
     - [Universities](#universities)
-      - [Australia](#australia)
-      - [Canada](#canada)
-      - [Singapore](#singapore)
-      - [United Kingdom](#united-kingdom)
-      - [United States](#united-states)
     - [Online](#online)
       - [Blogs](#blogs)
       - [Coding Exercises](#coding-exercises)
@@ -667,94 +662,74 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 
 ### Universities
 
-#### Australia
-
-| No  | University                      | Group          | City      | State                        |
-| --- | ------------------------------- | -------------- | --------- | ---------------------------- |
-| 01  | Australian National University  | Group of Eight | Acton     | Australian Capital Territory |
-| 02  | University of New South Wales   | Group of Eight | Sydney    | New South Wales              |
-| 03  | University of Sydney            | Group of Eight | Sydney    | New South Wales              |
-| 04  | University of Queensland        | Group of Eight | Brisbane  | Queensland                   |
-| 05  | University of Adelaide          | Group of Eight | Adelaide  | South Australia              |
-| 06  | University of Melbourne         | Group of Eight | Melbourne | Victoria                     |
-| 07  | Monash University               | Group of Eight | Melbourne | Victoria                     |
-| 08  | University of Western Australia | Group of Eight | Perth     | Western Australia            |
-
-#### Canada
-
-| No  | University                     | Group | City        | State            |
-| --- | ------------------------------ | ----- | ----------- | ---------------- |
-| 01  | University of Alberta          | U15   | Edmonton    | Alberta          |
-| 02  | University of Calgary          | U15   | Calgary     | Alberta          |
-| 03  | University of British Columbia | U15   | Vancouver   | British Columbia |
-| 04  | University of Manitoba         | U15   | Winnipeg    | Manitoba         |
-| 05  | Dalhousie University           | U15   | Halifax     | Nova Scotia      |
-| 06  | McMaster University            | U15   | Hamilton    | Ontario          |
-| 07  | University of Ottawa           | U15   | Ottawa      | Ontario          |
-| 08  | Queen's University             | U15   | Kingston    | Ontario          |
-| 09  | University of Toronto          | U15   | Toronto     | Ontario          |
-| 10  | University of Waterloo         | U15   | Waterloo    | Ontario          |
-| 11  | University of Western Ontario  | U15   | London      | Ontario          |
-| 12  | Université Laval               | U15   | Quebec City | Quebec           |
-| 13  | McGill University              | U15   | Montreal    | Quebec           |
-| 14  | Université de Montréal         | U15   | Montreal    | Quebec           |
-| 15  | University of Saskatchewan     | U15   | Saskatoon   | Saskatchewan     |
-
-#### Singapore
-
-- National University of Singapore
-  - Duke - NUS Medical School
-  - Yale - NUS College
-
-#### United Kingdom
-
-| No  | University                      | Group   | City        | Country          |
-| --- | ------------------------------- | ------- | ----------- | ---------------- |
-| 01  | University of Cambridge         | Russell | Cambridge   | England          |
-| 02  | University of Oxford            | Russell | Oxford      | England          |
-| 03  | Imperial College London         | Russell | London      | England          |
-| 04  | King's College London           | Russell | London      | England          |
-| 05  | London School of Economics      | Russell | London      | England          |
-| 06  | Queen Mary University of London | Russell | London      | England          |
-| 07  | University College London       | Russell | London      | England          |
-| 08  | University of Birmingham        | Russell | Birmingham  | England          |
-| 09  | University of Bristol           | Russell | Bristol     | England          |
-| 10  | Durham University               | Russell | Durham      | England          |
-| 11  | University of Exeter            | Russell | Exeter      | England          |
-| 12  | University of Leeds             | Russell | Leeds       | England          |
-| 13  | University of Liverpool         | Russell | Liverpool   | England          |
-| 14  | University of Manchester        | Russell | Manchester  | England          |
-| 15  | Newcastle University            | Russell | Newcastle   | England          |
-| 16  | University of Nottingham        | Russell | Nottingham  | England          |
-| 17  | University of Sheffield         | Russell | Sheffield   | England          |
-| 18  | University of Southampton       | Russell | Southampton | England          |
-| 19  | University of Warwick           | Russell | Coventry    | England          |
-| 20  | University of York              | Russell | York        | England          |
-| 21  | Queen's University Belfast      | Russell | Belfast     | Northern Ireland |
-| 22  | University of Edinburgh         | Russell | Edinburgh   | Scotland         |
-| 23  | University of Glasgow           | Russell | Glasgow     | Scotland         |
-| 24  | Cardiff University              | Russell | Cardiff     | Wales            |
-
-#### United States
-
-| No  | University                         | Group          | City         | State          |
-| --- | ---------------------------------- | -------------- | ------------ | -------------- |
-| 01  | Brown University                   | Ivy League     | Providence   | Rhode Island   |
-| 02  | Columbia University                | Ivy League     | New York     | New York       |
-| 03  | Cornell University                 | Ivy League     | Ithaca       | New York       |
-| 04  | Dartmouth College                  | Ivy League     | Hanover      | New Hampshire  |
-| 05  | Harvard University                 | Ivy League     | Cambridge    | Massachusetts  |
-| 06  | University of Pennsylvania         | Ivy League     | Philadelphia | Pennsylvania   |
-| 07  | Princeton University               | Ivy League     | Princeton    | New Jersey     |
-| 08  | Yale University                    | Ivy League     | New Haven    | Connecticut    |
-| 09  | University of California           | Public School  |              | California     |
-| 10  | University of Texas                | Public School  |              | Texas          |
-| 11  | Duke University                    | Private School | Durham       | North Carolina |
-| 12  | MIT                                | Private School |              | Massachusetts  |
-| 13  | Stanford University                | Private School |              | California     |
-| 14  | Johns Hopkins University           | Private School | Baltimore    | Maryland       |
-| 15  | California Institute of Technology | Private School |              | California     |
-| 16  | University of Notre Dame           | Private School | South Bend   | Indiana        |
+| No  | Country        | University                             | Group          | City         | State                        |
+| --- | -------------- | -------------------------------------- | -------------- | ------------ | ---------------------------- |
+| 01  | Australia      | Australian National University         | Group of Eight | Acton        | Australian Capital Territory |
+| 02  | Australia      | University of New South Wales          | Group of Eight | Sydney       | New South Wales              |
+| 03  | Australia      | University of Sydney                   | Group of Eight | Sydney       | New South Wales              |
+| 04  | Australia      | University of Queensland               | Group of Eight | Brisbane     | Queensland                   |
+| 05  | Australia      | University of Adelaide                 | Group of Eight | Adelaide     | South Australia              |
+| 06  | Australia      | University of Melbourne                | Group of Eight | Melbourne    | Victoria                     |
+| 07  | Australia      | Monash University                      | Group of Eight | Melbourne    | Victoria                     |
+| 08  | Australia      | University of Western Australia        | Group of Eight | Perth        | Western Australia            |
+| 09  | Canada         | University of Alberta                  | U15            | Edmonton     | Alberta                      |
+| 10  | Canada         | University of Calgary                  | U15            | Calgary      | Alberta                      |
+| 11  | Canada         | University of British Columbia         | U15            | Vancouver    | British Columbia             |
+| 12  | Canada         | University of Manitoba                 | U15            | Winnipeg     | Manitoba                     |
+| 13  | Canada         | Dalhousie University                   | U15            | Halifax      | Nova Scotia                  |
+| 14  | Canada         | McMaster University                    | U15            | Hamilton     | Ontario                      |
+| 15  | Canada         | University of Ottawa                   | U15            | Ottawa       | Ontario                      |
+| 16  | Canada         | Queen's University                     | U15            | Kingston     | Ontario                      |
+| 17  | Canada         | University of Toronto                  | U15            | Toronto      | Ontario                      |
+| 18  | Canada         | University of Waterloo                 | U15            | Waterloo     | Ontario                      |
+| 19  | Canada         | University of Western Ontario          | U15            | London       | Ontario                      |
+| 20  | Canada         | Université Laval                       | U15            | Quebec City  | Quebec                       |
+| 21  | Canada         | McGill University                      | U15            | Montreal     | Quebec                       |
+| 22  | Canada         | Université de Montréal                 | U15            | Montreal     | Quebec                       |
+| 23  | Canada         | University of Saskatchewan             | U15            | Saskatoon    | Saskatchewan                 |
+| 24  | Singapore      | National University of Singapore (NUS) |                |              |                              |
+| 25  | Singapore      | Duke - NUS Medical School              |                |              |                              |
+| 26  | Singapore      | Yale - NUS College                     |                |              |                              |
+| 27  | United Kingdom | University of Cambridge                | Russell        | Cambridge    | England                      |
+| 28  | United Kingdom | University of Oxford                   | Russell        | Oxford       | England                      |
+| 29  | United Kingdom | Imperial College London                | Russell        | London       | England                      |
+| 30  | United Kingdom | King's College London                  | Russell        | London       | England                      |
+| 31  | United Kingdom | London School of Economics             | Russell        | London       | England                      |
+| 32  | United Kingdom | Queen Mary University of London        | Russell        | London       | England                      |
+| 33  | United Kingdom | University College London              | Russell        | London       | England                      |
+| 34  | United Kingdom | University of Birmingham               | Russell        | Birmingham   | England                      |
+| 35  | United Kingdom | University of Bristol                  | Russell        | Bristol      | England                      |
+| 36  | United Kingdom | Durham University                      | Russell        | Durham       | England                      |
+| 37  | United Kingdom | University of Exeter                   | Russell        | Exeter       | England                      |
+| 38  | United Kingdom | University of Leeds                    | Russell        | Leeds        | England                      |
+| 39  | United Kingdom | University of Liverpool                | Russell        | Liverpool    | England                      |
+| 40  | United Kingdom | University of Manchester               | Russell        | Manchester   | England                      |
+| 41  | United Kingdom | Newcastle University                   | Russell        | Newcastle    | England                      |
+| 42  | United Kingdom | University of Nottingham               | Russell        | Nottingham   | England                      |
+| 43  | United Kingdom | University of Sheffield                | Russell        | Sheffield    | England                      |
+| 44  | United Kingdom | University of Southampton              | Russell        | Southampton  | England                      |
+| 45  | United Kingdom | University of Warwick                  | Russell        | Coventry     | England                      |
+| 46  | United Kingdom | University of York                     | Russell        | York         | England                      |
+| 47  | United Kingdom | Queen's University Belfast             | Russell        | Belfast      | Northern Ireland             |
+| 48  | United Kingdom | University of Edinburgh                | Russell        | Edinburgh    | Scotland                     |
+| 49  | United Kingdom | University of Glasgow                  | Russell        | Glasgow      | Scotland                     |
+| 50  | United Kingdom | Cardiff University                     | Russell        | Cardiff      | Wales                        |
+| 51  | United States  | Brown University                       | Ivy League     | Providence   | Rhode Island                 |
+| 52  | United States  | Columbia University                    | Ivy League     | New York     | New York                     |
+| 53  | United States  | Cornell University                     | Ivy League     | Ithaca       | New York                     |
+| 54  | United States  | Dartmouth College                      | Ivy League     | Hanover      | New Hampshire                |
+| 55  | United States  | Harvard University                     | Ivy League     | Cambridge    | Massachusetts                |
+| 56  | United States  | University of Pennsylvania             | Ivy League     | Philadelphia | Pennsylvania                 |
+| 57  | United States  | Princeton University                   | Ivy League     | Princeton    | New Jersey                   |
+| 58  | United States  | Yale University                        | Ivy League     | New Haven    | Connecticut                  |
+| 59  | United States  | University of California               | Public Ivy     |              | California                   |
+| 60  | United States  | University of Texas                    | Public Ivy     |              | Texas                        |
+| 61  | United States  | Duke University                        | Private School | Durham       | North Carolina               |
+| 62  | United States  | MIT                                    | Private School |              | Massachusetts                |
+| 63  | United States  | Stanford University                    | Private School |              | California                   |
+| 64  | United States  | Johns Hopkins University               | Private School | Baltimore    | Maryland                     |
+| 65  | United States  | California Institute of Technology     | Private School |              | California                   |
+| 66  | United States  | University of Notre Dame               | Private School | South Bend   | Indiana                      |
 
 ### Online
 
@@ -767,6 +742,7 @@ yarn husky add .husky/pre-commit "yarn lint && yarn prettier --write ."
 #### Coding Exercises
 
 - [CodeWars](https://www.codewars.com/)
+- [Codility](https://www.codility.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
 - [NeetCode](https://neetcode.io/)
