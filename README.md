@@ -153,6 +153,8 @@ ORM: Object Relational Mapping
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                              | [scikit-learn](https://scikit-learn.org/stable/)                        |               |           |
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                              | [scipy](https://scipy.org/)                                             |               |           |
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                              | [tensorflow](https://www.tensorflow.org/)                               |               | Google    |
+|     | Operations   |                                   | Server              |                              | [Apache](https://httpd.apache.org/)                                     |               |           |
+|     | Operations   |                                   | Server              |                              | [nginx](https://www.nginx.com/)                                         |               |           |
 |     | Operations   |                                   | Containerization    |                              | [Docker](https://www.docker.com/)                                       |               |           |
 |     | Operations   |                                   | Containerization    |                              | [Kubernetes](https://kubernetes.io/)                                    |               |           |
 |     | Operations   |                                   | Configuration       |                              | [Terraform](https://www.terraform.io/)                                  |               | HCL       |
