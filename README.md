@@ -20,8 +20,9 @@ ORM: Object Relational Mapping
 
 | No  | Development  | Supersector                       | Sector              | Subsector                   | URL                                                                     | Usage         | Developer |
 | --- | ------------ | --------------------------------- | ------------------- | --------------------------- | ----------------------------------------------------------------------- | ------------- | --------- |
-|     | Full-stack   |                                   | IDE                 |                             | Visual Studio                                                           |               |           |
-|     | Full-stack   |                                   | IDE                 |                             | Visual Studio Code                                                      |               |           |
+|     | Full-stack   |                                   | IDE                 |                             | Intellij IDEA                                                           |               | JetBrains |
+|     | Full-stack   |                                   | IDE                 |                             | Visual Studio                                                           |               | Microsoft |
+|     | Full-stack   |                                   | IDE                 |                             | Visual Studio Code                                                      |               | Microsoft |
 |     | Full-stack   |                                   | Language            | Markup                      | [Markdown](https://daringfireball.net/projects/markdown/)               | Documentation |           |
 |     | Full-stack   |                                   | Language            | Markup                      | [SVG](https://www.w3.org/Graphics/SVG/)                                 | Icon          |           |
 |     | Full-stack   |                                   | Language            | Programming                 | C                                                                       |               |           |
@@ -139,6 +140,8 @@ ORM: Object Relational Mapping
 |     | Back-end     |                                   | Message Broker      |                             | [ActiveMQ](https://activemq.apache.org/)                                |               | Apache    |
 |     | Back-end     |                                   | Message Broker      |                             | [Kafka](https://kafka.apache.org/)                                      |               | Apache    |
 |     | Back-end     |                                   | Message Broker      |                             | [RabbitMQ](https://www.rabbitmq.com/)                                   |               |           |
+|     | Back-end     |                                   | API Development     |                             | [Insomnia](https://insomnia.rest/)                                      |               |           |
+|     | Back-end     |                                   | API Development     |                             | [Postman](https://www.postman.com/)                                     |               |           |
 |     | Data Science |                                   | Language            | Programming                 | [R](https://www.r-project.org/)                                         |               |           |
 |     | Data Science | [Python](https://www.python.org/) | Data Collection     |                             | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) |               |           |
 |     | Data Science | [Python](https://www.python.org/) | Data Collection     |                             | [scrapy](https://scrapy.org/)                                           |               |           |
@@ -167,7 +170,11 @@ ORM: Object Relational Mapping
 |     | Operations   |                                   | SaaS                | Diagrams                    | [Sequence Diagram](https://sequencediagram.org/)                        |               |           |
 |     | Operations   |                                   | PaaS                |                             | [heroku](https://www.heroku.com/)                                       |               |           |
 |     | Operations   |                                   | PaaS                |                             | [render](https://render.com/)                                           |               |           |
+|     | Operations   | IaaS                              | AWS                 | Compute                     | EC2                                                                     |               | Amazon    |
+|     | Operations   | IaaS                              | AWS                 | Serverless                  | Lambda                                                                  |               | Amazon    |
 |     | Operations   | IaaS                              | AWS                 | Database - Key-Value        | [ElasticCache](https://aws.amazon.com/elasticache/)                     |               | Amazon    |
+|     | Operations   | IaaS                              | AWS                 | Database - Relational       | RDS                                                                     |               | Amazon    |
+|     | Operations   | IaaS                              | AWS                 | Files Storage               | S3 (Simple Storage Service)                                             |               | Amazon    |
 |     | Operations   | IaaS                              | Azure               |                             |                                                                         |               | Microsoft |
 |     | Operations   | IaaS                              | Azure               | Containerization            | Azure Container Registry                                                |               | Microsoft |
 |     | Operations   | IaaS                              | Google Cloud        |                             |                                                                         |               | Google    |
@@ -183,8 +190,8 @@ ORM: Object Relational Mapping
 | Compute         |                   |                                     | Azure Virtual Machines (Linux & Windows) | Compute Engine              |                             |
 |                 | Orchestration     |                                     | Azure Kubernetes Service (AKS)           | Google Kubernetes Engine    |                             |
 |                 | PaaS              | AWS Elastic Beanstalk               | App Service                              | Google App Engine           | App Platform                |
-|                 |                   | Serverless                          |                                          | Azure Functions             | Cloud Functions             |
-| Storage         |                   | Amazon Simple Storage Service (S3)  |                                          |                             | Spaces Object Storage       |
+|                 | Serverless        |                                     |                                          | Azure Functions             | Cloud Functions             |
+| Storage         |                   |                                     |                                          |                             | Spaces Object Storage       |
 |                 |                   | Amazon Elastic Block Store (EBS)    | Azure Files                              | Cloud Storage               | Volumes Block Storage       |
 |                 |                   | Amazon Elastic File System (EFS)    |                                          |                             |                             |
 | Databases       | Key-Value         |                                     | Azure Cache for Redis                    |                             | Redis                       |
