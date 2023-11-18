@@ -27,6 +27,7 @@ ORM: Object Relational Mapping
 |     | Full-stack   |                                   | Language            | Programming                 | C                                                                       |               |           |
 |     | Full-stack   |                                   | Language            | Programming                 | [C++](https://isocpp.org/)                                              |               |           |
 |     | Full-stack   |                                   | Language            | Programming                 | [C#](https://dotnet.microsoft.com/en-us/languages/csharp)               |               | Microsoft |
+|     |              |                                   | Language            | Programming                 | [Dart](https://dart.dev/)                                               |               | Google    |
 |     | Full-stack   |                                   | Language            | Programming                 | [Golang](https://go.dev)                                                |               | Google    |
 |     | Full-stack   |                                   | Language            | Programming                 | [Java](https://www.java.com/en/)                                        |               | Oracle    |
 |     | Full-stack   |                                   | Language            | Programming                 | [Python](https://www.python.org)                                        |               |           |
