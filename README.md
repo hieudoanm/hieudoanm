@@ -15,15 +15,18 @@
 
 CLI: Command-line Interface
 e2e: End to End
+IDE: Integrated Development Environment
 ORM: Object Relational Mapping
 
 | No  | Development  | Supersector                       | Sector              | Subsector                   | URL                                                                     | Usage         | Developer |
 | --- | ------------ | --------------------------------- | ------------------- | --------------------------- | ----------------------------------------------------------------------- | ------------- | --------- |
-|     | Full-stack   |                                   | Language            | Markup                      | Markdown                                                                | Documentation |           |
-|     | Full-stack   |                                   | Language            | Markup                      | SVG                                                                     | Icon          |           |
+|     | Full-stack   |                                   | IDE                 |                             | Visual Studio                                                           |               |           |
+|     | Full-stack   |                                   | IDE                 |                             | Visual Studio Code                                                      |               |           |
+|     | Full-stack   |                                   | Language            | Markup                      | [Markdown](https://daringfireball.net/projects/markdown/)               | Documentation |           |
+|     | Full-stack   |                                   | Language            | Markup                      | [SVG](https://www.w3.org/Graphics/SVG/)                                 | Icon          |           |
 |     | Full-stack   |                                   | Language            | Programming                 | C                                                                       |               |           |
-|     | Full-stack   |                                   | Language            | Programming                 | C++                                                                     |               |           |
-|     | Full-stack   |                                   | Language            | Programming                 | C#                                                                      |               | Microsoft |
+|     | Full-stack   |                                   | Language            | Programming                 | [C++](https://isocpp.org/)                                              |               |           |
+|     | Full-stack   |                                   | Language            | Programming                 | [C#](https://dotnet.microsoft.com/en-us/languages/csharp)               |               | Microsoft |
 |     | Full-stack   |                                   | Language            | Programming                 | [Golang](https://go.dev)                                                |               | Google    |
 |     | Full-stack   |                                   | Language            | Programming                 | [Java](https://www.java.com/en/)                                        |               | Oracle    |
 |     | Full-stack   |                                   | Language            | Programming                 | [Python](https://www.python.org)                                        |               |           |
@@ -52,6 +55,7 @@ ORM: Object Relational Mapping
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit                        | [jest](http://jestjs.io/)                                               |               | Meta      |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Testing             | Unit                        | [mocha](https://mochajs.org/)                                           |               |           |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Git Hooks           |                             | [husky](https://typicode.github.io/husky/#/)                            |               |           |
+|     | Full-stack   | [Golang](https://go.dev/)         | CLI                 |                             | [cobra](https://cobra.dev/)                                             |               |           |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | CLI                 |                             | [vite](https://vitejs.dev/)                                             |               |           |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML            | [docsify](https://docsify.js.org/#/)                                    |               |           |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Documentation       | Markdown to HTML            | [docusaurus](https://docusaurus.io/)                                    |               |           |
@@ -97,6 +101,7 @@ ORM: Object Relational Mapping
 |     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management    | React                       | [Redux Thunk](https://www.npmjs.com/package/redux-thunk)                |               |           |
 |     | Mobile       |                                   | Language            | Programming                 | [Kotlin](https://kotlinlang.org/)                                       |               | JetBrains |
 |     | Mobile       |                                   | Language            | Programming                 | [Swift](https://developer.apple.com/swift/)                             |               | Apple     |
+|     | Back-end     | [Golang](https://go.dev/)         | Framework           |                             | [Gin](https://gin-gonic.com/)                                           |               |           |
 |     | Back-end     | [Java](https://www.java.com/en/)  | Framework           |                             | [Spring Boot](https://spring.io/projects/spring-boot)                   |               |           |
 |     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           | GraphQL                     | [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)     |               |           |
 |     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework           |                             | [Express.js](https://expressjs.com/)                                    |               |           |
@@ -144,60 +149,59 @@ ORM: Object Relational Mapping
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [scikit-learn](https://scikit-learn.org/stable/)                        |               |           |
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [scipy](https://scipy.org/)                                             |               |           |
 |     | Data Science | [Python](https://www.python.org/) | Machine Learning    |                             | [tensorflow](https://www.tensorflow.org/)                               |               | Google    |
+|     | Operations   |                                   | Containerization    |                             | [Docker](https://www.docker.com/)                                       |               |           |
+|     | Operations   |                                   | Containerization    |                             | [Kubernetes](https://kubernetes.io/)                                    |               |           |
+|     | Operations   |                                   | Configuration       |                             | [Terraform](https://www.terraform.io/)                                  |               | HCL       |
+|     | Operations   |                                   | Serverless          |                             | [Netlify](https://www.netlify.com/)                                     |               |           |
+|     | Operations   |                                   | Serverless          |                             | [Vercel](https://vercel.com)                                            |               |           |
+|     | Operations   |                                   | SaaS                | CI/CD                       | [CircleCI](https://circleci.com/)                                       |               |           |
+|     | Operations   |                                   | SaaS                | CI/CD                       | [GitHub Actions](https://github.com/features/actions)                   |               |           |
+|     | Operations   |                                   | SaaS                | CI/CD                       | [GitLab CI](https://docs.gitlab.com/ee/ci/)                             |               |           |
+|     | Operations   |                                   | SaaS                | CI/CD                       | [Jenkins](https://www.jenkins.io/)                                      |               |           |
+|     | Operations   |                                   | SaaS                | CI/CD                       | [Travis](https://www.travis-ci.com/)                                    |               |           |
+|     | Operations   |                                   | SaaS                | CI/CD                       | [Harness](https://www.harness.io)                                       |               |           |
 |     | Operations   |                                   | SaaS                | [Git](https://git-scm.com/) | [GitHub](https://github.com/)                                           |               |           |
 |     | Operations   |                                   | SaaS                | [Git](https://git-scm.com/) | [GitLab](https://about.gitlab.com/)                                     |               |           |
 |     | Operations   |                                   | SaaS                | Diagrams                    | [Diagrams](https://www.diagrams.net/)                                   |               |           |
 |     | Operations   |                                   | SaaS                | Diagrams                    | [Sequence Diagram](https://sequencediagram.org/)                        |               |           |
-|     | Operations   |                                   | Serverless          |                             | [Netlify](https://www.netlify.com/)                                     |               |           |
-|     | Operations   |                                   | Serverless          |                             | [Vercel](https://vercel.com)                                            |               |           |
 |     | Operations   |                                   | PaaS                |                             | [heroku](https://www.heroku.com/)                                       |               |           |
 |     | Operations   |                                   | PaaS                |                             | [render](https://render.com/)                                           |               |           |
+|     | Operations   | IaaS                              | AWS                 | Database - Key-Value        | [ElasticCache](https://aws.amazon.com/elasticache/)                     |               | Amazon    |
+|     | Operations   | IaaS                              | Azure               |                             |                                                                         |               | Microsoft |
+|     | Operations   | IaaS                              | Azure               | Containerization            | Azure Container Registry                                                |               | Microsoft |
+|     | Operations   | IaaS                              | Google Cloud        |                             |                                                                         |               | Google    |
+|     | Operations   | IaaS                              | Google Cloud        | Containerization            | Container Registry                                                      |               | Google    |
 |     | Hardware     |                                   | Framework           |                             | [Qt](https://www.qt.io/)                                                |               |           |
 |     | Hardware     |                                   | Electronics         |                             | [Arduino](https://www.arduino.cc/)                                      |               |           |
 |     | Hardware     |                                   | Electronics         |                             | [Raspberry PI](https://www.raspberrypi.com/)                            |               |           |
 
 ### IaaS (Infrastructure as a Service)
 
-| IaaS            |                                          | Amazon Web Services (AWS)           | Azure                                    | Google Cloud                | Digital Ocean               |
-| --------------- | ---------------------------------------- | ----------------------------------- | ---------------------------------------- | --------------------------- | --------------------------- |
-| Compute         |                                          |                                     | Azure Virtual Machines (Linux & Windows) | Compute Engine              |                             |
-|                 | Orchestration                            |                                     | Azure Kubernetes Service (AKS)           | Google Kubernetes Engine    |                             |
-|                 |                                          |                                     |                                          |                             |                             |
-|                 | PaaS                                     | AWS Elastic Beanstalk               | App Service                              | Google App Engine           | App Platform                |
-|                 |                                          | Serverless                          |                                          | Azure Functions             | Cloud Functions             |
-|                 |                                          |                                     |                                          |                             |                             |
-| Storage         |                                          | Amazon Simple Storage Service (S3)  |                                          |                             | Spaces Object Storage       |
-|                 |                                          |                                     |                                          |                             |                             |
-|                 |                                          | Amazon Elastic Block Store (EBS)    | Azure Files                              | Cloud Storage               | Volumes Block Storage       |
-|                 |                                          | Amazon Elastic File System (EFS)    |                                          |                             |                             |
-| Databases       | Key-Value                                |                                     | Azure Cache for Redis                    |                             | Redis                       |
-|                 |                                          |                                     |                                          |                             |                             |
-|                 | Wide Column                              |                                     |                                          |                             |                             |
-|                 | Document Oriented                        |                                     | Azure Cosmos DB                          | Firestore                   | MongoDB                     |
-|                 |                                          |                                     |                                          |                             |                             |
-|                 | Relational                               |                                     | Azure Database for PostgreSQL            |                             | PostgreSQL                  |
-|                 |                                          |                                     | Azure Database for MySQL                 |                             | MySQL                       |
-|                 |                                          |                                     | Azure SQL Database                       |                             |                             |
-|                 | Graph                                    |                                     |                                          |                             |                             |
-|                 | Search Engine                            | OpenSearch Service                  |                                          |                             |                             |
-| Networking      |                                          | Amazon VPC                          | Azure Virtual Network                    | Virtual Private Cloud (VPC) | Virtual Private Cloud (VPC) |
-|                 |                                          |                                     | Azure Firewall                           |                             | Cloud Firewalls             |
-|                 |                                          | Amazon Elastic Load Balancing (ELB) | Load Balancer                            | Cloud Load Balancing        | Load Balancers              |
-|                 |                                          |                                     |                                          |                             | Reserved IPs                |
-|                 |                                          | Amazon Route 53                     | Azure DNS                                | Cloud DNS                   | DNS                         |
-| Message Brokers |                                          |                                     | Azure Service Bus                        |                             |                             |
-|                 |                                          |                                     |                                          |                             |                             |
-|                 |                                          |                                     |                                          |                             |                             |
-| IaC             | Container                                |                                     | Azure Container Registry                 | Container Registry          |                             |
-|                 |                                          |                                     |                                          |                             |                             |
-| Secrets Manager |                                          | System Manager - Parameter Store    | Azure Key Vault                          |                             |                             |
-| Developer Tools | Version Control                          |                                     | GitHub                                   |                             |                             |
-|                 | CI                                       |                                     | Azure Pipelines                          |                             |                             |
-|                 | CD                                       |                                     | Cloud Build                              |                             |                             |
-|                 |                                          |                                     |                                          |                             |                             |
-|                 | Command Line Interface (CLI)             |                                     |                                          |                             |                             |
-|                 | Integrated Development Environment (IDE) |                                     | Visual Studio                            |                             |                             |
-|                 |                                          |                                     | Visual Studio Code                       |                             |                             |
+| IaaS            |                   | Amazon Web Services (AWS)           | Azure                                    | Google Cloud                | Digital Ocean               |
+| --------------- | ----------------- | ----------------------------------- | ---------------------------------------- | --------------------------- | --------------------------- |
+| Compute         |                   |                                     | Azure Virtual Machines (Linux & Windows) | Compute Engine              |                             |
+|                 | Orchestration     |                                     | Azure Kubernetes Service (AKS)           | Google Kubernetes Engine    |                             |
+|                 | PaaS              | AWS Elastic Beanstalk               | App Service                              | Google App Engine           | App Platform                |
+|                 |                   | Serverless                          |                                          | Azure Functions             | Cloud Functions             |
+| Storage         |                   | Amazon Simple Storage Service (S3)  |                                          |                             | Spaces Object Storage       |
+|                 |                   | Amazon Elastic Block Store (EBS)    | Azure Files                              | Cloud Storage               | Volumes Block Storage       |
+|                 |                   | Amazon Elastic File System (EFS)    |                                          |                             |                             |
+| Databases       | Key-Value         |                                     | Azure Cache for Redis                    |                             | Redis                       |
+|                 | Wide Column       |                                     |                                          |                             |                             |
+|                 | Document Oriented |                                     | Azure Cosmos DB                          | Firestore                   | MongoDB                     |
+|                 | Relational        |                                     | Azure Database for PostgreSQL            |                             | PostgreSQL                  |
+|                 |                   |                                     | Azure Database for MySQL                 |                             | MySQL                       |
+|                 |                   |                                     | Azure SQL Database                       |                             |                             |
+|                 | Search Engine     | OpenSearch Service                  |                                          |                             |                             |
+| Networking      |                   | Amazon VPC                          | Azure Virtual Network                    | Virtual Private Cloud (VPC) | Virtual Private Cloud (VPC) |
+|                 |                   |                                     | Azure Firewall                           |                             | Cloud Firewalls             |
+|                 |                   | Amazon Elastic Load Balancing (ELB) | Load Balancer                            | Cloud Load Balancing        | Load Balancers              |
+|                 |                   |                                     |                                          |                             | Reserved IPs                |
+|                 |                   | Amazon Route 53                     | Azure DNS                                | Cloud DNS                   | DNS                         |
+| Message Brokers |                   |                                     | Azure Service Bus                        |                             |                             |
+| Secrets Manager |                   | System Manager - Parameter Store    | Azure Key Vault                          |                             |                             |
+|                 | CI                |                                     | Azure Pipelines                          |                             |                             |
+|                 | CD                |                                     | Cloud Build                              |                             |                             |
 
 ## Education
 
