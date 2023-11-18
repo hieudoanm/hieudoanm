@@ -102,8 +102,15 @@
 |     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management            | React                        | [Redux](https://redux.js.org/)                                                      |               |           |
 |     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management            | React                        | [Redux Saga](https://redux-saga.js.org/)                                            |               |           |
 |     | Front-end    | [Node.js](https://nodejs.org/en)  | State Management            | React                        | [Redux Thunk](https://www.npmjs.com/package/redux-thunk)                            |               |           |
-|     | Mobile       |                                   | Language                    | Programming                  | [Kotlin](https://kotlinlang.org/)                                                   |               | JetBrains |
-|     | Mobile       |                                   | Language                    | Programming                  | [Swift](https://developer.apple.com/swift/)                                         |               | Apple     |
+|     | Front-end    | Mobile                            | Language                    | Programming                  | [Kotlin](https://kotlinlang.org/)                                                   |               | JetBrains |
+|     | Front-end    | Mobile                            | Language                    | Programming                  | [Swift](https://developer.apple.com/swift/)                                         |               | Apple     |
+|     | Back-end     | API Architectures                 |                             |                              | REST (Representational State Transfer)                                              |               |           |
+|     | Back-end     | API Architectures                 |                             |                              | SOAP (Simple Object Access Protocol)                                                |               |           |
+|     | Back-end     | API Architectures                 |                             |                              | GraphQL (Graph Query Language)                                                      |               |           |
+|     | Back-end     | API Architectures                 |                             |                              | RPC (Remote Procedure Call)                                                         |               |           |
+|     | Back-end     | API Architectures                 |                             |                              | Event Driven - WebHook                                                              |               |           |
+|     | Back-end     | API Architectures                 |                             |                              | WebSocket                                                                           |               |           |
+|     | Back-end     |                                   | Framework                   | RPC                          | [gRPC](https://grpc.io/)                                                            |               | Google    |
 |     | Back-end     | [Golang](https://go.dev/)         | Framework                   |                              | [Gin](https://gin-gonic.com/)                                                       |               |           |
 |     | Back-end     | [Java](https://www.java.com/en/)  | Framework                   |                              | [Spring Boot](https://spring.io/projects/spring-boot)                               |               |           |
 |     | Back-end     | [Node.js](https://nodejs.org/en)  | Framework                   | GraphQL                      | [Apollo GraphQL](https://www.apollographql.com/docs/apollo-server/)                 |               |           |
@@ -343,23 +350,24 @@
 
 ## Bookmarks
 
-| Category         | Name                                                                                   |
-| ---------------- | -------------------------------------------------------------------------------------- |
-| Resources        | [Baeldung](https://www.baeldung.com/)                                                  |
-| Resources        | [dev.to](https://dev.to/)                                                              |
-| Resources        | [roadmap](https://roadmap.sh)                                                          |
-| Resources        | [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) |
-| Coding Exercises | [Codecademy](https://www.codecademy.com/)                                              |
-| Coding Exercises | [CodeWars](https://www.codewars.com/)                                                  |
-| Coding Exercises | [Codility](https://www.codility.com/)                                                  |
-| Coding Exercises | [HackerRank](https://www.hackerrank.com/)                                              |
-| Coding Exercises | [LeetCode](https://leetcode.com/)                                                      |
-| Coding Exercises | [NeetCode](https://neetcode.io/)                                                       |
-| Online Courses   | [A Cloud Guru](https://acloudguru.com/)                                                |
-| Online Courses   | [Coursera](https://www.coursera.org/)                                                  |
-| Online Courses   | [DataCamp](https://www.datacamp.com/)                                                  |
-| Online Courses   | [FreeCodeCamp](https://www.freecodecamp.org/)                                          |
-| Online Courses   | [Harvard](https://pll.harvard.edu/)                                                    |
-| Online Courses   | [PluralSight](https://www.pluralsight.com/)                                            |
-| Online Courses   | [Udacity](https://www.udacity.com/)                                                    |
-| Online Courses   | [Udemy](https://www.udemy.com/)                                                        |
+| Category         | Name                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------- |
+| Resources        | [Baeldung](https://www.baeldung.com/)                                                       |
+| Resources        | [dev.to](https://dev.to/)                                                                   |
+| Resources        | [roadmap](https://roadmap.sh)                                                               |
+| Resources        | [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) |
+| Resources        | [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)      |
+| Coding Exercises | [Codecademy](https://www.codecademy.com/)                                                   |
+| Coding Exercises | [CodeWars](https://www.codewars.com/)                                                       |
+| Coding Exercises | [Codility](https://www.codility.com/)                                                       |
+| Coding Exercises | [HackerRank](https://www.hackerrank.com/)                                                   |
+| Coding Exercises | [LeetCode](https://leetcode.com/)                                                           |
+| Coding Exercises | [NeetCode](https://neetcode.io/)                                                            |
+| Online Courses   | [A Cloud Guru](https://acloudguru.com/)                                                     |
+| Online Courses   | [Coursera](https://www.coursera.org/)                                                       |
+| Online Courses   | [DataCamp](https://www.datacamp.com/)                                                       |
+| Online Courses   | [FreeCodeCamp](https://www.freecodecamp.org/)                                               |
+| Online Courses   | [Harvard](https://pll.harvard.edu/)                                                         |
+| Online Courses   | [PluralSight](https://www.pluralsight.com/)                                                 |
+| Online Courses   | [Udacity](https://www.udacity.com/)                                                         |
+| Online Courses   | [Udemy](https://www.udemy.com/)                                                             |
