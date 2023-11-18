@@ -28,7 +28,7 @@ ORM: Object Relational Mapping
 |     | Full-stack   |                                   | Language            | Programming                  | C                                                                       |               |           |
 |     | Full-stack   |                                   | Language            | Programming                  | [C++](https://isocpp.org/)                                              |               |           |
 |     | Full-stack   |                                   | Language            | Programming                  | [C#](https://dotnet.microsoft.com/en-us/languages/csharp)               |               | Microsoft |
-|     |              |                                   | Language            | Programming                  | [Dart](https://dart.dev/)                                               |               | Google    |
+|     | Full-stack   |                                   | Language            | Programming                  | [Dart](https://dart.dev/)                                               |               | Google    |
 |     | Full-stack   |                                   | Language            | Programming                  | [Golang](https://go.dev)                                                |               | Google    |
 |     | Full-stack   |                                   | Language            | Programming                  | [Java](https://www.java.com/en/)                                        |               | Oracle    |
 |     | Full-stack   |                                   | Language            | Programming                  | [Python](https://www.python.org)                                        |               |           |
@@ -39,7 +39,7 @@ ORM: Object Relational Mapping
 |     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                              | [Gradle](https://gradle.org/)                                           |               |           |
 |     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                              | [JFrog](https://jfrog.com/)                                             |               |           |
 |     | Full-stack   | [Java](https://www.java.com/en/)  | Package Manager     |                              | [Maven](https://maven.apache.org/)                                      |               |           |
-|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                              | [npm](https://www.npmjs.com/)                                           |               |           |
+|     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                              | [npm](https://www.npmjs.com/)                                           |               | Microsoft |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                              | [pnpm](https://pnpm.io/)                                                |               |           |
 |     | Full-stack   | [Node.js](https://nodejs.org/en)  | Package Manager     |                              | [yarn](https://yarnpkg.com/)                                            |               |           |
 |     | Full-stack   | [Python](https://www.python.org/) | Package Manager     |                              | [anaconda](https://www.anaconda.com/)                                   |               |           |
