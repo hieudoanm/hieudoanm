@@ -8,16 +8,16 @@
 
 ## Techstack
 
-CLI : Command-line Interface
-e2e : End to End
-DNS : Domain Name System
-IaaS : Infrastructure as a Service
-IDE : Integrated Development Environment
-IP : Internet Protocol
-ORM : Object Relational Mapping
-PaaS : Platform as a Service
-SaaS : Software as a Service
-VPC : Virtual Private Cloud
+- CLI : Command-line Interface
+- e2e : End to End
+- DNS : Domain Name System
+- IaaS : Infrastructure as a Service
+- IDE : Integrated Development Environment
+- IP : Internet Protocol
+- ORM : Object Relational Mapping
+- PaaS : Platform as a Service
+- SaaS : Software as a Service
+- VPC : Virtual Private Cloud
 
 | No  | Development  | Supersector                       | Sector                      | Subsector                    | URL                                                                                 | Usage         | Developer |
 | --- | ------------ | --------------------------------- | --------------------------- | ---------------------------- | ----------------------------------------------------------------------------------- | ------------- | --------- |
