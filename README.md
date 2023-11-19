@@ -278,24 +278,10 @@
 
 ## Bookmarks
 
-| Category         | Name                                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------------- |
-| Resources        | [Baeldung](https://www.baeldung.com/)                                                       |
-| Resources        | [dev.to](https://dev.to/)                                                                   |
-| Resources        | [roadmap](https://roadmap.sh)                                                               |
-| Resources        | [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) |
-| Resources        | [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)      |
-| Coding Exercises | [Codecademy](https://www.codecademy.com/)                                                   |
-| Coding Exercises | [CodeWars](https://www.codewars.com/)                                                       |
-| Coding Exercises | [Codility](https://www.codility.com/)                                                       |
-| Coding Exercises | [HackerRank](https://www.hackerrank.com/)                                                   |
-| Coding Exercises | [LeetCode](https://leetcode.com/)                                                           |
-| Coding Exercises | [NeetCode](https://neetcode.io/)                                                            |
-| Online Courses   | [A Cloud Guru](https://acloudguru.com/)                                                     |
-| Online Courses   | [Coursera](https://www.coursera.org/)                                                       |
-| Online Courses   | [DataCamp](https://www.datacamp.com/)                                                       |
-| Online Courses   | [FreeCodeCamp](https://www.freecodecamp.org/)                                               |
-| Online Courses   | [Harvard](https://pll.harvard.edu/)                                                         |
-| Online Courses   | [PluralSight](https://www.pluralsight.com/)                                                 |
-| Online Courses   | [Udacity](https://www.udacity.com/)                                                         |
-| Online Courses   | [Udemy](https://www.udemy.com/)                                                             |
+| Category  | Name                                                                                        |
+| --------- | ------------------------------------------------------------------------------------------- |
+| Resources | [Baeldung](https://www.baeldung.com/)                                                       |
+| Resources | [dev.to](https://dev.to/)                                                                   |
+| Resources | [roadmap](https://roadmap.sh)                                                               |
+| Resources | [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) |
+| Resources | [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)      |
