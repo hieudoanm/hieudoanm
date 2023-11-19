@@ -241,40 +241,23 @@
 
 ## Companies
 
-| Category                   | Company                                                | Location                                 | Product        |
-| -------------------------- | ------------------------------------------------------ | ---------------------------------------- | -------------- |
-| Big Tech                   | [Alphabet](http://alphabet.com/)                       |                                          | Software Dev   |
-| Big Tech                   | [Amazon](https://www.amazon.com/)                      |                                          | Software Dev   |
-| Big Tech                   | [Apache](https://www.apache.org/)                      |                                          | Software Dev   |
-| Big Tech                   | [Apple](https://www.apple.com/)                        |                                          | Software Dev   |
-| Big Tech                   | [IBM](https://www.ibm.com/)                            |                                          | Software Dev   |
-| Big Tech                   | [Meta](https://www.meta.com/)                          |                                          | Social Media   |
-| Big Tech                   | [Microsoft](https://www.microsoft.com)                 |                                          | Software Dev   |
-| Big Tech                   | [Oracle](https://www.oracle.com/)                      |                                          | Software Dev   |
-| Big Tech                   | [Twitter](https://twitter.com/)                        |                                          | Social Media   |
-| Computational Neuroscience | [Kernel](https://www.kernel.com/)                      |                                          |                |
-| Computational Neuroscience | [BrainGate](https://www.braingate.org/)                | Stanford, California, United States      |                |
-| Computational Neuroscience | [Blackrock Neurotech](https://blackrockneurotech.com/) | Salt Lake City, Utah, United States      |                |
-| Computational Neuroscience | [Neurable](https://neurable.com/)                      | Boston, Massachusetts, United States     |                |
-| Computational Neuroscience | [BrainCo](https://brainco.tech/)                       | Boston, Massachusetts, United States     |                |
-| Computational Neuroscience | [Neuralink](https://neuralink.com/)                    | Fremont, California, United States       |                |
-|                            |                                                        | Austin, Texas, United States             |                |
-| Computational Neuroscience | [Synchron](https://synchron.com/)                      | Brooklyn, New York, United States        |                |
-|                            |                                                        | Melbourne, Victoria, Australia           |                |
-| Computational Neuroscience | [Bitbrain](https://www.bitbrain.com/)                  | Zaragoza, Zaragoza, Spain                |                |
-|                            |                                                        | New York City, New York, United States   |                |
-| Computational Neuroscience | [Precision Neuroscience](https://precisionneuro.io/)   | Manhattan, New York, United States       |                |
-|                            |                                                        | Mountain View, California, United States |                |
-|                            |                                                        | Minneapolis, Minnesota, United States    |                |
-| Computational Neuroscience | [Emotiv](https://www.emotiv.com/)                      | San Francisco, California, United States |                |
-|                            |                                                        | Sydney, New South Wales, Australia       |                |
-|                            |                                                        | Hanoi, Hanoi, Vietnam                    |                |
-| Investment Banking         | Goldman Sachs                                          |                                          |                |
-| Investment Banking         | J.P. Morgan                                            |                                          |                |
-| Investment Banking         | Morgan Stanley                                         |                                          |                |
-| Venture Capital            | [BlackRock](https://www.blackrock.com/)                |                                          | Index Fund     |
-| Venture Capital            | [BlackStone](https://www.blackstone.com/)              |                                          | Private Equity |
-| Venture Capital            | [Vanguard](https://www.vanguard.com)                   |                                          | Index Fund     |
+| Category           | Company                                   |     | Product        |
+| ------------------ | ----------------------------------------- | --- | -------------- |
+| Big Tech           | [Alphabet](http://alphabet.com/)          |     | Software Dev   |
+| Big Tech           | [Amazon](https://www.amazon.com/)         |     | Software Dev   |
+| Big Tech           | [Apache](https://www.apache.org/)         |     | Software Dev   |
+| Big Tech           | [Apple](https://www.apple.com/)           |     | Software Dev   |
+| Big Tech           | [IBM](https://www.ibm.com/)               |     | Software Dev   |
+| Big Tech           | [Meta](https://www.meta.com/)             |     | Social Media   |
+| Big Tech           | [Microsoft](https://www.microsoft.com)    |     | Software Dev   |
+| Big Tech           | [Oracle](https://www.oracle.com/)         |     | Software Dev   |
+| Big Tech           | [Twitter](https://twitter.com/)           |     | Social Media   |
+| Investment Banking | Goldman Sachs                             |     |                |
+| Investment Banking | J.P. Morgan                               |     |                |
+| Investment Banking | Morgan Stanley                            |     |                |
+| Venture Capital    | [BlackRock](https://www.blackrock.com/)   |     | Index Fund     |
+| Venture Capital    | [BlackStone](https://www.blackstone.com/) |     | Private Equity |
+| Venture Capital    | [Vanguard](https://www.vanguard.com)      |     | Index Fund     |
 
 ## Bookmarks
 
