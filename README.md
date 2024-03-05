@@ -33,6 +33,20 @@
                 Turbo
             </td>
             <td align="center" width="96px">
+                <a href="https://eslint.org/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/eslint.svg" title="ESLint" alt="ESLint" width="64px" height="64px" />
+                </a>
+                <br />
+                ESLint
+            </td>
+            <td align="center" width="96px">
+                <a href="https://prettier.io/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/prettier.svg" title="Prettier" alt="Prettier" width="64px" height="64px" />
+                </a>
+                <br />
+                Prettier
+            </td>
+            <td align="center" width="96px">
                 <a href="https://biomejs.dev" target="_blank">
                     <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/biome.js.svg" title="Biome" alt="Biome" width="64px" height="64px" />
                 </a>
@@ -59,13 +73,6 @@
                 </a>
                 <br />
                 Vault
-            </td>
-            <td align="center" width="96px">
-                <a href="https://vercel.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/vercel.svg" title="Vercel" alt="Vercel" width="64px" height="64px" />
-                </a>
-                <br />
-                Vercel
             </td>
         </tr>
         <tr>
@@ -111,8 +118,6 @@
                 <br />
                 Tauri
             </td>
-        </tr>
-        <tr>
             <td align="center" width="96px">
                 <a href="https://graphql.org" target="_blank">
                     <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/graphql.svg" title="GraphQL" alt="GraphQL" width="64px" height="64px" />
@@ -120,12 +125,21 @@
                 <br />
                 GraphQL
             </td>
+        </tr>
+        <tr>
             <td align="center" width="96px">
                 <a href="https://www.apollographql.com" target="_blank">
                     <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/apollo.svg" title="Apollo" alt="Apollo" width="64px" height="64px" />
                 </a>
                 <br />
                 Apollo
+            </td>
+            <td align="center" width="96px">
+                <a href="https://go.dev" target="_blank">
+                    <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/golang.svg" title="Golang" alt="Golang" width="64px" height="64px" />
+                </a>
+                <br />
+                Golang
             </td>
             <td align="center" width="96px">
                 <a href="https://www.prisma.io" target="_blank">
@@ -155,6 +169,13 @@
                 <br />
                 Terraform
             </td>
+            <td align="center" width="96px">
+                <a href="https://vercel.com" target="_blank">
+                    <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/vercel.svg" title="Vercel" alt="Vercel" width="64px" height="64px" />
+                </a>
+                <br />
+                Vercel
+            </td>
         </tr>
         <tr>
             <td align="center" width="96px">
@@ -163,6 +184,13 @@
                 </a>
                 <br />
                 Python
+            </td>
+            <td align="center" width="96px">
+                <a href="https://fastapi.tiangolo.com/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/fastapi.svg" title="Pandas" alt="FastAPI" width="64px" height="64px" />
+                </a>
+                <br />
+                FastAPI
             </td>
             <td align="center" width="96px">
                 <a href="https://jupyter.org" target="_blank">
@@ -176,7 +204,7 @@
                     <img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/assets/svg/icons/readme/pandas.svg" title="Pandas" alt="Pandas" width="64px" height="64px" />
                 </a>
                 <br />
-                Terraform
+                Pandas
             </td>
             <td align="center" width="96px">
                 <a href="https://numpy.org" target="_blank">
