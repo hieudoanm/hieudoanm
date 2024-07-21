@@ -1,25 +1,22 @@
-# [Hieu Doan](https://hieudoanm.github.io)
+# Hi, I'm [HIEU DOAN](https://hieudoanm.github.io)
 
-## 🛠️ Techstack 🛠️
+🛠️ Computational Neuroscientist with GPT - `Golang` (Cobra), `Python` (FastAPI, Tensorflow), `TypeScript` (Next.js, GraphQL, tRPC).
 
-1. 📟 I build `CLI` with **Go**
-2. ⛩️ I build `API Gateway` with **GraphQL**
-3. 📱 I build `Software Application` with **Next.js** and **tPRC**
-4. 🤖 I build `Machine Learning Model` with **FastAPI** and **TensorFlow**
+## Experiences
 
-## 📜 Experiences 👨‍🎓
-
-| Type        | Country | City              | Start | End  | Institution                    | Position                                                                            |
-| ----------- | ------- | ----------------- | ----- | ---- | ------------------------------ | ----------------------------------------------------------------------------------- |
-| Education   | Vietnam | Ho Chi Minh City  | 2022  | now  | [RMIT][rmit]                   | [Bachelor of Psychology][rmit-psychology]                                           |
-| Work        | Vietnam | Ho Chi Minh City  | 2021  | now  | [NAB][nab]                     | Senior Software Developer                                                           |
-| Certificate | Vietnam | Ho Chi Minh City  | 2021  | 2024 | [AWS][aws]                     | [Solutions Architect – Associate][aws-ssa]                                          |
-| Work        | Vietnam | Hanoi             | 2019  | 2021 | [BoostCommerce][boostcommerce] | Software Developer                                                                  |
-| Work        | Germany | Frankfurt am Main | 2017  | 2019 | [admetrics][admetrics]         | Front-end Developer                                                                 |
-| Work        | Finland | Helsinki          | 2015  | 2017 | Witrafi                        | Front-end Developer                                                                 |
-| Education   | Finland | Lahti             | 2013  | 2016 | [LAB][lab]                     | [Bachelor of Business Administration, Business Information Technology][lab-bba-bit] |
+| Type        | Country | City        | Start | End     | Institution                    | Position                                   |
+| ----------- | ------- | ----------- | ----- | ------- | ------------------------------ | ------------------------------------------ |
+| Education   | Vietnam | Ho Chi Minh | 2022  | **now** | [RMIT][rmit]                   | [Bachelor of Psychology][rmit-psychology]  |
+| Work        | Vietnam | Ho Chi Minh | 2021  | **now** | [NAB][nab]                     | Senior Software Developer                  |
+| Certificate | Vietnam | Ho Chi Minh | 2021  | 2024    | [AWS][aws]                     | [Solutions Architect – Associate][aws-ssa] |
+| Work        | Vietnam | Hanoi       | 2019  | 2021    | [BoostCommerce][boostcommerce] | Software Developer                         |
+| Work        | Germany | Frankfurt   | 2017  | 2019    | [admetrics][admetrics]         | Front-end Developer                        |
+| Work        | Finland | Helsinki    | 2015  | 2017    | Witrafi                        | Front-end Developer                        |
+| Education   | Finland | Lahti       | 2013  | 2016    | [LAB][lab]                     | [Bachelor of BA, BIT][lab-bba-bit]         |
 
 - AWS: Amazon Web Services
+- BA: Business Administration
+- BIT: Business Information Technology
 - NAB: National Australia Bank
 - LAB: LAB University of Applied Sciences
 - RMIT: Royal Melbourne Institute of Technology
