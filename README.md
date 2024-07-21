@@ -17,13 +17,6 @@
 | Work        | Finland | Helsinki    | 2015  | 2017    | Witrafi                        | Front-end Developer                        |
 | Education   | Finland | Lahti       | 2013  | 2016    | [LAB][lab]                     | [Bachelor of BA, BIT][lab-bba-bit]         |
 
-- AWS: Amazon Web Services
-- BA: Business Administration
-- BIT: Business Information Technology
-- NAB: National Australia Bank
-- LAB: LAB University of Applied Sciences
-- RMIT: Royal Melbourne Institute of Technology
-
 [admetrics]: https://www.admetrics.io/
 [aws]: https://aws.amazon.com
 [aws-ssa]: https://www.credly.com/badges/a427ccdc-fc44-4874-a422-21d772e0e4b3
