@@ -1,38 +1,13 @@
-<div align="center">
-  <h1><a href="https://hieudoanm.github.io">👨‍💻 HIEU DOAN 👨‍💻</a></h1>
-</div>
+# [Hieu Doan](https://hieudoanm.github.io)
 
-<br />
+## 🛠️ Techstack 🛠️
 
-<div align="center">
-  <h1>🧠 Neurobiology 🧬</h1>
-</div>
+1. 📟 I build `CLI` with **Go**
+2. ⛩️ I build `API Gateway` with **GraphQL**
+3. 📱 I build `Software Application` with **Next.js** and **tPRC**
+4. 🤖 I build `Machine Learning Model` with **FastAPI** and **TensorFlow**
 
----
-
-<div align="center">
-  <blockquote>Neurons create soul, soul then reorganizes those neurons, then those reorganized neurons make the soul evolve.</blockquote>
-</div>
-
----
-
-<br />
-
-<div align="center">
-  <h1>🛠️ Techstack 🛠️</h1>
-</div>
-
-1. 📟 I build `CLI` with [**Go**](https://github.com/hieudoanm/go-cli)
-2. ⛩️ I build `API Gateway` with [**GraphQL**](https://github.com/hieudoanm/ts-gql)
-3. 📱 I build `Front-end Application` with [**Nett**](https://github.com/hieudoanm/ts-nett)
-4. 🗄️ I build `Back-end Application` with [**FastAPI**](https://github.com/hieudoanm/py-fastapi)
-5. 🤖 I build `Machine Learning Model` with **TensorFlow**
-
-<br />
-
-<div align="center">
-  <h1>📜 Experiences 👨‍🎓</h1>
-</div>
+## 📜 Experiences 👨‍🎓
 
 | Type        | Country | City              | Start | End  | Institution                    | Position                                                                            |
 | ----------- | ------- | ----------------- | ----- | ---- | ------------------------------ | ----------------------------------------------------------------------------------- |
@@ -44,10 +19,10 @@
 | Work        | Finland | Helsinki          | 2015  | 2017 | Witrafi                        | Front-end Developer                                                                 |
 | Education   | Finland | Lahti             | 2013  | 2016 | [LAB][lab]                     | [Bachelor of Business Administration, Business Information Technology][lab-bba-bit] |
 
-AWS: Amazon Web Services
-NAB: National Australia Bank
-LAB: LAB University of Applied Sciences
-RMIT: Royal Melbourne Institute of Technology
+- AWS: Amazon Web Services
+- NAB: National Australia Bank
+- LAB: LAB University of Applied Sciences
+- RMIT: Royal Melbourne Institute of Technology
 
 [admetrics]: https://www.admetrics.io/
 [aws]: https://aws.amazon.com
