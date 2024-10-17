@@ -303,8 +303,8 @@ importers:
         version: 3.23.8
     devDependencies:
       '@dotenvx/dotenvx':
-        specifier: 1.19.3
-        version: 1.19.3
+        specifier: 1.20.0
+        version: 1.20.0
       '@eslint/compat':
         specifier: 1.2.0
         version: 1.2.0(eslint@9.12.0(jiti@2.3.3))
@@ -968,8 +968,8 @@ importers:
         specifier: 4.20241011.0
         version: 4.20241011.0
       '@dotenvx/dotenvx':
-        specifier: 1.19.3
-        version: 1.19.3
+        specifier: 1.20.0
+        version: 1.20.0
       '@eslint/js':
         specifier: 9.12.0
         version: 9.12.0
@@ -3612,8 +3612,8 @@ packages:
       '@docusaurus/types':
         optional: true
 
-  '@dotenvx/dotenvx@1.19.3':
-    resolution: {integrity: sha512-mRmlqCmUpPzVf/fr5oBHeKq/moPuWb+I3G75OzrL+RYBZtAoXTySOVmUsYANpC3MMgRWJqvptg+9+sbfYV/iUg==}
+  '@dotenvx/dotenvx@1.20.0':
+    resolution: {integrity: sha512-Zepr4dxvbTw1PKVa5i0HFP59wy1L6LXD+I9HcXnvugDevLOIA8mwwIH1ZqKDF6TrwRS4AHZy2lP9hKLBqib1EQ==}
     hasBin: true
 
   '@edge-runtime/format@2.2.1':
@@ -24808,7 +24808,7 @@ snapshots:
       - uglify-js
       - webpack-cli
 
-  '@dotenvx/dotenvx@1.19.3':
+  '@dotenvx/dotenvx@1.20.0':
     dependencies:
       commander: 11.1.0
       dotenv: 16.4.5
