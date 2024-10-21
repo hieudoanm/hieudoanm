@@ -108,7 +108,7 @@ kiwisolver==1.4.7
 kubernetes==31.0.0
 langchain==0.3.3
 langchain-aws==0.2.2
-langchain-community==0.3.2
+langchain-community==0.3.3
 langchain-core==0.3.12
 langchain-text-splitters==0.3.0
 langdetect==1.0.9
