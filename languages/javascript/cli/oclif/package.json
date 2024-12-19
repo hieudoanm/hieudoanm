@@ -26,7 +26,7 @@
     "install-cli": "npm install -g . --force"
   },
   "dependencies": {
-    "@oclif/core": "4.1.0",
+    "@oclif/core": "4.1.1",
     "figlet": "1.8.0"
   },
   "devDependencies": {
