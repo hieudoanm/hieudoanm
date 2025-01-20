@@ -1,0 +1,36 @@
+{
+  "name": "rust",
+  "version": "0.0.1",
+  "description": "rust",
+  "keywords": [],
+  "homepage": "https://github.com/hieudoanm/rust#readme",
+  "bugs": {
+    "url": "https://github.com/hieudoanm/rust/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieudoanm/rust.git"
+  },
+  "license": "GPL-3.0",
+  "author": "hieumdoan@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "format": "prettier --cache --write .",
+    "prebuild": "rimraf ./docs",
+    "build": "docsify init ./docs",
+    "serve": "docsify serve ./docs",
+    "prepare": "husky || true"
+  },
+  "devDependencies": {
+    "docsify-cli": "4.4.4",
+    "husky": "9.1.7",
+    "prettier": "3.4.2",
+    "rimraf": "6.0.1"
+  },
+  "resolutions": {
+    "got": "14.4.5",
+    "marked": "15.0.6"
+  }
+}
