@@ -1,3 +1,7 @@
-# I'm [HIEU DOAN](https://hieudoanm.vercel.app)
+# I'm [HIEU DOAN](https://hieudoanm.github.io)
 
-A Computational Neuroscience enthusiast with a focus on Computer Vision (CV) and Natural Language Processing (NLP) and Neural Network, and a background in Software Development.
+A Computational Neuroscience enthusiast with a background in Software Development.
+
+- 👁️ Computer Vision (CV)
+- 💬 Natural Language Processing (NLP)
+- 🧠 Neural Network
