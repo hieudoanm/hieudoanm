@@ -2,21 +2,28 @@
 
 A Computational Neuroscience enthusiast with a background in Software Development.
 
-## Apps
-
-1. 💬 Broca (In Progress)
-2. 🧠 [Chess](https://hieudoanm.github.io/chess/)
-3. 📱 [Nothing](https://hieudoanm.github.io/nothing/)
-
-## Techstack
-
-| No  | Software Development                             | Data Science                                |
-| --- | ------------------------------------------------ | ------------------------------------------- |
-| 1   | 🛠️ [TypeScript](https://www.typescriptlang.org/) | 🐍 [Python](https://www.python.org/)        |
-| 2   | 🖥️ [Next.js](https://nextjs.org/)                | 🗃️ [pandas](https://pandas.pydata.org/)     |
-| 3   | 💅 [TailwindCSS](https://tailwindcss.com/)       | 🧮 [NumPy](https://numpy.org/)              |
-| 4   | 🚀 [tRPC](https://trpc.io/)                      | 👁️ [OpenCV](https://opencv.org/)            |
-| 5   | 🔌 [Prisma](https://www.prisma.io/)              | 💬 [NLTK](https://www.nltk.org/)            |
-| 6   | 🗄️ [PostgreSQL](https://www.postgresql.org/)     | 🧠 [TensorFlow](https://www.tensorflow.org) |
+| No  | Apps                      | Software Development          | Data Science                |
+| --- | ------------------------- | ----------------------------- | --------------------------- |
+| 1   | 💬 Broca (In Progress)    | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         |
+| 2   | 🧠 [Chess][app-chess]     | 🖥️ [Next.js][next.js]         | 🗃️ [pandas][pandas]         |
+| 3   | 📱 [Nothing][app-nothing] | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           |
+| 4   |                           | 🚀 [tRPC][trpc]               | 👁️ [OpenCV][opencv]         |
+| 5   |                           | 🔌 [Prisma][prisma]           | 💬 [NLTK][nltk]             |
+| 6   |                           | 🗄️ [PostgreSQL][postgresql]   | 🧠 [TensorFlow][tensorflow] |
 
 - 📈 [Plotly](https://plotly.com/)
+
+[app-chess]: https://hieudoanm.github.io/chess/
+[app-nothing]: https://hieudoanm.github.io/nothing/
+[typescript]: https://www.typescriptlang.org/
+[next.js]: https://nextjs.org/
+[nltk]: https://www.nltk.org/
+[numpy]: https://numpy.org/
+[opencv]: https://opencv.org/
+[pandas]: https://pandas.pydata.org/
+[postgresql]: https://www.postgresql.org/
+[prisma]: https://www.prisma.io/
+[python]: https://www.python.org/
+[tailwindcss]: https://tailwindcss.com/
+[tensorflow]: https://www.tensorflow.org
+[trpc]: https://trpc.io/
