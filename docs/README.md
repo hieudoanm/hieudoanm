@@ -10,7 +10,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Software Development Techstack
 
-1. 🛠️ [TypeScript](https://www.typescriptlang.org/)
+1. 🛠️ [TypeScript](https://www.typescriptlang.org/) for Programming Language
 2. 🖥️ [Next.js](https://nextjs.org/) for Front-end
 3. 💅 [TailwindCSS](https://tailwindcss.com/) for Styling
 4. 🚀 [tRPC](https://trpc.io/) for Back-end
@@ -19,6 +19,9 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Data Science Techstack
 
-1. 👁️ [OpenCV](https://opencv.org/) for Computer Vision (CV)
-2. 💬 [NLTK](https://www.nltk.org/) for Natural Language Processing (NLP)
-3. 🧠 [TensorFlow](https://www.tensorflow.org) for Neural Networks
+1. 🐍 [Python](https://www.python.org/) for Programming Language
+2. 🗃️ [pandas](https://pandas.pydata.org/) for Data Management
+3. 🧮 [NumPy](https://numpy.org/) for Number Computing
+4. 👁️ [OpenCV](https://opencv.org/) for Computer Vision (CV)
+5. 💬 [NLTK](https://www.nltk.org/) for Natural Language Processing (NLP)
+6. 🧠 [TensorFlow](https://www.tensorflow.org) for Neural Networks
