@@ -18,3 +18,5 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | 4   | 🚀 [tRPC](https://trpc.io/)                      | 👁️ [OpenCV](https://opencv.org/)            |
 | 5   | 🔌 [Prisma](https://www.prisma.io/)              | 💬 [NLTK](https://www.nltk.org/)            |
 | 6   | 🗄️ [PostgreSQL](https://www.postgresql.org/)     | 🧠 [TensorFlow](https://www.tensorflow.org) |
+
+- 📈 [Plotly](https://plotly.com/)
