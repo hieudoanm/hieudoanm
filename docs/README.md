@@ -2,14 +2,13 @@
 
 A Computational Neuroscience enthusiast with a background in Software Development.
 
-| No  | Apps                      | Software Development          | Data Science                | Other               |
-| --- | ------------------------- | ----------------------------- | --------------------------- | ------------------- |
-| 1   | 💬 Broca (In Progress)    | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 📈 [Plotly][plotly] |
-| 2   | 🧠 [Chess][app-chess]     | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 🏗️ [Docker][docker] |
-| 3   | 📱 [Nothing][app-nothing] | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 👁️ [OpenCV][opencv] |
-| 4   | 💹 Jim (In Progress)      | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       |                     |
-| 5   |                           | 🔌 [Prisma][prisma]           | 💬 [NLTK][nltk]             |                     |
-| 6   |                           | 🗄️ [PostgreSQL][postgresql]   | 🧠 [TensorFlow][tensorflow] |                     |
+| No  | Apps                      | Software Development          | Data Science                | Other                       |
+| --- | ------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| 1   | 💬 Broca (In Progress)    | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 📈 [Plotly][plotly]         |
+| 2   | 🧠 [Chess][app-chess]     | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 🧠 [TensorFlow][tensorflow] |
+| 3   | 📱 [Nothing][app-nothing] | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 👁️ [OpenCV][opencv]         |
+| 4   | 💹 Jim (In Progress)      | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 💬 [NLTK][nltk]             |
+| 5   | 🏗️ [Docker][docker]       | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
 [app-chess]: https://hieudoanm.github.io/chess/
 [app-nothing]: https://hieudoanm.github.io/nothing/
@@ -25,6 +24,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [postgresql]: https://www.postgresql.org/
 [prisma]: https://www.prisma.io/
 [python]: https://www.python.org/
+[sqlalchemy]: https://www.sqlalchemy.org/
 [tailwindcss]: https://tailwindcss.com/
 [tensorflow]: https://www.tensorflow.org
 [trpc]: https://trpc.io/
