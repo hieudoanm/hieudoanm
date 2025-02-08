@@ -4,12 +4,13 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 | No  | Apps                      | Software Development          | Data Science                | Other                       |
 | --- | ------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| 1   | 💬 Broca (In Progress)    | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 📈 [Plotly][plotly]         |
+| 1   | 💬 [Broca][app-broca]     | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 📈 [Plotly][plotly]         |
 | 2   | 🧠 [Chess][app-chess]     | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 🧠 [TensorFlow][tensorflow] |
 | 3   | 📱 [Nothing][app-nothing] | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 👁️ [OpenCV][opencv]         |
 | 4   | 💹 Jim (In Progress)      | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 💬 [NLTK][nltk]             |
 | 5   | 🏗️ [Docker][docker]       | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
+[app-broca]: https://hieudoanm.github.io/broca/
 [app-chess]: https://hieudoanm.github.io/chess/
 [app-nothing]: https://hieudoanm.github.io/nothing/
 [docker]: https://www.docker.com/
