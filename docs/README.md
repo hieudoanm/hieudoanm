@@ -2,17 +2,20 @@
 
 A Computational Neuroscience enthusiast with a background in Software Development.
 
-| No  | Apps                      | Software Development          | Data Science                | Other                       |
-| --- | ------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| 1   | 💬 [Broca][app-broca]     | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 📈 [Plotly][plotly]         |
-| 2   | 🧠 [Chess][app-chess]     | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 🧠 [TensorFlow][tensorflow] |
-| 3   | 📱 [Nothing][app-nothing] | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 👁️ [OpenCV][opencv]         |
-| 4   | 💹 Jim (In Progress)      | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 💬 [NLTK][nltk]             |
-| 5   | 🏗️ [Docker][docker]       | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
+| No  | Apps                          | Software Development          | Data Science                | Other                       |
+| --- | ----------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| 1   | 🌆 Side Projects              | 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 🧰 [C/C++][cplusplus]       |
+| 2   | 💬 [Broca][app-broca]         | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
+| 3   | 🧠 [Chess][app-chess]         | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
+| 4   | 📱 [Nothing][app-nothing]     | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 👁️ [OpenCV][opencv]         |
+| 5   | 🌃 Hobby Projects             | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 💬 [NLTK][nltk]             |
+| 6   | 📷 [Instagram][app-instagram] |                               | 🏗️ [Docker][docker]         | 🗄️ [PostgreSQL][postgresql] |
 
 [app-broca]: https://hieudoanm.github.io/broca/
 [app-chess]: https://hieudoanm.github.io/chess/
+[app-instagram]: https://hieudoanm.github.io/instagram/
 [app-nothing]: https://hieudoanm.github.io/nothing/
+[cplusplus]: https://cplusplus.com/
 [docker]: https://www.docker.com/
 [fastapi]: https://fastapi.tiangolo.com/
 [typescript]: https://www.typescriptlang.org/
