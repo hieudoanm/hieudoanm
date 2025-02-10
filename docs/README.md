@@ -12,14 +12,13 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Techstack
 
-| Software Development          | Data Science                | Other                       |
-| ----------------------------- | --------------------------- | --------------------------- |
-| 🛠️ [TypeScript][typescript]   | 🐍 [Python][python]         | 🧰 [C/C++][cplusplus]       |
-| 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 🦦 [Golang][golang]         |
-| 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 📈 [Plotly][plotly]         |
-| 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🧠 [TensorFlow][tensorflow] |
-| 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 👁️ [OpenCV][opencv]         |
-| 🗄️ [PostgreSQL][postgresql]   | 🏗️ [Docker][docker]         | 💬 [NLTK][nltk]             |
+| Languages                   | Software Development          | Data Science                | Other                       |
+| --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| 🛠️ [TypeScript][typescript] | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
+| 🐍 [Python][python]         | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
+| 🦦 [Golang][golang]         | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 👁️ [OpenCV][opencv]         |
+| ⚙️ [Rust][rust]             | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 💬 [NLTK][nltk]             |
+| 🧰 [C/C++][cplusplus]       | 🗄️ [PostgreSQL][postgresql]   | 🏗️ [Docker][docker]         |                             |
 
 [app-broca]: https://hieudoanm.github.io/broca/
 [app-chess]: https://hieudoanm.github.io/chess/
@@ -42,6 +41,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [postgresql]: https://www.postgresql.org/
 [prisma]: https://www.prisma.io/
 [python]: https://www.python.org/
+[rust]: https://www.rust-lang.org/
 [sqlalchemy]: https://www.sqlalchemy.org/
 [tailwindcss]: https://tailwindcss.com/
 [tensorflow]: https://www.tensorflow.org
