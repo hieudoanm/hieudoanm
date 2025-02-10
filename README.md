@@ -4,11 +4,11 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
-| 🌆 Side               | 🌃 Hobby                      |
-| --------------------- | ----------------------------- |
-| 💬 [Broca][app-broca] | 📱 [Nothing][app-nothing]     |
-| 🧠 [Chess][app-chess] | 📷 [Instagram][app-instagram] |
-| 💹 [Quant][app-quant] | 📨 [Telegram][app-telegram]   |
+| 🌆 Side               | 🌃 Hobby                      | 🧪 Experimental                       |
+| --------------------- | ----------------------------- | ------------------------------------- |
+| 💬 [Broca][app-broca] | 📱 [Nothing][app-nothing]     | ◀️ [Reverse Proxy][app-reverse-proxy] |
+| 🧠 [Chess][app-chess] | 📷 [Instagram][app-instagram] |                                       |
+| 💹 [Quant][app-quant] | 📨 [Telegram][app-telegram]   |                                       |
 
 ## Techstack
 
@@ -26,6 +26,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [app-instagram]: https://hieudoanm.github.io/instagram/
 [app-nothing]: https://hieudoanm.github.io/nothing/
 [app-quant]: https://hieudoanm.github.io/quant/
+[app-reverse-proxy]: https://hieudoanm.github.io/reverse-proxy/
 [app-telegram]: https://hieudoanm.github.io/telegram/
 [cplusplus]: https://cplusplus.com/
 [docker]: https://www.docker.com/
