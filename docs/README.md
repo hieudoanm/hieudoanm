@@ -15,10 +15,10 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | Languages                   | Software Development          | Data Science                | Shared                      |
 | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | 🛠️ [TypeScript][typescript] | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
-| 🐍 [Python][python]         | 💅 [Prettier][prettier]       | 💅 [Black][black]           | 🏗️ [Docker][docker]         |
-| 🦦 [Golang][golang]         | 🧰 [ESLint][eslint]           | 🧰 [Ruff][ruff]             | 👁️ [OpenCV][opencv]         |
-| ⚙️ [Rust][rust]             | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 💬 [NLTK][nltk]             |
-| 🧰 [C++][cplusplus]         | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🧠 [TensorFlow][tensorflow] |
+| 🐍 [Python][python]         | 💅 [Prettier][prettier]       | 💅 [Black][black]           | 👁️ [OpenCV][opencv]         |
+| 🦦 [Golang][golang]         | 🧰 [ESLint][eslint]           | 🧰 [Ruff][ruff]             | 💬 [NLTK][nltk]             |
+| ⚙️ [Rust][rust]             | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
+| 🧰 [C++][cplusplus]         | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🏗️ [Docker][docker]         |
 |                             | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
 [app-broca]: https://hieudoanm.github.io/broca/
