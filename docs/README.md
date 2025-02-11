@@ -12,13 +12,14 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Techstack
 
-| Languages                   | Software Development          | Data Science                | Other                       |
+| Languages                   | Software Development          | Data Science                | Shared                      |
 | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | 🛠️ [TypeScript][typescript] | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
-| 🐍 [Python][python]         | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
-| 🦦 [Golang][golang]         | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 👁️ [OpenCV][opencv]         |
-| ⚙️ [Rust][rust]             | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 💬 [NLTK][nltk]             |
-| 🧰 [C/C++][cplusplus]       | 🗄️ [PostgreSQL][postgresql]   | 🏗️ [Docker][docker]         |                             |
+| 🐍 [Python][python]         | 💅 [Prettier][prettier]       | 💅 [Black][black]           | 🏗️ [Docker][docker]         |
+| 🦦 [Golang][golang]         | 🧰 [ESLint][eslint]           | 🧰 [Ruff][ruff]             | 👁️ [OpenCV][opencv]         |
+| ⚙️ [Rust][rust]             | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 💬 [NLTK][nltk]             |
+| 🧰 [C++][cplusplus]         | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🧠 [TensorFlow][tensorflow] |
+|                             | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
 [app-broca]: https://hieudoanm.github.io/broca/
 [app-chess]: https://hieudoanm.github.io/chess/
@@ -27,8 +28,10 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [app-quant]: https://hieudoanm.github.io/quant/
 [app-reverse-proxy]: https://hieudoanm.github.io/reverse-proxy/
 [app-telegram]: https://hieudoanm.github.io/telegram/
+[black]: https://black.readthedocs.io/en/stable/
 [cplusplus]: https://cplusplus.com/
 [docker]: https://www.docker.com/
+[eslint]: https://eslint.org/
 [fastapi]: https://fastapi.tiangolo.com/
 [golang]: https://go.dev/
 [typescript]: https://www.typescriptlang.org/
@@ -39,8 +42,10 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [pandas]: https://pandas.pydata.org/
 [plotly]: https://plotly.com/
 [postgresql]: https://www.postgresql.org/
+[prettier]: https://prettier.io/
 [prisma]: https://www.prisma.io/
 [python]: https://www.python.org/
+[ruff]: https://docs.astral.sh/ruff/
 [rust]: https://www.rust-lang.org/
 [sqlalchemy]: https://www.sqlalchemy.org/
 [tailwindcss]: https://tailwindcss.com/
