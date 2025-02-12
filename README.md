@@ -10,16 +10,26 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | 🧠 [Chess][app-chess] | 📷 [Instagram][app-instagram] |                                       |
 | 💹 [Quant][app-quant] | 📨 [Telegram][app-telegram]   |                                       |
 
+## Languages
+
+| Languages                   | Usage                                                               |
+| --------------------------- | ------------------------------------------------------------------- |
+| 🛠️ [TypeScript][typescript] | Use for Web Development (`Next.js` x `tRPC`) and GraphQL (`Apollo`) |
+| 🐍 [Python][python]         | Use for Back-end (`FastAPI`) and Machine Learning (`TensorFlow`)    |
+| 🦦 [Golang][golang]         | Use for Back-end (`Gin`) and CLI (`Cobra`)                          |
+| ⚙️ [Rust][rust]             | Learning                                                            |
+| 🧰 [C++][cplusplus]         | Learning                                                            |
+
 ## Techstack
 
-| Languages                   | Software Development          | Data Science                | Shared                      |
-| --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| 🛠️ [TypeScript][typescript] | 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
-| 🐍 [Python][python]         | 💅 [Prettier][prettier]       | 💅 [Black][black]           | 👁️ [OpenCV][opencv]         |
-| 🦦 [Golang][golang]         | 🧰 [ESLint][eslint]           | 🧰 [Ruff][ruff]             | 💬 [NLTK][nltk]             |
-| ⚙️ [Rust][rust]             | 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
-| 🧰 [C++][cplusplus]         | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🏗️ [Docker][docker]         |
-|                             | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
+| Software Development          | Data Science                | Shared                      |
+| ----------------------------- | --------------------------- | --------------------------- |
+| 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
+| 💅 [Prettier][prettier]       | 💅 [Black][black]           | 👁️ [OpenCV][opencv]         |
+| 🧰 [ESLint][eslint]           | 🧰 [Ruff][ruff]             | 💬 [NLTK][nltk]             |
+| 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
+| 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🏗️ [Docker][docker]         |
+| 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
 [app-broca]: https://hieudoanm.github.io/broca/
 [app-chess]: https://hieudoanm.github.io/chess/
