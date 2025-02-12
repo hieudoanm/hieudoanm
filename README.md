@@ -4,11 +4,11 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
-| 🌆 Side                                        | 🌃 Hobby                                                   | 🧪 Experimental                                                        |
-| ---------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 💬 [Broca][app-broca] ([GitHub][github-broca]) | 📱 [Nothing][app-nothing] ([GitHub][github-nothing])       | ◀️ [Reverse Proxy][app-reverse-proxy] ([GitHub][github-reverse-proxy]) |
-| 🧠 [Chess][app-chess] ([GitHub][github-chess]) | 📷 [Instagram][app-instagram] ([GitHub][github-instagram]) |                                                                        |
-| 📕 [Words][app-words] ([GitHub][github-words]) | 📨 [Telegram][app-telegram] ([GitHub][github-telegram])    |                                                                        |
+| 🌆 Side                                        | 🌃 Hobby & 🧪 Experimental                                             |
+| ---------------------------------------------- | ---------------------------------------------------------------------- |
+| 💬 [Broca][app-broca] ([GitHub][github-broca]) | 📱 [Nothing][app-nothing] ([GitHub][github-nothing])                   |
+| 🧠 [Chess][app-chess] ([GitHub][github-chess]) | 📷 [Instagram][app-instagram] ([GitHub][github-instagram])             |
+| 📕 [Words][app-words] ([GitHub][github-words]) | ◀️ [Reverse Proxy][app-reverse-proxy] ([GitHub][github-reverse-proxy]) |
 
 ## Languages
 
