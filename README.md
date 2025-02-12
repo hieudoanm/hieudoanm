@@ -4,11 +4,11 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
-| 🌆 Side               | 🌃 Hobby                      | 🧪 Experimental                       |
-| --------------------- | ----------------------------- | ------------------------------------- |
-| 💬 [Broca][app-broca] | 📱 [Nothing][app-nothing]     | ◀️ [Reverse Proxy][app-reverse-proxy] |
-| 🧠 [Chess][app-chess] | 📷 [Instagram][app-instagram] |                                       |
-| 💹 [Quant][app-quant] | 📨 [Telegram][app-telegram]   |                                       |
+| 🌆 Side                                        | 🌃 Hobby                                                   | 🧪 Experimental                                                        |
+| ---------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 💬 [Broca][app-broca] ([GitHub][github-broca]) | 📱 [Nothing][app-nothing] ([GitHub][github-nothing])       | ◀️ [Reverse Proxy][app-reverse-proxy] ([GitHub][github-reverse-proxy]) |
+| 🧠 [Chess][app-chess] ([GitHub][github-chess]) | 📷 [Instagram][app-instagram] ([GitHub][github-instagram]) |                                                                        |
+| 📕 [Words][app-words] ([GitHub][github-words]) | 📨 [Telegram][app-telegram] ([GitHub][github-telegram])    |                                                                        |
 
 ## Languages
 
@@ -35,9 +35,16 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [app-chess]: https://hieudoanm.github.io/chess/
 [app-instagram]: https://hieudoanm.github.io/instagram/
 [app-nothing]: https://hieudoanm.github.io/nothing/
-[app-quant]: https://hieudoanm.github.io/quant/
 [app-reverse-proxy]: https://hieudoanm.github.io/reverse-proxy/
 [app-telegram]: https://hieudoanm.github.io/telegram/
+[app-words]: https://hieudoanm.github.io/words/
+[github-broca]: https://github.com/hieudoanm/broca
+[github-chess]: https://github.com/hieudoanm/chess
+[github-instagram]: https://github.com/hieudoanm/instagram
+[github-nothing]: https://github.com/hieudoanm/nothing
+[github-reverse-proxy]: https://github.com/hieudoanm/reverse-proxy
+[github-telegram]: https://github.com/hieudoanm/telegram
+[github-words]: https://github.com/hieudoanm/words
 [black]: https://black.readthedocs.io/en/stable/
 [cplusplus]: https://cplusplus.com/
 [docker]: https://www.docker.com/
