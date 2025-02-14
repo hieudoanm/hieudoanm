@@ -15,7 +15,7 @@
   "author": "hieumdoan@gmail.com",
   "type": "commonjs",
   "main": "index.js",
-  "packageManager": "pnpm@10.3.0",
+  "packageManager": "pnpm@10.4.0",
   "scripts": {
     "format": "prettier --cache --write .",
     "prebuild": "rimraf ./docs",
