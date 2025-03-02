@@ -4,11 +4,10 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
-| 🌆 Side                                        | 🌃 Hobby & 🧪 Experimental                                             |
-| ---------------------------------------------- | ---------------------------------------------------------------------- |
-| 💬 [Broca][app-broca] ([GitHub][github-broca]) | 📱 [Nothing][app-nothing] ([GitHub][github-nothing])                   |
-| 🧠 [Chess][app-chess] ([GitHub][github-chess]) | 📷 [Instagram][app-instagram] ([GitHub][github-instagram])             |
-| 📕 [Words][app-words] ([GitHub][github-words]) | ◀️ [Reverse Proxy][app-reverse-proxy] ([GitHub][github-reverse-proxy]) |
+| 🌆 Side                                        | 🌃 Hobby                                                   |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| 💬 [Broca][app-broca] ([GitHub][github-broca]) | 📱 [Nothing][app-nothing] ([GitHub][github-nothing])       |
+| 📕 [Words][app-words] ([GitHub][github-words]) | 📷 [Instagram][app-instagram] ([GitHub][github-instagram]) |
 
 ## Languages
 
@@ -32,18 +31,12 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
 [app-broca]: https://hieudoanm.github.io/broca/
-[app-chess]: https://hieudoanm.github.io/chess/
 [app-instagram]: https://hieudoanm.github.io/instagram/
 [app-nothing]: https://hieudoanm.github.io/nothing/
-[app-reverse-proxy]: https://hieudoanm.github.io/reverse-proxy/
-[app-telegram]: https://hieudoanm.github.io/telegram/
 [app-words]: https://hieudoanm.github.io/words/
 [github-broca]: https://github.com/hieudoanm/broca
-[github-chess]: https://github.com/hieudoanm/chess
 [github-instagram]: https://github.com/hieudoanm/instagram
 [github-nothing]: https://github.com/hieudoanm/nothing
-[github-reverse-proxy]: https://github.com/hieudoanm/reverse-proxy
-[github-telegram]: https://github.com/hieudoanm/telegram
 [github-words]: https://github.com/hieudoanm/words
 [black]: https://black.readthedocs.io/en/stable/
 [cplusplus]: https://cplusplus.com/
