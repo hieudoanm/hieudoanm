@@ -4,10 +4,9 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
-| 🌆 Side                                        | 🌃 Hobby                                                   |
-| ---------------------------------------------- | ---------------------------------------------------------- |
-| 💬 [Broca][app-broca] ([GitHub][github-broca]) | 📱 [Nothing][app-nothing] ([GitHub][github-nothing])       |
-| 📕 [Words][app-words] ([GitHub][github-words]) | 📷 [Instagram][app-instagram] ([GitHub][github-instagram]) |
+- 💬 [Broca][app-broca] ([GitHub][github-broca])
+- 📱 [Nothing][app-nothing] ([GitHub][github-nothing])
+- 📕 [Words][app-words] ([GitHub][github-words])
 
 ## Languages
 
