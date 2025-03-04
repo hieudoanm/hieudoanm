@@ -4,9 +4,8 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
-- 💬 [Broca][app-broca] ([GitHub][github-broca])
-- 📱 [Nothing][app-nothing] ([GitHub][github-nothing])
-- 📕 [Words][app-words] ([GitHub][github-words])
+- 💬 [Broca][app-broca] ([GitHub][github-broca]) - Primary Project - Mapping of the Broca and Wernicke Region.
+- 📱 [Nothing][app-nothing] ([GitHub][github-nothing]) - A collection of Mini Apps / Tools / Functions which I develop to serve my daily life.
 
 ## Languages
 
