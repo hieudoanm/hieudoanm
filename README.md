@@ -4,6 +4,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Apps
 
+- 🧠 [Broca][app-broca] ([GitHub][github-broca]) - Primary project, which is to form the mapping of Broca and Wernicke region.
 - 📱 [Nothing][app-nothing] ([GitHub][github-nothing]) - A collection of Mini Apps / Tools / Functions which I develop to serve my daily life.
 
 ## Languages
@@ -27,6 +28,8 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🏗️ [Docker][docker]         |
 | 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
 
+[app-broca]: https://hieudoanm.github.io/broca/
+[github-broca]: https://github.com/hieudoanm/broca
 [app-nothing]: https://hieudoanm.github.io/nothing/
 [github-nothing]: https://github.com/hieudoanm/nothing
 [black]: https://black.readthedocs.io/en/stable/
