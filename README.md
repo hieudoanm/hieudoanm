@@ -3,17 +3,11 @@
 A Computational Neuroscience enthusiast with a background in Software Development.
 
 - [I'm HIEU DOAN](#im-hieu-doan)
-  - [Apps](#apps)
   - [Techstack (My Daily Driver)](#techstack-my-daily-driver)
     - [🛠️ TypeScript for Full-stack Development](#️-typescript-for-full-stack-development)
     - [🐍 Python for Data Science](#-python-for-data-science)
     - [🦦 Golang for CLI](#-golang-for-cli)
   - [Learning](#learning)
-
-## Apps
-
-- 🧠 [Broca][app-broca] ([GitHub][github-broca]) - Primary project, which is to form the mapping of Broca and Wernicke region.
-- 📱 [Hieu Doan][app-hieudoanm] ([GitHub][github-hieudoanm]) - A collection of Mini Apps / Tools / Functions which I develop to serve my daily life.
 
 ## Techstack (My Daily Driver)
 
@@ -25,6 +19,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | Code      | Lint             | 🧰 [ESLint][eslint]           |
 | Front-end | Framework        | 🖥️ [Next.js][next.js]         |
 | Front-end | CSS Utilities    | 💅 [TailwindCSS][tailwindcss] |
+| Front-end |                  | 💅 [DaisyUI][daisyui]         |
 | Back-end  | Framework        | 🚀 [tRPC][trpc]               |
 | Back-end  | ORM              | 🔌 [Prisma][prisma]           |
 | Back-end  | Database         | 🗄️ [PostgreSQL][postgresql]   |
@@ -51,15 +46,12 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ## Learning
 
-- ⚙️ [Rust][rust]
 - 🧰 [C++][cplusplus]
+- ⚙️ [Rust][rust]
 
-[app-broca]: https://hieudoanm.github.io/broca/
-[github-broca]: https://github.com/hieudoanm/broca
-[app-hieudoanm]: https://hieudoanm.github.io/
-[github-hieudoanm]: https://github.com/hieudoanm.github.io
 [black]: https://black.readthedocs.io/en/stable/
 [cplusplus]: https://cplusplus.com/
+[daisyui]: https://daisyui.com/
 [docker]: https://www.docker.com/
 [eslint]: https://eslint.org/
 [fastapi]: https://fastapi.tiangolo.com/
