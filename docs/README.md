@@ -7,26 +7,44 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 - 🧠 [Broca][app-broca] ([GitHub][github-broca]) - Primary project, which is to form the mapping of Broca and Wernicke region.
 - 📱 [Hieu Doan][app-hieudoanm] ([GitHub][github-hieudoanm]) - A collection of Mini Apps / Tools / Functions which I develop to serve my daily life.
 
-## Languages
+## Techstack (My Daily Driver)
 
-| Languages                   | Usage                                                               |
-| --------------------------- | ------------------------------------------------------------------- |
-| 🛠️ [TypeScript][typescript] | Use for Web Development (`Next.js` x `tRPC`) and GraphQL (`Apollo`) |
-| 🐍 [Python][python]         | Use for Back-end (`FastAPI`) and Machine Learning (`TensorFlow`)    |
-| 🦦 [Golang][golang]         | Use for Back-end (`Gin`) and CLI (`Cobra`)                          |
-| ⚙️ [Rust][rust]             | Learning                                                            |
-| 🧰 [C++][cplusplus]         | Learning                                                            |
+### 🛠️ [TypeScript][typescript] for Full-stack Development
 
-## Techstack
+| Group     | Subgroup         | Name                          |
+| --------- | ---------------- | ----------------------------- |
+| Code      | Format           | 💅 [Prettier][prettier]       |
+| Code      | Lint             | 🧰 [ESLint][eslint]           |
+| Front-end | Framework        | 🖥️ [Next.js][next.js]         |
+| Front-end | CSS Utilities    | 💅 [TailwindCSS][tailwindcss] |
+| Back-end  | Framework        | 🚀 [tRPC][trpc]               |
+| Back-end  | ORM              | 🔌 [Prisma][prisma]           |
+| Back-end  | Database         | 🗄️ [PostgreSQL][postgresql]   |
+| DevOps    | Containerisation | 🏗️ [Docker][docker]           |
 
-| Software Development          | Data Science                | Shared                      |
-| ----------------------------- | --------------------------- | --------------------------- |
-| 🖥️ [Next.js][next.js]         | 🗃️ [Pandas][pandas]         | 📈 [Plotly][plotly]         |
-| 💅 [Prettier][prettier]       | 💅 [Black][black]           | 👁️ [OpenCV][opencv]         |
-| 🧰 [ESLint][eslint]           | 🧰 [Ruff][ruff]             | 💬 [NLTK][nltk]             |
-| 💅 [TailwindCSS][tailwindcss] | 🧮 [NumPy][numpy]           | 🧠 [TensorFlow][tensorflow] |
-| 🚀 [tRPC][trpc]               | 🚀 [FastAPI][fastapi]       | 🏗️ [Docker][docker]         |
-| 🔌 [Prisma][prisma]           | 🔌 [SQLAlchemy][sqlalchemy] | 🗄️ [PostgreSQL][postgresql] |
+### 🐍 [Python][python] for Data Science
+
+| Group    | Subgroup       | Name                        |
+| -------- | -------------- | --------------------------- |
+| Code     | Format         | 💅 [Black][black]           |
+| Code     | Lint           | 🧰 [Ruff][ruff]             |
+| Data     |                | 🗃️ [Pandas][pandas]         |
+| Data     |                | 🧮 [NumPy][numpy]           |
+| Back-end | Framework      | 🚀 [FastAPI][fastapi]       |
+| Back-end | ORM            | 🔌 [SQLAlchemy][sqlalchemy] |
+| Notebook | Visualisation  | 📈 [Plotly][plotly]         |
+| Notebook | Vision         | 👁️ [OpenCV][opencv]         |
+| Notebook | Language       | 💬 [NLTK][nltk]             |
+| Notebook | Neural Network | 🧠 [TensorFlow][tensorflow] |
+
+### 🦦 [Golang][golang] for CLI
+
+- 📟 [Cobra](https://cobra.dev/)
+
+## Learning
+
+- ⚙️ [Rust][rust]
+- 🧰 [C++][cplusplus]
 
 [app-broca]: https://hieudoanm.github.io/broca/
 [github-broca]: https://github.com/hieudoanm/broca
