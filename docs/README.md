@@ -1,24 +1,27 @@
-# I'm [HIEU DOAN](https://hieudoanm.github.io)
+# 👨‍💻 I'm [HIEU DOAN](https://hieudoanm.github.io)
 
 A Computational Neuroscience enthusiast with a background in Software Development.
 
-- [I'm HIEU DOAN](#im-hieu-doan)
-  - [Apps](#apps)
-  - [Techstack (My Daily Driver)](#techstack-my-daily-driver)
+- [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
+  - [📱 Projects](#-projects)
+  - [🧰 Techstack (My Daily Driver)](#-techstack-my-daily-driver)
     - [🛠️ TypeScript for Full-stack Development](#️-typescript-for-full-stack-development)
     - [🐍 Python for Data Science](#-python-for-data-science)
     - [🦦 Golang for CLI](#-golang-for-cli)
-  - [Learning](#learning)
+  - [🧑‍🎓 Learning](#-learning)
 
-## Apps
+## 📱 Projects
 
-- [Nothing](https://hieudoanm.github.io/apps)
+- [Apps](https://hieudoanm.github.io/apps)
   - [Chess](https://hieudoanm.github.io/apps/chess)
     - [Chess960](https://hieudoanm.github.io/apps/chess/books/chess960)
     - [Openings](https://hieudoanm.github.io/apps/chess/books/openings)
   - [Instagram](https://hieudoanm.github.io/apps/images/instagram)
+- Nothing
+  - [Instagram](https://nothing-instagram.onrender.com/)
+  - [OpenAPI to PostmanV2](https://nothing-openapi-to-postmanv2.onrender.com/)
 
-## Techstack (My Daily Driver)
+## 🧰 Techstack (My Daily Driver)
 
 ### 🛠️ [TypeScript][typescript] for Full-stack Development
 
@@ -54,9 +57,9 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 - 📟 [Cobra](https://cobra.dev/)
 
-## Learning
+## 🧑‍🎓 Learning
 
-- 🧰 [C++][cplusplus]
+- 🗜️ [C++][cplusplus]
 - ⚙️ [Rust][rust]
 
 [black]: https://black.readthedocs.io/en/stable/
