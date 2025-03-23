@@ -26,6 +26,7 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 - Nothing: Standalone Application with HTMX and Back-end (Node.js)
   - [Instagram](https://nothing-instagram.onrender.com/)
   - [OpenAPI to PostmanV2](https://nothing-openapi-to-postmanv2.onrender.com/)
+  - [YouTube](https://nothing-youtube.onrender.com)
 
 ## 🧰 Techstack (My Daily Driver)
 
@@ -35,8 +36,8 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ### 🐍 [(P)ython][python] for Data Science
 
-| No  | Group    | Subgroup       | Name                        | GitHub                      | Language |
-| --- | -------- | -------------- | --------------------------- | --------------------------- | -------- |
+| No  | Group    | Subgroup       | Name                       | GitHub                      | Language |
+| --- | -------- | -------------- | -------------------------- | --------------------------- | -------- |
 | 01  | Code     | Format         | 💅 [Black][black]           | [GitHub][github-black]      | Python   |
 | 02  | Code     | Lint           | 🧰 [Ruff][ruff]             | [GitHub][github-ruff]       | Rust     |
 | 03  | Data     |                | 🗃️ [Pandas][pandas]         | [GitHub][github-pandas]     | Python   |
@@ -50,8 +51,8 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ### 🛠️ [(T)ypeScript][typescript] for Full-stack Development
 
-| No  | Group     | Subgroup         | Technology                             | GitHub                       | Language   |
-| --- | --------- | ---------------- | -------------------------------------- | ---------------------------- | ---------- |
+| No  | Group     | Subgroup         | Technology                            | GitHub                       | Language   |
+| --- | --------- | ---------------- | ------------------------------------- | ---------------------------- | ---------- |
 | 01  | Code      | Runtime          | 🖥️ [Node.js][node.js]                  | [GitHub][github-node.js]     | JavaScript |
 | 02  | Code      | Format           | 💅 [Prettier][prettier]                | [GitHub][github-prettier]    | JavaScript |
 | 03  | Code      | Lint             | 🧰 [ESLint][eslint]                    | [GitHub][github-eslint]      | JavaScript |
