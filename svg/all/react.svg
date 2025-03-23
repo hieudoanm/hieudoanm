@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate"
+  viewBox="0 0 64 64" width="64pt" height="64pt">
+  <defs>
+    <clipPath id="_clipPath_LEtDRElrLPjUjd4muZBvgs0yZAQdFtc4">
+      <rect width="64" height="64" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_LEtDRElrLPjUjd4muZBvgs0yZAQdFtc4)">
+    <circle vector-effect="non-scaling-stroke" cx="32" cy="32" r="5" fill="rgb(97,218,251)" />
+    <mask id="_mask_Eevi1H2DJ72wmJGksIhRRcDiqNi2afEN">
+      <ellipse vector-effect="non-scaling-stroke" cx="32" cy="32" rx="32" ry="12.218181818181819" fill="white"
+        stroke="none" />
+    </mask>
+    <ellipse vector-effect="non-scaling-stroke" cx="32" cy="32" rx="32" ry="12.218181818181819" fill="none" />
+    <ellipse vector-effect="non-scaling-stroke" cx="32" cy="32" rx="32" ry="12.218181818181819" fill="none"
+      mask="url(#_mask_Eevi1H2DJ72wmJGksIhRRcDiqNi2afEN)" stroke-width="6" stroke="rgb(97,218,251)"
+      stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" />
+    <mask id="_mask_e9rKHFKIzsuCARfztQIs2HT75sVl6fqH">
+      <path
+        d=" M 16 4.287 C 21.84 0.915 33.751 10.596 42.581 25.891 C 51.412 41.186 53.84 56.341 48 59.713 C 42.16 63.085 30.249 53.404 21.419 38.109 C 12.588 22.814 10.16 7.659 16 4.287 Z "
+        fill="white" stroke="none" />
+    </mask>
+    <path
+      d=" M 16 4.287 C 21.84 0.915 33.751 10.596 42.581 25.891 C 51.412 41.186 53.84 56.341 48 59.713 C 42.16 63.085 30.249 53.404 21.419 38.109 C 12.588 22.814 10.16 7.659 16 4.287 Z "
+      fill="none" />
+    <path
+      d=" M 16 4.287 C 21.84 0.915 33.751 10.596 42.581 25.891 C 51.412 41.186 53.84 56.341 48 59.713 C 42.16 63.085 30.249 53.404 21.419 38.109 C 12.588 22.814 10.16 7.659 16 4.287 Z "
+      fill="none" mask="url(#_mask_e9rKHFKIzsuCARfztQIs2HT75sVl6fqH)" vector-effect="non-scaling-stroke"
+      stroke-width="6" stroke="rgb(97,218,251)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" />
+    <mask id="_mask_t5lNYwhoWN0u5iPI8i0akm6NRJhRzK4Y">
+      <path
+        d=" M 48 4.287 C 53.84 7.659 51.412 22.814 42.581 38.109 C 33.751 53.404 21.84 63.085 16 59.713 C 10.16 56.341 12.588 41.186 21.419 25.891 C 30.249 10.596 42.16 0.915 48 4.287 Z "
+        fill="white" stroke="none" />
+    </mask>
+    <path
+      d=" M 48 4.287 C 53.84 7.659 51.412 22.814 42.581 38.109 C 33.751 53.404 21.84 63.085 16 59.713 C 10.16 56.341 12.588 41.186 21.419 25.891 C 30.249 10.596 42.16 0.915 48 4.287 Z "
+      fill="none" />
+    <path
+      d=" M 48 4.287 C 53.84 7.659 51.412 22.814 42.581 38.109 C 33.751 53.404 21.84 63.085 16 59.713 C 10.16 56.341 12.588 41.186 21.419 25.891 C 30.249 10.596 42.16 0.915 48 4.287 Z "
+      fill="none" mask="url(#_mask_t5lNYwhoWN0u5iPI8i0akm6NRJhRzK4Y)" vector-effect="non-scaling-stroke"
+      stroke-width="6" stroke="rgb(97,218,251)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" />
+  </g>
+</svg>

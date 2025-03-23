@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate"
+  viewBox="0 0 64 64" width="64pt" height="64pt">
+  <defs>
+    <clipPath id="_clipPath_RvzFwZthHRMKnyATCLDSAj5gOnFRNFbM">
+      <rect width="64" height="64" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_RvzFwZthHRMKnyATCLDSAj5gOnFRNFbM)">
+    <clipPath id="_clipPath_XTkSjaHQT9AqzKzwXitMjKvtZvKdt3WE">
+      <path
+        d=" M 60.556 15.616 L 33.228 0 L 33.228 64 L 44.146 57.658 L 44.146 39.656 L 52.392 44.424 L 52.346 32.11 L 44.146 27.426 L 44.146 20.276 L 60.594 29.778 L 60.556 15.616 L 60.556 15.616 Z "
+        fill="rgb(255,255,255)" />
+    </clipPath>
+    <g clip-path="url(#_clipPath_XTkSjaHQT9AqzKzwXitMjKvtZvKdt3WE)">
+      <g>
+        <g>
+          <g>
+            <linearGradient id="_lgradient_3" x1="0" y1="0.5000000000000001" x2="0.9999999999999996"
+              y2="0.5000000000000001" gradientTransform="matrix(67.108,0,0,64.314,0.922,-0.234)"
+              gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-opacity="1" style="stop-color:rgb(255,111,0)" />
+              <stop offset="100%" stop-opacity="1" style="stop-color:rgb(255,168,0)" />
+            </linearGradient>
+            <rect x="0.922" y="-0.234" width="67.108" height="64.314" transform="matrix(1,0,0,1,0,0)"
+              fill="url(#_lgradient_3)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <clipPath id="_clipPath_rLNMTTrkPXQKVdpIhVu7yVck9alWuaNe">
+      <path
+        d=" M 3.444 15.616 L 30.772 0 L 30.772 64 L 19.854 57.658 L 19.854 20.276 L 3.406 29.778 L 3.444 15.616 L 3.444 15.616 Z "
+        fill="rgb(255,255,255)" />
+    </clipPath>
+    <g clip-path="url(#_clipPath_rLNMTTrkPXQKVdpIhVu7yVck9alWuaNe)">
+      <g>
+        <g>
+          <g>
+            <linearGradient id="_lgradient_4" x1="0" y1="0.5" x2="1.0000000000000002" y2="0.5"
+              gradientTransform="matrix(67.108,0,0,64.314,0.464,-0.234)" gradientUnits="userSpaceOnUse">
+              <stop offset="100%" stop-opacity="1" style="stop-color:rgb(255,111,0)" />
+              <stop offset="100%" stop-opacity="1" style="stop-color:rgb(255,111,0)" />
+            </linearGradient>
+            <rect x="0.464" y="-0.234" width="67.108" height="64.314" transform="matrix(1,0,0,1,0,0)"
+              fill="url(#_lgradient_4)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
