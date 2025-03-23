@@ -1,0 +1,16 @@
+
+
+> @documentation/astro@0.0.1 format /Users/hieudoan/git/github.com/hieudoanm/hieudoanm/templates/node.js/frontend/documentation/astro
+> prettier --cache --write .
+
+.editorconfig[2K[1G.gitignore[2K[1G.prettierrc.json[2K[1G[90m.prettierrc.json[39m 25ms (unchanged)
+.turbo/turbo-format.log[2K[1G.vscode/extensions.json[2K[1G[90m.vscode/extensions.json[39m 2ms (unchanged)
+.vscode/launch.json[2K[1G[90m.vscode/launch.json[39m 3ms (unchanged)
+astro.config.mjs[2K[1G[90mastro.config.mjs[39m 7ms (unchanged)
+package.json[2K[1G[90mpackage.json[39m 2ms (unchanged)
+public/favicon.svg[2K[1GREADME.md[2K[1G[90mREADME.md[39m 187ms (unchanged)
+src/assets/houston.webp[2K[1Gsrc/content.config.ts[2K[1G[90msrc/content.config.ts[39m 38ms (unchanged)
+src/content/docs/guides/example.md[2K[1G[90msrc/content/docs/guides/example.md[39m 14ms (unchanged)
+src/content/docs/index.mdx[2K[1G[90msrc/content/docs/index.mdx[39m 9ms (unchanged)
+src/content/docs/reference/example.md[2K[1G[90msrc/content/docs/reference/example.md[39m 6ms (unchanged)
+tsconfig.json[2K[1G[90mtsconfig.json[39m 1ms (unchanged)

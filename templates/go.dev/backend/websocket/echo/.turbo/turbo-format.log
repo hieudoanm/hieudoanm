@@ -1,0 +1,6 @@
+
+
+> @go/ws-echo@0.0.1 format /Users/hieudoan/git/github.com/hieudoanm/hieudoanm/templates/go.dev/backend/websocket/echo
+> make format
+
+go fmt ./...

@@ -1,0 +1,25 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("POSTGRESQL_URL")
+  directUrl = env("DIRECT_POSTGRESQL_URL")
+}
+
+model Country {
+  cca2     String @unique @map("cca2") @db.VarChar(2)
+  cca3     String @unique @map("cca3") @db.VarChar(3)
+  common   String @unique @map("common") @db.VarChar(255)
+  official String @unique @map("official") @db.VarChar(255)
+
+  @@id([cca2, cca3])
+  @@map("country")
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@go/ws-echo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "make lint",
+    "format": "make format",
+    "build": "make build"
+  },
+  "keywords": [],
+  "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
+  "license": "GPL-3.0",
+  "packageManager": "pnpm@10.6.5"
+}

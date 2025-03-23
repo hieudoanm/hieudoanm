@@ -1,0 +1,50 @@
+{
+  "name": "@graphql/express",
+  "version": "0.0.1",
+  "description": "GraphQL - Express.js",
+  "main": "dist/server.js",
+  "repository": "git@github.com:hieudoanm/hieudoanm.git",
+  "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
+  "private": true,
+  "license": "GPL-3.0",
+  "packageManager": "pnpm@10.6.5",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "predev": "kill-port 5000",
+    "dev": "nodemon ./src/server.ts",
+    "test": "jest || true",
+    "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
+    "format": "prettier --cache --write ."
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "graphql": "16.10.0",
+    "graphql-http": "1.22.4",
+    "ruru": "2.0.0-beta.19"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.23.0",
+    "@types/express": "5.0.1",
+    "@types/jest": "29.5.14",
+    "@types/node": "22.13.11",
+    "@webpack-cli/generators": "3.0.7",
+    "eslint": "9.23.0",
+    "globals": "16.0.0",
+    "jest": "29.7.0",
+    "kill-port": "2.0.1",
+    "nodemon": "3.1.9",
+    "prettier": "3.5.3",
+    "rimraf": "6.0.1",
+    "ts-jest": "29.2.6",
+    "ts-loader": "9.5.2",
+    "ts-node": "10.9.2",
+    "typescript": "5.8.2",
+    "typescript-eslint": "8.27.0",
+    "webpack": "5.98.0",
+    "webpack-cli": "6.0.1"
+  },
+  "keywords": [
+    "express",
+    "graphql"
+  ]
+}

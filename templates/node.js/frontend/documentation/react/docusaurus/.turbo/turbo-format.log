@@ -1,0 +1,22 @@
+
+
+> @documentation/docusaurus@0.0.1 format /Users/hieudoan/git/github.com/hieudoanm/hieudoanm/templates/node.js/frontend/documentation/react/docusaurus
+> prettier --cache --write .
+
+.editorconfig[2K[1G.gitignore[2K[1G.prettierrc.json[2K[1G[90m.prettierrc.json[39m 43ms (unchanged)
+.turbo/turbo-format.log[2K[1Gbabel.config.js[2K[1G[90mbabel.config.js[39m 7ms (unchanged)
+blog/2025-02-07-my-first-blog-post.mdx[2K[1G[90mblog/2025-02-07-my-first-blog-post.mdx[39m 73ms (unchanged)
+blog/authors.yml[2K[1G[90mblog/authors.yml[39m 4ms (unchanged)
+blog/tags.yml[2K[1G[90mblog/tags.yml[39m 7ms (unchanged)
+docs/intro.mdx[2K[1G[90mdocs/intro.mdx[39m 323ms (unchanged)
+docusaurus.config.ts[2K[1G[90mdocusaurus.config.ts[39m 133ms (unchanged)
+package.json[2K[1G[90mpackage.json[39m 4ms (unchanged)
+README.md[2K[1G[90mREADME.md[39m 8ms (unchanged)
+sidebars.ts[2K[1G[90msidebars.ts[39m 5ms (unchanged)
+src/components/HomepageFeatures/index.tsx[2K[1G[90msrc/components/HomepageFeatures/index.tsx[39m 21ms (unchanged)
+src/components/HomepageFeatures/styles.module.css[2K[1G[90msrc/components/HomepageFeatures/styles.module.css[39m 45ms (unchanged)
+src/css/custom.css[2K[1G[90msrc/css/custom.css[39m 5ms (unchanged)
+src/pages/index.module.css[2K[1G[90msrc/pages/index.module.css[39m 5ms (unchanged)
+src/pages/index.tsx[2K[1G[90msrc/pages/index.tsx[39m 6ms (unchanged)
+src/pages/markdown-page.md[2K[1G[90msrc/pages/markdown-page.md[39m 4ms (unchanged)
+static/.nojekyll[2K[1Gstatic/img/docusaurus-social-card.jpg[2K[1Gstatic/img/docusaurus.png[2K[1Gstatic/img/favicon.ico[2K[1Gstatic/img/logo.svg[2K[1Gstatic/img/undraw_docusaurus_mountain.svg[2K[1Gstatic/img/undraw_docusaurus_react.svg[2K[1Gstatic/img/undraw_docusaurus_tree.svg[2K[1Gtsconfig.json[2K[1G[90mtsconfig.json[39m 2ms (unchanged)

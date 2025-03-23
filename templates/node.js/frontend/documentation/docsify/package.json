@@ -1,0 +1,15 @@
+{
+  "name": "@documentation/docsify",
+  "version": "0.0.1",
+  "description": "Documentation - Docsify",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve ."
+  },
+  "keywords": [],
+  "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "docsify-cli": "4.4.4"
+  }
+}

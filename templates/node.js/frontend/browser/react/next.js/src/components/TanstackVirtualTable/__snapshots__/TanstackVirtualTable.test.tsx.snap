@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TanstackVirtualTable render default 1`] = `
+<div>
+  <div
+    class="h-[0px] overflow-auto"
+  >
+    <div
+      style="height: 0px;"
+    >
+      <table
+        class="table"
+      >
+        <thead>
+          <tr />
+        </thead>
+        <tbody />
+      </table>
+    </div>
+  </div>
+</div>
+`;

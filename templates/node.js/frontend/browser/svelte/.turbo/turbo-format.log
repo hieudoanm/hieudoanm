@@ -1,0 +1,17 @@
+
+
+> @frontend/svelte@0.0.1 format /Users/hieudoan/git/github.com/hieudoanm/hieudoanm/templates/node.js/frontend/browser/svelte
+> prettier --cache --write .
+
+.editorconfig[2K[1G.gitattributes[2K[1G.gitignore[2K[1G.node-version[2K[1G.npmrc[2K[1G.nvmrc[2K[1G.prettierrc.json[2K[1G[90m.prettierrc.json[39m 15ms (unchanged)
+.turbo/turbo-format.log[2K[1GDockerfile[2K[1Geslint.config.js[2K[1G[90meslint.config.js[39m 60ms (unchanged)
+package.json[2K[1G[90mpackage.json[39m 3ms (unchanged)
+playwright.config.ts[2K[1G[90mplaywright.config.ts[39m 24ms (unchanged)
+README.md[2K[1G[90mREADME.md[39m 11ms (unchanged)
+src/app.d.ts[2K[1G[90msrc/app.d.ts[39m 10ms (unchanged)
+src/app.html[2K[1G[90msrc/app.html[39m 22ms (unchanged)
+src/index.test.ts[2K[1G[90msrc/index.test.ts[39m 10ms (unchanged)
+src/routes/+page.svelte[2K[1Gstatic/favicon.png[2K[1Gsvelte.config.js[2K[1G[90msvelte.config.js[39m 4ms (unchanged)
+tests/smoke.spec.ts[2K[1G[90mtests/smoke.spec.ts[39m 12ms (unchanged)
+tsconfig.json[2K[1G[90mtsconfig.json[39m 3ms (unchanged)
+vite.config.js[2K[1G[90mvite.config.js[39m 4ms (unchanged)

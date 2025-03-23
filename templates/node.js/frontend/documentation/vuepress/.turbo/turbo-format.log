@@ -1,0 +1,11 @@
+
+
+> @documentation/vuepress@0.0.1 format /Users/hieudoan/git/github.com/hieudoanm/hieudoanm/templates/node.js/frontend/documentation/vuepress
+> prettier --cache --write .
+
+.editorconfig[2K[1G.gitignore[2K[1G.prettierrc.json[2K[1G[90m.prettierrc.json[39m 25ms (unchanged)
+.turbo/turbo-format.log[2K[1Gdocs/.vuepress/config.ts[2K[1G[90mdocs/.vuepress/config.ts[39m 41ms (unchanged)
+docs/getting-started.md[2K[1G[90mdocs/getting-started.md[39m 37ms (unchanged)
+docs/README.md[2K[1G[90mdocs/README.md[39m 22ms (unchanged)
+eslint.config.js[2K[1G[90meslint.config.js[39m 5ms (unchanged)
+package.json[2K[1G[90mpackage.json[39m 3ms (unchanged)
