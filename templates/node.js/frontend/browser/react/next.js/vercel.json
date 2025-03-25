@@ -1,8 +1,0 @@
-{
-  "buildCommand": "pnpm build",
-  "cleanUrls": true,
-  "framework": "nextjs",
-  "installCommand": "pnpm install",
-  "trailingSlash": false,
-  "regions": ["sin1"]
-}
