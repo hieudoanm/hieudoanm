@@ -8,21 +8,15 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
     - [🦦 (G)olang for CLI](#-golang-for-cli)
     - [🐍 (P)ython for Data Science](#-python-for-data-science)
     - [🛠️ (T)ypeScript for Full-stack Development](#️-typescript-for-full-stack-development)
-  - [🧑‍🎓 Learning](#-learning)
 
 ## 📱 Projects
 
 - [Apps](https://hieudoanm.github.io/apps): A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
-  - [Chess](https://hieudoanm.github.io/apps/chess):
-    - Books
-      - [Chess960](https://hieudoanm.github.io/apps/chess/books/chess960)
-      - [Openings Explorer](https://hieudoanm.github.io/apps/chess/books/openings)
-    - Converter
-      - [FEN to PNG](https://hieudoanm.github.io/apps/chess/converter/fen2png/)
-      - [PGN to GIF](https://hieudoanm.github.io/apps/chess/converter/pgn2gif/)
-    - Tools
-      - [Elo Calculator](https://hieudoanm.github.io/apps/chess/tools/elo)
-      - [Clock](https://hieudoanm.github.io/apps/chess/tools/clock)
+
+| Group              | App 1                    | App 2                          | App 3                           | App 4                           | App 5                | App 6                    |
+| ------------------ | ------------------------ | ------------------------------ | ------------------------------- | ------------------------------- | -------------------- | ------------------------ |
+| [Chess][app-chess] | [Chess960][app-chess960] | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png] | [PGN to GIF][app-chess-pgn2gif] | [Elo][app-chess-elo] | [Clock][app-chess-clock] |
+
 - Nothing: Standalone Application with HTMX and Back-end (Node.js)
   - [Instagram](https://nothing-instagram.onrender.com/)
   - [OpenAPI to PostmanV2](https://nothing-openapi-to-postmanv2.onrender.com/)
@@ -66,13 +60,15 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | 11  | Back-end  | Messages Broker  | 📨 [Kafka][kafka]                      | [GitHub][github-kafka]       | Java       |
 | 12  | DevOps    | Containerisation | 🏗️ [Docker][docker]                    | [GitHub][github-docker]      | Golang     |
 
-## 🧑‍🎓 Learning
-
-- 🗜️ [C/C++][cplusplus]
-- ⚙️ [Rust][rust]
+[app-chess]: https://hieudoanm.github.io/apps/chess
+[app-chess960]: https://hieudoanm.github.io/apps/chess/books/chess960
+[app-chess-openings]: https://hieudoanm.github.io/apps/chess/books/openings
+[app-chess-fen2png]: https://hieudoanm.github.io/apps/chess/converter/fen2png
+[app-chess-pgn2gif]: https://hieudoanm.github.io/apps/chess/converter/pgn2gif
+[app-chess-elo]: https://hieudoanm.github.io/apps/chess/tools/elo
+[app-chess-clock]: https://hieudoanm.github.io/apps/chess/tools/clock
 
 [black]: https://black.readthedocs.io/en/stable/
-[cplusplus]: https://cplusplus.com/
 [daisyui]: https://daisyui.com/
 [docker]: https://www.docker.com/
 [eslint]: https://eslint.org/
@@ -92,7 +88,6 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [python]: https://www.python.org/
 [react]: https://react.dev/
 [ruff]: https://docs.astral.sh/ruff/
-[rust]: https://www.rust-lang.org/
 [sqlalchemy]: https://www.sqlalchemy.org/
 [tailwindcss]: https://tailwindcss.com/
 [tauri]: https://v2.tauri.app/
