@@ -1,0 +1,13 @@
+services:
+  nats:
+    image: nats:latest
+    hostname: nats
+    container_name: nats
+    restart: unless-stopped
+    ports:
+      - '4222:4222' # NATS client connections
+      - '8222:8222' # HTTP monitoring endpoint
+      - '6222:6222' # Route connections (for clustering)
+    command: ['-js'] # Enables JetStream (Persistence)
+    environment:
+      - NATS_SERVER_NAME=nats_main

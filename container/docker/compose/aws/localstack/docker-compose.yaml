@@ -1,0 +1,15 @@
+services:
+  localstack:
+    image: localstack/localstack:latest
+    container_name: localstack
+    environment:
+      - SERVICES=ssm
+      - DEBUG=1
+      - DEFAULT_REGION=us-east-1
+      - AWS_ACCESS_KEY_ID=test
+      - AWS_SECRET_ACCESS_KEY=test
+    ports:
+      - '4566:4566' # Main port for all services
+      - '4510-4559:4510-4559' # Additional service ports
+    volumes:
+      - '/var/run/docker.sock:/var/run/docker.sock'
