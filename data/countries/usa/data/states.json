@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "capital": "Dover",
+    "largest": "Wilmington",
+    "admission": "1787-12-07",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "capital": "Harrisburg",
+    "largest": "Philadelphia",
+    "admission": "1787-12-12",
+    "level": "state",
+    "region": "Northeast",
+    "division": "Middle Atlantic"
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "capital": "Trenton",
+    "largest": "Newark",
+    "admission": "1787-12-18",
+    "level": "state",
+    "region": "Northeast",
+    "division": "Middle Atlantic"
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "capital": "Atlanta",
+    "largest": "Atlanta",
+    "admission": "1788-01-02",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "capital": "Hartford",
+    "largest": "Bridgeport",
+    "admission": "1788-01-09",
+    "level": "state",
+    "region": "Northeast",
+    "division": "New England"
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "capital": "Boston",
+    "largest": "Boston",
+    "admission": "1788-02-06",
+    "level": "state",
+    "region": "Northeast",
+    "division": "New England"
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "capital": "Annapolis",
+    "largest": "Baltimore",
+    "admission": "1788-04-28",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "capital": "Columbia",
+    "largest": "Charleston",
+    "admission": "1788-05-23",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "capital": "Concord",
+    "largest": "Manchester",
+    "admission": "1788-06-21",
+    "level": "state",
+    "region": "Northeast",
+    "division": "New England"
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "capital": "Richmond",
+    "largest": "Virginia Beach",
+    "admission": "1788-06-25",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY",
+    "capital": "Albany",
+    "largest": "New York City",
+    "admission": "1788-07-26",
+    "level": "state",
+    "region": "Northeast",
+    "division": "Middle Atlantic"
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "capital": "Raleigh",
+    "largest": "Charlotte",
+    "admission": "1789-11-21",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "capital": "Providence",
+    "largest": "Providence",
+    "admission": "1790-05-29",
+    "level": "state",
+    "region": "Northeast",
+    "division": "New England"
+  },
+  {
+    "name": "District of Columbia",
+    "abbreviation": "DC",
+    "capital": "District of Columbia",
+    "largest": "District of Columbia",
+    "admission": "1790-07-16",
+    "level": "federal",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "capital": "Montpelier",
+    "largest": "Burlington",
+    "admission": "1791-03-04",
+    "level": "state",
+    "region": "Northeast",
+    "division": "New England"
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "capital": "Frankfort",
+    "largest": "Louisville",
+    "admission": "1792-06-01",
+    "level": "state",
+    "region": "South",
+    "division": "East South Central"
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "capital": "Nashville",
+    "largest": "Nashville",
+    "admission": "1796-06-01",
+    "level": "state",
+    "region": "South",
+    "division": "East South Central"
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "capital": "Columbus",
+    "largest": "Columbus",
+    "admission": "1803-03-01",
+    "level": "state",
+    "region": "Midwest",
+    "division": "East North Central"
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "capital": "Baton Rouge",
+    "largest": "New Orleans",
+    "admission": "1812-04-30",
+    "level": "state",
+    "region": "South",
+    "division": "West South Central"
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "capital": "Indianapolis",
+    "largest": "Indianapolis",
+    "admission": "1816-12-11",
+    "level": "state",
+    "region": "Midwest",
+    "division": "East North Central"
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "capital": "Jackson",
+    "largest": "Jackson",
+    "admission": "1817-12-10",
+    "level": "state",
+    "region": "South",
+    "division": "East South Central"
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "capital": "Springfield",
+    "largest": "Chicago",
+    "admission": "1818-12-03",
+    "level": "state",
+    "region": "Midwest",
+    "division": "East North Central"
+  },
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "capital": "Montgomery",
+    "largest": "Huntsville",
+    "admission": "1819-12-14",
+    "level": "state",
+    "region": "South",
+    "division": "East South Central"
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "capital": "Augusta",
+    "largest": "Portland",
+    "admission": "1820-03-15",
+    "level": "state",
+    "region": "Northeast",
+    "division": "New England"
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "capital": "Jefferson City",
+    "largest": "Kansas City",
+    "admission": "1821-08-10",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "capital": "Little Rock",
+    "largest": "Little Rock",
+    "admission": "1836-06-15",
+    "level": "state",
+    "region": "South",
+    "division": "West South Central"
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "capital": "Lansing",
+    "largest": "Detroit",
+    "admission": "1837-01-26",
+    "level": "state",
+    "region": "Midwest",
+    "division": "East North Central"
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "capital": "Tallahassee",
+    "largest": "Jacksonville",
+    "admission": "1845-03-03",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "capital": "Austin",
+    "largest": "Houston",
+    "admission": "1845-12-29",
+    "level": "state",
+    "region": "South",
+    "division": "West South Central"
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "capital": "Des Moines",
+    "largest": "Des Moines",
+    "admission": "1846-12-28",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "capital": "Madison",
+    "largest": "Milwaukee",
+    "admission": "1848-05-29",
+    "level": "state",
+    "region": "Midwest",
+    "division": "East North Central"
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "capital": "Sacramento",
+    "largest": "Los Angeles",
+    "admission": "1850-09-09",
+    "level": "state",
+    "region": "West",
+    "division": "Pacific"
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "capital": "Saint Paul",
+    "largest": "Minneapolis",
+    "admission": "1858-05-11",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "capital": "Salem",
+    "largest": "Portland",
+    "admission": "1859-02-14",
+    "level": "state",
+    "region": "West",
+    "division": "Pacific"
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "capital": "Topeka",
+    "largest": "Wichita",
+    "admission": "1861-01-29",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "capital": "Charleston",
+    "largest": "Charleston",
+    "admission": "1863-06-20",
+    "level": "state",
+    "region": "South",
+    "division": "South Atlantic"
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "capital": "Carson City",
+    "largest": "Las Vegas",
+    "admission": "1864-10-31",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "capital": "Lincoln",
+    "largest": "Omaha",
+    "admission": "1867-03-01",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "capital": "Denver",
+    "largest": "Denver",
+    "admission": "1876-08-01",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "capital": "Bismarck",
+    "largest": "Fargo",
+    "admission": "1889-11-02",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "capital": "Pierre",
+    "largest": "Sioux Falls",
+    "admission": "1889-11-02",
+    "level": "state",
+    "region": "Midwest",
+    "division": "West North Central"
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "capital": "Helena",
+    "largest": "Billings",
+    "admission": "1889-11-08",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "capital": "Olympia",
+    "largest": "Seattle",
+    "admission": "1889-11-11",
+    "level": "state",
+    "region": "West",
+    "division": "Pacific"
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "capital": "Boise",
+    "largest": "Boise",
+    "admission": "1890-07-03",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "capital": "Cheyenne",
+    "largest": "Cheyenne",
+    "admission": "1890-07-10",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "capital": "Salt Lake City",
+    "largest": "Salt Lake City",
+    "admission": "1896-01-04",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "Guam",
+    "abbreviation": "GU",
+    "capital": "Hagåtña",
+    "largest": "Hagåtña",
+    "admission": "1898-12-10",
+    "level": "territory",
+    "region": "",
+    "division": ""
+  },
+  {
+    "name": "Puerto Rico",
+    "abbreviation": "PR",
+    "capital": "San Juan",
+    "largest": "San Juan",
+    "admission": "1898-12-10",
+    "level": "territory",
+    "region": "",
+    "division": ""
+  },
+  {
+    "name": "American Samoa",
+    "abbreviation": "AS",
+    "capital": "Pago Pago",
+    "largest": "Pago Pago",
+    "admission": "1900-02-16",
+    "level": "territory",
+    "region": "",
+    "division": ""
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "capital": "Oklahoma City",
+    "largest": "Oklahoma City",
+    "admission": "1907-11-16",
+    "level": "state",
+    "region": "South",
+    "division": "West South Central"
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "capital": "Santa Fe",
+    "largest": "Albuquerque",
+    "admission": "1912-01-06",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "capital": "Phoenix",
+    "largest": "Phoenix",
+    "admission": "1912-02-14",
+    "level": "state",
+    "region": "West",
+    "division": "Mountain"
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "abbreviation": "VI",
+    "capital": "Charlotte Amalie",
+    "largest": "Charlotte Amalie",
+    "admission": "1917-03-31",
+    "level": "territory",
+    "region": "",
+    "division": ""
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "capital": "Juneau",
+    "largest": "Anchorage",
+    "admission": "1959-01-03",
+    "level": "state",
+    "region": "West",
+    "division": "Pacific"
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "capital": "Honolulu",
+    "largest": "Honolulu",
+    "admission": "1959-08-21",
+    "level": "state",
+    "region": "West",
+    "division": "Pacific"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "abbreviation": "MP",
+    "capital": "Saipan",
+    "largest": "Saipan",
+    "admission": "1986-11-04",
+    "level": "territory",
+    "region": "",
+    "division": ""
+  }
+]

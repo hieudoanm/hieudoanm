@@ -1,0 +1,119 @@
+no,start,end,house_speaker,house_speaker_gender,house_speaker_state,house_party,senate_leader,senate_leader_gender,senate_leader_state,senate_party,president,president_gender,president_party,bifecta_congress,bifecta_house,bifecta_senate,trifecta
+1,1789-03-04,1791-03-03,Frederick Muhlenberg,male,Pennsylvania,Federalist,,,,Federalist,George Washington,male,Federalist,Federalist,Federalist,Federalist,Federalist
+2,1791-03-04,1793-03-03,Jonathan Trumbull Jr.,male,Connecticut,Federalist,,,,Federalist,George Washington,male,Federalist,Federalist,Federalist,Federalist,Federalist
+3,1793-03-04,1795-03-03,Frederick Muhlenberg,male,Pennsylvania,Democratic-Republican,,,,Federalist,George Washington,male,Federalist,,,Federalist,
+4,1795-03-04,1797-03-03,Jonathan Dayton,male,New Jersey,Democratic-Republican,,,,Federalist,George Washington,male,Federalist,,,Federalist,
+5,1797-03-04,1799-03-03,Jonathan Dayton,male,New Jersey,Federalist,,,,Federalist,John Adams,male,Federalist,Federalist,Federalist,Federalist,Federalist
+6,1799-03-04,1801-03-03,Theodore Sedgwick,male,Massachusetts,Federalist,,,,Federalist,John Adams,male,Federalist,Federalist,Federalist,Federalist,Federalist
+7,1801-03-04,1803-03-03,Nathaniel Macon,male,North Carolina,Democratic-Republican,,,,Democratic-Republican,Thomas Jefferson,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+8,1803-03-04,1805-03-03,Nathaniel Macon,male,North Carolina,Democratic-Republican,,,,Democratic-Republican,Thomas Jefferson,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+9,1805-03-04,1807-03-03,Nathaniel Macon,male,North Carolina,Democratic-Republican,,,,Democratic-Republican,Thomas Jefferson,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+10,1807-03-04,1809-03-03,Joseph Bradley Varnum,male,Massachusetts,Democratic-Republican,,,,Democratic-Republican,Thomas Jefferson,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+11,1809-03-04,1811-03-03,Joseph Bradley Varnum,male,Massachusetts,Democratic-Republican,,,,Democratic-Republican,James Madison,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+12,1811-03-04,1813-03-03,Henry Clay,male,Kentucky,Democratic-Republican,,,,Democratic-Republican,James Madison,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+13,1813-03-04,1815-03-03,Henry Clay / Langdon Cheves,male,Kentucky / South Carolina,Democratic-Republican,,,,Democratic-Republican,James Madison,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+14,1815-03-04,1817-03-03,Henry Clay,male,Kentucky,Democratic-Republican,,,,Democratic-Republican,James Madison,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+15,1817-03-04,1819-03-03,Henry Clay,male,Kentucky,Democratic-Republican,,,,Democratic-Republican,James Monroe,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+16,1819-03-04,1821-03-03,Henry Clay / John W. Taylor,male,Kentucky / New York,Democratic-Republican,,,,Democratic-Republican,James Monroe,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+17,1821-03-04,1823-03-03,Philip P. Barbour,male,Virginia,Democratic-Republican,,,,Democratic-Republican,James Monroe,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+18,1823-03-04,1825-03-03,Henry Clay,male,Kentucky,Democratic-Republican,,,,Democratic-Republican,James Monroe,male,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican,Democratic-Republican
+19,1825-03-04,1827-03-03,John W. Taylor,male,New York,Anti-Jacksonian,,,,Jacksonian,John Quincy Adams,male,Democratic-Republican,,,,
+20,1827-03-04,1829-03-03,Andrew Stevenson,male,Virginia,Jacksonian,,,,Jacksonian,John Quincy Adams,male,Democratic-Republican,Jacksonian,,,
+21,1829-03-04,1831-03-03,Andrew Stevenson,male,Virginia,Jacksonian,,,,Jacksonian,Andrew Jackson,male,Jacksonian,Jacksonian,Jacksonian,Jacksonian,Jacksonian
+22,1831-03-04,1833-03-03,Andrew Stevenson,male,Virginia,Jacksonian,,,,Jacksonian,Andrew Jackson,male,Jacksonian,Jacksonian,Jacksonian,Jacksonian,Jacksonian
+23,1833-03-04,1835-03-03,Andrew Stevenson / John Bell,male,Virginia / Tennessee,Jacksonian,,,,Anti-Jacksonian,Andrew Jackson,male,Jacksonian,,Jacksonian,,
+24,1835-03-04,1837-03-03,James K. Polk,male,Tennessee,Jacksonian,,,,Jacksonian,Andrew Jackson,male,Jacksonian,Jacksonian,Jacksonian,Jacksonian,Jacksonian
+25,1837-03-04,1839-03-03,James K. Polk,male,Tennessee,Democrat,,,,Democrat,Martin Van Buren,male,Democrat,Democrat,Democrat,Democrat,Democrat
+26,1839-03-04,1841-03-03,Robert M. T. Hunter,male,Virginia,Democrat,,,,Democrat,Martin Van Buren,male,Democrat,Democrat,Democrat,Democrat,Democrat
+27,1841-03-04,1843-03-03,John White,male,Kentucky,Whigs,,,,Whigs,William Harrison / John Tyler,male,Whig,Whigs,,,
+28,1843-03-04,1845-03-03,John Winston Jones,male,Virginia,Democrat,,,,Whigs,John Tyler,male,Whig,,,,
+29,1845-03-04,1847-03-03,John Wesley Davis,male,Indiana,Democrat,,,,Democrat,James Polk,male,Democrat,Democrat,Democrat,Democrat,Democrat
+30,1847-03-04,1849-03-03,Robert Charles Winthrop,male,Massachusetts,Whigs,,,,Democrat,James Polk,male,Democrat,,,Democrat,
+31,1849-03-04,1851-03-03,Howell Cobb,male,Georgia,Democrat,,,,Democrat,Zachary Taylor / Millard Fillmore,male,Whig,Democrat,,,
+32,1851-03-04,1853-03-03,Linn Boyd,male,Kentucky,Democrat,,,,Democrat,Millard Fillmore,male,Whig,Democrat,,,
+33,1853-03-04,1855-03-03,Linn Boyd,male,Kentucky,Democrat,,,,Democrat,Franklin Pierce,male,Democrat,Democrat,Democrat,Democrat,Democrat
+34,1855-03-04,1857-03-03,Nathaniel P. Banks,male,Massachusetts,Opposition,,,,Democrat,Franklin Pierce,male,Democrat,,,Democrat,
+35,1857-03-04,1859-03-03,James Lawrence Orr,male,South Carolina,Democrat,,,,Democrat,James Buchanan,male,Democrat,Democrat,Democrat,Democrat,Democrat
+36,1859-03-04,1861-03-03,William Pennington,male,New Jersey,Republican,,,,Democrat,James Buchanan,male,Democrat,,,Democrat,
+37,1861-03-04,1863-03-03,Galusha A. Grow,male,Pennsylvania,Republican,,,,Republican,Abraham Lincoln,male,Republican,Republican,Republican,Republican,Republican
+38,1863-03-04,1865-03-03,Schuyler Colfax,male,Indiana,Republican,,,,Republican,Abraham Lincoln,male,Republican,Republican,Republican,Republican,Republican
+39,1865-03-04,1867-03-03,Schuyler Colfax,male,Indiana,Republican,,,,Republican,Andrew Johnson,male,Democrat,Republican,,,
+40,1867-03-04,1869-03-03,Schuyler Colfax / Theodore M. Pomeroy,male,Indiana / New York,Republican,,,,Republican,Andrew Johnson,male,Democrat,Republican,,,
+41,1869-03-04,1871-03-03,James G. Blaine,male,Maine,Republican,,,,Republican,Ulysses Grant,male,Republican,Republican,Republican,Republican,Republican
+42,1871-03-04,1873-03-03,James G. Blaine,male,Maine,Republican,,,,Republican,Ulysses Grant,male,Republican,Republican,Republican,Republican,Republican
+43,1873-03-04,1875-03-03,James G. Blaine,male,Maine,Republican,,,,Republican,Ulysses Grant,male,Republican,Republican,Republican,Republican,Republican
+44,1875-03-04,1877-03-03,Michael C. Kerr / Samuel J. Randall,male,Indiana / Pennsylvania,Democrat,,,,Republican,Ulysses Grant,male,Republican,,,Republican,
+45,1877-03-04,1879-03-03,Samuel J. Randall,male,Pennsylvania,Democrat,,,,Republican,Rutherford Hayes,male,Republican,,,Republican,
+46,1879-03-04,1881-03-03,Samuel J. Randall,male,Pennsylvania,Democrat,,,,Democrat,Rutherford Hayes,male,Republican,Democrat,,,
+47,1881-03-04,1883-03-03,J. Warren Keifer,male,Ohio,Republican,,,,,James Garfield / Chester Arthur,male,Republican,,Republican,,
+48,1883-03-04,1885-03-03,John G. Carlisle,male,Kentucky,Democrat,,,,Republican,Chester Arthur,male,Republican,,,Republican,
+49,1885-03-04,1887-03-03,John G. Carlisle,male,Kentucky,Democrat,,,,Republican,Grover Cleveland,male,Democrat,,Democrat,,
+50,1887-03-04,1889-03-03,John G. Carlisle,male,Kentucky,Democrat,,,,Republican,Grover Cleveland,male,Democrat,,Democrat,,
+51,1889-03-04,1891-03-03,Thomas Brackett Reed,male,Maine,Republican,,,,Republican,Benjamin Harrison,male,Republican,Republican,Republican,Republican,Republican
+52,1891-03-04,1893-03-03,Charles Frederick Crisp,male,Georgia,Democrat,,,,Republican,Benjamin Harrison,male,Republican,,,Republican,
+53,1893-03-04,1895-03-03,Charles Frederick Crisp,male,Georgia,Democrat,,,,Democrat,Grover Cleveland,male,Democrat,Democrat,Democrat,Democrat,Democrat
+54,1895-03-04,1897-03-03,Thomas Brackett Reed,male,Maine,Republican,,,,Republican,Grover Cleveland,male,Democrat,Republican,,,
+55,1897-03-04,1899-03-03,Thomas Brackett Reed,male,Maine,Republican,,,,Republican,William McKinley,male,Republican,Republican,Republican,Republican,Republican
+56,1899-03-04,1901-03-03,David B. Henderson,male,Iowa,Republican,,,,Republican,William McKinley,male,Republican,Republican,Republican,Republican,Republican
+57,1901-03-04,1903-03-03,David B. Henderson,male,Iowa,Republican,,,,Republican,William McKinley / Theodore Roosevelt,male,Republican,Republican,Republican,Republican,Republican
+58,1903-03-04,1905-03-03,Joseph Gurney Cannon,male,Illinois,Republican,,,,Republican,Theodore Roosevelt,male,Republican,Republican,Republican,Republican,Republican
+59,1905-03-04,1907-03-03,Joseph Gurney Cannon,male,Illinois,Republican,,,,Republican,Theodore Roosevelt,male,Republican,Republican,Republican,Republican,Republican
+60,1907-03-04,1909-03-03,Joseph Gurney Cannon,male,Illinois,Republican,,,,Republican,Theodore Roosevelt,male,Republican,Republican,Republican,Republican,Republican
+61,1909-03-04,1911-03-03,Joseph Gurney Cannon,male,Illinois,Republican,,,,Republican,William Taft,male,Republican,Republican,Republican,Republican,Republican
+62,1911-03-04,1913-03-03,Champ Clark,male,Missouri,Democrat,,,,Republican,William Taft,male,Republican,,,Republican,
+63,1913-03-04,1915-03-03,Champ Clark,male,Missouri,Democrat,John W. Kern,male,Indiana,Democrat,Woodrow Wilson,male,Democrat,Democrat,Democrat,Democrat,Democrat
+64,1915-03-04,1917-03-03,Champ Clark,male,Missouri,Democrat,John W. Kern,male,Indiana,Democrat,Woodrow Wilson,male,Democrat,Democrat,Democrat,Democrat,Democrat
+65,1917-03-04,1919-03-03,Champ Clark,male,Missouri,Democrat,Thomas S. Martin,male,Virginia,Democrat,Woodrow Wilson,male,Democrat,Democrat,Democrat,Democrat,Democrat
+66,1919-03-04,1921-03-03,Frederick H. Gillett,male,Massachusetts,Republican,Henry C. Lodge,male,Massachusetts,Republican,Woodrow Wilson,male,Democrat,Republican,,,
+67,1921-03-04,1923-03-03,Frederick H. Gillett,male,Massachusetts,Republican,Henry C. Lodge,male,Massachusetts,Republican,Warren Harding,male,Republican,Republican,Republican,Republican,Republican
+68,1923-03-04,1925-03-03,Frederick H. Gillett,male,Massachusetts,Republican,Henry C. Lodge / Charles Curtis,male,Massachusetts / Kansas,Republican,Warren Harding / Calvin Coolidge,male,Republican,Republican,Republican,Republican,Republican
+69,1925-03-04,1927-03-03,Nicholas Longworth,male,Ohio,Republican,Charles Curtis,male,Kansas,Republican,Calvin Coolidge,male,Republican,Republican,Republican,Republican,Republican
+70,1927-03-04,1929-03-03,Nicholas Longworth,male,Ohio,Republican,Charles Curtis,male,Kansas,Republican,Calvin Coolidge,male,Republican,Republican,Republican,Republican,Republican
+71,1929-03-04,1931-03-03,Nicholas Longworth,male,Ohio,Republican,James E. Watson,male,Indiana,Republican,Herbert Hoover,male,Republican,Republican,Republican,Republican,Republican
+72,1931-03-04,1933-03-03,John Nance Garner,male,Texas,Democrat,James E. Watson,male,Indiana,Republican,Herbert Hoover,male,Republican,,,Republican,
+73,1933-03-04,1935-01-03,Henry Thomas Rainey,male,Illinois,Democrat,Joseph T. Robinson,male,Arkansas,Democrat,Franklin D. Roosevelt,male,Democrat,Democrat,Democrat,Democrat,Democrat
+74,1935-01-03,1937-01-03,Jo Byrns / William B. Bankhead,male,Tennessee / Alabama,Democrat,Joseph T. Robinson,male,Arkansas,Democrat,Franklin D. Roosevelt,male,Democrat,Democrat,Democrat,Democrat,Democrat
+75,1937-01-03,1939-01-03,William B. Bankhead,male,Alabama,Democrat,Joseph T. Robinson / Alben W. Barkley,male,Arkansas / Kentucky,Democrat,Franklin D. Roosevelt,male,Democrat,Democrat,Democrat,Democrat,Democrat
+76,1939-01-03,1941-01-03,William B. Bankhead / Sam Rayburn,male,Alabama / Texas,Democrat,Alben W. Barkley,male,Kentucky,Democrat,Franklin D. Roosevelt,male,Democrat,Democrat,Democrat,Democrat,Democrat
+77,1941-01-03,1943-01-03,Sam Rayburn,male,Texas,Democrat,Alben W. Barkley,male,Kentucky,Democrat,Franklin D. Roosevelt,male,Democrat,Democrat,Democrat,Democrat,Democrat
+78,1943-01-03,1945-01-03,Sam Rayburn,male,Texas,Democrat,Alben W. Barkley,male,Kentucky,Democrat,Franklin D. Roosevelt,male,Democrat,Democrat,Democrat,Democrat,Democrat
+79,1945-01-03,1947-01-03,Sam Rayburn,male,Texas,Democrat,Alben W. Barkley,male,Kentucky,Democrat,Franklin D. Roosevelt / Harry S Truman,male,Democrat,Democrat,Democrat,Democrat,Democrat
+80,1947-01-03,1949-01-03,Joseph W. Martin Jr.,male,Massachusetts,Republican,"Wallace H. White, Jr.",male,Maine,Republican,Harry S Truman,male,Democrat,Republican,,,
+81,1949-01-03,1951-01-03,Sam Rayburn,male,Texas,Democrat,Scott W. Lucas,male,Illinois,Democrat,Harry S Truman,male,Democrat,Democrat,Democrat,Democrat,Democrat
+82,1951-01-03,1953-01-03,Sam Rayburn,male,Texas,Democrat,Ernest W. McFarland,male,Arizona,Democrat,Harry S Truman,male,Democrat,Democrat,Democrat,Democrat,Democrat
+83,1953-01-03,1955-01-03,Joseph W. Martin Jr.,male,Massachusetts,Republican,Robert A. Taft / William F. Knowland,male,Ohio / California,Republican,Dwight Eisenhower,male,Republican,Republican,Republican,Republican,Republican
+84,1955-01-03,1957-01-03,Sam Rayburn,male,Texas,Republican,Lyndon B. Johnson,male,Texas,Democrat,Dwight Eisenhower,male,Republican,,Republican,,
+85,1957-01-03,1959-01-03,Sam Rayburn,male,Texas,Republican,Lyndon B. Johnson,male,Texas,Democrat,Dwight Eisenhower,male,Republican,,Republican,,
+86,1959-01-03,1961-01-03,Sam Rayburn,male,Texas,Republican,Lyndon B. Johnson,male,Texas,Democrat,Dwight Eisenhower,male,Republican,,Republican,,
+87,1961-01-03,1963-01-03,Sam Rayburn / John W. McCormack,male,Texas / Massachusetts,Democrat,Michael J. Mansfield,male,Montana,Democrat,John Kennedy,male,Democrat,Democrat,Democrat,Democrat,Democrat
+88,1963-01-03,1965-01-03,John W. McCormack,male,Massachusetts,Democrat,Michael J. Mansfield,male,Montana,Democrat,John Kennedy / Lyndon Johnson,male,Democrat,Democrat,Democrat,Democrat,Democrat
+89,1965-01-03,1967-01-03,John W. McCormack,male,Massachusetts,Democrat,Michael J. Mansfield,male,Montana,Democrat,Lyndon Johnson,male,Democrat,Democrat,Democrat,Democrat,Democrat
+90,1967-01-03,1969-01-03,John W. McCormack,male,Massachusetts,Democrat,Michael J. Mansfield,male,Montana,Democrat,Lyndon Johnson,male,Democrat,Democrat,Democrat,Democrat,Democrat
+91,1969-01-03,1971-01-03,John W. McCormack,male,Massachusetts,Democrat,Michael J. Mansfield,male,Montana,Democrat,Richard Nixon,male,Republican,Democrat,,,
+92,1971-01-03,1973-01-03,Carl Albert,male,Oklahoma,Democrat,Michael J. Mansfield,male,Montana,Democrat,Richard Nixon,male,Republican,Democrat,,,
+93,1973-01-03,1975-01-03,Carl Albert,male,Oklahoma,Democrat,Michael J. Mansfield,male,Montana,Democrat,Richard Nixon / Gerald Ford,male,Republican,Democrat,,,
+94,1975-01-03,1977-01-03,Carl Albert,male,Oklahoma,Democrat,Michael J. Mansfield,male,Montana,Democrat,Gerald Ford,male,Republican,Democrat,,,
+95,1977-01-03,1979-01-03,Tip O'Neill,male,Massachusetts,Democrat,Robert C. Byrd,male,West Virginia,Democrat,Jimmy Carter,male,Democrat,Democrat,Democrat,Democrat,Democrat
+96,1979-01-03,1981-01-03,Tip O'Neill,male,Massachusetts,Democrat,Robert C. Byrd,male,West Virginia,Democrat,Jimmy Carter,male,Democrat,Democrat,Democrat,Democrat,Democrat
+97,1981-01-03,1983-01-03,Tip O'Neill,male,Massachusetts,Democrat,"Howard H. Baker, Jr.",male,Tennessee,Republican,Ronald Reagan,male,Republican,,,Republican,
+98,1983-01-03,1985-01-03,Tip O'Neill,male,Massachusetts,Democrat,"Howard H. Baker, Jr.",male,Tennessee,Republican,Ronald Reagan,male,Republican,,,Republican,
+99,1985-01-03,1987-01-03,Tip O'Neill,male,Massachusetts,Democrat,Robert J. Dole (Bob),male,Kansas,Republican,Ronald Reagan,male,Republican,,,Republican,
+100,1987-01-03,1989-01-03,Jim Wright,male,Texas,Democrat,Robert C. Byrd,male,West Virginia,Democrat,Ronald Reagan,male,Republican,Democrat,,,
+101,1989-01-03,1991-01-03,Jim Wright / Tom Foley,male,Texas / Washington,Democrat,George J. Mitchell,male,Maine,Democrat,George H. W. Bush,male,Republican,Democrat,,,
+102,1991-01-03,1993-01-03,Tom Foley,male,Washington,Democrat,George J. Mitchell,male,Maine,Democrat,George H. W. Bush,male,Republican,Democrat,,,
+103,1993-01-03,1995-01-03,Tom Foley,male,Washington,Democrat,George J. Mitchell,male,Maine,Democrat,Bill Clinton,male,Democrat,Democrat,Democrat,Democrat,Democrat
+104,1995-01-03,1997-01-03,Newt Gingrich,male,Georgia,Republican,Robert J. Dole (Bob) / Trent Lott,male,Kansas / Mississippi,Republican,Bill Clinton,male,Democrat,Republican,,,
+105,1997-01-03,1999-01-03,Newt Gingrich,male,Georgia,Republican,Trent Lott,male,Mississippi,Republican,Bill Clinton,male,Democrat,Republican,,,
+106,1999-01-03,2001-01-03,Dennis Hastert,male,Illinois,Republican,Trent Lott,male,Mississippi,Republican,Bill Clinton,male,Democrat,Republican,,,
+107,2001-01-03,2003-01-03,Dennis Hastert,male,Illinois,Republican,Thomas A. Daschle,male,South Dakota,Democrat,George W. Bush,male,Republican,,Republican,,
+108,2003-01-03,2005-01-03,Dennis Hastert,male,Illinois,Republican,William H. Frist,male,Tennessee,Republican,George W. Bush,male,Republican,Republican,Republican,Republican,Republican
+109,2005-01-03,2007-01-03,Dennis Hastert,male,Illinois,Republican,William H. Frist,male,Tennessee,Republican,George W. Bush,male,Republican,Republican,Republican,Republican,Republican
+110,2007-01-03,2009-01-03,Nancy Pelosi,female,California,Democrat,Harry Reid,male,Nevada,Democrat,George W. Bush,male,Republican,Democrat,,,
+111,2009-01-03,2011-01-03,Nancy Pelosi,female,California,Democrat,Harry Reid,male,Nevada,Democrat,Barack Obama,male,Democrat,Democrat,Democrat,Democrat,Democrat
+112,2011-01-03,2013-01-03,John Boehner,male,Ohio,Republican,Harry Reid,male,Nevada,Democrat,Barack Obama,male,Democrat,,,Democrat,
+113,2013-01-03,2015-01-03,John Boehner,male,Ohio,Republican,Harry Reid,male,Nevada,Democrat,Barack Obama,male,Democrat,,,Democrat,
+114,2015-01-03,2017-01-03,John Boehner / Paul Ryan,male,Ohio / Wisconsin,Republican,Mitch McConnell,male,Kentucky,Republican,Barack Obama,male,Democrat,Republican,,,
+115,2017-01-03,2019-01-03,Paul Ryan,male,Wisconsin,Republican,Mitch McConnell,male,Kentucky,Republican,Donald Trump,male,Republican,Republican,Republican,Republican,Republican
+116,2019-01-03,2021-01-03,Nancy Pelosi,female,California,Democrat,Mitch McConnell,male,Kentucky,Republican,Donald Trump,male,Republican,,,Republican,
+117,2021-01-03,2023-01-03,Nancy Pelosi,female,California,Democrat,Charles E. Schumer,male,New York,Democrat,Joe Biden,male,Democrat,Democrat,Democrat,Democrat,Democrat
+118,2023-01-03,2025-01-03,Kevin McCarthy / Mike Johnson,male,California / Louisiana,Republican,Charles E. Schumer,male,New York,Democrat,Joe Biden,male,Democrat,,,Democrat,

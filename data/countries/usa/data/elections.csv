@@ -1,0 +1,119 @@
+year,president,president_party,vice_president,vice_president_party,winner
+1788,George Washington,Independent,,,true
+1792,George Washington,Independent,,,false
+1796,John Adams,Federalist,,,true
+1796,Thomas Jefferson,Democratic-Republican,,,false
+1800,Thomas Jefferson,Democratic-Republican,Aaron Burr,Democratic-Republican,true
+1800,John Adams,Federalist,John Adams,Charles Cotesworth Pinckney,false
+1804,Thomas Jefferson,Democratic-Republican,George Clinton,Democratic-Republican,true
+1804,Charles Cotesworth Pinckney,Federalist,Rufus King,Federalist,false
+1808,James Madison,Democratic-Republican,George Clinton,Democratic-Republican,true
+1808,Charles Cotesworth Pinckney,Federalist,Rufus King,Federalist,false
+1812,James Madison,Democratic-Republican,Elbridge Gerry,Democratic-Republican,true
+1812,DeWitt Clinton,Federalist,Jared Ingersoll,Federalist,false
+1816,James Monroe,Democratic-Republican,Daniel D. Tompkins,Democratic-Republican,true
+1816,Rufus King,Federalist,John Eager Howard,Federalist,false
+1820,James Monroe,Democratic-Republican,Daniel D. Tompkins,Democratic-Republican,true
+1824,John Quincy Adams,Democratic-Republican,John C. Calhoun,Democratic-Republican,true
+1824,Andrew Jackson,Democratic-Republican,John C. Calhoun,Democratic-Republican,false
+1828,Andrew Jackson,Democratic,John C. Calhoun,Democratic,true
+1828,John Quincy Adams,National Republican,Richard Rush,National Republican,false
+1832,Andrew Jackson,Democratic,Martin Van Buren,Democratic,true
+1832,Henry Clay,National Republican,John Sergeant,National Republican,false
+1836,Martin Van Buren,Democratic,Richard Mentor Johnson,Democratic,true
+1836,William Henry Harrison,Whig,John Tyler,Whig,false
+1840,William Henry Harrison,Whig,John Tyler,Whig,true
+1840,Martin Van Buren,Democratic,Richard Mentor Johnson,Democratic,false
+1844,James K. Polk,Democratic,George M. Dallas,Democratic,true
+1844,Henry Clay,Whig,Theodore Frelinghuysen,Whig,false
+1848,Zachary Taylor,Whig,Millard Fillmore,Whig,true
+1848,Lewis Cass,Democratic,William Orlando Butler,Democratic,false
+1852,Franklin Pierce,Democratic,William R. King,Democratic,true
+1852,Winfield Scott,Whig,William Alexander Graham,Whig,false
+1856,James Buchanan,Democratic,John C. Breckinridge,Democratic,true
+1856,John C. Frémont,Republican,William L. Dayton,Republican,false
+1860,Abraham Lincoln,Republican,Hannibal Hamlin,Republican,true
+1860,John C. Breckinridge,Democratic,Joseph Lane,Democratic,false
+1864,Abraham Lincoln,Republican,Andrew Johnson,Democratic,true
+1864,George B. McClellan,Democratic,George H. Pendleton,Democratic,false
+1868,Ulysses S. Grant,Republican,Schuyler Colfax,Republican,true
+1868,Horatio Seymour,Democratic,Francis Preston Blair Jr.,Democratic,false
+1872,Ulysses S. Grant,Republican,Henry Wilson,Republican,true
+1872,Thomas A. Hendricks,Democratic,Benjamin Gratz Brown,Democratic,false
+1876,Rutherford B. Hayes,Republican,William A. Wheeler,Republican,true
+1876,Samuel J. Tilden,Democratic,Thomas A. Hendricks,Democratic,false
+1880,James A. Garfield,Republican,Chester A. Arthur,Republican,true
+1880,Winfield Scott Hancock,Democratic,William Hayden English,Democratic,false
+1884,Grover Cleveland,Democratic,Thomas A. Hendricks,Democratic,true
+1884,James G. Blaine,Republican,John A. Logan,Republican,false
+1888,Benjamin Harrison,Republican,Levi P. Morton,Republican,true
+1888,Grover Cleveland,Democratic,Allen G. Thurman,Democratic,false
+1892,Grover Cleveland,Democratic,Adlai Stevenson I,Democratic,true
+1892,Benjamin Harrison,Republican,Whitelaw Reid,Republican,false
+1896,William McKinley,Republican,Garret Hobart,Republican,true
+1896,William Jennings Bryan,Democratic,Arthur Sewall,Democratic,false
+1900,William McKinley,Republican,Theodore Roosevelt,Republican,true
+1900,William Jennings Bryan,Democratic,Adlai Stevenson I,Democratic,false
+1904,Theodore Roosevelt,Republican,Charles W. Fairbanks,Republican,true
+1904,Alton B. Parker,Democratic,Henry G. Davis,Democratic,false
+1908,William Howard Taft,Republican,James S. Sherman,Republican,true
+1908,William Jennings Bryan,Democratic,John W. Kern,Democratic,false
+1912,Woodrow Wilson,Democratic,Thomas R. Marshall,Democratic,true
+1912,William Howard Taft,Republican,Nicholas Murray Butler,Republican,false
+1912,Theodore Roosevelt,Progressive,Hiram Johnson,Progressive,false
+1916,Woodrow Wilson,Democratic,Thomas R. Marshall,Democratic,true
+1916,Charles Evans Hughes,Republican,Charles W. Fairbanks,Republican,false
+1920,Warren G. Harding,Republican,Calvin Coolidge,Republican,true
+1920,James M. Cox,Democratic,Franklin D. Roosevelt,Democratic,false
+1924,Calvin Coolidge,Republican,Charles G. Dawes,Republican,true
+1924,Charles G. Dawes,Democratic,Charles W. Bryan,Democratic,false
+1928,Herbert Hoover,Republican,Charles Curtis,Republican,true
+1928,Al Smith,Democratic,Joseph Taylor Robinson,Democratic,false
+1932,Franklin D. Roosevelt,Democratic,John Nance Garner,Democratic,true
+1932,Herbert Hoover,Republican,Charles Curtis,Republican,false
+1936,Franklin D. Roosevelt,Democratic,John Nance Garner,Democratic,true
+1936,Alf Landon,Republican,Frank Knox,Republican,false
+1940,Franklin D. Roosevelt,Democratic,Henry A. Wallace,Democratic,true
+1940,Wendell Willkie,Republican,Charles L. McNary,Republican,false
+1944,Franklin D. Roosevelt,Democratic,Harry S. Truman,Democratic,true
+1944,Thomas E. Dewey,Republican,John W. Bricker,Republican,false
+1948,Harry S. Truman,Democratic,Alben W. Barkley,Democratic,true
+1948,Thomas E. Dewey,Republican,Earl Warren,Republican,false
+1952,Dwight D. Eisenhower,Republican,Richard Nixon,Republican,true
+1952,Adlai Stevenson II,Democratic,John Sparkman,Democratic,false
+1956,Dwight D. Eisenhower,Republican,Richard Nixon,Republican,true
+1956,Adlai Stevenson II,Democratic,Estes Kefauver,Democratic,false
+1960,John F. Kennedy,Democratic,Lyndon B. Johnson,Democratic,true
+1960,Richard Nixon,Republican,Henry Cabot Lodge Jr.,Republican,false
+1964,Lyndon B. Johnson,Democratic,Hubert Humphrey,Democratic,true
+1964,Barry Goldwater,Republican,William E. Miller,Republican,false
+1968,Richard Nixon,Republican,Spiro Agnew,Republican,true
+1968,Hubert Humphrey,Democratic,Edmund Muskie,Democratic,false
+1972,Richard Nixon,Republican,Spiro Agnew,Republican,true
+1972,George McGovern,Democratic,Sargent Shriver,Democratic,false
+1976,Jimmy Carter,Democratic,Walter Mondale,Democratic,true
+1976,Gerald Ford,Republican,Bob Dole,Republican,false
+1980,Ronald Reagan,Republican,George H. W. Bush,Republican,true
+1980,Jimmy Carter,Democratic,Walter Mondale,Democratic,false
+1984,Ronald Reagan,Republican,George H. W. Bush,Republican,true
+1984,Walter Mondale,Democratic,Geraldine Ferraro,Democratic,false
+1988,George H. W. Bush,Republican,Dan Quayle,Republican,true
+1988,Michael Dukakis,Democratic,Lloyd Bentsen,Democratic,false
+1992,Bill Clinton,Democratic,Al Gore,Democratic,true
+1992,George H. W. Bush,Republican,Dan Quayle,Republican,false
+1996,Bill Clinton,Democratic,Al Gore,Democratic,true
+1996,Bob Dole,Republican,Jack Kemp,Republican,false
+2000,George W. Bush,Republican,Dick Cheney,Republican,true
+2000,Al Gore,Democratic,Joe Lieberman,Democratic,false
+2004,George W. Bush,Republican,Dick Cheney,Republican,true
+2004,John Kerry,Democratic,John Edwards,Democratic,false
+2008,Barack Obama,Democratic,Joe Biden,Democratic,true
+2008,John McCain,Republican,Sarah Palin,Republican,false
+2012,Barack Obama,Democratic,Joe Biden,Democratic,true
+2012,Mitt Romney,Republican,Paul Ryan,Republican,false
+2016,Donald Trump,Republican,Mike Pence,Republican,true
+2016,Hillary Clinton,Democratic,Tim Kaine,Democratic,false
+2020,Joe Biden,Democratic,Kamala Harris,Democratic,true
+2020,Donald Trump,Republican,Mike Pence,Republican,false
+2024,Kamala Harris,Democratic,Tim Waltz,Democratic,
+2024,Donald Trump,Republican,J.D. Vance,Republican,
