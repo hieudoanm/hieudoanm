@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13117366.affe5b8e.200x200o.4001a7d4fa3a.jpg",
+    "player_id": 13117366,
+    "@id": "https://api.chess.com/pub/player/ploddingpawn",
+    "url": "https://www.chess.com/member/ploddingpawn",
+    "name": "Cindy Qiao",
+    "username": "ploddingpawn",
+    "title": "WFM",
+    "followers": 662,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741648233,
+    "joined": 1376325560,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1275,
+            "date": 1705310716,
+            "rd": 217
+        },
+        "best": {
+            "rating": 1589,
+            "date": 1501873812,
+            "game": "https://www.chess.com/game/daily/113644012"
+        },
+        "record": {
+            "win": 107,
+            "loss": 85,
+            "draw": 8,
+            "time_per_move": 61588,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1193,
+            "date": 1450491466,
+            "rd": 130
+        },
+        "best": {
+            "rating": 1427,
+            "date": 1441121113,
+            "game": "https://www.chess.com/game/daily/117449926"
+        },
+        "record": {
+            "win": 5,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 61588,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2116,
+            "date": 1716515855,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2146,
+            "date": 1683567602,
+            "game": "https://www.chess.com/game/live/77301704077"
+        },
+        "record": {
+            "win": 161,
+            "loss": 124,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2556,
+            "date": 1740530927,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1705041000,
+            "game": "https://www.chess.com/game/live/83784106571"
+        },
+        "record": {
+            "win": 4147,
+            "loss": 4917,
+            "draw": 621
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1740944288,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2440,
+            "date": 1706652348,
+            "game": "https://www.chess.com/game/live/100390985795"
+        },
+        "record": {
+            "win": 1952,
+            "loss": 2052,
+            "draw": 305
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3274,
+            "date": 1654814099
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1459044160
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

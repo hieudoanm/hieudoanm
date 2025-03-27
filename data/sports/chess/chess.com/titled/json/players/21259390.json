@@ -1,0 +1,104 @@
+{
+    "player_id": 21259390,
+    "@id": "https://api.chess.com/pub/player/mazetovic",
+    "url": "https://www.chess.com/member/Mazetovic",
+    "name": "Sebastien Maze",
+    "username": "mazetovic",
+    "title": "GM",
+    "followers": 596,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Bordeaux",
+    "last_online": 1741531413,
+    "joined": 1424867132,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 473,
+            "date": 1682192317,
+            "rd": 288
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1424867132,
+            "game": "https://www.chess.com/game/daily/441361137"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 898800,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2071,
+            "date": 1724407941,
+            "rd": 200
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1622299587,
+            "game": "https://www.chess.com/game/live/5056990351"
+        },
+        "record": {
+            "win": 26,
+            "loss": 7,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2566,
+            "date": 1741456890,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1702134228,
+            "game": "https://www.chess.com/game/live/3686330024"
+        },
+        "record": {
+            "win": 152,
+            "loss": 139,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2628,
+            "date": 1739968633,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2854,
+            "date": 1608930518,
+            "game": "https://www.chess.com/game/live/8448283157"
+        },
+        "record": {
+            "win": 1602,
+            "loss": 1400,
+            "draw": 299
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2325,
+            "date": 1662899944
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1441119667
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "player_id": 27742454,
+    "@id": "https://api.chess.com/pub/player/qwe69",
+    "url": "https://www.chess.com/member/QWE69",
+    "username": "qwe69",
+    "title": "CM",
+    "followers": 116,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741703556,
+    "joined": 1460648151,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1869,
+            "date": 1720772921,
+            "rd": 41
+        },
+        "best": {
+            "rating": 1913,
+            "date": 1687528403,
+            "game": "https://www.chess.com/game/daily/490153077"
+        },
+        "record": {
+            "win": 72,
+            "loss": 45,
+            "draw": 8,
+            "time_per_move": 9799,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2431,
+            "date": 1650445880,
+            "rd": 280
+        },
+        "best": {
+            "rating": 2431,
+            "date": 1641225353,
+            "game": "https://www.chess.com/game/live/5448271088"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2200,
+            "date": 1717158822,
+            "rd": 44
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1470647994,
+            "game": "https://www.chess.com/game/live/54065353153"
+        },
+        "record": {
+            "win": 106,
+            "loss": 86,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2196,
+            "date": 1741682217,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2323,
+            "date": 1736059293,
+            "game": "https://www.chess.com/game/live/39089955009"
+        },
+        "record": {
+            "win": 956,
+            "loss": 892,
+            "draw": 99
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3504,
+            "date": 1686590007
+        },
+        "lowest": {
+            "rating": 1364,
+            "date": 1460734733
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

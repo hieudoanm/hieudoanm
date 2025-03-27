@@ -1,0 +1,88 @@
+{
+    "player_id": 12903140,
+    "@id": "https://api.chess.com/pub/player/rngtmn",
+    "url": "https://www.chess.com/member/Rngtmn",
+    "name": "Ron Gutman",
+    "username": "rngtmn",
+    "title": "NM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "San Diego",
+    "last_online": 1741626334,
+    "joined": 1374934702,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1892,
+            "date": 1688152046,
+            "rd": 162
+        },
+        "best": {
+            "rating": 1892,
+            "date": 1542758416,
+            "game": "https://www.chess.com/game/daily/207871746"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8377,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2366,
+            "date": 1669037473,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2476,
+            "date": 1603149088,
+            "game": "https://www.chess.com/game/live/5598278176"
+        },
+        "record": {
+            "win": 19378,
+            "loss": 15779,
+            "draw": 1013
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2387,
+            "date": 1741631345,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2474,
+            "date": 1568042806,
+            "game": "https://www.chess.com/game/live/3961504939"
+        },
+        "record": {
+            "win": 3933,
+            "loss": 3275,
+            "draw": 272
+        }
+    },
+    "fide": 2294,
+    "tactics": {
+        "highest": {
+            "rating": 3444,
+            "date": 1734667959
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1409872407
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

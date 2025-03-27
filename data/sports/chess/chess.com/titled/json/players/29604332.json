@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29604332.71d545a3.200x200o.c08a560ad3da.jpeg",
+    "player_id": 29604332,
+    "@id": "https://api.chess.com/pub/player/barbus89",
+    "url": "https://www.chess.com/member/Barbus89",
+    "name": "Mikhail V. Kuznetsov",
+    "username": "barbus89",
+    "title": "FM",
+    "followers": 65,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1741362838,
+    "joined": 1471968608,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1115,
+            "date": 1733398212,
+            "rd": 222
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1471968608,
+            "game": "https://www.chess.com/game/daily/244536676"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 94044,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2375,
+            "date": 1646833013,
+            "rd": 184
+        },
+        "best": {
+            "rating": 2375,
+            "date": 1646833013,
+            "game": "https://www.chess.com/game/live/40570805155"
+        },
+        "record": {
+            "win": 10,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2434,
+            "date": 1739789075,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2580,
+            "date": 1734246481,
+            "game": "https://www.chess.com/game/live/127894736425"
+        },
+        "record": {
+            "win": 1513,
+            "loss": 1576,
+            "draw": 135
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2568,
+            "date": 1740522376,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1736870783,
+            "game": "https://www.chess.com/game/live/131218156683"
+        },
+        "record": {
+            "win": 2621,
+            "loss": 2816,
+            "draw": 368
+        }
+    },
+    "fide": 2218,
+    "tactics": {
+        "highest": {
+            "rating": 3089,
+            "date": 1669753916
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1544455600
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

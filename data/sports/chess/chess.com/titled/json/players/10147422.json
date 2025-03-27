@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10147422.12e5b62e.200x200o.3987104788ea.jpg",
+    "player_id": 10147422,
+    "@id": "https://api.chess.com/pub/player/nllo777",
+    "url": "https://www.chess.com/member/NLLO777",
+    "name": "Lovro Novosel",
+    "username": "nllo777",
+    "title": "FM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/HR",
+    "last_online": 1741685887,
+    "joined": 1356382738,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1710768569,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2100,
+            "date": 1674772183,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1887,
+            "date": 1607271313,
+            "game": "https://www.chess.com/game/live/33930630445"
+        },
+        "record": {
+            "win": 160,
+            "loss": 132,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2488,
+            "date": 1734198395,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2549,
+            "date": 1732386720,
+            "game": "https://www.chess.com/game/live/126123010297"
+        },
+        "record": {
+            "win": 354,
+            "loss": 317,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2553,
+            "date": 1741688683,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2810,
+            "date": 1737895991,
+            "game": "https://www.chess.com/game/live/131472008795"
+        },
+        "record": {
+            "win": 9451,
+            "loss": 10119,
+            "draw": 1230
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3611,
+            "date": 1728304821
+        },
+        "lowest": {
+            "rating": 1205,
+            "date": 1529325573
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

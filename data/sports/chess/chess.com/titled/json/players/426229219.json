@@ -1,0 +1,82 @@
+{
+    "player_id": 426229219,
+    "@id": "https://api.chess.com/pub/player/realkevinqin",
+    "url": "https://www.chess.com/member/RealKevinQin",
+    "name": "Kevin Qin",
+    "username": "realkevinqin",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741667015,
+    "joined": 1738622099,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1741628304,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 148,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2552,
+            "date": 1741623060,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1739028892,
+            "game": "https://www.chess.com/game/live/133982953255"
+        },
+        "record": {
+            "win": 232,
+            "loss": 256,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2614,
+            "date": 1741668816,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2570,
+            "date": 1740975459,
+            "game": "https://www.chess.com/game/live/132872993739"
+        },
+        "record": {
+            "win": 267,
+            "loss": 304,
+            "draw": 56
+        }
+    },
+    "fide": 2017,
+    "tactics": {
+        "highest": {
+            "rating": 2072,
+            "date": 1739480853
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738622099
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

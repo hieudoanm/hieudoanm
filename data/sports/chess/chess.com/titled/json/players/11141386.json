@@ -1,0 +1,35 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11141386.43b6784b.200x200o.bfc2a8891f00.jpeg",
+    "player_id": 11141386,
+    "@id": "https://api.chess.com/pub/player/flycont",
+    "url": "https://www.chess.com/member/Flycont",
+    "name": "Oleksandr Sulypa",
+    "username": "flycont",
+    "title": "GM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Lviv",
+    "last_online": 1734167763,
+    "joined": 1363271871,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2500,
+    "tactics": {
+        "highest": {
+            "rating": 3056,
+            "date": 1707833611
+        },
+        "lowest": {
+            "rating": 1343,
+            "date": 1363288280
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 24
+        }
+    }
+}

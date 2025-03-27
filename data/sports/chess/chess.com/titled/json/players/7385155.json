@@ -1,0 +1,104 @@
+{
+    "player_id": 7385155,
+    "@id": "https://api.chess.com/pub/player/ondoko",
+    "url": "https://www.chess.com/member/ondoko",
+    "username": "ondoko",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/SK",
+    "location": "Prague, Czech Republic",
+    "last_online": 1709662675,
+    "joined": 1335215035,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1854,
+            "date": 1640251689,
+            "rd": 80
+        },
+        "best": {
+            "rating": 1855,
+            "date": 1598091003,
+            "game": "https://www.chess.com/game/daily/275108572"
+        },
+        "record": {
+            "win": 108,
+            "loss": 9,
+            "draw": 6,
+            "time_per_move": 2947,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1682,
+            "date": 1338375817,
+            "rd": 162
+        },
+        "best": {
+            "rating": 1701,
+            "date": 1337706355,
+            "game": "https://www.chess.com/game/live/300667556"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2172,
+            "date": 1687272895,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1520951256,
+            "game": "https://www.chess.com/game/live/2678717388"
+        },
+        "record": {
+            "win": 1509,
+            "loss": 1184,
+            "draw": 72
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2211,
+            "date": 1688205701,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2395,
+            "date": 1595357416,
+            "game": "https://www.chess.com/game/live/6242046843"
+        },
+        "record": {
+            "win": 7588,
+            "loss": 6586,
+            "draw": 590
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3056,
+            "date": 1660387232
+        },
+        "lowest": {
+            "rating": 1189,
+            "date": 1507477853
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

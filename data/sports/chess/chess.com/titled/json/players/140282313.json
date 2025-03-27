@@ -1,0 +1,92 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/140282313.21e723db.200x200o.5814d926addb.jpeg",
+    "player_id": 140282313,
+    "@id": "https://api.chess.com/pub/player/julbenn",
+    "url": "https://www.chess.com/member/JulbeNn",
+    "name": "Julio Benedetti",
+    "username": "julbenn",
+    "title": "IM",
+    "followers": 320,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Barcelona",
+    "last_online": 1741691587,
+    "joined": 1621007054,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/mijuliobenedetti",
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/mijuliobenedetti"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 1971,
+            "date": 1728557499,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2474,
+            "date": 1692896138,
+            "game": "https://www.chess.com/game/live/122295568677"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2504,
+            "date": 1731090928,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1728549996,
+            "game": "https://www.chess.com/game/live/122288951357"
+        },
+        "record": {
+            "win": 40,
+            "loss": 27,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2572,
+            "date": 1736329643,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2656,
+            "date": 1683134223,
+            "game": "https://www.chess.com/game/live/85850506523"
+        },
+        "record": {
+            "win": 123,
+            "loss": 71,
+            "draw": 15
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3424,
+            "date": 1725351455
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1659632125
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "player_id": 32639130,
+    "@id": "https://api.chess.com/pub/player/jacobsfrog",
+    "url": "https://www.chess.com/member/jacobsfrog",
+    "username": "jacobsfrog",
+    "title": "NM",
+    "followers": 94,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741639441,
+    "joined": 1485279213,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1525,
+            "date": 1739525340,
+            "rd": 115
+        },
+        "best": {
+            "rating": 1850,
+            "date": 1673845523,
+            "game": "https://www.chess.com/game/daily/584304429"
+        },
+        "record": {
+            "win": 5,
+            "loss": 14,
+            "draw": 3,
+            "time_per_move": 41607,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2157,
+            "date": 1652396095,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2160,
+            "date": 1617416306,
+            "game": "https://www.chess.com/game/live/11154273267"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2518,
+            "date": 1741624385,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2658,
+            "date": 1725155527,
+            "game": "https://www.chess.com/game/live/128029768415"
+        },
+        "record": {
+            "win": 1032,
+            "loss": 782,
+            "draw": 111
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2477,
+            "date": 1741568527,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1727658148,
+            "game": "https://www.chess.com/game/live/134596743861"
+        },
+        "record": {
+            "win": 7877,
+            "loss": 5977,
+            "draw": 1089
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3564,
+            "date": 1716399038
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1530208523
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

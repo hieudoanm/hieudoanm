@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46049248.2fbe4677.200x200o.d597146dee88.jpeg",
+    "player_id": 46049248,
+    "@id": "https://api.chess.com/pub/player/unchartedchessplayer",
+    "url": "https://www.chess.com/member/UnchartedChessPlayer",
+    "name": "Balazs Bakos",
+    "username": "unchartedchessplayer",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1736517683,
+    "joined": 1525930739,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2325,
+            "date": 1598110204,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2437,
+            "date": 1529863561,
+            "game": "https://www.chess.com/game/live/3590684606"
+        },
+        "record": {
+            "win": 17,
+            "loss": 24,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2189,
+            "date": 1736447530,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2389,
+            "date": 1528230350,
+            "game": "https://www.chess.com/game/live/3756227553"
+        },
+        "record": {
+            "win": 160,
+            "loss": 140,
+            "draw": 35
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2524,
+            "date": 1557646119
+        },
+        "lowest": {
+            "rating": 2178,
+            "date": 1540492892
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

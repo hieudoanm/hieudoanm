@@ -1,0 +1,85 @@
+{
+    "player_id": 150725933,
+    "@id": "https://api.chess.com/pub/player/unmerciful_life",
+    "url": "https://www.chess.com/member/Unmerciful_life",
+    "name": "Taha Ozkan",
+    "username": "unmerciful_life",
+    "title": "FM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741063277,
+    "joined": 1628628251,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2514,
+            "date": 1726043990,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2546,
+            "date": 1641030484,
+            "game": "https://www.chess.com/game/live/34685980211"
+        },
+        "record": {
+            "win": 17,
+            "loss": 1,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2519,
+            "date": 1740467997,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1644424414,
+            "game": "https://www.chess.com/game/live/37453911009"
+        },
+        "record": {
+            "win": 300,
+            "loss": 365,
+            "draw": 64
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2558,
+            "date": 1740572837,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1640206023,
+            "game": "https://www.chess.com/game/live/86483320033"
+        },
+        "record": {
+            "win": 180,
+            "loss": 214,
+            "draw": 41
+        }
+    },
+    "fide": 2247,
+    "tactics": {
+        "highest": {
+            "rating": 3587,
+            "date": 1734087337
+        },
+        "lowest": {
+            "rating": 1187,
+            "date": 1633548792
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

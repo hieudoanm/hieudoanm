@@ -1,0 +1,26 @@
+{
+    "player_id": 400398531,
+    "@id": "https://api.chess.com/pub/player/brrrmuda",
+    "url": "https://www.chess.com/member/Brrrmuda",
+    "username": "brrrmuda",
+    "title": "GM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/BM",
+    "last_online": 1730739214,
+    "joined": 1730731682,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1730731682
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1730731682
+        }
+    },
+    "puzzle_rush": {}
+}

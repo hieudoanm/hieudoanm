@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51572888.985a3b43.200x200o.34b25e8fedf7.jpeg",
+    "player_id": 51572888,
+    "@id": "https://api.chess.com/pub/player/vesalhamedinia",
+    "url": "https://www.chess.com/member/vesalhamedinia",
+    "name": "vesal hamedi nia",
+    "username": "vesalhamedinia",
+    "title": "WIM",
+    "followers": 105,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741679552,
+    "joined": 1541609733,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2019,
+            "date": 1734642441,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2354,
+            "date": 1608011065,
+            "game": "https://www.chess.com/game/live/5852357815"
+        },
+        "record": {
+            "win": 20,
+            "loss": 4,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2631,
+            "date": 1741469319,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2639,
+            "date": 1739784653,
+            "game": "https://www.chess.com/game/live/129387743811"
+        },
+        "record": {
+            "win": 1467,
+            "loss": 1416,
+            "draw": 172
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2490,
+            "date": 1733698421,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2517,
+            "date": 1658246096,
+            "game": "https://www.chess.com/game/live/100369407483"
+        },
+        "record": {
+            "win": 268,
+            "loss": 259,
+            "draw": 31
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3470,
+            "date": 1733770155
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1542646291
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 52592588,
+    "@id": "https://api.chess.com/pub/player/tacticthunder",
+    "url": "https://www.chess.com/member/tacticthunder",
+    "name": "Dimitris Alexakis",
+    "username": "tacticthunder",
+    "title": "IM",
+    "followers": 118,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741459052,
+    "joined": 1543610573,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2565,
+            "date": 1739730496,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2621,
+            "date": 1705853991,
+            "game": "https://www.chess.com/game/live/4929022427"
+        },
+        "record": {
+            "win": 272,
+            "loss": 75,
+            "draw": 26
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2900,
+            "date": 1739643042,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2912,
+            "date": 1737223996,
+            "game": "https://www.chess.com/game/live/76528385797"
+        },
+        "record": {
+            "win": 867,
+            "loss": 745,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2971,
+            "date": 1740254860,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2971,
+            "date": 1740254860,
+            "game": "https://www.chess.com/game/live/133053569261"
+        },
+        "record": {
+            "win": 493,
+            "loss": 286,
+            "draw": 59
+        }
+    },
+    "fide": 2450,
+    "tactics": {
+        "highest": {
+            "rating": 3645,
+            "date": 1708957737
+        },
+        "lowest": {
+            "rating": 1219,
+            "date": 1547751626
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 64
+        }
+    }
+}

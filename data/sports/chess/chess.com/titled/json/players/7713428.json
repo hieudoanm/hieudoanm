@@ -1,0 +1,115 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7713428.0ae30746.200x200o.065d9b32812e.jpeg",
+    "player_id": 7713428,
+    "@id": "https://api.chess.com/pub/player/gertsog",
+    "url": "https://www.chess.com/member/Gertsog",
+    "name": "Viktor Neustroev",
+    "username": "gertsog",
+    "title": "FM",
+    "followers": 6096,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Buenos Aires",
+    "last_online": 1741532272,
+    "joined": 1338220011,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1990,
+            "date": 1741695158,
+            "rd": 159
+        },
+        "best": {
+            "rating": 2068,
+            "date": 1689900732,
+            "game": "https://www.chess.com/game/daily/432925899"
+        },
+        "record": {
+            "win": 122,
+            "loss": 9,
+            "draw": 4,
+            "time_per_move": 6750,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1514487007,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 6750,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1803,
+            "date": 1731866909,
+            "rd": 221
+        },
+        "best": {
+            "rating": 2257,
+            "date": 1567047944,
+            "game": "https://www.chess.com/game/live/5633770267"
+        },
+        "record": {
+            "win": 34,
+            "loss": 3,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2220,
+            "date": 1721572591,
+            "rd": 349
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2323,
+            "date": 1741111727,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1733847944,
+            "game": "https://www.chess.com/game/live/124586965657"
+        },
+        "record": {
+            "win": 557,
+            "loss": 482,
+            "draw": 51
+        }
+    },
+    "fide": 2305,
+    "tactics": {
+        "highest": {
+            "rating": 3070,
+            "date": 1738516958
+        },
+        "lowest": {
+            "rating": 1372,
+            "date": 1382202789
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

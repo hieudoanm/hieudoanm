@@ -1,0 +1,85 @@
+{
+    "player_id": 188187673,
+    "@id": "https://api.chess.com/pub/player/niklasschmider",
+    "url": "https://www.chess.com/member/NiklasSchmider",
+    "name": "Niklas Schmider",
+    "username": "niklasschmider",
+    "title": "IM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741700884,
+    "joined": 1656312222,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2252,
+            "date": 1728218237,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2252,
+            "date": 1728218237,
+            "game": "https://www.chess.com/game/live/121956520357"
+        },
+        "record": {
+            "win": 9,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2534,
+            "date": 1730565208,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2626,
+            "date": 1709840660,
+            "game": "https://www.chess.com/game/live/107360018895"
+        },
+        "record": {
+            "win": 172,
+            "loss": 101,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2630,
+            "date": 1741363597,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2651,
+            "date": 1732644741,
+            "game": "https://www.chess.com/game/live/122160607087"
+        },
+        "record": {
+            "win": 126,
+            "loss": 97,
+            "draw": 6
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3674,
+            "date": 1727698494
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1665768285
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 59
+        }
+    }
+}

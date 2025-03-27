@@ -1,0 +1,62 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/289722065.cd12e7c1.200x200o.5e8dcd8a8b93.jpg",
+    "player_id": 289722065,
+    "@id": "https://api.chess.com/pub/player/thekingwolf_1",
+    "url": "https://www.chess.com/member/TheKingWolf_1",
+    "username": "thekingwolf_1",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741396769,
+    "joined": 1685418642,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2417,
+            "date": 1737338851,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2452,
+            "date": 1736406130,
+            "game": "https://www.chess.com/game/live/130143569851"
+        },
+        "record": {
+            "win": 15,
+            "loss": 6,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2345,
+            "date": 1741063323,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2336,
+            "date": 1739330827,
+            "game": "https://www.chess.com/game/live/131429406061"
+        },
+        "record": {
+            "win": 62,
+            "loss": 27,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3207,
+            "date": 1737758281
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1685418642
+        }
+    },
+    "puzzle_rush": {}
+}

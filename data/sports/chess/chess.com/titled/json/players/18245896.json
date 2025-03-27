@@ -1,0 +1,103 @@
+{
+    "player_id": 18245896,
+    "@id": "https://api.chess.com/pub/player/mati2211",
+    "url": "https://www.chess.com/member/mati2211",
+    "name": "Mateusz Gorkiewicz",
+    "username": "mati2211",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741674325,
+    "joined": 1406471419,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1882,
+            "date": 1710550676,
+            "rd": 114
+        },
+        "best": {
+            "rating": 1883,
+            "date": 1590138659,
+            "game": "https://www.chess.com/game/daily/258076954"
+        },
+        "record": {
+            "win": 65,
+            "loss": 63,
+            "draw": 6,
+            "time_per_move": 51007,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2299,
+            "date": 1692055224,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2323,
+            "date": 1692054607,
+            "game": "https://www.chess.com/game/live/85793364349"
+        },
+        "record": {
+            "win": 22,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2605,
+            "date": 1740490932,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1729892016,
+            "game": "https://www.chess.com/game/live/57165524823"
+        },
+        "record": {
+            "win": 1402,
+            "loss": 1372,
+            "draw": 194
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2605,
+            "date": 1741175776,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2580,
+            "date": 1738938208,
+            "game": "https://www.chess.com/game/live/59992835857"
+        },
+        "record": {
+            "win": 1898,
+            "loss": 1803,
+            "draw": 304
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3596,
+            "date": 1678088326
+        },
+        "lowest": {
+            "rating": 1222,
+            "date": 1406544879
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

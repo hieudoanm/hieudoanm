@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/194818501.46d02974.200x200o.42bfb08d6cfd.jpg",
+    "player_id": 194818501,
+    "@id": "https://api.chess.com/pub/player/aqib-20",
+    "url": "https://www.chess.com/member/Aqib-20",
+    "name": "Aqib Javaid Butt",
+    "username": "aqib-20",
+    "title": "NM",
+    "followers": 469,
+    "country": "https://api.chess.com/pub/country/PK",
+    "location": "Lahore",
+    "last_online": 1741669174,
+    "joined": 1661530417,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1613,
+            "date": 1741329429,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1960,
+            "date": 1671459302,
+            "game": "https://www.chess.com/game/daily/448006829"
+        },
+        "record": {
+            "win": 22,
+            "loss": 13,
+            "draw": 1,
+            "time_per_move": 64201,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2151,
+            "date": 1741449329,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2358,
+            "date": 1729810904,
+            "game": "https://www.chess.com/game/live/125277557483"
+        },
+        "record": {
+            "win": 346,
+            "loss": 409,
+            "draw": 78
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2290,
+            "date": 1741528100,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2389,
+            "date": 1739342615,
+            "game": "https://www.chess.com/game/live/90440928425"
+        },
+        "record": {
+            "win": 3236,
+            "loss": 3808,
+            "draw": 299
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2089,
+            "date": 1741436185,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2360,
+            "date": 1702764930,
+            "game": "https://www.chess.com/game/live/129404027963"
+        },
+        "record": {
+            "win": 1099,
+            "loss": 1356,
+            "draw": 176
+        }
+    },
+    "fide": 1855,
+    "tactics": {
+        "highest": {
+            "rating": 3236,
+            "date": 1673798087
+        },
+        "lowest": {
+            "rating": 2189,
+            "date": 1661945433
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

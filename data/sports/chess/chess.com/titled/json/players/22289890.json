@@ -1,0 +1,104 @@
+{
+    "player_id": 22289890,
+    "@id": "https://api.chess.com/pub/player/minisim",
+    "url": "https://www.chess.com/member/minisim",
+    "name": "Sim Maerevoet",
+    "username": "minisim",
+    "title": "IM",
+    "followers": 77,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1741354761,
+    "joined": 1431018191,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 942,
+            "date": 1726059229,
+            "rd": 348
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1431018191,
+            "game": "https://www.chess.com/game/daily/622631279"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 72397,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2432,
+            "date": 1726059230,
+            "rd": 244
+        },
+        "best": {
+            "rating": 1846,
+            "date": 1596566159,
+            "game": "https://www.chess.com/game/live/2174232774"
+        },
+        "record": {
+            "win": 12,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2668,
+            "date": 1738904980,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2730,
+            "date": 1718313772,
+            "game": "https://www.chess.com/game/live/112050793989"
+        },
+        "record": {
+            "win": 480,
+            "loss": 289,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2711,
+            "date": 1739463978,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2860,
+            "date": 1736979124,
+            "game": "https://www.chess.com/game/live/127007976169"
+        },
+        "record": {
+            "win": 1799,
+            "loss": 1219,
+            "draw": 286
+        }
+    },
+    "fide": 2432,
+    "tactics": {
+        "highest": {
+            "rating": 2998,
+            "date": 1732017047
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1431160097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

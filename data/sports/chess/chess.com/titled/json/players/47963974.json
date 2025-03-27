@@ -1,0 +1,99 @@
+{
+    "player_id": 47963974,
+    "@id": "https://api.chess.com/pub/player/chessminator100",
+    "url": "https://www.chess.com/member/Chessminator100",
+    "name": "Rutuja Bakshi",
+    "username": "chessminator100",
+    "title": "WFM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741531392,
+    "joined": 1531888293,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1727190971,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 12,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2059,
+            "date": 1693535676,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1693535676,
+            "game": "https://www.chess.com/game/live/4914305028"
+        },
+        "record": {
+            "win": 15,
+            "loss": 3,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2274,
+            "date": 1730616976,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1599934276,
+            "game": "https://www.chess.com/game/live/59559585395"
+        },
+        "record": {
+            "win": 589,
+            "loss": 511,
+            "draw": 52
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2500,
+            "date": 1739291684,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1704642866,
+            "game": "https://www.chess.com/game/live/105650408847"
+        },
+        "record": {
+            "win": 742,
+            "loss": 705,
+            "draw": 136
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1743,
+            "date": 1672115171
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1533734044
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

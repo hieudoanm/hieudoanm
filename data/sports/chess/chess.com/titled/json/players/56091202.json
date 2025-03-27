@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56091202.d4efb1ef.200x200o.591c3dc059c5.jpg",
+    "player_id": 56091202,
+    "@id": "https://api.chess.com/pub/player/messiboca",
+    "url": "https://www.chess.com/member/messiboca",
+    "name": "Diego Flores",
+    "username": "messiboca",
+    "title": "GM",
+    "followers": 240,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741631622,
+    "joined": 1547648391,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2501,
+            "date": 1715194030,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1690217119,
+            "game": "https://www.chess.com/game/live/80335368347"
+        },
+        "record": {
+            "win": 33,
+            "loss": 34,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2774,
+            "date": 1723551987,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2825,
+            "date": 1626660421,
+            "game": "https://www.chess.com/game/live/39550847235"
+        },
+        "record": {
+            "win": 198,
+            "loss": 149,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2777,
+            "date": 1734480553,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2831,
+            "date": 1681389181,
+            "game": "https://www.chess.com/game/live/85852307387"
+        },
+        "record": {
+            "win": 148,
+            "loss": 84,
+            "draw": 30
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2648,
+            "date": 1602776996
+        },
+        "lowest": {
+            "rating": 419,
+            "date": 1547698487
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

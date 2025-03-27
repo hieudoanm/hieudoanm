@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51230172.6b393cf6.200x200o.3e96a38e7463.jpeg",
+    "player_id": 51230172,
+    "@id": "https://api.chess.com/pub/player/hasagoodchesser",
+    "url": "https://www.chess.com/member/hasagoodchesser",
+    "name": "Yank\u0131 TA\u015ePINAR",
+    "username": "hasagoodchesser",
+    "title": "FM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "\u0130ZM\u0130R",
+    "last_online": 1740084546,
+    "joined": 1540736093,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2235,
+            "date": 1686817374,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2235,
+            "date": 1607180353,
+            "game": "https://www.chess.com/game/live/5824572973"
+        },
+        "record": {
+            "win": 17,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2721,
+            "date": 1723050549,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2728,
+            "date": 1723050130,
+            "game": "https://www.chess.com/game/live/48864536519"
+        },
+        "record": {
+            "win": 91,
+            "loss": 49,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2727,
+            "date": 1736871160,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2743,
+            "date": 1706634479,
+            "game": "https://www.chess.com/game/live/68942161187"
+        },
+        "record": {
+            "win": 672,
+            "loss": 535,
+            "draw": 89
+        }
+    },
+    "fide": 2317,
+    "tactics": {
+        "highest": {
+            "rating": 3508,
+            "date": 1552735403
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1540739596
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

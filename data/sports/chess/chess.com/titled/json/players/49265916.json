@@ -1,0 +1,104 @@
+{
+    "player_id": 49265916,
+    "@id": "https://api.chess.com/pub/player/giantgoogachess",
+    "url": "https://www.chess.com/member/Giantgoogachess",
+    "name": "Gary Leschinsky",
+    "username": "giantgoogachess",
+    "title": "NM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741545557,
+    "joined": 1535640558,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1733,
+            "date": 1707557325,
+            "rd": 142
+        },
+        "best": {
+            "rating": 1847,
+            "date": 1539472743,
+            "game": "https://www.chess.com/game/daily/284053096"
+        },
+        "record": {
+            "win": 43,
+            "loss": 35,
+            "draw": 7,
+            "time_per_move": 17905,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2215,
+            "date": 1734982643,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2259,
+            "date": 1675544579,
+            "game": "https://www.chess.com/game/live/69281885017"
+        },
+        "record": {
+            "win": 42,
+            "loss": 24,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2574,
+            "date": 1735951830,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2611,
+            "date": 1734448862,
+            "game": "https://www.chess.com/game/live/127332036315"
+        },
+        "record": {
+            "win": 575,
+            "loss": 436,
+            "draw": 79
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2374,
+            "date": 1741486894,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1719329982,
+            "game": "https://www.chess.com/game/live/71364425447"
+        },
+        "record": {
+            "win": 1395,
+            "loss": 1110,
+            "draw": 196
+        }
+    },
+    "fide": 2165,
+    "tactics": {
+        "highest": {
+            "rating": 3056,
+            "date": 1661883774
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1535737532
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

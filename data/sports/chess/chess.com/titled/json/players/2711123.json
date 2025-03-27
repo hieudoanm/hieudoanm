@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2711123.a91cc877.200x200o.9b1819a9c22e.png",
+    "player_id": 2711123,
+    "@id": "https://api.chess.com/pub/player/powerchessutah",
+    "url": "https://www.chess.com/member/PowerChessUtah",
+    "name": "Powell Walker",
+    "username": "powerchessutah",
+    "title": "CM",
+    "followers": 217,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Salt Lake City Utah",
+    "last_online": 1741700717,
+    "joined": 1271119314,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1370,
+            "date": 1741620991,
+            "rd": 99
+        },
+        "best": {
+            "rating": 1565,
+            "date": 1408900590,
+            "game": "https://www.chess.com/game/daily/60164668"
+        },
+        "record": {
+            "win": 308,
+            "loss": 405,
+            "draw": 58,
+            "time_per_move": 23266,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1058,
+            "date": 1427052725,
+            "rd": 168
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1271119314,
+            "game": "https://www.chess.com/game/daily/57807172"
+        },
+        "record": {
+            "win": 4,
+            "loss": 11,
+            "draw": 0,
+            "time_per_move": 23266,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1902,
+            "date": 1741220018,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1971,
+            "date": 1706389713,
+            "game": "https://www.chess.com/game/live/100128144825"
+        },
+        "record": {
+            "win": 640,
+            "loss": 633,
+            "draw": 109
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1741541135,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2159,
+            "date": 1541979101,
+            "game": "https://www.chess.com/game/live/3167277412"
+        },
+        "record": {
+            "win": 1010,
+            "loss": 1026,
+            "draw": 86
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2129,
+            "date": 1741220797,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2325,
+            "date": 1555791223,
+            "game": "https://www.chess.com/game/live/3283770396"
+        },
+        "record": {
+            "win": 6930,
+            "loss": 7333,
+            "draw": 1112
+        }
+    },
+    "fide": 2131,
+    "tactics": {
+        "highest": {
+            "rating": 3291,
+            "date": 1735104993
+        },
+        "lowest": {
+            "rating": 1244,
+            "date": 1491181271
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

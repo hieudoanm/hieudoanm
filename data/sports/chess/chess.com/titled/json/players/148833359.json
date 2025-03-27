@@ -1,0 +1,81 @@
+{
+    "player_id": 148833359,
+    "@id": "https://api.chess.com/pub/player/schmelzberg",
+    "url": "https://www.chess.com/member/Schmelzberg",
+    "username": "schmelzberg",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1719060194,
+    "joined": 1627067283,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1464,
+            "date": 1722804187,
+            "rd": 249
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 3367,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2565,
+            "date": 1718636057,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1718629441,
+            "game": "https://www.chess.com/game/live/111691397245"
+        },
+        "record": {
+            "win": 505,
+            "loss": 323,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2102,
+            "date": 1717528949,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2112,
+            "date": 1716999569,
+            "game": "https://www.chess.com/game/live/110737942091"
+        },
+        "record": {
+            "win": 123,
+            "loss": 67,
+            "draw": 16
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2084,
+            "date": 1721230876
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1627067283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 29,
+            "score": 26
+        }
+    }
+}

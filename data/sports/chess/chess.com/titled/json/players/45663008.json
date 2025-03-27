@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45663008.194df33e.200x200o.7ab3872bfba4.jpg",
+    "player_id": 45663008,
+    "@id": "https://api.chess.com/pub/player/chessiteration",
+    "url": "https://www.chess.com/member/Chessiteration",
+    "name": "Jerzy Jes\u00fas Perez Leiva",
+    "username": "chessiteration",
+    "title": "IM",
+    "followers": 257,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1741666549,
+    "joined": 1524767441,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2209,
+            "date": 1709483126,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1699503134,
+            "game": "https://www.chess.com/game/live/103174851053"
+        },
+        "record": {
+            "win": 51,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1740359264,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2725,
+            "date": 1645472584,
+            "game": "https://www.chess.com/game/live/94680588331"
+        },
+        "record": {
+            "win": 96,
+            "loss": 108,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2561,
+            "date": 1740085412,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1693172529,
+            "game": "https://www.chess.com/game/live/131818853997"
+        },
+        "record": {
+            "win": 1918,
+            "loss": 2137,
+            "draw": 209
+        }
+    },
+    "fide": 2394,
+    "tactics": {
+        "highest": {
+            "rating": 3667,
+            "date": 1699758101
+        },
+        "lowest": {
+            "rating": 989,
+            "date": 1559172556
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

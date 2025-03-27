@@ -1,0 +1,105 @@
+{
+    "player_id": 13243014,
+    "@id": "https://api.chess.com/pub/player/richomi",
+    "url": "https://www.chess.com/member/richomi",
+    "name": "Richard Gerbery",
+    "username": "richomi",
+    "title": "FM",
+    "followers": 258,
+    "country": "https://api.chess.com/pub/country/SK",
+    "location": "FM",
+    "last_online": 1740507569,
+    "joined": 1377197711,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1783,
+            "date": 1738171645,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1783,
+            "date": 1738171645,
+            "game": "https://www.chess.com/game/daily/759976477"
+        },
+        "record": {
+            "win": 17,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 3254,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2519,
+            "date": 1734280966,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1695408207,
+            "game": "https://www.chess.com/game/live/89145537161"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2245,
+            "date": 1741545205,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2295,
+            "date": 1734036634,
+            "game": "https://www.chess.com/game/live/132688139237"
+        },
+        "record": {
+            "win": 2223,
+            "loss": 2631,
+            "draw": 449
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2352,
+            "date": 1741517094,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1736444506,
+            "game": "https://www.chess.com/game/live/101245896209"
+        },
+        "record": {
+            "win": 9385,
+            "loss": 10663,
+            "draw": 1996
+        }
+    },
+    "fide": 2124,
+    "tactics": {
+        "highest": {
+            "rating": 3263,
+            "date": 1739052374
+        },
+        "lowest": {
+            "rating": 1288,
+            "date": 1377198038
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

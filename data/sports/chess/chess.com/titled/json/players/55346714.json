@@ -1,0 +1,95 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55346714.dce5cb8f.200x200o.ab531a317cb6.jpeg",
+    "player_id": 55346714,
+    "@id": "https://api.chess.com/pub/player/tugrik1969",
+    "url": "https://www.chess.com/member/Tugrik1969",
+    "name": "Eduard Kanter",
+    "username": "tugrik1969",
+    "title": "IM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1740161731,
+    "joined": 1546259573,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1708466608,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 12,
+            "draw": 0,
+            "time_per_move": 23902,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2203,
+            "date": 1684254138,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1684254138,
+            "game": "https://www.chess.com/game/live/77991210069"
+        },
+        "record": {
+            "win": 11,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2148,
+            "date": 1603105578,
+            "rd": 248
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2415,
+            "date": 1740525295,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2639,
+            "date": 1727218796,
+            "game": "https://www.chess.com/game/live/105835235213"
+        },
+        "record": {
+            "win": 2894,
+            "loss": 2452,
+            "draw": 680
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3696,
+            "date": 1713523363
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1546268164
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

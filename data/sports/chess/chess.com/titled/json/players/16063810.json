@@ -1,0 +1,143 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16063810.e8621c06.200x200o.9592c56ffec9.jpg",
+    "player_id": 16063810,
+    "@id": "https://api.chess.com/pub/player/jackrodgers",
+    "url": "https://www.chess.com/member/JackRodgers",
+    "name": "Jack Rodgers",
+    "username": "jackrodgers",
+    "title": "FM",
+    "followers": 3631,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Australia",
+    "last_online": 1741691592,
+    "joined": 1392454860,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/jackrodgerschess",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/jackrodgerschess"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1979,
+            "date": 1741692001,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2163,
+            "date": 1632393017,
+            "game": "https://www.chess.com/game/daily/357097451"
+        },
+        "record": {
+            "win": 331,
+            "loss": 87,
+            "draw": 69,
+            "time_per_move": 13767,
+            "timeout_percent": 15
+        },
+        "tournament": {
+            "points": 68,
+            "withdraw": 2,
+            "count": 2,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1645,
+            "date": 1645753397,
+            "rd": 152
+        },
+        "best": {
+            "rating": 1699,
+            "date": 1632615420,
+            "game": "https://www.chess.com/game/daily/357616989"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 2,
+            "time_per_move": 13767,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 68,
+            "withdraw": 2,
+            "count": 2,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2456,
+            "date": 1741501964,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2584,
+            "date": 1734742808,
+            "game": "https://www.chess.com/game/live/128479376283"
+        },
+        "record": {
+            "win": 705,
+            "loss": 700,
+            "draw": 243
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2725,
+            "date": 1741680366,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2833,
+            "date": 1740272842,
+            "game": "https://www.chess.com/game/live/106884618085"
+        },
+        "record": {
+            "win": 25343,
+            "loss": 27633,
+            "draw": 4962
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2599,
+            "date": 1741691943,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1732078430,
+            "game": "https://www.chess.com/game/live/126397801449"
+        },
+        "record": {
+            "win": 16109,
+            "loss": 16505,
+            "draw": 3409
+        }
+    },
+    "fide": 2170,
+    "tactics": {
+        "highest": {
+            "rating": 3236,
+            "date": 1709722675
+        },
+        "lowest": {
+            "rating": 1233,
+            "date": 1397807384
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

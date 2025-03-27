@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42844600.ca9bcc8d.200x200o.affb20203d44.png",
+    "player_id": 42844600,
+    "@id": "https://api.chess.com/pub/player/bluejay1897",
+    "url": "https://www.chess.com/member/bluejay1897",
+    "name": "Alexei Tapia Ostolaza",
+    "username": "bluejay1897",
+    "title": "FM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/PA",
+    "last_online": 1741446417,
+    "joined": 1517339560,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2138,
+            "date": 1733949817,
+            "rd": 156
+        },
+        "best": {
+            "rating": 2320,
+            "date": 1663255005,
+            "game": "https://www.chess.com/game/daily/406322581"
+        },
+        "record": {
+            "win": 62,
+            "loss": 10,
+            "draw": 8,
+            "time_per_move": 28070,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2198,
+            "date": 1630262397,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2198,
+            "date": 1630262397,
+            "game": "https://www.chess.com/game/live/23909204745"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2429,
+            "date": 1740852669,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1740850843,
+            "game": "https://www.chess.com/game/live/134588940987"
+        },
+        "record": {
+            "win": 329,
+            "loss": 244,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2422,
+            "date": 1739297623,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2478,
+            "date": 1604866833,
+            "game": "https://www.chess.com/game/live/4376144977"
+        },
+        "record": {
+            "win": 588,
+            "loss": 441,
+            "draw": 78
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3459,
+            "date": 1683914854
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1518036025
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

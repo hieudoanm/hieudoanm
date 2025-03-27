@@ -1,0 +1,109 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28257540.78505636.200x200o.19b8284dfcb3.jpg",
+    "player_id": 28257540,
+    "@id": "https://api.chess.com/pub/player/ismayilseferov",
+    "url": "https://www.chess.com/member/ismayilseferov",
+    "name": "Seferov Ismayil",
+    "username": "ismayilseferov",
+    "title": "FM",
+    "followers": 1094,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "location": "Bak\u0131",
+    "last_online": 1741690705,
+    "joined": 1463659723,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1410,
+            "date": 1740562125,
+            "rd": 80
+        },
+        "best": {
+            "rating": 1572,
+            "date": 1625325753,
+            "game": "https://www.chess.com/game/daily/342834431"
+        },
+        "record": {
+            "win": 32,
+            "loss": 15,
+            "draw": 5,
+            "time_per_move": 18605,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2299,
+            "date": 1733318066,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2307,
+            "date": 1701980183,
+            "game": "https://www.chess.com/game/live/90704938785"
+        },
+        "record": {
+            "win": 476,
+            "loss": 277,
+            "draw": 58
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2215,
+            "date": 1717933626,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2246,
+            "date": 1717515529,
+            "game": "https://www.chess.com/game/live/45326999041"
+        },
+        "record": {
+            "win": 1504,
+            "loss": 1502,
+            "draw": 106
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2800,
+            "date": 1739820960,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2935,
+            "date": 1730053924,
+            "game": "https://www.chess.com/game/live/122667260859"
+        },
+        "record": {
+            "win": 2748,
+            "loss": 2540,
+            "draw": 334
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3220,
+            "date": 1717512926
+        },
+        "lowest": {
+            "rating": 1029,
+            "date": 1469884831
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        },
+        "daily": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

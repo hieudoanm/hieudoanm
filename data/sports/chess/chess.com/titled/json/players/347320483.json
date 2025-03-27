@@ -1,0 +1,98 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/347320483.5b458b8e.200x200o.3a75bb8d18dc.jpg",
+    "player_id": 347320483,
+    "@id": "https://api.chess.com/pub/player/the-magician-of-usa",
+    "url": "https://www.chess.com/member/The-Magician-Of-USA",
+    "username": "the-magician-of-usa",
+    "title": "WCM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741659344,
+    "joined": 1708823125,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1281,
+            "date": 1731647134,
+            "rd": 164
+        },
+        "best": {
+            "rating": 1281,
+            "date": 1731647086,
+            "game": "https://www.chess.com/game/daily/713181763"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 24587,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1851,
+            "date": 1741665135,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1721264312,
+            "game": "https://www.chess.com/game/live/114719972257"
+        },
+        "record": {
+            "win": 790,
+            "loss": 535,
+            "draw": 86
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1930,
+            "date": 1735461131,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1713437160,
+            "game": "https://www.chess.com/game/live/109177850857"
+        },
+        "record": {
+            "win": 243,
+            "loss": 188,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1992,
+            "date": 1739603821,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2080,
+            "date": 1715762168,
+            "game": "https://www.chess.com/game/live/105270633997"
+        },
+        "record": {
+            "win": 291,
+            "loss": 174,
+            "draw": 31
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2629,
+            "date": 1732971435
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1708823125
+        }
+    },
+    "puzzle_rush": {}
+}

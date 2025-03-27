@@ -1,0 +1,129 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2172271.de2a6718.200x200o.66e8a5522563.jpeg",
+    "player_id": 2172271,
+    "@id": "https://api.chess.com/pub/player/wanderingpuppet",
+    "url": "https://www.chess.com/member/WanderingPuppet",
+    "name": "Matthew O'Brien",
+    "username": "wanderingpuppet",
+    "title": "NM",
+    "followers": 1277,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Allentown",
+    "last_online": 1741685253,
+    "joined": 1253320971,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2064,
+            "date": 1741694970,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2628,
+            "date": 1611215687,
+            "game": "https://www.chess.com/game/daily/62589616"
+        },
+        "record": {
+            "win": 1764,
+            "loss": 540,
+            "draw": 236,
+            "time_per_move": 17602,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1794,
+            "date": 1582187972,
+            "rd": 108
+        },
+        "best": {
+            "rating": 1900,
+            "date": 1281457373,
+            "game": "https://www.chess.com/game/daily/46593912"
+        },
+        "record": {
+            "win": 114,
+            "loss": 50,
+            "draw": 5,
+            "time_per_move": 17602,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2408,
+            "date": 1740205381,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2489,
+            "date": 1606688373,
+            "game": "https://www.chess.com/game/live/952348771"
+        },
+        "record": {
+            "win": 704,
+            "loss": 368,
+            "draw": 108
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2610,
+            "date": 1740850294,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1725040840,
+            "game": "https://www.chess.com/game/live/86205552851"
+        },
+        "record": {
+            "win": 12288,
+            "loss": 6720,
+            "draw": 954
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2626,
+            "date": 1741685538,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2661,
+            "date": 1720559137,
+            "game": "https://www.chess.com/game/live/46560037149"
+        },
+        "record": {
+            "win": 4385,
+            "loss": 2867,
+            "draw": 671
+        }
+    },
+    "fide": 2188,
+    "tactics": {
+        "highest": {
+            "rating": 3460,
+            "date": 1733270457
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1333996994
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        },
+        "daily": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

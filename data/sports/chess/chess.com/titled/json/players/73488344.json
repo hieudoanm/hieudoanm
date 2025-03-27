@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73488344.1a1abfc0.200x200o.89ff8f2b7adb.jpeg",
+    "player_id": 73488344,
+    "@id": "https://api.chess.com/pub/player/alexandramtz",
+    "url": "https://www.chess.com/member/AlexandraMtz",
+    "name": "Alexandra Mart\u00ednez",
+    "username": "alexandramtz",
+    "title": "WFM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "Zacatecas",
+    "last_online": 1635647510,
+    "joined": 1584163907,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2092,
+            "date": 1618629591,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2241,
+            "date": 1618449788,
+            "game": "https://www.chess.com/game/live/10385845721"
+        },
+        "record": {
+            "win": 24,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2190,
+            "date": 1590282185,
+            "rd": 207
+        },
+        "best": {
+            "rating": 2040,
+            "date": 1590282185,
+            "game": "https://www.chess.com/game/live/4898697148"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2071,
+            "date": 1617329641,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2139,
+            "date": 1591759875,
+            "game": "https://www.chess.com/game/live/4599198210"
+        },
+        "record": {
+            "win": 113,
+            "loss": 89,
+            "draw": 6
+        }
+    },
+    "fide": 2040,
+    "tactics": {
+        "highest": {
+            "rating": 1396,
+            "date": 1584424809
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1584164801
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,52 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16410696.f38c1af8.200x200o.436fe282d008.jpeg",
+    "player_id": 16410696,
+    "@id": "https://api.chess.com/pub/player/rebeccajs",
+    "url": "https://www.chess.com/member/RebeccaJS",
+    "name": "Rebecca Stones",
+    "username": "rebeccajs",
+    "title": "WFM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/CN",
+    "location": "Beijing",
+    "last_online": 1741684661,
+    "joined": 1394539282,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1945,
+            "date": 1739408239,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2081,
+            "date": 1444030186,
+            "game": "https://www.chess.com/game/live/132818332137"
+        },
+        "record": {
+            "win": 99,
+            "loss": 58,
+            "draw": 16
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3260,
+            "date": 1740788523
+        },
+        "lowest": {
+            "rating": 1410,
+            "date": 1395017855
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

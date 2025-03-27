@@ -1,0 +1,85 @@
+{
+    "player_id": 9742988,
+    "@id": "https://api.chess.com/pub/player/fredymatsuura",
+    "url": "https://www.chess.com/member/FredyMatsuura",
+    "name": "Frederico Matsuura",
+    "username": "fredymatsuura",
+    "title": "FM",
+    "followers": 88,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Curitiba/Pr",
+    "last_online": 1741524614,
+    "joined": 1353633350,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1985,
+            "date": 1690242221,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1593885484,
+            "game": "https://www.chess.com/game/live/7400604639"
+        },
+        "record": {
+            "win": 18,
+            "loss": 15,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2129,
+            "date": 1741703582,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1651604317,
+            "game": "https://www.chess.com/game/live/49669134891"
+        },
+        "record": {
+            "win": 7537,
+            "loss": 7202,
+            "draw": 340
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2426,
+            "date": 1741631267,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2435,
+            "date": 1604884463,
+            "game": "https://www.chess.com/game/live/5610940619"
+        },
+        "record": {
+            "win": 9447,
+            "loss": 7657,
+            "draw": 1114
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3068,
+            "date": 1740661385
+        },
+        "lowest": {
+            "rating": 1401,
+            "date": 1353634822
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

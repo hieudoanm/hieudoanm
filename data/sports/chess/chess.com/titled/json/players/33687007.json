@@ -1,0 +1,85 @@
+{
+    "player_id": 33687007,
+    "@id": "https://api.chess.com/pub/player/benecyrill",
+    "url": "https://www.chess.com/member/BeneCyrill",
+    "name": "Anselm Wagner",
+    "username": "benecyrill",
+    "title": "FM",
+    "followers": 109,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741457039,
+    "joined": 1488640133,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2947,
+            "date": 1740912138,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2947,
+            "date": 1683905543,
+            "game": "https://www.chess.com/game/live/77643693769"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2583,
+            "date": 1741642057,
+            "rd": 15
+        },
+        "best": {
+            "rating": 2790,
+            "date": 1729196517,
+            "game": "https://www.chess.com/game/live/134590748023"
+        },
+        "record": {
+            "win": 71172,
+            "loss": 59068,
+            "draw": 7701
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2778,
+            "date": 1741111707,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2881,
+            "date": 1590953897,
+            "game": "https://www.chess.com/game/live/4916140024"
+        },
+        "record": {
+            "win": 246,
+            "loss": 169,
+            "draw": 27
+        }
+    },
+    "fide": 2421,
+    "tactics": {
+        "highest": {
+            "rating": 2763,
+            "date": 1719594446
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1543265400
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

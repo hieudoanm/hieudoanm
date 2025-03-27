@@ -1,0 +1,85 @@
+{
+    "player_id": 410804913,
+    "@id": "https://api.chess.com/pub/player/swisshazy",
+    "url": "https://www.chess.com/member/SwissHazy",
+    "name": "Benedict Hasenohr",
+    "username": "swisshazy",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1740535245,
+    "joined": 1734642718,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2121,
+            "date": 1735147189,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2132,
+            "date": 1734956716,
+            "game": "https://www.chess.com/game/live/128692995609"
+        },
+        "record": {
+            "win": 24,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2374,
+            "date": 1735307658,
+            "rd": 246
+        },
+        "best": {
+            "rating": 2374,
+            "date": 1735307658,
+            "game": "https://www.chess.com/game/live/129046367689"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2495,
+            "date": 1740535941,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1740077230,
+            "game": "https://www.chess.com/game/live/128888063139"
+        },
+        "record": {
+            "win": 27,
+            "loss": 12,
+            "draw": 3
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3524,
+            "date": 1741358325
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1734642718
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

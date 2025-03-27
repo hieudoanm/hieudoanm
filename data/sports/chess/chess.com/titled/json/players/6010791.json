@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6010791.6e965d2a.200x200o.597c493bd4df.jpeg",
+    "player_id": 6010791,
+    "@id": "https://api.chess.com/pub/player/vkorennoy",
+    "url": "https://www.chess.com/member/vkorennoy",
+    "name": "Victor Korennoy",
+    "username": "vkorennoy",
+    "title": "FM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Moscow",
+    "last_online": 1726666244,
+    "joined": 1319548911,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2339,
+            "date": 1619531900,
+            "rd": 312
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1619531900,
+            "game": "https://www.chess.com/game/live/13269128103"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2521,
+            "date": 1608073492,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1608073492,
+            "game": "https://www.chess.com/game/live/2855529792"
+        },
+        "record": {
+            "win": 1126,
+            "loss": 815,
+            "draw": 80
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2616,
+            "date": 1722118810,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2616,
+            "date": 1722118810,
+            "game": "https://www.chess.com/game/live/115331920299"
+        },
+        "record": {
+            "win": 3351,
+            "loss": 2495,
+            "draw": 363
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3587,
+            "date": 1726638391
+        },
+        "lowest": {
+            "rating": 1320,
+            "date": 1351169694
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 79,
+            "score": 76
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34719464.10dbbac0.200x200o.794dfdf3d4c4.jpeg",
+    "player_id": 34719464,
+    "@id": "https://api.chess.com/pub/player/caleuche",
+    "url": "https://www.chess.com/member/Caleuche",
+    "name": "Marcelo Llorens Sepulveda",
+    "username": "caleuche",
+    "title": "FM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/CL",
+    "last_online": 1741624070,
+    "joined": 1492008033,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2700,
+            "date": 1741378545,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2658,
+            "date": 1737318514,
+            "game": "https://www.chess.com/game/live/131566172587"
+        },
+        "record": {
+            "win": 7932,
+            "loss": 8114,
+            "draw": 936
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2554,
+            "date": 1741627980
+        },
+        "best": {
+            "rating": 2629,
+            "date": 1739588498,
+            "game": "https://www.chess.com/game/live/3451117087"
+        },
+        "record": {
+            "win": 766,
+            "loss": 735,
+            "draw": 109
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3384,
+            "date": 1734217915
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1495939390
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

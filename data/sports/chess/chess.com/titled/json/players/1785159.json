@@ -1,0 +1,28 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1785159.ee9461d1.200x200o.56be569b008f.png",
+    "player_id": 1785159,
+    "@id": "https://api.chess.com/pub/player/johngrefe",
+    "url": "https://www.chess.com/member/johngrefe",
+    "name": "John Grefe",
+    "username": "johngrefe",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1376360062,
+    "joined": 1235437109,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 1476,
+            "date": 1320362748
+        },
+        "lowest": {
+            "rating": 1114,
+            "date": 1277853998
+        }
+    },
+    "puzzle_rush": {}
+}

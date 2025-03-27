@@ -1,0 +1,86 @@
+{
+    "player_id": 23471068,
+    "@id": "https://api.chess.com/pub/player/suundalaisumberuul",
+    "url": "https://www.chess.com/member/suundalaisumberuul",
+    "name": "Amgalantengis Enkh-Amgalan",
+    "username": "suundalaisumberuul",
+    "title": "CM",
+    "followers": 73,
+    "country": "https://api.chess.com/pub/country/MN",
+    "location": "Ulaanbaatar",
+    "last_online": 1720191002,
+    "joined": 1438327776,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2182,
+            "date": 1643290721,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1605170416,
+            "game": "https://www.chess.com/game/live/36696033305"
+        },
+        "record": {
+            "win": 110,
+            "loss": 27,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2707,
+            "date": 1679805400,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2703,
+            "date": 1679749166,
+            "game": "https://www.chess.com/game/live/35295435101"
+        },
+        "record": {
+            "win": 827,
+            "loss": 629,
+            "draw": 91
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2540,
+            "date": 1741084436,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2705,
+            "date": 1679669384,
+            "game": "https://www.chess.com/game/live/7786925163"
+        },
+        "record": {
+            "win": 1010,
+            "loss": 891,
+            "draw": 161
+        }
+    },
+    "fide": 1878,
+    "tactics": {
+        "highest": {
+            "rating": 3217,
+            "date": 1655703342
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1602950681
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 81,
+            "score": 78
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47932576.3c2f9952.200x200o.a2a67097c208.jpg",
+    "player_id": 47932576,
+    "@id": "https://api.chess.com/pub/player/sorch29",
+    "url": "https://www.chess.com/member/sorch29",
+    "name": "Yago Labussiere",
+    "username": "sorch29",
+    "title": "NM",
+    "followers": 140,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741380641,
+    "joined": 1531785666,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1296,
+            "date": 1739522321,
+            "rd": 173
+        },
+        "best": {
+            "rating": 1375,
+            "date": 1717509050,
+            "game": "https://www.chess.com/game/daily/645118303"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 257729,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2161,
+            "date": 1723568011,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2222,
+            "date": 1595205656,
+            "game": "https://www.chess.com/game/live/117306014457"
+        },
+        "record": {
+            "win": 49,
+            "loss": 26,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2348,
+            "date": 1739930636,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2496,
+            "date": 1703958703,
+            "game": "https://www.chess.com/game/live/97695569975"
+        },
+        "record": {
+            "win": 166,
+            "loss": 93,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2351,
+            "date": 1741363915,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2596,
+            "date": 1737928483,
+            "game": "https://www.chess.com/game/live/117301892077"
+        },
+        "record": {
+            "win": 6111,
+            "loss": 5687,
+            "draw": 733
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3517,
+            "date": 1737691740
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1531876088
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

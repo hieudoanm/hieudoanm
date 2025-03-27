@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/63579592.3b353847.200x200o.f4a2c458aa6d.jpg",
+    "player_id": 63579592,
+    "@id": "https://api.chess.com/pub/player/willychess95",
+    "url": "https://www.chess.com/member/Willychess95",
+    "name": "William Hernandez Gonzalez",
+    "username": "willychess95",
+    "title": "IM",
+    "followers": 496,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Florida",
+    "last_online": 1738656778,
+    "joined": 1563900199,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1466,
+            "date": 1738691701,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2185,
+            "date": 1632546003,
+            "game": "https://www.chess.com/game/daily/334525267"
+        },
+        "record": {
+            "win": 43,
+            "loss": 32,
+            "draw": 5,
+            "time_per_move": 15678,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2262,
+            "date": 1693847579,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2616,
+            "date": 1587313747,
+            "game": "https://www.chess.com/game/live/6018497037"
+        },
+        "record": {
+            "win": 7,
+            "loss": 7,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2511,
+            "date": 1695311960,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2680,
+            "date": 1669442449,
+            "game": "https://www.chess.com/game/live/6489684689"
+        },
+        "record": {
+            "win": 864,
+            "loss": 800,
+            "draw": 78
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2632,
+            "date": 1738286931,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2837,
+            "date": 1689891905,
+            "game": "https://www.chess.com/game/live/80773963075"
+        },
+        "record": {
+            "win": 8016,
+            "loss": 8279,
+            "draw": 1422
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3200,
+            "date": 1689777205
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1570188154
+        }
+    },
+    "puzzle_rush": {}
+}

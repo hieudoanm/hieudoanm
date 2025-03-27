@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75187008.a85dff58.200x200o.26a13bdcc206.jpg",
+    "player_id": 75187008,
+    "@id": "https://api.chess.com/pub/player/onthequiet",
+    "url": "https://www.chess.com/member/Onthequiet",
+    "name": "Carlos Alvarado",
+    "username": "onthequiet",
+    "title": "CM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/PE",
+    "location": "Varsovia",
+    "last_online": 1741135953,
+    "joined": 1585662415,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2499,
+            "date": 1694892204,
+            "rd": 257
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1694892204,
+            "game": "https://www.chess.com/game/live/88630273587"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2592,
+            "date": 1741213365,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2573,
+            "date": 1741133138,
+            "game": "https://www.chess.com/game/live/117324612959"
+        },
+        "record": {
+            "win": 1788,
+            "loss": 1531,
+            "draw": 351
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2672,
+            "date": 1694167518
+        },
+        "lowest": {
+            "rating": 806,
+            "date": 1611324868
+        }
+    },
+    "puzzle_rush": {}
+}

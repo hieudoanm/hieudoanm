@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4028011.fae67547.200x200o.479b37b24cd3.jpeg",
+    "player_id": 4028011,
+    "@id": "https://api.chess.com/pub/player/bibiii",
+    "url": "https://www.chess.com/member/bibiii",
+    "name": "Matthieu BISSIERES",
+    "username": "bibiii",
+    "title": "IM",
+    "followers": 85,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "LYON",
+    "last_online": 1740516036,
+    "joined": 1285428998,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1620,
+            "date": 1740469285,
+            "rd": 243
+        },
+        "best": {
+            "rating": 1620,
+            "date": 1738862469,
+            "game": "https://www.chess.com/game/daily/714186397"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 150279,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2017,
+            "date": 1707319258,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1611323125,
+            "game": "https://www.chess.com/game/live/11182974773"
+        },
+        "record": {
+            "win": 18,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2548,
+            "date": 1741639287,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2659,
+            "date": 1661620170,
+            "game": "https://www.chess.com/game/live/4591239024"
+        },
+        "record": {
+            "win": 905,
+            "loss": 493,
+            "draw": 69
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2319,
+            "date": 1726083003,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2434,
+            "date": 1654194513,
+            "game": "https://www.chess.com/game/live/47071878325"
+        },
+        "record": {
+            "win": 242,
+            "loss": 93,
+            "draw": 17
+        }
+    },
+    "fide": 2411,
+    "tactics": {
+        "highest": {
+            "rating": 3143,
+            "date": 1721414062
+        },
+        "lowest": {
+            "rating": 942,
+            "date": 1465208279
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        },
+        "daily": {
+            "total_attempts": 43,
+            "score": 42
+        }
+    }
+}

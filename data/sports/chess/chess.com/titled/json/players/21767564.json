@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21767564.b0373c84.200x200o.7c0ff3fb1c36.jpg",
+    "player_id": 21767564,
+    "@id": "https://api.chess.com/pub/player/mfberna",
+    "url": "https://www.chess.com/member/MFBerna",
+    "name": "Bernardo Vainzoff Sztokbant",
+    "username": "mfberna",
+    "title": "FM",
+    "followers": 542,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Brazil",
+    "last_online": 1741702861,
+    "joined": 1427841824,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1185,
+            "date": 1739152014,
+            "rd": 185
+        },
+        "best": {
+            "rating": 2176,
+            "date": 1442003594,
+            "game": "https://www.chess.com/game/daily/171274122"
+        },
+        "record": {
+            "win": 35,
+            "loss": 32,
+            "draw": 10,
+            "time_per_move": 38122,
+            "timeout_percent": 100
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1540,
+            "date": 1472195411,
+            "rd": 215
+        },
+        "best": {
+            "rating": 1540,
+            "date": 1472195411,
+            "game": "https://www.chess.com/game/daily/138791166"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 38122,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2436,
+            "date": 1740615271,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1664397874,
+            "game": "https://www.chess.com/game/live/58135845587"
+        },
+        "record": {
+            "win": 182,
+            "loss": 128,
+            "draw": 48
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2572,
+            "date": 1741567252,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2618,
+            "date": 1734208451,
+            "game": "https://www.chess.com/game/live/98911433365"
+        },
+        "record": {
+            "win": 1256,
+            "loss": 1149,
+            "draw": 140
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2611,
+            "date": 1741702252,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1738011637,
+            "game": "https://www.chess.com/game/live/66522161931"
+        },
+        "record": {
+            "win": 10802,
+            "loss": 9606,
+            "draw": 1803
+        }
+    },
+    "fide": 2213,
+    "tactics": {
+        "highest": {
+            "rating": 3531,
+            "date": 1736875847
+        },
+        "lowest": {
+            "rating": 1916,
+            "date": 1481490804
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18114192.f96f52b4.200x200o.83bb21af6ce2.jpeg",
+    "player_id": 18114192,
+    "@id": "https://api.chess.com/pub/player/likewater",
+    "url": "https://www.chess.com/member/LikeWater",
+    "name": "Alexander Velikanov",
+    "username": "likewater",
+    "title": "IM",
+    "followers": 157,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741457733,
+    "joined": 1405640642,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1805,
+            "date": 1723451306,
+            "rd": 132
+        },
+        "best": {
+            "rating": 1976,
+            "date": 1590611053,
+            "game": "https://www.chess.com/game/daily/467966173"
+        },
+        "record": {
+            "win": 33,
+            "loss": 3,
+            "draw": 2,
+            "time_per_move": 58755,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1187,
+            "date": 1575767061,
+            "rd": 292
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1405640642,
+            "game": "https://www.chess.com/game/daily/214605024"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 58755,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2434,
+            "date": 1740192581,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2431,
+            "date": 1727695377,
+            "game": "https://www.chess.com/game/live/120467368203"
+        },
+        "record": {
+            "win": 39,
+            "loss": 12,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2855,
+            "date": 1741630499,
+            "rd": 33
+        },
+        "best": {
+            "rating": 3020,
+            "date": 1636937889,
+            "game": "https://www.chess.com/game/live/3447192571"
+        },
+        "record": {
+            "win": 6199,
+            "loss": 5332,
+            "draw": 780
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2714,
+            "date": 1741668772,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2857,
+            "date": 1726586889,
+            "game": "https://www.chess.com/game/live/98184902571"
+        },
+        "record": {
+            "win": 4903,
+            "loss": 4042,
+            "draw": 623
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3560,
+            "date": 1705450952
+        },
+        "lowest": {
+            "rating": 1369,
+            "date": 1410974263
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

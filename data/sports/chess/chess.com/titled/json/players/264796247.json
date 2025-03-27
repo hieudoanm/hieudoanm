@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/264796247.b10e383d.200x200o.4125b34ec364.jpg",
+    "player_id": 264796247,
+    "@id": "https://api.chess.com/pub/player/imchanged",
+    "url": "https://www.chess.com/member/IMchanged",
+    "name": "Felix Ilinca",
+    "username": "imchanged",
+    "title": "FM",
+    "followers": 115,
+    "country": "https://api.chess.com/pub/country/RO",
+    "last_online": 1741626824,
+    "joined": 1679423550,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 757,
+            "date": 1737560152,
+            "rd": 81
+        },
+        "best": {
+            "rating": 1616,
+            "date": 1682105151,
+            "game": "https://www.chess.com/game/daily/603766819"
+        },
+        "record": {
+            "win": 39,
+            "loss": 47,
+            "draw": 1,
+            "time_per_move": 24290,
+            "timeout_percent": 33
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2254,
+            "date": 1690134573,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2254,
+            "date": 1690134573,
+            "game": "https://www.chess.com/game/live/75206591213"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2900,
+            "date": 1737834319,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2986,
+            "date": 1735649854,
+            "game": "https://www.chess.com/game/live/129752997589"
+        },
+        "record": {
+            "win": 1066,
+            "loss": 620,
+            "draw": 88
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2913,
+            "date": 1741373572,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2974,
+            "date": 1738709777,
+            "game": "https://www.chess.com/game/live/112195218657"
+        },
+        "record": {
+            "win": 532,
+            "loss": 312,
+            "draw": 58
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3583,
+            "date": 1711667543
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1679423550
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

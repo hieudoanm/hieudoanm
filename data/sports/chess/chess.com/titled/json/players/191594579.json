@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/191594579.5cbf2e8e.200x200o.475379659dfa.jpg",
+    "player_id": 191594579,
+    "@id": "https://api.chess.com/pub/player/summernika",
+    "url": "https://www.chess.com/member/SummerNika",
+    "username": "summernika",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1741217863,
+    "joined": 1659117271,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2317,
+            "date": 1736921921,
+            "rd": 144
+        },
+        "best": {
+            "rating": 2469,
+            "date": 1679681597,
+            "game": "https://www.chess.com/game/live/57543432343"
+        },
+        "record": {
+            "win": 4,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2825,
+            "date": 1741187096,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2808,
+            "date": 1741136150,
+            "game": "https://www.chess.com/game/live/134773139063"
+        },
+        "record": {
+            "win": 94,
+            "loss": 72,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2705,
+            "date": 1741219881,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2649,
+            "date": 1739485030,
+            "game": "https://www.chess.com/game/live/133223930679"
+        },
+        "record": {
+            "win": 140,
+            "loss": 110,
+            "draw": 22
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2072,
+            "date": 1740989034
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1660098685
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

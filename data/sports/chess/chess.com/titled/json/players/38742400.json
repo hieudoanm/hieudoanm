@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38742400.c08f5989.200x200o.070f422aa668.jpeg",
+    "player_id": 38742400,
+    "@id": "https://api.chess.com/pub/player/siemba",
+    "url": "https://www.chess.com/member/Siemba",
+    "name": "Siem van Dael",
+    "username": "siemba",
+    "title": "FM",
+    "followers": 107,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741635255,
+    "joined": 1505740676,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2144,
+            "date": 1710434199,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1613224071,
+            "game": "https://www.chess.com/game/live/6419865792"
+        },
+        "record": {
+            "win": 32,
+            "loss": 19,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2632,
+            "date": 1714145033,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3006,
+            "date": 1696813473,
+            "game": "https://www.chess.com/game/live/90133187995"
+        },
+        "record": {
+            "win": 839,
+            "loss": 929,
+            "draw": 123
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2276,
+            "date": 1740592079,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2632,
+            "date": 1695528471,
+            "game": "https://www.chess.com/game/live/6503482907"
+        },
+        "record": {
+            "win": 651,
+            "loss": 628,
+            "draw": 109
+        }
+    },
+    "fide": 2317,
+    "tactics": {
+        "highest": {
+            "rating": 2850,
+            "date": 1584439876
+        },
+        "lowest": {
+            "rating": 1790,
+            "date": 1551614662
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 56
+        }
+    }
+}

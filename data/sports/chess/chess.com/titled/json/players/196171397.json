@@ -1,0 +1,98 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/196171397.c35865cb.200x200o.73d677524383.jpeg",
+    "player_id": 196171397,
+    "@id": "https://api.chess.com/pub/player/dracotitillandus",
+    "url": "https://www.chess.com/member/DracoTitillandus",
+    "username": "dracotitillandus",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1741206424,
+    "joined": 1662489211,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1877,
+            "date": 1713442460,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1877,
+            "date": 1669658406,
+            "game": "https://www.chess.com/game/daily/447098849"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 51,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2253,
+            "date": 1735842368,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1668683476,
+            "game": "https://www.chess.com/game/live/67350775715"
+        },
+        "record": {
+            "win": 10,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2240,
+            "date": 1732539686,
+            "rd": 249
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2359,
+            "date": 1740950363,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2666,
+            "date": 1728928535,
+            "game": "https://www.chess.com/game/live/122757303111"
+        },
+        "record": {
+            "win": 333,
+            "loss": 256,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3365,
+            "date": 1730324580
+        },
+        "lowest": {
+            "rating": 2265,
+            "date": 1662652733
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

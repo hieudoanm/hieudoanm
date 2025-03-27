@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64113788.f1d8a1e3.200x200o.9fdc467d494d.jpg",
+    "player_id": 64113788,
+    "@id": "https://api.chess.com/pub/player/the_titan_15",
+    "url": "https://www.chess.com/member/THE_TITAN_15",
+    "name": "Mohamed Anees M",
+    "username": "the_titan_15",
+    "title": "FM",
+    "followers": 78,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741703320,
+    "joined": 1565330737,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2181,
+            "date": 1665149059,
+            "rd": 126
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1622303867,
+            "game": "https://www.chess.com/game/live/5545774255"
+        },
+        "record": {
+            "win": 30,
+            "loss": 12,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2605,
+            "date": 1738022649,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2665,
+            "date": 1692459336,
+            "game": "https://www.chess.com/game/live/83827840743"
+        },
+        "record": {
+            "win": 165,
+            "loss": 114,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2870,
+            "date": 1741695704,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2850,
+            "date": 1739333919,
+            "game": "https://www.chess.com/game/live/121886936659"
+        },
+        "record": {
+            "win": 2253,
+            "loss": 1702,
+            "draw": 321
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3910,
+            "date": 1737891298
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1565330778
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 85,
+            "score": 82
+        }
+    }
+}

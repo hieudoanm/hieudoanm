@@ -1,0 +1,104 @@
+{
+    "player_id": 31880272,
+    "@id": "https://api.chess.com/pub/player/daddystrength",
+    "url": "https://www.chess.com/member/daddystrength",
+    "name": "Raheem Glaves",
+    "username": "daddystrength",
+    "title": "FM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/JM",
+    "location": "Kingston",
+    "last_online": 1741637178,
+    "joined": 1482704308,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1673,
+            "date": 1726184306,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1726,
+            "date": 1529326377,
+            "game": "https://www.chess.com/game/daily/169731974"
+        },
+        "record": {
+            "win": 48,
+            "loss": 16,
+            "draw": 1,
+            "time_per_move": 5155,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2310,
+            "date": 1741366281,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1732739392,
+            "game": "https://www.chess.com/game/live/73791582167"
+        },
+        "record": {
+            "win": 374,
+            "loss": 253,
+            "draw": 47
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2074,
+            "date": 1630770752,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2074,
+            "date": 1630770752,
+            "game": "https://www.chess.com/game/live/2356143890"
+        },
+        "record": {
+            "win": 1438,
+            "loss": 1293,
+            "draw": 120
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2483,
+            "date": 1738773802,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2520,
+            "date": 1731180038,
+            "game": "https://www.chess.com/game/live/110706697683"
+        },
+        "record": {
+            "win": 735,
+            "loss": 550,
+            "draw": 66
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2259,
+            "date": 1672709782
+        },
+        "lowest": {
+            "rating": 1250,
+            "date": 1483066099
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 23
+        }
+    }
+}

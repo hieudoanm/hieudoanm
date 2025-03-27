@@ -1,0 +1,44 @@
+{
+    "player_id": 405519245,
+    "@id": "https://api.chess.com/pub/player/endrick9",
+    "url": "https://www.chess.com/member/Endrick9",
+    "username": "endrick9",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1739913751,
+    "joined": 1732769088,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2360,
+            "date": 1739847595,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2392,
+            "date": 1739777908,
+            "game": "https://www.chess.com/game/live/133516749777"
+        },
+        "record": {
+            "win": 13,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1732769088
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1732769088
+        }
+    },
+    "puzzle_rush": {}
+}

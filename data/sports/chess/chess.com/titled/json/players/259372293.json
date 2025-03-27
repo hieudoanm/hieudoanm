@@ -1,0 +1,84 @@
+{
+    "player_id": 259372293,
+    "@id": "https://api.chess.com/pub/player/k2jw",
+    "url": "https://www.chess.com/member/K2JW",
+    "name": "Kevin Zhong",
+    "username": "k2jw",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741475903,
+    "joined": 1678421410,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2250,
+            "date": 1683108380,
+            "rd": 128
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1681697562,
+            "game": "https://www.chess.com/game/live/75436153871"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2430,
+            "date": 1740937889,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1688530354,
+            "game": "https://www.chess.com/game/live/75762214347"
+        },
+        "record": {
+            "win": 140,
+            "loss": 94,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2339,
+            "date": 1739121977,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1682460288,
+            "game": "https://www.chess.com/game/live/76196004327"
+        },
+        "record": {
+            "win": 115,
+            "loss": 136,
+            "draw": 18
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3627,
+            "date": 1691586955
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1678421410
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

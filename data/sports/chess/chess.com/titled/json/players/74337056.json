@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74337056.188fe3f0.200x200o.24e8ae0ef914.jpeg",
+    "player_id": 74337056,
+    "@id": "https://api.chess.com/pub/player/ccgoodknightrookie",
+    "url": "https://www.chess.com/member/CCGoodKnightRookie",
+    "name": "Connor Clarke",
+    "username": "ccgoodknightrookie",
+    "title": "NM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/XE",
+    "last_online": 1741370659,
+    "joined": 1585034989,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1606,
+            "date": 1731831488,
+            "rd": 344
+        },
+        "best": {
+            "rating": 1606,
+            "date": 1731831488,
+            "game": "https://www.chess.com/game/daily/727841545"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 6801,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2178,
+            "date": 1714854431,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1691929548,
+            "game": "https://www.chess.com/game/live/85667397221"
+        },
+        "record": {
+            "win": 38,
+            "loss": 16,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2444,
+            "date": 1737546186,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2478,
+            "date": 1734201073,
+            "game": "https://www.chess.com/game/live/127939812185"
+        },
+        "record": {
+            "win": 97,
+            "loss": 75,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2500,
+            "date": 1740501987,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1733845076,
+            "game": "https://www.chess.com/game/live/127585258309"
+        },
+        "record": {
+            "win": 267,
+            "loss": 169,
+            "draw": 32
+        }
+    },
+    "fide": 2048,
+    "tactics": {
+        "highest": {
+            "rating": 2053,
+            "date": 1728399041
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1585034989
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 54
+        }
+    }
+}

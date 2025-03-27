@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75804138.0d456ea5.200x200o.dd5809d63407.jpeg",
+    "player_id": 75804138,
+    "@id": "https://api.chess.com/pub/player/baltazar1958",
+    "url": "https://www.chess.com/member/Baltazar1958",
+    "name": "Rafael Baltazar",
+    "username": "baltazar1958",
+    "title": "IM",
+    "followers": 74,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741578797,
+    "joined": 1586129612,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1794,
+            "date": 1736528178,
+            "rd": 161
+        },
+        "best": {
+            "rating": 2142,
+            "date": 1604320437,
+            "game": "https://www.chess.com/game/daily/280893152"
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 119660,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2071,
+            "date": 1739586405,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1613165909,
+            "game": "https://www.chess.com/game/live/124246717207"
+        },
+        "record": {
+            "win": 708,
+            "loss": 174,
+            "draw": 98
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2015,
+            "date": 1741578427,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2246,
+            "date": 1669528462,
+            "game": "https://www.chess.com/game/live/55053922247"
+        },
+        "record": {
+            "win": 1489,
+            "loss": 1211,
+            "draw": 201
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1999,
+            "date": 1589168177
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1588999839
+        }
+    },
+    "puzzle_rush": {}
+}

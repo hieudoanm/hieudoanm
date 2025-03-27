@@ -1,0 +1,79 @@
+{
+    "player_id": 177538025,
+    "@id": "https://api.chess.com/pub/player/orackbbama",
+    "url": "https://www.chess.com/member/orackbbama",
+    "name": "Savas Marin Stoica",
+    "username": "orackbbama",
+    "title": "NM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741402421,
+    "joined": 1647956167,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2001,
+            "date": 1705545830,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2142,
+            "date": 1679498465,
+            "game": "https://www.chess.com/game/live/99284126863"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1789,
+            "date": 1707003063,
+            "rd": 289
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2401,
+            "date": 1740726877,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1740717669,
+            "game": "https://www.chess.com/game/live/114276665005"
+        },
+        "record": {
+            "win": 879,
+            "loss": 604,
+            "draw": 128
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 520,
+            "date": 1712845469
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1647956167
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 38
+        }
+    }
+}

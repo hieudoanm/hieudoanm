@@ -1,0 +1,66 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35849850.c95094ed.200x200o.ab5e40c14649.jpeg",
+    "player_id": 35849850,
+    "@id": "https://api.chess.com/pub/player/hydrargyrum_girl",
+    "url": "https://www.chess.com/member/Hydrargyrum_Girl",
+    "username": "hydrargyrum_girl",
+    "title": "WFM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1728369789,
+    "joined": 1495869231,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2318,
+            "date": 1579273456,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2397,
+            "date": 1554404754,
+            "game": "https://www.chess.com/game/live/3588001166"
+        },
+        "record": {
+            "win": 78,
+            "loss": 68,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2524,
+            "date": 1601531086,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1601442607,
+            "game": "https://www.chess.com/game/live/5482465776"
+        },
+        "record": {
+            "win": 216,
+            "loss": 165,
+            "draw": 49
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2754,
+            "date": 1553226607
+        },
+        "lowest": {
+            "rating": 1004,
+            "date": 1496467669
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

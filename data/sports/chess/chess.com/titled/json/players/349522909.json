@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/349522909.37397bcc.200x200o.b3049af319a7.jpg",
+    "player_id": 349522909,
+    "@id": "https://api.chess.com/pub/player/davidalhesa2007",
+    "url": "https://www.chess.com/member/Davidalhesa2007",
+    "name": "David Ale Hernandez Santos",
+    "username": "davidalhesa2007",
+    "title": "CM",
+    "followers": 56,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741627016,
+    "joined": 1709853617,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1470,
+            "date": 1725122359,
+            "rd": 320
+        },
+        "best": {
+            "rating": 1470,
+            "date": 1716919953,
+            "game": "https://www.chess.com/game/daily/654681975"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 108806,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1961,
+            "date": 1731985452,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1713277305,
+            "game": "https://www.chess.com/game/live/107016069361"
+        },
+        "record": {
+            "win": 1,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2101,
+            "date": 1741481552,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2244,
+            "date": 1738386202,
+            "game": "https://www.chess.com/game/live/126122352411"
+        },
+        "record": {
+            "win": 1563,
+            "loss": 1531,
+            "draw": 167
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2102,
+            "date": 1741575690,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2141,
+            "date": 1725507783,
+            "game": "https://www.chess.com/game/live/131236235857"
+        },
+        "record": {
+            "win": 756,
+            "loss": 745,
+            "draw": 102
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3000,
+            "date": 1729123333
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1709853617
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

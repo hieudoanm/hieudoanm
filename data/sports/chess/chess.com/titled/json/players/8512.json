@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8512.507fec17.200x200o.b0e8a848a019.jpeg",
+    "player_id": 8512,
+    "@id": "https://api.chess.com/pub/player/thinkdifferent",
+    "url": "https://www.chess.com/member/thinkdifferent",
+    "name": "Roberto Costantini",
+    "username": "thinkdifferent",
+    "title": "FM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/IT",
+    "location": "Rimini,Italy",
+    "last_online": 1741376304,
+    "joined": 1184405734,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1936,
+            "date": 1557736091,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1184405734,
+            "game": "https://www.chess.com/game/daily/190190290"
+        },
+        "record": {
+            "win": 30,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 8859,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1527,
+            "date": 1454017386,
+            "rd": 290
+        },
+        "best": {
+            "rating": 1614,
+            "date": 1454014428,
+            "game": "https://www.chess.com/game/live/1440374031"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2425,
+            "date": 1737740578,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1726503858,
+            "game": "https://www.chess.com/game/live/120308393389"
+        },
+        "record": {
+            "win": 2581,
+            "loss": 1932,
+            "draw": 224
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2548,
+            "date": 1741691324,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2670,
+            "date": 1728044236,
+            "game": "https://www.chess.com/game/live/121689616041"
+        },
+        "record": {
+            "win": 1925,
+            "loss": 1506,
+            "draw": 242
+        }
+    },
+    "fide": 2305,
+    "tactics": {
+        "highest": {
+            "rating": 3501,
+            "date": 1726207878
+        },
+        "lowest": {
+            "rating": 1379,
+            "date": 1349085569
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 39
+        }
+    }
+}

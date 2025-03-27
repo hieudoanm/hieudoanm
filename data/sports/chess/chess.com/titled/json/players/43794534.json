@@ -1,0 +1,45 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43794534.fd4d27a6.200x200o.82260b2576b8.jpeg",
+    "player_id": 43794534,
+    "@id": "https://api.chess.com/pub/player/darkunorthodox88",
+    "url": "https://www.chess.com/member/darkunorthodox88",
+    "name": "Miguel Fonseca",
+    "username": "darkunorthodox88",
+    "title": "NM",
+    "followers": 344,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741633174,
+    "joined": 1519825223,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2281,
+            "date": 1741276814
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1704961158,
+            "game": "https://www.chess.com/game/live/129448389151"
+        },
+        "record": {
+            "win": 1242,
+            "loss": 783,
+            "draw": 237
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2205,
+            "date": 1717346199
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1519825223
+        }
+    },
+    "puzzle_rush": {}
+}

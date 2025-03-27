@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/363473755.eb6eb98f.200x200o.6625985edf30.jpg",
+    "player_id": 363473755,
+    "@id": "https://api.chess.com/pub/player/sleeping_in_the_fire",
+    "url": "https://www.chess.com/member/sleeping_in_the_fire",
+    "name": "L\u00e1z\u00e1r M\u00e1ty\u00e1ssy",
+    "username": "sleeping_in_the_fire",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1741458008,
+    "joined": 1715843970,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2543,
+            "date": 1737825128,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2633,
+            "date": 1727539507,
+            "game": "https://www.chess.com/game/live/129749433177"
+        },
+        "record": {
+            "win": 81,
+            "loss": 95,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2505,
+            "date": 1741105066,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1724167664,
+            "game": "https://www.chess.com/game/live/122835834111"
+        },
+        "record": {
+            "win": 98,
+            "loss": 133,
+            "draw": 18
+        }
+    },
+    "fide": 2144,
+    "tactics": {
+        "highest": {
+            "rating": 2217,
+            "date": 1716619398
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1715843970
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

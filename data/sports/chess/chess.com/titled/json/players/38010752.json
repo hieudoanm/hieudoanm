@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38010752.e5bb1002.200x200o.17e7e8600057.jpeg",
+    "player_id": 38010752,
+    "@id": "https://api.chess.com/pub/player/nakajo",
+    "url": "https://www.chess.com/member/nakajo",
+    "name": "Mateus Nakajo de Mendon\u00e7a",
+    "username": "nakajo",
+    "title": "FM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741554992,
+    "joined": 1503362562,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2402,
+            "date": 1643621307,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2452,
+            "date": 1611697655,
+            "game": "https://www.chess.com/game/daily/298667060"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 10906,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2220,
+            "date": 1661699866,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2363,
+            "date": 1608513821,
+            "game": "https://www.chess.com/game/live/6018229739"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2628,
+            "date": 1731547600,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2709,
+            "date": 1699839045,
+            "game": "https://www.chess.com/game/live/71087851203"
+        },
+        "record": {
+            "win": 550,
+            "loss": 502,
+            "draw": 72
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2668,
+            "date": 1741311472,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1647385943,
+            "game": "https://www.chess.com/game/live/43116549565"
+        },
+        "record": {
+            "win": 2728,
+            "loss": 2691,
+            "draw": 489
+        }
+    },
+    "fide": 2410,
+    "tactics": {
+        "highest": {
+            "rating": 3009,
+            "date": 1670020452
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1511144076
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

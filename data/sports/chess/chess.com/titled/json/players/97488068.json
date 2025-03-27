@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/97488068.6cc7740f.200x200o.e46943b6e2fb.png",
+    "player_id": 97488068,
+    "@id": "https://api.chess.com/pub/player/nubairyt",
+    "url": "https://www.chess.com/member/NubairYT",
+    "name": "M Nubairshah Shaikh",
+    "username": "nubairyt",
+    "title": "IM",
+    "followers": 127,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1740971725,
+    "joined": 1605642018,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@nubairshah"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2450,
+            "date": 1666880908,
+            "rd": 186
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1612018724,
+            "game": "https://www.chess.com/game/live/38863730769"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2832,
+            "date": 1736340350,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2905,
+            "date": 1611359621,
+            "game": "https://www.chess.com/game/live/6316928661"
+        },
+        "record": {
+            "win": 380,
+            "loss": 322,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2842,
+            "date": 1730743608,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1698272219,
+            "game": "https://www.chess.com/game/live/59537994209"
+        },
+        "record": {
+            "win": 383,
+            "loss": 299,
+            "draw": 73
+        }
+    },
+    "fide": 2440,
+    "tactics": {
+        "highest": {
+            "rating": 3653,
+            "date": 1740972530
+        },
+        "lowest": {
+            "rating": 2459,
+            "date": 1619566297
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

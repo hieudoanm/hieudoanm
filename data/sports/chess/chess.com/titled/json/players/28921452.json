@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28921452.6447c2ed.200x200o.1c8e4e0e54ea.jpeg",
+    "player_id": 28921452,
+    "@id": "https://api.chess.com/pub/player/kaua18",
+    "url": "https://www.chess.com/member/Kaua18",
+    "name": "Kaua Marques Silva",
+    "username": "kaua18",
+    "title": "FM",
+    "followers": 314,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741655495,
+    "joined": 1467656299,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1547,
+            "date": 1736602501,
+            "rd": 148
+        },
+        "best": {
+            "rating": 1547,
+            "date": 1736602501,
+            "game": "https://www.chess.com/game/daily/586814287"
+        },
+        "record": {
+            "win": 16,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 33960,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2301,
+            "date": 1714751393,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2364,
+            "date": 1682352918,
+            "game": "https://www.chess.com/game/live/96170654805"
+        },
+        "record": {
+            "win": 35,
+            "loss": 25,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2663,
+            "date": 1741655895,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2739,
+            "date": 1726199957,
+            "game": "https://www.chess.com/game/live/121883413649"
+        },
+        "record": {
+            "win": 3314,
+            "loss": 3406,
+            "draw": 463
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2507,
+            "date": 1741549240,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1730594585,
+            "game": "https://www.chess.com/game/live/128816585327"
+        },
+        "record": {
+            "win": 8276,
+            "loss": 8186,
+            "draw": 1126
+        }
+    },
+    "fide": 2100,
+    "tactics": {
+        "highest": {
+            "rating": 3293,
+            "date": 1718636152
+        },
+        "lowest": {
+            "rating": 1239,
+            "date": 1479213507
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 75,
+            "score": 72
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "player_id": 343233885,
+    "@id": "https://api.chess.com/pub/player/christian_jordan",
+    "url": "https://www.chess.com/member/Christian_Jordan",
+    "name": "Christian Jordan",
+    "username": "christian_jordan",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741035713,
+    "joined": 1707054723,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2033,
+            "date": 1741037180,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2312,
+            "date": 1709157500,
+            "game": "https://www.chess.com/game/live/126980434813"
+        },
+        "record": {
+            "win": 199,
+            "loss": 224,
+            "draw": 37
+        }
+    },
+    "fide": 2146,
+    "tactics": {
+        "highest": {
+            "rating": 2604,
+            "date": 1722033946
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1707054723
+        }
+    },
+    "puzzle_rush": {}
+}

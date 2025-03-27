@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43434400.80e1baf6.200x200o.e9a5abe231b0.jpg",
+    "player_id": 43434400,
+    "@id": "https://api.chess.com/pub/player/alejandromateo21",
+    "url": "https://www.chess.com/member/AlejandroMateo21",
+    "username": "alejandromateo21",
+    "title": "IM",
+    "followers": 67,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741699194,
+    "joined": 1518876359,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2385,
+            "date": 1692203066,
+            "rd": 225
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1600838765,
+            "game": "https://www.chess.com/game/live/5484755158"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2536,
+            "date": 1712888439,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1712888439,
+            "game": "https://www.chess.com/game/live/4150002856"
+        },
+        "record": {
+            "win": 901,
+            "loss": 781,
+            "draw": 94
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2519,
+            "date": 1739452831,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1682228041,
+            "game": "https://www.chess.com/game/live/4083308680"
+        },
+        "record": {
+            "win": 546,
+            "loss": 397,
+            "draw": 91
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3390,
+            "date": 1732111849
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1518876444
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        },
+        "daily": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

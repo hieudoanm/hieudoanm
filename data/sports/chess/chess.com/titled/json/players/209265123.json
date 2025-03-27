@@ -1,0 +1,45 @@
+{
+    "player_id": 209265123,
+    "@id": "https://api.chess.com/pub/player/jamythesaint",
+    "url": "https://www.chess.com/member/JamyTheSaint",
+    "username": "jamythesaint",
+    "title": "IM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/QA",
+    "last_online": 1734145673,
+    "joined": 1669722230,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2607,
+            "date": 1734179854,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2790,
+            "date": 1730005243,
+            "game": "https://www.chess.com/game/live/93444584063"
+        },
+        "record": {
+            "win": 1632,
+            "loss": 1832,
+            "draw": 376
+        }
+    },
+    "fide": 2850,
+    "tactics": {
+        "highest": {
+            "rating": 2411,
+            "date": 1699542491
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1669722230
+        }
+    },
+    "puzzle_rush": {}
+}

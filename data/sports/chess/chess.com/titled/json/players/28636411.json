@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28636411.bb75128d.200x200o.1b83d6c9a95b.jpg",
+    "player_id": 28636411,
+    "@id": "https://api.chess.com/pub/player/ckgchess",
+    "url": "https://www.chess.com/member/ckgchess",
+    "name": "Cem Kaan Gokerkan",
+    "username": "ckgchess",
+    "title": "GM",
+    "followers": 929,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1734102145,
+    "joined": 1465942265,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@gmcemkaangokerkan"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2469,
+            "date": 1715196848,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1597502273,
+            "game": "https://www.chess.com/game/live/25039336483"
+        },
+        "record": {
+            "win": 25,
+            "loss": 21,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3003,
+            "date": 1730676642,
+            "rd": 37
+        },
+        "best": {
+            "rating": 3091,
+            "date": 1688231210,
+            "game": "https://www.chess.com/game/live/87418948599"
+        },
+        "record": {
+            "win": 2343,
+            "loss": 1453,
+            "draw": 256
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2894,
+            "date": 1733692013,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2957,
+            "date": 1711493070,
+            "game": "https://www.chess.com/game/live/116791828381"
+        },
+        "record": {
+            "win": 2451,
+            "loss": 1607,
+            "draw": 423
+        }
+    },
+    "fide": 2513,
+    "tactics": {
+        "highest": {
+            "rating": 3776,
+            "date": 1729723365
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1508505912
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 104,
+            "score": 101
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56807536.28d1566c.200x200o.b29f80659a88.png",
+    "player_id": 56807536,
+    "@id": "https://api.chess.com/pub/player/ruslann88",
+    "url": "https://www.chess.com/member/RuslanN88",
+    "name": "Ruslan Nezamyatin",
+    "username": "ruslann88",
+    "title": "CM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u0421\u043e\u0447\u0438",
+    "last_online": 1735665948,
+    "joined": 1549031884,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2201,
+            "date": 1617489605,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2226,
+            "date": 1614986798,
+            "game": "https://www.chess.com/game/live/7393367659"
+        },
+        "record": {
+            "win": 62,
+            "loss": 30,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1955,
+            "date": 1730835167,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1730833091,
+            "game": "https://www.chess.com/game/live/124571963429"
+        },
+        "record": {
+            "win": 5,
+            "loss": 10,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2333,
+            "date": 1735668575,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1614980170,
+            "game": "https://www.chess.com/game/live/26759454445"
+        },
+        "record": {
+            "win": 247,
+            "loss": 252,
+            "draw": 32
+        }
+    },
+    "fide": 2070,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1549031884
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1549031884
+        }
+    },
+    "puzzle_rush": {}
+}

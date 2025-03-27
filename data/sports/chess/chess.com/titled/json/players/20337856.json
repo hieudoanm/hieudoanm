@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20337856.06e0bb93.200x200o.c0c8fe348cee.jpg",
+    "player_id": 20337856,
+    "@id": "https://api.chess.com/pub/player/mikakarttunen",
+    "url": "https://www.chess.com/member/MikaKarttunen",
+    "name": "Mika Karttunen",
+    "username": "mikakarttunen",
+    "title": "IM",
+    "followers": 682,
+    "country": "https://api.chess.com/pub/country/FI",
+    "location": "Tampere",
+    "last_online": 1741693456,
+    "joined": 1419584748,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2383,
+            "date": 1723922306,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1677516689,
+            "game": "https://www.chess.com/game/live/71262455677"
+        },
+        "record": {
+            "win": 67,
+            "loss": 19,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2798,
+            "date": 1740994830,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2806,
+            "date": 1739559625,
+            "game": "https://www.chess.com/game/live/71088493669"
+        },
+        "record": {
+            "win": 415,
+            "loss": 352,
+            "draw": 60
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2686,
+            "date": 1741200022,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2834,
+            "date": 1736266539,
+            "game": "https://www.chess.com/game/live/106416545687"
+        },
+        "record": {
+            "win": 5042,
+            "loss": 3595,
+            "draw": 851
+        }
+    },
+    "fide": 2497,
+    "tactics": {
+        "highest": {
+            "rating": 3777,
+            "date": 1706503438
+        },
+        "lowest": {
+            "rating": 1231,
+            "date": 1440038040
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

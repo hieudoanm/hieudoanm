@@ -1,0 +1,84 @@
+{
+    "player_id": 37315420,
+    "@id": "https://api.chess.com/pub/player/bogdanchess97",
+    "url": "https://www.chess.com/member/BogdanChess97",
+    "name": "Bogdan Bilovil",
+    "username": "bogdanchess97",
+    "title": "FM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/ET",
+    "last_online": 1741534425,
+    "joined": 1501049111,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2179,
+            "date": 1676318722,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1676317406,
+            "game": "https://www.chess.com/game/live/70053768367"
+        },
+        "record": {
+            "win": 9,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2733,
+            "date": 1740832406,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1727478136,
+            "game": "https://www.chess.com/game/live/119923195629"
+        },
+        "record": {
+            "win": 356,
+            "loss": 227,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2705,
+            "date": 1741183595,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2711,
+            "date": 1732058037,
+            "game": "https://www.chess.com/game/live/125795341341"
+        },
+        "record": {
+            "win": 1372,
+            "loss": 1117,
+            "draw": 215
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3684,
+            "date": 1740826890
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1511986560
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7741632.b0950fe6.200x200o.2a5d5bc32d94.jpg",
+    "player_id": 7741632,
+    "@id": "https://api.chess.com/pub/player/razephyr",
+    "url": "https://www.chess.com/member/Razephyr",
+    "name": "Bintang Rasyid",
+    "username": "razephyr",
+    "title": "CM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/ID",
+    "last_online": 1741594451,
+    "joined": 1338454063,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1413,
+            "date": 1740216504,
+            "rd": 145
+        },
+        "best": {
+            "rating": 1503,
+            "date": 1484914181,
+            "game": "https://www.chess.com/game/daily/153589776"
+        },
+        "record": {
+            "win": 5,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 225492,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2236,
+            "date": 1732702278,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2375,
+            "date": 1657980279,
+            "game": "https://www.chess.com/game/live/119515806087"
+        },
+        "record": {
+            "win": 94,
+            "loss": 62,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2603,
+            "date": 1740544040,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1735541484,
+            "game": "https://www.chess.com/game/live/129279748119"
+        },
+        "record": {
+            "win": 1990,
+            "loss": 1741,
+            "draw": 159
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2449,
+            "date": 1741244610,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2659,
+            "date": 1533953796,
+            "game": "https://www.chess.com/game/live/3248601678"
+        },
+        "record": {
+            "win": 1637,
+            "loss": 1443,
+            "draw": 179
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3316,
+            "date": 1708748987
+        },
+        "lowest": {
+            "rating": 1154,
+            "date": 1338691322
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

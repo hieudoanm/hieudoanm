@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20523908.4ac17c4e.200x200o.cda4b2c0e826.jpg",
+    "player_id": 20523908,
+    "@id": "https://api.chess.com/pub/player/youngkid",
+    "url": "https://www.chess.com/member/youngKID",
+    "name": "Karthikeyan Murali",
+    "username": "youngkid",
+    "title": "GM",
+    "followers": 775,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741682329,
+    "joined": 1420646904,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2658,
+            "date": 1727366455,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2711,
+            "date": 1589721181,
+            "game": "https://www.chess.com/game/live/115314543981"
+        },
+        "record": {
+            "win": 63,
+            "loss": 41,
+            "draw": 46
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3080,
+            "date": 1727095035,
+            "rd": 45
+        },
+        "best": {
+            "rating": 3096,
+            "date": 1719561117,
+            "game": "https://www.chess.com/game/live/89732972875"
+        },
+        "record": {
+            "win": 1158,
+            "loss": 859,
+            "draw": 142
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2889,
+            "date": 1739598116,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2937,
+            "date": 1724262069,
+            "game": "https://www.chess.com/game/live/117909644673"
+        },
+        "record": {
+            "win": 602,
+            "loss": 317,
+            "draw": 69
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1201,
+            "date": 1724248578
+        },
+        "lowest": {
+            "rating": 1184,
+            "date": 1724247944
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 219,
+            "score": 216
+        }
+    }
+}

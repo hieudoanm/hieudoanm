@@ -1,0 +1,75 @@
+{
+    "player_id": 61352590,
+    "@id": "https://api.chess.com/pub/player/mathapples",
+    "url": "https://www.chess.com/member/mathapples",
+    "name": "Jason Shi",
+    "username": "mathapples",
+    "title": "FM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741629851,
+    "joined": 1558652784,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2181,
+            "date": 1672215358,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1609804632,
+            "game": "https://www.chess.com/game/live/6143599624"
+        },
+        "record": {
+            "win": 16,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2021,
+            "date": 1671936825,
+            "rd": 225
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2424,
+            "date": 1741027129,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2481,
+            "date": 1619142566,
+            "game": "https://www.chess.com/game/live/4752554301"
+        },
+        "record": {
+            "win": 974,
+            "loss": 664,
+            "draw": 149
+        }
+    },
+    "fide": 2100,
+    "tactics": {
+        "highest": {
+            "rating": 2173,
+            "date": 1724632177
+        },
+        "lowest": {
+            "rating": 2112,
+            "date": 1655935127
+        }
+    },
+    "puzzle_rush": {}
+}

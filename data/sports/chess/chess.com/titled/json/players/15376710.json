@@ -1,0 +1,104 @@
+{
+    "player_id": 15376710,
+    "@id": "https://api.chess.com/pub/player/julant",
+    "url": "https://www.chess.com/member/JulAnt",
+    "name": "Julia Antolak",
+    "username": "julant",
+    "title": "WGM",
+    "followers": 81,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Ko\u0142obrzeg",
+    "last_online": 1741016671,
+    "joined": 1388693811,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1598,
+            "date": 1711909818,
+            "rd": 201
+        },
+        "best": {
+            "rating": 1598,
+            "date": 1488016811,
+            "game": "https://www.chess.com/game/daily/139975998"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 55276,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2105,
+            "date": 1734038545,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2130,
+            "date": 1609780263,
+            "game": "https://www.chess.com/game/live/127775967891"
+        },
+        "record": {
+            "win": 13,
+            "loss": 7,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2523,
+            "date": 1736777305,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1736168944,
+            "game": "https://www.chess.com/game/live/102111931695"
+        },
+        "record": {
+            "win": 413,
+            "loss": 348,
+            "draw": 51
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2591,
+            "date": 1741118330,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1735066773,
+            "game": "https://www.chess.com/game/live/127788619297"
+        },
+        "record": {
+            "win": 5078,
+            "loss": 4955,
+            "draw": 1044
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3664,
+            "date": 1707940436
+        },
+        "lowest": {
+            "rating": 1339,
+            "date": 1415297173
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

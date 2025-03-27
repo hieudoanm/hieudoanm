@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26562594.3c73ac67.200x200o.cbd1010ba4e7.jpg",
+    "player_id": 26562594,
+    "@id": "https://api.chess.com/pub/player/hesham-a",
+    "url": "https://www.chess.com/member/Hesham-A",
+    "name": "Abdelrahman Hesham",
+    "username": "hesham-a",
+    "title": "GM",
+    "followers": 86,
+    "country": "https://api.chess.com/pub/country/EG",
+    "location": "cairo",
+    "last_online": 1734173949,
+    "joined": 1454799613,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 732,
+            "date": 1731964760,
+            "rd": 182
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1454799613,
+            "game": "https://www.chess.com/game/daily/707545547"
+        },
+        "record": {
+            "win": 13,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 4146,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1732039110,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2426,
+            "date": 1631187622,
+            "game": "https://www.chess.com/game/live/125777345105"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2604,
+            "date": 1734174118,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2624,
+            "date": 1733183348,
+            "game": "https://www.chess.com/game/live/127223461359"
+        },
+        "record": {
+            "win": 94,
+            "loss": 70,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2800,
+            "date": 1731263121,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2814,
+            "date": 1692641821,
+            "game": "https://www.chess.com/game/live/4726300793"
+        },
+        "record": {
+            "win": 364,
+            "loss": 267,
+            "draw": 45
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2223,
+            "date": 1613563246
+        },
+        "lowest": {
+            "rating": 2214,
+            "date": 1588156630
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

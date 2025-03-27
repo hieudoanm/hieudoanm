@@ -1,0 +1,56 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/382238795.219afaad.200x200o.2bd1250c8c92.jpg",
+    "player_id": 382238795,
+    "@id": "https://api.chess.com/pub/player/chess_zpx",
+    "url": "https://www.chess.com/member/chess_zpx",
+    "name": "Pengxiang Zhang",
+    "username": "chess_zpx",
+    "title": "GM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1734128315,
+    "joined": 1724180670,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2830,
+            "date": 1734130731,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2920,
+            "date": 1726814764,
+            "game": "https://www.chess.com/game/live/119517034761"
+        },
+        "record": {
+            "win": 89,
+            "loss": 66,
+            "draw": 16
+        }
+    },
+    "fide": 2567,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1724180670
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1724180670
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        },
+        "daily": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/91172612.c06553a6.200x200o.ffcc7036dc1b.jpeg",
+    "player_id": 91172612,
+    "@id": "https://api.chess.com/pub/player/leobispo83",
+    "url": "https://www.chess.com/member/LeoBispo83",
+    "name": "Leonardo Bispo",
+    "username": "leobispo83",
+    "title": "NM",
+    "followers": 271,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1737569219,
+    "joined": 1600039868,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2836,
+            "date": 1737504489
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1737504489,
+            "game": "https://www.chess.com/game/live/129593563599"
+        },
+        "record": {
+            "win": 11382,
+            "loss": 12952,
+            "draw": 1758
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2831,
+            "date": 1736639825,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2846,
+            "date": 1722548152,
+            "game": "https://www.chess.com/game/live/116285383573"
+        },
+        "record": {
+            "win": 1275,
+            "loss": 1348,
+            "draw": 293
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1600039868
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1600039868
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72283524.39752cf0.200x200o.9ce38b8da46f.jpeg",
+    "player_id": 72283524,
+    "@id": "https://api.chess.com/pub/player/problematique_99",
+    "url": "https://www.chess.com/member/Problematique_99",
+    "name": "Yamac Samani",
+    "username": "problematique_99",
+    "title": "FM",
+    "followers": 101,
+    "country": "https://api.chess.com/pub/country/CY",
+    "last_online": 1741100354,
+    "joined": 1581883062,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1736,
+            "date": 1732483929,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2307,
+            "date": 1610815375,
+            "game": "https://www.chess.com/game/live/4837139087"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2521,
+            "date": 1736979937,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2545,
+            "date": 1733599430,
+            "game": "https://www.chess.com/game/live/118091977687"
+        },
+        "record": {
+            "win": 197,
+            "loss": 190,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2639,
+            "date": 1735838968,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2693,
+            "date": 1722423750,
+            "game": "https://www.chess.com/game/live/78614571053"
+        },
+        "record": {
+            "win": 2466,
+            "loss": 2459,
+            "draw": 395
+        }
+    },
+    "fide": 2321,
+    "tactics": {
+        "highest": {
+            "rating": 3610,
+            "date": 1735663859
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1585573539
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

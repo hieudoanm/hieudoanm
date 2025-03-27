@@ -1,0 +1,68 @@
+{
+    "player_id": 69805370,
+    "@id": "https://api.chess.com/pub/player/stormtrooper90",
+    "url": "https://www.chess.com/member/Stormtrooper90",
+    "name": "Fernando Fernandez",
+    "username": "stormtrooper90",
+    "title": "IM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/PE",
+    "last_online": 1741495930,
+    "joined": 1577227274,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1938,
+            "date": 1645105587,
+            "rd": 239
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1644505405,
+            "game": "https://www.chess.com/game/live/38241878143"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2583,
+            "date": 1735718766,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2718,
+            "date": 1586729603,
+            "game": "https://www.chess.com/game/live/31274941105"
+        },
+        "record": {
+            "win": 511,
+            "loss": 492,
+            "draw": 109
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3014,
+            "date": 1735615047
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1577229101
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

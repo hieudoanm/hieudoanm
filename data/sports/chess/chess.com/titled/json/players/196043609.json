@@ -1,0 +1,67 @@
+{
+    "player_id": 196043609,
+    "@id": "https://api.chess.com/pub/player/fisher_thegalactic",
+    "url": "https://www.chess.com/member/Fisher_TheGalactic",
+    "name": "Roberto James",
+    "username": "fisher_thegalactic",
+    "title": "IM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/BO",
+    "last_online": 1741641331,
+    "joined": 1662399247,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2813,
+            "date": 1741645052,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1736605482,
+            "game": "https://www.chess.com/game/live/130303833073"
+        },
+        "record": {
+            "win": 255,
+            "loss": 262,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2749,
+            "date": 1741562819,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2796,
+            "date": 1721963345,
+            "game": "https://www.chess.com/game/live/115702097773"
+        },
+        "record": {
+            "win": 509,
+            "loss": 527,
+            "draw": 108
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2805,
+            "date": 1688762211
+        },
+        "lowest": {
+            "rating": 2800,
+            "date": 1673376700
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

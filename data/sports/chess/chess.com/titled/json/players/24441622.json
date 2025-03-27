@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24441622.22162884.200x200o.d68f16cb1daa.jpeg",
+    "player_id": 24441622,
+    "@id": "https://api.chess.com/pub/player/voicelessfeather",
+    "url": "https://www.chess.com/member/VoicelessFeather",
+    "name": "Zubin Baliga",
+    "username": "voicelessfeather",
+    "title": "NM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Charlotte",
+    "last_online": 1741632786,
+    "joined": 1444089537,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1733,
+            "date": 1739117862,
+            "rd": 300
+        },
+        "best": {
+            "rating": 1770,
+            "date": 1533582857,
+            "game": "https://www.chess.com/game/daily/197765508"
+        },
+        "record": {
+            "win": 10,
+            "loss": 6,
+            "draw": 1,
+            "time_per_move": 20910,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2089,
+            "date": 1736538151,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2089,
+            "date": 1736538151,
+            "game": "https://www.chess.com/game/live/130275101725"
+        },
+        "record": {
+            "win": 330,
+            "loss": 289,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2037,
+            "date": 1737144388,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2137,
+            "date": 1688512977,
+            "game": "https://www.chess.com/game/live/5545551561"
+        },
+        "record": {
+            "win": 6025,
+            "loss": 5829,
+            "draw": 257
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2204,
+            "date": 1739332806,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1736952381,
+            "game": "https://www.chess.com/game/live/30567049817"
+        },
+        "record": {
+            "win": 2179,
+            "loss": 1997,
+            "draw": 161
+        }
+    },
+    "fide": 2201,
+    "tactics": {
+        "highest": {
+            "rating": 3008,
+            "date": 1736866523
+        },
+        "lowest": {
+            "rating": 876,
+            "date": 1457904792
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

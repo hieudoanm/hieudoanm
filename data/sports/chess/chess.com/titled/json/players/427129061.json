@@ -1,0 +1,51 @@
+{
+    "player_id": 427129061,
+    "@id": "https://api.chess.com/pub/player/orassahh",
+    "url": "https://www.chess.com/member/Orassahh",
+    "name": "Orash Shonazarov",
+    "username": "orassahh",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741070655,
+    "joined": 1738911900,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2541,
+            "date": 1741071362,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2541,
+            "date": 1739607237,
+            "game": "https://www.chess.com/game/live/133033144291"
+        },
+        "record": {
+            "win": 40,
+            "loss": 14,
+            "draw": 3
+        }
+    },
+    "fide": 2278,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1738911900
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738911900
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

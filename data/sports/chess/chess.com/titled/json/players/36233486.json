@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36233486.cf4aba42.200x200o.3da1f94fb95c.jpeg",
+    "player_id": 36233486,
+    "@id": "https://api.chess.com/pub/player/thebigbadchessdad",
+    "url": "https://www.chess.com/member/TheBigBadChessDad",
+    "name": "Tansel Turgut",
+    "username": "thebigbadchessdad",
+    "title": "FM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Indiana",
+    "last_online": 1735106626,
+    "joined": 1497204773,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2040,
+            "date": 1730967497,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1531214840,
+            "game": "https://www.chess.com/game/live/2930618689"
+        },
+        "record": {
+            "win": 2398,
+            "loss": 2637,
+            "draw": 268
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2313,
+            "date": 1741599936,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1739714138,
+            "game": "https://www.chess.com/game/live/3476899505"
+        },
+        "record": {
+            "win": 11209,
+            "loss": 10038,
+            "draw": 2702
+        }
+    },
+    "fide": 2260,
+    "tactics": {
+        "highest": {
+            "rating": 2512,
+            "date": 1517759176
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1497204924
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

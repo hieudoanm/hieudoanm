@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79906676.9f25eaf6.200x200o.2af320ff4f8e.jpeg",
+    "player_id": 79906676,
+    "@id": "https://api.chess.com/pub/player/supergreentea",
+    "url": "https://www.chess.com/member/SuperGreenTea",
+    "username": "supergreentea",
+    "title": "IM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1739588627,
+    "joined": 1589851848,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2001,
+            "date": 1714044787,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1645012503,
+            "game": "https://www.chess.com/game/daily/383217087"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 40057,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2263,
+            "date": 1730293203,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2273,
+            "date": 1729948097,
+            "game": "https://www.chess.com/game/live/51801603617"
+        },
+        "record": {
+            "win": 43,
+            "loss": 21,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2488,
+            "date": 1737134479,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1703215426,
+            "game": "https://www.chess.com/game/live/96954052591"
+        },
+        "record": {
+            "win": 243,
+            "loss": 171,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2768,
+            "date": 1735837252,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2776,
+            "date": 1735345620,
+            "game": "https://www.chess.com/game/live/45328864637"
+        },
+        "record": {
+            "win": 210,
+            "loss": 130,
+            "draw": 21
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3700,
+            "date": 1657884763
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1590412042
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

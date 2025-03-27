@@ -1,0 +1,135 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57098804.474840c9.200x200o.b9d8f03ef543.jpeg",
+    "player_id": 57098804,
+    "@id": "https://api.chess.com/pub/player/seal_island_puffin",
+    "url": "https://www.chess.com/member/Seal_Island_Puffin",
+    "name": "Claudius Gottstein",
+    "username": "seal_island_puffin",
+    "title": "CM",
+    "followers": 81,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1741702147,
+    "joined": 1549633327,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2002,
+            "date": 1741702205,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1611136202,
+            "game": "https://www.chess.com/game/daily/288149852"
+        },
+        "record": {
+            "win": 918,
+            "loss": 42,
+            "draw": 91,
+            "time_per_move": 11856,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 190,
+            "withdraw": 3,
+            "count": 3,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1943,
+            "date": 1741694665,
+            "rd": 172
+        },
+        "best": {
+            "rating": 1943,
+            "date": 1741694664,
+            "game": "https://www.chess.com/game/daily/774408269"
+        },
+        "record": {
+            "win": 73,
+            "loss": 1,
+            "draw": 3,
+            "time_per_move": 11856,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 190,
+            "withdraw": 3,
+            "count": 3,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2166,
+            "date": 1735212270,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2182,
+            "date": 1677523272,
+            "game": "https://www.chess.com/game/live/120585017931"
+        },
+        "record": {
+            "win": 206,
+            "loss": 29,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1888,
+            "date": 1741703619,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2031,
+            "date": 1640176492,
+            "game": "https://www.chess.com/game/live/11288024801"
+        },
+        "record": {
+            "win": 2679,
+            "loss": 863,
+            "draw": 323
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2321,
+            "date": 1741370170,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1741105035,
+            "game": "https://www.chess.com/game/live/120929468219"
+        },
+        "record": {
+            "win": 2274,
+            "loss": 645,
+            "draw": 230
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2646,
+            "date": 1597173259
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1584971338
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

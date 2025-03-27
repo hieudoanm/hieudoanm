@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/305933187.6777cea3.200x200o.4186011eccdb.jpg",
+    "player_id": 305933187,
+    "@id": "https://api.chess.com/pub/player/alen_yeremyann",
+    "url": "https://www.chess.com/member/Alen_Yeremyann",
+    "name": "Alen Yeremyan",
+    "username": "alen_yeremyann",
+    "title": "FM",
+    "followers": 56,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Yerevan, Armenia",
+    "last_online": 1739029286,
+    "joined": 1692017401,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1622,
+            "date": 1693484476,
+            "rd": 251
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 10009,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2862,
+            "date": 1732204637,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3021,
+            "date": 1692092984,
+            "game": "https://www.chess.com/game/live/92254950005"
+        },
+        "record": {
+            "win": 231,
+            "loss": 147,
+            "draw": 30
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2789,
+            "date": 1739029620,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1725378912,
+            "game": "https://www.chess.com/game/live/91899669657"
+        },
+        "record": {
+            "win": 422,
+            "loss": 267,
+            "draw": 65
+        }
+    },
+    "fide": 2279,
+    "tactics": {
+        "highest": {
+            "rating": 3654,
+            "date": 1712668803
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1692017401
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/382887657.b9861da0.200x200o.a6a1193dde84.png",
+    "player_id": 382887657,
+    "@id": "https://api.chess.com/pub/player/gustifirmansyah99",
+    "url": "https://www.chess.com/member/Gustifirmansyah99",
+    "name": "Gusti Fred Firmansyah",
+    "username": "gustifirmansyah99",
+    "title": "NM",
+    "followers": 132,
+    "country": "https://api.chess.com/pub/country/ID",
+    "last_online": 1741689528,
+    "joined": 1724457929,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1821,
+            "date": 1741689396,
+            "rd": 168
+        },
+        "best": {
+            "rating": 1821,
+            "date": 1739325880,
+            "game": "https://www.chess.com/game/daily/696378543"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 16426,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2154,
+            "date": 1732066540,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2160,
+            "date": 1732011997,
+            "game": "https://www.chess.com/game/live/125750309371"
+        },
+        "record": {
+            "win": 26,
+            "loss": 4,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2120,
+            "date": 1741489830,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2089,
+            "date": 1738924516,
+            "game": "https://www.chess.com/game/live/132657612397"
+        },
+        "record": {
+            "win": 83,
+            "loss": 71,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2311,
+            "date": 1741695355,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1727517029,
+            "game": "https://www.chess.com/game/live/124447159813"
+        },
+        "record": {
+            "win": 1118,
+            "loss": 615,
+            "draw": 145
+        }
+    },
+    "fide": 2062,
+    "tactics": {
+        "highest": {
+            "rating": 3491,
+            "date": 1735173246
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1724457929
+        }
+    },
+    "puzzle_rush": {}
+}

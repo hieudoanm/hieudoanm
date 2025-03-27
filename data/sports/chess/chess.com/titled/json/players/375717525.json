@@ -1,0 +1,33 @@
+{
+    "player_id": 375717525,
+    "@id": "https://api.chess.com/pub/player/ancarmaran",
+    "url": "https://www.chess.com/member/Ancarmaran",
+    "name": "Antonio Antunes",
+    "username": "ancarmaran",
+    "title": "GM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/PT",
+    "last_online": 1733997066,
+    "joined": 1721155873,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2496,
+    "tactics": {
+        "highest": {
+            "rating": 3661,
+            "date": 1729262209
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1721155873
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 24,
+            "score": 23
+        }
+    }
+}

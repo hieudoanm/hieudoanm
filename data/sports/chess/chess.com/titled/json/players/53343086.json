@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/53343086.a29268f9.200x200o.352b5ce56308.jpeg",
+    "player_id": 53343086,
+    "@id": "https://api.chess.com/pub/player/carlosalbornoz",
+    "url": "https://www.chess.com/member/CarlosAlbornoz",
+    "name": "Carlos Daniel Albornoz Cabrera",
+    "username": "carlosalbornoz",
+    "title": "GM",
+    "followers": 131,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "Camag\u00fcey",
+    "last_online": 1733844914,
+    "joined": 1545000059,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2468,
+            "date": 1701635985,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2558,
+            "date": 1608081199,
+            "game": "https://www.chess.com/game/live/5820856267"
+        },
+        "record": {
+            "win": 34,
+            "loss": 13,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2778,
+            "date": 1721509569,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2814,
+            "date": 1701282763,
+            "game": "https://www.chess.com/game/live/24628846297"
+        },
+        "record": {
+            "win": 283,
+            "loss": 157,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2821,
+            "date": 1733850391,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2945,
+            "date": 1639510251,
+            "game": "https://www.chess.com/game/live/71966661245"
+        },
+        "record": {
+            "win": 538,
+            "loss": 295,
+            "draw": 103
+        }
+    },
+    "fide": 2573,
+    "tactics": {
+        "highest": {
+            "rating": 3392,
+            "date": 1576298199
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1566437855
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

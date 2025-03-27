@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64730516.d7e62648.200x200o.77739c8717c0.jpeg",
+    "player_id": 64730516,
+    "@id": "https://api.chess.com/pub/player/mohssenbinaddi",
+    "url": "https://www.chess.com/member/mohssenbinaddi",
+    "name": "GO A HEAD",
+    "username": "mohssenbinaddi",
+    "title": "CM",
+    "followers": 613,
+    "country": "https://api.chess.com/pub/country/MA",
+    "last_online": 1741388479,
+    "joined": 1566823262,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2213,
+            "date": 1731871627,
+            "rd": 203
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1728343869,
+            "game": "https://www.chess.com/game/daily/701675491"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 4627,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2251,
+            "date": 1719187816,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2390,
+            "date": 1629469887,
+            "game": "https://www.chess.com/game/live/23208636527"
+        },
+        "record": {
+            "win": 11,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2027,
+            "date": 1739983439,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2114,
+            "date": 1605435399,
+            "game": "https://www.chess.com/game/live/96331413779"
+        },
+        "record": {
+            "win": 344,
+            "loss": 370,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2165,
+            "date": 1741695592,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1605966264,
+            "game": "https://www.chess.com/game/live/71361297621"
+        },
+        "record": {
+            "win": 14746,
+            "loss": 16853,
+            "draw": 1472
+        }
+    },
+    "fide": 2114,
+    "tactics": {
+        "highest": {
+            "rating": 3090,
+            "date": 1716073520
+        },
+        "lowest": {
+            "rating": 2089,
+            "date": 1576185746
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 28
+        }
+    }
+}

@@ -1,0 +1,13 @@
+services:
+  mongodb:
+    image: mongo:8
+    hostname: mongo
+    container_name: mongo
+    restart: always
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongodbdata:/data/db
+
+volumes:
+  mongodbdata:

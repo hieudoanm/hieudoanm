@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37211406.77ee2dac.200x200o.47013e3dd105.jpeg",
+    "player_id": 37211406,
+    "@id": "https://api.chess.com/pub/player/loyalclone",
+    "url": "https://www.chess.com/member/LoyalClone",
+    "username": "loyalclone",
+    "title": "NM",
+    "followers": 74,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1740796828,
+    "joined": 1500692392,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2539,
+            "date": 1717880591,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1629653598,
+            "game": "https://www.chess.com/game/live/27640208503"
+        },
+        "record": {
+            "win": 53,
+            "loss": 7,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2360,
+            "date": 1736630093,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2519,
+            "date": 1736213744,
+            "game": "https://www.chess.com/game/live/103399957171"
+        },
+        "record": {
+            "win": 245,
+            "loss": 311,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2297,
+            "date": 1736819486,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1534860607,
+            "game": "https://www.chess.com/game/live/18470999865"
+        },
+        "record": {
+            "win": 488,
+            "loss": 463,
+            "draw": 81
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3252,
+            "date": 1710972887
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1538752480
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86688490.3ba16fb4.200x200o.d29d292292a5.jpeg",
+    "player_id": 86688490,
+    "@id": "https://api.chess.com/pub/player/akewjon",
+    "url": "https://www.chess.com/member/Akewjon",
+    "name": "Saidakbar Saydaliev",
+    "username": "akewjon",
+    "title": "IM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "location": "Tashkent",
+    "last_online": 1741695621,
+    "joined": 1594745648,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2314,
+            "date": 1739733502,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2474,
+            "date": 1642220386,
+            "game": "https://www.chess.com/game/live/36532850981"
+        },
+        "record": {
+            "win": 217,
+            "loss": 36,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2723,
+            "date": 1707411124,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2797,
+            "date": 1639827299,
+            "game": "https://www.chess.com/game/live/60285031041"
+        },
+        "record": {
+            "win": 1174,
+            "loss": 308,
+            "draw": 81
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2885,
+            "date": 1741111638,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2922,
+            "date": 1736268996,
+            "game": "https://www.chess.com/game/live/130612280645"
+        },
+        "record": {
+            "win": 1860,
+            "loss": 563,
+            "draw": 216
+        }
+    },
+    "fide": 2473,
+    "tactics": {
+        "highest": {
+            "rating": 3648,
+            "date": 1727677158
+        },
+        "lowest": {
+            "rating": 2211,
+            "date": 1612767732
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

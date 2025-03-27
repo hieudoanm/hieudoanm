@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/251891049.70b40010.200x200o.feb55f96bfe1.png",
+    "player_id": 251891049,
+    "@id": "https://api.chess.com/pub/player/time2win777",
+    "url": "https://www.chess.com/member/Time2Win777",
+    "username": "time2win777",
+    "title": "NM",
+    "followers": 134,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741506103,
+    "joined": 1677221936,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1268,
+            "date": 1741703384,
+            "rd": 184
+        },
+        "best": {
+            "rating": 1666,
+            "date": 1739038733,
+            "game": "https://www.chess.com/game/daily/771399809"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 24680,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2007,
+            "date": 1713820785,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2026,
+            "date": 1702369773,
+            "game": "https://www.chess.com/game/live/85475344347"
+        },
+        "record": {
+            "win": 171,
+            "loss": 129,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1332,
+            "date": 1741674342,
+            "rd": 31
+        },
+        "best": {
+            "rating": 1875,
+            "date": 1677248795,
+            "game": "https://www.chess.com/game/live/88152023161"
+        },
+        "record": {
+            "win": 617,
+            "loss": 748,
+            "draw": 60
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2840,
+            "date": 1729889602
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1677221936
+        }
+    },
+    "puzzle_rush": {}
+}

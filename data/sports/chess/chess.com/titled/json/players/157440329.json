@@ -1,0 +1,46 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/157440329.5a7d3617.200x200o.e72d8642a1e2.jpeg",
+    "player_id": 157440329,
+    "@id": "https://api.chess.com/pub/player/aoitsukibluemoon",
+    "url": "https://www.chess.com/member/Aoitsukibluemoon",
+    "name": "Wang Hao",
+    "username": "aoitsukibluemoon",
+    "title": "GM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1734185327,
+    "joined": 1633758581,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2689,
+            "date": 1709786863,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2788,
+            "date": 1634051941,
+            "game": "https://www.chess.com/game/live/57151617043"
+        },
+        "record": {
+            "win": 10,
+            "loss": 5,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1633758581
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1633758581
+        }
+    },
+    "puzzle_rush": {}
+}

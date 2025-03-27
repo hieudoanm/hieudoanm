@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52031180.44f1fd61.200x200o.9cb2db4ec64d.jpeg",
+    "player_id": 52031180,
+    "@id": "https://api.chess.com/pub/player/sprinc1",
+    "url": "https://www.chess.com/member/Sprinc1",
+    "name": "Gustav Brejnik",
+    "username": "sprinc1",
+    "title": "FM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/CW",
+    "last_online": 1741631868,
+    "joined": 1542571345,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2119,
+            "date": 1741596433,
+            "rd": 231
+        },
+        "best": {
+            "rating": 2119,
+            "date": 1741349793,
+            "game": "https://www.chess.com/game/daily/217796044"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8109,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2351,
+            "date": 1733158736,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1684970303,
+            "game": "https://www.chess.com/game/live/6246433037"
+        },
+        "record": {
+            "win": 25,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2554,
+            "date": 1741294517,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1708468344,
+            "game": "https://www.chess.com/game/live/102207259795"
+        },
+        "record": {
+            "win": 181,
+            "loss": 126,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2400,
+            "date": 1741370495,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1654712850,
+            "game": "https://www.chess.com/game/live/115485589431"
+        },
+        "record": {
+            "win": 807,
+            "loss": 640,
+            "draw": 126
+        }
+    },
+    "fide": 2306,
+    "tactics": {
+        "highest": {
+            "rating": 3313,
+            "date": 1731866168
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1542612936
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

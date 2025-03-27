@@ -1,0 +1,84 @@
+{
+    "player_id": 176410755,
+    "@id": "https://api.chess.com/pub/player/rupeshreddyy",
+    "url": "https://www.chess.com/member/RupeshReddyY",
+    "username": "rupeshreddyy",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741616647,
+    "joined": 1647142003,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2238,
+            "date": 1732439362,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1732439064,
+            "game": "https://www.chess.com/game/live/122121537797"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2438,
+            "date": 1737383108,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2446,
+            "date": 1733135532,
+            "game": "https://www.chess.com/game/live/126136771683"
+        },
+        "record": {
+            "win": 92,
+            "loss": 69,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2430,
+            "date": 1739923053,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1729939177,
+            "game": "https://www.chess.com/game/live/131821850691"
+        },
+        "record": {
+            "win": 126,
+            "loss": 141,
+            "draw": 26
+        }
+    },
+    "fide": 2151,
+    "tactics": {
+        "highest": {
+            "rating": 3538,
+            "date": 1729250813
+        },
+        "lowest": {
+            "rating": 1005,
+            "date": 1647262670
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/400661197.34d99406.200x200o.c850ea949341.jpg",
+    "player_id": 400661197,
+    "@id": "https://api.chess.com/pub/player/batchuluun_tsegmed",
+    "url": "https://www.chess.com/member/Batchuluun_Tsegmed",
+    "name": "Tsegmed Batchuluun",
+    "username": "batchuluun_tsegmed",
+    "title": "GM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/MN",
+    "location": "Ulaanbaatar",
+    "last_online": 1734115114,
+    "joined": 1730839252,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2395,
+            "date": 1733287185,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2571,
+            "date": 1734034671,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2635,
+            "date": 1732259731,
+            "game": "https://www.chess.com/game/live/126935971315"
+        },
+        "record": {
+            "win": 68,
+            "loss": 89,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2614,
+            "date": 1732426012,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2636,
+            "date": 1731828476,
+            "game": "https://www.chess.com/game/live/125737691987"
+        },
+        "record": {
+            "win": 50,
+            "loss": 23,
+            "draw": 9
+        }
+    },
+    "fide": 2452,
+    "tactics": {
+        "highest": {
+            "rating": 3496,
+            "date": 1732083839
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1730839252
+        }
+    },
+    "puzzle_rush": {}
+}

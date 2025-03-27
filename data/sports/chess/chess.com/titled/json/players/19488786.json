@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19488786.a2117376.200x200o.c14ae85ab85c.jpeg",
+    "player_id": 19488786,
+    "@id": "https://api.chess.com/pub/player/jncool68",
+    "url": "https://www.chess.com/member/jncool68",
+    "name": "Jean-Noel Riff",
+    "username": "jncool68",
+    "title": "GM",
+    "followers": 439,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Mulhouse",
+    "last_online": 1741702073,
+    "joined": 1414522470,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2279,
+            "date": 1616604711,
+            "rd": 165
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1520456217,
+            "game": "https://www.chess.com/game/live/4925454591"
+        },
+        "record": {
+            "win": 6,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2792,
+            "date": 1719932437,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2789,
+            "date": 1719921446,
+            "game": "https://www.chess.com/game/live/112971615109"
+        },
+        "record": {
+            "win": 306,
+            "loss": 202,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2727,
+            "date": 1741688931,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2855,
+            "date": 1706879909,
+            "game": "https://www.chess.com/game/live/117122392187"
+        },
+        "record": {
+            "win": 7791,
+            "loss": 5533,
+            "draw": 1532
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3545,
+            "date": 1741213537
+        },
+        "lowest": {
+            "rating": 1365,
+            "date": 1459868637
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 42
+        }
+    }
+}

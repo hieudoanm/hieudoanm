@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14497878.cee312c2.200x200o.5c34df2aa07d.jpeg",
+    "player_id": 14497878,
+    "@id": "https://api.chess.com/pub/player/maudsjakkerdeg",
+    "url": "https://www.chess.com/member/maudsjakkerdeg",
+    "name": "Maud Rodsmoen",
+    "username": "maudsjakkerdeg",
+    "title": "WFM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/NO",
+    "location": "norge",
+    "last_online": 1741693494,
+    "joined": 1384870331,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1643,
+            "date": 1630493016,
+            "rd": 149
+        },
+        "best": {
+            "rating": 1657,
+            "date": 1511713983,
+            "game": "https://www.chess.com/game/daily/180795674"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 14416,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1476,
+            "date": 1630766374,
+            "rd": 188
+        },
+        "best": {
+            "rating": 1570,
+            "date": 1384876229,
+            "game": "https://www.chess.com/game/live/4707051864"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1459,
+            "date": 1707738062,
+            "rd": 75
+        },
+        "best": {
+            "rating": 1949,
+            "date": 1542561846,
+            "game": "https://www.chess.com/game/live/2103958991"
+        },
+        "record": {
+            "win": 502,
+            "loss": 437,
+            "draw": 51
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1853,
+            "date": 1727705923,
+            "rd": 244
+        },
+        "best": {
+            "rating": 1980,
+            "date": 1499376911,
+            "game": "https://www.chess.com/game/live/2194907139"
+        },
+        "record": {
+            "win": 281,
+            "loss": 196,
+            "draw": 27
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1830,
+            "date": 1486144516
+        },
+        "lowest": {
+            "rating": 1232,
+            "date": 1447860187
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 28
+        }
+    }
+}

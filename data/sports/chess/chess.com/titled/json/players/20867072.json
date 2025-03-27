@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20867072.bc13dbe7.200x200o.ef73872e3377.jpeg",
+    "player_id": 20867072,
+    "@id": "https://api.chess.com/pub/player/melihkaancan",
+    "url": "https://www.chess.com/member/MelihKaanCan",
+    "name": "Melih Kaan Can",
+    "username": "melihkaancan",
+    "title": "NM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "Istanbul",
+    "last_online": 1741703337,
+    "joined": 1422653945,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1980,
+            "date": 1692361641,
+            "rd": 136
+        },
+        "best": {
+            "rating": 2082,
+            "date": 1590510094,
+            "game": "https://www.chess.com/game/live/4906560209"
+        },
+        "record": {
+            "win": 4,
+            "loss": 4,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2530,
+            "date": 1726175542,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2667,
+            "date": 1694280140,
+            "game": "https://www.chess.com/game/live/88018129777"
+        },
+        "record": {
+            "win": 178,
+            "loss": 143,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2448,
+            "date": 1741104405,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1653429861,
+            "game": "https://www.chess.com/game/live/130005629979"
+        },
+        "record": {
+            "win": 610,
+            "loss": 492,
+            "draw": 88
+        }
+    },
+    "fide": 2170,
+    "tactics": {
+        "highest": {
+            "rating": 3456,
+            "date": 1723131319
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1530454859
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 51
+        }
+    }
+}

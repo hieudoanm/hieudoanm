@@ -1,0 +1,84 @@
+{
+    "player_id": 77555900,
+    "@id": "https://api.chess.com/pub/player/flucie",
+    "url": "https://www.chess.com/member/Flucie",
+    "name": "Lucie Fizerova",
+    "username": "flucie",
+    "title": "WFM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741695743,
+    "joined": 1587633277,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2100,
+            "date": 1735526311,
+            "rd": 200
+        },
+        "best": {
+            "rating": 1334,
+            "date": 1589907533,
+            "game": "https://www.chess.com/game/live/4879004820"
+        },
+        "record": {
+            "win": 2,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2100,
+            "date": 1735526311,
+            "rd": 231
+        },
+        "best": {
+            "rating": 1383,
+            "date": 1604862545,
+            "game": "https://www.chess.com/game/live/5709021030"
+        },
+        "record": {
+            "win": 1,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2132,
+            "date": 1738688888,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2199,
+            "date": 1738685920,
+            "game": "https://www.chess.com/game/live/132424291683"
+        },
+        "record": {
+            "win": 7,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1220,
+            "date": 1691597321
+        },
+        "lowest": {
+            "rating": 1016,
+            "date": 1588680373
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

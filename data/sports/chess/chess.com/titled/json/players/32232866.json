@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32232866.e7c2b5de.200x200o.2d8d4e185220.jpeg",
+    "player_id": 32232866,
+    "@id": "https://api.chess.com/pub/player/ninhvo",
+    "url": "https://www.chess.com/member/ninhvo",
+    "name": "Thanh Ninh Vo",
+    "username": "ninhvo",
+    "title": "IM",
+    "followers": 67,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1740984392,
+    "joined": 1483878019,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1114,
+            "date": 1733218124,
+            "rd": 186
+        },
+        "best": {
+            "rating": 1114,
+            "date": 1701596377,
+            "game": "https://www.chess.com/game/daily/574927447"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 152848,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2297,
+            "date": 1711281578,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1586595509,
+            "game": "https://www.chess.com/game/live/14201568773"
+        },
+        "record": {
+            "win": 25,
+            "loss": 6,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2627,
+            "date": 1726387528,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2679,
+            "date": 1690769730,
+            "game": "https://www.chess.com/game/live/60232782829"
+        },
+        "record": {
+            "win": 566,
+            "loss": 270,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2788,
+            "date": 1739253069,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2903,
+            "date": 1726488304,
+            "game": "https://www.chess.com/game/live/85293116451"
+        },
+        "record": {
+            "win": 1757,
+            "loss": 1344,
+            "draw": 273
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3431,
+            "date": 1736775282
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1563090086
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

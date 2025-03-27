@@ -1,0 +1,61 @@
+{
+    "player_id": 220343437,
+    "@id": "https://api.chess.com/pub/player/matthew_simmons",
+    "url": "https://www.chess.com/member/matthew_simmons",
+    "name": "Matthew Simmons",
+    "username": "matthew_simmons",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1738102113,
+    "joined": 1672870291,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2054,
+            "date": 1738006311
+        },
+        "best": {
+            "rating": 1617,
+            "date": 1672871328,
+            "game": "https://www.chess.com/game/live/66609221935"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2054,
+            "date": 1737671694
+        },
+        "best": {
+            "rating": 1788,
+            "date": 1737664165,
+            "game": "https://www.chess.com/game/live/131013001803"
+        },
+        "record": {
+            "win": 16,
+            "loss": 12,
+            "draw": 1
+        }
+    },
+    "fide": 2054,
+    "tactics": {
+        "highest": {
+            "rating": 2583,
+            "date": 1740952319
+        },
+        "lowest": {
+            "rating": 985,
+            "date": 1674161865
+        }
+    },
+    "puzzle_rush": {}
+}

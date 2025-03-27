@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20838300.b18c18a5.200x200o.0d197667892f.jpeg",
+    "player_id": 20838300,
+    "@id": "https://api.chess.com/pub/player/paparovgr",
+    "url": "https://www.chess.com/member/PaparovGR",
+    "name": "Grapsa Grapsa",
+    "username": "paparovgr",
+    "title": "WFM",
+    "followers": 83,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Brighton",
+    "last_online": 1740937822,
+    "joined": 1422481520,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2454,
+            "date": 1723198327,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2454,
+            "date": 1723198327,
+            "game": "https://www.chess.com/game/live/116935822951"
+        },
+        "record": {
+            "win": 156,
+            "loss": 94,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2360,
+            "date": 1740528255,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1723731758,
+            "game": "https://www.chess.com/game/live/125188189315"
+        },
+        "record": {
+            "win": 219,
+            "loss": 179,
+            "draw": 18
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2431,
+            "date": 1558933314
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1558319334
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 39
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45893698.59d9182c.200x200o.ece402a8c726.jpg",
+    "player_id": 45893698,
+    "@id": "https://api.chess.com/pub/player/hunterbrr",
+    "url": "https://www.chess.com/member/HunterBRR",
+    "name": "Ronan Cunha Freitas",
+    "username": "hunterbrr",
+    "title": "NM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741046356,
+    "joined": 1525453069,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1192,
+            "date": 1741622949,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1623,
+            "date": 1709040575,
+            "game": "https://www.chess.com/game/daily/614579151"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 56016,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1726579002,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1623282592,
+            "game": "https://www.chess.com/game/live/119921979955"
+        },
+        "record": {
+            "win": 19,
+            "loss": 12,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2152,
+            "date": 1741656479,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1727042828,
+            "game": "https://www.chess.com/game/live/120711006351"
+        },
+        "record": {
+            "win": 266,
+            "loss": 279,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2318,
+            "date": 1741491518,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2527,
+            "date": 1727127036,
+            "game": "https://www.chess.com/game/live/121528192095"
+        },
+        "record": {
+            "win": 751,
+            "loss": 758,
+            "draw": 103
+        }
+    },
+    "fide": 2000,
+    "tactics": {
+        "highest": {
+            "rating": 3343,
+            "date": 1735190179
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1525469165
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

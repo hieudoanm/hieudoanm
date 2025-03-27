@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7372441.b5cd7965.200x200o.6c50cbcb5e79.png",
+    "player_id": 7372441,
+    "@id": "https://api.chess.com/pub/player/nemo_nobody",
+    "url": "https://www.chess.com/member/Nemo_Nobody",
+    "name": "Riste Menkinoski",
+    "username": "nemo_nobody",
+    "title": "FM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/TH",
+    "location": "Bangkok",
+    "last_online": 1741336643,
+    "joined": 1335109610,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1606,
+            "date": 1682624293,
+            "rd": 149
+        },
+        "best": {
+            "rating": 1741,
+            "date": 1476867401,
+            "game": "https://www.chess.com/game/daily/74715620"
+        },
+        "record": {
+            "win": 34,
+            "loss": 4,
+            "draw": 2,
+            "time_per_move": 31710,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1588,
+            "date": 1509894707,
+            "rd": 217
+        },
+        "best": {
+            "rating": 1588,
+            "date": 1509894707,
+            "game": "https://www.chess.com/game/daily/168069746"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 31710,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2211,
+            "date": 1632461623,
+            "rd": 170
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1632460823,
+            "game": "https://www.chess.com/game/live/26198978675"
+        },
+        "record": {
+            "win": 20,
+            "loss": 12,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2177,
+            "date": 1704640530,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2468,
+            "date": 1501234066,
+            "game": "https://www.chess.com/game/live/57481674917"
+        },
+        "record": {
+            "win": 1441,
+            "loss": 1312,
+            "draw": 129
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2438,
+            "date": 1739904143,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2458,
+            "date": 1619694947,
+            "game": "https://www.chess.com/game/live/13432384749"
+        },
+        "record": {
+            "win": 2100,
+            "loss": 1747,
+            "draw": 273
+        }
+    },
+    "fide": 2306,
+    "tactics": {
+        "highest": {
+            "rating": 1745,
+            "date": 1578057972
+        },
+        "lowest": {
+            "rating": 1274,
+            "date": 1341352949
+        }
+    },
+    "puzzle_rush": {}
+}

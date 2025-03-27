@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/264257609.f377211f.200x200o.b6427006f01a.jpg",
+    "player_id": 264257609,
+    "@id": "https://api.chess.com/pub/player/arpita_chess",
+    "url": "https://www.chess.com/member/arpita_chess",
+    "name": "Arpita Mukherjee",
+    "username": "arpita_chess",
+    "title": "WIM",
+    "followers": 78,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Kolkata",
+    "last_online": 1737034449,
+    "joined": 1679325785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2441,
+            "date": 1727332329,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2485,
+            "date": 1714559439,
+            "game": "https://www.chess.com/game/live/120732637295"
+        },
+        "record": {
+            "win": 118,
+            "loss": 104,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2511,
+            "date": 1715757237,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1681831701,
+            "game": "https://www.chess.com/game/live/75306670419"
+        },
+        "record": {
+            "win": 113,
+            "loss": 89,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3444,
+            "date": 1727333158
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1679325785
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45330182.09a5657e.200x200o.41d22894c266.jpeg",
+    "player_id": 45330182,
+    "@id": "https://api.chess.com/pub/player/szazados1",
+    "url": "https://www.chess.com/member/Szazados1",
+    "name": "Peter Pap",
+    "username": "szazados1",
+    "title": "CM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Kiskunhalas",
+    "last_online": 1741495143,
+    "joined": 1523820787,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2386,
+            "date": 1740571983,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2549,
+            "date": 1607784427,
+            "game": "https://www.chess.com/game/live/98309064135"
+        },
+        "record": {
+            "win": 143,
+            "loss": 65,
+            "draw": 31
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2023,
+            "date": 1741613891,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2201,
+            "date": 1665343428,
+            "game": "https://www.chess.com/game/live/4615617500"
+        },
+        "record": {
+            "win": 3215,
+            "loss": 2903,
+            "draw": 195
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2255,
+            "date": 1741552155,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2382,
+            "date": 1731875836,
+            "game": "https://www.chess.com/game/live/131214679567"
+        },
+        "record": {
+            "win": 1988,
+            "loss": 1641,
+            "draw": 188
+        }
+    },
+    "fide": 2174,
+    "tactics": {
+        "highest": {
+            "rating": 3300,
+            "date": 1704576442
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1524260360
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

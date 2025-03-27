@@ -1,0 +1,104 @@
+{
+    "player_id": 30084784,
+    "@id": "https://api.chess.com/pub/player/sconko",
+    "url": "https://www.chess.com/member/Sconko",
+    "name": "Siddhant Gaikwad",
+    "username": "sconko",
+    "title": "FM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "in",
+    "last_online": 1741691934,
+    "joined": 1474736227,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1167,
+            "date": 1717426047,
+            "rd": 217
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1474736227,
+            "game": "https://www.chess.com/game/daily/196244218"
+        },
+        "record": {
+            "win": 2,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 26856,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2126,
+            "date": 1691229244,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1681147583,
+            "game": "https://www.chess.com/game/live/34005687665"
+        },
+        "record": {
+            "win": 77,
+            "loss": 22,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2125,
+            "date": 1731262361,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2234,
+            "date": 1639106404,
+            "game": "https://www.chess.com/game/live/74780556071"
+        },
+        "record": {
+            "win": 1022,
+            "loss": 1002,
+            "draw": 49
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2344,
+            "date": 1739695471,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2392,
+            "date": 1718994627,
+            "game": "https://www.chess.com/game/live/115507172163"
+        },
+        "record": {
+            "win": 224,
+            "loss": 112,
+            "draw": 17
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3508,
+            "date": 1740581616
+        },
+        "lowest": {
+            "rating": 1007,
+            "date": 1476900435
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

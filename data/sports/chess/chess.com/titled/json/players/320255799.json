@@ -1,0 +1,83 @@
+{
+    "player_id": 320255799,
+    "@id": "https://api.chess.com/pub/player/spicyprime",
+    "url": "https://www.chess.com/member/spicyprime",
+    "username": "spicyprime",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741651450,
+    "joined": 1697601073,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1728302475,
+            "rd": 203
+        },
+        "best": {
+            "rating": 1858,
+            "date": 1697602800,
+            "game": "https://www.chess.com/game/live/91340974337"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2462,
+            "date": 1737859939,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2462,
+            "date": 1737859939,
+            "game": "https://www.chess.com/game/live/128733777485"
+        },
+        "record": {
+            "win": 23,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2513,
+            "date": 1741653459,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1738799569,
+            "game": "https://www.chess.com/game/live/129517346713"
+        },
+        "record": {
+            "win": 488,
+            "loss": 298,
+            "draw": 64
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2714,
+            "date": 1741371317
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1697601073
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

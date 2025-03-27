@@ -1,0 +1,79 @@
+{
+    "player_id": 184747525,
+    "@id": "https://api.chess.com/pub/player/oh_no_my_queen9",
+    "url": "https://www.chess.com/member/Oh_no_my_Queen9",
+    "name": "Christos Dogias",
+    "username": "oh_no_my_queen9",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1739222256,
+    "joined": 1653418434,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2297,
+            "date": 1707472685
+        },
+        "best": {
+            "rating": 1928,
+            "date": 1683464984,
+            "game": "https://www.chess.com/game/live/77199826369"
+        },
+        "record": {
+            "win": 31,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2334,
+            "date": 1737223699,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2334,
+            "date": 1737223699,
+            "game": "https://www.chess.com/game/live/130961979819"
+        },
+        "record": {
+            "win": 63,
+            "loss": 30,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2330,
+            "date": 1737924470,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1737142360,
+            "game": "https://www.chess.com/game/live/130500013437"
+        },
+        "record": {
+            "win": 101,
+            "loss": 47,
+            "draw": 7
+        }
+    },
+    "fide": 2297,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1653418434
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1653418434
+        }
+    },
+    "puzzle_rush": {}
+}

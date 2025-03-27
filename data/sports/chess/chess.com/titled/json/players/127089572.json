@@ -1,0 +1,27 @@
+{
+    "player_id": 127089572,
+    "@id": "https://api.chess.com/pub/player/adhararr5",
+    "url": "https://www.chess.com/member/adhararr5",
+    "username": "adhararr5",
+    "title": "WFM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1729779355,
+    "joined": 1615377850,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1615377850
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1615377850
+        }
+    },
+    "puzzle_rush": {}
+}

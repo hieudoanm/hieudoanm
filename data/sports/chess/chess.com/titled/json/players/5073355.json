@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5073355.b47110fc.200x200o.bd0542d93514.jpeg",
+    "player_id": 5073355,
+    "@id": "https://api.chess.com/pub/player/babaloka",
+    "url": "https://www.chess.com/member/babaloka",
+    "name": "Waseem Akram",
+    "username": "babaloka",
+    "title": "CM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/PK",
+    "location": "lhr",
+    "last_online": 1739645985,
+    "joined": 1304439996,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1035,
+            "date": 1630149610,
+            "rd": 204
+        },
+        "best": {
+            "rating": 1260,
+            "date": 1630149113,
+            "game": "https://www.chess.com/game/live/23888248761"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2680,
+            "date": 1673821156,
+            "rd": 227
+        },
+        "best": {
+            "rating": 2680,
+            "date": 1673821156,
+            "game": "https://www.chess.com/game/live/1250580160"
+        },
+        "record": {
+            "win": 2136,
+            "loss": 1774,
+            "draw": 132
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2156,
+            "date": 1681500707,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1673825999,
+            "game": "https://www.chess.com/game/live/67564295297"
+        },
+        "record": {
+            "win": 22,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1304439996
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1304439996
+        }
+    },
+    "puzzle_rush": {}
+}

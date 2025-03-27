@@ -1,0 +1,68 @@
+{
+    "player_id": 193822935,
+    "@id": "https://api.chess.com/pub/player/anupamagokhale",
+    "url": "https://www.chess.com/member/AnupamaGokhale",
+    "name": "Anupama Gokhale",
+    "username": "anupamagokhale",
+    "title": "WIM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741697806,
+    "joined": 1660819274,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2137,
+            "date": 1713158529,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2170,
+            "date": 1671160615,
+            "game": "https://www.chess.com/game/live/85727431139"
+        },
+        "record": {
+            "win": 62,
+            "loss": 33,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1915,
+            "date": 1661325625,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2060,
+            "date": 1661224240,
+            "game": "https://www.chess.com/game/live/54962745271"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3250,
+            "date": 1740228196
+        },
+        "lowest": {
+            "rating": 2005,
+            "date": 1661061342
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 24
+        }
+    }
+}

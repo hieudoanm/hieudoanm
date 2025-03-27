@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52897514.bafc27e4.200x200o.87ad50d26944.jpeg",
+    "player_id": 52897514,
+    "@id": "https://api.chess.com/pub/player/formerprodigy",
+    "url": "https://www.chess.com/member/FormerProdigy",
+    "name": "David Navara",
+    "username": "formerprodigy",
+    "title": "GM",
+    "followers": 928,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "location": "Prague",
+    "last_online": 1734164130,
+    "joined": 1544155176,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2563,
+            "date": 1734101728,
+            "rd": 115
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1734040870,
+            "game": "https://www.chess.com/game/daily/548484793"
+        },
+        "record": {
+            "win": 21,
+            "loss": 0,
+            "draw": 11,
+            "time_per_move": 6475,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2546,
+            "date": 1707199477,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2558,
+            "date": 1697484804,
+            "game": "https://www.chess.com/game/daily/448677555"
+        },
+        "record": {
+            "win": 17,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 6475,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2669,
+            "date": 1727623812,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2943,
+            "date": 1631119109,
+            "game": "https://www.chess.com/game/live/24855760175"
+        },
+        "record": {
+            "win": 93,
+            "loss": 28,
+            "draw": 44
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2831,
+            "date": 1722001286,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3044,
+            "date": 1622535814,
+            "game": "https://www.chess.com/game/live/115658387491"
+        },
+        "record": {
+            "win": 42,
+            "loss": 16,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2937,
+            "date": 1733240240,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3049,
+            "date": 1707189499,
+            "game": "https://www.chess.com/game/live/5720912364"
+        },
+        "record": {
+            "win": 818,
+            "loss": 365,
+            "draw": 181
+        }
+    },
+    "fide": 2667,
+    "tactics": {
+        "highest": {
+            "rating": 3753,
+            "date": 1727620589
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1544155201
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

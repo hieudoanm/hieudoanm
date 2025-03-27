@@ -1,0 +1,86 @@
+{
+    "player_id": 22684732,
+    "@id": "https://api.chess.com/pub/player/mendel84",
+    "url": "https://www.chess.com/member/Mendel84",
+    "username": "mendel84",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1733341556,
+    "joined": 1433454450,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1425,
+            "date": 1612474164,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1425,
+            "date": 1434466733,
+            "game": "https://www.chess.com/game/daily/112694618"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 29470,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2247,
+            "date": 1682773003,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1627076404,
+            "game": "https://www.chess.com/game/live/76512012293"
+        },
+        "record": {
+            "win": 20,
+            "loss": 16,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2608,
+            "date": 1681753316,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2558,
+            "date": 1681648961,
+            "game": "https://www.chess.com/game/live/9384944269"
+        },
+        "record": {
+            "win": 952,
+            "loss": 780,
+            "draw": 78
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3506,
+            "date": 1683975984
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1539369665
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

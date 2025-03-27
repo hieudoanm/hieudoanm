@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8592862.b711be49.200x200o.9ee696450e28.png",
+    "player_id": 8592862,
+    "@id": "https://api.chess.com/pub/player/ninaguilar",
+    "url": "https://www.chess.com/member/ninaguilar",
+    "name": "Nina Thornton",
+    "username": "ninaguilar",
+    "title": "WFM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/MT",
+    "last_online": 1629644190,
+    "joined": 1345315053,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1629481486,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1782,
+            "date": 1629646590,
+            "rd": 117
+        },
+        "best": {
+            "rating": 1842,
+            "date": 1629642667,
+            "game": "https://www.chess.com/game/live/23297380261"
+        },
+        "record": {
+            "win": 22,
+            "loss": 11,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1725,
+            "date": 1598138065,
+            "rd": 50
+        },
+        "best": {
+            "rating": 1775,
+            "date": 1582414131,
+            "game": "https://www.chess.com/game/live/4514813196"
+        },
+        "record": {
+            "win": 500,
+            "loss": 451,
+            "draw": 52
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1239,
+            "date": 1579810550
+        },
+        "lowest": {
+            "rating": 1187,
+            "date": 1558819528
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 15,
+            "score": 12
+        }
+    }
+}

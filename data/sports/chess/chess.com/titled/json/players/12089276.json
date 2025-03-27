@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12089276.726643af.200x200o.458b84f47012.jpg",
+    "player_id": 12089276,
+    "@id": "https://api.chess.com/pub/player/nigelshort",
+    "url": "https://www.chess.com/member/NigelShort",
+    "name": "Nigel Short",
+    "username": "nigelshort",
+    "title": "GM",
+    "followers": 406,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "London",
+    "last_online": 1741666292,
+    "joined": 1369943645,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2739,
+            "date": 1380997366,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2682,
+            "date": 1380995560,
+            "game": "https://www.chess.com/game/live/615758489"
+        },
+        "record": {
+            "win": 5,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2852,
+            "date": 1741666508,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2979,
+            "date": 1736798348,
+            "game": "https://www.chess.com/game/live/123409817681"
+        },
+        "record": {
+            "win": 6206,
+            "loss": 3520,
+            "draw": 1146
+        }
+    },
+    "fide": 2594,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1369943645
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1369943645
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/272581005.2795de1f.200x200o.77e1a1f09796.jpg",
+    "player_id": 272581005,
+    "@id": "https://api.chess.com/pub/player/dupreeh98",
+    "url": "https://www.chess.com/member/Dupreeh98",
+    "username": "dupreeh98",
+    "title": "IM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1740480364,
+    "joined": 1680964260,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2683,
+            "date": 1739855863,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1709762512,
+            "game": "https://www.chess.com/game/live/88921320601"
+        },
+        "record": {
+            "win": 49,
+            "loss": 36,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2689,
+            "date": 1739856127,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1726746958,
+            "game": "https://www.chess.com/game/live/132063663719"
+        },
+        "record": {
+            "win": 121,
+            "loss": 36,
+            "draw": 13
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3852,
+            "date": 1715510745
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680964260
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 56
+        }
+    }
+}

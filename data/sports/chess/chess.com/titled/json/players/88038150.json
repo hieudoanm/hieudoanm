@@ -1,0 +1,62 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/88038150.511199ed.200x200o.1eb3901aa18b.jpeg",
+    "player_id": 88038150,
+    "@id": "https://api.chess.com/pub/player/loverespectchess",
+    "url": "https://www.chess.com/member/Loverespectchess",
+    "username": "loverespectchess",
+    "title": "GM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741322084,
+    "joined": 1596262554,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2687,
+            "date": 1724780914,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2715,
+            "date": 1718656756,
+            "game": "https://www.chess.com/game/live/24984665771"
+        },
+        "record": {
+            "win": 61,
+            "loss": 56,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2819,
+            "date": 1736308428,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2892,
+            "date": 1612381646,
+            "game": "https://www.chess.com/game/live/5342424107"
+        },
+        "record": {
+            "win": 997,
+            "loss": 1128,
+            "draw": 290
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3174,
+            "date": 1634753539
+        },
+        "lowest": {
+            "rating": 2512,
+            "date": 1602236824
+        }
+    },
+    "puzzle_rush": {}
+}

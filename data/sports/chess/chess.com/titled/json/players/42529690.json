@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42529690.3bfb31c0.200x200o.85998270c153.jpeg",
+    "player_id": 42529690,
+    "@id": "https://api.chess.com/pub/player/underthebridge1999",
+    "url": "https://www.chess.com/member/underthebridge1999",
+    "name": "Harshal Shahi",
+    "username": "underthebridge1999",
+    "title": "FM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741145965,
+    "joined": 1516519966,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1149,
+            "date": 1727341231,
+            "rd": 264
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 900837,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2003,
+            "date": 1707588601,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1676847829,
+            "game": "https://www.chess.com/game/live/64517409283"
+        },
+        "record": {
+            "win": 6,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2350,
+            "date": 1736303048,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2514,
+            "date": 1614999555,
+            "game": "https://www.chess.com/game/live/58491603407"
+        },
+        "record": {
+            "win": 1241,
+            "loss": 1026,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2204,
+            "date": 1740204008,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1563015897,
+            "game": "https://www.chess.com/game/live/4805460786"
+        },
+        "record": {
+            "win": 95,
+            "loss": 90,
+            "draw": 4
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3488,
+            "date": 1658763040
+        },
+        "lowest": {
+            "rating": 2213,
+            "date": 1561999629
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

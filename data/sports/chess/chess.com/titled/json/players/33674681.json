@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33674681.a59f0dc0.200x200o.acf1d3770854.png",
+    "player_id": 33674681,
+    "@id": "https://api.chess.com/pub/player/pokemon0227",
+    "url": "https://www.chess.com/member/Pokemon0227",
+    "name": "Pranav Swaminathan",
+    "username": "pokemon0227",
+    "title": "NM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Chess detention",
+    "last_online": 1741654965,
+    "joined": 1488595279,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1543,
+            "date": 1741632626,
+            "rd": 83
+        },
+        "best": {
+            "rating": 1543,
+            "date": 1741534198,
+            "game": "https://www.chess.com/game/daily/747300393"
+        },
+        "record": {
+            "win": 42,
+            "loss": 46,
+            "draw": 11,
+            "time_per_move": 28617,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1200,
+            "date": 1536737406,
+            "rd": 350
+        },
+        "record": {
+            "win": 3,
+            "loss": 11,
+            "draw": 0,
+            "time_per_move": 28617,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2146,
+            "date": 1738372394,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2154,
+            "date": 1734996290,
+            "game": "https://www.chess.com/game/live/128734394171"
+        },
+        "record": {
+            "win": 1704,
+            "loss": 1615,
+            "draw": 182
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2209,
+            "date": 1741633468,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1735584265,
+            "game": "https://www.chess.com/game/live/129145466787"
+        },
+        "record": {
+            "win": 1924,
+            "loss": 1795,
+            "draw": 142
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2434,
+            "date": 1741648459,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1735422074,
+            "game": "https://www.chess.com/game/live/128818408663"
+        },
+        "record": {
+            "win": 7044,
+            "loss": 6665,
+            "draw": 931
+        }
+    },
+    "fide": 2144,
+    "tactics": {
+        "highest": {
+            "rating": 3132,
+            "date": 1726486315
+        },
+        "lowest": {
+            "rating": 609,
+            "date": 1491267927
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

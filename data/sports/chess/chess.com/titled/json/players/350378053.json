@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/350378053.2b77153c.200x200o.2cdc15e693b3.jpg",
+    "player_id": 350378053,
+    "@id": "https://api.chess.com/pub/player/vrashank_chouhan",
+    "url": "https://www.chess.com/member/Vrashank_Chouhan",
+    "name": "Vrashank Chouhan",
+    "username": "vrashank_chouhan",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741433574,
+    "joined": 1710243630,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2323,
+            "date": 1740671648,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1729641811,
+            "game": "https://www.chess.com/game/live/123378637497"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2467,
+            "date": 1728375630,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1712409861,
+            "game": "https://www.chess.com/game/live/106325252703"
+        },
+        "record": {
+            "win": 42,
+            "loss": 31,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2526,
+            "date": 1741108591,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2539,
+            "date": 1741105534,
+            "game": "https://www.chess.com/game/live/134843955797"
+        },
+        "record": {
+            "win": 54,
+            "loss": 39,
+            "draw": 4
+        }
+    },
+    "fide": 2330,
+    "tactics": {
+        "highest": {
+            "rating": 2346,
+            "date": 1712634612
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1710243630
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

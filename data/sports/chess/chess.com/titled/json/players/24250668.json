@@ -1,0 +1,135 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24250668.edaa550e.200x200o.3651db42aaff.png",
+    "player_id": 24250668,
+    "@id": "https://api.chess.com/pub/player/witty_alien",
+    "url": "https://www.chess.com/member/Witty_Alien",
+    "name": "Volen Dyulgerov",
+    "username": "witty_alien",
+    "title": "CM",
+    "followers": 38033,
+    "country": "https://api.chess.com/pub/country/BG",
+    "location": "Moon",
+    "last_online": 1741682805,
+    "joined": 1443030221,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/witty_alien",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/witty_alien"
+        },
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@witty_alienclips"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 700,
+            "date": 1741682824,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1779,
+            "date": 1472478845,
+            "game": "https://www.chess.com/game/daily/131826316"
+        },
+        "record": {
+            "win": 85,
+            "loss": 202,
+            "draw": 15,
+            "time_per_move": 98034,
+            "timeout_percent": 75
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1766,
+            "date": 1474742483,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1468480637,
+            "game": "https://www.chess.com/game/daily/131719748"
+        },
+        "record": {
+            "win": 29,
+            "loss": 8,
+            "draw": 7,
+            "time_per_move": 98034,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2188,
+            "date": 1739638289,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2212,
+            "date": 1730818543,
+            "game": "https://www.chess.com/game/live/101753639707"
+        },
+        "record": {
+            "win": 81,
+            "loss": 28,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2509,
+            "date": 1741690183,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1735204690,
+            "game": "https://www.chess.com/game/live/94678146771"
+        },
+        "record": {
+            "win": 30708,
+            "loss": 30865,
+            "draw": 2853
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2298,
+            "date": 1740747240,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1703608709,
+            "game": "https://www.chess.com/game/live/99161133081"
+        },
+        "record": {
+            "win": 1944,
+            "loss": 1906,
+            "draw": 276
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3001,
+            "date": 1645355745
+        },
+        "lowest": {
+            "rating": 1364,
+            "date": 1443700823
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

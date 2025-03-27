@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/93714072.a5afa206.200x200o.52b88ee2168b.jpg",
+    "player_id": 93714072,
+    "@id": "https://api.chess.com/pub/player/ruleoftwo",
+    "url": "https://www.chess.com/member/RuleOfTwo",
+    "name": "Ananda Saha",
+    "username": "ruleoftwo",
+    "title": "CM",
+    "followers": 125,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741625220,
+    "joined": 1603437314,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1766,
+            "date": 1713861053,
+            "rd": 76
+        },
+        "best": {
+            "rating": 1792,
+            "date": 1680429850,
+            "game": "https://www.chess.com/game/daily/490190739"
+        },
+        "record": {
+            "win": 47,
+            "loss": 3,
+            "draw": 3,
+            "time_per_move": 14553,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2290,
+            "date": 1729354647,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2290,
+            "date": 1676704418,
+            "game": "https://www.chess.com/game/live/45363010397"
+        },
+        "record": {
+            "win": 54,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2433,
+            "date": 1739925394,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2587,
+            "date": 1661454675,
+            "game": "https://www.chess.com/game/live/40443034027"
+        },
+        "record": {
+            "win": 358,
+            "loss": 93,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2566,
+            "date": 1741653572,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2697,
+            "date": 1733093865,
+            "game": "https://www.chess.com/game/live/83818759071"
+        },
+        "record": {
+            "win": 4205,
+            "loss": 2958,
+            "draw": 559
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3592,
+            "date": 1709504102
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1643799414
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

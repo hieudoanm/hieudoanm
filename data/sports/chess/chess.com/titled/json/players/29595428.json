@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29595428.10cbe09d.200x200o.7c2e7971847d.jpeg",
+    "player_id": 29595428,
+    "@id": "https://api.chess.com/pub/player/eldur16",
+    "url": "https://www.chess.com/member/eldur16",
+    "name": "Johann Hjartarson",
+    "username": "eldur16",
+    "title": "GM",
+    "followers": 50,
+    "country": "https://api.chess.com/pub/country/IS",
+    "location": "Reykjavik",
+    "last_online": 1733225083,
+    "joined": 1471910445,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2395,
+            "date": 1597592245,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2668,
+            "date": 1586530309,
+            "game": "https://www.chess.com/game/live/4711585297"
+        },
+        "record": {
+            "win": 10,
+            "loss": 5,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2664,
+            "date": 1732061121,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1654636605,
+            "game": "https://www.chess.com/game/live/63500213803"
+        },
+        "record": {
+            "win": 950,
+            "loss": 408,
+            "draw": 151
+        }
+    },
+    "fide": 2520,
+    "tactics": {
+        "highest": {
+            "rating": 3320,
+            "date": 1708903505
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1471910445
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 35
+        }
+    }
+}

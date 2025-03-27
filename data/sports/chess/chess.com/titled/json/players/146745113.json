@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/146745113.2b19d48b.200x200o.bf9b7cb424d5.jpeg",
+    "player_id": 146745113,
+    "@id": "https://api.chess.com/pub/player/buenamor1972",
+    "url": "https://www.chess.com/member/buenamor1972",
+    "name": "Fede Garcia Lemos",
+    "username": "buenamor1972",
+    "title": "CM",
+    "followers": 88,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741291140,
+    "joined": 1625365443,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2004,
+            "date": 1732847144,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2004,
+            "date": 1732847144,
+            "game": "https://www.chess.com/game/daily/726505823"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 45177,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2264,
+            "date": 1741291432,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2381,
+            "date": 1714620697,
+            "game": "https://www.chess.com/game/live/108801003549"
+        },
+        "record": {
+            "win": 630,
+            "loss": 495,
+            "draw": 50
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1739308715,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2494,
+            "date": 1669678063,
+            "game": "https://www.chess.com/game/live/98320555273"
+        },
+        "record": {
+            "win": 1717,
+            "loss": 1351,
+            "draw": 192
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3067,
+            "date": 1728452292
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1625365443
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

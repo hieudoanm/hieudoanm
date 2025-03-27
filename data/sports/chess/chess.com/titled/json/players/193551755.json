@@ -1,0 +1,85 @@
+{
+    "player_id": 193551755,
+    "@id": "https://api.chess.com/pub/player/lordplayer64",
+    "url": "https://www.chess.com/member/lordplayer64",
+    "name": "Henry Richard Vasquez Vargas",
+    "username": "lordplayer64",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/PE",
+    "last_online": 1741590915,
+    "joined": 1660613158,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2048,
+            "date": 1726430918,
+            "rd": 207
+        },
+        "best": {
+            "rating": 2048,
+            "date": 1726430918,
+            "game": "https://www.chess.com/game/live/120169260017"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2475,
+            "date": 1734992194,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1724441619,
+            "game": "https://www.chess.com/game/live/125126965201"
+        },
+        "record": {
+            "win": 253,
+            "loss": 151,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2434,
+            "date": 1737347532,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2667,
+            "date": 1690950765,
+            "game": "https://www.chess.com/game/live/95053745629"
+        },
+        "record": {
+            "win": 1320,
+            "loss": 982,
+            "draw": 188
+        }
+    },
+    "fide": 2142,
+    "tactics": {
+        "highest": {
+            "rating": 3459,
+            "date": 1723225232
+        },
+        "lowest": {
+            "rating": 2161,
+            "date": 1664504946
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

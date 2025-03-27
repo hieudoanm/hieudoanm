@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52831078.71f70cda.200x200o.f174bd2e63ff.png",
+    "player_id": 52831078,
+    "@id": "https://api.chess.com/pub/player/isainz",
+    "url": "https://www.chess.com/member/isainz",
+    "name": "Ignacio Sainz Aguirre",
+    "username": "isainz",
+    "title": "NM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741115917,
+    "joined": 1544039774,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2020,
+            "date": 1739028078,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2020,
+            "date": 1739028078,
+            "game": "https://www.chess.com/game/live/132766816719"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1638,
+            "date": 1591406381,
+            "rd": 84
+        },
+        "best": {
+            "rating": 1778,
+            "date": 1579295818,
+            "game": "https://www.chess.com/game/live/4440637182"
+        },
+        "record": {
+            "win": 9,
+            "loss": 14,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2031,
+            "date": 1741655311,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2298,
+            "date": 1565731021,
+            "game": "https://www.chess.com/game/live/5183522287"
+        },
+        "record": {
+            "win": 1285,
+            "loss": 1089,
+            "draw": 146
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2604,
+            "date": 1592495274
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1544372541
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

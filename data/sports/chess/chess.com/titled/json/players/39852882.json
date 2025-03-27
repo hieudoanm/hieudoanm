@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39852882.4d82541b.200x200o.7a449adac16a.png",
+    "player_id": 39852882,
+    "@id": "https://api.chess.com/pub/player/aguss_ok5",
+    "url": "https://www.chess.com/member/aguss_ok5",
+    "name": "Leandro Agust\u00edn Hurtado",
+    "username": "aguss_ok5",
+    "title": "NM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Buenos Aires",
+    "last_online": 1741694391,
+    "joined": 1509218472,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1652,
+            "date": 1741625876,
+            "rd": 97
+        },
+        "best": {
+            "rating": 1653,
+            "date": 1576414202,
+            "game": "https://www.chess.com/game/daily/255890812"
+        },
+        "record": {
+            "win": 233,
+            "loss": 81,
+            "draw": 12,
+            "time_per_move": 14360,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1327,
+            "date": 1543573803,
+            "rd": 148
+        },
+        "best": {
+            "rating": 1327,
+            "date": 1543573802,
+            "game": "https://www.chess.com/game/daily/200323064"
+        },
+        "record": {
+            "win": 13,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 14360,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1973,
+            "date": 1735648780,
+            "rd": 76
+        },
+        "best": {
+            "rating": 1434,
+            "date": 1583798388,
+            "game": "https://www.chess.com/game/live/4578399744"
+        },
+        "record": {
+            "win": 121,
+            "loss": 89,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2218,
+            "date": 1741288314,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2177,
+            "date": 1739296405,
+            "game": "https://www.chess.com/game/live/132777635409"
+        },
+        "record": {
+            "win": 1509,
+            "loss": 1436,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2039,
+            "date": 1740969028,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2058,
+            "date": 1739678603,
+            "game": "https://www.chess.com/game/live/129425560369"
+        },
+        "record": {
+            "win": 1283,
+            "loss": 1200,
+            "draw": 45
+        }
+    },
+    "fide": 1973,
+    "tactics": {
+        "highest": {
+            "rating": 3123,
+            "date": 1740022108
+        },
+        "lowest": {
+            "rating": 383,
+            "date": 1511281809
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

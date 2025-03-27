@@ -1,0 +1,66 @@
+{
+    "player_id": 397847765,
+    "@id": "https://api.chess.com/pub/player/just-na",
+    "url": "https://www.chess.com/member/Just-na",
+    "username": "just-na",
+    "title": "WFM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741019071,
+    "joined": 1729711557,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2438,
+            "date": 1738169831,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1738169290,
+            "game": "https://www.chess.com/game/live/131908204699"
+        },
+        "record": {
+            "win": 19,
+            "loss": 16,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2427,
+            "date": 1741020730,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1739626513,
+            "game": "https://www.chess.com/game/live/133364978273"
+        },
+        "record": {
+            "win": 54,
+            "loss": 28,
+            "draw": 2
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3680,
+            "date": 1734901416
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1729711557
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "player_id": 4681107,
+    "@id": "https://api.chess.com/pub/player/arnacman",
+    "url": "https://www.chess.com/member/arnacman",
+    "username": "arnacman",
+    "title": "FM",
+    "followers": 103,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1741514539,
+    "joined": 1297185046,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1853,
+            "date": 1639842739,
+            "rd": 248
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2456,
+            "date": 1724793060,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2579,
+            "date": 1460221572,
+            "game": "https://www.chess.com/game/live/22972839067"
+        },
+        "record": {
+            "win": 782,
+            "loss": 606,
+            "draw": 64
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2471,
+            "date": 1741703890,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2599,
+            "date": 1735138310,
+            "game": "https://www.chess.com/game/live/129327147341"
+        },
+        "record": {
+            "win": 9645,
+            "loss": 7624,
+            "draw": 1072
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3540,
+            "date": 1684877833
+        },
+        "lowest": {
+            "rating": 1351,
+            "date": 1412105788
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

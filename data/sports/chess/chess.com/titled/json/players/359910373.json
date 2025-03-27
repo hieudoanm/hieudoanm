@@ -1,0 +1,49 @@
+{
+    "player_id": 359910373,
+    "@id": "https://api.chess.com/pub/player/glgm_dave",
+    "url": "https://www.chess.com/member/GLGM_Dave",
+    "username": "glgm_dave",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1738137649,
+    "joined": 1714293730,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1738074898,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1737124900,
+            "game": "https://www.chess.com/game/live/130774867173"
+        },
+        "record": {
+            "win": 109,
+            "loss": 57,
+            "draw": 8
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3450,
+            "date": 1738075293
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1714293730
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

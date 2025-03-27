@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25921204.c4754be6.200x200o.17ba66145616.jpeg",
+    "player_id": 25921204,
+    "@id": "https://api.chess.com/pub/player/plumalka",
+    "url": "https://www.chess.com/member/plumalka",
+    "name": "Alicja Sliwicka",
+    "username": "plumalka",
+    "title": "WIM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741121464,
+    "joined": 1451818749,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2159,
+            "date": 1631529529,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1631129721,
+            "game": "https://www.chess.com/game/live/5330741718"
+        },
+        "record": {
+            "win": 44,
+            "loss": 12,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2594,
+            "date": 1739142420,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2647,
+            "date": 1672698711,
+            "game": "https://www.chess.com/game/live/46551583303"
+        },
+        "record": {
+            "win": 566,
+            "loss": 707,
+            "draw": 111
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2612,
+            "date": 1737300875,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2622,
+            "date": 1737298728,
+            "game": "https://www.chess.com/game/live/131037550563"
+        },
+        "record": {
+            "win": 528,
+            "loss": 581,
+            "draw": 124
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3717,
+            "date": 1706012659
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1516887227
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

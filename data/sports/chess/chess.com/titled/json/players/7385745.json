@@ -1,0 +1,137 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7385745.2f0be63c.200x200o.a620e3cd0d1c.jpeg",
+    "player_id": 7385745,
+    "@id": "https://api.chess.com/pub/player/jsinanan",
+    "url": "https://www.chess.com/member/jsinanan",
+    "name": "Josh Sinanan",
+    "username": "jsinanan",
+    "title": "NM",
+    "followers": 474,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Seattle",
+    "last_online": 1741680530,
+    "joined": 1335219627,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2353,
+            "date": 1741634641,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2353,
+            "date": 1741299301,
+            "game": "https://www.chess.com/game/daily/610356425"
+        },
+        "record": {
+            "win": 304,
+            "loss": 1,
+            "draw": 22,
+            "time_per_move": 71945,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 888,
+            "date": 1730598148,
+            "rd": 330
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1335219627,
+            "game": "https://www.chess.com/game/daily/689010055"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 71945,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 714,
+            "date": 1741561891,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2016,
+            "date": 1618962809,
+            "game": "https://www.chess.com/game/live/5716296405"
+        },
+        "record": {
+            "win": 180,
+            "loss": 28,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1225,
+            "date": 1736067577,
+            "rd": 109
+        },
+        "best": {
+            "rating": 1424,
+            "date": 1614230390,
+            "game": "https://www.chess.com/game/live/7969406893"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1635,
+            "date": 1740710332,
+            "rd": 147
+        },
+        "best": {
+            "rating": 2115,
+            "date": 1617982119,
+            "game": "https://www.chess.com/game/live/6183221436"
+        },
+        "record": {
+            "win": 176,
+            "loss": 12,
+            "draw": 6
+        }
+    },
+    "fide": 2250,
+    "tactics": {
+        "highest": {
+            "rating": 1395,
+            "date": 1735506001
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1586389864
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 6,
+            "score": 5
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "player_id": 59471950,
+    "@id": "https://api.chess.com/pub/player/valy02chess",
+    "url": "https://www.chess.com/member/Valy02chess",
+    "name": "Valentina Verbin",
+    "username": "valy02chess",
+    "title": "WFM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741684241,
+    "joined": 1554536069,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2069,
+            "date": 1699446388,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2354,
+            "date": 1589907930,
+            "game": "https://www.chess.com/game/live/5305135630"
+        },
+        "record": {
+            "win": 33,
+            "loss": 20,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2277,
+            "date": 1672141300,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2314,
+            "date": 1672004210,
+            "game": "https://www.chess.com/game/live/4656601971"
+        },
+        "record": {
+            "win": 1108,
+            "loss": 987,
+            "draw": 92
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2280,
+            "date": 1741684910,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2469,
+            "date": 1557494446,
+            "game": "https://www.chess.com/game/live/4669546749"
+        },
+        "record": {
+            "win": 4509,
+            "loss": 4235,
+            "draw": 569
+        }
+    },
+    "fide": 2069,
+    "tactics": {
+        "highest": {
+            "rating": 3187,
+            "date": 1718387668
+        },
+        "lowest": {
+            "rating": 1198,
+            "date": 1554536381
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        },
+        "daily": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

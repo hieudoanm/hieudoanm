@@ -1,0 +1,111 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2497138.947e0ec6.200x200o.b83bcfcac8cd.jpeg",
+    "player_id": 2497138,
+    "@id": "https://api.chess.com/pub/player/tea99",
+    "url": "https://www.chess.com/member/Tea99",
+    "name": "Tea Gueci",
+    "username": "tea99",
+    "title": "WIM",
+    "followers": 626,
+    "country": "https://api.chess.com/pub/country/IT",
+    "location": "Palermo",
+    "last_online": 1741250208,
+    "joined": 1264515797,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/teagueci",
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/teagueci"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 2026,
+            "date": 1708766890,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2053,
+            "date": 1425091175,
+            "game": "https://www.chess.com/game/daily/90078832"
+        },
+        "record": {
+            "win": 84,
+            "loss": 11,
+            "draw": 12,
+            "time_per_move": 47860,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2290,
+            "date": 1671213786,
+            "rd": 235
+        },
+        "best": {
+            "rating": 2290,
+            "date": 1615241453,
+            "game": "https://www.chess.com/game/live/3133536789"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2477,
+            "date": 1729146993,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1729146993,
+            "game": "https://www.chess.com/game/live/64948779549"
+        },
+        "record": {
+            "win": 70,
+            "loss": 53,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2575,
+            "date": 1737841014,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2627,
+            "date": 1716965997,
+            "game": "https://www.chess.com/game/live/118344571195"
+        },
+        "record": {
+            "win": 1108,
+            "loss": 901,
+            "draw": 186
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3486,
+            "date": 1589353483
+        },
+        "lowest": {
+            "rating": 1233,
+            "date": 1266659824
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

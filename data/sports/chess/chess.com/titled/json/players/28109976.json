@@ -1,0 +1,87 @@
+{
+    "player_id": 28109976,
+    "@id": "https://api.chess.com/pub/player/spectre93",
+    "url": "https://www.chess.com/member/Spectre93",
+    "name": "Franc Ashiku",
+    "username": "spectre93",
+    "title": "IM",
+    "followers": 69,
+    "country": "https://api.chess.com/pub/country/AL",
+    "location": "Shkodra",
+    "last_online": 1733343828,
+    "joined": 1462794632,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1038,
+            "date": 1606754916,
+            "rd": 270
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1462794632,
+            "game": "https://www.chess.com/game/daily/207599250"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 1064,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2303,
+            "date": 1630766139,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1604347188,
+            "game": "https://www.chess.com/game/live/5305728519"
+        },
+        "record": {
+            "win": 14,
+            "loss": 14,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2602,
+            "date": 1704490318,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2623,
+            "date": 1667945313,
+            "game": "https://www.chess.com/game/live/61690197457"
+        },
+        "record": {
+            "win": 473,
+            "loss": 348,
+            "draw": 56
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2216,
+            "date": 1610554164
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1579801406
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

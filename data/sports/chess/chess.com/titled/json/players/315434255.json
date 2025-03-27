@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/315434255.25135bd1.200x200o.d46957a80de6.jpg",
+    "player_id": 315434255,
+    "@id": "https://api.chess.com/pub/player/chess_caramel",
+    "url": "https://www.chess.com/member/Chess_caramel",
+    "username": "chess_caramel",
+    "title": "WCM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1737040965,
+    "joined": 1695710395,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2605,
+            "date": 1727361699,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2625,
+            "date": 1727355328,
+            "game": "https://www.chess.com/game/live/121094391409"
+        },
+        "record": {
+            "win": 152,
+            "loss": 113,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2484,
+            "date": 1737099630,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2586,
+            "date": 1727205122,
+            "game": "https://www.chess.com/game/live/121288816683"
+        },
+        "record": {
+            "win": 152,
+            "loss": 103,
+            "draw": 14
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2464,
+            "date": 1727089330
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1695710395
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 35
+        }
+    }
+}

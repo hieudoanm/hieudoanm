@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/85391250.247412c6.200x200o.e6a2e845700a.png",
+    "player_id": 85391250,
+    "@id": "https://api.chess.com/pub/player/giantthresher",
+    "url": "https://www.chess.com/member/GiantThresher",
+    "username": "giantthresher",
+    "title": "GM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1734155141,
+    "joined": 1593704049,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2204,
+            "date": 1704804467,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2877,
+            "date": 1703065290,
+            "game": "https://www.chess.com/game/live/96976777313"
+        },
+        "record": {
+            "win": 10,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2877,
+            "date": 1641308467,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2891,
+            "date": 1608728957,
+            "game": "https://www.chess.com/game/live/8435616025"
+        },
+        "record": {
+            "win": 440,
+            "loss": 370,
+            "draw": 130
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3731,
+            "date": 1728215555
+        },
+        "lowest": {
+            "rating": 2550,
+            "date": 1597162959
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

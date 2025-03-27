@@ -1,0 +1,84 @@
+{
+    "player_id": 73802530,
+    "@id": "https://api.chess.com/pub/player/fischerkasparow",
+    "url": "https://www.chess.com/member/FischerKasparow",
+    "name": "Pawel Flis",
+    "username": "fischerkasparow",
+    "title": "CM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741702456,
+    "joined": 1584556539,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1931,
+            "date": 1736802744,
+            "rd": 152
+        },
+        "best": {
+            "rating": 1931,
+            "date": 1736802744,
+            "game": "https://www.chess.com/game/live/130539645905"
+        },
+        "record": {
+            "win": 7,
+            "loss": 5,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1728,
+            "date": 1608238440,
+            "rd": 105
+        },
+        "best": {
+            "rating": 1877,
+            "date": 1585228446,
+            "game": "https://www.chess.com/game/live/4639803827"
+        },
+        "record": {
+            "win": 12,
+            "loss": 12,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2149,
+            "date": 1738692568,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2152,
+            "date": 1692722588,
+            "game": "https://www.chess.com/game/live/37470105265"
+        },
+        "record": {
+            "win": 424,
+            "loss": 625,
+            "draw": 79
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1488,
+            "date": 1738824902
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1584879315
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 21,
+            "score": 19
+        }
+    }
+}

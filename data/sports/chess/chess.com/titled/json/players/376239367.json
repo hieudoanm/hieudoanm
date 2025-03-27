@@ -1,0 +1,85 @@
+{
+    "player_id": 376239367,
+    "@id": "https://api.chess.com/pub/player/abc13524",
+    "url": "https://www.chess.com/member/abc13524",
+    "name": "Esther Jou",
+    "username": "abc13524",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741490975,
+    "joined": 1721408777,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2067,
+            "date": 1740450092,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2076,
+            "date": 1730061062,
+            "game": "https://www.chess.com/game/live/124411175897"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2338,
+            "date": 1738804023,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2338,
+            "date": 1738804023,
+            "game": "https://www.chess.com/game/live/127171205225"
+        },
+        "record": {
+            "win": 173,
+            "loss": 110,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2141,
+            "date": 1741491764,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2159,
+            "date": 1733363304,
+            "game": "https://www.chess.com/game/live/132447069911"
+        },
+        "record": {
+            "win": 40,
+            "loss": 40,
+            "draw": 2
+        }
+    },
+    "fide": 2069,
+    "tactics": {
+        "highest": {
+            "rating": 3207,
+            "date": 1741686623
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1721408777
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

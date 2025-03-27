@@ -1,0 +1,83 @@
+{
+    "player_id": 87094176,
+    "@id": "https://api.chess.com/pub/player/oliveratomchess",
+    "url": "https://www.chess.com/member/oliveratomchess",
+    "username": "oliveratomchess",
+    "title": "FM",
+    "followers": 76,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741658262,
+    "joined": 1595183827,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2019,
+            "date": 1706472191,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2171,
+            "date": 1629407806,
+            "game": "https://www.chess.com/game/live/23236814975"
+        },
+        "record": {
+            "win": 57,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2487,
+            "date": 1741658576,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2632,
+            "date": 1737153710,
+            "game": "https://www.chess.com/game/live/133453752547"
+        },
+        "record": {
+            "win": 292,
+            "loss": 299,
+            "draw": 51
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2507,
+            "date": 1740185514,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2546,
+            "date": 1729883506,
+            "game": "https://www.chess.com/game/live/123528072821"
+        },
+        "record": {
+            "win": 585,
+            "loss": 599,
+            "draw": 112
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3773,
+            "date": 1733926188
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1597101147
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28052530.5d19e8c1.200x200o.4f846ca017df.jpeg",
+    "player_id": 28052530,
+    "@id": "https://api.chess.com/pub/player/alishersuleymenov",
+    "url": "https://www.chess.com/member/alishersuleymenov",
+    "name": "Alisher Suleymenov",
+    "username": "alishersuleymenov",
+    "title": "GM",
+    "followers": 144,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1715707263,
+    "joined": 1462441104,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1692060185,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 41765,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2196,
+            "date": 1607535137,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2227,
+            "date": 1600601662,
+            "game": "https://www.chess.com/game/live/5782464917"
+        },
+        "record": {
+            "win": 46,
+            "loss": 14,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3062,
+            "date": 1583607724,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2973,
+            "date": 1568823450,
+            "game": "https://www.chess.com/game/live/4570965464"
+        },
+        "record": {
+            "win": 139,
+            "loss": 79,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2796,
+            "date": 1589304828,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2837,
+            "date": 1574626273,
+            "game": "https://www.chess.com/game/live/4003251477"
+        },
+        "record": {
+            "win": 427,
+            "loss": 262,
+            "draw": 56
+        }
+    },
+    "fide": 2512,
+    "tactics": {
+        "highest": {
+            "rating": 4015,
+            "date": 1588682624
+        },
+        "lowest": {
+            "rating": 1365,
+            "date": 1480595637
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

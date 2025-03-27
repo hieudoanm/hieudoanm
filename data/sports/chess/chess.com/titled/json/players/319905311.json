@@ -1,0 +1,80 @@
+{
+    "player_id": 319905311,
+    "@id": "https://api.chess.com/pub/player/mortred777",
+    "url": "https://www.chess.com/member/Mortred777",
+    "name": "Ulugbek Tillyaev",
+    "username": "mortred777",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "last_online": 1741513814,
+    "joined": 1697456638,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2302,
+            "date": 1739733575,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2302,
+            "date": 1739733575,
+            "game": "https://www.chess.com/game/live/133464541159"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2470,
+            "date": 1726739825,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2478,
+            "date": 1724941525,
+            "game": "https://www.chess.com/game/live/118608475317"
+        },
+        "record": {
+            "win": 36,
+            "loss": 30,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2731,
+            "date": 1740507221,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2761,
+            "date": 1700072577,
+            "game": "https://www.chess.com/game/live/134245143419"
+        },
+        "record": {
+            "win": 31,
+            "loss": 15,
+            "draw": 3
+        }
+    },
+    "fide": 2248,
+    "tactics": {
+        "highest": {
+            "rating": 2258,
+            "date": 1700246508
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1697456638
+        }
+    },
+    "puzzle_rush": {}
+}

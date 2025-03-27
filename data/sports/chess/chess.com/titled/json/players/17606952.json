@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17606952.746c85f8.200x200o.0cee60f905c5.jpeg",
+    "player_id": 17606952,
+    "@id": "https://api.chess.com/pub/player/gunslinger222",
+    "url": "https://www.chess.com/member/gunslinger222",
+    "name": "Jonathan Blackburn",
+    "username": "gunslinger222",
+    "title": "FM",
+    "followers": 138,
+    "country": "https://api.chess.com/pub/country/XW",
+    "location": "England",
+    "last_online": 1741095283,
+    "joined": 1402184937,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2237,
+            "date": 1709493915,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1683490985,
+            "game": "https://www.chess.com/game/live/44563213485"
+        },
+        "record": {
+            "win": 30,
+            "loss": 21,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2316,
+            "date": 1719429692,
+            "rd": 229
+        },
+        "best": {
+            "rating": 2316,
+            "date": 1627578683,
+            "game": "https://www.chess.com/game/live/21317465381"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2342,
+            "date": 1721770923,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2482,
+            "date": 1693344527,
+            "game": "https://www.chess.com/game/live/88291875687"
+        },
+        "record": {
+            "win": 1133,
+            "loss": 847,
+            "draw": 198
+        }
+    },
+    "fide": 2235,
+    "tactics": {
+        "highest": {
+            "rating": 2344,
+            "date": 1672996963
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1450955450
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

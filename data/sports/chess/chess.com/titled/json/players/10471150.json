@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10471150.91797596.200x200o.7a4eb69410e6.jpg",
+    "player_id": 10471150,
+    "@id": "https://api.chess.com/pub/player/sungho",
+    "url": "https://www.chess.com/member/Sungho",
+    "name": "Sungho Yim",
+    "username": "sungho",
+    "title": "FM",
+    "followers": 145,
+    "country": "https://api.chess.com/pub/country/KR",
+    "last_online": 1741674531,
+    "joined": 1358496832,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1799,
+            "date": 1676571175,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1365055996,
+            "game": "https://www.chess.com/game/daily/67781098"
+        },
+        "record": {
+            "win": 6,
+            "loss": 13,
+            "draw": 5,
+            "time_per_move": 7321,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2420,
+            "date": 1734203652,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1513197562,
+            "game": "https://www.chess.com/game/live/109752625891"
+        },
+        "record": {
+            "win": 60,
+            "loss": 24,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2803,
+            "date": 1728767638,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1728766943,
+            "game": "https://www.chess.com/game/live/122505847361"
+        },
+        "record": {
+            "win": 736,
+            "loss": 480,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2784,
+            "date": 1741578999,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2800,
+            "date": 1721894067,
+            "game": "https://www.chess.com/game/live/128749352843"
+        },
+        "record": {
+            "win": 815,
+            "loss": 705,
+            "draw": 101
+        }
+    },
+    "fide": 2309,
+    "tactics": {
+        "highest": {
+            "rating": 3050,
+            "date": 1640041050
+        },
+        "lowest": {
+            "rating": 1993,
+            "date": 1361206487
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

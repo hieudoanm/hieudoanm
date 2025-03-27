@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52809670.0a262028.200x200o.1448c79dc975.jpg",
+    "player_id": 52809670,
+    "@id": "https://api.chess.com/pub/player/likeablewolf",
+    "url": "https://www.chess.com/member/likeablewolf",
+    "name": "Wolfram Heinig, Dr.",
+    "username": "likeablewolf",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Berlin",
+    "last_online": 1741368419,
+    "joined": 1544011059,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1687,
+            "date": 1741303671,
+            "rd": 271
+        },
+        "best": {
+            "rating": 1687,
+            "date": 1741303670,
+            "game": "https://www.chess.com/game/daily/777501847"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 21158,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2181,
+            "date": 1728637733,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2197,
+            "date": 1728635538,
+            "game": "https://www.chess.com/game/live/119644227501"
+        },
+        "record": {
+            "win": 14,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2130,
+            "date": 1737368233,
+            "rd": 286
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2303,
+            "date": 1741699519,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2370,
+            "date": 1661798586,
+            "game": "https://www.chess.com/game/live/129400420475"
+        },
+        "record": {
+            "win": 7632,
+            "loss": 6580,
+            "draw": 1449
+        }
+    },
+    "fide": 2197,
+    "tactics": {
+        "highest": {
+            "rating": 3396,
+            "date": 1727886025
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1593335529
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

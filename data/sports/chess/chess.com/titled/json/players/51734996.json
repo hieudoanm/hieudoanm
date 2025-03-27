@@ -1,0 +1,84 @@
+{
+    "player_id": 51734996,
+    "@id": "https://api.chess.com/pub/player/copaamericano",
+    "url": "https://www.chess.com/member/CopaAmericANo",
+    "username": "copaamericano",
+    "title": "FM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/DO",
+    "last_online": 1741526142,
+    "joined": 1541969760,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2051,
+            "date": 1697124670,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2075,
+            "date": 1557573037,
+            "game": "https://www.chess.com/game/live/3687001359"
+        },
+        "record": {
+            "win": 12,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2493,
+            "date": 1731336315,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2575,
+            "date": 1722285217,
+            "game": "https://www.chess.com/game/live/12860081267"
+        },
+        "record": {
+            "win": 1311,
+            "loss": 1392,
+            "draw": 187
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2352,
+            "date": 1741542808,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2590,
+            "date": 1600190842,
+            "game": "https://www.chess.com/game/live/4052352063"
+        },
+        "record": {
+            "win": 2441,
+            "loss": 2663,
+            "draw": 448
+        }
+    },
+    "fide": 2169,
+    "tactics": {
+        "highest": {
+            "rating": 2916,
+            "date": 1655660136
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1545428097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

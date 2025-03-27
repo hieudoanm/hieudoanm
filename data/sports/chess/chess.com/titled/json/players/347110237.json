@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/347110237.44609efe.200x200o.f4cc2584ff40.jpg",
+    "player_id": 347110237,
+    "@id": "https://api.chess.com/pub/player/johnnycagemk2",
+    "url": "https://www.chess.com/member/JohnnyCageMK2",
+    "username": "johnnycagemk2",
+    "title": "NM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741216620,
+    "joined": 1708725079,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2117,
+            "date": 1740972453,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2022,
+            "date": 1732053044,
+            "game": "https://www.chess.com/game/live/125791107709"
+        },
+        "record": {
+            "win": 27,
+            "loss": 11,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1666,
+            "date": 1741314231,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2134,
+            "date": 1709508948,
+            "game": "https://www.chess.com/game/live/103249329997"
+        },
+        "record": {
+            "win": 32,
+            "loss": 55,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2188,
+            "date": 1741659627,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1737833345,
+            "game": "https://www.chess.com/game/live/131519391111"
+        },
+        "record": {
+            "win": 1755,
+            "loss": 1708,
+            "draw": 211
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 2558,
+            "date": 1735671339
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1708725079
+        }
+    },
+    "puzzle_rush": {}
+}

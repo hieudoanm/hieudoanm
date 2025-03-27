@@ -1,0 +1,84 @@
+{
+    "player_id": 95289624,
+    "@id": "https://api.chess.com/pub/player/chessprincesa1",
+    "url": "https://www.chess.com/member/chessprincesa1",
+    "name": "Emilia Dyalog",
+    "username": "chessprincesa1",
+    "title": "WFM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741125259,
+    "joined": 1604608427,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2432,
+            "date": 1733587921,
+            "rd": 290
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1678315160,
+            "game": "https://www.chess.com/game/live/72053496793"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2277,
+            "date": 1734371141,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1721845662,
+            "game": "https://www.chess.com/game/live/98754885727"
+        },
+        "record": {
+            "win": 453,
+            "loss": 374,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2259,
+            "date": 1741126707,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1732717689,
+            "game": "https://www.chess.com/game/live/63504436027"
+        },
+        "record": {
+            "win": 955,
+            "loss": 928,
+            "draw": 94
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3386,
+            "date": 1680799352
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1604843044
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 46
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7851640.dd25f93a.200x200o.0d976efffe67.jpeg",
+    "player_id": 7851640,
+    "@id": "https://api.chess.com/pub/player/jrwright",
+    "url": "https://www.chess.com/member/JRWright",
+    "name": "John Wright",
+    "username": "jrwright",
+    "title": "NM",
+    "followers": 50,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Pasadena, CA",
+    "last_online": 1741643362,
+    "joined": 1339354979,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2111,
+            "date": 1736430933,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2186,
+            "date": 1670231005,
+            "game": "https://www.chess.com/game/daily/292026318"
+        },
+        "record": {
+            "win": 43,
+            "loss": 5,
+            "draw": 18,
+            "time_per_move": 73994,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1898,
+            "date": 1645901286,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1378278000,
+            "game": "https://www.chess.com/game/live/17258032825"
+        },
+        "record": {
+            "win": 22,
+            "loss": 20,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1625,
+            "date": 1645904065,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1378278000,
+            "game": "https://www.chess.com/game/live/4767758466"
+        },
+        "record": {
+            "win": 232,
+            "loss": 217,
+            "draw": 33
+        }
+    },
+    "fide": 2072,
+    "tactics": {
+        "highest": {
+            "rating": 3008,
+            "date": 1726275523
+        },
+        "lowest": {
+            "rating": 1310,
+            "date": 1446389044
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

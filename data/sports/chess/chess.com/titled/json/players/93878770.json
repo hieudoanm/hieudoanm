@@ -1,0 +1,97 @@
+{
+    "player_id": 93878770,
+    "@id": "https://api.chess.com/pub/player/zecapi",
+    "url": "https://www.chess.com/member/ZeCapi",
+    "username": "zecapi",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741553837,
+    "joined": 1603595200,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 800,
+            "date": 1714653263,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 51218,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2191,
+            "date": 1712154201,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2191,
+            "date": 1712154201,
+            "game": "https://www.chess.com/game/live/105892182163"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2102,
+            "date": 1700586091,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2295,
+            "date": 1661217747,
+            "game": "https://www.chess.com/game/live/61356590015"
+        },
+        "record": {
+            "win": 133,
+            "loss": 53,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2584,
+            "date": 1741557073,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1729130177,
+            "game": "https://www.chess.com/game/live/122868838117"
+        },
+        "record": {
+            "win": 701,
+            "loss": 388,
+            "draw": 130
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3261,
+            "date": 1727734833
+        },
+        "lowest": {
+            "rating": 434,
+            "date": 1615159997
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

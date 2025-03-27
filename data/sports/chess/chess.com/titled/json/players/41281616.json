@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41281616.94d227cb.200x200o.8b9e02ddec20.jpg",
+    "player_id": 41281616,
+    "@id": "https://api.chess.com/pub/player/dollar98",
+    "url": "https://www.chess.com/member/Dollar98",
+    "name": "Chola Musonda",
+    "username": "dollar98",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/ZM",
+    "last_online": 1729168592,
+    "joined": 1513158340,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2070,
+            "date": 1699370909,
+            "rd": 121
+        },
+        "best": {
+            "rating": 2319,
+            "date": 1699366477,
+            "game": "https://www.chess.com/game/live/93105050853"
+        },
+        "record": {
+            "win": 6,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2093,
+            "date": 1731393266,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2302,
+            "date": 1684922614,
+            "game": "https://www.chess.com/game/live/95943203453"
+        },
+        "record": {
+            "win": 247,
+            "loss": 243,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2329,
+            "date": 1719299943,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2461,
+            "date": 1699360213,
+            "game": "https://www.chess.com/game/live/93099054013"
+        },
+        "record": {
+            "win": 184,
+            "loss": 151,
+            "draw": 11
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1513158340
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1513158340
+        }
+    },
+    "puzzle_rush": {}
+}

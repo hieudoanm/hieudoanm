@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47980046.4ac4c18b.200x200o.abfcc69cbd54.jpg",
+    "player_id": 47980046,
+    "@id": "https://api.chess.com/pub/player/otrovnipacov2405",
+    "url": "https://www.chess.com/member/Otrovnipacov2405",
+    "name": "Dusan Colovic",
+    "username": "otrovnipacov2405",
+    "title": "FM",
+    "followers": 165,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Belgrade",
+    "last_online": 1741676272,
+    "joined": 1531938853,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1569,
+            "date": 1655634354,
+            "rd": 179
+        },
+        "best": {
+            "rating": 2023,
+            "date": 1581278399,
+            "game": "https://www.chess.com/game/live/4482471732"
+        },
+        "record": {
+            "win": 35,
+            "loss": 3,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2202,
+            "date": 1733609458,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1733609458,
+            "game": "https://www.chess.com/game/live/4574227480"
+        },
+        "record": {
+            "win": 95,
+            "loss": 65,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2361,
+            "date": 1734562428,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1686688955,
+            "game": "https://www.chess.com/game/live/4482287290"
+        },
+        "record": {
+            "win": 166,
+            "loss": 100,
+            "draw": 36
+        }
+    },
+    "fide": 2297,
+    "tactics": {
+        "highest": {
+            "rating": 2508,
+            "date": 1573539234
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1531982929
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 37
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "player_id": 296311111,
+    "@id": "https://api.chess.com/pub/player/justusjbargsten",
+    "url": "https://www.chess.com/member/JustusJBargsten",
+    "username": "justusjbargsten",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741546759,
+    "joined": 1687867503,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2091,
+            "date": 1698182266,
+            "rd": 254
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2866,
+            "date": 1715872875
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1687867503
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

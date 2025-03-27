@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24482308.d9ae529c.200x200o.e28f98142edf.jpg",
+    "player_id": 24482308,
+    "@id": "https://api.chess.com/pub/player/crackcubano",
+    "url": "https://www.chess.com/member/crackcubano",
+    "name": "Isan Reynaldo Ortiz Suarez",
+    "username": "crackcubano",
+    "title": "GM",
+    "followers": 163,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1731103318,
+    "joined": 1444324074,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2500,
+            "date": 1608404484,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2726,
+            "date": 1598031733,
+            "game": "https://www.chess.com/game/live/5820699181"
+        },
+        "record": {
+            "win": 6,
+            "loss": 6,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2632,
+            "date": 1733963500,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2633,
+            "date": 1733963259,
+            "game": "https://www.chess.com/game/live/118361875943"
+        },
+        "record": {
+            "win": 107,
+            "loss": 54,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2857,
+            "date": 1731355159,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2857,
+            "date": 1731355159,
+            "game": "https://www.chess.com/game/live/97356758609"
+        },
+        "record": {
+            "win": 2179,
+            "loss": 2133,
+            "draw": 460
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1361,
+            "date": 1624995014
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1598534477
+        }
+    },
+    "puzzle_rush": {}
+}

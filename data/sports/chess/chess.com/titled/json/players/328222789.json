@@ -1,0 +1,83 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/328222789.9c2f3fcd.200x200o.a74693aa3579.png",
+    "player_id": 328222789,
+    "@id": "https://api.chess.com/pub/player/kornilovaeg",
+    "url": "https://www.chess.com/member/KornilovaEG",
+    "name": "Ekaterina Kornilova",
+    "username": "kornilovaeg",
+    "title": "WFM",
+    "followers": 570,
+    "country": "https://api.chess.com/pub/country/ME",
+    "last_online": 1741689529,
+    "joined": 1700854024,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1824,
+            "date": 1735839104,
+            "rd": 102
+        },
+        "best": {
+            "rating": 1859,
+            "date": 1729511050,
+            "game": "https://www.chess.com/game/daily/744877155"
+        },
+        "record": {
+            "win": 32,
+            "loss": 3,
+            "draw": 7,
+            "time_per_move": 9730,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2310,
+            "date": 1725379960,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2312,
+            "date": 1724517968,
+            "game": "https://www.chess.com/game/live/103065726337"
+        },
+        "record": {
+            "win": 291,
+            "loss": 160,
+            "draw": 61
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2308,
+            "date": 1740163631,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2334,
+            "date": 1700911111,
+            "game": "https://www.chess.com/game/live/131407241689"
+        },
+        "record": {
+            "win": 757,
+            "loss": 705,
+            "draw": 180
+        }
+    },
+    "fide": 2219,
+    "tactics": {
+        "highest": {
+            "rating": 1024,
+            "date": 1725462646
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1700854024
+        }
+    },
+    "puzzle_rush": {}
+}

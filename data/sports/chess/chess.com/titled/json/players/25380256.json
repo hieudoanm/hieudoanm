@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25380256.38f65115.200x200o.0b0165d42ee3.jpeg",
+    "player_id": 25380256,
+    "@id": "https://api.chess.com/pub/player/iamschrodingerscat",
+    "url": "https://www.chess.com/member/IamSchrodingersCat",
+    "name": "Paul Richter",
+    "username": "iamschrodingerscat",
+    "title": "NM",
+    "followers": 304,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741480401,
+    "joined": 1449111608,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1042,
+            "date": 1739199816,
+            "rd": 267
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1449111608,
+            "game": "https://www.chess.com/game/daily/636542355"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 33132,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1734918142,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2309,
+            "date": 1734918142,
+            "game": "https://www.chess.com/game/live/127423799783"
+        },
+        "record": {
+            "win": 56,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2800,
+            "date": 1741628639,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2996,
+            "date": 1738773177,
+            "game": "https://www.chess.com/game/live/106249739219"
+        },
+        "record": {
+            "win": 9188,
+            "loss": 6740,
+            "draw": 1328
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2605,
+            "date": 1741571247,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1722351998,
+            "game": "https://www.chess.com/game/live/114298257471"
+        },
+        "record": {
+            "win": 2130,
+            "loss": 1641,
+            "draw": 357
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3348,
+            "date": 1715957090
+        },
+        "lowest": {
+            "rating": 2075,
+            "date": 1466698358
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

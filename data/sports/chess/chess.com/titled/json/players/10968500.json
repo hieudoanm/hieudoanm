@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10968500.f31e4e06.200x200o.2418d3cb8a26.jpeg",
+    "player_id": 10968500,
+    "@id": "https://api.chess.com/pub/player/a-fier",
+    "url": "https://www.chess.com/member/A-Fier",
+    "name": "Alex Fier",
+    "username": "a-fier",
+    "title": "GM",
+    "followers": 1584,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1734178931,
+    "joined": 1361966117,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1663,
+            "date": 1598018146,
+            "rd": 257
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1361966117,
+            "game": "https://www.chess.com/game/daily/155345998"
+        },
+        "record": {
+            "win": 1,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 163366,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2482,
+            "date": 1717684186,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2589,
+            "date": 1601160873,
+            "game": "https://www.chess.com/game/live/72475993589"
+        },
+        "record": {
+            "win": 81,
+            "loss": 62,
+            "draw": 42
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2708,
+            "date": 1727345007,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2839,
+            "date": 1601494453,
+            "game": "https://www.chess.com/game/live/5483029469"
+        },
+        "record": {
+            "win": 205,
+            "loss": 146,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2818,
+            "date": 1732413836,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2948,
+            "date": 1709507066,
+            "game": "https://www.chess.com/game/live/71966661241"
+        },
+        "record": {
+            "win": 1923,
+            "loss": 1289,
+            "draw": 408
+        }
+    },
+    "fide": 2600,
+    "tactics": {
+        "highest": {
+            "rating": 3601,
+            "date": 1664403986
+        },
+        "lowest": {
+            "rating": 1320,
+            "date": 1363205387
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

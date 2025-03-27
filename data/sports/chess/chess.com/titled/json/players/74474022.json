@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74474022.cbcec87b.200x200o.30bf4c8a36dc.jpeg",
+    "player_id": 74474022,
+    "@id": "https://api.chess.com/pub/player/elprofessor21",
+    "url": "https://www.chess.com/member/Elprofessor21",
+    "name": "Christos Krallis",
+    "username": "elprofessor21",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741639818,
+    "joined": 1585148516,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2125,
+            "date": 1707671153,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1590517657,
+            "game": "https://www.chess.com/game/live/4906017785"
+        },
+        "record": {
+            "win": 16,
+            "loss": 6,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2669,
+            "date": 1740430688,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2719,
+            "date": 1692031268,
+            "game": "https://www.chess.com/game/live/85919961641"
+        },
+        "record": {
+            "win": 257,
+            "loss": 214,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2758,
+            "date": 1740083953,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2813,
+            "date": 1730170716,
+            "game": "https://www.chess.com/game/live/106416546045"
+        },
+        "record": {
+            "win": 857,
+            "loss": 759,
+            "draw": 198
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2780,
+            "date": 1732633832
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1590416744
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

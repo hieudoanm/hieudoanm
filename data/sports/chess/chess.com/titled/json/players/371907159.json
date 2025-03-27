@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/371907159.7a349dd5.200x200o.73781dbd3cfc.png",
+    "player_id": 371907159,
+    "@id": "https://api.chess.com/pub/player/andrewisasian31",
+    "url": "https://www.chess.com/member/andrewisasian31",
+    "name": "Andrew Guo",
+    "username": "andrewisasian31",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "CA",
+    "last_online": 1741578755,
+    "joined": 1719356418,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1736,
+            "date": 1727035079,
+            "rd": 251
+        },
+        "best": {
+            "rating": 1736,
+            "date": 1727035079,
+            "game": "https://www.chess.com/game/daily/674956919"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 37312,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2238,
+            "date": 1741126306,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1726256429,
+            "game": "https://www.chess.com/game/live/118436884553"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2565,
+            "date": 1740940170,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1725401024,
+            "game": "https://www.chess.com/game/live/114536889975"
+        },
+        "record": {
+            "win": 248,
+            "loss": 182,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2628,
+            "date": 1741579599,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2705,
+            "date": 1720744043,
+            "game": "https://www.chess.com/game/live/115555114133"
+        },
+        "record": {
+            "win": 131,
+            "loss": 77,
+            "draw": 20
+        }
+    },
+    "fide": 2331,
+    "tactics": {
+        "highest": {
+            "rating": 3624,
+            "date": 1720765548
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1719356418
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

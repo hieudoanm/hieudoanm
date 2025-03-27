@@ -1,0 +1,67 @@
+{
+    "player_id": 29772614,
+    "@id": "https://api.chess.com/pub/player/aleccable",
+    "url": "https://www.chess.com/member/aleccable",
+    "username": "aleccable",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741703363,
+    "joined": 1472955962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2295,
+            "date": 1740685836,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1673990535,
+            "game": "https://www.chess.com/game/live/67296032305"
+        },
+        "record": {
+            "win": 1617,
+            "loss": 1440,
+            "draw": 150
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2371,
+            "date": 1741703717,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1737550411,
+            "game": "https://www.chess.com/game/live/61683681801"
+        },
+        "record": {
+            "win": 7264,
+            "loss": 6641,
+            "draw": 915
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3356,
+            "date": 1666685670
+        },
+        "lowest": {
+            "rating": 1363,
+            "date": 1472956805
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/195364215.7ee158e5.200x200o.16aec51684ef.png",
+    "player_id": 195364215,
+    "@id": "https://api.chess.com/pub/player/mranonymaster",
+    "url": "https://www.chess.com/member/MrAnonymaster",
+    "username": "mranonymaster",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/KP",
+    "last_online": 1738494659,
+    "joined": 1661921654,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2227,
+            "date": 1738495836,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2227,
+            "date": 1738495836,
+            "game": "https://www.chess.com/game/live/83241433905"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1999,
+            "date": 1736412922,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2070,
+            "date": 1736412419,
+            "game": "https://www.chess.com/game/live/82897194447"
+        },
+        "record": {
+            "win": 31,
+            "loss": 26,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2176,
+            "date": 1736414867,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1689959936,
+            "game": "https://www.chess.com/game/live/86870404133"
+        },
+        "record": {
+            "win": 24,
+            "loss": 38,
+            "draw": 5
+        }
+    },
+    "fide": 2450,
+    "tactics": {
+        "highest": {
+            "rating": 2213,
+            "date": 1689960549
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1661921654
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86847964.fd72b6ba.200x200o.34230fee822d.jpeg",
+    "player_id": 86847964,
+    "@id": "https://api.chess.com/pub/player/litemale",
+    "url": "https://www.chess.com/member/LiteMale",
+    "name": "Molapo Joang",
+    "username": "litemale",
+    "title": "CM",
+    "followers": 37,
+    "country": "https://api.chess.com/pub/country/LS",
+    "location": "Lesotho",
+    "last_online": 1740772235,
+    "joined": 1594917183,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1795,
+            "date": 1740773067,
+            "rd": 72
+        },
+        "best": {
+            "rating": 1947,
+            "date": 1698483365,
+            "game": "https://www.chess.com/game/live/92221283077"
+        },
+        "record": {
+            "win": 477,
+            "loss": 432,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1466,
+            "date": 1713957856,
+            "rd": 135
+        },
+        "best": {
+            "rating": 1888,
+            "date": 1597654331,
+            "game": "https://www.chess.com/game/live/5298433441"
+        },
+        "record": {
+            "win": 225,
+            "loss": 206,
+            "draw": 10
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1594917183
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1594917183
+        }
+    },
+    "puzzle_rush": {}
+}

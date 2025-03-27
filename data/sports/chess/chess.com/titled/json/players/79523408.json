@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79523408.7a809488.200x200o.ecbb2410fb80.webp",
+    "player_id": 79523408,
+    "@id": "https://api.chess.com/pub/player/ortizfrancisco",
+    "url": "https://www.chess.com/member/ortizfrancisco",
+    "name": "Francisco Ortiz",
+    "username": "ortizfrancisco",
+    "title": "NM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741223676,
+    "joined": 1589498204,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2333,
+            "date": 1626668756,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1626668756,
+            "game": "https://www.chess.com/game/live/10167761941"
+        },
+        "record": {
+            "win": 90,
+            "loss": 33,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2656,
+            "date": 1736391818,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2694,
+            "date": 1729816654,
+            "game": "https://www.chess.com/game/live/123382214695"
+        },
+        "record": {
+            "win": 276,
+            "loss": 229,
+            "draw": 43
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2413,
+            "date": 1729178801,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2415,
+            "date": 1724274301,
+            "game": "https://www.chess.com/game/live/19680636559"
+        },
+        "record": {
+            "win": 245,
+            "loss": 138,
+            "draw": 34
+        }
+    },
+    "fide": 2029,
+    "tactics": {
+        "highest": {
+            "rating": 2952,
+            "date": 1738531987
+        },
+        "lowest": {
+            "rating": 417,
+            "date": 1589517550
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

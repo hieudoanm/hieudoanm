@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14859196.b8cd3448.200x200o.f231d4a1583b.png",
+    "player_id": 14859196,
+    "@id": "https://api.chess.com/pub/player/petearrrpan",
+    "url": "https://www.chess.com/member/petearrrpan",
+    "name": "Christopher Pan",
+    "username": "petearrrpan",
+    "title": "NM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741676379,
+    "joined": 1386217203,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1465,
+            "date": 1741656304,
+            "rd": 100
+        },
+        "best": {
+            "rating": 1891,
+            "date": 1634529195,
+            "game": "https://www.chess.com/game/daily/205570518"
+        },
+        "record": {
+            "win": 109,
+            "loss": 111,
+            "draw": 25,
+            "time_per_move": 44977,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2044,
+            "date": 1703734924,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2295,
+            "date": 1617078018,
+            "game": "https://www.chess.com/game/live/6406852592"
+        },
+        "record": {
+            "win": 33,
+            "loss": 13,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2412,
+            "date": 1741676565,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2593,
+            "date": 1715324863,
+            "game": "https://www.chess.com/game/live/6530518764"
+        },
+        "record": {
+            "win": 9207,
+            "loss": 9923,
+            "draw": 1124
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2281,
+            "date": 1731054699,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2473,
+            "date": 1644300696,
+            "game": "https://www.chess.com/game/live/5837641569"
+        },
+        "record": {
+            "win": 1119,
+            "loss": 1015,
+            "draw": 150
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3146,
+            "date": 1741427757
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1386217203
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

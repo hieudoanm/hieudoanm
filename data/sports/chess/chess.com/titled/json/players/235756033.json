@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/235756033.66d09f6e.200x200o.ccb287650b63.jpg",
+    "player_id": 235756033,
+    "@id": "https://api.chess.com/pub/player/rantomopening",
+    "url": "https://www.chess.com/member/RantomOpening",
+    "name": "Rafail Antoniou",
+    "username": "rantomopening",
+    "title": "CM",
+    "followers": 156,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1741702009,
+    "joined": 1675111379,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1472,
+            "date": 1730868714,
+            "rd": 91
+        },
+        "best": {
+            "rating": 1519,
+            "date": 1729334411,
+            "game": "https://www.chess.com/game/daily/716811871"
+        },
+        "record": {
+            "win": 16,
+            "loss": 3,
+            "draw": 2,
+            "time_per_move": 6729,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2433,
+            "date": 1737562927,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2433,
+            "date": 1737562927,
+            "game": "https://www.chess.com/game/live/131301562545"
+        },
+        "record": {
+            "win": 137,
+            "loss": 77,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2736,
+            "date": 1735317248,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2822,
+            "date": 1729169615,
+            "game": "https://www.chess.com/game/live/122937873031"
+        },
+        "record": {
+            "win": 3081,
+            "loss": 3007,
+            "draw": 547
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2761,
+            "date": 1741697349,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2764,
+            "date": 1731358566,
+            "game": "https://www.chess.com/game/live/122138422015"
+        },
+        "record": {
+            "win": 3989,
+            "loss": 3956,
+            "draw": 933
+        }
+    },
+    "fide": 2030,
+    "tactics": {
+        "highest": {
+            "rating": 3435,
+            "date": 1707041181
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1675199462
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

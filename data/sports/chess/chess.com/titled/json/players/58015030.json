@@ -1,0 +1,84 @@
+{
+    "player_id": 58015030,
+    "@id": "https://api.chess.com/pub/player/frenchmonster2002",
+    "url": "https://www.chess.com/member/FrenchMonster2002",
+    "name": "Arthur Lucas",
+    "username": "frenchmonster2002",
+    "title": "IM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741384920,
+    "joined": 1551558910,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2322,
+            "date": 1615917141,
+            "rd": 328
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1615917141,
+            "game": "https://www.chess.com/game/live/9655637377"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2813,
+            "date": 1716818364,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2902,
+            "date": 1697562757,
+            "game": "https://www.chess.com/game/live/47129406691"
+        },
+        "record": {
+            "win": 403,
+            "loss": 420,
+            "draw": 63
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2345,
+            "date": 1735056437,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2537,
+            "date": 1664899931,
+            "game": "https://www.chess.com/game/live/61662098191"
+        },
+        "record": {
+            "win": 697,
+            "loss": 756,
+            "draw": 134
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4149,
+            "date": 1715951047
+        },
+        "lowest": {
+            "rating": 1205,
+            "date": 1551688359
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

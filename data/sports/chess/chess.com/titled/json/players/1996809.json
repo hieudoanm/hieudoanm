@@ -1,0 +1,98 @@
+{
+    "player_id": 1996809,
+    "@id": "https://api.chess.com/pub/player/jawsviejo",
+    "url": "https://www.chess.com/member/JAWsviejo",
+    "username": "jawsviejo",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Arizona",
+    "last_online": 1735346866,
+    "joined": 1246037100,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1110,
+            "date": 1706347686,
+            "rd": 135
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1246037100,
+            "game": "https://www.chess.com/game/daily/413029059"
+        },
+        "record": {
+            "win": 12,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 27819,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2292,
+            "date": 1373931690,
+            "rd": 167
+        },
+        "best": {
+            "rating": 2292,
+            "date": 1373931690,
+            "game": "https://www.chess.com/game/live/307730737"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2200,
+            "date": 1452308168,
+            "rd": 319
+        },
+        "best": {
+            "rating": 2050,
+            "date": 1452308168,
+            "game": "https://www.chess.com/game/live/1416053826"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2032,
+            "date": 1717427211,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2125,
+            "date": 1716687000,
+            "game": "https://www.chess.com/game/live/4857227553"
+        },
+        "record": {
+            "win": 1817,
+            "loss": 372,
+            "draw": 50
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3277,
+            "date": 1741146584
+        },
+        "lowest": {
+            "rating": 1373,
+            "date": 1286300707
+        }
+    },
+    "puzzle_rush": {}
+}

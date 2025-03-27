@@ -1,0 +1,61 @@
+{
+    "player_id": 426418197,
+    "@id": "https://api.chess.com/pub/player/birdyschnitzel",
+    "url": "https://www.chess.com/member/BirdySchnitzel",
+    "username": "birdyschnitzel",
+    "title": "WCM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741523942,
+    "joined": 1738687153,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2030,
+            "date": 1739824834,
+            "rd": 235
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1739824543,
+            "game": "https://www.chess.com/game/live/133563538361"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1985,
+            "date": 1741528819,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2112,
+            "date": 1739125104,
+            "game": "https://www.chess.com/game/live/132863338065"
+        },
+        "record": {
+            "win": 33,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3100,
+            "date": 1740949607
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738687153
+        }
+    },
+    "puzzle_rush": {}
+}

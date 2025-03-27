@@ -1,0 +1,49 @@
+{
+    "player_id": 89854886,
+    "@id": "https://api.chess.com/pub/player/hotshot008",
+    "url": "https://www.chess.com/member/HotShot008",
+    "username": "hotshot008",
+    "title": "GM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/AM",
+    "last_online": 1731335049,
+    "joined": 1598413915,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2887,
+            "date": 1731080681,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2916,
+            "date": 1648872137,
+            "game": "https://www.chess.com/game/live/15243156731"
+        },
+        "record": {
+            "win": 239,
+            "loss": 206,
+            "draw": 57
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2650,
+            "date": 1669379118
+        },
+        "lowest": {
+            "rating": 2650,
+            "date": 1620999218
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

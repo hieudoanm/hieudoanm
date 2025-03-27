@@ -1,0 +1,83 @@
+{
+    "player_id": 60266308,
+    "@id": "https://api.chess.com/pub/player/imquinner",
+    "url": "https://www.chess.com/member/IMQuinner",
+    "username": "imquinner",
+    "title": "IM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/IE",
+    "last_online": 1741605384,
+    "joined": 1556289670,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2059,
+            "date": 1735645059,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1606683472,
+            "game": "https://www.chess.com/game/live/28474804911"
+        },
+        "record": {
+            "win": 56,
+            "loss": 7,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2069,
+            "date": 1738196730,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2293,
+            "date": 1702235887,
+            "game": "https://www.chess.com/game/live/27020414331"
+        },
+        "record": {
+            "win": 56,
+            "loss": 49,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2377,
+            "date": 1741606148,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2427,
+            "date": 1636138288,
+            "game": "https://www.chess.com/game/live/3727775991"
+        },
+        "record": {
+            "win": 459,
+            "loss": 407,
+            "draw": 22
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1222,
+            "date": 1601924175
+        },
+        "lowest": {
+            "rating": 1077,
+            "date": 1660293905
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 22,
+            "score": 19
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_id": 8365552,
+    "@id": "https://api.chess.com/pub/player/kevinhappyface",
+    "url": "https://www.chess.com/member/kevinhappyface",
+    "name": "Kevin Cao",
+    "username": "kevinhappyface",
+    "title": "NM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "St. Louis",
+    "last_online": 1736443649,
+    "joined": 1343594154,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1728049650,
+            "rd": 350
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1343594154,
+            "game": "https://www.chess.com/game/daily/78870392"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 15376,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2369,
+            "date": 1682533622,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1682533622,
+            "game": "https://www.chess.com/game/live/37171265821"
+        },
+        "record": {
+            "win": 21,
+            "loss": 11,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2430,
+            "date": 1741378030,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1687979866,
+            "game": "https://www.chess.com/game/live/36824986715"
+        },
+        "record": {
+            "win": 2174,
+            "loss": 1655,
+            "draw": 213
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2404,
+            "date": 1731566442,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2487,
+            "date": 1731565215,
+            "game": "https://www.chess.com/game/live/51123617407"
+        },
+        "record": {
+            "win": 132,
+            "loss": 99,
+            "draw": 10
+        }
+    },
+    "fide": 2292,
+    "tactics": {
+        "highest": {
+            "rating": 3055,
+            "date": 1637085144
+        },
+        "lowest": {
+            "rating": 1067,
+            "date": 1393115900
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

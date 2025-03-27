@@ -1,0 +1,136 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34877374.60df4b3a.200x200o.af275644aebb.jpeg",
+    "player_id": 34877374,
+    "@id": "https://api.chess.com/pub/player/fatzl",
+    "url": "https://www.chess.com/member/fatzl",
+    "name": "Florian Atzl",
+    "username": "fatzl",
+    "title": "CM",
+    "followers": 137,
+    "country": "https://api.chess.com/pub/country/AT",
+    "location": "Wien",
+    "last_online": 1741293175,
+    "joined": 1492536822,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1555,
+            "date": 1741674106,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2013,
+            "date": 1579270893,
+            "game": "https://www.chess.com/game/daily/283034148"
+        },
+        "record": {
+            "win": 3145,
+            "loss": 825,
+            "draw": 286,
+            "time_per_move": 27899,
+            "timeout_percent": 4
+        },
+        "tournament": {
+            "points": 675,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1380,
+            "date": 1700443966,
+            "rd": 61
+        },
+        "best": {
+            "rating": 1414,
+            "date": 1697817087,
+            "game": "https://www.chess.com/game/daily/549911255"
+        },
+        "record": {
+            "win": 37,
+            "loss": 12,
+            "draw": 3,
+            "time_per_move": 27899,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 675,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2232,
+            "date": 1738742552
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1700292281,
+            "game": "https://www.chess.com/game/live/93543581253"
+        },
+        "record": {
+            "win": 296,
+            "loss": 95,
+            "draw": 39
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2269,
+            "date": 1729450651,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1633517402,
+            "game": "https://www.chess.com/game/live/34592337597"
+        },
+        "record": {
+            "win": 1133,
+            "loss": 767,
+            "draw": 93
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2275,
+            "date": 1736103950,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2390,
+            "date": 1653211457,
+            "game": "https://www.chess.com/game/live/110047815401"
+        },
+        "record": {
+            "win": 949,
+            "loss": 643,
+            "draw": 108
+        }
+    },
+    "fide": 2211,
+    "tactics": {
+        "highest": {
+            "rating": 3204,
+            "date": 1724995641
+        },
+        "lowest": {
+            "rating": 1242,
+            "date": 1492536880
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

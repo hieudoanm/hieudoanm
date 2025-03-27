@@ -1,0 +1,85 @@
+{
+    "player_id": 9855364,
+    "@id": "https://api.chess.com/pub/player/igor_janik",
+    "url": "https://www.chess.com/member/Igor_Janik",
+    "name": "Igor Janik",
+    "username": "igor_janik",
+    "title": "GM",
+    "followers": 386,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Elblag",
+    "last_online": 1741591305,
+    "joined": 1354390074,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2504,
+            "date": 1740688787,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2759,
+            "date": 1613316028,
+            "game": "https://www.chess.com/game/live/126215921531"
+        },
+        "record": {
+            "win": 18,
+            "loss": 9,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2934,
+            "date": 1741134611,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2967,
+            "date": 1737567539,
+            "game": "https://www.chess.com/game/live/131479232497"
+        },
+        "record": {
+            "win": 281,
+            "loss": 146,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2851,
+            "date": 1741602315,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3003,
+            "date": 1723561652,
+            "game": "https://www.chess.com/game/live/126380985839"
+        },
+        "record": {
+            "win": 5909,
+            "loss": 4155,
+            "draw": 1222
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3661,
+            "date": 1732547877
+        },
+        "lowest": {
+            "rating": 1472,
+            "date": 1354391097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

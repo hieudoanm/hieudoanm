@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13132048.a240be22.200x200o.3073ccc87d86.jpg",
+    "player_id": 13132048,
+    "@id": "https://api.chess.com/pub/player/purvakuilis",
+    "url": "https://www.chess.com/member/PurvaKuilis",
+    "name": "Kristaps Krustkalns",
+    "username": "purvakuilis",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "Carnikava",
+    "last_online": 1741631803,
+    "joined": 1376421507,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2384,
+            "date": 1619031480,
+            "rd": 248
+        },
+        "best": {
+            "rating": 2384,
+            "date": 1619031480,
+            "game": "https://www.chess.com/game/live/11306016169"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2300,
+            "date": 1741642264,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1735389700,
+            "game": "https://www.chess.com/game/live/28557585353"
+        },
+        "record": {
+            "win": 4061,
+            "loss": 3935,
+            "draw": 679
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2849,
+            "date": 1687197457
+        },
+        "lowest": {
+            "rating": 1276,
+            "date": 1379536603
+        }
+    },
+    "puzzle_rush": {}
+}

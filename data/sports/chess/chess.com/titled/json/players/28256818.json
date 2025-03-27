@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28256818.63f347dd.200x200o.4b1151730784.jpeg",
+    "player_id": 28256818,
+    "@id": "https://api.chess.com/pub/player/gm4life",
+    "url": "https://www.chess.com/member/GM4life",
+    "name": "Daniel Girsh",
+    "username": "gm4life",
+    "title": "NM",
+    "followers": 249,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741686401,
+    "joined": 1463655377,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1627,
+            "date": 1728273296,
+            "rd": 104
+        },
+        "best": {
+            "rating": 1758,
+            "date": 1529260659,
+            "game": "https://www.chess.com/game/daily/154023276"
+        },
+        "record": {
+            "win": 79,
+            "loss": 40,
+            "draw": 23,
+            "time_per_move": 26096,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2250,
+            "date": 1701230977,
+            "rd": 180
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1662409602,
+            "game": "https://www.chess.com/game/live/56147749843"
+        },
+        "record": {
+            "win": 128,
+            "loss": 92,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2612,
+            "date": 1725764930,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2619,
+            "date": 1717020314,
+            "game": "https://www.chess.com/game/live/110758933187"
+        },
+        "record": {
+            "win": 300,
+            "loss": 267,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1741699455,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2739,
+            "date": 1705075995,
+            "game": "https://www.chess.com/game/live/127347574985"
+        },
+        "record": {
+            "win": 21975,
+            "loss": 22054,
+            "draw": 3289
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3413,
+            "date": 1691596558
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1463660748
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 60
+        }
+    }
+}

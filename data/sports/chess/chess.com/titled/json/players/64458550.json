@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64458550.e72573a1.200x200o.39f89bcb3c35.png",
+    "player_id": 64458550,
+    "@id": "https://api.chess.com/pub/player/iancastillo1202",
+    "url": "https://www.chess.com/member/IanCastillo1202",
+    "name": "Ian Eiffel Castillo",
+    "username": "iancastillo1202",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/NI",
+    "last_online": 1719525086,
+    "joined": 1566169620,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1662346471,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 36540,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1479,
+            "date": 1719523437,
+            "rd": 280
+        },
+        "best": {
+            "rating": 1479,
+            "date": 1719523437,
+            "game": "https://www.chess.com/game/live/113261963513"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1965,
+            "date": 1659926991,
+            "rd": 168
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1659926367,
+            "game": "https://www.chess.com/game/live/44061309789"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1352,
+            "date": 1690314173,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1452,
+            "date": 1567193039,
+            "game": "https://www.chess.com/game/live/4509717595"
+        },
+        "record": {
+            "win": 5,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3718,
+            "date": 1663109835
+        },
+        "lowest": {
+            "rating": 1686,
+            "date": 1568894562
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 76263608,
+    "@id": "https://api.chess.com/pub/player/jumpingknight20",
+    "url": "https://www.chess.com/member/jumpingknight20",
+    "name": "Ethan Vaz",
+    "username": "jumpingknight20",
+    "title": "IM",
+    "followers": 707,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741681908,
+    "joined": 1586529390,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2357,
+            "date": 1684687153,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2386,
+            "date": 1643624271,
+            "game": "https://www.chess.com/game/live/34862381705"
+        },
+        "record": {
+            "win": 122,
+            "loss": 9,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2910,
+            "date": 1739640440,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2922,
+            "date": 1712425811,
+            "game": "https://www.chess.com/game/live/98911592389"
+        },
+        "record": {
+            "win": 2156,
+            "loss": 447,
+            "draw": 118
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2835,
+            "date": 1722359482,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2863,
+            "date": 1721148258,
+            "game": "https://www.chess.com/game/live/76873797121"
+        },
+        "record": {
+            "win": 921,
+            "loss": 236,
+            "draw": 106
+        }
+    },
+    "fide": 2430,
+    "tactics": {
+        "highest": {
+            "rating": 5077,
+            "date": 1616221853
+        },
+        "lowest": {
+            "rating": 408,
+            "date": 1586529787
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 79,
+            "score": 76
+        }
+    }
+}

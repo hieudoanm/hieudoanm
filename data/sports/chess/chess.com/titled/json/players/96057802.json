@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/96057802.e91b38fe.200x200o.9778a2f09bb5.png",
+    "player_id": 96057802,
+    "@id": "https://api.chess.com/pub/player/yoda1992",
+    "url": "https://www.chess.com/member/Yoda1992",
+    "name": "Christian Almeida do Nascimento",
+    "username": "yoda1992",
+    "title": "NM",
+    "followers": 63,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741644987,
+    "joined": 1605026277,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2418,
+            "date": 1724429576,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2418,
+            "date": 1724429576,
+            "game": "https://www.chess.com/game/live/118167550813"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2633,
+            "date": 1726601694,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2633,
+            "date": 1726601694,
+            "game": "https://www.chess.com/game/live/86206691519"
+        },
+        "record": {
+            "win": 541,
+            "loss": 587,
+            "draw": 69
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2533,
+            "date": 1741378114,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2691,
+            "date": 1728780564,
+            "game": "https://www.chess.com/game/live/93195152733"
+        },
+        "record": {
+            "win": 6620,
+            "loss": 8190,
+            "draw": 1333
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3272,
+            "date": 1710212171
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1606085062
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 83,
+            "score": 80
+        },
+        "daily": {
+            "total_attempts": 42,
+            "score": 41
+        }
+    }
+}

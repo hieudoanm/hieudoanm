@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5332085.19f50c21.200x200o.2768defff61d.jpg",
+    "player_id": 5332085,
+    "@id": "https://api.chess.com/pub/player/cruzwilliam",
+    "url": "https://www.chess.com/member/CruzWilliam",
+    "name": "William Ferreira Da Cruz",
+    "username": "cruzwilliam",
+    "title": "FM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1740603992,
+    "joined": 1308953899,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2074,
+            "date": 1624132528,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2074,
+            "date": 1624132528,
+            "game": "https://www.chess.com/game/live/6368848931"
+        },
+        "record": {
+            "win": 200,
+            "loss": 82,
+            "draw": 34
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2314,
+            "date": 1720296181,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2416,
+            "date": 1707266118,
+            "game": "https://www.chess.com/game/live/101002989217"
+        },
+        "record": {
+            "win": 334,
+            "loss": 278,
+            "draw": 61
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2446,
+            "date": 1740606936,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1666131391,
+            "game": "https://www.chess.com/game/live/71197572641"
+        },
+        "record": {
+            "win": 2461,
+            "loss": 2169,
+            "draw": 527
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2944,
+            "date": 1727008152
+        },
+        "lowest": {
+            "rating": 1365,
+            "date": 1338163962
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

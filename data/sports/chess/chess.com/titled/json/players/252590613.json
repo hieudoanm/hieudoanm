@@ -1,0 +1,61 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/252590613.e1c630ee.200x200o.753efe608093.jpg",
+    "player_id": 252590613,
+    "@id": "https://api.chess.com/pub/player/oldsoldiere",
+    "url": "https://www.chess.com/member/OldSoldiere",
+    "username": "oldsoldiere",
+    "title": "NM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1740858611,
+    "joined": 1677319263,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2585,
+            "date": 1732394637,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1732380499,
+            "game": "https://www.chess.com/game/live/125102345067"
+        },
+        "record": {
+            "win": 685,
+            "loss": 248,
+            "draw": 264
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2666,
+            "date": 1735747105
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1735747105,
+            "game": "https://www.chess.com/game/live/127266619677"
+        },
+        "record": {
+            "win": 116,
+            "loss": 59,
+            "draw": 54
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2012,
+            "date": 1709723810
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1677319263
+        }
+    },
+    "puzzle_rush": {}
+}

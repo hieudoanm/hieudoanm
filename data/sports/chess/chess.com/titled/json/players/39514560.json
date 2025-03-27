@@ -1,0 +1,62 @@
+{
+    "player_id": 39514560,
+    "@id": "https://api.chess.com/pub/player/rofflekohn",
+    "url": "https://www.chess.com/member/rofflekohn",
+    "username": "rofflekohn",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741103959,
+    "joined": 1508209579,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2250,
+            "date": 1741071574,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1718227617,
+            "game": "https://www.chess.com/game/live/131488207987"
+        },
+        "record": {
+            "win": 499,
+            "loss": 232,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2251,
+            "date": 1739850389,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2330,
+            "date": 1719418157,
+            "game": "https://www.chess.com/game/live/113157002377"
+        },
+        "record": {
+            "win": 127,
+            "loss": 58,
+            "draw": 7
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1508209579
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1508209579
+        }
+    },
+    "puzzle_rush": {}
+}

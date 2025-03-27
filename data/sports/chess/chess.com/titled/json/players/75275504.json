@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75275504.335a42dc.200x200o.4e2c3754d96e.jpeg",
+    "player_id": 75275504,
+    "@id": "https://api.chess.com/pub/player/chessvladimir1957",
+    "url": "https://www.chess.com/member/ChessVladimir1957",
+    "name": "Anna Hairapetian",
+    "username": "chessvladimir1957",
+    "title": "WIM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Armenia",
+    "last_online": 1665078557,
+    "joined": 1585728077,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1086,
+            "date": 1620463644,
+            "rd": 169
+        },
+        "best": {
+            "rating": 1809,
+            "date": 1592676377,
+            "game": "https://www.chess.com/game/live/5255462260"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1633,
+            "date": 1592676663,
+            "rd": 349
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1875,
+            "date": 1608049819,
+            "rd": 73
+        },
+        "best": {
+            "rating": 1990,
+            "date": 1586369241,
+            "game": "https://www.chess.com/game/live/5775044042"
+        },
+        "record": {
+            "win": 28,
+            "loss": 9,
+            "draw": 7
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2992,
+            "date": 1647597417
+        },
+        "lowest": {
+            "rating": 2141,
+            "date": 1591906928
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 28,
+            "score": 27
+        }
+    }
+}

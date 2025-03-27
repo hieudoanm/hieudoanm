@@ -1,0 +1,66 @@
+{
+    "player_id": 64083640,
+    "@id": "https://api.chess.com/pub/player/cristianbale_64",
+    "url": "https://www.chess.com/member/CristianBale_64",
+    "username": "cristianbale_64",
+    "title": "IM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741512067,
+    "joined": 1565253408,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1856,
+            "date": 1741012444,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2239,
+            "date": 1602867463,
+            "game": "https://www.chess.com/game/live/10353986075"
+        },
+        "record": {
+            "win": 196,
+            "loss": 163,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2129,
+            "date": 1738757045,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2698,
+            "date": 1577441847,
+            "game": "https://www.chess.com/game/live/42542958925"
+        },
+        "record": {
+            "win": 823,
+            "loss": 816,
+            "draw": 44
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3571,
+            "date": 1711645191
+        },
+        "lowest": {
+            "rating": 2500,
+            "date": 1569346738
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 47
+        }
+    }
+}

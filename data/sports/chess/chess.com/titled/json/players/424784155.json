@@ -1,0 +1,84 @@
+{
+    "player_id": 424784155,
+    "@id": "https://api.chess.com/pub/player/alphagm1729",
+    "url": "https://www.chess.com/member/AlphaGM1729",
+    "username": "alphagm1729",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/GH",
+    "last_online": 1738330631,
+    "joined": 1738159869,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1986,
+            "date": 1738248818,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1986,
+            "date": 1738248818,
+            "game": "https://www.chess.com/game/live/131987362643"
+        },
+        "record": {
+            "win": 8,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2041,
+            "date": 1738259550,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2041,
+            "date": 1738259550,
+            "game": "https://www.chess.com/game/live/131998250137"
+        },
+        "record": {
+            "win": 14,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2105,
+            "date": 1738251876,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2117,
+            "date": 1738196186,
+            "game": "https://www.chess.com/game/live/131931576031"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1038,
+            "date": 1738265602
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738159869
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 36
+        }
+    }
+}

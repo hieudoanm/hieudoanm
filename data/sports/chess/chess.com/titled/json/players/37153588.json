@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37153588.b0c57ec0.200x200o.3250fc4fb9fa.jpeg",
+    "player_id": 37153588,
+    "@id": "https://api.chess.com/pub/player/fmshawnrl123",
+    "url": "https://www.chess.com/member/fmshawnrl123",
+    "name": "Shawn Rodrigue-Lemieux",
+    "username": "fmshawnrl123",
+    "title": "GM",
+    "followers": 1840,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Montreal",
+    "last_online": 1734115319,
+    "joined": 1500489421,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1988,
+            "date": 1714318054,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2095,
+            "date": 1648150806,
+            "game": "https://www.chess.com/game/daily/269184638"
+        },
+        "record": {
+            "win": 209,
+            "loss": 31,
+            "draw": 32,
+            "time_per_move": 17086,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2413,
+            "date": 1678994979,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1643122789,
+            "game": "https://www.chess.com/game/live/5709151836"
+        },
+        "record": {
+            "win": 98,
+            "loss": 8,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2892,
+            "date": 1733596993,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3028,
+            "date": 1666490043,
+            "game": "https://www.chess.com/game/live/80519529789"
+        },
+        "record": {
+            "win": 6171,
+            "loss": 2958,
+            "draw": 496
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2864,
+            "date": 1733947746,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2981,
+            "date": 1731981744,
+            "game": "https://www.chess.com/game/live/53022556573"
+        },
+        "record": {
+            "win": 2756,
+            "loss": 1362,
+            "draw": 363
+        }
+    },
+    "fide": 2502,
+    "tactics": {
+        "highest": {
+            "rating": 3510,
+            "date": 1720115781
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1516325225
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        },
+        "daily": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

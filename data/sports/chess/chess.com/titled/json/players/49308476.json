@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49308476.f296b7aa.200x200o.5f2c2dc46ff8.png",
+    "player_id": 49308476,
+    "@id": "https://api.chess.com/pub/player/szparu",
+    "url": "https://www.chess.com/member/Szparu",
+    "name": "Mi\u0142osz Szpar",
+    "username": "szparu",
+    "title": "IM",
+    "followers": 736,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741601891,
+    "joined": 1535745436,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/szparumen",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/szparumen"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 843,
+            "date": 1719476952,
+            "rd": 244
+        },
+        "best": {
+            "rating": 1090,
+            "date": 1586336425,
+            "game": "https://www.chess.com/game/daily/255139906"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 136253,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2552,
+            "date": 1740133973,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1732303737,
+            "game": "https://www.chess.com/game/live/105309757881"
+        },
+        "record": {
+            "win": 314,
+            "loss": 118,
+            "draw": 47
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2978,
+            "date": 1741122034,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2992,
+            "date": 1737496530,
+            "game": "https://www.chess.com/game/live/53280652577"
+        },
+        "record": {
+            "win": 1143,
+            "loss": 729,
+            "draw": 105
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2831,
+            "date": 1741133153,
+            "rd": 36
+        },
+        "best": {
+            "rating": 3009,
+            "date": 1732564750,
+            "game": "https://www.chess.com/game/live/131216347525"
+        },
+        "record": {
+            "win": 3964,
+            "loss": 2670,
+            "draw": 606
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3662,
+            "date": 1728474651
+        },
+        "lowest": {
+            "rating": 417,
+            "date": 1544977097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

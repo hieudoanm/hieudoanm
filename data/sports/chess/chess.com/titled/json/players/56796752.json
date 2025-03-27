@@ -1,0 +1,62 @@
+{
+    "player_id": 56796752,
+    "@id": "https://api.chess.com/pub/player/fartobus",
+    "url": "https://www.chess.com/member/Fartobus",
+    "name": "Andrei Maksimenko",
+    "username": "fartobus",
+    "title": "GM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1729442135,
+    "joined": 1549011106,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2393,
+            "date": 1689522975,
+            "rd": 248
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2386,
+            "date": 1710179340,
+            "rd": 173
+        },
+        "best": {
+            "rating": 2757,
+            "date": 1589628723,
+            "game": "https://www.chess.com/game/live/4929460482"
+        },
+        "record": {
+            "win": 114,
+            "loss": 82,
+            "draw": 19
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3784,
+            "date": 1702472114
+        },
+        "lowest": {
+            "rating": 2413,
+            "date": 1561124980
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

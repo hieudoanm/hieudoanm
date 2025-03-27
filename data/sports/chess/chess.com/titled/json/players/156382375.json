@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/156382375.e4622c3a.200x200o.52782e856d48.jpeg",
+    "player_id": 156382375,
+    "@id": "https://api.chess.com/pub/player/spongebob_03",
+    "url": "https://www.chess.com/member/SpongeBob_03",
+    "name": "Niklesha Tharushi",
+    "username": "spongebob_03",
+    "title": "WCM",
+    "followers": 62,
+    "country": "https://api.chess.com/pub/country/LK",
+    "last_online": 1741661204,
+    "joined": 1632965002,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2170,
+            "date": 1691433303,
+            "rd": 144
+        },
+        "best": {
+            "rating": 2170,
+            "date": 1691433303,
+            "game": "https://www.chess.com/game/live/85172033355"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2378,
+            "date": 1741662382,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1701830439,
+            "game": "https://www.chess.com/game/live/131818855005"
+        },
+        "record": {
+            "win": 280,
+            "loss": 462,
+            "draw": 52
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3039,
+            "date": 1666133948
+        },
+        "lowest": {
+            "rating": 1591,
+            "date": 1633755033
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

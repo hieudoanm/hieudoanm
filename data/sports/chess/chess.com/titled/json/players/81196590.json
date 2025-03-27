@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/81196590.b99fc343.200x200o.ef43f339f970.jpeg",
+    "player_id": 81196590,
+    "@id": "https://api.chess.com/pub/player/nicky1405",
+    "url": "https://www.chess.com/member/Nicky1405",
+    "name": "Damaris Nicole Perez",
+    "username": "nicky1405",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/SV",
+    "last_online": 1624473202,
+    "joined": 1591053674,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1636,
+            "date": 1602969856,
+            "rd": 164
+        },
+        "best": {
+            "rating": 1883,
+            "date": 1602967667,
+            "game": "https://www.chess.com/game/live/5597842717"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1701,
+            "date": 1600219782,
+            "rd": 87
+        },
+        "best": {
+            "rating": 1701,
+            "date": 1600219782,
+            "game": "https://www.chess.com/game/live/4940434664"
+        },
+        "record": {
+            "win": 16,
+            "loss": 18,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1548,
+            "date": 1610227218,
+            "rd": 89
+        },
+        "best": {
+            "rating": 1884,
+            "date": 1591200651,
+            "game": "https://www.chess.com/game/live/5082460667"
+        },
+        "record": {
+            "win": 39,
+            "loss": 23,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1067,
+            "date": 1591058983
+        },
+        "lowest": {
+            "rating": 1014,
+            "date": 1591058923
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 15,
+            "score": 14
+        }
+    }
+}

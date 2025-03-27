@@ -1,0 +1,66 @@
+{
+    "player_id": 167795027,
+    "@id": "https://api.chess.com/pub/player/blankface04",
+    "url": "https://www.chess.com/member/BlankFace04",
+    "username": "blankface04",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/VC",
+    "last_online": 1731963754,
+    "joined": 1641475060,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2513,
+            "date": 1728755256,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1707856100,
+            "game": "https://www.chess.com/game/live/119573970001"
+        },
+        "record": {
+            "win": 269,
+            "loss": 204,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2475,
+            "date": 1728078585,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1724172516,
+            "game": "https://www.chess.com/game/live/117811210067"
+        },
+        "record": {
+            "win": 920,
+            "loss": 820,
+            "draw": 197
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3307,
+            "date": 1728132171
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1641475060
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

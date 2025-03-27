@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67843942.121648ea.200x200o.cda3680766b4.jpeg",
+    "player_id": 67843942,
+    "@id": "https://api.chess.com/pub/player/budisavljevic",
+    "url": "https://www.chess.com/member/Budisavljevic",
+    "name": "Luka Budisavljevic",
+    "username": "budisavljevic",
+    "title": "GM",
+    "followers": 110,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1734109906,
+    "joined": 1573488706,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2357,
+            "date": 1727288160,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1584304791,
+            "game": "https://www.chess.com/game/live/80324510475"
+        },
+        "record": {
+            "win": 42,
+            "loss": 49,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2754,
+            "date": 1734126479,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2832,
+            "date": 1713893832,
+            "game": "https://www.chess.com/game/live/103236156965"
+        },
+        "record": {
+            "win": 809,
+            "loss": 962,
+            "draw": 113
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2769,
+            "date": 1734127112,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2876,
+            "date": 1722861202,
+            "game": "https://www.chess.com/game/live/94080213333"
+        },
+        "record": {
+            "win": 940,
+            "loss": 923,
+            "draw": 181
+        }
+    },
+    "fide": 2519,
+    "tactics": {
+        "highest": {
+            "rating": 2774,
+            "date": 1732425005
+        },
+        "lowest": {
+            "rating": 2191,
+            "date": 1642510702
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29961538.6762f437.200x200o.c5f6cd0e57d2.jpeg",
+    "player_id": 29961538,
+    "@id": "https://api.chess.com/pub/player/gabix_94",
+    "url": "https://www.chess.com/member/Gabix_94",
+    "name": "Gabor Nagy",
+    "username": "gabix_94",
+    "title": "GM",
+    "followers": 185,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1734088319,
+    "joined": 1474036531,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2413,
+            "date": 1681984801,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2571,
+            "date": 1586777096,
+            "game": "https://www.chess.com/game/live/4716114039"
+        },
+        "record": {
+            "win": 20,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2838,
+            "date": 1733596842,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2931,
+            "date": 1602316949,
+            "game": "https://www.chess.com/game/live/6007992445"
+        },
+        "record": {
+            "win": 2099,
+            "loss": 1429,
+            "draw": 239
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2833,
+            "date": 1730307637,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2964,
+            "date": 1586769634,
+            "game": "https://www.chess.com/game/live/4766950353"
+        },
+        "record": {
+            "win": 3453,
+            "loss": 2535,
+            "draw": 722
+        }
+    },
+    "fide": 2462,
+    "tactics": {
+        "highest": {
+            "rating": 3194,
+            "date": 1676946161
+        },
+        "lowest": {
+            "rating": 1365,
+            "date": 1474055053
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

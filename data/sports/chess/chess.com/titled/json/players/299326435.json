@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/299326435.9068b2a3.200x200o.89ccc9beec4c.png",
+    "player_id": 299326435,
+    "@id": "https://api.chess.com/pub/player/interestingprofile",
+    "url": "https://www.chess.com/member/InterestingProfile",
+    "username": "interestingprofile",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741458050,
+    "joined": 1689098829,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2305,
+            "date": 1733576298,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1715258629,
+            "game": "https://www.chess.com/game/live/108996058657"
+        },
+        "record": {
+            "win": 15,
+            "loss": 7,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2601,
+            "date": 1741394304,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2616,
+            "date": 1737303896,
+            "game": "https://www.chess.com/game/live/130710106141"
+        },
+        "record": {
+            "win": 130,
+            "loss": 136,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2594,
+            "date": 1741458461,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2677,
+            "date": 1736075143,
+            "game": "https://www.chess.com/game/live/118920648505"
+        },
+        "record": {
+            "win": 825,
+            "loss": 938,
+            "draw": 164
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3250,
+            "date": 1737915645
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1689098829
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

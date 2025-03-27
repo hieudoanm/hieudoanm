@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32631824.fe3ed8e6.200x200o.9ec79690287f.png",
+    "player_id": 32631824,
+    "@id": "https://api.chess.com/pub/player/andrejljepic",
+    "url": "https://www.chess.com/member/andrejljepic",
+    "name": "Andrej Ljepic",
+    "username": "andrejljepic",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741692972,
+    "joined": 1485258718,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1211,
+            "date": 1725808231,
+            "rd": 282
+        },
+        "record": {
+            "win": 0,
+            "loss": 3,
+            "draw": 1,
+            "time_per_move": 183443,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2275,
+            "date": 1729185621,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1729185621,
+            "game": "https://www.chess.com/game/live/122924054513"
+        },
+        "record": {
+            "win": 32,
+            "loss": 7,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2513,
+            "date": 1736553075,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1735403122,
+            "game": "https://www.chess.com/game/live/129141742435"
+        },
+        "record": {
+            "win": 150,
+            "loss": 121,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2720,
+            "date": 1740145155
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1736899836,
+            "game": "https://www.chess.com/game/live/116112667721"
+        },
+        "record": {
+            "win": 776,
+            "loss": 655,
+            "draw": 86
+        }
+    },
+    "fide": 2267,
+    "tactics": {
+        "highest": {
+            "rating": 3399,
+            "date": 1722208854
+        },
+        "lowest": {
+            "rating": 786,
+            "date": 1502527275
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

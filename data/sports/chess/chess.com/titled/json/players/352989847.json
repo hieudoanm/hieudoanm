@@ -1,0 +1,46 @@
+{
+    "player_id": 352989847,
+    "@id": "https://api.chess.com/pub/player/umumba_fm",
+    "url": "https://www.chess.com/member/Umumba_FM",
+    "name": "David H\u00f6ffer",
+    "username": "umumba_fm",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741679524,
+    "joined": 1711355958,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2585,
+            "date": 1736894382,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1714515553,
+            "game": "https://www.chess.com/game/live/127004998853"
+        },
+        "record": {
+            "win": 33,
+            "loss": 37,
+            "draw": 3
+        }
+    },
+    "fide": 2307,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1711355958
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1711355958
+        }
+    },
+    "puzzle_rush": {}
+}

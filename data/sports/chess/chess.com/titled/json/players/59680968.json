@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59680968.132161dd.200x200o.bdb1024dd0e8.jpg",
+    "player_id": 59680968,
+    "@id": "https://api.chess.com/pub/player/ashotparvanyan",
+    "url": "https://www.chess.com/member/AshotParvanyan",
+    "name": "Ashot Parvanyan",
+    "username": "ashotparvanyan",
+    "title": "IM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741451646,
+    "joined": 1554981571,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2018,
+            "date": 1726852586,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1726850680,
+            "game": "https://www.chess.com/game/live/120583269429"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2635,
+            "date": 1739905849
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1725471107,
+            "game": "https://www.chess.com/game/live/76801370891"
+        },
+        "record": {
+            "win": 407,
+            "loss": 358,
+            "draw": 56
+        }
+    },
+    "fide": 2451,
+    "tactics": {
+        "highest": {
+            "rating": 3164,
+            "date": 1589201308
+        },
+        "lowest": {
+            "rating": 2485,
+            "date": 1584889088
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 57
+        }
+    }
+}

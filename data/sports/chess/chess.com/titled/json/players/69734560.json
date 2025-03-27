@@ -1,0 +1,102 @@
+{
+    "player_id": 69734560,
+    "@id": "https://api.chess.com/pub/player/m5mnooo",
+    "url": "https://www.chess.com/member/M5mnooo",
+    "username": "m5mnooo",
+    "title": "WFM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/AE",
+    "last_online": 1738526443,
+    "joined": 1577093888,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess960_daily": {
+        "last": {
+            "rating": 1702,
+            "date": 1616441557,
+            "rd": 260
+        },
+        "best": {
+            "rating": 1702,
+            "date": 1616441557,
+            "game": "https://www.chess.com/game/daily/318395034"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 19035,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2339,
+            "date": 1730840536,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1692632543,
+            "game": "https://www.chess.com/game/live/5605681566"
+        },
+        "record": {
+            "win": 341,
+            "loss": 48,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2076,
+            "date": 1740481054,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2117,
+            "date": 1700880106,
+            "game": "https://www.chess.com/game/live/87246541873"
+        },
+        "record": {
+            "win": 155,
+            "loss": 137,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2132,
+            "date": 1735819981,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2182,
+            "date": 1713119542,
+            "game": "https://www.chess.com/game/live/85090416181"
+        },
+        "record": {
+            "win": 1540,
+            "loss": 1345,
+            "draw": 173
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3430,
+            "date": 1686935475
+        },
+        "lowest": {
+            "rating": 1014,
+            "date": 1577537257
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

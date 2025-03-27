@@ -1,0 +1,86 @@
+{
+    "player_id": 39935058,
+    "@id": "https://api.chess.com/pub/player/chesper99",
+    "url": "https://www.chess.com/member/ChEsper99",
+    "name": "Esper Van Baar",
+    "username": "chesper99",
+    "title": "FM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741370501,
+    "joined": 1509466041,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1938,
+            "date": 1697629203,
+            "rd": 233
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1515940599,
+            "game": "https://www.chess.com/game/daily/184013502"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 13156,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1947,
+            "date": 1713464119,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2197,
+            "date": 1678714033,
+            "game": "https://www.chess.com/game/live/76977014317"
+        },
+        "record": {
+            "win": 243,
+            "loss": 241,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2205,
+            "date": 1740506317,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2409,
+            "date": 1724430690,
+            "game": "https://www.chess.com/game/live/117864575961"
+        },
+        "record": {
+            "win": 1302,
+            "loss": 1537,
+            "draw": 234
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2785,
+            "date": 1562344650
+        },
+        "lowest": {
+            "rating": 1810,
+            "date": 1515265684
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

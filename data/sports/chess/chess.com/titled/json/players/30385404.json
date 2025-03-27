@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30385404.c3ca4899.200x200o.119d9ec8aa96.jpeg",
+    "player_id": 30385404,
+    "@id": "https://api.chess.com/pub/player/ehsan_ghaemmaghami",
+    "url": "https://www.chess.com/member/Ehsan_GhaemMaghami",
+    "name": "Ehsan GhaemMaghami (IRI)",
+    "username": "ehsan_ghaemmaghami",
+    "title": "GM",
+    "followers": 584,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1728344884,
+    "joined": 1476427169,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2483,
+            "date": 1728326364,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2782,
+            "date": 1597997707,
+            "game": "https://www.chess.com/game/live/5323759916"
+        },
+        "record": {
+            "win": 11,
+            "loss": 6,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2585,
+            "date": 1660082322,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2975,
+            "date": 1600779753,
+            "game": "https://www.chess.com/game/live/24588120239"
+        },
+        "record": {
+            "win": 1307,
+            "loss": 1128,
+            "draw": 143
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2865,
+            "date": 1686650610,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2964,
+            "date": 1657660717,
+            "game": "https://www.chess.com/game/live/67264299901"
+        },
+        "record": {
+            "win": 3087,
+            "loss": 2539,
+            "draw": 811
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1476427169
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1476427169
+        }
+    },
+    "puzzle_rush": {}
+}

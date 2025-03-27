@@ -1,0 +1,29 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/330742311.e78a2dec.200x200o.8633053ec2aa.jpg",
+    "player_id": 330742311,
+    "@id": "https://api.chess.com/pub/player/mayttj",
+    "url": "https://www.chess.com/member/mayttj",
+    "name": "Maylee Tjong Tjin Joe",
+    "username": "mayttj",
+    "title": "WCM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/SR",
+    "last_online": 1736300180,
+    "joined": 1701883713,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 1684,
+    "tactics": {
+        "highest": {
+            "rating": 424,
+            "date": 1719712026
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1701883713
+        }
+    },
+    "puzzle_rush": {}
+}

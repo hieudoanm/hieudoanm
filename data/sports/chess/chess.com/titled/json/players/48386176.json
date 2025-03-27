@@ -1,0 +1,62 @@
+{
+    "player_id": 48386176,
+    "@id": "https://api.chess.com/pub/player/dolon2015",
+    "url": "https://www.chess.com/member/Dolon2015",
+    "username": "dolon2015",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/BD",
+    "last_online": 1739821504,
+    "joined": 1533153808,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2186,
+            "date": 1739802999,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2520,
+            "date": 1687885598,
+            "game": "https://www.chess.com/game/live/81624388775"
+        },
+        "record": {
+            "win": 299,
+            "loss": 291,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2384,
+            "date": 1739827835,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1733499020,
+            "game": "https://www.chess.com/game/live/108238825057"
+        },
+        "record": {
+            "win": 2200,
+            "loss": 1938,
+            "draw": 275
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2743,
+            "date": 1737058870
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1655838197
+        }
+    },
+    "puzzle_rush": {}
+}

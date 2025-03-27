@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21361180.290ca613.200x200o.53962f2c5f66.png",
+    "player_id": 21361180,
+    "@id": "https://api.chess.com/pub/player/recombinant",
+    "url": "https://www.chess.com/member/Recombinant",
+    "name": "Benedict Smail",
+    "username": "recombinant",
+    "title": "NM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1661354570,
+    "joined": 1425441199,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2136,
+            "date": 1484197444,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2143,
+            "date": 1483591286,
+            "game": "https://www.chess.com/game/live/1886659162"
+        },
+        "record": {
+            "win": 14,
+            "loss": 11,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2506,
+            "date": 1652153766,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1652153766,
+            "game": "https://www.chess.com/game/live/1880039872"
+        },
+        "record": {
+            "win": 988,
+            "loss": 1195,
+            "draw": 159
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2505,
+            "date": 1652597273,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2544,
+            "date": 1651001419,
+            "game": "https://www.chess.com/game/live/46336129005"
+        },
+        "record": {
+            "win": 14467,
+            "loss": 16005,
+            "draw": 3249
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2839,
+            "date": 1650899747
+        },
+        "lowest": {
+            "rating": 2083,
+            "date": 1451435352
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15328184.5a2e1488.200x200o.8e4b1b9f735d.jpeg",
+    "player_id": 15328184,
+    "@id": "https://api.chess.com/pub/player/tabarex",
+    "url": "https://www.chess.com/member/tabarex",
+    "name": "Tabar\u00e9 Bustelo",
+    "username": "tabarex",
+    "title": "CM",
+    "followers": 139,
+    "country": "https://api.chess.com/pub/country/UY",
+    "location": "Montevideo, Uruguay",
+    "last_online": 1741124043,
+    "joined": 1388441512,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1532,
+            "date": 1663361671,
+            "rd": 130
+        },
+        "best": {
+            "rating": 1657,
+            "date": 1516580555,
+            "game": "https://www.chess.com/game/live/2566781270"
+        },
+        "record": {
+            "win": 8,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1790,
+            "date": 1735668968,
+            "rd": 156
+        },
+        "best": {
+            "rating": 2094,
+            "date": 1474905019,
+            "game": "https://www.chess.com/game/live/51849611907"
+        },
+        "record": {
+            "win": 7624,
+            "loss": 6844,
+            "draw": 518
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1967,
+            "date": 1741130908,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2257,
+            "date": 1729098500,
+            "game": "https://www.chess.com/game/live/122768645945"
+        },
+        "record": {
+            "win": 6391,
+            "loss": 8849,
+            "draw": 989
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2014,
+            "date": 1726186979
+        },
+        "lowest": {
+            "rating": 1319,
+            "date": 1473726432
+        }
+    },
+    "puzzle_rush": {}
+}

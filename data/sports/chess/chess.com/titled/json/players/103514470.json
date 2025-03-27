@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/103514470.3e8f02a4.200x200o.52aa77e60881.jpeg",
+    "player_id": 103514470,
+    "@id": "https://api.chess.com/pub/player/jean-claude_vandal",
+    "url": "https://www.chess.com/member/Jean-Claude_Vandal",
+    "username": "jean-claude_vandal",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1732351394,
+    "joined": 1607691965,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2603,
+            "date": 1741603284,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2703,
+            "date": 1701605037,
+            "game": "https://www.chess.com/game/live/10946265387"
+        },
+        "record": {
+            "win": 179,
+            "loss": 147,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2343,
+            "date": 1736095976,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2527,
+            "date": 1660582707,
+            "game": "https://www.chess.com/game/live/54220213015"
+        },
+        "record": {
+            "win": 127,
+            "loss": 118,
+            "draw": 33
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3165,
+            "date": 1703604017
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1608098403
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

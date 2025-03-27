@@ -1,0 +1,67 @@
+{
+    "player_id": 38657572,
+    "@id": "https://api.chess.com/pub/player/manipun1",
+    "url": "https://www.chess.com/member/manipun1",
+    "name": "Masha Klinova",
+    "username": "manipun1",
+    "title": "IM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741677612,
+    "joined": 1505474812,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1483,
+            "date": 1741540043,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2370,
+            "date": 1597401681,
+            "game": "https://www.chess.com/game/live/25028550521"
+        },
+        "record": {
+            "win": 39,
+            "loss": 85,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2337,
+            "date": 1741680670
+        },
+        "best": {
+            "rating": 2644,
+            "date": 1739787460,
+            "game": "https://www.chess.com/game/live/64795985757"
+        },
+        "record": {
+            "win": 24042,
+            "loss": 21112,
+            "draw": 3782
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 2499,
+            "date": 1725139448
+        },
+        "lowest": {
+            "rating": 2297,
+            "date": 1666377335
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

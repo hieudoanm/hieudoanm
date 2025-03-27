@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/185245225.6e25c3dc.200x200o.315bbb94d991.jpeg",
+    "player_id": 185245225,
+    "@id": "https://api.chess.com/pub/player/manoj_mishra123",
+    "url": "https://www.chess.com/member/MANOJ_MISHRA123",
+    "name": "Manoj Mishra",
+    "username": "manoj_mishra123",
+    "title": "CM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "jabalpur M.P",
+    "last_online": 1739896939,
+    "joined": 1653840488,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2141,
+            "date": 1727979022,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2141,
+            "date": 1727979022,
+            "game": "https://www.chess.com/game/live/121713653379"
+        },
+        "record": {
+            "win": 4,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1869,
+            "date": 1733458211,
+            "rd": 85
+        },
+        "best": {
+            "rating": 1923,
+            "date": 1719204371,
+            "game": "https://www.chess.com/game/live/111094233449"
+        },
+        "record": {
+            "win": 59,
+            "loss": 46,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2296,
+            "date": 1739407935,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2313,
+            "date": 1738941226,
+            "game": "https://www.chess.com/game/live/84040289111"
+        },
+        "record": {
+            "win": 369,
+            "loss": 454,
+            "draw": 43
+        }
+    },
+    "fide": 2218,
+    "tactics": {
+        "highest": {
+            "rating": 3308,
+            "date": 1723834621
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1662653240
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

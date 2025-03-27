@@ -1,0 +1,66 @@
+{
+    "player_id": 57242656,
+    "@id": "https://api.chess.com/pub/player/uurknightmare",
+    "url": "https://www.chess.com/member/uurknightmare",
+    "username": "uurknightmare",
+    "title": "GM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1720666368,
+    "joined": 1549919892,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2779,
+            "date": 1617601809,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2927,
+            "date": 1606719076,
+            "game": "https://www.chess.com/game/live/5844620471"
+        },
+        "record": {
+            "win": 172,
+            "loss": 87,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2773,
+            "date": 1720667432,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2936,
+            "date": 1661398688,
+            "game": "https://www.chess.com/game/live/89006503631"
+        },
+        "record": {
+            "win": 576,
+            "loss": 384,
+            "draw": 128
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2219,
+            "date": 1611463734
+        },
+        "lowest": {
+            "rating": 2219,
+            "date": 1611463734
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

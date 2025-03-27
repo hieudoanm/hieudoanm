@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45105738.eaadcb8b.200x200o.528c5c3453b5.jpg",
+    "player_id": 45105738,
+    "@id": "https://api.chess.com/pub/player/soniahris",
+    "url": "https://www.chess.com/member/soniahris",
+    "name": "Antonia Christodoulaki",
+    "username": "soniahris",
+    "title": "WFM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/GR",
+    "location": "Chania",
+    "last_online": 1741468718,
+    "joined": 1523211950,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2107,
+            "date": 1695908456,
+            "rd": 210
+        },
+        "best": {
+            "rating": 1208,
+            "date": 1585412864,
+            "game": "https://www.chess.com/game/live/4648705605"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2121,
+            "date": 1739301605,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2291,
+            "date": 1724936056,
+            "game": "https://www.chess.com/game/live/89747370693"
+        },
+        "record": {
+            "win": 264,
+            "loss": 219,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1725383489,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2323,
+            "date": 1722958071,
+            "game": "https://www.chess.com/game/live/116696487161"
+        },
+        "record": {
+            "win": 82,
+            "loss": 78,
+            "draw": 7
+        }
+    },
+    "fide": 1994,
+    "tactics": {
+        "highest": {
+            "rating": 3186,
+            "date": 1715365957
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1695728314
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 27
+        }
+    }
+}

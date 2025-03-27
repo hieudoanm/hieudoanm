@@ -1,0 +1,85 @@
+{
+    "player_id": 5467784,
+    "@id": "https://api.chess.com/pub/player/mclarenf1lm",
+    "url": "https://www.chess.com/member/MclarenF1LM",
+    "name": "Praveen Sanjay",
+    "username": "mclarenf1lm",
+    "title": "NM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741649341,
+    "joined": 1311107572,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2411,
+            "date": 1740005784,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1734562688,
+            "game": "https://www.chess.com/game/live/78121249675"
+        },
+        "record": {
+            "win": 25,
+            "loss": 10,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2642,
+            "date": 1741591348,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2778,
+            "date": 1632013161,
+            "game": "https://www.chess.com/game/live/121236007169"
+        },
+        "record": {
+            "win": 1605,
+            "loss": 1037,
+            "draw": 90
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2629,
+            "date": 1740446372,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2659,
+            "date": 1632012500,
+            "game": "https://www.chess.com/game/live/115497596763"
+        },
+        "record": {
+            "win": 1391,
+            "loss": 956,
+            "draw": 132
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3189,
+            "date": 1740250809
+        },
+        "lowest": {
+            "rating": 1388,
+            "date": 1348114344
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "player_id": 20846220,
+    "@id": "https://api.chess.com/pub/player/sergiotrigo",
+    "url": "https://www.chess.com/member/SergioTrigo",
+    "name": "Sergio Trigo",
+    "username": "sergiotrigo",
+    "title": "FM",
+    "followers": 312,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Portugalete",
+    "last_online": 1741608584,
+    "joined": 1422536418,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1833,
+            "date": 1741700215,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2231,
+            "date": 1678712176,
+            "game": "https://www.chess.com/game/daily/482983045"
+        },
+        "record": {
+            "win": 2748,
+            "loss": 464,
+            "draw": 257,
+            "time_per_move": 13001,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1516,
+            "date": 1693901464,
+            "rd": 75
+        },
+        "best": {
+            "rating": 1568,
+            "date": 1693426466,
+            "game": "https://www.chess.com/game/daily/497358883"
+        },
+        "record": {
+            "win": 33,
+            "loss": 11,
+            "draw": 1,
+            "time_per_move": 13001,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2226,
+            "date": 1714830020,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2263,
+            "date": 1620064731,
+            "game": "https://www.chess.com/game/live/13801413355"
+        },
+        "record": {
+            "win": 15,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2164,
+            "date": 1707752585,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1707752265,
+            "game": "https://www.chess.com/game/live/101490830765"
+        },
+        "record": {
+            "win": 66,
+            "loss": 24,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2405,
+            "date": 1738092955,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2620,
+            "date": 1673100464,
+            "game": "https://www.chess.com/game/live/82313577677"
+        },
+        "record": {
+            "win": 420,
+            "loss": 228,
+            "draw": 63
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2845,
+            "date": 1727258716
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1422536418
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

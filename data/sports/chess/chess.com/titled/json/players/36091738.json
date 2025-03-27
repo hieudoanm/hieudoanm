@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36091738.7b3edbc9.200x200o.df469c3bb054.jpeg",
+    "player_id": 36091738,
+    "@id": "https://api.chess.com/pub/player/jacosta7",
+    "url": "https://www.chess.com/member/jacosta7",
+    "name": "Jos\u00e9 Alejandro Acosta Amaya",
+    "username": "jacosta7",
+    "title": "IM",
+    "followers": 179,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1741206476,
+    "joined": 1496710930,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2456,
+            "date": 1741020097,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2485,
+            "date": 1641062047,
+            "game": "https://www.chess.com/game/live/125187563241"
+        },
+        "record": {
+            "win": 258,
+            "loss": 152,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2439,
+            "date": 1741109988,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2593,
+            "date": 1634933693,
+            "game": "https://www.chess.com/game/live/118183750101"
+        },
+        "record": {
+            "win": 4797,
+            "loss": 3438,
+            "draw": 681
+        }
+    },
+    "fide": 2292,
+    "tactics": {
+        "highest": {
+            "rating": 3349,
+            "date": 1710718494
+        },
+        "lowest": {
+            "rating": 2002,
+            "date": 1516144167
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,44 @@
+{
+    "player_id": 191436869,
+    "@id": "https://api.chess.com/pub/player/ivy-2009",
+    "url": "https://www.chess.com/member/Ivy-2009",
+    "username": "ivy-2009",
+    "title": "WFM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1740840275,
+    "joined": 1658999532,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2201,
+            "date": 1720295085,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3333,
+            "date": 1684063963
+        },
+        "lowest": {
+            "rating": 810,
+            "date": 1659551247
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 62279892,
+    "@id": "https://api.chess.com/pub/player/chessbliss09",
+    "url": "https://www.chess.com/member/ChessBliss09",
+    "name": "Anusha Subramanian",
+    "username": "chessbliss09",
+    "title": "WFM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741279569,
+    "joined": 1560533742,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2002,
+            "date": 1697547257,
+            "rd": 109
+        },
+        "best": {
+            "rating": 1818,
+            "date": 1627145455,
+            "game": "https://www.chess.com/game/live/20883073139"
+        },
+        "record": {
+            "win": 34,
+            "loss": 28,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2002,
+            "date": 1697547257,
+            "rd": 97
+        },
+        "best": {
+            "rating": 1954,
+            "date": 1627808805,
+            "game": "https://www.chess.com/game/live/89230318425"
+        },
+        "record": {
+            "win": 17,
+            "loss": 13,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2235,
+            "date": 1741111618,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2316,
+            "date": 1728404244,
+            "game": "https://www.chess.com/game/live/113069477653"
+        },
+        "record": {
+            "win": 336,
+            "loss": 360,
+            "draw": 61
+        }
+    },
+    "fide": 2002,
+    "tactics": {
+        "highest": {
+            "rating": 2014,
+            "date": 1698222947
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1560583905
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

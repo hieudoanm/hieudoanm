@@ -1,0 +1,84 @@
+{
+    "player_id": 77096702,
+    "@id": "https://api.chess.com/pub/player/nicolas_chess10",
+    "url": "https://www.chess.com/member/Nicolas_Chess10",
+    "name": "Robert-Ionut Creanga",
+    "username": "nicolas_chess10",
+    "title": "CM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/VA",
+    "last_online": 1741543235,
+    "joined": 1587222435,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2242,
+            "date": 1732877806,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2296,
+            "date": 1663606803,
+            "game": "https://www.chess.com/game/live/110789480049"
+        },
+        "record": {
+            "win": 48,
+            "loss": 24,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2549,
+            "date": 1738870080,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1718465715,
+            "game": "https://www.chess.com/game/live/117725989497"
+        },
+        "record": {
+            "win": 79,
+            "loss": 61,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2546,
+            "date": 1741187444,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2625,
+            "date": 1664395182,
+            "game": "https://www.chess.com/game/live/114881391471"
+        },
+        "record": {
+            "win": 868,
+            "loss": 733,
+            "draw": 145
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3129,
+            "date": 1738935838
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1592228862
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

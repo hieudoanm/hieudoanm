@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38776884.c376ae0e.200x200o.d25a0ae0fc78.jpg",
+    "player_id": 38776884,
+    "@id": "https://api.chess.com/pub/player/bestestbp",
+    "url": "https://www.chess.com/member/BestestBP",
+    "name": "BOZNENA PIDDUBNA",
+    "username": "bestestbp",
+    "title": "WFM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "\u041a\u0438\u0407\u0432",
+    "last_online": 1741616314,
+    "joined": 1505841562,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1184,
+            "date": 1718110145,
+            "rd": 284
+        },
+        "best": {
+            "rating": 1184,
+            "date": 1717871950,
+            "game": "https://www.chess.com/game/daily/384363775"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 71452,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2081,
+            "date": 1701261166,
+            "rd": 121
+        },
+        "best": {
+            "rating": 1801,
+            "date": 1581324318,
+            "game": "https://www.chess.com/game/live/77052108141"
+        },
+        "record": {
+            "win": 206,
+            "loss": 111,
+            "draw": 32
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2510,
+            "date": 1741618530
+        },
+        "best": {
+            "rating": 2651,
+            "date": 1738611234,
+            "game": "https://www.chess.com/game/live/129925841513"
+        },
+        "record": {
+            "win": 1797,
+            "loss": 1395,
+            "draw": 211
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2493,
+            "date": 1741133279,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2564,
+            "date": 1733242026,
+            "game": "https://www.chess.com/game/live/124586372059"
+        },
+        "record": {
+            "win": 1048,
+            "loss": 885,
+            "draw": 169
+        }
+    },
+    "fide": 2081,
+    "tactics": {
+        "highest": {
+            "rating": 3211,
+            "date": 1656506311
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1505844615
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

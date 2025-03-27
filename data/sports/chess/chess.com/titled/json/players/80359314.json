@@ -1,0 +1,104 @@
+{
+    "player_id": 80359314,
+    "@id": "https://api.chess.com/pub/player/donskov_an",
+    "url": "https://www.chess.com/member/Donskov_AN",
+    "name": "Anatoly Donskov",
+    "username": "donskov_an",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1728218039,
+    "joined": 1590313228,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1659,
+            "date": 1717513830,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1659,
+            "date": 1677289135,
+            "game": "https://www.chess.com/game/daily/456551219"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 22098,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1705525188,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1605278838,
+            "game": "https://www.chess.com/game/live/5737774238"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2378,
+            "date": 1689444732,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2448,
+            "date": 1673631754,
+            "game": "https://www.chess.com/game/live/67370669275"
+        },
+        "record": {
+            "win": 14,
+            "loss": 12,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2581,
+            "date": 1741590823,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2619,
+            "date": 1667903373,
+            "game": "https://www.chess.com/game/live/70132509507"
+        },
+        "record": {
+            "win": 1070,
+            "loss": 1006,
+            "draw": 145
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2791,
+            "date": 1736442928
+        },
+        "lowest": {
+            "rating": 1014,
+            "date": 1590614848
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

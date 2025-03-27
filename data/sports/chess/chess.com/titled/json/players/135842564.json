@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/135842564.a948b601.200x200o.14a5e8740faa.jpeg",
+    "player_id": 135842564,
+    "@id": "https://api.chess.com/pub/player/inagrev",
+    "url": "https://www.chess.com/member/inagreV",
+    "name": "Denis Garrido",
+    "username": "inagrev",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1740080237,
+    "joined": 1618668454,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1995,
+            "date": 1730225347,
+            "rd": 149
+        },
+        "best": {
+            "rating": 2081,
+            "date": 1699803544,
+            "game": "https://www.chess.com/game/live/93540500731"
+        },
+        "record": {
+            "win": 29,
+            "loss": 14,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2537,
+            "date": 1739895518,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2569,
+            "date": 1736265986,
+            "game": "https://www.chess.com/game/live/130004428447"
+        },
+        "record": {
+            "win": 882,
+            "loss": 939,
+            "draw": 88
+        }
+    },
+    "fide": 2205,
+    "tactics": {
+        "highest": {
+            "rating": 3267,
+            "date": 1699462200
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1657486557
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

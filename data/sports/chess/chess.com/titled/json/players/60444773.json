@@ -1,0 +1,84 @@
+{
+    "player_id": 60444773,
+    "@id": "https://api.chess.com/pub/player/serhanberat_ozdemir",
+    "url": "https://www.chess.com/member/serhanberat_ozdemir",
+    "name": "Serhan Berat \u00d6zdemir",
+    "username": "serhanberat_ozdemir",
+    "title": "FM",
+    "followers": 72,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741414125,
+    "joined": 1556708270,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2030,
+            "date": 1688396853,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2286,
+            "date": 1589911645,
+            "game": "https://www.chess.com/game/live/4952622681"
+        },
+        "record": {
+            "win": 11,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2418,
+            "date": 1730332052,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2621,
+            "date": 1691789963,
+            "game": "https://www.chess.com/game/live/13003318755"
+        },
+        "record": {
+            "win": 1976,
+            "loss": 2426,
+            "draw": 264
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1734900409,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2719,
+            "date": 1617025967,
+            "game": "https://www.chess.com/game/live/85876256475"
+        },
+        "record": {
+            "win": 2712,
+            "loss": 2979,
+            "draw": 521
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2652,
+            "date": 1620221222
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1558023522
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

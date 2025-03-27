@@ -1,0 +1,84 @@
+{
+    "player_id": 4243354,
+    "@id": "https://api.chess.com/pub/player/rau4ever",
+    "url": "https://www.chess.com/member/RAU4ever",
+    "name": "Roel Donker",
+    "username": "rau4ever",
+    "title": "CM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741368175,
+    "joined": 1289576071,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2345,
+            "date": 1704377049,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2345,
+            "date": 1704377049,
+            "game": "https://www.chess.com/game/live/11187169183"
+        },
+        "record": {
+            "win": 18,
+            "loss": 6,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2274,
+            "date": 1741368704,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2418,
+            "date": 1614204814,
+            "game": "https://www.chess.com/game/live/10509389523"
+        },
+        "record": {
+            "win": 1576,
+            "loss": 1299,
+            "draw": 80
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2429,
+            "date": 1740905549,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1739648093,
+            "game": "https://www.chess.com/game/live/4815049538"
+        },
+        "record": {
+            "win": 2005,
+            "loss": 1476,
+            "draw": 229
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2738,
+            "date": 1589556185
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1469038200
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

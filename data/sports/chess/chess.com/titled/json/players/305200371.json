@@ -1,0 +1,66 @@
+{
+    "player_id": 305200371,
+    "@id": "https://api.chess.com/pub/player/speeddemon001",
+    "url": "https://www.chess.com/member/SpeedDemon001",
+    "username": "speeddemon001",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1740469356,
+    "joined": 1691693885,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2627,
+            "date": 1739365400,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1736939331,
+            "game": "https://www.chess.com/game/live/86954914221"
+        },
+        "record": {
+            "win": 79,
+            "loss": 33,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2559,
+            "date": 1739793551,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2696,
+            "date": 1692040859,
+            "game": "https://www.chess.com/game/live/85732829275"
+        },
+        "record": {
+            "win": 23,
+            "loss": 19,
+            "draw": 2
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2525,
+            "date": 1739365543
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1691693885
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

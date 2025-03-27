@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6063777.90caf2a2.200x200o.82bff7daa3d9.jpeg",
+    "player_id": 6063777,
+    "@id": "https://api.chess.com/pub/player/vanea_03",
+    "url": "https://www.chess.com/member/vanea_03",
+    "name": "Ivan Schitco",
+    "username": "vanea_03",
+    "title": "GM",
+    "followers": 156,
+    "country": "https://api.chess.com/pub/country/MD",
+    "location": "Chisinau",
+    "last_online": 1741535492,
+    "joined": 1320406882,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2437,
+            "date": 1698617838,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1698611478,
+            "game": "https://www.chess.com/game/live/37218633079"
+        },
+        "record": {
+            "win": 24,
+            "loss": 10,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2847,
+            "date": 1733450002,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2873,
+            "date": 1733448944,
+            "game": "https://www.chess.com/game/live/126847739507"
+        },
+        "record": {
+            "win": 322,
+            "loss": 214,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2859,
+            "date": 1731365668,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2895,
+            "date": 1728425893,
+            "game": "https://www.chess.com/game/live/94169518737"
+        },
+        "record": {
+            "win": 1951,
+            "loss": 1544,
+            "draw": 433
+        }
+    },
+    "fide": 2530,
+    "tactics": {
+        "highest": {
+            "rating": 3205,
+            "date": 1721710574
+        },
+        "lowest": {
+            "rating": 1224,
+            "date": 1417027567
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

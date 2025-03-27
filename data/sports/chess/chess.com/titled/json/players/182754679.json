@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/182754679.6b3ea5bf.200x200o.940f37dcd8e5.png",
+    "player_id": 182754679,
+    "@id": "https://api.chess.com/pub/player/friederichgazel",
+    "url": "https://www.chess.com/member/FriederichGazel",
+    "name": "Daniel Rangel",
+    "username": "friederichgazel",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1738001788,
+    "joined": 1651778342,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2019,
+            "date": 1651778486,
+            "rd": 255
+        },
+        "best": {
+            "rating": 2019,
+            "date": 1651778486,
+            "game": "https://www.chess.com/game/live/45517325753"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2425,
+            "date": 1737995019
+        },
+        "best": {
+            "rating": 2562,
+            "date": 1658982092,
+            "game": "https://www.chess.com/game/live/48480596905"
+        },
+        "record": {
+            "win": 1165,
+            "loss": 939,
+            "draw": 164
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1651778342
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1651778342
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35012446.9626f3e3.200x200o.b01b000694d0.jpeg",
+    "player_id": 35012446,
+    "@id": "https://api.chess.com/pub/player/goodluck06",
+    "url": "https://www.chess.com/member/goodluck06",
+    "name": "Guillaume Lamard",
+    "username": "goodluck06",
+    "title": "GM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1734182308,
+    "joined": 1492997394,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2198,
+            "date": 1520604030,
+            "rd": 185
+        },
+        "best": {
+            "rating": 2198,
+            "date": 1520604030,
+            "game": "https://www.chess.com/game/live/2068721966"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2517,
+            "date": 1729843683,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1606907134,
+            "game": "https://www.chess.com/game/live/11734371129"
+        },
+        "record": {
+            "win": 235,
+            "loss": 188,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2734,
+            "date": 1734182989,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2882,
+            "date": 1723424312,
+            "game": "https://www.chess.com/game/live/94344158183"
+        },
+        "record": {
+            "win": 3727,
+            "loss": 3137,
+            "draw": 495
+        }
+    },
+    "fide": 2491,
+    "tactics": {
+        "highest": {
+            "rating": 3744,
+            "date": 1712761351
+        },
+        "lowest": {
+            "rating": 1245,
+            "date": 1493002808
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

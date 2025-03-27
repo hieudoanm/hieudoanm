@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/193069483.91cffb71.200x200o.470ba5e5c5ad.jpg",
+    "player_id": 193069483,
+    "@id": "https://api.chess.com/pub/player/omeganebulapegasus",
+    "url": "https://www.chess.com/member/omeganebulapegasus",
+    "name": "Konstantin Peyrer",
+    "username": "omeganebulapegasus",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Hieflau",
+    "last_online": 1741460445,
+    "joined": 1660249994,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2354,
+            "date": 1667242449,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2445,
+            "date": 1667241361,
+            "game": "https://www.chess.com/game/live/60979739403"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2711,
+            "date": 1734382511,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1692708865,
+            "game": "https://www.chess.com/game/live/103795841629"
+        },
+        "record": {
+            "win": 320,
+            "loss": 195,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2741,
+            "date": 1727720560,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2827,
+            "date": 1712838544,
+            "game": "https://www.chess.com/game/live/60451842265"
+        },
+        "record": {
+            "win": 284,
+            "loss": 199,
+            "draw": 33
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3629,
+            "date": 1712563326
+        },
+        "lowest": {
+            "rating": 2976,
+            "date": 1660683924
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

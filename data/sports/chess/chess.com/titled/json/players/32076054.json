@@ -1,0 +1,116 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32076054.caf6d9e8.200x200o.bbe6038e4707.jpg",
+    "player_id": 32076054,
+    "@id": "https://api.chess.com/pub/player/gmbenjaminfinegold",
+    "url": "https://www.chess.com/member/GMBenjaminFinegold",
+    "name": "Ben Finegold",
+    "username": "gmbenjaminfinegold",
+    "title": "GM",
+    "followers": 20909,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Roswell, GA",
+    "last_online": 1734004908,
+    "joined": 1483361577,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/itsbenandkaren",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/itsbenandkaren"
+        },
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@gmbenjaminfinegold"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1988,
+            "date": 1730604306,
+            "rd": 188
+        },
+        "best": {
+            "rating": 2030,
+            "date": 1558289310,
+            "game": "https://www.chess.com/game/daily/225464680"
+        },
+        "record": {
+            "win": 12,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 2634,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2475,
+            "date": 1700441537,
+            "rd": 147
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1700437949,
+            "game": "https://www.chess.com/game/live/94173764385"
+        },
+        "record": {
+            "win": 41,
+            "loss": 2,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2597,
+            "date": 1724806272,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2793,
+            "date": 1484209593,
+            "game": "https://www.chess.com/game/live/3145371114"
+        },
+        "record": {
+            "win": 5449,
+            "loss": 1306,
+            "draw": 257
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2745,
+            "date": 1733854080,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1643252182,
+            "game": "https://www.chess.com/game/live/127586476895"
+        },
+        "record": {
+            "win": 7473,
+            "loss": 1718,
+            "draw": 453
+        }
+    },
+    "fide": 2400,
+    "tactics": {
+        "highest": {
+            "rating": 3716,
+            "date": 1725937868
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1494240074
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

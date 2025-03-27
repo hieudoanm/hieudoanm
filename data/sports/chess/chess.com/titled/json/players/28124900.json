@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28124900.004b3890.200x200o.f65e5c6e907f.jpg",
+    "player_id": 28124900,
+    "@id": "https://api.chess.com/pub/player/machinegunphilipp",
+    "url": "https://www.chess.com/member/MachineGunPhilipp",
+    "name": "Philipp Lerch",
+    "username": "machinegunphilipp",
+    "title": "FM",
+    "followers": 70,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Berlin",
+    "last_online": 1740949501,
+    "joined": 1462888277,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2284,
+            "date": 1736497013,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1676685095,
+            "game": "https://www.chess.com/game/live/70423445213"
+        },
+        "record": {
+            "win": 15,
+            "loss": 5,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2278,
+            "date": 1736501587,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1664035955,
+            "game": "https://www.chess.com/game/live/56761186751"
+        },
+        "record": {
+            "win": 972,
+            "loss": 937,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2470,
+            "date": 1740848484,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2488,
+            "date": 1466948816,
+            "game": "https://www.chess.com/game/live/107380450629"
+        },
+        "record": {
+            "win": 1000,
+            "loss": 896,
+            "draw": 85
+        }
+    },
+    "fide": 2320,
+    "tactics": {
+        "highest": {
+            "rating": 3527,
+            "date": 1723477512
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1463000331
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

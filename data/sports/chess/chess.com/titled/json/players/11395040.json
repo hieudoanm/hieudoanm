@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11395040.d9b16615.200x200o.3e3bbf94de12.jpeg",
+    "player_id": 11395040,
+    "@id": "https://api.chess.com/pub/player/kimonji",
+    "url": "https://www.chess.com/member/kimonji",
+    "name": "Njili Kamel",
+    "username": "kimonji",
+    "title": "IM",
+    "followers": 200,
+    "country": "https://api.chess.com/pub/country/TN",
+    "location": "France",
+    "last_online": 1739100923,
+    "joined": 1365079046,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 665,
+            "date": 1735205303,
+            "rd": 296
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1365079046,
+            "game": "https://www.chess.com/game/daily/548746049"
+        },
+        "record": {
+            "win": 2,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 92137,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1397,
+            "date": 1735204143,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2011,
+            "date": 1442841516,
+            "game": "https://www.chess.com/game/live/1363497584"
+        },
+        "record": {
+            "win": 47,
+            "loss": 57,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2044,
+            "date": 1726261689,
+            "rd": 197
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1547408987,
+            "game": "https://www.chess.com/game/live/3375293862"
+        },
+        "record": {
+            "win": 1619,
+            "loss": 1308,
+            "draw": 64
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2345,
+            "date": 1733753019,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2666,
+            "date": 1671703148,
+            "game": "https://www.chess.com/game/live/65698940475"
+        },
+        "record": {
+            "win": 734,
+            "loss": 536,
+            "draw": 67
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3352,
+            "date": 1692975706
+        },
+        "lowest": {
+            "rating": 1348,
+            "date": 1482407760
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

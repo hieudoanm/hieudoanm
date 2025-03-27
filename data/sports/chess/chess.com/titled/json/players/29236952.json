@@ -1,0 +1,74 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29236952.2a1c4002.200x200o.3c442d8a9136.jpeg",
+    "player_id": 29236952,
+    "@id": "https://api.chess.com/pub/player/khamrakulov_djurabek",
+    "url": "https://www.chess.com/member/Khamrakulov_Djurabek",
+    "name": "Khamrakulov Djurabek",
+    "username": "khamrakulov_djurabek",
+    "title": "GM",
+    "followers": 140,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "location": "New York",
+    "last_online": 1741644062,
+    "joined": 1469638018,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2808,
+            "date": 1734206358,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1705817405,
+            "game": "https://www.chess.com/game/live/99170229409"
+        },
+        "record": {
+            "win": 242,
+            "loss": 88,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2913,
+            "date": 1734577270,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2947,
+            "date": 1584825443,
+            "game": "https://www.chess.com/game/live/4762872429"
+        },
+        "record": {
+            "win": 641,
+            "loss": 458,
+            "draw": 127
+        }
+    },
+    "fide": 2514,
+    "tactics": {
+        "highest": {
+            "rating": 3958,
+            "date": 1724812635
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1508784830
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        },
+        "daily": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

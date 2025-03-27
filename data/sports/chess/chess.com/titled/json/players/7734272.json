@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7734272.aeb5a707.200x200o.cff13ab9699b.jpg",
+    "player_id": 7734272,
+    "@id": "https://api.chess.com/pub/player/ruifeng",
+    "url": "https://www.chess.com/member/ruifeng",
+    "name": "Ruifeng Li",
+    "username": "ruifeng",
+    "title": "GM",
+    "followers": 344,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741643662,
+    "joined": 1338395010,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2579,
+            "date": 1675234235,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2627,
+            "date": 1665254008,
+            "game": "https://www.chess.com/game/live/6152824237"
+        },
+        "record": {
+            "win": 278,
+            "loss": 367,
+            "draw": 32
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2853,
+            "date": 1736644757,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2865,
+            "date": 1673277352,
+            "game": "https://www.chess.com/game/live/68774655275"
+        },
+        "record": {
+            "win": 201,
+            "loss": 109,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2901,
+            "date": 1741644789,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2923,
+            "date": 1672108437,
+            "game": "https://www.chess.com/game/live/73175694581"
+        },
+        "record": {
+            "win": 1006,
+            "loss": 748,
+            "draw": 220
+        }
+    },
+    "fide": 2545,
+    "tactics": {
+        "highest": {
+            "rating": 3723,
+            "date": 1695843899
+        },
+        "lowest": {
+            "rating": 1101,
+            "date": 1418856129
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

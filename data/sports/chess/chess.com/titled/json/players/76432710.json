@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76432710.00aa6d9a.200x200o.55356c23fd72.png",
+    "player_id": 76432710,
+    "@id": "https://api.chess.com/pub/player/andyhousesmx",
+    "url": "https://www.chess.com/member/andyhousesmx",
+    "name": "Andrea Ju Parkhurst Casas",
+    "username": "andyhousesmx",
+    "title": "WCM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741649332,
+    "joined": 1586660937,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1522,
+            "date": 1739049920,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2066,
+            "date": 1616123817,
+            "game": "https://www.chess.com/game/daily/330538634"
+        },
+        "record": {
+            "win": 26,
+            "loss": 18,
+            "draw": 7,
+            "time_per_move": 4463,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2046,
+            "date": 1734205197,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2046,
+            "date": 1734203885,
+            "game": "https://www.chess.com/game/live/127942139949"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1568,
+            "date": 1740852066,
+            "rd": 64
+        },
+        "best": {
+            "rating": 1599,
+            "date": 1736621671,
+            "game": "https://www.chess.com/game/live/127939183389"
+        },
+        "record": {
+            "win": 37,
+            "loss": 157,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1748,
+            "date": 1741368300,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1988,
+            "date": 1588374519,
+            "game": "https://www.chess.com/game/live/5473436887"
+        },
+        "record": {
+            "win": 293,
+            "loss": 329,
+            "draw": 50
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1586660937
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1586660937
+        }
+    },
+    "puzzle_rush": {}
+}

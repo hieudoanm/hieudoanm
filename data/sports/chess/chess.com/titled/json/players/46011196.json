@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46011196.246dd339.200x200o.bfd9c730e66c.jpg",
+    "player_id": 46011196,
+    "@id": "https://api.chess.com/pub/player/albertochueca",
+    "url": "https://www.chess.com/member/AlbertoChueca",
+    "name": "Alberto Chueca Forc\u00e9n",
+    "username": "albertochueca",
+    "title": "IM",
+    "followers": 331,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "https://chesstalentsfactory.com",
+    "last_online": 1741642385,
+    "joined": 1525811923,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2306,
+            "date": 1730948483,
+            "rd": 196
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1711488676,
+            "game": "https://www.chess.com/game/live/3261083434"
+        },
+        "record": {
+            "win": 61,
+            "loss": 37,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1741658306,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2559,
+            "date": 1714601585,
+            "game": "https://www.chess.com/game/live/106531673765"
+        },
+        "record": {
+            "win": 553,
+            "loss": 169,
+            "draw": 30
+        }
+    },
+    "fide": 2350,
+    "tactics": {
+        "highest": {
+            "rating": 2704,
+            "date": 1561772965
+        },
+        "lowest": {
+            "rating": 2175,
+            "date": 1561425771
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "player_id": 15647988,
+    "@id": "https://api.chess.com/pub/player/hasoaluba",
+    "url": "https://www.chess.com/member/Hasoaluba",
+    "name": "Husseil Ali Hussein",
+    "username": "hasoaluba",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/BH",
+    "location": "Manama",
+    "last_online": 1443824262,
+    "joined": 1390118817,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 2979,
+            "date": 1441235390
+        },
+        "lowest": {
+            "rating": 1405,
+            "date": 1390119220
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35393000.26f16459.200x200o.1f6d3bf4f2d5.jpeg",
+    "player_id": 35393000,
+    "@id": "https://api.chess.com/pub/player/timerkhanov",
+    "url": "https://www.chess.com/member/Timerkhanov",
+    "name": "Alexander Timerkhanov",
+    "username": "timerkhanov",
+    "title": "FM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1738683267,
+    "joined": 1494331617,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1437,
+            "date": 1596217656,
+            "rd": 326
+        },
+        "best": {
+            "rating": 1437,
+            "date": 1524789648,
+            "game": "https://www.chess.com/game/live/2771932783"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2682,
+            "date": 1739890171,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2709,
+            "date": 1739452112,
+            "game": "https://www.chess.com/game/live/130774246597"
+        },
+        "record": {
+            "win": 118,
+            "loss": 81,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2683,
+            "date": 1740504020,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2781,
+            "date": 1717788312,
+            "game": "https://www.chess.com/game/live/107024561677"
+        },
+        "record": {
+            "win": 1761,
+            "loss": 1582,
+            "draw": 323
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2835,
+            "date": 1634483245
+        },
+        "lowest": {
+            "rating": 1008,
+            "date": 1515402654
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

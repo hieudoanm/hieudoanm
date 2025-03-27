@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18887300.98146090.200x200o.20567f0b4f78.jpg",
+    "player_id": 18887300,
+    "@id": "https://api.chess.com/pub/player/karinachess1",
+    "url": "https://www.chess.com/member/karinachess1",
+    "name": "Karina Ambartsumova",
+    "username": "karinachess1",
+    "title": "IM",
+    "followers": 3085,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741700143,
+    "joined": 1410630513,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2295,
+            "date": 1681753106,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1563631792,
+            "game": "https://www.chess.com/game/live/69098118461"
+        },
+        "record": {
+            "win": 7,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2670,
+            "date": 1741460411,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2806,
+            "date": 1739037958,
+            "game": "https://www.chess.com/game/live/101328167743"
+        },
+        "record": {
+            "win": 2538,
+            "loss": 2612,
+            "draw": 466
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2696,
+            "date": 1741370386,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2754,
+            "date": 1738710317,
+            "game": "https://www.chess.com/game/live/132448233787"
+        },
+        "record": {
+            "win": 2542,
+            "loss": 2129,
+            "draw": 514
+        }
+    },
+    "fide": 2418,
+    "tactics": {
+        "highest": {
+            "rating": 3163,
+            "date": 1637076545
+        },
+        "lowest": {
+            "rating": 2018,
+            "date": 1416300309
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

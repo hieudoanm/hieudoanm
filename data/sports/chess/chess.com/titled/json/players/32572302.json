@@ -1,0 +1,66 @@
+{
+    "player_id": 32572302,
+    "@id": "https://api.chess.com/pub/player/kakorrhaphiophobie",
+    "url": "https://www.chess.com/member/kakorrhaphiophobie",
+    "username": "kakorrhaphiophobie",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1738227453,
+    "joined": 1485034034,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2146,
+            "date": 1665484668,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2454,
+            "date": 1612001733,
+            "game": "https://www.chess.com/game/live/11047550863"
+        },
+        "record": {
+            "win": 70,
+            "loss": 76,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2370,
+            "date": 1740559194,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2479,
+            "date": 1726233820,
+            "game": "https://www.chess.com/game/live/6076362001"
+        },
+        "record": {
+            "win": 1084,
+            "loss": 1020,
+            "draw": 168
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3072,
+            "date": 1664982941
+        },
+        "lowest": {
+            "rating": 1246,
+            "date": 1485038362
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

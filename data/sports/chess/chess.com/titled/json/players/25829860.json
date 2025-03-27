@@ -1,0 +1,104 @@
+{
+    "player_id": 25829860,
+    "@id": "https://api.chess.com/pub/player/derknipser",
+    "url": "https://www.chess.com/member/DerKnipser",
+    "name": "Jens Nebel",
+    "username": "derknipser",
+    "title": "CM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741606494,
+    "joined": 1451383098,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 848,
+            "date": 1741382842,
+            "rd": 312
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1451383098,
+            "game": "https://www.chess.com/game/daily/783221507"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 10826,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2125,
+            "date": 1726822108,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1726820680,
+            "game": "https://www.chess.com/game/live/120559206801"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2410,
+            "date": 1741636166,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2492,
+            "date": 1737631313,
+            "game": "https://www.chess.com/game/live/112384905615"
+        },
+        "record": {
+            "win": 940,
+            "loss": 589,
+            "draw": 95
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2453,
+            "date": 1741642292,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2476,
+            "date": 1696932900,
+            "game": "https://www.chess.com/game/live/4691734874"
+        },
+        "record": {
+            "win": 2347,
+            "loss": 1559,
+            "draw": 381
+        }
+    },
+    "fide": 2212,
+    "tactics": {
+        "highest": {
+            "rating": 3342,
+            "date": 1734531174
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1509549305
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

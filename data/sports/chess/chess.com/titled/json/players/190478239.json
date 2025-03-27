@@ -1,0 +1,51 @@
+{
+    "player_id": 190478239,
+    "@id": "https://api.chess.com/pub/player/pineapplepenn",
+    "url": "https://www.chess.com/member/pineapplepenn",
+    "name": "Bayanmunkh Amin-Erdene",
+    "username": "pineapplepenn",
+    "title": "WCM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1741691970,
+    "joined": 1658226163,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2428,
+            "date": 1724647269,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1660994336,
+            "game": "https://www.chess.com/game/live/59282991525"
+        },
+        "record": {
+            "win": 560,
+            "loss": 614,
+            "draw": 61
+        }
+    },
+    "fide": 1539,
+    "tactics": {
+        "highest": {
+            "rating": 3435,
+            "date": 1740034047
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1661611537
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 44
+        }
+    }
+}

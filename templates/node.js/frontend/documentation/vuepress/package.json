@@ -1,0 +1,25 @@
+{
+  "name": "@documentation/vuepress",
+  "version": "0.0.1",
+  "description": "Documentation - VuePress",
+  "license": "GPL-3.0",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --cache --write .",
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs --clean-cache",
+    "update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.23.0",
+    "@vuepress/bundler-vite": "2.0.0-rc.7",
+    "@vuepress/theme-default": "2.0.0-rc.88",
+    "eslint": "9.23.0",
+    "eslint-plugin-vue": "10.0.0",
+    "globals": "16.0.0",
+    "prettier": "3.5.3",
+    "typescript-eslint": "8.28.0",
+    "vue": "3.5.13",
+    "vuepress": "2.0.0-rc.20"
+  }
+}

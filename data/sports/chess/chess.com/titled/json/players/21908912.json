@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21908912.5e8c1f85.200x200o.4aa4a231193b.jpg",
+    "player_id": 21908912,
+    "@id": "https://api.chess.com/pub/player/akiba182",
+    "url": "https://www.chess.com/member/Akiba182",
+    "name": "Pranav Shetty",
+    "username": "akiba182",
+    "title": "CM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741697180,
+    "joined": 1428673016,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2144,
+            "date": 1732028561,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2047,
+            "date": 1564586553,
+            "game": "https://www.chess.com/game/live/3898526152"
+        },
+        "record": {
+            "win": 10,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2407,
+            "date": 1741697737,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1739025336,
+            "game": "https://www.chess.com/game/live/2630507001"
+        },
+        "record": {
+            "win": 945,
+            "loss": 806,
+            "draw": 90
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2430,
+            "date": 1741449846,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2544,
+            "date": 1690388323,
+            "game": "https://www.chess.com/game/live/4202019877"
+        },
+        "record": {
+            "win": 958,
+            "loss": 775,
+            "draw": 149
+        }
+    },
+    "fide": 2144,
+    "tactics": {
+        "highest": {
+            "rating": 2927,
+            "date": 1741522580
+        },
+        "lowest": {
+            "rating": 1257,
+            "date": 1472038187
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 44
+        }
+    }
+}

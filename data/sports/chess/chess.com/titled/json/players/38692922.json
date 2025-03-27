@@ -1,0 +1,70 @@
+{
+    "player_id": 38692922,
+    "@id": "https://api.chess.com/pub/player/joehoe76",
+    "url": "https://www.chess.com/member/JoeHoe76",
+    "name": "Joost Hoogendoorn",
+    "username": "joehoe76",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1739559751,
+    "joined": 1505577473,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2086,
+            "date": 1724228936,
+            "rd": 147
+        },
+        "best": {
+            "rating": 2116,
+            "date": 1622987254,
+            "game": "https://www.chess.com/game/daily/327202250"
+        },
+        "record": {
+            "win": 59,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 6291,
+            "timeout_percent": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2438,
+            "date": 1741687478,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2464,
+            "date": 1701432964,
+            "game": "https://www.chess.com/game/live/3344128752"
+        },
+        "record": {
+            "win": 2464,
+            "loss": 2161,
+            "draw": 209
+        }
+    },
+    "fide": 2412,
+    "tactics": {
+        "highest": {
+            "rating": 3625,
+            "date": 1729181559
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1507492198
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/413303131.aa27b2f6.200x200o.8970a8a894dc.jpg",
+    "player_id": 413303131,
+    "@id": "https://api.chess.com/pub/player/chillingblunder",
+    "url": "https://www.chess.com/member/ChillingBlunder",
+    "name": "Miguel Antonio Neto Silva",
+    "username": "chillingblunder",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741343898,
+    "joined": 1735408656,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2430,
+            "date": 1741640581,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2429,
+            "date": 1739720556,
+            "game": "https://www.chess.com/game/live/130301429899"
+        },
+        "record": {
+            "win": 75,
+            "loss": 70,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2611,
+            "date": 1741618479,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2606,
+            "date": 1739284569,
+            "game": "https://www.chess.com/game/live/130164565235"
+        },
+        "record": {
+            "win": 76,
+            "loss": 57,
+            "draw": 30
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1708,
+            "date": 1740317617
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1735408656
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 35
+        }
+    }
+}

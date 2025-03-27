@@ -1,0 +1,63 @@
+{
+    "player_id": 394299081,
+    "@id": "https://api.chess.com/pub/player/egehany09",
+    "url": "https://www.chess.com/member/Egehany09",
+    "name": "Egehan Yildiz",
+    "username": "egehany09",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741466012,
+    "joined": 1728320594,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2525,
+            "date": 1741457262,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2672,
+            "date": 1732440169,
+            "game": "https://www.chess.com/game/live/133378179797"
+        },
+        "record": {
+            "win": 416,
+            "loss": 474,
+            "draw": 54
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2539,
+            "date": 1741111950,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2579,
+            "date": 1738107976,
+            "game": "https://www.chess.com/game/live/133028385973"
+        },
+        "record": {
+            "win": 63,
+            "loss": 57,
+            "draw": 9
+        }
+    },
+    "fide": 2243,
+    "tactics": {
+        "highest": {
+            "rating": 2248,
+            "date": 1738163360
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728320594
+        }
+    },
+    "puzzle_rush": {}
+}

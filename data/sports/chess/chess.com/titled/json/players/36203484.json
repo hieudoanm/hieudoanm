@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36203484.d0fb4eb5.200x200o.b7308256f6fe.jpg",
+    "player_id": 36203484,
+    "@id": "https://api.chess.com/pub/player/slovak_fighter2000",
+    "url": "https://www.chess.com/member/Slovak_fighter2000",
+    "name": "Marek Karas",
+    "username": "slovak_fighter2000",
+    "title": "FM",
+    "followers": 238,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741700848,
+    "joined": 1497105207,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1674,
+            "date": 1741011010,
+            "rd": 252
+        },
+        "best": {
+            "rating": 1874,
+            "date": 1586416276,
+            "game": "https://www.chess.com/game/daily/257023928"
+        },
+        "record": {
+            "win": 15,
+            "loss": 3,
+            "draw": 6,
+            "time_per_move": 36348,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2342,
+            "date": 1737594512,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1605363695,
+            "game": "https://www.chess.com/game/live/130084826149"
+        },
+        "record": {
+            "win": 29,
+            "loss": 10,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2556,
+            "date": 1741686438,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2810,
+            "date": 1732012024,
+            "game": "https://www.chess.com/game/live/114022852873"
+        },
+        "record": {
+            "win": 9913,
+            "loss": 8139,
+            "draw": 1949
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2587,
+            "date": 1741603752,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2759,
+            "date": 1736973044,
+            "game": "https://www.chess.com/game/live/33243653113"
+        },
+        "record": {
+            "win": 7728,
+            "loss": 7158,
+            "draw": 2284
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3368,
+            "date": 1679349946
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1513095536
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

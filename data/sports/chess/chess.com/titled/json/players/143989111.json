@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/143989111.ec7e42ad.200x200o.e6016a1fb515.jpg",
+    "player_id": 143989111,
+    "@id": "https://api.chess.com/pub/player/ansko1999",
+    "url": "https://www.chess.com/member/ansko1999",
+    "name": "Andreas Skotheim",
+    "username": "ansko1999",
+    "title": "CM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1738984974,
+    "joined": 1623325037,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2498,
+            "date": 1656263067,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1656263067,
+            "game": "https://www.chess.com/game/live/46580353817"
+        },
+        "record": {
+            "win": 16,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2704,
+            "date": 1682199578,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1682199578,
+            "game": "https://www.chess.com/game/live/49375159971"
+        },
+        "record": {
+            "win": 737,
+            "loss": 742,
+            "draw": 133
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2621,
+            "date": 1738986204,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1709055924,
+            "game": "https://www.chess.com/game/live/111253924383"
+        },
+        "record": {
+            "win": 1630,
+            "loss": 1652,
+            "draw": 377
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3635,
+            "date": 1706367719
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1649351126
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

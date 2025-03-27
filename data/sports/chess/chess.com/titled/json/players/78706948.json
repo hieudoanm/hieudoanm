@@ -1,0 +1,84 @@
+{
+    "player_id": 78706948,
+    "@id": "https://api.chess.com/pub/player/hypercar",
+    "url": "https://www.chess.com/member/Hypercar",
+    "name": "Tanraj Sohal",
+    "username": "hypercar",
+    "title": "FM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1739248793,
+    "joined": 1588735259,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2222,
+            "date": 1670626515,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2274,
+            "date": 1657559201,
+            "game": "https://www.chess.com/game/live/51300557943"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2517,
+            "date": 1739164261,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2759,
+            "date": 1607221209,
+            "game": "https://www.chess.com/game/live/53398829399"
+        },
+        "record": {
+            "win": 3834,
+            "loss": 2752,
+            "draw": 620
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2545,
+            "date": 1736541398,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2663,
+            "date": 1642568769,
+            "game": "https://www.chess.com/game/live/40003187571"
+        },
+        "record": {
+            "win": 699,
+            "loss": 544,
+            "draw": 122
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3285,
+            "date": 1674949566
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1588802060
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

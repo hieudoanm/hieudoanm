@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38083534.d5e2dda1.200x200o.e6b18a97ecb5.jpeg",
+    "player_id": 38083534,
+    "@id": "https://api.chess.com/pub/player/yoshkinkot",
+    "url": "https://www.chess.com/member/Yoshkinkot",
+    "name": "Zhitnikov Konstantin",
+    "username": "yoshkinkot",
+    "title": "FM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Russia,Mari El Republic",
+    "last_online": 1730305568,
+    "joined": 1503600186,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2107,
+            "date": 1724335523,
+            "rd": 344
+        },
+        "best": {
+            "rating": 2302,
+            "date": 1553544194,
+            "game": "https://www.chess.com/game/live/25982332947"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2724,
+            "date": 1740049709,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1703065283,
+            "game": "https://www.chess.com/game/live/96200042341"
+        },
+        "record": {
+            "win": 270,
+            "loss": 184,
+            "draw": 41
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2726,
+            "date": 1731582503,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2756,
+            "date": 1729449829,
+            "game": "https://www.chess.com/game/live/118537735135"
+        },
+        "record": {
+            "win": 1715,
+            "loss": 1388,
+            "draw": 399
+        }
+    },
+    "fide": 2271,
+    "tactics": {
+        "highest": {
+            "rating": 3114,
+            "date": 1696104868
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1503602351
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

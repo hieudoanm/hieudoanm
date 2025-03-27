@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2291836.bc6788e0.200x200o.91ed04e63b8e.jpg",
+    "player_id": 2291836,
+    "@id": "https://api.chess.com/pub/player/frankiejay",
+    "url": "https://www.chess.com/member/FrankieJay",
+    "name": "Frank Johnson",
+    "username": "frankiejay",
+    "title": "NM",
+    "followers": 198,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Strawberry Point, Iowa",
+    "last_online": 1741109001,
+    "joined": 1257913700,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2106,
+            "date": 1710988002,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2261,
+            "date": 1338485162,
+            "game": "https://www.chess.com/game/daily/41677563"
+        },
+        "record": {
+            "win": 631,
+            "loss": 190,
+            "draw": 57,
+            "time_per_move": 29572,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2358,
+            "date": 1706038447,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1616205423,
+            "game": "https://www.chess.com/game/live/9937347213"
+        },
+        "record": {
+            "win": 22,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2516,
+            "date": 1736112731,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2683,
+            "date": 1666983612,
+            "game": "https://www.chess.com/game/live/6556016477"
+        },
+        "record": {
+            "win": 775,
+            "loss": 547,
+            "draw": 97
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2520,
+            "date": 1741109383,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2652,
+            "date": 1733777796,
+            "game": "https://www.chess.com/game/live/12072231669"
+        },
+        "record": {
+            "win": 14119,
+            "loss": 11114,
+            "draw": 2405
+        }
+    },
+    "fide": 2343,
+    "tactics": {
+        "highest": {
+            "rating": 3577,
+            "date": 1705948991
+        },
+        "lowest": {
+            "rating": 1325,
+            "date": 1264096437
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

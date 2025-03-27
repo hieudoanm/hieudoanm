@@ -1,0 +1,84 @@
+{
+    "player_id": 38461296,
+    "@id": "https://api.chess.com/pub/player/danykopy",
+    "url": "https://www.chess.com/member/DanyKopy",
+    "name": "Daniel Kopylov",
+    "username": "danykopy",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741695871,
+    "joined": 1504815833,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2550,
+            "date": 1740861796,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2540,
+            "date": 1739705851,
+            "game": "https://www.chess.com/game/live/133286943001"
+        },
+        "record": {
+            "win": 73,
+            "loss": 12,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2604,
+            "date": 1732821957,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1730127386,
+            "game": "https://www.chess.com/game/live/123261633801"
+        },
+        "record": {
+            "win": 401,
+            "loss": 134,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2682,
+            "date": 1741111777,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2702,
+            "date": 1739294449,
+            "game": "https://www.chess.com/game/live/131819465131"
+        },
+        "record": {
+            "win": 365,
+            "loss": 229,
+            "draw": 49
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2359,
+            "date": 1711122202
+        },
+        "lowest": {
+            "rating": 1203,
+            "date": 1504816068
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

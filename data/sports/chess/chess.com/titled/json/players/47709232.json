@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47709232.e216410d.200x200o.85080f5d3972.jpeg",
+    "player_id": 47709232,
+    "@id": "https://api.chess.com/pub/player/s2pac",
+    "url": "https://www.chess.com/member/S2PAc",
+    "name": "Kirill Stupak",
+    "username": "s2pac",
+    "title": "GM",
+    "followers": 96,
+    "country": "https://api.chess.com/pub/country/BY",
+    "location": "Minsk",
+    "last_online": 1740910696,
+    "joined": 1531050193,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2561,
+            "date": 1716798063,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1646324571,
+            "game": "https://www.chess.com/game/live/6008624855"
+        },
+        "record": {
+            "win": 75,
+            "loss": 12,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2875,
+            "date": 1718451947,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2928,
+            "date": 1604532134,
+            "game": "https://www.chess.com/game/live/5666474587"
+        },
+        "record": {
+            "win": 559,
+            "loss": 506,
+            "draw": 72
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2876,
+            "date": 1733942675,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2946,
+            "date": 1581547235,
+            "game": "https://www.chess.com/game/live/107271743687"
+        },
+        "record": {
+            "win": 1016,
+            "loss": 827,
+            "draw": 208
+        }
+    },
+    "fide": 2575,
+    "tactics": {
+        "highest": {
+            "rating": 423,
+            "date": 1718433967
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1613485288
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

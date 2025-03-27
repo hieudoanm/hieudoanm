@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/192865683.3209bafd.200x200o.fe5e6ced5082.jpg",
+    "player_id": 192865683,
+    "@id": "https://api.chess.com/pub/player/greenviper2025",
+    "url": "https://www.chess.com/member/GreenViper2025",
+    "name": "Ti\u1ebfn Tr\u1ea7n M\u1ea1nh",
+    "username": "greenviper2025",
+    "title": "FM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "Ha Noi",
+    "last_online": 1741702724,
+    "joined": 1660096785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2417,
+            "date": 1677818306,
+            "rd": 168
+        },
+        "best": {
+            "rating": 2469,
+            "date": 1667582194,
+            "game": "https://www.chess.com/game/live/61320034367"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2546,
+            "date": 1741671256,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2576,
+            "date": 1703259663,
+            "game": "https://www.chess.com/game/live/108749543023"
+        },
+        "record": {
+            "win": 117,
+            "loss": 109,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2526,
+            "date": 1741528037,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1723229939,
+            "game": "https://www.chess.com/game/live/133639159449"
+        },
+        "record": {
+            "win": 586,
+            "loss": 551,
+            "draw": 77
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2980,
+            "date": 1717692528
+        },
+        "lowest": {
+            "rating": 2762,
+            "date": 1668278086
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

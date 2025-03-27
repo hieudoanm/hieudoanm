@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45172358.52803b5d.200x200o.a6bfcfdce6db.jpg",
+    "player_id": 45172358,
+    "@id": "https://api.chess.com/pub/player/miyoloko",
+    "url": "https://www.chess.com/member/MIYOLOKO",
+    "name": "alberto suri",
+    "username": "miyoloko",
+    "title": "FM",
+    "followers": 306,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1739757094,
+    "joined": 1523391017,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2612,
+            "date": 1734568995,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2734,
+            "date": 1683284165,
+            "game": "https://www.chess.com/game/live/76543876007"
+        },
+        "record": {
+            "win": 313,
+            "loss": 242,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2657,
+            "date": 1741685534,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1731532558,
+            "game": "https://www.chess.com/game/live/125927956783"
+        },
+        "record": {
+            "win": 4484,
+            "loss": 3727,
+            "draw": 761
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3625,
+            "date": 1725576033
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1523396141
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

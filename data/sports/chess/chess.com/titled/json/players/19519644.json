@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19519644.9ea7b92b.200x200o.06b5120d2221.jpeg",
+    "player_id": 19519644,
+    "@id": "https://api.chess.com/pub/player/wizard456",
+    "url": "https://www.chess.com/member/Wizard456",
+    "name": "Diptayan Ghosh",
+    "username": "wizard456",
+    "title": "GM",
+    "followers": 191,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Kolkata",
+    "last_online": 1741528918,
+    "joined": 1414739949,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2519,
+            "date": 1727290411,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1566145711,
+            "game": "https://www.chess.com/game/live/69199745027"
+        },
+        "record": {
+            "win": 32,
+            "loss": 33,
+            "draw": 27
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2811,
+            "date": 1690128034,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2898,
+            "date": 1600180139,
+            "game": "https://www.chess.com/game/live/10143728847"
+        },
+        "record": {
+            "win": 456,
+            "loss": 308,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2893,
+            "date": 1732210021,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2945,
+            "date": 1580884870,
+            "game": "https://www.chess.com/game/live/4467626310"
+        },
+        "record": {
+            "win": 1043,
+            "loss": 699,
+            "draw": 312
+        }
+    },
+    "fide": 2553,
+    "tactics": {
+        "highest": {
+            "rating": 2213,
+            "date": 1723875805
+        },
+        "lowest": {
+            "rating": 1183,
+            "date": 1523554788
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

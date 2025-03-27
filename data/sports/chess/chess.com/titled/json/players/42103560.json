@@ -1,0 +1,84 @@
+{
+    "player_id": 42103560,
+    "@id": "https://api.chess.com/pub/player/timetopush",
+    "url": "https://www.chess.com/member/timetopush",
+    "name": "Orlando Husbands",
+    "username": "timetopush",
+    "title": "IM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/BB",
+    "last_online": 1741620061,
+    "joined": 1515364048,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2163,
+            "date": 1741640216,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2186,
+            "date": 1596998515,
+            "game": "https://www.chess.com/game/live/5274344796"
+        },
+        "record": {
+            "win": 4,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2602,
+            "date": 1741127963,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1709322033,
+            "game": "https://www.chess.com/game/live/103060933415"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2237,
+            "date": 1738101170,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2572,
+            "date": 1584290555,
+            "game": "https://www.chess.com/game/live/4596160904"
+        },
+        "record": {
+            "win": 318,
+            "loss": 230,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2346,
+            "date": 1737550698
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1664838892
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

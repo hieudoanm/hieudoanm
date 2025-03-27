@@ -1,0 +1,33 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27554448.719f7f51.200x200o.0e27e3959b8f.jpeg",
+    "player_id": 27554448,
+    "@id": "https://api.chess.com/pub/player/keeron21",
+    "url": "https://www.chess.com/member/keeron21",
+    "name": "Leonid Sandler",
+    "username": "keeron21",
+    "title": "IM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741678044,
+    "joined": 1459587757,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 3434,
+            "date": 1741285689
+        },
+        "lowest": {
+            "rating": 1336,
+            "date": 1474072486
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

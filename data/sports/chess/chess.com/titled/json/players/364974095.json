@@ -1,0 +1,68 @@
+{
+    "player_id": 364974095,
+    "@id": "https://api.chess.com/pub/player/oxygen64",
+    "url": "https://www.chess.com/member/Oxygen64",
+    "name": "Benjamin Wagner",
+    "username": "oxygen64",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1740435196,
+    "joined": 1716471025,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2472,
+            "date": 1740441431,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1732384749,
+            "game": "https://www.chess.com/game/live/131563832495"
+        },
+        "record": {
+            "win": 183,
+            "loss": 160,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2534,
+            "date": 1733354355,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1731941327,
+            "game": "https://www.chess.com/game/live/117300673587"
+        },
+        "record": {
+            "win": 63,
+            "loss": 38,
+            "draw": 5
+        }
+    },
+    "fide": 2301,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1716471025
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1716471025
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "player_id": 26977742,
+    "@id": "https://api.chess.com/pub/player/isfsam",
+    "url": "https://www.chess.com/member/isfsam",
+    "name": "Chun Yung Samuel Lam",
+    "username": "isfsam",
+    "title": "CM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/HK",
+    "last_online": 1741695144,
+    "joined": 1456659489,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1195,
+            "date": 1715270314,
+            "rd": 168
+        },
+        "best": {
+            "rating": 1260,
+            "date": 1513752606,
+            "game": "https://www.chess.com/game/daily/171195284"
+        },
+        "record": {
+            "win": 10,
+            "loss": 21,
+            "draw": 0,
+            "time_per_move": 100806,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2045,
+            "date": 1740564037,
+            "rd": 219
+        },
+        "best": {
+            "rating": 1911,
+            "date": 1703823566,
+            "game": "https://www.chess.com/game/live/97562415109"
+        },
+        "record": {
+            "win": 24,
+            "loss": 12,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2590,
+            "date": 1741507138,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1737738831,
+            "game": "https://www.chess.com/game/live/112982396059"
+        },
+        "record": {
+            "win": 526,
+            "loss": 424,
+            "draw": 60
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2371,
+            "date": 1741354247,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1740835958,
+            "game": "https://www.chess.com/game/live/112507206481"
+        },
+        "record": {
+            "win": 298,
+            "loss": 190,
+            "draw": 31
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2124,
+            "date": 1508509451
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1457096139
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

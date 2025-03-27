@@ -1,0 +1,107 @@
+{
+    "player_id": 78023552,
+    "@id": "https://api.chess.com/pub/player/presidentloek",
+    "url": "https://www.chess.com/member/PresidentLoek",
+    "name": "loek Van der Hagen",
+    "username": "presidentloek",
+    "title": "FM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741640025,
+    "joined": 1588066472,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1749,
+            "date": 1708075770,
+            "rd": 260
+        },
+        "best": {
+            "rating": 1749,
+            "date": 1676467691,
+            "game": "https://www.chess.com/game/daily/363649407"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 27199,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2267,
+            "date": 1709896508,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2297,
+            "date": 1697193746,
+            "game": "https://www.chess.com/game/live/90932349035"
+        },
+        "record": {
+            "win": 55,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2474,
+            "date": 1734372060,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2527,
+            "date": 1732133268,
+            "game": "https://www.chess.com/game/live/78221993951"
+        },
+        "record": {
+            "win": 526,
+            "loss": 341,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2434,
+            "date": 1734346564,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2520,
+            "date": 1709988630,
+            "game": "https://www.chess.com/game/live/72471125685"
+        },
+        "record": {
+            "win": 364,
+            "loss": 271,
+            "draw": 44
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3627,
+            "date": 1716981785
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1611997355
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        },
+        "daily": {
+            "total_attempts": 48,
+            "score": 47
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "player_id": 34463410,
+    "@id": "https://api.chess.com/pub/player/donseng",
+    "url": "https://www.chess.com/member/Donseng",
+    "name": "\u0414\u043e\u043d\u0434\u0443\u043a\u043e\u0432 \u0421\u044d\u043d\u0433\u0434\u043e\u0440\u0436",
+    "username": "donseng",
+    "title": "FM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d",
+    "last_online": 1741164210,
+    "joined": 1491141468,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2059,
+            "date": 1693195979,
+            "rd": 249
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1693195979,
+            "game": "https://www.chess.com/game/live/86933963773"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2583,
+            "date": 1617300608,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1554411536,
+            "game": "https://www.chess.com/game/live/3936210591"
+        },
+        "record": {
+            "win": 684,
+            "loss": 707,
+            "draw": 105
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2298,
+            "date": 1643134661,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2730,
+            "date": 1549296326,
+            "game": "https://www.chess.com/game/live/3431788713"
+        },
+        "record": {
+            "win": 1227,
+            "loss": 1317,
+            "draw": 211
+        }
+    },
+    "fide": 2350,
+    "tactics": {
+        "highest": {
+            "rating": 2550,
+            "date": 1735797155
+        },
+        "lowest": {
+            "rating": 1188,
+            "date": 1545646608
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

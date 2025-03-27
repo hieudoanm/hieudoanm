@@ -1,0 +1,79 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1721116.0f02770b.200x200o.1892223228cc.jpeg",
+    "player_id": 1721116,
+    "@id": "https://api.chess.com/pub/player/guillan",
+    "url": "https://www.chess.com/member/guillan",
+    "name": "Dalson Holanda",
+    "username": "guillan",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "caruaru",
+    "last_online": 1741648584,
+    "joined": 1232459661,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1683323413,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 865,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1921,
+            "date": 1719525450,
+            "rd": 257
+        },
+        "best": {
+            "rating": 1921,
+            "date": 1719524650,
+            "game": "https://www.chess.com/game/live/87263981477"
+        },
+        "record": {
+            "win": 13,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2213,
+            "date": 1738182037,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2258,
+            "date": 1735589792,
+            "game": "https://www.chess.com/game/live/75573214703"
+        },
+        "record": {
+            "win": 154,
+            "loss": 88,
+            "draw": 16
+        }
+    },
+    "fide": 2000,
+    "tactics": {
+        "highest": {
+            "rating": 2274,
+            "date": 1674163159
+        },
+        "lowest": {
+            "rating": 2210,
+            "date": 1669411531
+        }
+    },
+    "puzzle_rush": {}
+}

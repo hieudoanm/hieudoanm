@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73654020.2da035a2.200x200o.9b6004841a1b.jpg",
+    "player_id": 73654020,
+    "@id": "https://api.chess.com/pub/player/sterpfi",
+    "url": "https://www.chess.com/member/sterpfi",
+    "name": "Jonas Wyss",
+    "username": "sterpfi",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1741502749,
+    "joined": 1584386987,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2206,
+            "date": 1739733509,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2446,
+            "date": 1677518099,
+            "game": "https://www.chess.com/game/live/71255799503"
+        },
+        "record": {
+            "win": 32,
+            "loss": 23,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1925,
+            "date": 1717082361,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2068,
+            "date": 1716215733,
+            "game": "https://www.chess.com/game/live/109629706257"
+        },
+        "record": {
+            "win": 27,
+            "loss": 17,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2371,
+            "date": 1741111616,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1724264056,
+            "game": "https://www.chess.com/game/live/132423682413"
+        },
+        "record": {
+            "win": 134,
+            "loss": 172,
+            "draw": 25
+        }
+    },
+    "fide": 2227,
+    "tactics": {
+        "highest": {
+            "rating": 2608,
+            "date": 1692887039
+        },
+        "lowest": {
+            "rating": 2405,
+            "date": 1674942621
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

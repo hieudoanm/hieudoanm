@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/145551289.4ecb5eec.200x200o.87d5c76c2bd5.jpg",
+    "player_id": 145551289,
+    "@id": "https://api.chess.com/pub/player/gmvignirvatnar",
+    "url": "https://www.chess.com/member/GMVignirVatnar",
+    "name": "Vignir Vatnar Stefansson",
+    "username": "gmvignirvatnar",
+    "title": "GM",
+    "followers": 178,
+    "country": "https://api.chess.com/pub/country/IS",
+    "last_online": 1734040700,
+    "joined": 1624395673,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2005,
+            "date": 1724026240,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1724026240,
+            "game": "https://www.chess.com/game/daily/629368193"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 125042,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2785,
+            "date": 1709125382,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2785,
+            "date": 1685233595,
+            "game": "https://www.chess.com/game/live/102864017521"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2746,
+            "date": 1694977196,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2822,
+            "date": 1694965504,
+            "game": "https://www.chess.com/game/live/31437062723"
+        },
+        "record": {
+            "win": 61,
+            "loss": 22,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2759,
+            "date": 1733832603,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1724361892,
+            "game": "https://www.chess.com/game/live/75442764853"
+        },
+        "record": {
+            "win": 1556,
+            "loss": 1262,
+            "draw": 234
+        }
+    },
+    "fide": 2483,
+    "tactics": {
+        "highest": {
+            "rating": 2525,
+            "date": 1705514080
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1629647315
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

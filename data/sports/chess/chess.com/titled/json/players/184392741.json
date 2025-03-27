@@ -1,0 +1,81 @@
+{
+    "player_id": 184392741,
+    "@id": "https://api.chess.com/pub/player/bulajans",
+    "url": "https://www.chess.com/member/BulajaNS",
+    "name": "Ratko Bulajic",
+    "username": "bulajans",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Novi Sad",
+    "last_online": 1741620852,
+    "joined": 1653124924,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2012,
+            "date": 1741129829,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1670427384,
+            "game": "https://www.chess.com/game/live/82935117359"
+        },
+        "record": {
+            "win": 324,
+            "loss": 60,
+            "draw": 34
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2484,
+            "date": 1741582963,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2606,
+            "date": 1731647272,
+            "game": "https://www.chess.com/game/live/100214553775"
+        },
+        "record": {
+            "win": 5917,
+            "loss": 5408,
+            "draw": 603
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2434,
+            "date": 1740602655,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2564,
+            "date": 1654323351,
+            "game": "https://www.chess.com/game/live/49186157917"
+        },
+        "record": {
+            "win": 1106,
+            "loss": 832,
+            "draw": 122
+        }
+    },
+    "fide": 2063,
+    "tactics": {
+        "highest": {
+            "rating": 3011,
+            "date": 1733677968
+        },
+        "lowest": {
+            "rating": 985,
+            "date": 1659400945
+        }
+    },
+    "puzzle_rush": {}
+}

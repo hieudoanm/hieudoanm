@@ -1,0 +1,84 @@
+{
+    "player_id": 37022608,
+    "@id": "https://api.chess.com/pub/player/stronger1799",
+    "url": "https://www.chess.com/member/Stronger1799",
+    "name": "Egor Kovalev",
+    "username": "stronger1799",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1734634053,
+    "joined": 1500027922,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2552,
+            "date": 1729692367,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1610625295,
+            "game": "https://www.chess.com/game/live/6232208796"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2715,
+            "date": 1635869083,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2715,
+            "date": 1610477817,
+            "game": "https://www.chess.com/game/live/6216398305"
+        },
+        "record": {
+            "win": 140,
+            "loss": 106,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2600,
+            "date": 1736638952,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2782,
+            "date": 1647080052,
+            "game": "https://www.chess.com/game/live/36268242961"
+        },
+        "record": {
+            "win": 3269,
+            "loss": 2613,
+            "draw": 356
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3183,
+            "date": 1646999538
+        },
+        "lowest": {
+            "rating": 2252,
+            "date": 1588683717
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

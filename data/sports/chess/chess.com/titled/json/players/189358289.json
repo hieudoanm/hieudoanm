@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/189358289.e0151af9.200x200o.c22d0e29ab54.jpg",
+    "player_id": 189358289,
+    "@id": "https://api.chess.com/pub/player/iarenotthinkso",
+    "url": "https://www.chess.com/member/Iarenotthinkso",
+    "name": "Tianqi Wang",
+    "username": "iarenotthinkso",
+    "title": "IM",
+    "followers": 64,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741624906,
+    "joined": 1657294085,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2457,
+            "date": 1698620373,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1698620373,
+            "game": "https://www.chess.com/game/live/51644497925"
+        },
+        "record": {
+            "win": 32,
+            "loss": 12,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2453,
+            "date": 1693861601,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2849,
+            "date": 1678642614,
+            "game": "https://www.chess.com/game/live/83341491683"
+        },
+        "record": {
+            "win": 465,
+            "loss": 24,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2700,
+            "date": 1731793666,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1697307305,
+            "game": "https://www.chess.com/game/live/101330610683"
+        },
+        "record": {
+            "win": 87,
+            "loss": 25,
+            "draw": 10
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2874,
+            "date": 1673492573
+        },
+        "lowest": {
+            "rating": 2600,
+            "date": 1657811326
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

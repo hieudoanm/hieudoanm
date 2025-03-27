@@ -1,0 +1,67 @@
+{
+    "player_id": 361963483,
+    "@id": "https://api.chess.com/pub/player/teletubisiek",
+    "url": "https://www.chess.com/member/teletubisiek",
+    "username": "teletubisiek",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741549291,
+    "joined": 1715193397,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2660,
+            "date": 1739519486,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1727273553,
+            "game": "https://www.chess.com/game/live/120752386527"
+        },
+        "record": {
+            "win": 172,
+            "loss": 222,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2734,
+            "date": 1741549616,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2784,
+            "date": 1739532905,
+            "game": "https://www.chess.com/game/live/133201133011"
+        },
+        "record": {
+            "win": 302,
+            "loss": 300,
+            "draw": 50
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2322,
+            "date": 1730840048
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1715193397
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

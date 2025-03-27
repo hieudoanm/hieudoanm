@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14623290.e36d3dce.200x200o.0a6d49b9337d.jpeg",
+    "player_id": 14623290,
+    "@id": "https://api.chess.com/pub/player/abeljusto",
+    "url": "https://www.chess.com/member/abeljusto",
+    "name": "Abel Justo Davalos",
+    "username": "abeljusto",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "df",
+    "last_online": 1741416188,
+    "joined": 1385268317,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1899,
+            "date": 1740655124,
+            "rd": 197
+        },
+        "best": {
+            "rating": 2025,
+            "date": 1592086171,
+            "game": "https://www.chess.com/game/live/1174555288"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2095,
+            "date": 1676084848,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2187,
+            "date": 1676037367,
+            "game": "https://www.chess.com/game/live/69776716423"
+        },
+        "record": {
+            "win": 2591,
+            "loss": 2322,
+            "draw": 119
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2235,
+            "date": 1741173953,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1741132489,
+            "game": "https://www.chess.com/game/live/134868549055"
+        },
+        "record": {
+            "win": 768,
+            "loss": 593,
+            "draw": 67
+        }
+    },
+    "fide": 2135,
+    "tactics": {
+        "highest": {
+            "rating": 3164,
+            "date": 1740655684
+        },
+        "lowest": {
+            "rating": 1310,
+            "date": 1385382606
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

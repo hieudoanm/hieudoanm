@@ -1,0 +1,84 @@
+{
+    "player_id": 407130039,
+    "@id": "https://api.chess.com/pub/player/dumbchess95",
+    "url": "https://www.chess.com/member/dumbchess95",
+    "username": "dumbchess95",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741439157,
+    "joined": 1733402217,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2381,
+            "date": 1741440747,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1738413271,
+            "game": "https://www.chess.com/game/live/129327203891"
+        },
+        "record": {
+            "win": 75,
+            "loss": 29,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2425,
+            "date": 1738166475,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2435,
+            "date": 1737572553,
+            "game": "https://www.chess.com/game/live/131044256441"
+        },
+        "record": {
+            "win": 121,
+            "loss": 87,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1737487522,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1737487522,
+            "game": "https://www.chess.com/game/live/131149239489"
+        },
+        "record": {
+            "win": 125,
+            "loss": 83,
+            "draw": 21
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3201,
+            "date": 1736517384
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1733402217
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

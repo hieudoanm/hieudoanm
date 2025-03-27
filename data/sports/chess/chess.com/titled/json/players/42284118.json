@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42284118.f8082e7a.200x200o.689a591eeffd.jpeg",
+    "player_id": 42284118,
+    "@id": "https://api.chess.com/pub/player/joeyjojo_09",
+    "url": "https://www.chess.com/member/JoeyJojo_09",
+    "name": "Joey Jojo",
+    "username": "joeyjojo_09",
+    "title": "WCM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Toronto, ON",
+    "last_online": 1738297382,
+    "joined": 1515854875,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1857,
+            "date": 1628916997,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1858,
+            "date": 1599328715,
+            "game": "https://www.chess.com/game/live/3241201725"
+        },
+        "record": {
+            "win": 282,
+            "loss": 176,
+            "draw": 30
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1661,
+            "date": 1597105398,
+            "rd": 159
+        },
+        "best": {
+            "rating": 1562,
+            "date": 1554668737,
+            "game": "https://www.chess.com/game/live/3598840213"
+        },
+        "record": {
+            "win": 8,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1699,
+            "date": 1738298723,
+            "rd": 155
+        },
+        "best": {
+            "rating": 1847,
+            "date": 1707421414,
+            "game": "https://www.chess.com/game/live/101160241207"
+        },
+        "record": {
+            "win": 8,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3214,
+            "date": 1737646456
+        },
+        "lowest": {
+            "rating": 810,
+            "date": 1515856360
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55574152.12d690ee.200x200o.626262dad008.jpeg",
+    "player_id": 55574152,
+    "@id": "https://api.chess.com/pub/player/rgkkk",
+    "url": "https://www.chess.com/member/rgkkk",
+    "name": "Stanis\u0142aw Zawadzki",
+    "username": "rgkkk",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Warsaw",
+    "last_online": 1741602907,
+    "joined": 1546723762,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2241,
+            "date": 1693996221,
+            "rd": 206
+        },
+        "best": {
+            "rating": 2241,
+            "date": 1693996221,
+            "game": "https://www.chess.com/game/live/87734522433"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2239,
+            "date": 1693512250,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2407,
+            "date": 1644089259,
+            "game": "https://www.chess.com/game/live/37828846863"
+        },
+        "record": {
+            "win": 9,
+            "loss": 11,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2419,
+            "date": 1695370549,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1695214460,
+            "game": "https://www.chess.com/game/live/37972855659"
+        },
+        "record": {
+            "win": 31,
+            "loss": 20,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3118,
+            "date": 1686868155
+        },
+        "lowest": {
+            "rating": 1202,
+            "date": 1554061578
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

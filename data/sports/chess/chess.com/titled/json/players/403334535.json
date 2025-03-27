@@ -1,0 +1,50 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/403334535.eb53603b.200x200o.f822d9c8f827.jpg",
+    "player_id": 403334535,
+    "@id": "https://api.chess.com/pub/player/rexomnibusfaex",
+    "url": "https://www.chess.com/member/RexOmnibusFaex",
+    "username": "rexomnibusfaex",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1741698621,
+    "joined": 1731942060,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2579,
+            "date": 1741702181,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2605,
+            "date": 1736782486,
+            "game": "https://www.chess.com/game/live/130130358927"
+        },
+        "record": {
+            "win": 496,
+            "loss": 510,
+            "draw": 70
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1731942060
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1731942060
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 35
+        }
+    }
+}

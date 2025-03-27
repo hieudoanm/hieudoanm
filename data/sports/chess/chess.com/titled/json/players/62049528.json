@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62049528.f9dd4021.200x200o.5a4fe111df2b.jpeg",
+    "player_id": 62049528,
+    "@id": "https://api.chess.com/pub/player/secret_guy",
+    "url": "https://www.chess.com/member/secret_guy",
+    "username": "secret_guy",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/ZW",
+    "last_online": 1739923851,
+    "joined": 1559990852,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2039,
+            "date": 1662574256,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2099,
+            "date": 1662484675,
+            "game": "https://www.chess.com/game/live/56223282917"
+        },
+        "record": {
+            "win": 32,
+            "loss": 22,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2554,
+            "date": 1704793308,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2775,
+            "date": 1565638437,
+            "game": "https://www.chess.com/game/live/3950131631"
+        },
+        "record": {
+            "win": 96,
+            "loss": 65,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2926,
+            "date": 1733862775
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1559995335
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

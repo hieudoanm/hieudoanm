@@ -1,0 +1,49 @@
+{
+    "player_id": 417260101,
+    "@id": "https://api.chess.com/pub/player/the-new-reality",
+    "url": "https://www.chess.com/member/The-New-Reality",
+    "username": "the-new-reality",
+    "title": "GM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1740819345,
+    "joined": 1736710463,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2802,
+            "date": 1737581080,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2810,
+            "date": 1737580830,
+            "game": "https://www.chess.com/game/live/131233832969"
+        },
+        "record": {
+            "win": 80,
+            "loss": 11,
+            "draw": 6
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1736710463
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1736710463
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

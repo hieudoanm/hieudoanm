@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2904024.35ea4073.200x200o.4f4fdb265f9d.png",
+    "player_id": 2904024,
+    "@id": "https://api.chess.com/pub/player/gargleblaster",
+    "url": "https://www.chess.com/member/GargleBlaster",
+    "name": "John Chernoff",
+    "username": "gargleblaster",
+    "title": "NM",
+    "followers": 212,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Arcata",
+    "last_online": 1741449534,
+    "joined": 1276227736,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1575,
+            "date": 1702941391,
+            "rd": 209
+        },
+        "best": {
+            "rating": 1708,
+            "date": 1408978468,
+            "game": "https://www.chess.com/game/daily/73942266"
+        },
+        "record": {
+            "win": 8,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 30477,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2617,
+            "date": 1409533292,
+            "rd": 258
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1404606046,
+            "game": "https://www.chess.com/game/live/847707450"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2650,
+            "date": 1419713730,
+            "rd": 125
+        },
+        "best": {
+            "rating": 2783,
+            "date": 1299986764,
+            "game": "https://www.chess.com/game/live/107734705"
+        },
+        "record": {
+            "win": 2242,
+            "loss": 789,
+            "draw": 132
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2470,
+            "date": 1740448393,
+            "rd": 124
+        },
+        "best": {
+            "rating": 2325,
+            "date": 1494184217,
+            "game": "https://www.chess.com/game/live/287523563"
+        },
+        "record": {
+            "win": 1015,
+            "loss": 714,
+            "draw": 99
+        }
+    },
+    "fide": 2221,
+    "tactics": {
+        "highest": {
+            "rating": 2639,
+            "date": 1377127039
+        },
+        "lowest": {
+            "rating": 1388,
+            "date": 1276342281
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

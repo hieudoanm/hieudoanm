@@ -1,0 +1,52 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/396511879.60c295c8.200x200o.84b68eaf4725.png",
+    "player_id": 396511879,
+    "@id": "https://api.chess.com/pub/player/malena_10",
+    "url": "https://www.chess.com/member/Malena_10",
+    "name": "Marta Elena Jimenez Carrazoni",
+    "username": "malena_10",
+    "title": "WCM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1740860279,
+    "joined": 1729198416,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2110,
+            "date": 1740506526,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2187,
+            "date": 1730823595,
+            "game": "https://www.chess.com/game/live/127588845215"
+        },
+        "record": {
+            "win": 9,
+            "loss": 29,
+            "draw": 1
+        }
+    },
+    "fide": 1980,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1729198416
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1729198416
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 27
+        }
+    }
+}

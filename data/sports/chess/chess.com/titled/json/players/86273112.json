@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86273112.31cf98cc.200x200o.9c033d86ea77.jpg",
+    "player_id": 86273112,
+    "@id": "https://api.chess.com/pub/player/mandaloriana19",
+    "url": "https://www.chess.com/member/Mandaloriana19",
+    "name": "Mar\u00eda Jos\u00e9 Campos",
+    "username": "mandaloriana19",
+    "title": "WFM",
+    "followers": 380,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741571345,
+    "joined": 1594322417,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1634,
+            "date": 1739007009,
+            "rd": 152
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1594322417,
+            "game": "https://www.chess.com/game/daily/274067278"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 3,
+            "time_per_move": 41383,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2172,
+            "date": 1739547783,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1739547783,
+            "game": "https://www.chess.com/game/live/98233528717"
+        },
+        "record": {
+            "win": 9,
+            "loss": 11,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2321,
+            "date": 1741703157,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2494,
+            "date": 1722425321,
+            "game": "https://www.chess.com/game/live/116164868587"
+        },
+        "record": {
+            "win": 105,
+            "loss": 55,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2519,
+            "date": 1741389479,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2581,
+            "date": 1733164021,
+            "game": "https://www.chess.com/game/live/113602222541"
+        },
+        "record": {
+            "win": 1403,
+            "loss": 1173,
+            "draw": 149
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3569,
+            "date": 1705176963
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1594392806
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

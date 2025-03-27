@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/384065087.c25b77bb.200x200o.7cb6e198a234.jpg",
+    "player_id": 384065087,
+    "@id": "https://api.chess.com/pub/player/dudkinau2010",
+    "url": "https://www.chess.com/member/DudkinaU2010",
+    "name": "Uliana Dudkina",
+    "username": "dudkinau2010",
+    "title": "WCM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Saint Petersburg",
+    "last_online": 1741702250,
+    "joined": 1724961032,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1740853439,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2632,
+            "date": 1740850291,
+            "game": "https://www.chess.com/game/live/133987753429"
+        },
+        "record": {
+            "win": 82,
+            "loss": 53,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2568,
+            "date": 1741111723,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2643,
+            "date": 1739688837,
+            "game": "https://www.chess.com/game/live/121540242369"
+        },
+        "record": {
+            "win": 249,
+            "loss": 162,
+            "draw": 22
+        }
+    },
+    "fide": 2027,
+    "tactics": {
+        "highest": {
+            "rating": 2333,
+            "date": 1726739500
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1724961032
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

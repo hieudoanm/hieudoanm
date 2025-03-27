@@ -1,0 +1,75 @@
+{
+    "player_id": 399307531,
+    "@id": "https://api.chess.com/pub/player/schachlatan64",
+    "url": "https://www.chess.com/member/Schachlatan64",
+    "name": "Stephan Becking",
+    "username": "schachlatan64",
+    "title": "IM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741637583,
+    "joined": 1730279252,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2399,
+            "date": 1740488797,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2467,
+            "date": 1741266498,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2677,
+            "date": 1731766062,
+            "game": "https://www.chess.com/game/live/125842107897"
+        },
+        "record": {
+            "win": 509,
+            "loss": 413,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2702,
+            "date": 1741379246,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2677,
+            "date": 1740756562,
+            "game": "https://www.chess.com/game/live/124269553135"
+        },
+        "record": {
+            "win": 240,
+            "loss": 172,
+            "draw": 65
+        }
+    },
+    "fide": 2410,
+    "tactics": {
+        "highest": {
+            "rating": 3179,
+            "date": 1736232133
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1730279252
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,83 @@
+{
+    "player_id": 71446938,
+    "@id": "https://api.chess.com/pub/player/kingrossi",
+    "url": "https://www.chess.com/member/KingRossi",
+    "username": "kingrossi",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741591186,
+    "joined": 1580318462,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1734611302,
+            "rd": 306
+        },
+        "best": {
+            "rating": 1457,
+            "date": 1657219383,
+            "game": "https://www.chess.com/game/live/50956258883"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2310,
+            "date": 1741592166,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2287,
+            "date": 1735397182,
+            "game": "https://www.chess.com/game/live/102180937445"
+        },
+        "record": {
+            "win": 756,
+            "loss": 442,
+            "draw": 56
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2408,
+            "date": 1741538101,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2473,
+            "date": 1659458638,
+            "game": "https://www.chess.com/game/live/50776812415"
+        },
+        "record": {
+            "win": 1297,
+            "loss": 911,
+            "draw": 146
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3250,
+            "date": 1740432715
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1580318462
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

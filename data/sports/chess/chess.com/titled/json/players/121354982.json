@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/121354982.9e785e19.200x200o.5e39021eb650.jpeg",
+    "player_id": 121354982,
+    "@id": "https://api.chess.com/pub/player/allstarserious",
+    "url": "https://www.chess.com/member/allstarserious",
+    "username": "allstarserious",
+    "title": "GM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1710706707,
+    "joined": 1613410383,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2880,
+            "date": 1705774455,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2891,
+            "date": 1641151644,
+            "game": "https://www.chess.com/game/live/34890133411"
+        },
+        "record": {
+            "win": 50,
+            "loss": 19,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2811,
+            "date": 1710707416,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2885,
+            "date": 1705240296,
+            "game": "https://www.chess.com/game/live/14933326195"
+        },
+        "record": {
+            "win": 116,
+            "loss": 64,
+            "draw": 19
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2116,
+            "date": 1614963776
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1614951865
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

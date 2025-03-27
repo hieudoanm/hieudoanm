@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32993130.5871247b.200x200o.222369e7d2cf.jpg",
+    "player_id": 32993130,
+    "@id": "https://api.chess.com/pub/player/swisspower96",
+    "url": "https://www.chess.com/member/swisspower96",
+    "name": "No\u00ebl Studer",
+    "username": "swisspower96",
+    "title": "GM",
+    "followers": 140,
+    "country": "https://api.chess.com/pub/country/CH",
+    "location": "Bern",
+    "last_online": 1741688365,
+    "joined": 1486450347,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2433,
+            "date": 1705750457,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1590769086,
+            "game": "https://www.chess.com/game/live/4929646726"
+        },
+        "record": {
+            "win": 15,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2608,
+            "date": 1706132575,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2700,
+            "date": 1608476423,
+            "game": "https://www.chess.com/game/live/6008478440"
+        },
+        "record": {
+            "win": 94,
+            "loss": 75,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2592,
+            "date": 1741691692,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2774,
+            "date": 1610817100,
+            "game": "https://www.chess.com/game/live/6032380140"
+        },
+        "record": {
+            "win": 2053,
+            "loss": 1912,
+            "draw": 345
+        }
+    },
+    "fide": 2579,
+    "tactics": {
+        "highest": {
+            "rating": 2307,
+            "date": 1618658169
+        },
+        "lowest": {
+            "rating": 1239,
+            "date": 1490343893
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 44
+        }
+    }
+}

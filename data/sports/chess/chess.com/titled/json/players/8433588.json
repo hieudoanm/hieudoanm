@@ -1,0 +1,64 @@
+{
+    "player_id": 8433588,
+    "@id": "https://api.chess.com/pub/player/elmini",
+    "url": "https://www.chess.com/member/elmini",
+    "name": "Sebastian Ruiz Blais",
+    "username": "elmini",
+    "title": "NM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/CR",
+    "location": "Puntarenas",
+    "last_online": 1741614455,
+    "joined": 1344100984,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2323,
+            "date": 1740524728,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1731642554,
+            "game": "https://www.chess.com/game/live/114745120233"
+        },
+        "record": {
+            "win": 5217,
+            "loss": 5059,
+            "draw": 386
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2301,
+            "date": 1741630610,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1622946627,
+            "game": "https://www.chess.com/game/live/11901812035"
+        },
+        "record": {
+            "win": 4662,
+            "loss": 4127,
+            "draw": 466
+        }
+    },
+    "fide": 2176,
+    "tactics": {
+        "highest": {
+            "rating": 2976,
+            "date": 1714766149
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1635525394
+        }
+    },
+    "puzzle_rush": {}
+}

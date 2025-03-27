@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/120849734.037696ca.200x200o.6ed19bb47a35.jpg",
+    "player_id": 120849734,
+    "@id": "https://api.chess.com/pub/player/puzzlebot_1294",
+    "url": "https://www.chess.com/member/Puzzlebot_1294",
+    "name": "Arush Chitre",
+    "username": "puzzlebot_1294",
+    "title": "CM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741544021,
+    "joined": 1613229857,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 854,
+            "date": 1724488262,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1079,
+            "date": 1692177663,
+            "game": "https://www.chess.com/game/daily/543096833"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 29964,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2274,
+            "date": 1722773654,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2294,
+            "date": 1690006846,
+            "game": "https://www.chess.com/game/live/38901549053"
+        },
+        "record": {
+            "win": 44,
+            "loss": 28,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2559,
+            "date": 1734198247,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2791,
+            "date": 1728145359,
+            "game": "https://www.chess.com/game/live/117650953007"
+        },
+        "record": {
+            "win": 1005,
+            "loss": 1067,
+            "draw": 129
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2652,
+            "date": 1732637223,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2893,
+            "date": 1723909732,
+            "game": "https://www.chess.com/game/live/115156092021"
+        },
+        "record": {
+            "win": 575,
+            "loss": 694,
+            "draw": 155
+        }
+    },
+    "fide": 2172,
+    "tactics": {
+        "highest": {
+            "rating": 2293,
+            "date": 1724047018
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1644637373
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

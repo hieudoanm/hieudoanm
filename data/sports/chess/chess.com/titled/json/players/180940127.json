@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/180940127.a9b535e4.200x200o.1b8774ebbbf1.jpeg",
+    "player_id": 180940127,
+    "@id": "https://api.chess.com/pub/player/anirudhha33",
+    "url": "https://www.chess.com/member/Anirudhha33",
+    "name": "Anirudhha Potawad",
+    "username": "anirudhha33",
+    "title": "FM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741698871,
+    "joined": 1650374537,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1197,
+            "date": 1735814205,
+            "rd": 211
+        },
+        "best": {
+            "rating": 1697,
+            "date": 1734520477,
+            "game": "https://www.chess.com/game/daily/717360307"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 64694,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2331,
+            "date": 1735716378
+        },
+        "best": {
+            "rating": 2431,
+            "date": 1670148563,
+            "game": "https://www.chess.com/game/live/129454953797"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2582,
+            "date": 1735650931,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1730477108,
+            "game": "https://www.chess.com/game/live/125774353775"
+        },
+        "record": {
+            "win": 181,
+            "loss": 73,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2713,
+            "date": 1741627124,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2736,
+            "date": 1740504756,
+            "game": "https://www.chess.com/game/live/134240956641"
+        },
+        "record": {
+            "win": 153,
+            "loss": 70,
+            "draw": 11
+        }
+    },
+    "fide": 2281,
+    "tactics": {
+        "highest": {
+            "rating": 3918,
+            "date": 1706610473
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1658573907
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

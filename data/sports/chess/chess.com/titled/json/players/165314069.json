@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/165314069.d67105a3.200x200o.d66d325837a9.jpg",
+    "player_id": 165314069,
+    "@id": "https://api.chess.com/pub/player/lildoggo2007",
+    "url": "https://www.chess.com/member/lildoggo2007",
+    "name": "Nik Javornik",
+    "username": "lildoggo2007",
+    "title": "CM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/SI",
+    "location": "Miklav\u017e",
+    "last_online": 1741641142,
+    "joined": 1639776556,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1706,
+            "date": 1720521165,
+            "rd": 256
+        },
+        "best": {
+            "rating": 1706,
+            "date": 1676204681,
+            "game": "https://www.chess.com/game/daily/438917159"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 341850,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2180,
+            "date": 1720521166,
+            "rd": 144
+        },
+        "best": {
+            "rating": 1931,
+            "date": 1673552511,
+            "game": "https://www.chess.com/game/live/67277095737"
+        },
+        "record": {
+            "win": 31,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2609,
+            "date": 1741641452,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2661,
+            "date": 1739183109,
+            "game": "https://www.chess.com/game/live/133219153755"
+        },
+        "record": {
+            "win": 2360,
+            "loss": 1949,
+            "draw": 361
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2566,
+            "date": 1741637315,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2573,
+            "date": 1739188388,
+            "game": "https://www.chess.com/game/live/117301284449"
+        },
+        "record": {
+            "win": 677,
+            "loss": 515,
+            "draw": 109
+        }
+    },
+    "fide": 2180,
+    "tactics": {
+        "highest": {
+            "rating": 3355,
+            "date": 1736007564
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1639823221
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

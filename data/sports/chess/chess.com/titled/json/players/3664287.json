@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3664287.14069c44.200x200o.415513946b3c.jpeg",
+    "player_id": 3664287,
+    "@id": "https://api.chess.com/pub/player/visa",
+    "url": "https://www.chess.com/member/visa",
+    "name": "Mike Zaloznyy",
+    "username": "visa",
+    "title": "CM",
+    "followers": 220,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741688945,
+    "joined": 1278252776,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1845,
+            "date": 1741689005,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1355785654,
+            "game": "https://www.chess.com/game/daily/48025978"
+        },
+        "record": {
+            "win": 1653,
+            "loss": 575,
+            "draw": 247,
+            "time_per_move": 33466,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1727,
+            "date": 1580819403,
+            "rd": 76
+        },
+        "best": {
+            "rating": 1783,
+            "date": 1564256402,
+            "game": "https://www.chess.com/game/daily/248587876"
+        },
+        "record": {
+            "win": 42,
+            "loss": 17,
+            "draw": 3,
+            "time_per_move": 33466,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2058,
+            "date": 1734841967,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2158,
+            "date": 1418494901,
+            "game": "https://www.chess.com/game/live/64732899233"
+        },
+        "record": {
+            "win": 58,
+            "loss": 57,
+            "draw": 27
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2210,
+            "date": 1697164236,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1697163420,
+            "game": "https://www.chess.com/game/live/1578624891"
+        },
+        "record": {
+            "win": 85,
+            "loss": 51,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2379,
+            "date": 1741697802,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1717753990,
+            "game": "https://www.chess.com/game/live/4543061871"
+        },
+        "record": {
+            "win": 12874,
+            "loss": 10538,
+            "draw": 1489
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3480,
+            "date": 1692274766
+        },
+        "lowest": {
+            "rating": 1355,
+            "date": 1278570654
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

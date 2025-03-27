@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51616772.5d3f3e45.200x200o.f8f5c7052a06.jpeg",
+    "player_id": 51616772,
+    "@id": "https://api.chess.com/pub/player/beyondchessben",
+    "url": "https://www.chess.com/member/beyondchessben",
+    "name": "Kong Liang Deng",
+    "username": "beyondchessben",
+    "title": "IM",
+    "followers": 82,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "LA",
+    "last_online": 1737687702,
+    "joined": 1541707937,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2503,
+            "date": 1625331586,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2577,
+            "date": 1584208795,
+            "game": "https://www.chess.com/game/live/19070264595"
+        },
+        "record": {
+            "win": 29,
+            "loss": 16,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2622,
+            "date": 1704051155,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2629,
+            "date": 1703872607,
+            "game": "https://www.chess.com/game/live/30753530917"
+        },
+        "record": {
+            "win": 499,
+            "loss": 354,
+            "draw": 54
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2714,
+            "date": 1610476647
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1573508280
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

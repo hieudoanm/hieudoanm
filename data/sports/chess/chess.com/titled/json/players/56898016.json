@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56898016.0487701b.200x200o.a14878e2b8ab.jpeg",
+    "player_id": 56898016,
+    "@id": "https://api.chess.com/pub/player/dfeco",
+    "url": "https://www.chess.com/member/DFeco",
+    "name": "Ferenc Jr. Gombocz",
+    "username": "dfeco",
+    "title": "FM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1741679047,
+    "joined": 1549214372,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1593101403,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 163,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2105,
+            "date": 1633107893,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2190,
+            "date": 1586448743,
+            "game": "https://www.chess.com/game/live/4911217538"
+        },
+        "record": {
+            "win": 27,
+            "loss": 9,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2262,
+            "date": 1731010000,
+            "rd": 139
+        },
+        "best": {
+            "rating": 2430,
+            "date": 1646488733,
+            "game": "https://www.chess.com/game/live/46288210531"
+        },
+        "record": {
+            "win": 15,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2629,
+            "date": 1741679460,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1735162406,
+            "game": "https://www.chess.com/game/live/104628037961"
+        },
+        "record": {
+            "win": 1164,
+            "loss": 940,
+            "draw": 313
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3467,
+            "date": 1729252267
+        },
+        "lowest": {
+            "rating": 2188,
+            "date": 1549391462
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

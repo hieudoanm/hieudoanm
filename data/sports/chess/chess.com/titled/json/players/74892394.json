@@ -1,0 +1,86 @@
+{
+    "player_id": 74892394,
+    "@id": "https://api.chess.com/pub/player/kingswhite2008",
+    "url": "https://www.chess.com/member/Kingswhite2008",
+    "name": "Vedant Nitin Vekhande",
+    "username": "kingswhite2008",
+    "title": "CM",
+    "followers": 169,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Mumbai, Maharashtra",
+    "last_online": 1741627089,
+    "joined": 1585449481,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2370,
+            "date": 1731582602,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1623481002,
+            "game": "https://www.chess.com/game/live/5458195344"
+        },
+        "record": {
+            "win": 14,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2507,
+            "date": 1738164008,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1731246332,
+            "game": "https://www.chess.com/game/live/124913968943"
+        },
+        "record": {
+            "win": 959,
+            "loss": 937,
+            "draw": 100
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2488,
+            "date": 1741111660,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2572,
+            "date": 1733247051,
+            "game": "https://www.chess.com/game/live/133030751403"
+        },
+        "record": {
+            "win": 1029,
+            "loss": 1124,
+            "draw": 162
+        }
+    },
+    "fide": 2167,
+    "tactics": {
+        "highest": {
+            "rating": 3514,
+            "date": 1727365659
+        },
+        "lowest": {
+            "rating": 1018,
+            "date": 1585761963
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

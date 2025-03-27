@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20454366.3f21e6f6.200x200o.3501f3bfc647.jpeg",
+    "player_id": 20454366,
+    "@id": "https://api.chess.com/pub/player/sebastianmarinp",
+    "url": "https://www.chess.com/member/sebastianmarinp",
+    "name": "Sebasti&aacute;n Mar&iacute;n",
+    "username": "sebastianmarinp",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Medell&iacute;n, Antioquia",
+    "last_online": 1741357632,
+    "joined": 1420240322,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2229,
+            "date": 1698159298,
+            "rd": 138
+        },
+        "best": {
+            "rating": 2329,
+            "date": 1614951552,
+            "game": "https://www.chess.com/game/live/5872292241"
+        },
+        "record": {
+            "win": 2177,
+            "loss": 1910,
+            "draw": 196
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2389,
+            "date": 1740526299,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2478,
+            "date": 1702422920,
+            "game": "https://www.chess.com/game/live/91899058281"
+        },
+        "record": {
+            "win": 439,
+            "loss": 443,
+            "draw": 76
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1293,
+            "date": 1606056515
+        },
+        "lowest": {
+            "rating": 1195,
+            "date": 1573837223
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

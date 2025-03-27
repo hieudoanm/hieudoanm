@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4349065.5fce66fa.200x200o.5202d34d24f6.jpeg",
+    "player_id": 4349065,
+    "@id": "https://api.chess.com/pub/player/adel1991",
+    "url": "https://www.chess.com/member/adel1991",
+    "name": "Adel Choukri",
+    "username": "adel1991",
+    "title": "FM",
+    "followers": 90,
+    "country": "https://api.chess.com/pub/country/MA",
+    "last_online": 1736025585,
+    "joined": 1291578627,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1771,
+            "date": 1604173883,
+            "rd": 282
+        },
+        "best": {
+            "rating": 1819,
+            "date": 1295661457,
+            "game": "https://www.chess.com/game/daily/42979284"
+        },
+        "record": {
+            "win": 22,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 13314,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2009,
+            "date": 1737853370,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2009,
+            "date": 1669320198,
+            "game": "https://www.chess.com/game/live/131590178959"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2796,
+            "date": 1738877067,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1732474363,
+            "game": "https://www.chess.com/game/live/125924364689"
+        },
+        "record": {
+            "win": 2916,
+            "loss": 2692,
+            "draw": 258
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2574,
+            "date": 1736025771,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2630,
+            "date": 1723052228,
+            "game": "https://www.chess.com/game/live/116971848183"
+        },
+        "record": {
+            "win": 1304,
+            "loss": 1224,
+            "draw": 138
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2776,
+            "date": 1732140811
+        },
+        "lowest": {
+            "rating": 1352,
+            "date": 1492217160
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

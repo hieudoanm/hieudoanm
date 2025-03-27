@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18893948.f4e2da05.200x200o.21a64706a931.png",
+    "player_id": 18893948,
+    "@id": "https://api.chess.com/pub/player/sacrifice_kzn",
+    "url": "https://www.chess.com/member/sAcRiFiCe_KZN",
+    "name": "Naseem Ahmed Essa",
+    "username": "sacrifice_kzn",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1733682163,
+    "joined": 1410672528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1375,
+            "date": 1708384670,
+            "rd": 246
+        },
+        "best": {
+            "rating": 1375,
+            "date": 1507901405,
+            "game": "https://www.chess.com/game/daily/171748376"
+        },
+        "record": {
+            "win": 6,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 150025,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2050,
+            "date": 1722004132,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2051,
+            "date": 1683647415,
+            "game": "https://www.chess.com/game/live/77383927019"
+        },
+        "record": {
+            "win": 46,
+            "loss": 33,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2020,
+            "date": 1728513012,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2125,
+            "date": 1692896285,
+            "game": "https://www.chess.com/game/live/71535138345"
+        },
+        "record": {
+            "win": 449,
+            "loss": 370,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2004,
+            "date": 1727348341,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2185,
+            "date": 1664286331,
+            "game": "https://www.chess.com/game/live/77311386945"
+        },
+        "record": {
+            "win": 687,
+            "loss": 634,
+            "draw": 78
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3260,
+            "date": 1664233137
+        },
+        "lowest": {
+            "rating": 1341,
+            "date": 1449384276
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

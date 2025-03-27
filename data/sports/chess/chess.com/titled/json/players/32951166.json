@@ -1,0 +1,84 @@
+{
+    "player_id": 32951166,
+    "@id": "https://api.chess.com/pub/player/trucjesman",
+    "url": "https://www.chess.com/member/Trucjesman",
+    "name": "Rurik Capella",
+    "username": "trucjesman",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/CW",
+    "last_online": 1726917454,
+    "joined": 1486312908,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1808,
+            "date": 1629653564,
+            "rd": 152
+        },
+        "best": {
+            "rating": 1948,
+            "date": 1629570934,
+            "game": "https://www.chess.com/game/live/23304110493"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1599514333,
+            "rd": 34
+        },
+        "best": {
+            "rating": 1541,
+            "date": 1585341747,
+            "game": "https://www.chess.com/game/live/4633464319"
+        },
+        "record": {
+            "win": 66,
+            "loss": 45,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1801,
+            "date": 1726919775,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2064,
+            "date": 1629428248,
+            "game": "https://www.chess.com/game/live/4053811913"
+        },
+        "record": {
+            "win": 397,
+            "loss": 373,
+            "draw": 39
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2492,
+            "date": 1584225123
+        },
+        "lowest": {
+            "rating": 383,
+            "date": 1533327181
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 29
+        }
+    }
+}

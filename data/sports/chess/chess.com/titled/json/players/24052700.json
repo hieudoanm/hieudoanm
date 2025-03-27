@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24052700.9d2fbc53.200x200o.918cd5e92977.jpg",
+    "player_id": 24052700,
+    "@id": "https://api.chess.com/pub/player/elcoachrene",
+    "url": "https://www.chess.com/member/ElCoachRene",
+    "name": "Rene' Phillips",
+    "username": "elcoachrene",
+    "title": "NM",
+    "followers": 793,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "La Place",
+    "last_online": 1741697708,
+    "joined": 1441909662,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1592,
+            "date": 1741697773,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1443582937,
+            "game": "https://www.chess.com/game/daily/119375884"
+        },
+        "record": {
+            "win": 1340,
+            "loss": 598,
+            "draw": 138,
+            "time_per_move": 13945,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1195,
+            "date": 1704723265,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1335,
+            "date": 1700530074,
+            "game": "https://www.chess.com/game/daily/596168877"
+        },
+        "record": {
+            "win": 34,
+            "loss": 8,
+            "draw": 3,
+            "time_per_move": 13945,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2243,
+            "date": 1741551130
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1647550789,
+            "game": "https://www.chess.com/game/live/38794777435"
+        },
+        "record": {
+            "win": 2661,
+            "loss": 2098,
+            "draw": 502
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1702,
+            "date": 1740464743,
+            "rd": 64
+        },
+        "best": {
+            "rating": 1994,
+            "date": 1628547331,
+            "game": "https://www.chess.com/game/live/71768501203"
+        },
+        "record": {
+            "win": 3207,
+            "loss": 2637,
+            "draw": 325
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1980,
+            "date": 1741700470,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2294,
+            "date": 1645790304,
+            "game": "https://www.chess.com/game/live/107040093721"
+        },
+        "record": {
+            "win": 7377,
+            "loss": 7111,
+            "draw": 1045
+        }
+    },
+    "fide": 2000,
+    "tactics": {
+        "highest": {
+            "rating": 3340,
+            "date": 1669673043
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1443280537
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

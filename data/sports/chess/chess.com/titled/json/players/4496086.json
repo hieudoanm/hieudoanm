@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4496086.ea5e615c.200x200o.373a024eae55.jpeg",
+    "player_id": 4496086,
+    "@id": "https://api.chess.com/pub/player/michaelshahade",
+    "url": "https://www.chess.com/member/michaelshahade",
+    "name": "Michael Shahade",
+    "username": "michaelshahade",
+    "title": "FM",
+    "followers": 188,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741673345,
+    "joined": 1294039117,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 353,
+            "date": 1737841093,
+            "rd": 302
+        },
+        "record": {
+            "win": 7,
+            "loss": 39,
+            "draw": 0,
+            "time_per_move": 296562,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2158,
+            "date": 1741674523,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2323,
+            "date": 1696998985,
+            "game": "https://www.chess.com/game/live/82498922669"
+        },
+        "record": {
+            "win": 1616,
+            "loss": 1039,
+            "draw": 1150
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1248,
+            "date": 1652780512,
+            "rd": 139
+        },
+        "best": {
+            "rating": 1724,
+            "date": 1339804236,
+            "game": "https://www.chess.com/game/live/503404098"
+        },
+        "record": {
+            "win": 110,
+            "loss": 99,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2003,
+            "date": 1681254237,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2251,
+            "date": 1562623514,
+            "game": "https://www.chess.com/game/live/3847777140"
+        },
+        "record": {
+            "win": 3685,
+            "loss": 2840,
+            "draw": 1590
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3404,
+            "date": 1708053729
+        },
+        "lowest": {
+            "rating": 1203,
+            "date": 1294097621
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

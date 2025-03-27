@@ -1,0 +1,85 @@
+{
+    "player_id": 75483718,
+    "@id": "https://api.chess.com/pub/player/mikewier",
+    "url": "https://www.chess.com/member/mikewier",
+    "name": "Michael Wierzbicki",
+    "username": "mikewier",
+    "title": "NM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741700489,
+    "joined": 1585882691,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2339,
+            "date": 1625752744,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2334,
+            "date": 1625599983,
+            "game": "https://www.chess.com/game/live/19338433253"
+        },
+        "record": {
+            "win": 12,
+            "loss": 3,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2282,
+            "date": 1736286634,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1736286634,
+            "game": "https://www.chess.com/game/live/4688867170"
+        },
+        "record": {
+            "win": 14,
+            "loss": 22,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2215,
+            "date": 1741662495,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2325,
+            "date": 1725139442,
+            "game": "https://www.chess.com/game/live/28497569017"
+        },
+        "record": {
+            "win": 26229,
+            "loss": 22428,
+            "draw": 3509
+        }
+    },
+    "fide": 2312,
+    "tactics": {
+        "highest": {
+            "rating": 3279,
+            "date": 1726015714
+        },
+        "lowest": {
+            "rating": 1186,
+            "date": 1606495100
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 31
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "player_id": 30111176,
+    "@id": "https://api.chess.com/pub/player/vasily85",
+    "url": "https://www.chess.com/member/Vasily85",
+    "name": "Kim Yew Chan",
+    "username": "vasily85",
+    "title": "FM",
+    "followers": 88,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "London",
+    "last_online": 1741263788,
+    "joined": 1474894588,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2123,
+            "date": 1731032133,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1595643660,
+            "game": "https://www.chess.com/game/live/32306362393"
+        },
+        "record": {
+            "win": 64,
+            "loss": 23,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2403,
+            "date": 1715911613,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2589,
+            "date": 1615334869,
+            "game": "https://www.chess.com/game/live/30382785381"
+        },
+        "record": {
+            "win": 297,
+            "loss": 171,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2585,
+            "date": 1741106449,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2590,
+            "date": 1740506435,
+            "game": "https://www.chess.com/game/live/102810091307"
+        },
+        "record": {
+            "win": 650,
+            "loss": 594,
+            "draw": 114
+        }
+    },
+    "fide": 2311,
+    "tactics": {
+        "highest": {
+            "rating": 3735,
+            "date": 1735224321
+        },
+        "lowest": {
+            "rating": 1354,
+            "date": 1480791494
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

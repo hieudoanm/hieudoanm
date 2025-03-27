@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57620228.de844fbb.200x200o.7cfbb9425976.jpeg",
+    "player_id": 57620228,
+    "@id": "https://api.chess.com/pub/player/ratkovic_miloje",
+    "url": "https://www.chess.com/member/Ratkovic_Miloje",
+    "name": "Miloje Ratkovic",
+    "username": "ratkovic_miloje",
+    "title": "GM",
+    "followers": 485,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741606516,
+    "joined": 1550736834,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2379,
+            "date": 1704658972,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2514,
+            "date": 1602313469,
+            "game": "https://www.chess.com/game/live/49391956599"
+        },
+        "record": {
+            "win": 37,
+            "loss": 11,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2562,
+            "date": 1683992049,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2711,
+            "date": 1682089223,
+            "game": "https://www.chess.com/game/live/3819660119"
+        },
+        "record": {
+            "win": 90,
+            "loss": 128,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2728,
+            "date": 1740710220,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2858,
+            "date": 1585328600,
+            "game": "https://www.chess.com/game/live/5452445844"
+        },
+        "record": {
+            "win": 1090,
+            "loss": 946,
+            "draw": 181
+        }
+    },
+    "fide": 2499,
+    "tactics": {
+        "highest": {
+            "rating": 2415,
+            "date": 1553793395
+        },
+        "lowest": {
+            "rating": 2382,
+            "date": 1587968514
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

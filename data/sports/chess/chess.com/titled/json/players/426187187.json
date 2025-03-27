@@ -1,0 +1,52 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/426187187.335cdf53.200x200o.6af118458c76.jpg",
+    "player_id": 426187187,
+    "@id": "https://api.chess.com/pub/player/bobbithebuilder11",
+    "url": "https://www.chess.com/member/bobbithebuilder11",
+    "name": "Shambavi Hariharan",
+    "username": "bobbithebuilder11",
+    "title": "WCM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/XE",
+    "last_online": 1741629485,
+    "joined": 1738609228,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2266,
+            "date": 1741110986,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2462,
+            "date": 1739313059,
+            "game": "https://www.chess.com/game/live/133635541725"
+        },
+        "record": {
+            "win": 11,
+            "loss": 20,
+            "draw": 4
+        }
+    },
+    "fide": 2000,
+    "tactics": {
+        "highest": {
+            "rating": 2922,
+            "date": 1739779838
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738609228
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 33
+        }
+    }
+}

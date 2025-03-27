@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28438790.9ce5a2fb.200x200o.521e70af143b.jpeg",
+    "player_id": 28438790,
+    "@id": "https://api.chess.com/pub/player/tashik",
+    "url": "https://www.chess.com/member/Tashik",
+    "name": "Natalia Zhukova",
+    "username": "tashik",
+    "title": "GM",
+    "followers": 113,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741627654,
+    "joined": 1464725588,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2292,
+            "date": 1739819698,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2397,
+            "date": 1631201884,
+            "game": "https://www.chess.com/game/live/24938556703"
+        },
+        "record": {
+            "win": 8,
+            "loss": 11,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2595,
+            "date": 1606662311,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2595,
+            "date": 1606662311,
+            "game": "https://www.chess.com/game/live/5030805925"
+        },
+        "record": {
+            "win": 35,
+            "loss": 17,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2533,
+            "date": 1741630964,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2616,
+            "date": 1581158747,
+            "game": "https://www.chess.com/game/live/65290938357"
+        },
+        "record": {
+            "win": 1731,
+            "loss": 1612,
+            "draw": 239
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3506,
+            "date": 1695209712
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1556797892
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        },
+        "daily": {
+            "total_attempts": 47,
+            "score": 46
+        }
+    }
+}

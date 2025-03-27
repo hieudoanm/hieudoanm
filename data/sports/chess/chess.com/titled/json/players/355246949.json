@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/355246949.0872fae4.200x200o.b4802aaafa22.gif",
+    "player_id": 355246949,
+    "@id": "https://api.chess.com/pub/player/charizard1011",
+    "url": "https://www.chess.com/member/Charizard1011",
+    "username": "charizard1011",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741656217,
+    "joined": 1712332868,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1728568987,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1721574292,
+            "game": "https://www.chess.com/game/live/115238893307"
+        },
+        "record": {
+            "win": 12,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2576,
+            "date": 1741657618,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1739146131,
+            "game": "https://www.chess.com/game/live/132529817343"
+        },
+        "record": {
+            "win": 190,
+            "loss": 168,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2479,
+            "date": 1741309109,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1722814230,
+            "game": "https://www.chess.com/game/live/117634134803"
+        },
+        "record": {
+            "win": 354,
+            "loss": 341,
+            "draw": 77
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2264,
+            "date": 1728906326
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1712332868
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

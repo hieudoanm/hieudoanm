@@ -1,0 +1,136 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29327762.a4a15f0f.200x200o.563bba390515.jpeg",
+    "player_id": 29327762,
+    "@id": "https://api.chess.com/pub/player/robin-side",
+    "url": "https://www.chess.com/member/Robin-Side",
+    "name": "Samy Robin",
+    "username": "robin-side",
+    "title": "FM",
+    "followers": 1353,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Mende",
+    "last_online": 1741680270,
+    "joined": 1470222860,
+    "status": "staff",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2026,
+            "date": 1741686630,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2123,
+            "date": 1705924813,
+            "game": "https://www.chess.com/game/daily/572714081"
+        },
+        "record": {
+            "win": 144,
+            "loss": 1,
+            "draw": 4,
+            "time_per_move": 8049,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 918,
+            "date": 1636681203,
+            "rd": 338
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1470222860,
+            "game": "https://www.chess.com/game/daily/355976397"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8049,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2155,
+            "date": 1741267168,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2208,
+            "date": 1614290489,
+            "game": "https://www.chess.com/game/live/8027653253"
+        },
+        "record": {
+            "win": 23,
+            "loss": 5,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2701,
+            "date": 1722978295,
+            "rd": 128
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1672763630,
+            "game": "https://www.chess.com/game/live/8188417121"
+        },
+        "record": {
+            "win": 980,
+            "loss": 809,
+            "draw": 115
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2606,
+            "date": 1741275200,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2654,
+            "date": 1610386146,
+            "game": "https://www.chess.com/game/live/2334172962"
+        },
+        "record": {
+            "win": 2121,
+            "loss": 1653,
+            "draw": 315
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3397,
+            "date": 1740909679
+        },
+        "lowest": {
+            "rating": 1405,
+            "date": 1476828476
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

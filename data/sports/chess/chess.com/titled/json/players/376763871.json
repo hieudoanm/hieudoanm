@@ -1,0 +1,78 @@
+{
+    "player_id": 376763871,
+    "@id": "https://api.chess.com/pub/player/qkid2024",
+    "url": "https://www.chess.com/member/qkid2024",
+    "username": "qkid2024",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741625465,
+    "joined": 1721661028,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2332,
+            "date": 1736464750,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2332,
+            "date": 1736464750,
+            "game": "https://www.chess.com/game/live/128767353079"
+        },
+        "record": {
+            "win": 113,
+            "loss": 52,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2729,
+            "date": 1734972885,
+            "rd": 16
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1733740632,
+            "game": "https://www.chess.com/game/live/126835155475"
+        },
+        "record": {
+            "win": 726,
+            "loss": 748,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2700,
+            "date": 1736464054,
+            "rd": 15
+        },
+        "best": {
+            "rating": 2700,
+            "date": 1736464054,
+            "game": "https://www.chess.com/game/live/129072825861"
+        },
+        "record": {
+            "win": 1335,
+            "loss": 1155,
+            "draw": 89
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2420,
+            "date": 1736385225
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1721661028
+        }
+    },
+    "puzzle_rush": {}
+}

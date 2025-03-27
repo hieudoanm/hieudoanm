@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30259744.4203c4bd.200x200o.c6ea63fb4e6e.png",
+    "player_id": 30259744,
+    "@id": "https://api.chess.com/pub/player/pjatoba",
+    "url": "https://www.chess.com/member/PJatoba",
+    "name": "Paulo Jatob\u00e1",
+    "username": "pjatoba",
+    "title": "FM",
+    "followers": 160,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Bahia",
+    "last_online": 1741644171,
+    "joined": 1475759120,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2198,
+            "date": 1590111997,
+            "rd": 169
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1590106836,
+            "game": "https://www.chess.com/game/live/4889356373"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2520,
+            "date": 1707386958,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2520,
+            "date": 1618081715,
+            "game": "https://www.chess.com/game/live/5212782886"
+        },
+        "record": {
+            "win": 9,
+            "loss": 7,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1741641735,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1639528027,
+            "game": "https://www.chess.com/game/live/121096295497"
+        },
+        "record": {
+            "win": 2307,
+            "loss": 1364,
+            "draw": 320
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3146,
+            "date": 1614458324
+        },
+        "lowest": {
+            "rating": 1800,
+            "date": 1589476664
+        }
+    },
+    "puzzle_rush": {}
+}

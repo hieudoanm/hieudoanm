@@ -1,0 +1,107 @@
+{
+    "player_id": 90623798,
+    "@id": "https://api.chess.com/pub/player/columbiachessclub",
+    "url": "https://www.chess.com/member/columbiachessclub",
+    "name": "Daniel Johnston",
+    "username": "columbiachessclub",
+    "title": "NM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741653930,
+    "joined": 1599328905,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1810,
+            "date": 1733433489,
+            "rd": 180
+        },
+        "best": {
+            "rating": 2111,
+            "date": 1661721008,
+            "game": "https://www.chess.com/game/daily/390120749"
+        },
+        "record": {
+            "win": 34,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 57604,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2028,
+            "date": 1735422800,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2123,
+            "date": 1651086474,
+            "game": "https://www.chess.com/game/live/121288786445"
+        },
+        "record": {
+            "win": 29,
+            "loss": 18,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2282,
+            "date": 1741490777,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1651466607,
+            "game": "https://www.chess.com/game/live/66528189185"
+        },
+        "record": {
+            "win": 565,
+            "loss": 443,
+            "draw": 52
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2333,
+            "date": 1738296519,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2409,
+            "date": 1736292425,
+            "game": "https://www.chess.com/game/live/130026008881"
+        },
+        "record": {
+            "win": 1084,
+            "loss": 820,
+            "draw": 121
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3507,
+            "date": 1730071606
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1621376870
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        },
+        "daily": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

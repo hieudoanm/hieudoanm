@@ -1,0 +1,104 @@
+{
+    "player_id": 12631974,
+    "@id": "https://api.chess.com/pub/player/fang3416",
+    "url": "https://www.chess.com/member/Fang3416",
+    "name": "Aron Klevansky",
+    "username": "fang3416",
+    "title": "CM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1741638607,
+    "joined": 1373278696,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 677,
+            "date": 1740058794,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1373278696,
+            "game": "https://www.chess.com/game/daily/646621357"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 36688,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2202,
+            "date": 1735855255,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1665857633,
+            "game": "https://www.chess.com/game/live/59607621797"
+        },
+        "record": {
+            "win": 105,
+            "loss": 61,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2271,
+            "date": 1741640049,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2380,
+            "date": 1739722418,
+            "game": "https://www.chess.com/game/live/111091231253"
+        },
+        "record": {
+            "win": 3541,
+            "loss": 3048,
+            "draw": 309
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2358,
+            "date": 1741301030,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2402,
+            "date": 1716466951,
+            "game": "https://www.chess.com/game/live/108070283259"
+        },
+        "record": {
+            "win": 1939,
+            "loss": 1563,
+            "draw": 203
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3265,
+            "date": 1731877292
+        },
+        "lowest": {
+            "rating": 1460,
+            "date": 1373278746
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

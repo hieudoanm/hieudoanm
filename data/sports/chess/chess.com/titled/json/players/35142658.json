@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35142658.c9bf89dc.200x200o.84fe5fa7273e.jpeg",
+    "player_id": 35142658,
+    "@id": "https://api.chess.com/pub/player/lovelifebro",
+    "url": "https://www.chess.com/member/Lovelifebro",
+    "name": "Matthieu Midonet",
+    "username": "lovelifebro",
+    "title": "CM",
+    "followers": 62,
+    "country": "https://api.chess.com/pub/country/MQ",
+    "last_online": 1741647727,
+    "joined": 1493443114,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 881,
+            "date": 1716554992,
+            "rd": 330
+        },
+        "best": {
+            "rating": 881,
+            "date": 1674417798,
+            "game": "https://www.chess.com/game/daily/444504467"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 20300,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2522,
+            "date": 1741675507,
+            "rd": 14
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1714360675,
+            "game": "https://www.chess.com/game/live/107394216443"
+        },
+        "record": {
+            "win": 17678,
+            "loss": 16199,
+            "draw": 1959
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2388,
+            "date": 1740969981,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1714145139,
+            "game": "https://www.chess.com/game/live/108009594435"
+        },
+        "record": {
+            "win": 2819,
+            "loss": 2434,
+            "draw": 326
+        }
+    },
+    "fide": 2224,
+    "tactics": {
+        "highest": {
+            "rating": 2992,
+            "date": 1736190567
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1498057402
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/85923308.2077af00.200x200o.58f71b994e58.jpg",
+    "player_id": 85923308,
+    "@id": "https://api.chess.com/pub/player/trainerdejan",
+    "url": "https://www.chess.com/member/TrainerDejan",
+    "name": "Dejan Stojanovski",
+    "username": "trainerdejan",
+    "title": "IM",
+    "followers": 199,
+    "country": "https://api.chess.com/pub/country/MK",
+    "location": "Skopje",
+    "last_online": 1741702573,
+    "joined": 1594041107,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2229,
+            "date": 1741553922,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2573,
+            "date": 1613748904,
+            "game": "https://www.chess.com/game/live/5296876799"
+        },
+        "record": {
+            "win": 11,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2556,
+            "date": 1709076241,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1709076241,
+            "game": "https://www.chess.com/game/live/102814848707"
+        },
+        "record": {
+            "win": 11,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2823,
+            "date": 1741703039,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2906,
+            "date": 1711140689,
+            "game": "https://www.chess.com/game/live/101328655063"
+        },
+        "record": {
+            "win": 843,
+            "loss": 969,
+            "draw": 200
+        }
+    },
+    "fide": 2543,
+    "tactics": {
+        "highest": {
+            "rating": 3326,
+            "date": 1732911772
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1594041107
+        }
+    },
+    "puzzle_rush": {}
+}

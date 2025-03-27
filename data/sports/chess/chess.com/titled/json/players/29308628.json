@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29308628.93269a0c.200x200o.b4cad332ab54.jpeg",
+    "player_id": 29308628,
+    "@id": "https://api.chess.com/pub/player/guilty93",
+    "url": "https://www.chess.com/member/guilty93",
+    "name": "Juan Manuel Gaitan",
+    "username": "guilty93",
+    "title": "FM",
+    "followers": 59,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "buenos aires",
+    "last_online": 1740429383,
+    "joined": 1470091818,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2033,
+            "date": 1605425235,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2033,
+            "date": 1605425008,
+            "game": "https://www.chess.com/game/live/5748269887"
+        },
+        "record": {
+            "win": 18,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2574,
+            "date": 1740807625,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2719,
+            "date": 1648576781,
+            "game": "https://www.chess.com/game/live/3006632342"
+        },
+        "record": {
+            "win": 878,
+            "loss": 644,
+            "draw": 66
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2714,
+            "date": 1733217566,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1733217566,
+            "game": "https://www.chess.com/game/live/65290938365"
+        },
+        "record": {
+            "win": 5554,
+            "loss": 4244,
+            "draw": 542
+        }
+    },
+    "fide": 2362,
+    "tactics": {
+        "highest": {
+            "rating": 3321,
+            "date": 1735654845
+        },
+        "lowest": {
+            "rating": 1341,
+            "date": 1489284469
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

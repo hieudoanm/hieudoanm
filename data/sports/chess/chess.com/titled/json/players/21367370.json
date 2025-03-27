@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21367370.d57ba283.200x200o.4fd5df981196.jpg",
+    "player_id": 21367370,
+    "@id": "https://api.chess.com/pub/player/cipherc0dex",
+    "url": "https://www.chess.com/member/CipherC0DEX",
+    "name": "Trevelyn Varden",
+    "username": "cipherc0dex",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1740327383,
+    "joined": 1425484555,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1661,
+            "date": 1720895749,
+            "rd": 234
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1425484555,
+            "game": "https://www.chess.com/game/live/1106995932"
+        },
+        "record": {
+            "win": 6,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1330,
+            "date": 1727856301,
+            "rd": 70
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1425484555,
+            "game": "https://www.chess.com/game/live/72519138185"
+        },
+        "record": {
+            "win": 140,
+            "loss": 161,
+            "draw": 8
+        }
+    },
+    "fide": 1421,
+    "tactics": {
+        "highest": {
+            "rating": 2878,
+            "date": 1740127389
+        },
+        "lowest": {
+            "rating": 1238,
+            "date": 1485445131
+        }
+    },
+    "puzzle_rush": {}
+}

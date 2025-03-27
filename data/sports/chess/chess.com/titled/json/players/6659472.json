@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6659472.ed66ea63.200x200o.3c685a3074d7.jpeg",
+    "player_id": 6659472,
+    "@id": "https://api.chess.com/pub/player/captainjames",
+    "url": "https://www.chess.com/member/CaptainJames",
+    "name": "Arkadij Naiditsch",
+    "username": "captainjames",
+    "title": "GM",
+    "followers": 231,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1734165323,
+    "joined": 1329063975,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2521,
+            "date": 1704733734,
+            "rd": 270
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1658512834,
+            "game": "https://www.chess.com/game/live/52250494233"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2574,
+            "date": 1587289796,
+            "rd": 121
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1484258976,
+            "game": "https://www.chess.com/game/live/554284755"
+        },
+        "record": {
+            "win": 312,
+            "loss": 118,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2761,
+            "date": 1704732960,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2924,
+            "date": 1587568288,
+            "game": "https://www.chess.com/game/live/4751744155"
+        },
+        "record": {
+            "win": 620,
+            "loss": 516,
+            "draw": 109
+        }
+    },
+    "fide": 2705,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1329063975
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1329063975
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,28 @@
+{
+    "player_id": 315080079,
+    "@id": "https://api.chess.com/pub/player/ojaskulkarni99",
+    "url": "https://www.chess.com/member/OjasKulkarni99",
+    "name": "Ojas Kulkarni",
+    "username": "ojaskulkarni99",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1723393894,
+    "joined": 1695560590,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2248,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1695560590
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1695560590
+        }
+    },
+    "puzzle_rush": {}
+}

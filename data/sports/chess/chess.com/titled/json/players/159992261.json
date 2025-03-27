@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/159992261.8dc78bfd.200x200o.cf7d4e50ed8d.jpg",
+    "player_id": 159992261,
+    "@id": "https://api.chess.com/pub/player/illustradochess",
+    "url": "https://www.chess.com/member/Illustradochess",
+    "name": "Jonathan Jota",
+    "username": "illustradochess",
+    "title": "NM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1739102732,
+    "joined": 1635814832,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1611,
+            "date": 1728981108,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2069,
+            "date": 1637566076,
+            "game": "https://www.chess.com/game/daily/369703565"
+        },
+        "record": {
+            "win": 14,
+            "loss": 12,
+            "draw": 3,
+            "time_per_move": 4839,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2110,
+            "date": 1738929986,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1661854658,
+            "game": "https://www.chess.com/game/live/89553000113"
+        },
+        "record": {
+            "win": 35,
+            "loss": 21,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2373,
+            "date": 1740525071,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1636234459,
+            "game": "https://www.chess.com/game/live/30419344201"
+        },
+        "record": {
+            "win": 140,
+            "loss": 122,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2497,
+            "date": 1741394674,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2574,
+            "date": 1682996043,
+            "game": "https://www.chess.com/game/live/130125583337"
+        },
+        "record": {
+            "win": 1363,
+            "loss": 1063,
+            "draw": 121
+        }
+    },
+    "fide": 2144,
+    "tactics": {
+        "highest": {
+            "rating": 3270,
+            "date": 1738455272
+        },
+        "lowest": {
+            "rating": 1199,
+            "date": 1729395569
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

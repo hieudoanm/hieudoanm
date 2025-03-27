@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59659234.3ce342a2.200x200o.ffd137aae551.jpeg",
+    "player_id": 59659234,
+    "@id": "https://api.chess.com/pub/player/danieldardha2005",
+    "url": "https://www.chess.com/member/DanielDardha2005",
+    "name": "Daniel Dardha",
+    "username": "danieldardha2005",
+    "title": "GM",
+    "followers": 1104,
+    "country": "https://api.chess.com/pub/country/BE",
+    "location": "Antwerp",
+    "last_online": 1733847533,
+    "joined": 1554925893,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1717,
+            "date": 1693512607,
+            "rd": 279
+        },
+        "best": {
+            "rating": 1717,
+            "date": 1581006602,
+            "game": "https://www.chess.com/game/daily/244728602"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 18802,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2448,
+            "date": 1621187730,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1590852151,
+            "game": "https://www.chess.com/game/live/14923662475"
+        },
+        "record": {
+            "win": 20,
+            "loss": 9,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2768,
+            "date": 1730845263,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1716568610,
+            "game": "https://www.chess.com/game/live/80514621887"
+        },
+        "record": {
+            "win": 1037,
+            "loss": 726,
+            "draw": 107
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2972,
+            "date": 1733353980,
+            "rd": 43
+        },
+        "best": {
+            "rating": 3051,
+            "date": 1674917256,
+            "game": "https://www.chess.com/game/live/84064253729"
+        },
+        "record": {
+            "win": 1848,
+            "loss": 1346,
+            "draw": 533
+        }
+    },
+    "fide": 2449,
+    "tactics": {
+        "highest": {
+            "rating": 3164,
+            "date": 1716983987
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1555231600
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 80,
+            "score": 77
+        }
+    }
+}

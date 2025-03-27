@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21717462.da23ed96.200x200o.a849d745b24c.jpg",
+    "player_id": 21717462,
+    "@id": "https://api.chess.com/pub/player/perecke",
+    "url": "https://www.chess.com/member/Perecke",
+    "name": "Aron Pasti",
+    "username": "perecke",
+    "title": "IM",
+    "followers": 527,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1741434545,
+    "joined": 1427552997,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1326,
+            "date": 1741594316,
+            "rd": 128
+        },
+        "best": {
+            "rating": 1762,
+            "date": 1591878957,
+            "game": "https://www.chess.com/game/daily/216339786"
+        },
+        "record": {
+            "win": 132,
+            "loss": 153,
+            "draw": 11,
+            "time_per_move": 52816,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 909,
+            "date": 1604877602,
+            "rd": 191
+        },
+        "best": {
+            "rating": 1254,
+            "date": 1520367366,
+            "game": "https://www.chess.com/game/daily/188390944"
+        },
+        "record": {
+            "win": 6,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 52816,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1915,
+            "date": 1730194858,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2037,
+            "date": 1624112860,
+            "game": "https://www.chess.com/game/live/5956660040"
+        },
+        "record": {
+            "win": 357,
+            "loss": 264,
+            "draw": 52
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2594,
+            "date": 1741525396,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2745,
+            "date": 1729607213,
+            "game": "https://www.chess.com/game/live/110997026177"
+        },
+        "record": {
+            "win": 876,
+            "loss": 827,
+            "draw": 81
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2554,
+            "date": 1740524096,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2767,
+            "date": 1723798370,
+            "game": "https://www.chess.com/game/live/100369406923"
+        },
+        "record": {
+            "win": 3318,
+            "loss": 2942,
+            "draw": 398
+        }
+    },
+    "fide": 2223,
+    "tactics": {
+        "highest": {
+            "rating": 3760,
+            "date": 1735995267
+        },
+        "lowest": {
+            "rating": 1100,
+            "date": 1448367861
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

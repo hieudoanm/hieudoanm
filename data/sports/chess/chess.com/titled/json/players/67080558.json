@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67080558.9067e405.200x200o.a85d8b652a81.jpg",
+    "player_id": 67080558,
+    "@id": "https://api.chess.com/pub/player/rhl_b",
+    "url": "https://www.chess.com/member/rhl_b",
+    "name": "Rahul Babu",
+    "username": "rhl_b",
+    "title": "CM",
+    "followers": 51,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741650408,
+    "joined": 1571938124,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1230,
+            "date": 1738242517,
+            "rd": 212
+        },
+        "best": {
+            "rating": 1412,
+            "date": 1727194910,
+            "game": "https://www.chess.com/game/daily/242575460"
+        },
+        "record": {
+            "win": 13,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 51097,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2250,
+            "date": 1739446147,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1702658559,
+            "game": "https://www.chess.com/game/live/40944042269"
+        },
+        "record": {
+            "win": 416,
+            "loss": 218,
+            "draw": 34
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2303,
+            "date": 1728253659,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1728253659,
+            "game": "https://www.chess.com/game/live/121992545349"
+        },
+        "record": {
+            "win": 533,
+            "loss": 382,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2368,
+            "date": 1741650584,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2540,
+            "date": 1732040387,
+            "game": "https://www.chess.com/game/live/133049970799"
+        },
+        "record": {
+            "win": 6426,
+            "loss": 6468,
+            "draw": 650
+        }
+    },
+    "fide": 2169,
+    "tactics": {
+        "highest": {
+            "rating": 3208,
+            "date": 1739719069
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1573499056
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

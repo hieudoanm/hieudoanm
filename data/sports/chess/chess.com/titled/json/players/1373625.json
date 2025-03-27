@@ -1,0 +1,104 @@
+{
+    "player_id": 1373625,
+    "@id": "https://api.chess.com/pub/player/ruzomberok",
+    "url": "https://www.chess.com/member/ruzomberok",
+    "username": "ruzomberok",
+    "title": "IM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/SE",
+    "location": "Stockholm",
+    "last_online": 1741699654,
+    "joined": 1209843191,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2065,
+            "date": 1701949242,
+            "rd": 307
+        },
+        "best": {
+            "rating": 2143,
+            "date": 1409221933,
+            "game": "https://www.chess.com/game/daily/89847284"
+        },
+        "record": {
+            "win": 7,
+            "loss": 5,
+            "draw": 2,
+            "time_per_move": 38890,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1798,
+            "date": 1645207751,
+            "rd": 232
+        },
+        "best": {
+            "rating": 2209,
+            "date": 1564598240,
+            "game": "https://www.chess.com/game/live/3986359774"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2654,
+            "date": 1704060066,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2743,
+            "date": 1604342828,
+            "game": "https://www.chess.com/game/live/5687990251"
+        },
+        "record": {
+            "win": 1862,
+            "loss": 1007,
+            "draw": 223
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2554,
+            "date": 1730922194,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2684,
+            "date": 1701991871,
+            "game": "https://www.chess.com/game/live/124660750121"
+        },
+        "record": {
+            "win": 472,
+            "loss": 270,
+            "draw": 76
+        }
+    },
+    "fide": 2453,
+    "tactics": {
+        "highest": {
+            "rating": 3571,
+            "date": 1702038385
+        },
+        "lowest": {
+            "rating": 1140,
+            "date": 1216663730
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

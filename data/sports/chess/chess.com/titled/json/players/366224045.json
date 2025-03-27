@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/366224045.1750d9da.200x200o.ce523e859800.jpg",
+    "player_id": 366224045,
+    "@id": "https://api.chess.com/pub/player/javierruizvazquez",
+    "url": "https://www.chess.com/member/JavierRuizVazquez",
+    "name": "Javier Ruiz Vazquez",
+    "username": "javierruizvazquez",
+    "title": "CM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Madrid",
+    "last_online": 1741634648,
+    "joined": 1717004331,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2424,
+            "date": 1741635806,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2496,
+            "date": 1718874048,
+            "game": "https://www.chess.com/game/live/130961956927"
+        },
+        "record": {
+            "win": 297,
+            "loss": 444,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2600,
+            "date": 1741388894,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1726586329,
+            "game": "https://www.chess.com/game/live/117905416235"
+        },
+        "record": {
+            "win": 325,
+            "loss": 357,
+            "draw": 53
+        }
+    },
+    "fide": 2237,
+    "tactics": {
+        "highest": {
+            "rating": 3864,
+            "date": 1720859903
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1717004331
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

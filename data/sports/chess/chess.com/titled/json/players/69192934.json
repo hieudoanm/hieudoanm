@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69192934.19df0418.200x200o.5839b2717eb5.jpeg",
+    "player_id": 69192934,
+    "@id": "https://api.chess.com/pub/player/dropstonedp",
+    "url": "https://www.chess.com/member/dropstoneDP",
+    "name": "David Paravyan",
+    "username": "dropstonedp",
+    "title": "GM",
+    "followers": 834,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1734055460,
+    "joined": 1576081689,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2635,
+            "date": 1727292546,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2975,
+            "date": 1644688544,
+            "game": "https://www.chess.com/game/live/40846119101"
+        },
+        "record": {
+            "win": 184,
+            "loss": 120,
+            "draw": 158
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3086,
+            "date": 1732993151,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3214,
+            "date": 1714234526,
+            "game": "https://www.chess.com/game/live/64272730989"
+        },
+        "record": {
+            "win": 2036,
+            "loss": 728,
+            "draw": 361
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3083,
+            "date": 1734049367,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3134,
+            "date": 1695768656,
+            "game": "https://www.chess.com/game/live/118514281875"
+        },
+        "record": {
+            "win": 8608,
+            "loss": 4809,
+            "draw": 3248
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2252,
+            "date": 1654960035
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1609743444
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

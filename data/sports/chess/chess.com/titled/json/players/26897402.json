@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26897402.07482c01.200x200o.aafdac4f4570.jpeg",
+    "player_id": 26897402,
+    "@id": "https://api.chess.com/pub/player/levonaronian",
+    "url": "https://www.chess.com/member/LevonAronian",
+    "name": "Levon Aronian",
+    "username": "levonaronian",
+    "title": "GM",
+    "followers": 6170,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "St. Louis",
+    "last_online": 1741300292,
+    "joined": 1456282528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2802,
+            "date": 1739819709,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2939,
+            "date": 1645896946,
+            "game": "https://www.chess.com/game/live/40337969545"
+        },
+        "record": {
+            "win": 143,
+            "loss": 68,
+            "draw": 121
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3057,
+            "date": 1716569987,
+            "rd": 41
+        },
+        "best": {
+            "rating": 3191,
+            "date": 1605125818,
+            "game": "https://www.chess.com/game/live/64626780197"
+        },
+        "record": {
+            "win": 86,
+            "loss": 105,
+            "draw": 36
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3088,
+            "date": 1738713829,
+            "rd": 43
+        },
+        "best": {
+            "rating": 3152,
+            "date": 1636670032,
+            "game": "https://www.chess.com/game/live/88276272593"
+        },
+        "record": {
+            "win": 310,
+            "loss": 140,
+            "draw": 108
+        }
+    },
+    "fide": 2790,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1456282528
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1456282528
+        }
+    },
+    "puzzle_rush": {}
+}

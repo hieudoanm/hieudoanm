@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32384216.9e005b07.200x200o.6e668864b42e.jpg",
+    "player_id": 32384216,
+    "@id": "https://api.chess.com/pub/player/aksuliini1",
+    "url": "https://www.chess.com/member/aksuliini1",
+    "name": "Aku Salonen",
+    "username": "aksuliini1",
+    "title": "NM",
+    "followers": 146,
+    "country": "https://api.chess.com/pub/country/FI",
+    "location": "Helsinki",
+    "last_online": 1741693539,
+    "joined": 1484401138,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1536,
+            "date": 1741694905,
+            "rd": 110
+        },
+        "best": {
+            "rating": 1751,
+            "date": 1605281737,
+            "game": "https://www.chess.com/game/daily/458073643"
+        },
+        "record": {
+            "win": 534,
+            "loss": 276,
+            "draw": 80,
+            "time_per_move": 37514,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1541,
+            "date": 1712171381,
+            "rd": 153
+        },
+        "best": {
+            "rating": 1541,
+            "date": 1712171381,
+            "game": "https://www.chess.com/game/daily/206199362"
+        },
+        "record": {
+            "win": 30,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 37514,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2394,
+            "date": 1740589062,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1706452233,
+            "game": "https://www.chess.com/game/live/35935159757"
+        },
+        "record": {
+            "win": 780,
+            "loss": 399,
+            "draw": 78
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2582,
+            "date": 1740943223,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2803,
+            "date": 1735672191,
+            "game": "https://www.chess.com/game/live/129409965729"
+        },
+        "record": {
+            "win": 2809,
+            "loss": 1891,
+            "draw": 294
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2594,
+            "date": 1741698216,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2738,
+            "date": 1737564958,
+            "game": "https://www.chess.com/game/live/133633759667"
+        },
+        "record": {
+            "win": 5334,
+            "loss": 3728,
+            "draw": 743
+        }
+    },
+    "fide": 2239,
+    "tactics": {
+        "highest": {
+            "rating": 3634,
+            "date": 1729077604
+        },
+        "lowest": {
+            "rating": 886,
+            "date": 1487600173
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9726840.b40a7571.200x200o.7f57571104cc.jpeg",
+    "player_id": 9726840,
+    "@id": "https://api.chess.com/pub/player/mrescacs",
+    "url": "https://www.chess.com/member/MrEscacs",
+    "name": "Albert Muratet Casadevall",
+    "username": "mrescacs",
+    "title": "CM",
+    "followers": 65,
+    "country": "https://api.chess.com/pub/country/XC",
+    "location": "Girona",
+    "last_online": 1740239347,
+    "joined": 1353528664,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1949,
+            "date": 1737883702,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2013,
+            "date": 1696773133,
+            "game": "https://www.chess.com/game/daily/558382989"
+        },
+        "record": {
+            "win": 13,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 14603,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2402,
+            "date": 1739993187,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1713114472,
+            "game": "https://www.chess.com/game/live/5635663977"
+        },
+        "record": {
+            "win": 1578,
+            "loss": 1316,
+            "draw": 486
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2207,
+            "date": 1740150567,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2307,
+            "date": 1714920846,
+            "game": "https://www.chess.com/game/live/106764719773"
+        },
+        "record": {
+            "win": 16444,
+            "loss": 14761,
+            "draw": 1954
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2151,
+            "date": 1741555078,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1688222743,
+            "game": "https://www.chess.com/game/live/132515424511"
+        },
+        "record": {
+            "win": 2781,
+            "loss": 2513,
+            "draw": 494
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3379,
+            "date": 1688240796
+        },
+        "lowest": {
+            "rating": 1437,
+            "date": 1373489271
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 41
+        }
+    }
+}

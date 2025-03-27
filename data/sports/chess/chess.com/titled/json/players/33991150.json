@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33991150.7a93075e.200x200o.553d5018b5aa.jpeg",
+    "player_id": 33991150,
+    "@id": "https://api.chess.com/pub/player/farrukh_amonatov",
+    "url": "https://www.chess.com/member/Farrukh_Amonatov",
+    "name": "Farrukh Amonatov",
+    "username": "farrukh_amonatov",
+    "title": "GM",
+    "followers": 3454,
+    "country": "https://api.chess.com/pub/country/TJ",
+    "last_online": 1734162688,
+    "joined": 1489603103,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2546,
+            "date": 1733028721,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2615,
+            "date": 1551973317,
+            "game": "https://www.chess.com/game/live/5503462714"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2711,
+            "date": 1719493234,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2863,
+            "date": 1689710743,
+            "game": "https://www.chess.com/game/live/81357135979"
+        },
+        "record": {
+            "win": 758,
+            "loss": 635,
+            "draw": 93
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3000,
+            "date": 1686723408,
+            "rd": 62
+        },
+        "best": {
+            "rating": 3007,
+            "date": 1580929998,
+            "game": "https://www.chess.com/game/live/56983738287"
+        },
+        "record": {
+            "win": 3890,
+            "loss": 3861,
+            "draw": 1151
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4085,
+            "date": 1709397958
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1526158702
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 40
+        }
+    }
+}

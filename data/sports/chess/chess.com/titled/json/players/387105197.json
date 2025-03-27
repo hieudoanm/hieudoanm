@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/387105197.b0bbd856.200x200o.74fe6f726de8.png",
+    "player_id": 387105197,
+    "@id": "https://api.chess.com/pub/player/polishforce3000",
+    "url": "https://www.chess.com/member/PolishForce3000",
+    "name": "Adam Giba\u0142a",
+    "username": "polishforce3000",
+    "title": "CM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741638592,
+    "joined": 1725875103,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 999,
+            "date": 1741638639,
+            "rd": 340
+        },
+        "best": {
+            "rating": 1011,
+            "date": 1733982691,
+            "game": "https://www.chess.com/game/daily/708052101"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 33780,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2276,
+            "date": 1738424718,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2276,
+            "date": 1730389338,
+            "game": "https://www.chess.com/game/live/124126200397"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2459,
+            "date": 1740942670,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2510,
+            "date": 1735307043,
+            "game": "https://www.chess.com/game/live/129045822815"
+        },
+        "record": {
+            "win": 15,
+            "loss": 15,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2486,
+            "date": 1741111754,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1726591965,
+            "game": "https://www.chess.com/game/live/123348067641"
+        },
+        "record": {
+            "win": 74,
+            "loss": 86,
+            "draw": 14
+        }
+    },
+    "fide": 2240,
+    "tactics": {
+        "highest": {
+            "rating": 2345,
+            "date": 1738766010
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1725875103
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

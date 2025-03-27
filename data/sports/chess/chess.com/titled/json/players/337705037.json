@@ -1,0 +1,49 @@
+{
+    "player_id": 337705037,
+    "@id": "https://api.chess.com/pub/player/kasparovhiddenson",
+    "url": "https://www.chess.com/member/Kasparovhiddenson",
+    "username": "kasparovhiddenson",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1737733347,
+    "joined": 1704752556,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2458,
+            "date": 1708554358,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2439,
+            "date": 1704827876,
+            "game": "https://www.chess.com/game/live/98565318033"
+        },
+        "record": {
+            "win": 22,
+            "loss": 14,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1704752556
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1704752556
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

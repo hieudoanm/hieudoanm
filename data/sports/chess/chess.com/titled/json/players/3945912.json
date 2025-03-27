@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3945912.41d3834d.200x200o.6ce3739d391f.jpeg",
+    "player_id": 3945912,
+    "@id": "https://api.chess.com/pub/player/illingworth",
+    "url": "https://www.chess.com/member/Illingworth",
+    "name": "Max Illingworth",
+    "username": "illingworth",
+    "title": "GM",
+    "followers": 6088,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Sydney",
+    "last_online": 1741702040,
+    "joined": 1283935753,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2612,
+            "date": 1728002745,
+            "rd": 213
+        },
+        "best": {
+            "rating": 2877,
+            "date": 1602324420,
+            "game": "https://www.chess.com/game/live/5627695739"
+        },
+        "record": {
+            "win": 12,
+            "loss": 5,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2901,
+            "date": 1741597026,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3064,
+            "date": 1599766633,
+            "game": "https://www.chess.com/game/live/114021612657"
+        },
+        "record": {
+            "win": 939,
+            "loss": 336,
+            "draw": 90
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2905,
+            "date": 1729071295,
+            "rd": 46
+        },
+        "best": {
+            "rating": 3023,
+            "date": 1695140244,
+            "game": "https://www.chess.com/game/live/3623866986"
+        },
+        "record": {
+            "win": 1846,
+            "loss": 782,
+            "draw": 224
+        }
+    },
+    "fide": 2690,
+    "tactics": {
+        "highest": {
+            "rating": 3637,
+            "date": 1683350551
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1536717086
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 56
+        }
+    }
+}

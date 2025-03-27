@@ -1,0 +1,80 @@
+{
+    "player_id": 42155586,
+    "@id": "https://api.chess.com/pub/player/aartikd",
+    "url": "https://www.chess.com/member/aartikd",
+    "name": "Aarti Datharam",
+    "username": "aartikd",
+    "title": "WCM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1740481546,
+    "joined": 1515516071,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1482,
+            "date": 1671273978,
+            "rd": 93
+        },
+        "best": {
+            "rating": 1534,
+            "date": 1670260541,
+            "game": "https://www.chess.com/game/live/63998542929"
+        },
+        "record": {
+            "win": 13,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 843,
+            "date": 1674384102,
+            "rd": 202
+        },
+        "record": {
+            "win": 0,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1354,
+            "date": 1673517589,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1526,
+            "date": 1516108305,
+            "game": "https://www.chess.com/game/live/4546376849"
+        },
+        "record": {
+            "win": 11,
+            "loss": 11,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1742,
+            "date": 1669969133
+        },
+        "lowest": {
+            "rating": 765,
+            "date": 1515868042
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 28
+        }
+    }
+}

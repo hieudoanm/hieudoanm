@@ -1,0 +1,85 @@
+{
+    "player_id": 163770515,
+    "@id": "https://api.chess.com/pub/player/kuzuevdanil",
+    "url": "https://www.chess.com/member/KuzuevDanil",
+    "name": "Danil Kuzuev",
+    "username": "kuzuevdanil",
+    "title": "IM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741102185,
+    "joined": 1638794927,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1607,
+            "date": 1709213628,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1639815705,
+            "game": "https://www.chess.com/game/live/78995600053"
+        },
+        "record": {
+            "win": 254,
+            "loss": 202,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2700,
+            "date": 1739562367,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2740,
+            "date": 1707928816,
+            "game": "https://www.chess.com/game/live/102283532661"
+        },
+        "record": {
+            "win": 1699,
+            "loss": 1485,
+            "draw": 217
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2620,
+            "date": 1741111732,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2703,
+            "date": 1704823970,
+            "game": "https://www.chess.com/game/live/46185037669"
+        },
+        "record": {
+            "win": 874,
+            "loss": 784,
+            "draw": 240
+        }
+    },
+    "fide": 2436,
+    "tactics": {
+        "highest": {
+            "rating": 3291,
+            "date": 1678302439
+        },
+        "lowest": {
+            "rating": 1199,
+            "date": 1660381119
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "player_id": 65018596,
+    "@id": "https://api.chess.com/pub/player/rolanddeschain",
+    "url": "https://www.chess.com/member/RolandDeschain",
+    "username": "rolanddeschain",
+    "title": "GM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1734988794,
+    "joined": 1567421950,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2906,
+            "date": 1690257043,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2912,
+            "date": 1690256813,
+            "game": "https://www.chess.com/game/live/5754667051"
+        },
+        "record": {
+            "win": 38,
+            "loss": 15,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2920,
+            "date": 1732944273,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2964,
+            "date": 1732380670,
+            "game": "https://www.chess.com/game/live/108620988789"
+        },
+        "record": {
+            "win": 760,
+            "loss": 578,
+            "draw": 147
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2641,
+            "date": 1579116203
+        },
+        "lowest": {
+            "rating": 2491,
+            "date": 1567575844
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 44
+        }
+    }
+}

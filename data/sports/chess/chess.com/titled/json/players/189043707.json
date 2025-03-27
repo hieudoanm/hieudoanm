@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/189043707.ccadc0fc.200x200o.3bb744d31d0d.jpg",
+    "player_id": 189043707,
+    "@id": "https://api.chess.com/pub/player/yurygarifulin",
+    "url": "https://www.chess.com/member/YuryGarifulin",
+    "name": "Yury Garifulin",
+    "username": "yurygarifulin",
+    "title": "CM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Sremska Mitrovica",
+    "last_online": 1741681131,
+    "joined": 1657031316,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1200,
+            "date": 1739286700,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 42056,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2219,
+            "date": 1739286700,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2194,
+            "date": 1693082750,
+            "game": "https://www.chess.com/game/live/79520482535"
+        },
+        "record": {
+            "win": 84,
+            "loss": 43,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2525,
+            "date": 1741455139,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1726938778,
+            "game": "https://www.chess.com/game/live/120637216455"
+        },
+        "record": {
+            "win": 652,
+            "loss": 473,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2474,
+            "date": 1741199620,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2530,
+            "date": 1738921961,
+            "game": "https://www.chess.com/game/live/134240340797"
+        },
+        "record": {
+            "win": 239,
+            "loss": 131,
+            "draw": 17
+        }
+    },
+    "fide": 2225,
+    "tactics": {
+        "highest": {
+            "rating": 3464,
+            "date": 1738410960
+        },
+        "lowest": {
+            "rating": 809,
+            "date": 1657629372
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

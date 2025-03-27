@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5255781.53d5e5b5.200x200o.d1a485c606d3.jpeg",
+    "player_id": 5255781,
+    "@id": "https://api.chess.com/pub/player/gmharikrishna",
+    "url": "https://www.chess.com/member/GMharikrishna",
+    "name": "Harikrishna Pentala",
+    "username": "gmharikrishna",
+    "title": "GM",
+    "followers": 1464,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Hyderabad",
+    "last_online": 1734169984,
+    "joined": 1307723937,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2642,
+            "date": 1685122932,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2869,
+            "date": 1631187003,
+            "game": "https://www.chess.com/game/live/78506684681"
+        },
+        "record": {
+            "win": 20,
+            "loss": 14,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3020,
+            "date": 1623175802,
+            "rd": 172
+        },
+        "best": {
+            "rating": 3020,
+            "date": 1605523503,
+            "game": "https://www.chess.com/game/live/1565566821"
+        },
+        "record": {
+            "win": 618,
+            "loss": 569,
+            "draw": 114
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2999,
+            "date": 1734087977,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3055,
+            "date": 1670260357,
+            "game": "https://www.chess.com/game/live/120991244067"
+        },
+        "record": {
+            "win": 619,
+            "loss": 631,
+            "draw": 226
+        }
+    },
+    "fide": 2768,
+    "tactics": {
+        "highest": {
+            "rating": 3863,
+            "date": 1691668655
+        },
+        "lowest": {
+            "rating": 1076,
+            "date": 1363646341
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

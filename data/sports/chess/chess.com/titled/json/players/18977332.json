@@ -1,0 +1,102 @@
+{
+    "player_id": 18977332,
+    "@id": "https://api.chess.com/pub/player/juancinho",
+    "url": "https://www.chess.com/member/juancinho",
+    "username": "juancinho",
+    "title": "CM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1736621724,
+    "joined": 1411220854,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1542,
+            "date": 1718369040,
+            "rd": 313
+        },
+        "best": {
+            "rating": 1542,
+            "date": 1718369040,
+            "game": "https://www.chess.com/game/daily/151861898"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 37144,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2070,
+            "date": 1689349743,
+            "rd": 196
+        },
+        "best": {
+            "rating": 2201,
+            "date": 1609910937,
+            "game": "https://www.chess.com/game/live/75258661843"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1930,
+            "date": 1652815971,
+            "rd": 177
+        },
+        "best": {
+            "rating": 1997,
+            "date": 1652815821,
+            "game": "https://www.chess.com/game/live/3929698906"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2175,
+            "date": 1741483219,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1653841590,
+            "game": "https://www.chess.com/game/live/3813054175"
+        },
+        "record": {
+            "win": 1060,
+            "loss": 978,
+            "draw": 157
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2108,
+            "date": 1717248566
+        },
+        "lowest": {
+            "rating": 1268,
+            "date": 1474310196
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 38
+        }
+    }
+}

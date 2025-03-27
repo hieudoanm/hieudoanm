@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/197029931.b0ee8c74.200x200o.7e29fb8922a8.jpg",
+    "player_id": 197029931,
+    "@id": "https://api.chess.com/pub/player/srob2003",
+    "url": "https://www.chess.com/member/SRob2003",
+    "name": "Vladyslav Sydoryka",
+    "username": "srob2003",
+    "title": "FM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741697608,
+    "joined": 1663062165,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1393,
+            "date": 1739127799,
+            "rd": 218
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 3,
+            "time_per_move": 31469,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2460,
+            "date": 1739723994,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2792,
+            "date": 1693239039,
+            "game": "https://www.chess.com/game/live/86982008257"
+        },
+        "record": {
+            "win": 9,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2759,
+            "date": 1739986373,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2816,
+            "date": 1689237842,
+            "game": "https://www.chess.com/game/live/114022180487"
+        },
+        "record": {
+            "win": 347,
+            "loss": 350,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2704,
+            "date": 1741467630,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1738846389,
+            "game": "https://www.chess.com/game/live/134239739263"
+        },
+        "record": {
+            "win": 483,
+            "loss": 306,
+            "draw": 83
+        }
+    },
+    "fide": 2322,
+    "tactics": {
+        "highest": {
+            "rating": 2274,
+            "date": 1731410853
+        },
+        "lowest": {
+            "rating": 387,
+            "date": 1663088433
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

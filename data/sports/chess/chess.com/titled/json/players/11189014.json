@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11189014.b95b2f92.200x200o.54c367de3027.png",
+    "player_id": 11189014,
+    "@id": "https://api.chess.com/pub/player/trulyhumbledundergod",
+    "url": "https://www.chess.com/member/TrulyHumbledUnderGod",
+    "name": "Alexander Heimann",
+    "username": "trulyhumbledundergod",
+    "title": "NM",
+    "followers": 69,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741360900,
+    "joined": 1363619123,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2030,
+            "date": 1732983916,
+            "rd": 343
+        },
+        "best": {
+            "rating": 2030,
+            "date": 1633233467,
+            "game": "https://www.chess.com/game/daily/106024550"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 25711,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1969,
+            "date": 1630869915,
+            "rd": 320
+        },
+        "best": {
+            "rating": 2271,
+            "date": 1484188609,
+            "game": "https://www.chess.com/game/live/1688567226"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2508,
+            "date": 1733716980,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2737,
+            "date": 1642903055,
+            "game": "https://www.chess.com/game/live/36640767657"
+        },
+        "record": {
+            "win": 4031,
+            "loss": 2686,
+            "draw": 392
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2624,
+            "date": 1741373895,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2734,
+            "date": 1735102983,
+            "game": "https://www.chess.com/game/live/132424290459"
+        },
+        "record": {
+            "win": 2776,
+            "loss": 1912,
+            "draw": 490
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2959,
+            "date": 1736029596
+        },
+        "lowest": {
+            "rating": 1397,
+            "date": 1377475875
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

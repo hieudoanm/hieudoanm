@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69935988.9865af1a.200x200o.867df5ae3bfe.jpeg",
+    "player_id": 69935988,
+    "@id": "https://api.chess.com/pub/player/secretsuperstar7",
+    "url": "https://www.chess.com/member/secretsuperstar7",
+    "name": "Trisha Kanyamarala",
+    "username": "secretsuperstar7",
+    "title": "WIM",
+    "followers": 63,
+    "country": "https://api.chess.com/pub/country/IE",
+    "last_online": 1741633537,
+    "joined": 1577467693,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1901,
+            "date": 1707151579,
+            "rd": 128
+        },
+        "best": {
+            "rating": 2415,
+            "date": 1590171692,
+            "game": "https://www.chess.com/game/live/5300434600"
+        },
+        "record": {
+            "win": 64,
+            "loss": 38,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2267,
+            "date": 1739190055,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2397,
+            "date": 1586635886,
+            "game": "https://www.chess.com/game/live/81971545663"
+        },
+        "record": {
+            "win": 541,
+            "loss": 551,
+            "draw": 46
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2492,
+            "date": 1739916985,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1730825934,
+            "game": "https://www.chess.com/game/live/73416660625"
+        },
+        "record": {
+            "win": 710,
+            "loss": 900,
+            "draw": 111
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3448,
+            "date": 1676037563
+        },
+        "lowest": {
+            "rating": 2170,
+            "date": 1624300979
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 47
+        }
+    }
+}

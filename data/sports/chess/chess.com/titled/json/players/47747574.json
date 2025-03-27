@@ -1,0 +1,103 @@
+{
+    "player_id": 47747574,
+    "@id": "https://api.chess.com/pub/player/benthat",
+    "url": "https://www.chess.com/member/benthat",
+    "username": "benthat",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1739596147,
+    "joined": 1531167685,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1381,
+            "date": 1733069060,
+            "rd": 83
+        },
+        "best": {
+            "rating": 1706,
+            "date": 1677541154,
+            "game": "https://www.chess.com/game/daily/441217751"
+        },
+        "record": {
+            "win": 133,
+            "loss": 92,
+            "draw": 3,
+            "time_per_move": 71731,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1711634811,
+            "rd": 156
+        },
+        "best": {
+            "rating": 1380,
+            "date": 1662594795,
+            "game": "https://www.chess.com/game/live/56333086505"
+        },
+        "record": {
+            "win": 6,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2300,
+            "date": 1711634811,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1412,
+            "date": 1690748640,
+            "game": "https://www.chess.com/game/live/72304960487"
+        },
+        "record": {
+            "win": 20,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2338,
+            "date": 1739596681,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1708185004,
+            "game": "https://www.chess.com/game/live/102215003517"
+        },
+        "record": {
+            "win": 777,
+            "loss": 829,
+            "draw": 199
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2383,
+            "date": 1735061724
+        },
+        "lowest": {
+            "rating": 390,
+            "date": 1533762557
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

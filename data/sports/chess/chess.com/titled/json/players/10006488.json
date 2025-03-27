@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10006488.8cf8d3b2.200x200o.c74cd3425c61.jpeg",
+    "player_id": 10006488,
+    "@id": "https://api.chess.com/pub/player/marius01",
+    "url": "https://www.chess.com/member/Marius01",
+    "name": "Richard Beale",
+    "username": "marius01",
+    "title": "NM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "California",
+    "last_online": 1741645968,
+    "joined": 1355436071,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2330,
+            "date": 1688149536,
+            "rd": 277
+        },
+        "best": {
+            "rating": 2396,
+            "date": 1407470655,
+            "game": "https://www.chess.com/game/daily/78171374"
+        },
+        "record": {
+            "win": 125,
+            "loss": 5,
+            "draw": 19,
+            "time_per_move": 23517,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2372,
+            "date": 1680156216,
+            "rd": 169
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1589511186,
+            "game": "https://www.chess.com/game/live/18907034835"
+        },
+        "record": {
+            "win": 198,
+            "loss": 92,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2273,
+            "date": 1741646809,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1733478360,
+            "game": "https://www.chess.com/game/live/130020641993"
+        },
+        "record": {
+            "win": 1160,
+            "loss": 675,
+            "draw": 81
+        }
+    },
+    "fide": 2284,
+    "tactics": {
+        "highest": {
+            "rating": 3239,
+            "date": 1739225145
+        },
+        "lowest": {
+            "rating": 1864,
+            "date": 1371021112
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

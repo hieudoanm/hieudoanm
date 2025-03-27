@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76639866.2af11f5c.200x200o.20e104aadf7f.jpg",
+    "player_id": 76639866,
+    "@id": "https://api.chess.com/pub/player/evilmorty23",
+    "url": "https://www.chess.com/member/EvilMorty23",
+    "name": "Joseph Bellissimo",
+    "username": "evilmorty23",
+    "title": "NM",
+    "followers": 161,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741664902,
+    "joined": 1586830779,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2095,
+            "date": 1709072274,
+            "rd": 143
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1611028802,
+            "game": "https://www.chess.com/game/daily/318708886"
+        },
+        "record": {
+            "win": 40,
+            "loss": 2,
+            "draw": 3,
+            "time_per_move": 17301,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2039,
+            "date": 1732605211,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2180,
+            "date": 1640308013,
+            "game": "https://www.chess.com/game/live/8727937985"
+        },
+        "record": {
+            "win": 28,
+            "loss": 11,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2618,
+            "date": 1741666842,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1736142775,
+            "game": "https://www.chess.com/game/live/112816253889"
+        },
+        "record": {
+            "win": 3750,
+            "loss": 2746,
+            "draw": 455
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2617,
+            "date": 1741055568,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1736150333,
+            "game": "https://www.chess.com/game/live/24557488711"
+        },
+        "record": {
+            "win": 3856,
+            "loss": 2288,
+            "draw": 396
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3602,
+            "date": 1735972998
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1587762583
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 50
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5663362.681e4f35.200x200o.ab3b4997a075.jpeg",
+    "player_id": 5663362,
+    "@id": "https://api.chess.com/pub/player/jjosu",
+    "url": "https://www.chess.com/member/jjosu",
+    "name": "Joshua Sheng",
+    "username": "jjosu",
+    "title": "GM",
+    "followers": 300,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "California",
+    "last_online": 1739757104,
+    "joined": 1314077782,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2019,
+            "date": 1641505711,
+            "rd": 340
+        },
+        "best": {
+            "rating": 2019,
+            "date": 1557305892,
+            "game": "https://www.chess.com/game/daily/223025706"
+        },
+        "record": {
+            "win": 2,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 42709,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2583,
+            "date": 1692830307,
+            "rd": 189
+        },
+        "best": {
+            "rating": 2905,
+            "date": 1609792982,
+            "game": "https://www.chess.com/game/live/6154280579"
+        },
+        "record": {
+            "win": 22,
+            "loss": 5,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2975,
+            "date": 1736208017,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2984,
+            "date": 1736205632,
+            "game": "https://www.chess.com/game/live/120694211623"
+        },
+        "record": {
+            "win": 2273,
+            "loss": 1220,
+            "draw": 157
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2915,
+            "date": 1730253811,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3006,
+            "date": 1722559128,
+            "game": "https://www.chess.com/game/live/44597401677"
+        },
+        "record": {
+            "win": 2508,
+            "loss": 1132,
+            "draw": 265
+        }
+    },
+    "fide": 2447,
+    "tactics": {
+        "highest": {
+            "rating": 3145,
+            "date": 1683062082
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1379174273
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

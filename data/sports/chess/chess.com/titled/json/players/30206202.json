@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30206202.11e4e7b1.200x200o.a4634dc86be9.jpeg",
+    "player_id": 30206202,
+    "@id": "https://api.chess.com/pub/player/gimagibi",
+    "url": "https://www.chess.com/member/Gimagibi",
+    "name": "Petar Krstic",
+    "username": "gimagibi",
+    "title": "FM",
+    "followers": 78,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Pirot",
+    "last_online": 1740338733,
+    "joined": 1475441505,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1958,
+            "date": 1741670477,
+            "rd": 119
+        },
+        "best": {
+            "rating": 1958,
+            "date": 1740301347,
+            "game": "https://www.chess.com/game/daily/639256191"
+        },
+        "record": {
+            "win": 23,
+            "loss": 2,
+            "draw": 5,
+            "time_per_move": 42344,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2229,
+            "date": 1722960050,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2244,
+            "date": 1638127474,
+            "game": "https://www.chess.com/game/live/31864242367"
+        },
+        "record": {
+            "win": 22,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2107,
+            "date": 1640561353,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1506367482,
+            "game": "https://www.chess.com/game/live/1801980579"
+        },
+        "record": {
+            "win": 580,
+            "loss": 449,
+            "draw": 59
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2409,
+            "date": 1707848250,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1578938167,
+            "game": "https://www.chess.com/game/live/4284772991"
+        },
+        "record": {
+            "win": 1048,
+            "loss": 723,
+            "draw": 134
+        }
+    },
+    "fide": 2316,
+    "tactics": {
+        "highest": {
+            "rating": 2372,
+            "date": 1571690300
+        },
+        "lowest": {
+            "rating": 2098,
+            "date": 1478035569
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

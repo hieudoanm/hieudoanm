@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3958405.fc332d6b.200x200o.9df6aeb625c2.jpeg",
+    "player_id": 3958405,
+    "@id": "https://api.chess.com/pub/player/astaneh",
+    "url": "https://www.chess.com/member/Astaneh",
+    "name": "Alex Astaneh Lopez",
+    "username": "astaneh",
+    "title": "IM",
+    "followers": 202,
+    "country": "https://api.chess.com/pub/country/IE",
+    "last_online": 1741667346,
+    "joined": 1284134851,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2333,
+            "date": 1608386551,
+            "rd": 207
+        },
+        "best": {
+            "rating": 2590,
+            "date": 1593280018,
+            "game": "https://www.chess.com/game/live/5065808895"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2842,
+            "date": 1708707763,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2885,
+            "date": 1702507361,
+            "game": "https://www.chess.com/game/live/102445869331"
+        },
+        "record": {
+            "win": 625,
+            "loss": 502,
+            "draw": 86
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2608,
+            "date": 1727219329,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2668,
+            "date": 1626287942,
+            "game": "https://www.chess.com/game/live/3756227472"
+        },
+        "record": {
+            "win": 212,
+            "loss": 166,
+            "draw": 31
+        }
+    },
+    "fide": 2417,
+    "tactics": {
+        "highest": {
+            "rating": 3249,
+            "date": 1726172945
+        },
+        "lowest": {
+            "rating": 1385,
+            "date": 1476536020
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        },
+        "daily": {
+            "total_attempts": 49,
+            "score": 48
+        }
+    }
+}

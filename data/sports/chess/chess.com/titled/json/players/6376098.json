@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6376098.44c9bbb0.200x200o.22f48b916fb3.jpg",
+    "player_id": 6376098,
+    "@id": "https://api.chess.com/pub/player/kuwaitigm",
+    "url": "https://www.chess.com/member/kuwaitiGM",
+    "name": "Amani Alazmi",
+    "username": "kuwaitigm",
+    "title": "WCM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/KW",
+    "last_online": 1741197683,
+    "joined": 1324798124,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2008,
+            "date": 1730245469,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2008,
+            "date": 1730245469,
+            "game": "https://www.chess.com/game/live/123983998775"
+        },
+        "record": {
+            "win": 3,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1941,
+            "date": 1740519288,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2201,
+            "date": 1729641955,
+            "game": "https://www.chess.com/game/live/123380980247"
+        },
+        "record": {
+            "win": 9,
+            "loss": 12,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2220,
+            "date": 1740528231,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2220,
+            "date": 1740528231,
+            "game": "https://www.chess.com/game/live/132445857379"
+        },
+        "record": {
+            "win": 65,
+            "loss": 114,
+            "draw": 7
+        }
+    },
+    "fide": 1648,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1324798124
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1324798124
+        }
+    },
+    "puzzle_rush": {}
+}

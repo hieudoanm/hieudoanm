@@ -1,0 +1,103 @@
+{
+    "player_id": 68935528,
+    "@id": "https://api.chess.com/pub/player/lifeisallaboutchess23",
+    "url": "https://www.chess.com/member/LifeIsAllAboutChess23",
+    "name": "Bristy Mukherjee",
+    "username": "lifeisallaboutchess23",
+    "title": "WFM",
+    "followers": 284,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741665086,
+    "joined": 1575613600,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1434,
+            "date": 1699350980,
+            "rd": 118
+        },
+        "best": {
+            "rating": 1561,
+            "date": 1595522371,
+            "game": "https://www.chess.com/game/daily/346359879"
+        },
+        "record": {
+            "win": 8,
+            "loss": 22,
+            "draw": 0,
+            "time_per_move": 54567,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2094,
+            "date": 1735640637,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2139,
+            "date": 1676312060,
+            "game": "https://www.chess.com/game/live/70043102295"
+        },
+        "record": {
+            "win": 34,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1902,
+            "date": 1697726918,
+            "rd": 137
+        },
+        "best": {
+            "rating": 1957,
+            "date": 1657043544,
+            "game": "https://www.chess.com/game/live/34516840101"
+        },
+        "record": {
+            "win": 60,
+            "loss": 35,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1723827237,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1723827237,
+            "game": "https://www.chess.com/game/live/50773721331"
+        },
+        "record": {
+            "win": 243,
+            "loss": 147,
+            "draw": 23
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3400,
+            "date": 1731237737
+        },
+        "lowest": {
+            "rating": 813,
+            "date": 1575642058
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 41
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "player_id": 64821600,
+    "@id": "https://api.chess.com/pub/player/lembke407",
+    "url": "https://www.chess.com/member/Lembke407",
+    "username": "lembke407",
+    "title": "GM",
+    "followers": 416,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741702485,
+    "joined": 1567004943,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2498,
+            "date": 1739613392,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1739613392,
+            "game": "https://www.chess.com/game/live/133275538513"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3130,
+            "date": 1730737727,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3130,
+            "date": 1728310233,
+            "game": "https://www.chess.com/game/live/107441638935"
+        },
+        "record": {
+            "win": 164,
+            "loss": 46,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3184,
+            "date": 1741701509,
+            "rd": 36
+        },
+        "best": {
+            "rating": 3251,
+            "date": 1738867413,
+            "game": "https://www.chess.com/game/live/126898219067"
+        },
+        "record": {
+            "win": 761,
+            "loss": 238,
+            "draw": 177
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2652,
+            "date": 1731060323
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1661526803
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 79,
+            "score": 76
+        }
+    }
+}

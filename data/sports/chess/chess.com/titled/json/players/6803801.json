@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6803801.29a2197f.200x200o.2a502ca617bf.jpeg",
+    "player_id": 6803801,
+    "@id": "https://api.chess.com/pub/player/teamcmc",
+    "url": "https://www.chess.com/member/TeamCMC",
+    "name": "Jorge Sammour",
+    "username": "teamcmc",
+    "title": "FM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Providence",
+    "last_online": 1617299470,
+    "joined": 1330477497,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1280,
+            "date": 1499511011,
+            "rd": 245
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1330477497,
+            "game": "https://www.chess.com/game/daily/157916043"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 129830,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2322,
+            "date": 1617298999,
+            "rd": 254
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1617298999,
+            "game": "https://www.chess.com/game/live/11037357225"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2721,
+            "date": 1617299433,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2824,
+            "date": 1617297507,
+            "game": "https://www.chess.com/game/live/2017747085"
+        },
+        "record": {
+            "win": 1578,
+            "loss": 1009,
+            "draw": 150
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2753,
+            "date": 1570065655,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2831,
+            "date": 1509221074,
+            "game": "https://www.chess.com/game/live/3696306832"
+        },
+        "record": {
+            "win": 57,
+            "loss": 27,
+            "draw": 14
+        }
+    },
+    "fide": 2611,
+    "tactics": {
+        "highest": {
+            "rating": 1515,
+            "date": 1597604293
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1597604087
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

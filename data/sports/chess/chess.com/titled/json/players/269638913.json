@@ -1,0 +1,46 @@
+{
+    "player_id": 269638913,
+    "@id": "https://api.chess.com/pub/player/zsizsi99",
+    "url": "https://www.chess.com/member/zsizsi99",
+    "name": "Sebastian  Zsombor Peczely",
+    "username": "zsizsi99",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1740520619,
+    "joined": 1680343324,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2559,
+            "date": 1740524689,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2592,
+            "date": 1717515667,
+            "game": "https://www.chess.com/game/live/122160005881"
+        },
+        "record": {
+            "win": 93,
+            "loss": 118,
+            "draw": 12
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1680343324
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680343324
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33542613.ac57fd9b.200x200o.bbae0f8e5dcc.jpeg",
+    "player_id": 33542613,
+    "@id": "https://api.chess.com/pub/player/matiss90",
+    "url": "https://www.chess.com/member/matiss90",
+    "name": "Matiss Mustaps",
+    "username": "matiss90",
+    "title": "FM",
+    "followers": 157,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "RIGA",
+    "last_online": 1741680326,
+    "joined": 1488189533,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2081,
+            "date": 1726680849,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2155,
+            "date": 1674590279,
+            "game": "https://www.chess.com/game/live/24495735477"
+        },
+        "record": {
+            "win": 54,
+            "loss": 23,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2672,
+            "date": 1741177407,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2652,
+            "date": 1611618033,
+            "game": "https://www.chess.com/game/live/2958010065"
+        },
+        "record": {
+            "win": 2098,
+            "loss": 2332,
+            "draw": 339
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2577,
+            "date": 1727112779,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1574951398,
+            "game": "https://www.chess.com/game/live/4003086215"
+        },
+        "record": {
+            "win": 344,
+            "loss": 260,
+            "draw": 65
+        }
+    },
+    "fide": 2360,
+    "tactics": {
+        "highest": {
+            "rating": 3112,
+            "date": 1611622918
+        },
+        "lowest": {
+            "rating": 1045,
+            "date": 1488189760
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

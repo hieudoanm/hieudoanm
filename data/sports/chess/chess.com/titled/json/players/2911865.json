@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2911865.86a9a3a4.200x200o.d5064c9014cb.png",
+    "player_id": 2911865,
+    "@id": "https://api.chess.com/pub/player/destroyer305",
+    "url": "https://www.chess.com/member/destroyer305",
+    "name": "Juan Camilo Arango Arenas",
+    "username": "destroyer305",
+    "title": "FM",
+    "followers": 144,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1741693575,
+    "joined": 1276477311,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1394,
+            "date": 1725375172,
+            "rd": 267
+        },
+        "best": {
+            "rating": 1920,
+            "date": 1262616771,
+            "game": "https://www.chess.com/game/daily/37014444"
+        },
+        "record": {
+            "win": 47,
+            "loss": 34,
+            "draw": 2,
+            "time_per_move": 24985,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2075,
+            "date": 1604933216,
+            "rd": 252
+        },
+        "best": {
+            "rating": 2075,
+            "date": 1604933216,
+            "game": "https://www.chess.com/game/live/5713358272"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2571,
+            "date": 1741622744,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2613,
+            "date": 1730075966,
+            "game": "https://www.chess.com/game/live/132355845501"
+        },
+        "record": {
+            "win": 2211,
+            "loss": 1900,
+            "draw": 191
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2453,
+            "date": 1740700545,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2546,
+            "date": 1637891859,
+            "game": "https://www.chess.com/game/live/119115067507"
+        },
+        "record": {
+            "win": 4288,
+            "loss": 3565,
+            "draw": 458
+        }
+    },
+    "fide": 2234,
+    "tactics": {
+        "highest": {
+            "rating": 2769,
+            "date": 1539018060
+        },
+        "lowest": {
+            "rating": 1339,
+            "date": 1276545671
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

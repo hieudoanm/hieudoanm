@@ -1,0 +1,68 @@
+{
+    "player_id": 150217521,
+    "@id": "https://api.chess.com/pub/player/dr_tatiana",
+    "url": "https://www.chess.com/member/dr_tatiana",
+    "name": "Anna Styazhkina",
+    "username": "dr_tatiana",
+    "title": "WIM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1729154884,
+    "joined": 1628207153,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2305,
+            "date": 1716420281,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2308,
+            "date": 1716419879,
+            "game": "https://www.chess.com/game/live/86395761175"
+        },
+        "record": {
+            "win": 34,
+            "loss": 27,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2422,
+            "date": 1692140779,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1692113811,
+            "game": "https://www.chess.com/game/live/85851092277"
+        },
+        "record": {
+            "win": 21,
+            "loss": 23,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3109,
+            "date": 1729154943
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1628207153
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/118685846.b9ddd8a9.200x200o.32375918d511.jpg",
+    "player_id": 118685846,
+    "@id": "https://api.chess.com/pub/player/leebit02",
+    "url": "https://www.chess.com/member/Leebit02",
+    "name": "Liya Kurmangaliyeva",
+    "username": "leebit02",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741702818,
+    "joined": 1612541668,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2508,
+            "date": 1669634659,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2508,
+            "date": 1669634659,
+            "game": "https://www.chess.com/game/live/22833009073"
+        },
+        "record": {
+            "win": 87,
+            "loss": 51,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2590,
+            "date": 1736270301,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2679,
+            "date": 1727191745,
+            "game": "https://www.chess.com/game/live/102788517183"
+        },
+        "record": {
+            "win": 465,
+            "loss": 404,
+            "draw": 68
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3422,
+            "date": 1685168186
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1612541668
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

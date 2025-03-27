@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17899194.40943efb.200x200o.a3871bf5edc9.jpeg",
+    "player_id": 17899194,
+    "@id": "https://api.chess.com/pub/player/gmvladimir_petkov",
+    "url": "https://www.chess.com/member/GMVladimir_Petkov",
+    "name": "Vladimir Petkov",
+    "username": "gmvladimir_petkov",
+    "title": "GM",
+    "followers": 108,
+    "country": "https://api.chess.com/pub/country/BG",
+    "location": "Plovdiv",
+    "last_online": 1734023967,
+    "joined": 1404208230,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2491,
+            "date": 1714226627,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1462774775,
+            "game": "https://www.chess.com/game/live/78055853463"
+        },
+        "record": {
+            "win": 11192,
+            "loss": 9184,
+            "draw": 779
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2547,
+            "date": 1734183375,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1651834604,
+            "game": "https://www.chess.com/game/live/116674170317"
+        },
+        "record": {
+            "win": 6538,
+            "loss": 5254,
+            "draw": 1037
+        }
+    },
+    "fide": 2574,
+    "tactics": {
+        "highest": {
+            "rating": 3457,
+            "date": 1711746995
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1404213423
+        }
+    },
+    "puzzle_rush": {}
+}

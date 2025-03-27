@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2179778.54c82a77.200x200o.8921129ae42d.jpeg",
+    "player_id": 2179778,
+    "@id": "https://api.chess.com/pub/player/kevin_goh",
+    "url": "https://www.chess.com/member/Kevin_Goh",
+    "name": "Wei Ming Kevin Goh",
+    "username": "kevin_goh",
+    "title": "GM",
+    "followers": 1375,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741699881,
+    "joined": 1253618961,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1313,
+            "date": 1661156891,
+            "rd": 183
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1253618961,
+            "game": "https://www.chess.com/game/daily/328135794"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 45353,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2133,
+            "date": 1657371667,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2475,
+            "date": 1602324752,
+            "game": "https://www.chess.com/game/live/5268000321"
+        },
+        "record": {
+            "win": 30,
+            "loss": 23,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2486,
+            "date": 1636001560,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2593,
+            "date": 1624886181,
+            "game": "https://www.chess.com/game/live/24253692013"
+        },
+        "record": {
+            "win": 76,
+            "loss": 58,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2702,
+            "date": 1741410549,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2834,
+            "date": 1695628049,
+            "game": "https://www.chess.com/game/live/44703625777"
+        },
+        "record": {
+            "win": 2012,
+            "loss": 1712,
+            "draw": 311
+        }
+    },
+    "fide": 2501,
+    "tactics": {
+        "highest": {
+            "rating": 3681,
+            "date": 1716569276
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1406016740
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

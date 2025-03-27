@@ -1,0 +1,63 @@
+{
+    "player_id": 414127835,
+    "@id": "https://api.chess.com/pub/player/kindnessonboardfoundation",
+    "url": "https://www.chess.com/member/KindnessOnBoardFoundation",
+    "name": "Jonathan Chen",
+    "username": "kindnessonboardfoundation",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740604167,
+    "joined": 1735679626,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2410,
+            "date": 1736236440,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2438,
+            "date": 1736235913,
+            "game": "https://www.chess.com/game/live/129759616273"
+        },
+        "record": {
+            "win": 51,
+            "loss": 12,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2562,
+            "date": 1736202172,
+            "rd": 248
+        },
+        "best": {
+            "rating": 2562,
+            "date": 1736202172,
+            "game": "https://www.chess.com/game/live/129940772203"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1735679626
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1735679626
+        }
+    },
+    "puzzle_rush": {}
+}

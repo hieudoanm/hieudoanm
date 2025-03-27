@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20465092.6472f910.200x200o.d3414053803e.jpeg",
+    "player_id": 20465092,
+    "@id": "https://api.chess.com/pub/player/nemonescio",
+    "url": "https://www.chess.com/member/NemoNescio",
+    "name": "Tom Bus",
+    "username": "nemonescio",
+    "title": "CM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "Dieren",
+    "last_online": 1741604819,
+    "joined": 1420303780,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1336,
+            "date": 1717598167,
+            "rd": 252
+        },
+        "best": {
+            "rating": 1434,
+            "date": 1420743871,
+            "game": "https://www.chess.com/game/daily/102852944"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 26692,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2185,
+            "date": 1741102425,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2245,
+            "date": 1708641986,
+            "game": "https://www.chess.com/game/live/102380630583"
+        },
+        "record": {
+            "win": 54,
+            "loss": 24,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2123,
+            "date": 1731449649,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1525823149,
+            "game": "https://www.chess.com/game/live/1771854155"
+        },
+        "record": {
+            "win": 1022,
+            "loss": 707,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2260,
+            "date": 1741422573,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2330,
+            "date": 1578508261,
+            "game": "https://www.chess.com/game/live/125193525891"
+        },
+        "record": {
+            "win": 8833,
+            "loss": 7448,
+            "draw": 899
+        }
+    },
+    "fide": 2082,
+    "tactics": {
+        "highest": {
+            "rating": 3236,
+            "date": 1734891514
+        },
+        "lowest": {
+            "rating": 1227,
+            "date": 1420312281
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 31
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7583156.86b2355b.200x200o.3d9a081df9bd.jpeg",
+    "player_id": 7583156,
+    "@id": "https://api.chess.com/pub/player/diegomrchess",
+    "url": "https://www.chess.com/member/Diegomrchess",
+    "name": "Diego Mauricio Ramirez Buitrago",
+    "username": "diegomrchess",
+    "title": "CM",
+    "followers": 120,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Bogota",
+    "last_online": 1741563756,
+    "joined": 1337048239,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1795,
+            "date": 1740746302,
+            "rd": 104
+        },
+        "best": {
+            "rating": 1906,
+            "date": 1693464811,
+            "game": "https://www.chess.com/game/daily/604256253"
+        },
+        "record": {
+            "win": 31,
+            "loss": 10,
+            "draw": 2,
+            "time_per_move": 4835,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1043,
+            "date": 1740746302,
+            "rd": 265
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1337048239,
+            "game": "https://www.chess.com/game/daily/510507267"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 4835,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1927,
+            "date": 1709854481,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1604501390,
+            "game": "https://www.chess.com/game/live/5532490550"
+        },
+        "record": {
+            "win": 181,
+            "loss": 103,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1469,
+            "date": 1741655958,
+            "rd": 79
+        },
+        "best": {
+            "rating": 1676,
+            "date": 1667576467,
+            "game": "https://www.chess.com/game/live/58981744781"
+        },
+        "record": {
+            "win": 407,
+            "loss": 413,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1768,
+            "date": 1741664655,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2020,
+            "date": 1705346715,
+            "game": "https://www.chess.com/game/live/107487176513"
+        },
+        "record": {
+            "win": 3424,
+            "loss": 3317,
+            "draw": 291
+        }
+    },
+    "fide": 1995,
+    "tactics": {
+        "highest": {
+            "rating": 2810,
+            "date": 1734619633
+        },
+        "lowest": {
+            "rating": 1382,
+            "date": 1362706137
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

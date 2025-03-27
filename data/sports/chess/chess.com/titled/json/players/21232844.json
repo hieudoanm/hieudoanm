@@ -1,0 +1,88 @@
+{
+    "player_id": 21232844,
+    "@id": "https://api.chess.com/pub/player/msb2",
+    "url": "https://www.chess.com/member/Msb2",
+    "name": "Matthias Bluebaum",
+    "username": "msb2",
+    "title": "GM",
+    "followers": 960,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741703894,
+    "joined": 1424713872,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2641,
+            "date": 1739819472,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2692,
+            "date": 1590859547,
+            "game": "https://www.chess.com/game/live/43863884899"
+        },
+        "record": {
+            "win": 306,
+            "loss": 82,
+            "draw": 113
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3043,
+            "date": 1740597729,
+            "rd": 27
+        },
+        "best": {
+            "rating": 3176,
+            "date": 1717082900,
+            "game": "https://www.chess.com/game/live/86204432901"
+        },
+        "record": {
+            "win": 11083,
+            "loss": 4028,
+            "draw": 1071
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3052,
+            "date": 1741610633,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3146,
+            "date": 1723892454,
+            "game": "https://www.chess.com/game/live/98055091537"
+        },
+        "record": {
+            "win": 9037,
+            "loss": 4468,
+            "draw": 1703
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3803,
+            "date": 1740693489
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1424714020
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 94,
+            "score": 93
+        },
+        "daily": {
+            "total_attempts": 56,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 89492014,
+    "@id": "https://api.chess.com/pub/player/horripile",
+    "url": "https://www.chess.com/member/horripile",
+    "username": "horripile",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1706649128,
+    "joined": 1597967265,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2551,
+            "date": 1704309668,
+            "rd": 199
+        },
+        "best": {
+            "rating": 2605,
+            "date": 1632598832,
+            "game": "https://www.chess.com/game/live/11215462515"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2453,
+            "date": 1671217869,
+            "rd": 128
+        },
+        "best": {
+            "rating": 2679,
+            "date": 1635170592,
+            "game": "https://www.chess.com/game/live/13630386053"
+        },
+        "record": {
+            "win": 16,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2591,
+            "date": 1706652811,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2728,
+            "date": 1612295950,
+            "game": "https://www.chess.com/game/live/6091328516"
+        },
+        "record": {
+            "win": 300,
+            "loss": 193,
+            "draw": 40
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3100,
+            "date": 1705608556
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1598095843
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

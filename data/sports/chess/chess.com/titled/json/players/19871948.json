@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19871948.a47639bf.200x200o.f6375425daaa.jpg",
+    "player_id": 19871948,
+    "@id": "https://api.chess.com/pub/player/samuraisofchess",
+    "url": "https://www.chess.com/member/SamuraisOfChess",
+    "name": "Kan Nakahara",
+    "username": "samuraisofchess",
+    "title": "CM",
+    "followers": 784,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1741688885,
+    "joined": 1416809486,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1914,
+            "date": 1741400891,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2113,
+            "date": 1617415803,
+            "game": "https://www.chess.com/game/daily/263989336"
+        },
+        "record": {
+            "win": 808,
+            "loss": 534,
+            "draw": 180,
+            "time_per_move": 87630,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1721,
+            "date": 1566034180,
+            "rd": 114
+        },
+        "best": {
+            "rating": 1721,
+            "date": 1566034180,
+            "game": "https://www.chess.com/game/daily/221401170"
+        },
+        "record": {
+            "win": 31,
+            "loss": 12,
+            "draw": 1,
+            "time_per_move": 87630,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2345,
+            "date": 1732241392,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2407,
+            "date": 1613144876,
+            "game": "https://www.chess.com/game/live/6310643358"
+        },
+        "record": {
+            "win": 447,
+            "loss": 403,
+            "draw": 71
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2674,
+            "date": 1741689389,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2758,
+            "date": 1736846093,
+            "game": "https://www.chess.com/game/live/132779334373"
+        },
+        "record": {
+            "win": 3377,
+            "loss": 2325,
+            "draw": 335
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2602,
+            "date": 1741347239,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2724,
+            "date": 1726416112,
+            "game": "https://www.chess.com/game/live/131307052275"
+        },
+        "record": {
+            "win": 2456,
+            "loss": 2054,
+            "draw": 369
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3508,
+            "date": 1717716232
+        },
+        "lowest": {
+            "rating": 890,
+            "date": 1417317007
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

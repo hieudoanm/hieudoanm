@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/320394247.e9dc575d.200x200o.d4d5ce569f93.png",
+    "player_id": 320394247,
+    "@id": "https://api.chess.com/pub/player/idiioteque",
+    "url": "https://www.chess.com/member/Idiioteque",
+    "name": "B\u00e1nk Szalay-\u0150cs\u00e1k",
+    "username": "idiioteque",
+    "title": "FM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Budapest",
+    "last_online": 1741701496,
+    "joined": 1697652471,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1448,
+            "date": 1722264764,
+            "rd": 251
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 101222,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2211,
+            "date": 1715027036,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2211,
+            "date": 1699641309,
+            "game": "https://www.chess.com/game/live/108765098235"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2350,
+            "date": 1741688890,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2465,
+            "date": 1729174541,
+            "game": "https://www.chess.com/game/live/122913877147"
+        },
+        "record": {
+            "win": 109,
+            "loss": 90,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2488,
+            "date": 1741703564,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1739639842,
+            "game": "https://www.chess.com/game/live/132634793699"
+        },
+        "record": {
+            "win": 898,
+            "loss": 842,
+            "draw": 190
+        }
+    },
+    "fide": 2279,
+    "tactics": {
+        "highest": {
+            "rating": 3562,
+            "date": 1727632642
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1697652471
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

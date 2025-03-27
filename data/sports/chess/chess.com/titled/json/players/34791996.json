@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34791996.f835960c.200x200o.e8afb95a11d9.png",
+    "player_id": 34791996,
+    "@id": "https://api.chess.com/pub/player/ananya_245",
+    "url": "https://www.chess.com/member/Ananya_245",
+    "username": "ananya_245",
+    "title": "WCM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741461020,
+    "joined": 1492253171,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1511,
+            "date": 1667594778,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1552,
+            "date": 1558953604,
+            "game": "https://www.chess.com/game/daily/223628572"
+        },
+        "record": {
+            "win": 21,
+            "loss": 8,
+            "draw": 3,
+            "time_per_move": 33056,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1720,
+            "date": 1728173027,
+            "rd": 151
+        },
+        "best": {
+            "rating": 1817,
+            "date": 1655571250,
+            "game": "https://www.chess.com/game/live/38051391335"
+        },
+        "record": {
+            "win": 151,
+            "loss": 131,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1795,
+            "date": 1734367781,
+            "rd": 137
+        },
+        "best": {
+            "rating": 1975,
+            "date": 1668752543,
+            "game": "https://www.chess.com/game/live/62491203805"
+        },
+        "record": {
+            "win": 141,
+            "loss": 115,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1413,
+            "date": 1741464603,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2012,
+            "date": 1668562135,
+            "game": "https://www.chess.com/game/live/62403535885"
+        },
+        "record": {
+            "win": 1000,
+            "loss": 938,
+            "draw": 80
+        }
+    },
+    "fide": 2027,
+    "tactics": {
+        "highest": {
+            "rating": 2754,
+            "date": 1633851321
+        },
+        "lowest": {
+            "rating": 1001,
+            "date": 1494340970
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

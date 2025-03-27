@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26387242.52faa4ac.200x200o.b92314d57d79.jpeg",
+    "player_id": 26387242,
+    "@id": "https://api.chess.com/pub/player/coachhakia",
+    "url": "https://www.chess.com/member/CoachHakia",
+    "name": "Cornelis Klaver",
+    "username": "coachhakia",
+    "title": "NM",
+    "followers": 572,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "location": "Johannesburg",
+    "last_online": 1741690510,
+    "joined": 1453992185,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1701,
+            "date": 1686731306,
+            "rd": 125
+        },
+        "best": {
+            "rating": 1721,
+            "date": 1638973155,
+            "game": "https://www.chess.com/game/daily/289572854"
+        },
+        "record": {
+            "win": 65,
+            "loss": 1,
+            "draw": 5,
+            "time_per_move": 13840,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2235,
+            "date": 1668360500,
+            "rd": 125
+        },
+        "best": {
+            "rating": 2235,
+            "date": 1668360500,
+            "game": "https://www.chess.com/game/live/55356616377"
+        },
+        "record": {
+            "win": 40,
+            "loss": 21,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1999,
+            "date": 1741195335,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1606365475,
+            "game": "https://www.chess.com/game/live/5767810976"
+        },
+        "record": {
+            "win": 612,
+            "loss": 569,
+            "draw": 63
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2053,
+            "date": 1737465089,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2264,
+            "date": 1706784802,
+            "game": "https://www.chess.com/game/live/7846465123"
+        },
+        "record": {
+            "win": 192,
+            "loss": 162,
+            "draw": 34
+        }
+    },
+    "fide": 2072,
+    "tactics": {
+        "highest": {
+            "rating": 3123,
+            "date": 1739379607
+        },
+        "lowest": {
+            "rating": 1313,
+            "date": 1453992410
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        },
+        "daily": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

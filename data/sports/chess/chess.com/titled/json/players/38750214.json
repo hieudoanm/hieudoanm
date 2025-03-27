@@ -1,0 +1,128 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38750214.18b2b7d3.200x200o.2b2ed7339365.jpg",
+    "player_id": 38750214,
+    "@id": "https://api.chess.com/pub/player/remi04",
+    "url": "https://www.chess.com/member/remi04",
+    "name": "Tsvetan Stoyanov",
+    "username": "remi04",
+    "title": "IM",
+    "followers": 1132,
+    "country": "https://api.chess.com/pub/country/BG",
+    "location": "Kazanlak",
+    "last_online": 1741634583,
+    "joined": 1505758914,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2189,
+            "date": 1741654550,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2259,
+            "date": 1591969202,
+            "game": "https://www.chess.com/game/daily/186736047"
+        },
+        "record": {
+            "win": 958,
+            "loss": 325,
+            "draw": 111,
+            "time_per_move": 86559,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1750,
+            "date": 1722611006,
+            "rd": 118
+        },
+        "best": {
+            "rating": 1972,
+            "date": 1591646362,
+            "game": "https://www.chess.com/game/daily/238435840"
+        },
+        "record": {
+            "win": 70,
+            "loss": 38,
+            "draw": 7,
+            "time_per_move": 86559,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2508,
+            "date": 1693478618,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2592,
+            "date": 1650575171,
+            "game": "https://www.chess.com/game/live/5305137264"
+        },
+        "record": {
+            "win": 79,
+            "loss": 15,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2900,
+            "date": 1741483654,
+            "rd": 22
+        },
+        "best": {
+            "rating": 3037,
+            "date": 1725042226,
+            "game": "https://www.chess.com/game/live/117027016659"
+        },
+        "record": {
+            "win": 8638,
+            "loss": 3909,
+            "draw": 836
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2901,
+            "date": 1741441002,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2981,
+            "date": 1734035303,
+            "game": "https://www.chess.com/game/live/127685971335"
+        },
+        "record": {
+            "win": 5012,
+            "loss": 3243,
+            "draw": 821
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 5300,
+            "date": 1511126400
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1505763562
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        },
+        "daily": {
+            "total_attempts": 53,
+            "score": 51
+        }
+    }
+}

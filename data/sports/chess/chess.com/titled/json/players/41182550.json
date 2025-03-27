@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41182550.0e0c885d.200x200o.698d5c415a62.jpeg",
+    "player_id": 41182550,
+    "@id": "https://api.chess.com/pub/player/l_lorenzo",
+    "url": "https://www.chess.com/member/L_lorenzo",
+    "name": "Luis Lorenzo",
+    "username": "l_lorenzo",
+    "title": "FM",
+    "followers": 207,
+    "country": "https://api.chess.com/pub/country/DO",
+    "location": "San cristobal",
+    "last_online": 1740433489,
+    "joined": 1512872550,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1727,
+            "date": 1741336730,
+            "rd": 57
+        },
+        "best": {
+            "rating": 1881,
+            "date": 1668259180,
+            "game": "https://www.chess.com/game/daily/405247581"
+        },
+        "record": {
+            "win": 129,
+            "loss": 19,
+            "draw": 10,
+            "time_per_move": 14730,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2058,
+            "date": 1670393140,
+            "rd": 164
+        },
+        "best": {
+            "rating": 2284,
+            "date": 1607554897,
+            "game": "https://www.chess.com/game/live/5928249312"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1910,
+            "date": 1627848016,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2294,
+            "date": 1606089468,
+            "game": "https://www.chess.com/game/live/3040796784"
+        },
+        "record": {
+            "win": 96,
+            "loss": 178,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2078,
+            "date": 1741697676,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2283,
+            "date": 1623018762,
+            "game": "https://www.chess.com/game/live/4879324569"
+        },
+        "record": {
+            "win": 11283,
+            "loss": 10179,
+            "draw": 747
+        }
+    },
+    "fide": 2132,
+    "tactics": {
+        "highest": {
+            "rating": 3026,
+            "date": 1706551325
+        },
+        "lowest": {
+            "rating": 807,
+            "date": 1513455391
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 14,
+            "score": 13
+        }
+    }
+}

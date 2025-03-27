@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16542062.7fbf3d22.200x200o.1e46e88c5ff2.png",
+    "player_id": 16542062,
+    "@id": "https://api.chess.com/pub/player/arvika",
+    "url": "https://www.chess.com/member/Arvika",
+    "name": "Emanuel Berg",
+    "username": "arvika",
+    "title": "GM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/SE",
+    "location": "Arvika",
+    "last_online": 1719729720,
+    "joined": 1395334629,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2483,
+            "date": 1702931318,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2613,
+            "date": 1653932227,
+            "game": "https://www.chess.com/game/live/96659214723"
+        },
+        "record": {
+            "win": 37,
+            "loss": 17,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2517,
+            "date": 1711400612,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2627,
+            "date": 1636758709,
+            "game": "https://www.chess.com/game/live/30497390827"
+        },
+        "record": {
+            "win": 126,
+            "loss": 73,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2786,
+            "date": 1707159361,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2801,
+            "date": 1702418601,
+            "game": "https://www.chess.com/game/live/25550995539"
+        },
+        "record": {
+            "win": 164,
+            "loss": 98,
+            "draw": 24
+        }
+    },
+    "fide": 2506,
+    "tactics": {
+        "highest": {
+            "rating": 3757,
+            "date": 1687384630
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1578267294
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

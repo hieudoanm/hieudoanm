@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38333888.d2c94cea.200x200o.d5784daff0ea.png",
+    "player_id": 38333888,
+    "@id": "https://api.chess.com/pub/player/flawless_fighter",
+    "url": "https://www.chess.com/member/Flawless_Fighter",
+    "name": "Polina Shuvalova",
+    "username": "flawless_fighter",
+    "title": "IM",
+    "followers": 692,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741698290,
+    "joined": 1504413829,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2342,
+            "date": 1706294028,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1645901466,
+            "game": "https://www.chess.com/game/live/44477971315"
+        },
+        "record": {
+            "win": 41,
+            "loss": 70,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2654,
+            "date": 1740246896,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2821,
+            "date": 1697189238,
+            "game": "https://www.chess.com/game/live/107274679111"
+        },
+        "record": {
+            "win": 2101,
+            "loss": 2111,
+            "draw": 338
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2775,
+            "date": 1740507377,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2903,
+            "date": 1710689367,
+            "game": "https://www.chess.com/game/live/112895430451"
+        },
+        "record": {
+            "win": 4154,
+            "loss": 3608,
+            "draw": 985
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3293,
+            "date": 1717569105
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1513496685
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

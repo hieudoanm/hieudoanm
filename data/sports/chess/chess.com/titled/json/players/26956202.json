@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26956202.20470237.200x200o.715f0642d449.jpg",
+    "player_id": 26956202,
+    "@id": "https://api.chess.com/pub/player/juniorz98",
+    "url": "https://www.chess.com/member/JuniorZ98",
+    "name": "Gast\u00f3n Zaidman",
+    "username": "juniorz98",
+    "title": "NM",
+    "followers": 91,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Santiago del Estero",
+    "last_online": 1741107037,
+    "joined": 1456555932,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2133,
+            "date": 1679777026,
+            "rd": 140
+        },
+        "best": {
+            "rating": 2160,
+            "date": 1632687532,
+            "game": "https://www.chess.com/game/live/73514664463"
+        },
+        "record": {
+            "win": 14,
+            "loss": 4,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2502,
+            "date": 1736832229,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1696713109,
+            "game": "https://www.chess.com/game/live/5575689360"
+        },
+        "record": {
+            "win": 864,
+            "loss": 241,
+            "draw": 92
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2526,
+            "date": 1736831209,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1715298915,
+            "game": "https://www.chess.com/game/live/8282156127"
+        },
+        "record": {
+            "win": 1038,
+            "loss": 581,
+            "draw": 154
+        }
+    },
+    "fide": 2025,
+    "tactics": {
+        "highest": {
+            "rating": 2592,
+            "date": 1716786774
+        },
+        "lowest": {
+            "rating": 1402,
+            "date": 1477547593
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

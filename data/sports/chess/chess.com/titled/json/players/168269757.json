@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/168269757.8c49d27b.200x200o.14b19cf37b28.jpeg",
+    "player_id": 168269757,
+    "@id": "https://api.chess.com/pub/player/dadice10",
+    "url": "https://www.chess.com/member/dadice10",
+    "name": "Thomas Thiel",
+    "username": "dadice10",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Dortmund",
+    "last_online": 1738144481,
+    "joined": 1641768417,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2485,
+            "date": 1698331791,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1697752601,
+            "game": "https://www.chess.com/game/live/58190426489"
+        },
+        "record": {
+            "win": 804,
+            "loss": 758,
+            "draw": 233
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2209,
+            "date": 1716332814,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1664900481,
+            "game": "https://www.chess.com/game/live/58053074961"
+        },
+        "record": {
+            "win": 1220,
+            "loss": 1510,
+            "draw": 324
+        }
+    },
+    "fide": 2247,
+    "tactics": {
+        "highest": {
+            "rating": 3134,
+            "date": 1667303536
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1656176799
+        }
+    },
+    "puzzle_rush": {}
+}

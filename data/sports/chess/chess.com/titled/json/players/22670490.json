@@ -1,0 +1,49 @@
+{
+    "player_id": 22670490,
+    "@id": "https://api.chess.com/pub/player/timeschange",
+    "url": "https://www.chess.com/member/TimesChange",
+    "username": "timeschange",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1741119385,
+    "joined": 1433365344,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2277,
+            "date": 1741120596,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2263,
+            "date": 1703975163,
+            "game": "https://www.chess.com/game/live/64620111227"
+        },
+        "record": {
+            "win": 449,
+            "loss": 434,
+            "draw": 71
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3796,
+            "date": 1722069601
+        },
+        "lowest": {
+            "rating": 1324,
+            "date": 1433365438
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 29
+        }
+    }
+}

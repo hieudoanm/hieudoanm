@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/61835062.9e0437ed.200x200o.741a5729034a.png",
+    "player_id": 61835062,
+    "@id": "https://api.chess.com/pub/player/migcha",
+    "url": "https://www.chess.com/member/Migcha",
+    "name": "Miguel Orlando Chaviano Espina",
+    "username": "migcha",
+    "title": "FM",
+    "followers": 130,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Villa Clara",
+    "last_online": 1738785798,
+    "joined": 1559495487,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2358,
+            "date": 1704087642,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2358,
+            "date": 1704087642,
+            "game": "https://www.chess.com/game/live/80945032947"
+        },
+        "record": {
+            "win": 89,
+            "loss": 60,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1958,
+            "date": 1732592702,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1687863627,
+            "game": "https://www.chess.com/game/live/57101291239"
+        },
+        "record": {
+            "win": 1923,
+            "loss": 1767,
+            "draw": 275
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2205,
+            "date": 1736675884,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1699007986,
+            "game": "https://www.chess.com/game/live/105572936917"
+        },
+        "record": {
+            "win": 9908,
+            "loss": 9095,
+            "draw": 1936
+        }
+    },
+    "fide": 2179,
+    "tactics": {
+        "highest": {
+            "rating": 2813,
+            "date": 1697734473
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1562463222
+        }
+    },
+    "puzzle_rush": {}
+}

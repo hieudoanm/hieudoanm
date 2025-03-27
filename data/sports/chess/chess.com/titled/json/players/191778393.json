@@ -1,0 +1,119 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/191778393.e1ba3b98.200x200o.a00647ca2bc9.jpeg",
+    "player_id": 191778393,
+    "@id": "https://api.chess.com/pub/player/younix2022",
+    "url": "https://www.chess.com/member/younix2022",
+    "name": "Youness Fareh",
+    "username": "younix2022",
+    "title": "CM",
+    "followers": 68,
+    "country": "https://api.chess.com/pub/country/MA",
+    "location": "Montr\u00e9al",
+    "last_online": 1741394513,
+    "joined": 1659264130,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1881,
+            "date": 1726766061,
+            "rd": 35
+        },
+        "best": {
+            "rating": 1975,
+            "date": 1665326404,
+            "game": "https://www.chess.com/game/daily/544087907"
+        },
+        "record": {
+            "win": 85,
+            "loss": 61,
+            "draw": 13,
+            "time_per_move": 9246,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 996,
+            "date": 1714166976,
+            "rd": 134
+        },
+        "best": {
+            "rating": 1004,
+            "date": 1703552198,
+            "game": "https://www.chess.com/game/daily/604337491"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 9246,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2180,
+            "date": 1737592376,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2180,
+            "date": 1737592376,
+            "game": "https://www.chess.com/game/live/124984727427"
+        },
+        "record": {
+            "win": 266,
+            "loss": 113,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1679,
+            "date": 1741521318,
+            "rd": 31
+        },
+        "best": {
+            "rating": 1998,
+            "date": 1719771564,
+            "game": "https://www.chess.com/game/live/62604052667"
+        },
+        "record": {
+            "win": 2181,
+            "loss": 2233,
+            "draw": 150
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2104,
+            "date": 1730667940,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2205,
+            "date": 1725398945,
+            "game": "https://www.chess.com/game/live/61009741327"
+        },
+        "record": {
+            "win": 555,
+            "loss": 532,
+            "draw": 59
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3208,
+            "date": 1694526759
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1664425202
+        }
+    },
+    "puzzle_rush": {}
+}

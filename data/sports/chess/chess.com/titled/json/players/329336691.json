@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/329336691.d7f0670e.200x200o.8d572fd44d0a.jpg",
+    "player_id": 329336691,
+    "@id": "https://api.chess.com/pub/player/chesspupil777",
+    "url": "https://www.chess.com/member/chesspupil777",
+    "username": "chesspupil777",
+    "title": "CM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1741675058,
+    "joined": 1701282390,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1778,
+            "date": 1741603980,
+            "rd": 238
+        },
+        "best": {
+            "rating": 1778,
+            "date": 1726284878,
+            "game": "https://www.chess.com/game/daily/701373145"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 27622,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1735292375,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1733989323,
+            "game": "https://www.chess.com/game/live/129030813917"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2526,
+            "date": 1741552722,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1732570013,
+            "game": "https://www.chess.com/game/live/126055161809"
+        },
+        "record": {
+            "win": 22,
+            "loss": 21,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2509,
+            "date": 1741551207,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2716,
+            "date": 1729953188,
+            "game": "https://www.chess.com/game/live/123690592877"
+        },
+        "record": {
+            "win": 1441,
+            "loss": 1442,
+            "draw": 230
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3957,
+            "date": 1723055741
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1701282390
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

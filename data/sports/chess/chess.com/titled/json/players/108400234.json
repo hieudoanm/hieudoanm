@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/108400234.374c4876.200x200o.6e89708d8932.jpg",
+    "player_id": 108400234,
+    "@id": "https://api.chess.com/pub/player/dorinademeter",
+    "url": "https://www.chess.com/member/dorinademeter",
+    "username": "dorinademeter",
+    "title": "WFM",
+    "followers": 460,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1740916500,
+    "joined": 1609357020,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1377,
+            "date": 1740833845,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1713,
+            "date": 1628671400,
+            "game": "https://www.chess.com/game/daily/303705150"
+        },
+        "record": {
+            "win": 25,
+            "loss": 19,
+            "draw": 3,
+            "time_per_move": 168947,
+            "timeout_percent": 50
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2382,
+            "date": 1726738372,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2422,
+            "date": 1690987906,
+            "game": "https://www.chess.com/game/live/112730347215"
+        },
+        "record": {
+            "win": 80,
+            "loss": 16,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2399,
+            "date": 1725013907,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1725013907,
+            "game": "https://www.chess.com/game/live/30219621725"
+        },
+        "record": {
+            "win": 140,
+            "loss": 97,
+            "draw": 16
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3403,
+            "date": 1730848758
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1609359141
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

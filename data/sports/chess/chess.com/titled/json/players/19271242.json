@@ -1,0 +1,53 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19271242.89e2f80e.200x200o.2fa6d6acb718.jpg",
+    "player_id": 19271242,
+    "@id": "https://api.chess.com/pub/player/andrejs_sokolov",
+    "url": "https://www.chess.com/member/Andrejs_Sokolov",
+    "name": "Andrejs Sokolovs",
+    "username": "andrejs_sokolov",
+    "title": "GM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "Riga",
+    "last_online": 1734175024,
+    "joined": 1413104214,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2673,
+            "date": 1721830498,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2805,
+            "date": 1690394716,
+            "game": "https://www.chess.com/game/live/90179424447"
+        },
+        "record": {
+            "win": 454,
+            "loss": 122,
+            "draw": 83
+        }
+    },
+    "fide": 2516,
+    "tactics": {
+        "highest": {
+            "rating": 2815,
+            "date": 1509172845
+        },
+        "lowest": {
+            "rating": 1167,
+            "date": 1413104412
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

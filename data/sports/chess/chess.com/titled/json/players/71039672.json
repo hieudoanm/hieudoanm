@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71039672.0656fa4e.200x200o.9ff72ef25e2f.jpeg",
+    "player_id": 71039672,
+    "@id": "https://api.chess.com/pub/player/luibov_an",
+    "url": "https://www.chess.com/member/Luibov_AN",
+    "name": "Ljubov Nemkova",
+    "username": "luibov_an",
+    "title": "WFM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1719488251,
+    "joined": 1579547235,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 801,
+            "date": 1659181218,
+            "rd": 126
+        },
+        "record": {
+            "win": 5,
+            "loss": 18,
+            "draw": 0,
+            "time_per_move": 13810,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2002,
+            "date": 1700815154,
+            "rd": 187
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1581099084,
+            "game": "https://www.chess.com/game/live/94553882607"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1946,
+            "date": 1733057703,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2211,
+            "date": 1639671670,
+            "game": "https://www.chess.com/game/live/30272909941"
+        },
+        "record": {
+            "win": 6689,
+            "loss": 7551,
+            "draw": 414
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2102,
+            "date": 1729002393,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1580742519,
+            "game": "https://www.chess.com/game/live/4721929655"
+        },
+        "record": {
+            "win": 742,
+            "loss": 766,
+            "draw": 57
+        }
+    },
+    "fide": 2171,
+    "tactics": {
+        "highest": {
+            "rating": 2954,
+            "date": 1730270348
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1579550341
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

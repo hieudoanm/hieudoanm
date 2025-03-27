@@ -1,0 +1,50 @@
+{
+    "player_id": 52160054,
+    "@id": "https://api.chess.com/pub/player/tractormoo",
+    "url": "https://www.chess.com/member/Tractormoo",
+    "username": "tractormoo",
+    "title": "NM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741118167,
+    "joined": 1542826017,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2208,
+            "date": 1741473415,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2374,
+            "date": 1629492100,
+            "game": "https://www.chess.com/game/live/26498457535"
+        },
+        "record": {
+            "win": 5999,
+            "loss": 5392,
+            "draw": 1038
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3176,
+            "date": 1741119527
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1543171956
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

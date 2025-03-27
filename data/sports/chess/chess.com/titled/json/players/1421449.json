@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1421449.a65f2fcd.200x200o.434ddf6002d6.jpeg",
+    "player_id": 1421449,
+    "@id": "https://api.chess.com/pub/player/premierchess64",
+    "url": "https://www.chess.com/member/PremierChess64",
+    "name": "Evan Rabin",
+    "username": "premierchess64",
+    "title": "NM",
+    "followers": 183,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York City",
+    "last_online": 1741407480,
+    "joined": 1214360168,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1449,
+            "date": 1741529962,
+            "rd": 269
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1443546132,
+            "game": "https://www.chess.com/game/daily/200290598"
+        },
+        "record": {
+            "win": 11,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 33199,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2106,
+            "date": 1719861546,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2208,
+            "date": 1470502558,
+            "game": "https://www.chess.com/game/live/1589875694"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2346,
+            "date": 1737724594,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2367,
+            "date": 1737644343,
+            "game": "https://www.chess.com/game/live/1498147421"
+        },
+        "record": {
+            "win": 3334,
+            "loss": 2797,
+            "draw": 309
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2448,
+            "date": 1741700736,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2512,
+            "date": 1740504829,
+            "game": "https://www.chess.com/game/live/134237956385"
+        },
+        "record": {
+            "win": 4150,
+            "loss": 3414,
+            "draw": 726
+        }
+    },
+    "fide": 2227,
+    "tactics": {
+        "highest": {
+            "rating": 2295,
+            "date": 1360846002
+        },
+        "lowest": {
+            "rating": 2088,
+            "date": 1559341700
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

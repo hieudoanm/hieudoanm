@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14966342.4dfc218b.200x200o.3797dfdb99da.jpeg",
+    "player_id": 14966342,
+    "@id": "https://api.chess.com/pub/player/imjonathancarlstedt",
+    "url": "https://www.chess.com/member/IMJonathanCarlstedt",
+    "name": "Jonathan Carlstedt",
+    "username": "imjonathancarlstedt",
+    "title": "IM",
+    "followers": 65,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Bremen",
+    "last_online": 1741611703,
+    "joined": 1386716209,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2444,
+            "date": 1685377891,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2666,
+            "date": 1684167322,
+            "game": "https://www.chess.com/game/live/77911407647"
+        },
+        "record": {
+            "win": 8,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2327,
+            "date": 1737226703,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2479,
+            "date": 1608408482,
+            "game": "https://www.chess.com/game/live/130965030863"
+        },
+        "record": {
+            "win": 52,
+            "loss": 74,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2552,
+            "date": 1738449667,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1720044522,
+            "game": "https://www.chess.com/game/live/117323453579"
+        },
+        "record": {
+            "win": 301,
+            "loss": 225,
+            "draw": 52
+        }
+    },
+    "fide": 2451,
+    "tactics": {
+        "highest": {
+            "rating": 2481,
+            "date": 1588357279
+        },
+        "lowest": {
+            "rating": 2032,
+            "date": 1459850623
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

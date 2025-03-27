@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17946982.680266e2.200x200o.3b0539bbb64e.png",
+    "player_id": 17946982,
+    "@id": "https://api.chess.com/pub/player/mphofmann",
+    "url": "https://www.chess.com/member/mphofmann",
+    "name": "Michael P. Hofmann",
+    "username": "mphofmann",
+    "title": "FM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/CH",
+    "location": "Zurich",
+    "last_online": 1741599058,
+    "joined": 1404538844,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2388,
+            "date": 1712220088,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1570095510,
+            "game": "https://www.chess.com/game/daily/186372688"
+        },
+        "record": {
+            "win": 104,
+            "loss": 26,
+            "draw": 25,
+            "time_per_move": 35485,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2264,
+            "date": 1741609416,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2126,
+            "date": 1739635050,
+            "game": "https://www.chess.com/game/live/132740940531"
+        },
+        "record": {
+            "win": 110,
+            "loss": 42,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2260,
+            "date": 1626604702,
+            "rd": 186
+        },
+        "best": {
+            "rating": 2260,
+            "date": 1626604702,
+            "game": "https://www.chess.com/game/live/2134497917"
+        },
+        "record": {
+            "win": 3037,
+            "loss": 2664,
+            "draw": 183
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2388,
+            "date": 1738868335,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2402,
+            "date": 1640003750,
+            "game": "https://www.chess.com/game/live/43428677979"
+        },
+        "record": {
+            "win": 3929,
+            "loss": 2785,
+            "draw": 666
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 2962,
+            "date": 1727190198
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1404539167
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 36
+        },
+        "daily": {
+            "total_attempts": 34,
+            "score": 32
+        }
+    }
+}

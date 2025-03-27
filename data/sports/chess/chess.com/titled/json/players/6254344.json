@@ -1,0 +1,46 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6254344.0f5baa62.200x200o.cfd6867fd641.jpeg",
+    "player_id": 6254344,
+    "@id": "https://api.chess.com/pub/player/keikinkg",
+    "url": "https://www.chess.com/member/keikinkg",
+    "name": "Keiki Nakagori",
+    "username": "keikinkg",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1737593472,
+    "joined": 1323101000,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2196,
+            "date": 1741676748,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2310,
+            "date": 1651725243,
+            "game": "https://www.chess.com/game/live/45025830109"
+        },
+        "record": {
+            "win": 979,
+            "loss": 704,
+            "draw": 212
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1250,
+            "date": 1714217435
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1323101000
+        }
+    },
+    "puzzle_rush": {}
+}

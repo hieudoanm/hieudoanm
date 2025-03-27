@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/102779866.30065a16.200x200o.ecda41d652cd.webp",
+    "player_id": 102779866,
+    "@id": "https://api.chess.com/pub/player/marelealb",
+    "url": "https://www.chess.com/member/MareleAlb",
+    "name": "Sasha-Matei Craciun",
+    "username": "marelealb",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/XE",
+    "last_online": 1741622985,
+    "joined": 1607444522,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2213,
+            "date": 1636996759,
+            "rd": 206
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1636996746,
+            "game": "https://www.chess.com/game/live/29528478533"
+        },
+        "record": {
+            "win": 10,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2287,
+            "date": 1741460411,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1740851303,
+            "game": "https://www.chess.com/game/live/134589540563"
+        },
+        "record": {
+            "win": 46,
+            "loss": 69,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2494,
+            "date": 1741378965,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1736103944,
+            "game": "https://www.chess.com/game/live/129143657523"
+        },
+        "record": {
+            "win": 345,
+            "loss": 313,
+            "draw": 68
+        }
+    },
+    "fide": 2171,
+    "tactics": {
+        "highest": {
+            "rating": 2202,
+            "date": 1740580357
+        },
+        "lowest": {
+            "rating": 1205,
+            "date": 1664628926
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

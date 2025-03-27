@@ -1,0 +1,84 @@
+{
+    "player_id": 13341832,
+    "@id": "https://api.chess.com/pub/player/doyen17",
+    "url": "https://www.chess.com/member/doyen17",
+    "name": "G S",
+    "username": "doyen17",
+    "title": "FM",
+    "followers": 54,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1741126225,
+    "joined": 1377897847,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2254,
+            "date": 1724622357,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2254,
+            "date": 1724622357,
+            "game": "https://www.chess.com/game/live/87082107983"
+        },
+        "record": {
+            "win": 48,
+            "loss": 16,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2117,
+            "date": 1695370608,
+            "rd": 163
+        },
+        "best": {
+            "rating": 2257,
+            "date": 1586722213,
+            "game": "https://www.chess.com/game/live/4713750462"
+        },
+        "record": {
+            "win": 40,
+            "loss": 37,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2166,
+            "date": 1740179837,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1714767578,
+            "game": "https://www.chess.com/game/live/86272805219"
+        },
+        "record": {
+            "win": 2211,
+            "loss": 1724,
+            "draw": 320
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3665,
+            "date": 1705263304
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1379621306
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

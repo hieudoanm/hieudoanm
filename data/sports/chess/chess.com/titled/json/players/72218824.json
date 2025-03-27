@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72218824.bc762571.200x200o.c66f1ae74570.jpg",
+    "player_id": 72218824,
+    "@id": "https://api.chess.com/pub/player/subtlemoves",
+    "url": "https://www.chess.com/member/SubtleMoves",
+    "name": "Aishath Iva Hassan",
+    "username": "subtlemoves",
+    "title": "WCM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/MV",
+    "last_online": 1739705225,
+    "joined": 1581765160,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1137,
+            "date": 1735042768,
+            "rd": 139
+        },
+        "best": {
+            "rating": 1158,
+            "date": 1705927275,
+            "game": "https://www.chess.com/game/daily/581689297"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 1,
+            "time_per_move": 52394,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1595,
+            "date": 1732801986,
+            "rd": 62
+        },
+        "best": {
+            "rating": 1567,
+            "date": 1689254407,
+            "game": "https://www.chess.com/game/live/121508427855"
+        },
+        "record": {
+            "win": 487,
+            "loss": 390,
+            "draw": 44
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1595,
+            "date": 1732801986,
+            "rd": 39
+        },
+        "best": {
+            "rating": 1257,
+            "date": 1711687045,
+            "game": "https://www.chess.com/game/live/108661883757"
+        },
+        "record": {
+            "win": 263,
+            "loss": 224,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1595,
+            "date": 1735056873,
+            "rd": 74
+        },
+        "best": {
+            "rating": 1595,
+            "date": 1735056166,
+            "game": "https://www.chess.com/game/live/107275824717"
+        },
+        "record": {
+            "win": 197,
+            "loss": 144,
+            "draw": 20
+        }
+    },
+    "fide": 1595,
+    "tactics": {
+        "highest": {
+            "rating": 2861,
+            "date": 1711372193
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1584189615
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

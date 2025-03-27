@@ -1,0 +1,104 @@
+{
+    "player_id": 25391536,
+    "@id": "https://api.chess.com/pub/player/fmlzikon",
+    "url": "https://www.chess.com/member/FMLzikon",
+    "name": "Roar Elseth",
+    "username": "fmlzikon",
+    "title": "FM",
+    "followers": 73,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1684306096,
+    "joined": 1449173955,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1993,
+            "date": 1682433786,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2179,
+            "date": 1572206585,
+            "game": "https://www.chess.com/game/daily/230536794"
+        },
+        "record": {
+            "win": 89,
+            "loss": 28,
+            "draw": 14,
+            "time_per_move": 21543,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1920,
+            "date": 1668265850,
+            "rd": 164
+        },
+        "best": {
+            "rating": 2165,
+            "date": 1586604504,
+            "game": "https://www.chess.com/game/live/4707051100"
+        },
+        "record": {
+            "win": 8,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1780,
+            "date": 1588601953,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2196,
+            "date": 1490386687,
+            "game": "https://www.chess.com/game/live/1770929019"
+        },
+        "record": {
+            "win": 750,
+            "loss": 721,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2295,
+            "date": 1680555765,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2437,
+            "date": 1488747988,
+            "game": "https://www.chess.com/game/live/2229467447"
+        },
+        "record": {
+            "win": 8866,
+            "loss": 8291,
+            "draw": 1575
+        }
+    },
+    "fide": 2331,
+    "tactics": {
+        "highest": {
+            "rating": 2728,
+            "date": 1496167432
+        },
+        "lowest": {
+            "rating": 1328,
+            "date": 1449603570
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

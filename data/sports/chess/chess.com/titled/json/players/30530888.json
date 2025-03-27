@@ -1,0 +1,84 @@
+{
+    "player_id": 30530888,
+    "@id": "https://api.chess.com/pub/player/juliuspohyt",
+    "url": "https://www.chess.com/member/JuliusPohYT",
+    "name": "Yu Tian Poh",
+    "username": "juliuspohyt",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1740282256,
+    "joined": 1477147519,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2250,
+            "date": 1680892850,
+            "rd": 136
+        },
+        "best": {
+            "rating": 1968,
+            "date": 1650686110,
+            "game": "https://www.chess.com/game/live/5699842160"
+        },
+        "record": {
+            "win": 29,
+            "loss": 5,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2811,
+            "date": 1727582625,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2931,
+            "date": 1700367951,
+            "game": "https://www.chess.com/game/live/90475727161"
+        },
+        "record": {
+            "win": 190,
+            "loss": 129,
+            "draw": 39
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2862,
+            "date": 1727583467,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2923,
+            "date": 1722674165,
+            "game": "https://www.chess.com/game/live/112336240275"
+        },
+        "record": {
+            "win": 735,
+            "loss": 520,
+            "draw": 192
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 8002,
+            "date": 1718353862
+        },
+        "lowest": {
+            "rating": 508,
+            "date": 1478865528
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

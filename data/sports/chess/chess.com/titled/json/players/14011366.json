@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14011366.b6ad2251.200x200o.af6bea76e07e.jpeg",
+    "player_id": 14011366,
+    "@id": "https://api.chess.com/pub/player/rawnsdale",
+    "url": "https://www.chess.com/member/Rawnsdale",
+    "name": "Ralph Federick Tan",
+    "username": "rawnsdale",
+    "title": "NM",
+    "followers": 143,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Cleveland, Ohio",
+    "last_online": 1741630242,
+    "joined": 1382463659,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1809,
+            "date": 1740963657,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1680739797,
+            "game": "https://www.chess.com/game/daily/641969385"
+        },
+        "record": {
+            "win": 507,
+            "loss": 192,
+            "draw": 44,
+            "time_per_move": 25551,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2176,
+            "date": 1735447981,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2187,
+            "date": 1621826883,
+            "game": "https://www.chess.com/game/live/14761679367"
+        },
+        "record": {
+            "win": 52,
+            "loss": 24,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2594,
+            "date": 1738436323,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1734806463,
+            "game": "https://www.chess.com/game/live/114022838161"
+        },
+        "record": {
+            "win": 9893,
+            "loss": 8433,
+            "draw": 1105
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2509,
+            "date": 1741133057,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2569,
+            "date": 1704820268,
+            "game": "https://www.chess.com/game/live/128796222099"
+        },
+        "record": {
+            "win": 1502,
+            "loss": 1193,
+            "draw": 187
+        }
+    },
+    "fide": 2277,
+    "tactics": {
+        "highest": {
+            "rating": 3222,
+            "date": 1706647058
+        },
+        "lowest": {
+            "rating": 1316,
+            "date": 1382464279
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

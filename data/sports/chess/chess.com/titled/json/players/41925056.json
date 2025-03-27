@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41925056.5bea50f0.200x200o.c8e71a300f76.jpg",
+    "player_id": 41925056,
+    "@id": "https://api.chess.com/pub/player/neosupremacy",
+    "url": "https://www.chess.com/member/NeoSupremacy",
+    "name": "Domen Tisaj",
+    "username": "neosupremacy",
+    "title": "IM",
+    "followers": 687,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1733864352,
+    "joined": 1514901491,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1343,
+            "date": 1732051367,
+            "rd": 119
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1514901491,
+            "game": "https://www.chess.com/game/daily/621120047"
+        },
+        "record": {
+            "win": 33,
+            "loss": 17,
+            "draw": 0,
+            "time_per_move": 26582,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2231,
+            "date": 1711279360,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2307,
+            "date": 1621083980,
+            "game": "https://www.chess.com/game/live/14821713143"
+        },
+        "record": {
+            "win": 27,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2803,
+            "date": 1725125126,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2849,
+            "date": 1725124346,
+            "game": "https://www.chess.com/game/live/118862374533"
+        },
+        "record": {
+            "win": 2269,
+            "loss": 1870,
+            "draw": 280
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2729,
+            "date": 1732216911,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2911,
+            "date": 1695117037,
+            "game": "https://www.chess.com/game/live/100815119219"
+        },
+        "record": {
+            "win": 4884,
+            "loss": 4954,
+            "draw": 1014
+        }
+    },
+    "fide": 2421,
+    "tactics": {
+        "highest": {
+            "rating": 4135,
+            "date": 1616764465
+        },
+        "lowest": {
+            "rating": 0,
+            "date": 1555015535
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 93,
+            "score": 90
+        }
+    }
+}

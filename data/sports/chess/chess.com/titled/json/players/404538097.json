@@ -1,0 +1,45 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/404538097.015c700c.200x200o.d916d0c6b31c.jpg",
+    "player_id": 404538097,
+    "@id": "https://api.chess.com/pub/player/grandmasteroftime",
+    "url": "https://www.chess.com/member/GrandmasterOfTime",
+    "username": "grandmasteroftime",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741195937,
+    "joined": 1732409668,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2510,
+            "date": 1741202918,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2637,
+            "date": 1736609651,
+            "game": "https://www.chess.com/game/live/130150730113"
+        },
+        "record": {
+            "win": 356,
+            "loss": 379,
+            "draw": 53
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1732409668
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1732409668
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34626012.ce204dfb.200x200o.d9f0231090b9.jpg",
+    "player_id": 34626012,
+    "@id": "https://api.chess.com/pub/player/queensandpawns",
+    "url": "https://www.chess.com/member/Queensandpawns",
+    "name": "Jude Shearsby",
+    "username": "queensandpawns",
+    "title": "CM",
+    "followers": 125,
+    "country": "https://api.chess.com/pub/country/XE",
+    "last_online": 1741645520,
+    "joined": 1491677748,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1331,
+            "date": 1736749701,
+            "rd": 182
+        },
+        "best": {
+            "rating": 1400,
+            "date": 1729960013,
+            "game": "https://www.chess.com/game/daily/718373091"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 56005,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2427,
+            "date": 1739316457,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2455,
+            "date": 1735138412,
+            "game": "https://www.chess.com/game/live/125263819329"
+        },
+        "record": {
+            "win": 421,
+            "loss": 240,
+            "draw": 71
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2812,
+            "date": 1741109634,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3000,
+            "date": 1733728715,
+            "game": "https://www.chess.com/game/live/123702020101"
+        },
+        "record": {
+            "win": 5182,
+            "loss": 4426,
+            "draw": 598
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2489,
+            "date": 1741126161
+        },
+        "best": {
+            "rating": 2671,
+            "date": 1734476329,
+            "game": "https://www.chess.com/game/live/128190643295"
+        },
+        "record": {
+            "win": 2644,
+            "loss": 2149,
+            "draw": 286
+        }
+    },
+    "fide": 2092,
+    "tactics": {
+        "highest": {
+            "rating": 3811,
+            "date": 1568565643
+        },
+        "lowest": {
+            "rating": 896,
+            "date": 1507831517
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

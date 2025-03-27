@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2029775.d9732141.200x200o.0ac37b012c3e.jpeg",
+    "player_id": 2029775,
+    "@id": "https://api.chess.com/pub/player/diamondcrusher22",
+    "url": "https://www.chess.com/member/DiamondCrusher22",
+    "name": "Annorjan Naguleswaran",
+    "username": "diamondcrusher22",
+    "title": "NM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1735069697,
+    "joined": 1247527976,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1863,
+            "date": 1676422721,
+            "rd": 250
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1465487614,
+            "game": "https://www.chess.com/game/live/1610496538"
+        },
+        "record": {
+            "win": 15,
+            "loss": 34,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1974,
+            "date": 1682737613,
+            "rd": 184
+        },
+        "best": {
+            "rating": 2018,
+            "date": 1461437256,
+            "game": "https://www.chess.com/game/live/1568413210"
+        },
+        "record": {
+            "win": 42,
+            "loss": 48,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2051,
+            "date": 1741550846,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1667294889,
+            "game": "https://www.chess.com/game/live/4466510528"
+        },
+        "record": {
+            "win": 2210,
+            "loss": 2178,
+            "draw": 170
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2571,
+            "date": 1664584170
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1427724240
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

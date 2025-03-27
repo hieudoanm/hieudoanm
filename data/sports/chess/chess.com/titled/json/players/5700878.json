@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5700878.5937640e.200x200o.22728801bc70.jpeg",
+    "player_id": 5700878,
+    "@id": "https://api.chess.com/pub/player/white31",
+    "url": "https://www.chess.com/member/white31",
+    "username": "white31",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1736970152,
+    "joined": 1314652784,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1690935345,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1795,
+            "date": 1619607329,
+            "game": "https://www.chess.com/game/live/13345352637"
+        },
+        "record": {
+            "win": 8,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2390,
+            "date": 1733499882,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2761,
+            "date": 1639011740,
+            "game": "https://www.chess.com/game/live/32756959581"
+        },
+        "record": {
+            "win": 18222,
+            "loss": 16932,
+            "draw": 1485
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1710711033,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2623,
+            "date": 1620076884,
+            "game": "https://www.chess.com/game/live/13814515805"
+        },
+        "record": {
+            "win": 250,
+            "loss": 181,
+            "draw": 28
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1314652784
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1314652784
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

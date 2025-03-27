@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/107602892.66dc9823.200x200o.00b5bc74eefd.jpg",
+    "player_id": 107602892,
+    "@id": "https://api.chess.com/pub/player/themagicmaik",
+    "url": "https://www.chess.com/member/TheMagicMaik",
+    "name": "Michele Sagripanti",
+    "username": "themagicmaik",
+    "title": "NM",
+    "followers": 79,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741550509,
+    "joined": 1609097435,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 939,
+            "date": 1713067559,
+            "rd": 263
+        },
+        "best": {
+            "rating": 939,
+            "date": 1666005738,
+            "game": "https://www.chess.com/game/daily/436299307"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23962,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2343,
+            "date": 1739298581,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2343,
+            "date": 1618952131,
+            "game": "https://www.chess.com/game/live/12688675941"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2309,
+            "date": 1726179041,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1663609398,
+            "game": "https://www.chess.com/game/live/10946930093"
+        },
+        "record": {
+            "win": 275,
+            "loss": 206,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2520,
+            "date": 1731159315,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2590,
+            "date": 1701525557,
+            "game": "https://www.chess.com/game/live/9256483243"
+        },
+        "record": {
+            "win": 445,
+            "loss": 366,
+            "draw": 61
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3146,
+            "date": 1715976659
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1616264611
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 46
+        }
+    }
+}

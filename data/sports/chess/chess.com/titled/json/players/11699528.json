@@ -1,0 +1,85 @@
+{
+    "player_id": 11699528,
+    "@id": "https://api.chess.com/pub/player/gektar1988",
+    "url": "https://www.chess.com/member/Gektar1988",
+    "name": "George Nagibin",
+    "username": "gektar1988",
+    "title": "IM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Moscow",
+    "last_online": 1720542253,
+    "joined": 1367250166,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1717,
+            "date": 1650201686,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2326,
+            "date": 1611383703,
+            "game": "https://www.chess.com/game/live/14456858071"
+        },
+        "record": {
+            "win": 59,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2574,
+            "date": 1699553255,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2654,
+            "date": 1602487983,
+            "game": "https://www.chess.com/game/live/2090427255"
+        },
+        "record": {
+            "win": 3101,
+            "loss": 1644,
+            "draw": 275
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1754,
+            "date": 1652704839,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2572,
+            "date": 1553435175,
+            "game": "https://www.chess.com/game/live/3578167309"
+        },
+        "record": {
+            "win": 1081,
+            "loss": 750,
+            "draw": 211
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1360,
+            "date": 1684933340
+        },
+        "lowest": {
+            "rating": 1142,
+            "date": 1625672425
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

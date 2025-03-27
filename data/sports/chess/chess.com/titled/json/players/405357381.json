@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/405357381.fcd6b0e1.200x200o.635d56f29a32.jpg",
+    "player_id": 405357381,
+    "@id": "https://api.chess.com/pub/player/elimchesskg",
+    "url": "https://www.chess.com/member/ElimChessKG",
+    "name": "Elim Keneshbekov",
+    "username": "elimchesskg",
+    "title": "CM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/KG",
+    "location": "Karakol city",
+    "last_online": 1741699615,
+    "joined": 1732707115,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2419,
+            "date": 1741700157,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2409,
+            "date": 1738423181,
+            "game": "https://www.chess.com/game/live/132234649127"
+        },
+        "record": {
+            "win": 73,
+            "loss": 42,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2455,
+            "date": 1741370256,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1734672366,
+            "game": "https://www.chess.com/game/live/129401045377"
+        },
+        "record": {
+            "win": 68,
+            "loss": 61,
+            "draw": 17
+        }
+    },
+    "fide": 1847,
+    "tactics": {
+        "highest": {
+            "rating": 2020,
+            "date": 1735307662
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1732707115
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

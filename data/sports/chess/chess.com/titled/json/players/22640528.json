@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22640528.bb0da51f.200x200o.ea8d393e239d.jpeg",
+    "player_id": 22640528,
+    "@id": "https://api.chess.com/pub/player/captaincasanova",
+    "url": "https://www.chess.com/member/CaptainCasanova",
+    "name": "Sebastian Mihajlov",
+    "username": "captaincasanova",
+    "title": "IM",
+    "followers": 313,
+    "country": "https://api.chess.com/pub/country/MH",
+    "location": "Oslo",
+    "last_online": 1737236336,
+    "joined": 1433180729,
+    "status": "staff",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1660,
+            "date": 1738747712,
+            "rd": 78
+        },
+        "best": {
+            "rating": 1685,
+            "date": 1698728573,
+            "game": "https://www.chess.com/game/daily/511802041"
+        },
+        "record": {
+            "win": 34,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 43930,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 903,
+            "date": 1699748180,
+            "rd": 156
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1433180729,
+            "game": "https://www.chess.com/game/daily/525490253"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 43930,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2670,
+            "date": 1683477352,
+            "rd": 211
+        },
+        "best": {
+            "rating": 2670,
+            "date": 1683477352,
+            "game": "https://www.chess.com/game/live/77216045163"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2804,
+            "date": 1717111563,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2989,
+            "date": 1683665761,
+            "game": "https://www.chess.com/game/live/77404826519"
+        },
+        "record": {
+            "win": 1750,
+            "loss": 1587,
+            "draw": 218
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2801,
+            "date": 1702816630,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1552526975,
+            "game": "https://www.chess.com/game/live/3538109869"
+        },
+        "record": {
+            "win": 1291,
+            "loss": 1082,
+            "draw": 322
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3073,
+            "date": 1693804599
+        },
+        "lowest": {
+            "rating": 2195,
+            "date": 1547425620
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

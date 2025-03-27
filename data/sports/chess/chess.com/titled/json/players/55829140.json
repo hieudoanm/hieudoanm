@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55829140.92551fb4.200x200o.65818330a818.jpeg",
+    "player_id": 55829140,
+    "@id": "https://api.chess.com/pub/player/skoularikii",
+    "url": "https://www.chess.com/member/skoularikii",
+    "name": "Giannis Kalogeris",
+    "username": "skoularikii",
+    "title": "IM",
+    "followers": 132,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741702543,
+    "joined": 1547231666,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1940,
+            "date": 1718703332,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1590429560,
+            "game": "https://www.chess.com/game/live/4906833155"
+        },
+        "record": {
+            "win": 12,
+            "loss": 8,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2543,
+            "date": 1729003092,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2639,
+            "date": 1676484511,
+            "game": "https://www.chess.com/game/live/6066108639"
+        },
+        "record": {
+            "win": 370,
+            "loss": 223,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2710,
+            "date": 1741299255,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2889,
+            "date": 1737655829,
+            "game": "https://www.chess.com/game/live/112890662637"
+        },
+        "record": {
+            "win": 3729,
+            "loss": 3462,
+            "draw": 455
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3859,
+            "date": 1671231631
+        },
+        "lowest": {
+            "rating": 415,
+            "date": 1547402280
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

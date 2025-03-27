@@ -1,0 +1,16 @@
+services:
+  mariadb:
+    image: mariadb:latest
+    hostname: mariadb
+    container_name: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: my-secret-pw
+      MYSQL_DATABASE: mydatabase
+    ports:
+      - '3306:3306'
+    networks:
+      - mariadb_network
+
+networks:
+  mariadb_network:
+    driver: bridge

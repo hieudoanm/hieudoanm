@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/205080333.8a4737be.200x200o.f658c97602cb.jpg",
+    "player_id": 205080333,
+    "@id": "https://api.chess.com/pub/player/ethannorris2006",
+    "url": "https://www.chess.com/member/EthanNorris2006",
+    "name": "Ethan Norris",
+    "username": "ethannorris2006",
+    "title": "NM",
+    "followers": 60,
+    "country": "https://api.chess.com/pub/country/XE",
+    "location": "England",
+    "last_online": 1741625125,
+    "joined": 1667764099,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1852,
+            "date": 1736435328,
+            "rd": 222
+        },
+        "best": {
+            "rating": 1852,
+            "date": 1702584916,
+            "game": "https://www.chess.com/game/daily/568896573"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8107,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2317,
+            "date": 1734049291,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1675516841,
+            "game": "https://www.chess.com/game/live/69255013603"
+        },
+        "record": {
+            "win": 32,
+            "loss": 14,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2675,
+            "date": 1741395377,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2795,
+            "date": 1711142719,
+            "game": "https://www.chess.com/game/live/98471776655"
+        },
+        "record": {
+            "win": 5347,
+            "loss": 6228,
+            "draw": 935
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2608,
+            "date": 1741633577,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1729188090,
+            "game": "https://www.chess.com/game/live/131472060915"
+        },
+        "record": {
+            "win": 3386,
+            "loss": 3259,
+            "draw": 764
+        }
+    },
+    "fide": 2272,
+    "tactics": {
+        "highest": {
+            "rating": 3237,
+            "date": 1677366017
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1669460047
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

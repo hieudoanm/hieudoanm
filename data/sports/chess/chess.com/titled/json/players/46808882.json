@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46808882.7a9cffa2.200x200o.330c5702458f.jpg",
+    "player_id": 46808882,
+    "@id": "https://api.chess.com/pub/player/oliver_wartiovaara",
+    "url": "https://www.chess.com/member/Oliver_Wartiovaara",
+    "name": "Oliver Wartiovaara",
+    "username": "oliver_wartiovaara",
+    "title": "FM",
+    "followers": 163,
+    "country": "https://api.chess.com/pub/country/FI",
+    "last_online": 1741703467,
+    "joined": 1528139907,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1715544639,
+            "rd": 290
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 8406,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2120,
+            "date": 1740589062,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2120,
+            "date": 1724137901,
+            "game": "https://www.chess.com/game/live/117875994523"
+        },
+        "record": {
+            "win": 25,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2538,
+            "date": 1740498922,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1720425426,
+            "game": "https://www.chess.com/game/live/114021685783"
+        },
+        "record": {
+            "win": 2259,
+            "loss": 1893,
+            "draw": 265
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2598,
+            "date": 1741703708,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1738965858,
+            "game": "https://www.chess.com/game/live/53283014895"
+        },
+        "record": {
+            "win": 6005,
+            "loss": 4931,
+            "draw": 982
+        }
+    },
+    "fide": 2325,
+    "tactics": {
+        "highest": {
+            "rating": 2809,
+            "date": 1591303451
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1528184746
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

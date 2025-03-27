@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12510568.144401be.200x200o.f93a1be7d1ce.jpeg",
+    "player_id": 12510568,
+    "@id": "https://api.chess.com/pub/player/tc58",
+    "url": "https://www.chess.com/member/TC58",
+    "name": "Tony Corkett",
+    "username": "tc58",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Hampshire",
+    "last_online": 1741618984,
+    "joined": 1372418049,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2176,
+            "date": 1740668324,
+            "rd": 249
+        },
+        "best": {
+            "rating": 2176,
+            "date": 1376713466,
+            "game": "https://www.chess.com/game/daily/73767222"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 27346,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2229,
+            "date": 1672480708,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2342,
+            "date": 1667594225,
+            "game": "https://www.chess.com/game/live/61408236231"
+        },
+        "record": {
+            "win": 10,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1977,
+            "date": 1741026728,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2031,
+            "date": 1546708561,
+            "game": "https://www.chess.com/game/live/3351967659"
+        },
+        "record": {
+            "win": 129,
+            "loss": 124,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2256,
+            "date": 1741645132,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1680384329,
+            "game": "https://www.chess.com/game/live/87499321733"
+        },
+        "record": {
+            "win": 6580,
+            "loss": 6102,
+            "draw": 723
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2993,
+            "date": 1741537697
+        },
+        "lowest": {
+            "rating": 1069,
+            "date": 1372584008
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

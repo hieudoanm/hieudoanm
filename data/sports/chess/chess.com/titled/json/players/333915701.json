@@ -1,0 +1,51 @@
+{
+    "player_id": 333915701,
+    "@id": "https://api.chess.com/pub/player/z_chess6",
+    "url": "https://www.chess.com/member/Z_Chess6",
+    "name": "Al Taher Abdulrahman Mohammad",
+    "username": "z_chess6",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/AE",
+    "last_online": 1713445311,
+    "joined": 1703253399,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2252,
+            "date": 1712678924,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2262,
+            "date": 1712678196,
+            "game": "https://www.chess.com/game/live/97953049603"
+        },
+        "record": {
+            "win": 19,
+            "loss": 14,
+            "draw": 3
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1703253399
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1703253399
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 38
+        }
+    }
+}

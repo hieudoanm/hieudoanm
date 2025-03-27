@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69995454.84dec0e0.200x200o.9d73bba5d1af.jpg",
+    "player_id": 69995454,
+    "@id": "https://api.chess.com/pub/player/dxtrmined",
+    "url": "https://www.chess.com/member/Dxtrmined",
+    "name": "Evan Yin",
+    "username": "dxtrmined",
+    "title": "NM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741663647,
+    "joined": 1577572276,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1730,
+            "date": 1719609762,
+            "rd": 300
+        },
+        "record": {
+            "win": 1,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 68980,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1740685084,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2188,
+            "date": 1738094949,
+            "game": "https://www.chess.com/game/live/131833234213"
+        },
+        "record": {
+            "win": 129,
+            "loss": 84,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2603,
+            "date": 1741403147,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1732588997,
+            "game": "https://www.chess.com/game/live/126934777333"
+        },
+        "record": {
+            "win": 1919,
+            "loss": 1887,
+            "draw": 211
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2556,
+            "date": 1740544044,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2636,
+            "date": 1730591830,
+            "game": "https://www.chess.com/game/live/128816585377"
+        },
+        "record": {
+            "win": 1676,
+            "loss": 1775,
+            "draw": 276
+        }
+    },
+    "fide": 1990,
+    "tactics": {
+        "highest": {
+            "rating": 3556,
+            "date": 1713414748
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1621185966
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

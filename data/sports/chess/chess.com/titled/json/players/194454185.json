@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/194454185.f954c705.200x200o.026b662d84b1.jpeg",
+    "player_id": 194454185,
+    "@id": "https://api.chess.com/pub/player/pinasoprano",
+    "url": "https://www.chess.com/member/PinaSoprano",
+    "username": "pinasoprano",
+    "title": "CM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/PR",
+    "last_online": 1739722478,
+    "joined": 1661277162,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2145,
+            "date": 1683303228,
+            "rd": 172
+        },
+        "best": {
+            "rating": 2237,
+            "date": 1676763110,
+            "game": "https://www.chess.com/game/live/70496745867"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2090,
+            "date": 1736956979,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1728948169,
+            "game": "https://www.chess.com/game/live/122685243907"
+        },
+        "record": {
+            "win": 82,
+            "loss": 68,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2320,
+            "date": 1737732386,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2465,
+            "date": 1732676352,
+            "game": "https://www.chess.com/game/live/111534187947"
+        },
+        "record": {
+            "win": 328,
+            "loss": 254,
+            "draw": 28
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2913,
+            "date": 1697120870
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1661277162
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 7,
+            "score": 4
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36499844.f8a381ad.200x200o.0524acb42e48.jpeg",
+    "player_id": 36499844,
+    "@id": "https://api.chess.com/pub/player/tav_2009",
+    "url": "https://www.chess.com/member/TAV_2009",
+    "name": "Artjoms Tolmacevs",
+    "username": "tav_2009",
+    "title": "NM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/LV",
+    "last_online": 1741198271,
+    "joined": 1498139771,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1340,
+            "date": 1727777447,
+            "rd": 158
+        },
+        "best": {
+            "rating": 1426,
+            "date": 1521068096,
+            "game": "https://www.chess.com/game/daily/187883308"
+        },
+        "record": {
+            "win": 7,
+            "loss": 10,
+            "draw": 1,
+            "time_per_move": 41837,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2227,
+            "date": 1727777447,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1870,
+            "date": 1613309420,
+            "game": "https://www.chess.com/game/live/6544448957"
+        },
+        "record": {
+            "win": 74,
+            "loss": 39,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2250,
+            "date": 1735148840,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2276,
+            "date": 1735148588,
+            "game": "https://www.chess.com/game/live/128886746805"
+        },
+        "record": {
+            "win": 57,
+            "loss": 60,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2454,
+            "date": 1739901006,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1738688850,
+            "game": "https://www.chess.com/game/live/133633156535"
+        },
+        "record": {
+            "win": 307,
+            "loss": 247,
+            "draw": 29
+        }
+    },
+    "fide": 2227,
+    "tactics": {
+        "highest": {
+            "rating": 2916,
+            "date": 1586630363
+        },
+        "lowest": {
+            "rating": 791,
+            "date": 1498388309
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "player_id": 132460098,
+    "@id": "https://api.chess.com/pub/player/janhelmer03",
+    "url": "https://www.chess.com/member/janhelmer03",
+    "name": "Jan Helmer",
+    "username": "janhelmer03",
+    "title": "CM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1740493132,
+    "joined": 1617208515,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1483,
+            "date": 1709317151,
+            "rd": 267
+        },
+        "best": {
+            "rating": 1483,
+            "date": 1709317151,
+            "game": "https://www.chess.com/game/daily/624162033"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 35819,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2525,
+            "date": 1736962606,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1720296884,
+            "game": "https://www.chess.com/game/live/114009623023"
+        },
+        "record": {
+            "win": 242,
+            "loss": 143,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2545,
+            "date": 1740507146,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1740506523,
+            "game": "https://www.chess.com/game/live/134240340749"
+        },
+        "record": {
+            "win": 99,
+            "loss": 117,
+            "draw": 17
+        }
+    },
+    "fide": 2212,
+    "tactics": {
+        "highest": {
+            "rating": 2406,
+            "date": 1709314220
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1617208515
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

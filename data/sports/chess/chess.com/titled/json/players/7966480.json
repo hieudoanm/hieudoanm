@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7966480.4af43045.200x200o.5f597dc72ee5.jpeg",
+    "player_id": 7966480,
+    "@id": "https://api.chess.com/pub/player/fmcabralis",
+    "url": "https://www.chess.com/member/fmcabralis",
+    "name": "Quinn Cabralis",
+    "username": "fmcabralis",
+    "title": "FM",
+    "followers": 79,
+    "country": "https://api.chess.com/pub/country/TT",
+    "location": "Trinidad and Tobago",
+    "last_online": 1737369608,
+    "joined": 1340307940,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1387,
+            "date": 1741302821,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1387,
+            "date": 1736941164,
+            "game": "https://www.chess.com/game/daily/754232353"
+        },
+        "record": {
+            "win": 28,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 18015,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2052,
+            "date": 1739634944,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1685110855,
+            "game": "https://www.chess.com/game/live/5374818658"
+        },
+        "record": {
+            "win": 185,
+            "loss": 71,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2372,
+            "date": 1736304456,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2524,
+            "date": 1697338722,
+            "game": "https://www.chess.com/game/live/82495799417"
+        },
+        "record": {
+            "win": 775,
+            "loss": 585,
+            "draw": 88
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2425,
+            "date": 1740668064,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1739445875,
+            "game": "https://www.chess.com/game/live/105812474265"
+        },
+        "record": {
+            "win": 1035,
+            "loss": 674,
+            "draw": 107
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3332,
+            "date": 1734921510
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1559913254
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

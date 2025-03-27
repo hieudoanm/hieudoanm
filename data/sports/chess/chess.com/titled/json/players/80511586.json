@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80511586.d4be6035.200x200o.6070e9b3a314.jpeg",
+    "player_id": 80511586,
+    "@id": "https://api.chess.com/pub/player/aspiazumarlon2001",
+    "url": "https://www.chess.com/member/AspiazuMarlon2001",
+    "name": "Marlon Steven Aspiazu Sibri",
+    "username": "aspiazumarlon2001",
+    "title": "FM",
+    "followers": 220,
+    "country": "https://api.chess.com/pub/country/EC",
+    "location": "Guayaquil",
+    "last_online": 1741570676,
+    "joined": 1590448167,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1613,
+            "date": 1735257883,
+            "rd": 337
+        },
+        "best": {
+            "rating": 1613,
+            "date": 1708942933,
+            "game": "https://www.chess.com/game/daily/620468967"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 52556,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2454,
+            "date": 1685226851,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2481,
+            "date": 1642000736,
+            "game": "https://www.chess.com/game/live/35738313523"
+        },
+        "record": {
+            "win": 35,
+            "loss": 7,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2505,
+            "date": 1641144833,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1641144833,
+            "game": "https://www.chess.com/game/live/30652720765"
+        },
+        "record": {
+            "win": 2013,
+            "loss": 1721,
+            "draw": 294
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2609,
+            "date": 1710733603,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1708843438,
+            "game": "https://www.chess.com/game/live/5355942635"
+        },
+        "record": {
+            "win": 4885,
+            "loss": 4188,
+            "draw": 969
+        }
+    },
+    "fide": 2102,
+    "tactics": {
+        "highest": {
+            "rating": 3306,
+            "date": 1650914208
+        },
+        "lowest": {
+            "rating": 1017,
+            "date": 1590503818
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        },
+        "daily": {
+            "total_attempts": 37,
+            "score": 36
+        }
+    }
+}

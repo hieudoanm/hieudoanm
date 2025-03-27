@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/100794388.f33a614b.200x200o.b28fdde51a40.jpg",
+    "player_id": 100794388,
+    "@id": "https://api.chess.com/pub/player/jaac2002",
+    "url": "https://www.chess.com/member/JAAC2002",
+    "name": "Jose Avelino Alvarez Calzadilla",
+    "username": "jaac2002",
+    "title": "FM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1741375151,
+    "joined": 1606795568,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2228,
+            "date": 1631302789,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1631027581,
+            "game": "https://www.chess.com/game/live/24764563425"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2713,
+            "date": 1737479488,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2721,
+            "date": 1737477681,
+            "game": "https://www.chess.com/game/live/131216347741"
+        },
+        "record": {
+            "win": 327,
+            "loss": 180,
+            "draw": 50
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2011,
+            "date": 1643258828
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1606797654
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

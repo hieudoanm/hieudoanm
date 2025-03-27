@@ -1,0 +1,69 @@
+{
+    "player_id": 9171960,
+    "@id": "https://api.chess.com/pub/player/groetzi",
+    "url": "https://www.chess.com/member/Groetzi",
+    "name": "Julian Groetzbach",
+    "username": "groetzi",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Berlin",
+    "last_online": 1740243381,
+    "joined": 1349608226,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2503,
+            "date": 1712484631,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2519,
+            "date": 1712401425,
+            "game": "https://www.chess.com/game/live/106150899599"
+        },
+        "record": {
+            "win": 308,
+            "loss": 285,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2413,
+            "date": 1715108430,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2450,
+            "date": 1706985865,
+            "game": "https://www.chess.com/game/live/108832902715"
+        },
+        "record": {
+            "win": 252,
+            "loss": 199,
+            "draw": 24
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3210,
+            "date": 1712318018
+        },
+        "lowest": {
+            "rating": 1294,
+            "date": 1349699667
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 39
+        }
+    }
+}

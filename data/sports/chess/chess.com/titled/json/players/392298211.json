@@ -1,0 +1,85 @@
+{
+    "player_id": 392298211,
+    "@id": "https://api.chess.com/pub/player/sergeygostev1984",
+    "url": "https://www.chess.com/member/SergeyGostev1984",
+    "name": "Serghei Gostev",
+    "username": "sergeygostev1984",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/MD",
+    "last_online": 1741180861,
+    "joined": 1727622025,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2272,
+            "date": 1728210469,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1728206800,
+            "game": "https://www.chess.com/game/live/121945740597"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2229,
+            "date": 1738151496,
+            "rd": 150
+        },
+        "best": {
+            "rating": 2353,
+            "date": 1737723513,
+            "game": "https://www.chess.com/game/live/131462405661"
+        },
+        "record": {
+            "win": 13,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2455,
+            "date": 1741181156,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2494,
+            "date": 1735057816,
+            "game": "https://www.chess.com/game/live/126981055737"
+        },
+        "record": {
+            "win": 135,
+            "loss": 137,
+            "draw": 11
+        }
+    },
+    "fide": 2262,
+    "tactics": {
+        "highest": {
+            "rating": 2401,
+            "date": 1729677063
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1727622025
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

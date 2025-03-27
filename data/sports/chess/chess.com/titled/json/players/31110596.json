@@ -1,0 +1,68 @@
+{
+    "player_id": 31110596,
+    "@id": "https://api.chess.com/pub/player/bylavochka",
+    "url": "https://www.chess.com/member/bylavochka",
+    "name": "Margarita Fakhretdinova",
+    "username": "bylavochka",
+    "title": "WFM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741420416,
+    "joined": 1479932291,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1840,
+            "date": 1680288087,
+            "rd": 204
+        },
+        "best": {
+            "rating": 1972,
+            "date": 1650555640,
+            "game": "https://www.chess.com/game/live/44293150947"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2355,
+            "date": 1733849707,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1698186454,
+            "game": "https://www.chess.com/game/live/125772006921"
+        },
+        "record": {
+            "win": 153,
+            "loss": 241,
+            "draw": 22
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2823,
+            "date": 1689393338
+        },
+        "lowest": {
+            "rating": 1141,
+            "date": 1479932353
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 43
+        }
+    }
+}

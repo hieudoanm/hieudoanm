@@ -1,0 +1,93 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6895061.026d4add.200x200o.9dd592b9936a.jpg",
+    "player_id": 6895061,
+    "@id": "https://api.chess.com/pub/player/gmneiksans",
+    "url": "https://www.chess.com/member/GMNeiksans",
+    "name": "Arturs Neiksans",
+    "username": "gmneiksans",
+    "title": "GM",
+    "followers": 3104,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "Riga",
+    "last_online": 1734162790,
+    "joined": 1331123138,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmneiksans",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmneiksans"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2498,
+            "date": 1708626970,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2742,
+            "date": 1586531024,
+            "game": "https://www.chess.com/game/live/100458888485"
+        },
+        "record": {
+            "win": 20,
+            "loss": 9,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2781,
+            "date": 1732466040,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2888,
+            "date": 1725870651,
+            "game": "https://www.chess.com/game/live/118504683951"
+        },
+        "record": {
+            "win": 537,
+            "loss": 284,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2904,
+            "date": 1732463434,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2960,
+            "date": 1729613482,
+            "game": "https://www.chess.com/game/live/86091613339"
+        },
+        "record": {
+            "win": 2619,
+            "loss": 1606,
+            "draw": 561
+        }
+    },
+    "fide": 2615,
+    "tactics": {
+        "highest": {
+            "rating": 4080,
+            "date": 1622646672
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1411992187
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 107,
+            "score": 104
+        }
+    }
+}

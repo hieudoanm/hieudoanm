@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5089075.edaa0b42.200x200o.248ae13461f7.jpeg",
+    "player_id": 5089075,
+    "@id": "https://api.chess.com/pub/player/hangemhigh",
+    "url": "https://www.chess.com/member/hangemhigh",
+    "name": "Albert Rich",
+    "username": "hangemhigh",
+    "title": "NM",
+    "followers": 173,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Cupertino",
+    "last_online": 1740532706,
+    "joined": 1304750988,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1920,
+            "date": 1727664258,
+            "rd": 174
+        },
+        "best": {
+            "rating": 2338,
+            "date": 1461115383,
+            "game": "https://www.chess.com/game/daily/109301606"
+        },
+        "record": {
+            "win": 589,
+            "loss": 89,
+            "draw": 47,
+            "time_per_move": 59376,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1940,
+            "date": 1424366300,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1974,
+            "date": 1424201690,
+            "game": "https://www.chess.com/game/daily/104494806"
+        },
+        "record": {
+            "win": 12,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 59376,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1234,
+            "date": 1691118710,
+            "rd": 317
+        },
+        "best": {
+            "rating": 1234,
+            "date": 1691118710,
+            "game": "https://www.chess.com/game/live/84855850649"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2379,
+            "date": 1477609059,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2259,
+            "date": 1396678439,
+            "game": "https://www.chess.com/game/live/768758706"
+        },
+        "record": {
+            "win": 394,
+            "loss": 227,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2412,
+            "date": 1734645883,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2539,
+            "date": 1701822774,
+            "game": "https://www.chess.com/game/live/93743941873"
+        },
+        "record": {
+            "win": 4590,
+            "loss": 2876,
+            "draw": 241
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2904,
+            "date": 1699638841
+        },
+        "lowest": {
+            "rating": 1347,
+            "date": 1304844347
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

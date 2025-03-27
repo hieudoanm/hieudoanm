@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5261806.3bc00522.200x200o.65de33f940fa.jpeg",
+    "player_id": 5261806,
+    "@id": "https://api.chess.com/pub/player/andro2",
+    "url": "https://www.chess.com/member/Andro2",
+    "name": "Andrija Obad",
+    "username": "andro2",
+    "title": "FM",
+    "followers": 113,
+    "country": "https://api.chess.com/pub/country/BA",
+    "location": "Tuzla",
+    "last_online": 1741370657,
+    "joined": 1307822602,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2376,
+            "date": 1659119700,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1658402529,
+            "game": "https://www.chess.com/game/live/52140038185"
+        },
+        "record": {
+            "win": 135,
+            "loss": 110,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2369,
+            "date": 1642848952,
+            "rd": 125
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1308147092,
+            "game": "https://www.chess.com/game/live/4394228855"
+        },
+        "record": {
+            "win": 6632,
+            "loss": 7349,
+            "draw": 413
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2403,
+            "date": 1709302646,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1577389413,
+            "game": "https://www.chess.com/game/live/5250797521"
+        },
+        "record": {
+            "win": 14330,
+            "loss": 15202,
+            "draw": 1709
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3261,
+            "date": 1737744595
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1343849946
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

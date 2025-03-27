@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18237038.9a61ab60.200x200o.f11cdf342b85.jpg",
+    "player_id": 18237038,
+    "@id": "https://api.chess.com/pub/player/superfast64",
+    "url": "https://www.chess.com/member/superfast64",
+    "name": "Wilson Spaqi",
+    "username": "superfast64",
+    "title": "NM",
+    "followers": 222,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741658896,
+    "joined": 1406411587,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2006,
+            "date": 1739438912,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2068,
+            "date": 1455486211,
+            "game": "https://www.chess.com/game/daily/128915474"
+        },
+        "record": {
+            "win": 52,
+            "loss": 6,
+            "draw": 4,
+            "time_per_move": 10132,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2503,
+            "date": 1704674935,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1704673792,
+            "game": "https://www.chess.com/game/live/98411639031"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2560,
+            "date": 1741025130,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1721508015,
+            "game": "https://www.chess.com/game/live/111267694849"
+        },
+        "record": {
+            "win": 5623,
+            "loss": 6029,
+            "draw": 856
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1738708102,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1721164077,
+            "game": "https://www.chess.com/game/live/113671244999"
+        },
+        "record": {
+            "win": 192,
+            "loss": 180,
+            "draw": 30
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3613,
+            "date": 1708735742
+        },
+        "lowest": {
+            "rating": 1363,
+            "date": 1425516916
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

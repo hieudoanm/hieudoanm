@@ -1,0 +1,103 @@
+{
+    "player_id": 26440822,
+    "@id": "https://api.chess.com/pub/player/patrisiii123",
+    "url": "https://www.chess.com/member/patrisiii123",
+    "name": "Patrick Gelbenegger",
+    "username": "patrisiii123",
+    "title": "CM",
+    "followers": 46,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1741553679,
+    "joined": 1454249048,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1654,
+            "date": 1705581724,
+            "rd": 118
+        },
+        "best": {
+            "rating": 1654,
+            "date": 1516950327,
+            "game": "https://www.chess.com/game/daily/180819782"
+        },
+        "record": {
+            "win": 15,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 9421,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1915,
+            "date": 1734709017,
+            "rd": 286
+        },
+        "best": {
+            "rating": 1917,
+            "date": 1492368522,
+            "game": "https://www.chess.com/game/live/2053155722"
+        },
+        "record": {
+            "win": 11,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2382,
+            "date": 1741553948,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2420,
+            "date": 1629672881,
+            "game": "https://www.chess.com/game/live/22428079413"
+        },
+        "record": {
+            "win": 1611,
+            "loss": 1504,
+            "draw": 177
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2321,
+            "date": 1741619735,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1569964297,
+            "game": "https://www.chess.com/game/live/4003223241"
+        },
+        "record": {
+            "win": 410,
+            "loss": 338,
+            "draw": 61
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2907,
+            "date": 1681654089
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1454261478
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

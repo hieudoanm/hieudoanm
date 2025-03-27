@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4493913.69b47c80.200x200o.52122e9db94d.jpeg",
+    "player_id": 4493913,
+    "@id": "https://api.chess.com/pub/player/leplusmortel",
+    "url": "https://www.chess.com/member/LePlusMortel",
+    "name": "Jan van de Mortel",
+    "username": "leplusmortel",
+    "title": "IM",
+    "followers": 123,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1723918657,
+    "joined": 1294005787,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2004,
+            "date": 1649863221,
+            "rd": 347
+        },
+        "best": {
+            "rating": 2004,
+            "date": 1625945985,
+            "game": "https://www.chess.com/game/live/18475294735"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2545,
+            "date": 1717978253,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1694964329,
+            "game": "https://www.chess.com/game/live/90862132501"
+        },
+        "record": {
+            "win": 12067,
+            "loss": 5335,
+            "draw": 754
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2521,
+            "date": 1681318130,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2758,
+            "date": 1580764378,
+            "game": "https://www.chess.com/game/live/4465960657"
+        },
+        "record": {
+            "win": 1101,
+            "loss": 586,
+            "draw": 156
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2853,
+            "date": 1509288381
+        },
+        "lowest": {
+            "rating": 2206,
+            "date": 1382925474
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19801752.737b845c.200x200o.442f18c10364.jpeg",
+    "player_id": 19801752,
+    "@id": "https://api.chess.com/pub/player/jkolly",
+    "url": "https://www.chess.com/member/JKolly",
+    "name": "Jacques Kolly",
+    "username": "jkolly",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/CH",
+    "location": "Fribourg",
+    "last_online": 1734939713,
+    "joined": 1416427953,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1372,
+            "date": 1735958305,
+            "rd": 200
+        },
+        "best": {
+            "rating": 1458,
+            "date": 1718620147,
+            "game": "https://www.chess.com/game/daily/607382019"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 98051,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2369,
+            "date": 1726753766,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1685305468,
+            "game": "https://www.chess.com/game/live/79043602045"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2304,
+            "date": 1741371997,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2572,
+            "date": 1726917665,
+            "game": "https://www.chess.com/game/live/126212376977"
+        },
+        "record": {
+            "win": 11943,
+            "loss": 10033,
+            "draw": 1411
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2484,
+            "date": 1737592094,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2635,
+            "date": 1695060967,
+            "game": "https://www.chess.com/game/live/126624025735"
+        },
+        "record": {
+            "win": 4593,
+            "loss": 3659,
+            "draw": 580
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3425,
+            "date": 1713302855
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1416436340
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

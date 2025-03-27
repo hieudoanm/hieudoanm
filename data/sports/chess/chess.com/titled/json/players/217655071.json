@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/217655071.62eb0552.200x200o.c1f671505440.jpg",
+    "player_id": 217655071,
+    "@id": "https://api.chess.com/pub/player/m_bozorov",
+    "url": "https://www.chess.com/member/M_Bozorov",
+    "name": "Makhsum Bozorov",
+    "username": "m_bozorov",
+    "title": "FM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "location": "Bukhara",
+    "last_online": 1740720479,
+    "joined": 1672251439,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2368,
+            "date": 1679332134,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2576,
+            "date": 1677430109,
+            "game": "https://www.chess.com/game/live/71168100035"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2352,
+            "date": 1679239224,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2393,
+            "date": 1672766060,
+            "game": "https://www.chess.com/game/live/70559774339"
+        },
+        "record": {
+            "win": 46,
+            "loss": 24,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2412,
+            "date": 1724439539,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1701962587,
+            "game": "https://www.chess.com/game/live/67710218689"
+        },
+        "record": {
+            "win": 551,
+            "loss": 503,
+            "draw": 127
+        }
+    },
+    "fide": 2145,
+    "tactics": {
+        "highest": {
+            "rating": 2703,
+            "date": 1677585907
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1672388215
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

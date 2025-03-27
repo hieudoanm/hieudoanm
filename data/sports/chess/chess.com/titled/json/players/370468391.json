@@ -1,0 +1,71 @@
+{
+    "player_id": 370468391,
+    "@id": "https://api.chess.com/pub/player/laurin_2009",
+    "url": "https://www.chess.com/member/Laurin_2009",
+    "name": "Laurin Jahnz",
+    "username": "laurin_2009",
+    "title": "CM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741650574,
+    "joined": 1718720121,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2547,
+            "date": 1741460400,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2646,
+            "date": 1723311040,
+            "game": "https://www.chess.com/game/live/119464181937"
+        },
+        "record": {
+            "win": 652,
+            "loss": 789,
+            "draw": 162
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2377,
+            "date": 1741369616,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2573,
+            "date": 1719241990,
+            "game": "https://www.chess.com/game/live/128190643805"
+        },
+        "record": {
+            "win": 173,
+            "loss": 200,
+            "draw": 44
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3058,
+            "date": 1740784828
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1718720121
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        },
+        "daily": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

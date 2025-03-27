@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41671830.21d554ed.200x200o.994833959d27.jpg",
+    "player_id": 41671830,
+    "@id": "https://api.chess.com/pub/player/pertinhez76",
+    "url": "https://www.chess.com/member/Pertinhez76",
+    "name": "Juan Luis Perti\u00f1ez",
+    "username": "pertinhez76",
+    "title": "CM",
+    "followers": 363,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Granada",
+    "last_online": 1741702801,
+    "joined": 1514226471,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2089,
+            "date": 1741702826,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2245,
+            "date": 1614873715,
+            "game": "https://www.chess.com/game/daily/287125408"
+        },
+        "record": {
+            "win": 1743,
+            "loss": 278,
+            "draw": 352,
+            "time_per_move": 42343,
+            "timeout_percent": 2
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1843,
+            "date": 1733853895,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1843,
+            "date": 1733853895,
+            "game": "https://www.chess.com/game/daily/667692293"
+        },
+        "record": {
+            "win": 43,
+            "loss": 12,
+            "draw": 7,
+            "time_per_move": 42343,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2057,
+            "date": 1738166725,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2077,
+            "date": 1604608757,
+            "game": "https://www.chess.com/game/live/32051401723"
+        },
+        "record": {
+            "win": 354,
+            "loss": 84,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2129,
+            "date": 1741471577,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1724940890,
+            "game": "https://www.chess.com/game/live/29629241241"
+        },
+        "record": {
+            "win": 2095,
+            "loss": 1050,
+            "draw": 108
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2204,
+            "date": 1737475418,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2320,
+            "date": 1720888982,
+            "game": "https://www.chess.com/game/live/6098296307"
+        },
+        "record": {
+            "win": 3265,
+            "loss": 1743,
+            "draw": 269
+        }
+    },
+    "fide": 2179,
+    "tactics": {
+        "highest": {
+            "rating": 3008,
+            "date": 1738163614
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1516371080
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

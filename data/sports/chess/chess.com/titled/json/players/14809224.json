@@ -1,0 +1,98 @@
+{
+    "player_id": 14809224,
+    "@id": "https://api.chess.com/pub/player/jaddiejiet",
+    "url": "https://www.chess.com/member/Jaddiejiet",
+    "username": "jaddiejiet",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741594195,
+    "joined": 1385985250,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 624,
+            "date": 1715255265,
+            "rd": 249
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 49797,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2573,
+            "date": 1689595283,
+            "rd": 226
+        },
+        "best": {
+            "rating": 2573,
+            "date": 1689595282,
+            "game": "https://www.chess.com/game/live/83333722249"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2457,
+            "date": 1741354227,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2489,
+            "date": 1738579637,
+            "game": "https://www.chess.com/game/live/128600556563"
+        },
+        "record": {
+            "win": 478,
+            "loss": 336,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2326,
+            "date": 1741198084,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2545,
+            "date": 1689430568,
+            "game": "https://www.chess.com/game/live/5611658019"
+        },
+        "record": {
+            "win": 600,
+            "loss": 406,
+            "draw": 64
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3266,
+            "date": 1714396898
+        },
+        "lowest": {
+            "rating": 1242,
+            "date": 1460059873
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

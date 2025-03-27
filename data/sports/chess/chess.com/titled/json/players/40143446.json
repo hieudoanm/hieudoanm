@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40143446.3c971fff.200x200o.50293427036b.jpeg",
+    "player_id": 40143446,
+    "@id": "https://api.chess.com/pub/player/temus_galaktionov",
+    "url": "https://www.chess.com/member/temus_galaktionov",
+    "name": "Artem Galaktionov",
+    "username": "temus_galaktionov",
+    "title": "FM",
+    "followers": 90,
+    "country": "https://api.chess.com/pub/country/AE",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1741633837,
+    "joined": 1510074877,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2290,
+            "date": 1741658231,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2363,
+            "date": 1591564277,
+            "game": "https://www.chess.com/game/daily/214901260"
+        },
+        "record": {
+            "win": 134,
+            "loss": 36,
+            "draw": 33,
+            "time_per_move": 62474,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1943,
+            "date": 1612982857,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2040,
+            "date": 1594773602,
+            "game": "https://www.chess.com/game/daily/247971286"
+        },
+        "record": {
+            "win": 18,
+            "loss": 8,
+            "draw": 4,
+            "time_per_move": 62474,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2259,
+            "date": 1678356341,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1590853862,
+            "game": "https://www.chess.com/game/live/4925074609"
+        },
+        "record": {
+            "win": 23,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2871,
+            "date": 1739222010,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2875,
+            "date": 1739128575,
+            "game": "https://www.chess.com/game/live/104077789881"
+        },
+        "record": {
+            "win": 296,
+            "loss": 198,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2920,
+            "date": 1741302331,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2954,
+            "date": 1709840584,
+            "game": "https://www.chess.com/game/live/101937259045"
+        },
+        "record": {
+            "win": 2180,
+            "loss": 2199,
+            "draw": 552
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 4018,
+            "date": 1528470327
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1510077571
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 92,
+            "score": 89
+        }
+    }
+}

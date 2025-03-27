@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3959271.006394cd.200x200o.5c238ee30ab9.jpg",
+    "player_id": 3959271,
+    "@id": "https://api.chess.com/pub/player/acciochess",
+    "url": "https://www.chess.com/member/AccioChess",
+    "name": "Padmini Rout",
+    "username": "acciochess",
+    "title": "IM",
+    "followers": 264,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741518638,
+    "joined": 1284139737,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2244,
+            "date": 1726852600,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2674,
+            "date": 1589541889,
+            "game": "https://www.chess.com/game/live/4858986887"
+        },
+        "record": {
+            "win": 35,
+            "loss": 22,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2513,
+            "date": 1731336144,
+            "rd": 144
+        },
+        "best": {
+            "rating": 2575,
+            "date": 1624284240,
+            "game": "https://www.chess.com/game/live/73505075627"
+        },
+        "record": {
+            "win": 155,
+            "loss": 142,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2510,
+            "date": 1738692811,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1641324584,
+            "game": "https://www.chess.com/game/live/128190038727"
+        },
+        "record": {
+            "win": 595,
+            "loss": 534,
+            "draw": 87
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3350,
+            "date": 1624600979
+        },
+        "lowest": {
+            "rating": 2063,
+            "date": 1427180489
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

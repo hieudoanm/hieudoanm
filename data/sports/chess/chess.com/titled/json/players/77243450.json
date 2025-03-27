@@ -1,0 +1,98 @@
+{
+    "player_id": 77243450,
+    "@id": "https://api.chess.com/pub/player/peace_b_ird2015",
+    "url": "https://www.chess.com/member/peace_b_ird2015",
+    "username": "peace_b_ird2015",
+    "title": "WCM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1717619169,
+    "joined": 1587337650,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1462,
+            "date": 1741580683,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2027,
+            "date": 1626186002,
+            "game": "https://www.chess.com/game/daily/432824741"
+        },
+        "record": {
+            "win": 9,
+            "loss": 9,
+            "draw": 4,
+            "time_per_move": 165335,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2054,
+            "date": 1695415718,
+            "rd": 253
+        },
+        "best": {
+            "rating": 2054,
+            "date": 1679607266,
+            "game": "https://www.chess.com/game/live/12357397147"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2044,
+            "date": 1679608732,
+            "rd": 349
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2004,
+            "date": 1717119303,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2112,
+            "date": 1686766506,
+            "game": "https://www.chess.com/game/live/80505042433"
+        },
+        "record": {
+            "win": 34,
+            "loss": 21,
+            "draw": 5
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3046,
+            "date": 1673801707
+        },
+        "lowest": {
+            "rating": 1185,
+            "date": 1608510888
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

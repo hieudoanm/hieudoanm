@@ -1,0 +1,61 @@
+{
+    "player_id": 405658595,
+    "@id": "https://api.chess.com/pub/player/slayertrash",
+    "url": "https://www.chess.com/member/SlayerTrash",
+    "username": "slayertrash",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1736029549,
+    "joined": 1732818559,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2424,
+            "date": 1733683936,
+            "rd": 253
+        },
+        "best": {
+            "rating": 2424,
+            "date": 1733683936,
+            "game": "https://www.chess.com/game/live/127422664855"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2470,
+            "date": 1736029854,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1736029854,
+            "game": "https://www.chess.com/game/live/127522860993"
+        },
+        "record": {
+            "win": 179,
+            "loss": 111,
+            "draw": 18
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1732818559
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1732818559
+        }
+    },
+    "puzzle_rush": {}
+}

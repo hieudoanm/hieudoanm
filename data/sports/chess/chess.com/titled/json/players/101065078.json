@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/101065078.351fa587.200x200o.95c808828be4.jpg",
+    "player_id": 101065078,
+    "@id": "https://api.chess.com/pub/player/ningyzhou",
+    "url": "https://www.chess.com/member/ningyzhou",
+    "name": "Emujin Enkh-Amgalan",
+    "username": "ningyzhou",
+    "title": "WCM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/MN",
+    "location": "Ulaanbaatar",
+    "last_online": 1741655623,
+    "joined": 1606888144,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1905,
+            "date": 1729575588,
+            "rd": 155
+        },
+        "best": {
+            "rating": 1905,
+            "date": 1729575042,
+            "game": "https://www.chess.com/game/live/90945696199"
+        },
+        "record": {
+            "win": 22,
+            "loss": 6,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2126,
+            "date": 1729575709,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2126,
+            "date": 1729046914,
+            "game": "https://www.chess.com/game/live/122785487203"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2447,
+            "date": 1741507518,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1740503349,
+            "game": "https://www.chess.com/game/live/134238558977"
+        },
+        "record": {
+            "win": 339,
+            "loss": 229,
+            "draw": 45
+        }
+    },
+    "fide": 1905,
+    "tactics": {
+        "highest": {
+            "rating": 3346,
+            "date": 1741506841
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1606888144
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 46
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "player_id": 94047516,
+    "@id": "https://api.chess.com/pub/player/slorovel",
+    "url": "https://www.chess.com/member/slorovel",
+    "name": "Rudi Olenik Campa",
+    "username": "slorovel",
+    "title": "FM",
+    "followers": 212,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1741695539,
+    "joined": 1603748759,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1341,
+            "date": 1741619244,
+            "rd": 17
+        },
+        "best": {
+            "rating": 1808,
+            "date": 1676874832,
+            "game": "https://www.chess.com/game/daily/468272331"
+        },
+        "record": {
+            "win": 440,
+            "loss": 406,
+            "draw": 48,
+            "time_per_move": 23707,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2391,
+            "date": 1735917235,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2476,
+            "date": 1650117097,
+            "game": "https://www.chess.com/game/live/40245585207"
+        },
+        "record": {
+            "win": 178,
+            "loss": 146,
+            "draw": 70
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2405,
+            "date": 1741641187,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1721237575,
+            "game": "https://www.chess.com/game/live/95279997457"
+        },
+        "record": {
+            "win": 542,
+            "loss": 612,
+            "draw": 76
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2711,
+            "date": 1741686950,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1730478642,
+            "game": "https://www.chess.com/game/live/94948815853"
+        },
+        "record": {
+            "win": 3363,
+            "loss": 3797,
+            "draw": 861
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3613,
+            "date": 1699563148
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1606980076
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

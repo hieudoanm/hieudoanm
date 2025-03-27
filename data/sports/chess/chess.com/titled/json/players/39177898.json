@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39177898.cbede648.200x200o.ee7394cb6b23.jpeg",
+    "player_id": 39177898,
+    "@id": "https://api.chess.com/pub/player/onwgs",
+    "url": "https://www.chess.com/member/Onwgs",
+    "name": "Pratik Patil",
+    "username": "onwgs",
+    "title": "CM",
+    "followers": 162,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Nashik, Maharashtra",
+    "last_online": 1741425155,
+    "joined": 1507144076,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1606,
+            "date": 1688150717,
+            "rd": 261
+        },
+        "best": {
+            "rating": 1606,
+            "date": 1591004676,
+            "game": "https://www.chess.com/game/daily/264753712"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 35730,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2070,
+            "date": 1741317015,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2281,
+            "date": 1605770854,
+            "game": "https://www.chess.com/game/live/50827755231"
+        },
+        "record": {
+            "win": 93,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2317,
+            "date": 1730358579,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2424,
+            "date": 1603449275,
+            "game": "https://www.chess.com/game/live/4519756043"
+        },
+        "record": {
+            "win": 223,
+            "loss": 73,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2139,
+            "date": 1731664946,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1587494365,
+            "game": "https://www.chess.com/game/live/4726300933"
+        },
+        "record": {
+            "win": 248,
+            "loss": 58,
+            "draw": 16
+        }
+    },
+    "fide": 2226,
+    "tactics": {
+        "highest": {
+            "rating": 3030,
+            "date": 1734087340
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1572761648
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

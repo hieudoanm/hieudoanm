@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17668400.62db9b8f.200x200o.19fb33e8077d.png",
+    "player_id": 17668400,
+    "@id": "https://api.chess.com/pub/player/cirky",
+    "url": "https://www.chess.com/member/Cirky",
+    "name": "Maj Zirkelbach",
+    "username": "cirky",
+    "title": "FM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/SI",
+    "location": "Novo mesto",
+    "last_online": 1741639312,
+    "joined": 1402600756,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1540,
+            "date": 1739395938,
+            "rd": 212
+        },
+        "best": {
+            "rating": 1540,
+            "date": 1739395937,
+            "game": "https://www.chess.com/game/daily/758422471"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 30919,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2239,
+            "date": 1681148115,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2355,
+            "date": 1677524841,
+            "game": "https://www.chess.com/game/live/74877840669"
+        },
+        "record": {
+            "win": 26,
+            "loss": 13,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2590,
+            "date": 1741525227,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2785,
+            "date": 1734813527,
+            "game": "https://www.chess.com/game/live/116612417117"
+        },
+        "record": {
+            "win": 4920,
+            "loss": 6286,
+            "draw": 874
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2607,
+            "date": 1741644283,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2635,
+            "date": 1724184665,
+            "game": "https://www.chess.com/game/live/57943183733"
+        },
+        "record": {
+            "win": 3340,
+            "loss": 3906,
+            "draw": 652
+        }
+    },
+    "fide": 2321,
+    "tactics": {
+        "highest": {
+            "rating": 3238,
+            "date": 1709638336
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1532091973
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

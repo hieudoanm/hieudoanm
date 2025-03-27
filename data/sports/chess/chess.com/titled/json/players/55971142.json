@@ -1,0 +1,104 @@
+{
+    "player_id": 55971142,
+    "@id": "https://api.chess.com/pub/player/weaintsurepal",
+    "url": "https://www.chess.com/member/WeAintSurePal",
+    "name": "Joakim Nilsson",
+    "username": "weaintsurepal",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1741628215,
+    "joined": 1547484287,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1758,
+            "date": 1650356920,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1610024975,
+            "game": "https://www.chess.com/game/daily/318693308"
+        },
+        "record": {
+            "win": 30,
+            "loss": 14,
+            "draw": 0,
+            "time_per_move": 12856,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2317,
+            "date": 1658433317,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1658433317,
+            "game": "https://www.chess.com/game/live/52171257177"
+        },
+        "record": {
+            "win": 15,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2424,
+            "date": 1741635040,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2593,
+            "date": 1736959790,
+            "game": "https://www.chess.com/game/live/133304359243"
+        },
+        "record": {
+            "win": 1266,
+            "loss": 1160,
+            "draw": 160
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2513,
+            "date": 1741632940,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1734289944,
+            "game": "https://www.chess.com/game/live/97345314131"
+        },
+        "record": {
+            "win": 1999,
+            "loss": 1867,
+            "draw": 339
+        }
+    },
+    "fide": 2215,
+    "tactics": {
+        "highest": {
+            "rating": 3229,
+            "date": 1739095435
+        },
+        "lowest": {
+            "rating": 244,
+            "date": 1557250340
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 42
+        }
+    }
+}

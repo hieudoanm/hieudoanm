@@ -1,0 +1,124 @@
+{
+    "player_id": 59187704,
+    "@id": "https://api.chess.com/pub/player/surrenderpls",
+    "url": "https://www.chess.com/member/surrenderPLS",
+    "name": "Arseniy Shturman",
+    "username": "surrenderpls",
+    "title": "CM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Chess",
+    "last_online": 1735055954,
+    "joined": 1553945815,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1648,
+            "date": 1732742940,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1876,
+            "date": 1723659852,
+            "game": "https://www.chess.com/game/daily/299147072"
+        },
+        "record": {
+            "win": 277,
+            "loss": 115,
+            "draw": 21,
+            "time_per_move": 30095,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1385,
+            "date": 1616923203,
+            "rd": 152
+        },
+        "best": {
+            "rating": 1385,
+            "date": 1590243777,
+            "game": "https://www.chess.com/game/daily/321156830"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 30095,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2032,
+            "date": 1719464669,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2032,
+            "date": 1719292597,
+            "game": "https://www.chess.com/game/live/113030405911"
+        },
+        "record": {
+            "win": 62,
+            "loss": 31,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2672,
+            "date": 1734023668,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2672,
+            "date": 1734023667,
+            "game": "https://www.chess.com/game/live/113723416957"
+        },
+        "record": {
+            "win": 299,
+            "loss": 153,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2519,
+            "date": 1735057623,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1684857202,
+            "game": "https://www.chess.com/game/live/111856984717"
+        },
+        "record": {
+            "win": 273,
+            "loss": 166,
+            "draw": 42
+        }
+    },
+    "fide": 2190,
+    "tactics": {
+        "highest": {
+            "rating": 3430,
+            "date": 1719838777
+        },
+        "lowest": {
+            "rating": 823,
+            "date": 1553957829
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

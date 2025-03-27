@@ -1,0 +1,67 @@
+{
+    "player_id": 86123936,
+    "@id": "https://api.chess.com/pub/player/pervincaperiwinkle",
+    "url": "https://www.chess.com/member/PervincaPeriwinkle",
+    "name": "Alicia Alarcon Morales",
+    "username": "pervincaperiwinkle",
+    "title": "WCM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1682909419,
+    "joined": 1594197500,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1780,
+            "date": 1594888676,
+            "rd": 111
+        },
+        "best": {
+            "rating": 1724,
+            "date": 1594773722,
+            "game": "https://www.chess.com/game/live/5157243142"
+        },
+        "record": {
+            "win": 4,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1728,
+            "date": 1627964193,
+            "rd": 109
+        },
+        "best": {
+            "rating": 1799,
+            "date": 1627963630,
+            "game": "https://www.chess.com/game/live/5151673343"
+        },
+        "record": {
+            "win": 20,
+            "loss": 13,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1870,
+            "date": 1605304756
+        },
+        "lowest": {
+            "rating": 1800,
+            "date": 1595399506
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

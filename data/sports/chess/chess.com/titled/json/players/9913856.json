@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9913856.e3c076aa.200x200o.2e3b4f07d04f.jpeg",
+    "player_id": 9913856,
+    "@id": "https://api.chess.com/pub/player/frank0288",
+    "url": "https://www.chess.com/member/frank0288",
+    "name": "Marty Frank",
+    "username": "frank0288",
+    "title": "NM",
+    "followers": 257,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Lancaster, PA",
+    "last_online": 1741697290,
+    "joined": 1354806896,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2425,
+            "date": 1707476275,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1514141020,
+            "game": "https://www.chess.com/game/daily/133360370"
+        },
+        "record": {
+            "win": 483,
+            "loss": 115,
+            "draw": 82,
+            "time_per_move": 24809,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2111,
+            "date": 1546633430,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2111,
+            "date": 1546633430,
+            "game": "https://www.chess.com/game/daily/199940274"
+        },
+        "record": {
+            "win": 45,
+            "loss": 12,
+            "draw": 5,
+            "time_per_move": 24809,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2202,
+            "date": 1737036129,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2334,
+            "date": 1663795461,
+            "game": "https://www.chess.com/game/live/57533909381"
+        },
+        "record": {
+            "win": 72,
+            "loss": 44,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1829,
+            "date": 1715985469,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2049,
+            "date": 1432864138,
+            "game": "https://www.chess.com/game/live/109723875051"
+        },
+        "record": {
+            "win": 20,
+            "loss": 15,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2194,
+            "date": 1741702782,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2335,
+            "date": 1648745932,
+            "game": "https://www.chess.com/game/live/110811694303"
+        },
+        "record": {
+            "win": 16763,
+            "loss": 14563,
+            "draw": 1907
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3090,
+            "date": 1726158004
+        },
+        "lowest": {
+            "rating": 1365,
+            "date": 1354806933
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

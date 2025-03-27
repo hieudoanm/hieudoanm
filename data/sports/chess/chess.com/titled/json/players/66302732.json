@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66302732.321459e3.200x200o.d8b537cd3ff8.jpg",
+    "player_id": 66302732,
+    "@id": "https://api.chess.com/pub/player/hsd2016",
+    "url": "https://www.chess.com/member/hsd2016",
+    "name": "Huseyin Said Deveci",
+    "username": "hsd2016",
+    "title": "CM",
+    "followers": 149,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741590578,
+    "joined": 1570255679,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1663,
+            "date": 1738324552,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2140,
+            "date": 1594879230,
+            "game": "https://www.chess.com/game/daily/276606394"
+        },
+        "record": {
+            "win": 92,
+            "loss": 36,
+            "draw": 18,
+            "time_per_move": 50822,
+            "timeout_percent": 4
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2208,
+            "date": 1693851412,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2235,
+            "date": 1689329734,
+            "game": "https://www.chess.com/game/live/75662719523"
+        },
+        "record": {
+            "win": 134,
+            "loss": 103,
+            "draw": 25
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2445,
+            "date": 1739640270,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2682,
+            "date": 1715444975,
+            "game": "https://www.chess.com/game/live/109186238903"
+        },
+        "record": {
+            "win": 480,
+            "loss": 505,
+            "draw": 60
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1741256070,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1739699759,
+            "game": "https://www.chess.com/game/live/131214679607"
+        },
+        "record": {
+            "win": 1092,
+            "loss": 1389,
+            "draw": 175
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3602,
+            "date": 1717511530
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1570258709
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

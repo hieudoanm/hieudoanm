@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/282841337.c6580f16.200x200o.d5d290d2f8e8.jpg",
+    "player_id": 282841337,
+    "@id": "https://api.chess.com/pub/player/the_straightforward_rook",
+    "url": "https://www.chess.com/member/The_Straightforward_Rook",
+    "name": "Ioan Rees",
+    "username": "the_straightforward_rook",
+    "title": "FM",
+    "followers": 101,
+    "country": "https://api.chess.com/pub/country/XW",
+    "last_online": 1741291989,
+    "joined": 1683357171,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1744,
+            "date": 1741647294,
+            "rd": 89
+        },
+        "best": {
+            "rating": 1967,
+            "date": 1690877191,
+            "game": "https://www.chess.com/game/daily/594604277"
+        },
+        "record": {
+            "win": 156,
+            "loss": 47,
+            "draw": 24,
+            "time_per_move": 17665,
+            "timeout_percent": 6
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2408,
+            "date": 1738188154,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1718490660,
+            "game": "https://www.chess.com/game/live/110579590277"
+        },
+        "record": {
+            "win": 55,
+            "loss": 35,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2392,
+            "date": 1709060216,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2480,
+            "date": 1700253303,
+            "game": "https://www.chess.com/game/live/92273519819"
+        },
+        "record": {
+            "win": 388,
+            "loss": 355,
+            "draw": 64
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2568,
+            "date": 1741130977,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1721769516,
+            "game": "https://www.chess.com/game/live/131818854225"
+        },
+        "record": {
+            "win": 1683,
+            "loss": 1579,
+            "draw": 354
+        }
+    },
+    "fide": 2293,
+    "tactics": {
+        "highest": {
+            "rating": 3610,
+            "date": 1712129672
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1683357171
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

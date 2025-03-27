@@ -1,0 +1,72 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/366604225.017197e3.200x200o.dd252d9eccee.png",
+    "player_id": 366604225,
+    "@id": "https://api.chess.com/pub/player/notthebishopsacrifice",
+    "url": "https://www.chess.com/member/NottheBishopSacrifice",
+    "name": "Indy Southcott-Moyers",
+    "username": "notthebishopsacrifice",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741682622,
+    "joined": 1717168987,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2570,
+            "date": 1738436309,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1738429954,
+            "game": "https://www.chess.com/game/live/132168673189"
+        },
+        "record": {
+            "win": 8,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2653,
+            "date": 1741370397,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1732639484,
+            "game": "https://www.chess.com/game/live/129400420095"
+        },
+        "record": {
+            "win": 235,
+            "loss": 123,
+            "draw": 51
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2574,
+            "date": 1734692973
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1717168987
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        },
+        "daily": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

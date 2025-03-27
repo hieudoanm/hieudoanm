@@ -1,0 +1,104 @@
+{
+    "player_id": 28746136,
+    "@id": "https://api.chess.com/pub/player/nikolaj_6",
+    "url": "https://www.chess.com/member/Nikolaj_6",
+    "name": "Nikolai Aliavdin",
+    "username": "nikolaj_6",
+    "title": "IM",
+    "followers": 107,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Zielona G\u00f3ra",
+    "last_online": 1741631749,
+    "joined": 1466621650,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1569,
+            "date": 1733429960,
+            "rd": 164
+        },
+        "best": {
+            "rating": 1569,
+            "date": 1733429960,
+            "game": "https://www.chess.com/game/daily/227638720"
+        },
+        "record": {
+            "win": 21,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 59603,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2149,
+            "date": 1663389428,
+            "rd": 184
+        },
+        "best": {
+            "rating": 2149,
+            "date": 1663389428,
+            "game": "https://www.chess.com/game/live/3876268221"
+        },
+        "record": {
+            "win": 198,
+            "loss": 85,
+            "draw": 43
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2552,
+            "date": 1548146391,
+            "rd": 16
+        },
+        "best": {
+            "rating": 2474,
+            "date": 1547943815,
+            "game": "https://www.chess.com/game/live/2115425016"
+        },
+        "record": {
+            "win": 3732,
+            "loss": 3031,
+            "draw": 488
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2705,
+            "date": 1728889359,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2718,
+            "date": 1610694599,
+            "game": "https://www.chess.com/game/live/13887843799"
+        },
+        "record": {
+            "win": 7544,
+            "loss": 5829,
+            "draw": 1877
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3906,
+            "date": 1741243517
+        },
+        "lowest": {
+            "rating": 1348,
+            "date": 1483005979
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 70
+        }
+    }
+}

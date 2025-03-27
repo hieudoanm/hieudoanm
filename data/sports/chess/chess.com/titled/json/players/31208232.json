@@ -1,0 +1,129 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31208232.db9137fb.200x200o.366f9300fcc5.jpg",
+    "player_id": 31208232,
+    "@id": "https://api.chess.com/pub/player/habadra",
+    "url": "https://www.chess.com/member/habadra",
+    "name": "Raul Adrian Habiaga",
+    "username": "habadra",
+    "title": "NM",
+    "followers": 170,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Ciudad Aut\u00f3noma de buenos aires",
+    "last_online": 1741700572,
+    "joined": 1480279391,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1854,
+            "date": 1741548509,
+            "rd": 139
+        },
+        "best": {
+            "rating": 1908,
+            "date": 1537476349,
+            "game": "https://www.chess.com/game/daily/178068978"
+        },
+        "record": {
+            "win": 171,
+            "loss": 93,
+            "draw": 15,
+            "time_per_move": 64202,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1542,
+            "date": 1733596755,
+            "rd": 177
+        },
+        "best": {
+            "rating": 1814,
+            "date": 1539972496,
+            "game": "https://www.chess.com/game/daily/183909744"
+        },
+        "record": {
+            "win": 65,
+            "loss": 46,
+            "draw": 4,
+            "time_per_move": 64202,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2047,
+            "date": 1728071594,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2217,
+            "date": 1604276404,
+            "game": "https://www.chess.com/game/live/23920680043"
+        },
+        "record": {
+            "win": 221,
+            "loss": 222,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2040,
+            "date": 1741592399,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2256,
+            "date": 1706808663,
+            "game": "https://www.chess.com/game/live/3886189222"
+        },
+        "record": {
+            "win": 6016,
+            "loss": 5858,
+            "draw": 325
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1741356183,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2376,
+            "date": 1609363201,
+            "game": "https://www.chess.com/game/live/3753892873"
+        },
+        "record": {
+            "win": 11084,
+            "loss": 11661,
+            "draw": 971
+        }
+    },
+    "fide": 1987,
+    "tactics": {
+        "highest": {
+            "rating": 3313,
+            "date": 1706045497
+        },
+        "lowest": {
+            "rating": 1237,
+            "date": 1480280649
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        },
+        "daily": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

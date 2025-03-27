@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73434433.37f9b0c3.200x200o.e4a89141b954.jpeg",
+    "player_id": 73434433,
+    "@id": "https://api.chess.com/pub/player/mirandamikadze",
+    "url": "https://www.chess.com/member/mirandamikadze",
+    "name": "Miranda Mikadze",
+    "username": "mirandamikadze",
+    "title": "WGM",
+    "followers": 248,
+    "country": "https://api.chess.com/pub/country/GE",
+    "location": "tbilisi",
+    "last_online": 1741700050,
+    "joined": 1584085543,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1457,
+            "date": 1736846990,
+            "rd": 61
+        },
+        "best": {
+            "rating": 1888,
+            "date": 1588624803,
+            "game": "https://www.chess.com/game/daily/261113362"
+        },
+        "record": {
+            "win": 46,
+            "loss": 24,
+            "draw": 1,
+            "time_per_move": 63079,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1974,
+            "date": 1589735918,
+            "rd": 218
+        },
+        "best": {
+            "rating": 1974,
+            "date": 1589735918,
+            "game": "https://www.chess.com/game/daily/261995152"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 63079,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1839,
+            "date": 1679066810,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1590423913,
+            "game": "https://www.chess.com/game/live/5955689250"
+        },
+        "record": {
+            "win": 33,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1923,
+            "date": 1734981971,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2069,
+            "date": 1585770868,
+            "game": "https://www.chess.com/game/live/4748163101"
+        },
+        "record": {
+            "win": 201,
+            "loss": 164,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2351,
+            "date": 1741547898,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2455,
+            "date": 1673898656,
+            "game": "https://www.chess.com/game/live/132058885019"
+        },
+        "record": {
+            "win": 784,
+            "loss": 660,
+            "draw": 125
+        }
+    },
+    "fide": 2269,
+    "tactics": {
+        "highest": {
+            "rating": 2908,
+            "date": 1734553748
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1584129876
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

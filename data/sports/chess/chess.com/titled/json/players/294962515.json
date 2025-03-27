@@ -1,0 +1,36 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/294962515.ee29a2a6.200x200o.ec3f7a2465f7.jpg",
+    "player_id": 294962515,
+    "@id": "https://api.chess.com/pub/player/thebutcher",
+    "url": "https://www.chess.com/member/TheButcher",
+    "name": "Miodrag Perunovic",
+    "username": "thebutcher",
+    "title": "IM",
+    "followers": 141,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Nis",
+    "last_online": 1741627202,
+    "joined": 1687297869,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "fide": 2400,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1687297869
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1687297869
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

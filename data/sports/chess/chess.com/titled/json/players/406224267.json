@@ -1,0 +1,47 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/406224267.639965c4.200x200o.7c9d39cb00cb.jpg",
+    "player_id": 406224267,
+    "@id": "https://api.chess.com/pub/player/nicky_mf",
+    "url": "https://www.chess.com/member/Nicky_MF",
+    "name": "Iris Nicole Mollo Figueroa",
+    "username": "nicky_mf",
+    "title": "WFM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/BO",
+    "location": "Lima, Per\u00fa",
+    "last_online": 1741550570,
+    "joined": 1733038966,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2127,
+            "date": 1734480375,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1734480374,
+            "game": "https://www.chess.com/game/live/128194748767"
+        },
+        "record": {
+            "win": 12,
+            "loss": 11,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2124,
+            "date": 1734469644
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1733038966
+        }
+    },
+    "puzzle_rush": {}
+}

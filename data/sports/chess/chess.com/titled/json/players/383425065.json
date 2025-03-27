@@ -1,0 +1,68 @@
+{
+    "player_id": 383425065,
+    "@id": "https://api.chess.com/pub/player/icg-paja",
+    "url": "https://www.chess.com/member/ICG-Paja",
+    "name": "Pavel Haase",
+    "username": "icg-paja",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741372831,
+    "joined": 1724688863,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1867,
+            "date": 1741373551,
+            "rd": 57
+        },
+        "best": {
+            "rating": 1959,
+            "date": 1725885177,
+            "game": "https://www.chess.com/game/live/127605598529"
+        },
+        "record": {
+            "win": 133,
+            "loss": 104,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2045,
+            "date": 1731417235,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2158,
+            "date": 1725354579,
+            "game": "https://www.chess.com/game/live/124969740027"
+        },
+        "record": {
+            "win": 17,
+            "loss": 14,
+            "draw": 3
+        }
+    },
+    "fide": 2133,
+    "tactics": {
+        "highest": {
+            "rating": 3007,
+            "date": 1733525907
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1724688863
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

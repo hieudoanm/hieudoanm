@@ -1,0 +1,28 @@
+{
+    "player_id": 80647092,
+    "@id": "https://api.chess.com/pub/player/elfantosz",
+    "url": "https://www.chess.com/member/Elfantosz",
+    "name": "Imre Fancsy",
+    "username": "elfantosz",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1712166507,
+    "joined": 1590574511,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2405,
+            "date": 1672914046
+        },
+        "lowest": {
+            "rating": 2405,
+            "date": 1672914046
+        }
+    },
+    "puzzle_rush": {}
+}

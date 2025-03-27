@@ -1,0 +1,79 @@
+{
+    "player_id": 50686468,
+    "@id": "https://api.chess.com/pub/player/paladin_ll",
+    "url": "https://www.chess.com/member/paladin_ll",
+    "username": "paladin_ll",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "location": "Baku",
+    "last_online": 1741589462,
+    "joined": 1539373665,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1351,
+            "date": 1692274708,
+            "rd": 346
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1862,
+            "date": 1740301560,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2434,
+            "date": 1702744716,
+            "game": "https://www.chess.com/game/live/134039948551"
+        },
+        "record": {
+            "win": 38,
+            "loss": 15,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2218,
+            "date": 1741698852,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1565197877,
+            "game": "https://www.chess.com/game/live/100974224625"
+        },
+        "record": {
+            "win": 3757,
+            "loss": 3683,
+            "draw": 525
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2788,
+            "date": 1645038878
+        },
+        "lowest": {
+            "rating": 1956,
+            "date": 1541613618
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

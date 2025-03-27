@@ -1,0 +1,103 @@
+{
+    "player_id": 33128289,
+    "@id": "https://api.chess.com/pub/player/wang5ter",
+    "url": "https://www.chess.com/member/wang5ter",
+    "name": "Henry Wang",
+    "username": "wang5ter",
+    "title": "NM",
+    "followers": 138,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741631604,
+    "joined": 1486858812,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1584,
+            "date": 1712458320,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2082,
+            "date": 1498616639,
+            "game": "https://www.chess.com/game/daily/168271226"
+        },
+        "record": {
+            "win": 41,
+            "loss": 14,
+            "draw": 3,
+            "time_per_move": 86291,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2314,
+            "date": 1737873158,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1640856325,
+            "game": "https://www.chess.com/game/live/124066263259"
+        },
+        "record": {
+            "win": 16,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2512,
+            "date": 1741170125,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2502,
+            "date": 1739263180,
+            "game": "https://www.chess.com/game/live/133001969381"
+        },
+        "record": {
+            "win": 2226,
+            "loss": 2158,
+            "draw": 190
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2274,
+            "date": 1741506381,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1722645855,
+            "game": "https://www.chess.com/game/live/78734485653"
+        },
+        "record": {
+            "win": 6024,
+            "loss": 6347,
+            "draw": 682
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3377,
+            "date": 1734591340
+        },
+        "lowest": {
+            "rating": 1198,
+            "date": 1504736972
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

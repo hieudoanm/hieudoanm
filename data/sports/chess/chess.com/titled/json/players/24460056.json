@@ -1,0 +1,67 @@
+{
+    "player_id": 24460056,
+    "@id": "https://api.chess.com/pub/player/sinisterknight8",
+    "url": "https://www.chess.com/member/SinisterKnight8",
+    "name": "Oleksandr Vasynda",
+    "username": "sinisterknight8",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741674064,
+    "joined": 1444195373,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2410,
+            "date": 1723881875,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2481,
+            "date": 1713338528,
+            "game": "https://www.chess.com/game/live/117620378013"
+        },
+        "record": {
+            "win": 90,
+            "loss": 65,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2419,
+            "date": 1741684479,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1738683546,
+            "game": "https://www.chess.com/game/live/120325269133"
+        },
+        "record": {
+            "win": 750,
+            "loss": 664,
+            "draw": 102
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3540,
+            "date": 1718774524
+        },
+        "lowest": {
+            "rating": 1194,
+            "date": 1520019198
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28741730.596b678c.200x200o.f0f29a04c99f.jpeg",
+    "player_id": 28741730,
+    "@id": "https://api.chess.com/pub/player/gm_igor_smirnov",
+    "url": "https://www.chess.com/member/GM_Igor_Smirnov",
+    "name": "Igor Smirnov",
+    "username": "gm_igor_smirnov",
+    "title": "GM",
+    "followers": 521,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1733638210,
+    "joined": 1466599582,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "fide": 2496,
+    "tactics": {
+        "highest": {
+            "rating": 3410,
+            "date": 1729171027
+        },
+        "lowest": {
+            "rating": 2200,
+            "date": 1645542087
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

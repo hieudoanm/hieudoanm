@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/119403224.82c31717.200x200o.e967c6d8c40e.jpg",
+    "player_id": 119403224,
+    "@id": "https://api.chess.com/pub/player/chessmissile07",
+    "url": "https://www.chess.com/member/Chessmissile07",
+    "name": "Suresh Harsh",
+    "username": "chessmissile07",
+    "title": "IM",
+    "followers": 149,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741684833,
+    "joined": 1612775544,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2419,
+            "date": 1726858973,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1676305138,
+            "game": "https://www.chess.com/game/live/74887534027"
+        },
+        "record": {
+            "win": 65,
+            "loss": 32,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2812,
+            "date": 1729360753,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2901,
+            "date": 1703359081,
+            "game": "https://www.chess.com/game/live/104344199103"
+        },
+        "record": {
+            "win": 1717,
+            "loss": 1307,
+            "draw": 200
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2939,
+            "date": 1741111727,
+            "rd": 45
+        },
+        "best": {
+            "rating": 3021,
+            "date": 1704277651,
+            "game": "https://www.chess.com/game/live/130011035501"
+        },
+        "record": {
+            "win": 8106,
+            "loss": 7509,
+            "draw": 1833
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3895,
+            "date": 1739616080
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1615970388
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

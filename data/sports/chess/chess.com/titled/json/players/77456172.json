@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77456172.678fe524.200x200o.f558f5fa1021.jpeg",
+    "player_id": 77456172,
+    "@id": "https://api.chess.com/pub/player/klercaku",
+    "url": "https://www.chess.com/member/klercaku",
+    "name": "Kler \u00c7aku",
+    "username": "klercaku",
+    "title": "WFM",
+    "followers": 116,
+    "country": "https://api.chess.com/pub/country/AL",
+    "last_online": 1741632372,
+    "joined": 1587542373,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1514,
+            "date": 1741634314,
+            "rd": 76
+        },
+        "best": {
+            "rating": 1741,
+            "date": 1641205938,
+            "game": "https://www.chess.com/game/daily/305008580"
+        },
+        "record": {
+            "win": 709,
+            "loss": 191,
+            "draw": 85,
+            "time_per_move": 173692,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1255,
+            "date": 1723365493,
+            "rd": 122
+        },
+        "best": {
+            "rating": 1365,
+            "date": 1652220124,
+            "game": "https://www.chess.com/game/daily/648503229"
+        },
+        "record": {
+            "win": 17,
+            "loss": 3,
+            "draw": 1,
+            "time_per_move": 173692,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2184,
+            "date": 1727894390,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2271,
+            "date": 1704313732,
+            "game": "https://www.chess.com/game/live/83508349561"
+        },
+        "record": {
+            "win": 152,
+            "loss": 81,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2317,
+            "date": 1741458172,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2474,
+            "date": 1737223779,
+            "game": "https://www.chess.com/game/live/129151370187"
+        },
+        "record": {
+            "win": 474,
+            "loss": 532,
+            "draw": 52
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2332,
+            "date": 1741110992,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2434,
+            "date": 1722359510,
+            "game": "https://www.chess.com/game/live/107026214127"
+        },
+        "record": {
+            "win": 651,
+            "loss": 576,
+            "draw": 90
+        }
+    },
+    "fide": 2036,
+    "tactics": {
+        "highest": {
+            "rating": 3267,
+            "date": 1696177125
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1588523229
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

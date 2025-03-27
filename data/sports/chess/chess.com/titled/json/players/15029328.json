@@ -1,0 +1,64 @@
+{
+    "player_id": 15029328,
+    "@id": "https://api.chess.com/pub/player/patagonico2020",
+    "url": "https://www.chess.com/member/Patagonico2020",
+    "name": "Alexsandro Javier Martinez",
+    "username": "patagonico2020",
+    "title": "CM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "General Roca",
+    "last_online": 1709554167,
+    "joined": 1387038339,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1895,
+            "date": 1628922459,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2141,
+            "date": 1607251538,
+            "game": "https://www.chess.com/game/live/6003140195"
+        },
+        "record": {
+            "win": 13,
+            "loss": 18,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2122,
+            "date": 1685738023,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2245,
+            "date": 1685404794,
+            "game": "https://www.chess.com/game/live/5318084126"
+        },
+        "record": {
+            "win": 583,
+            "loss": 393,
+            "draw": 41
+        }
+    },
+    "fide": 2220,
+    "tactics": {
+        "highest": {
+            "rating": 2211,
+            "date": 1598187384
+        },
+        "lowest": {
+            "rating": 1406,
+            "date": 1390505258
+        }
+    },
+    "puzzle_rush": {}
+}

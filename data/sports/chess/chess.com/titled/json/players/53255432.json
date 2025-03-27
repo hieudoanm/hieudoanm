@@ -1,0 +1,132 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/53255432.2b9a17be.200x200o.d38ce6d31c42.jpeg",
+    "player_id": 53255432,
+    "@id": "https://api.chess.com/pub/player/maddie",
+    "url": "https://www.chess.com/member/Maddie",
+    "name": "Lejean-Anu\u0219ca M\u0103d\u0103lina-Maria",
+    "username": "maddie",
+    "title": "NM",
+    "followers": 1589,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Bucuresti",
+    "last_online": 1741628322,
+    "joined": 1544821425,
+    "status": "staff",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1193,
+            "date": 1741420522,
+            "rd": 91
+        },
+        "best": {
+            "rating": 1474,
+            "date": 1590919804,
+            "game": "https://www.chess.com/game/daily/314456928"
+        },
+        "record": {
+            "win": 34,
+            "loss": 44,
+            "draw": 1,
+            "time_per_move": 262844,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1411,
+            "date": 1692374130,
+            "rd": 221
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 262844,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1954,
+            "date": 1734435691,
+            "rd": 130
+        },
+        "best": {
+            "rating": 2029,
+            "date": 1612479601,
+            "game": "https://www.chess.com/game/live/6453069560"
+        },
+        "record": {
+            "win": 21,
+            "loss": 18,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1801,
+            "date": 1736113245,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1638630664,
+            "game": "https://www.chess.com/game/live/11041427771"
+        },
+        "record": {
+            "win": 69,
+            "loss": 108,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1871,
+            "date": 1741629130,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1638637992,
+            "game": "https://www.chess.com/game/live/15096572113"
+        },
+        "record": {
+            "win": 204,
+            "loss": 234,
+            "draw": 37
+        }
+    },
+    "fide": 2003,
+    "tactics": {
+        "highest": {
+            "rating": 2931,
+            "date": 1735915141
+        },
+        "lowest": {
+            "rating": 1017,
+            "date": 1547199844
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

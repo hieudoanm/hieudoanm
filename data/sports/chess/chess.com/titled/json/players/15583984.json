@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15583984.91d78d5b.200x200o.36c5b22811dc.jpeg",
+    "player_id": 15583984,
+    "@id": "https://api.chess.com/pub/player/louis198",
+    "url": "https://www.chess.com/member/louis198",
+    "name": "Bao Nghia Dong",
+    "username": "louis198",
+    "title": "FM",
+    "followers": 78,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "London",
+    "last_online": 1741698856,
+    "joined": 1389765825,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1567,
+            "date": 1691417758,
+            "rd": 182
+        },
+        "best": {
+            "rating": 1567,
+            "date": 1484271023,
+            "game": "https://www.chess.com/game/daily/153612686"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 21401,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2275,
+            "date": 1691430782,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2305,
+            "date": 1691428082,
+            "game": "https://www.chess.com/game/live/21385250489"
+        },
+        "record": {
+            "win": 74,
+            "loss": 33,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2583,
+            "date": 1739641448,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2615,
+            "date": 1606453396,
+            "game": "https://www.chess.com/game/live/133379342843"
+        },
+        "record": {
+            "win": 359,
+            "loss": 361,
+            "draw": 51
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2732,
+            "date": 1741696340,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2778,
+            "date": 1700527897,
+            "game": "https://www.chess.com/game/live/123325229223"
+        },
+        "record": {
+            "win": 10948,
+            "loss": 11440,
+            "draw": 2471
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3529,
+            "date": 1731413319
+        },
+        "lowest": {
+            "rating": 1408,
+            "date": 1389943669
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

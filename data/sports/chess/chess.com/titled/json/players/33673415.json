@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33673415.9fd678b2.200x200o.81b189081404.jpeg",
+    "player_id": 33673415,
+    "@id": "https://api.chess.com/pub/player/zcorrales",
+    "url": "https://www.chess.com/member/ZCorrales",
+    "name": "Zenia Corrales Jim\u00e9nez",
+    "username": "zcorrales",
+    "title": "WIM",
+    "followers": 1017,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741642513,
+    "joined": 1488590382,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1800,
+            "date": 1592661007,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 5344140,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2106,
+            "date": 1740696050,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2195,
+            "date": 1597516850,
+            "game": "https://www.chess.com/game/live/24416547297"
+        },
+        "record": {
+            "win": 16,
+            "loss": 6,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2184,
+            "date": 1623005699,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2297,
+            "date": 1623002207,
+            "game": "https://www.chess.com/game/live/16739099945"
+        },
+        "record": {
+            "win": 15,
+            "loss": 23,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2261,
+            "date": 1720550355,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2290,
+            "date": 1637697318,
+            "game": "https://www.chess.com/game/live/2471258986"
+        },
+        "record": {
+            "win": 167,
+            "loss": 159,
+            "draw": 24
+        }
+    },
+    "fide": 2175,
+    "tactics": {
+        "highest": {
+            "rating": 3251,
+            "date": 1736961339
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1553644846
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

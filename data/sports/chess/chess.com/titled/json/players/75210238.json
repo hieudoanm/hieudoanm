@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75210238.de35ed53.200x200o.5cba8bab213d.png",
+    "player_id": 75210238,
+    "@id": "https://api.chess.com/pub/player/coachdean78",
+    "url": "https://www.chess.com/member/CoachDean78",
+    "name": "Jim Dean",
+    "username": "coachdean78",
+    "title": "FM",
+    "followers": 245,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741663014,
+    "joined": 1585675049,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2008,
+            "date": 1720542039,
+            "rd": 341
+        },
+        "best": {
+            "rating": 2008,
+            "date": 1630785829,
+            "game": "https://www.chess.com/game/daily/354854235"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 705,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2342,
+            "date": 1741628120,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1738877208,
+            "game": "https://www.chess.com/game/live/131691552161"
+        },
+        "record": {
+            "win": 122,
+            "loss": 52,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2312,
+            "date": 1739906974,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1604903345,
+            "game": "https://www.chess.com/game/live/5711527601"
+        },
+        "record": {
+            "win": 1611,
+            "loss": 1008,
+            "draw": 139
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2405,
+            "date": 1736535765,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2464,
+            "date": 1587666728,
+            "game": "https://www.chess.com/game/live/4671163892"
+        },
+        "record": {
+            "win": 987,
+            "loss": 619,
+            "draw": 160
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3373,
+            "date": 1739243044
+        },
+        "lowest": {
+            "rating": 2173,
+            "date": 1600106921
+        }
+    },
+    "puzzle_rush": {}
+}

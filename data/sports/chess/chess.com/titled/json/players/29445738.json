@@ -1,0 +1,102 @@
+{
+    "player_id": 29445738,
+    "@id": "https://api.chess.com/pub/player/shemka2006",
+    "url": "https://www.chess.com/member/Shemka2006",
+    "username": "shemka2006",
+    "title": "FM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/FI",
+    "last_online": 1741103826,
+    "joined": 1470989121,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1557,
+            "date": 1739822037,
+            "rd": 82
+        },
+        "best": {
+            "rating": 1928,
+            "date": 1648207202,
+            "game": "https://www.chess.com/game/daily/294063356"
+        },
+        "record": {
+            "win": 67,
+            "loss": 45,
+            "draw": 0,
+            "time_per_move": 53660,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2097,
+            "date": 1737906811,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2106,
+            "date": 1717700364,
+            "game": "https://www.chess.com/game/live/100279309289"
+        },
+        "record": {
+            "win": 34,
+            "loss": 17,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2669,
+            "date": 1740849930,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1694206113,
+            "game": "https://www.chess.com/game/live/134587743551"
+        },
+        "record": {
+            "win": 250,
+            "loss": 151,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2714,
+            "date": 1741611933,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2898,
+            "date": 1736616820,
+            "game": "https://www.chess.com/game/live/130029585963"
+        },
+        "record": {
+            "win": 2231,
+            "loss": 1906,
+            "draw": 403
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2854,
+            "date": 1607433003
+        },
+        "lowest": {
+            "rating": 1329,
+            "date": 1483993027
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

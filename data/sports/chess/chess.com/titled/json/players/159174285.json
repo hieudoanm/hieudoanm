@@ -1,0 +1,85 @@
+{
+    "player_id": 159174285,
+    "@id": "https://api.chess.com/pub/player/christophergarz",
+    "url": "https://www.chess.com/member/ChristopherGarz",
+    "name": "Christopher Garz\u00f3n Zapatanga",
+    "username": "christophergarz",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/EC",
+    "last_online": 1741196525,
+    "joined": 1635171541,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2255,
+            "date": 1738942014,
+            "rd": 135
+        },
+        "best": {
+            "rating": 1981,
+            "date": 1656940209,
+            "game": "https://www.chess.com/game/live/50678451045"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2585,
+            "date": 1741196993,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2715,
+            "date": 1739128761,
+            "game": "https://www.chess.com/game/live/132980969735"
+        },
+        "record": {
+            "win": 323,
+            "loss": 195,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2528,
+            "date": 1741131594,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2546,
+            "date": 1741107982,
+            "game": "https://www.chess.com/game/live/134846355783"
+        },
+        "record": {
+            "win": 133,
+            "loss": 65,
+            "draw": 14
+        }
+    },
+    "fide": 2255,
+    "tactics": {
+        "highest": {
+            "rating": 1333,
+            "date": 1703418893
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1642448737
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

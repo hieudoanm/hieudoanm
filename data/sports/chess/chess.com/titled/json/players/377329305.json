@@ -1,0 +1,62 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/377329305.3058b647.200x200o.af6a2cd11b37.jpg",
+    "player_id": 377329305,
+    "@id": "https://api.chess.com/pub/player/ofgameron",
+    "url": "https://www.chess.com/member/ofgameron",
+    "username": "ofgameron",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1740802695,
+    "joined": 1721929632,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2155,
+            "date": 1732672879,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2155,
+            "date": 1732672879,
+            "game": "https://www.chess.com/game/live/116967613771"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2378,
+            "date": 1740805815,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1738719874,
+            "game": "https://www.chess.com/game/live/132456582453"
+        },
+        "record": {
+            "win": 67,
+            "loss": 38,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1721929632
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1721929632
+        }
+    },
+    "puzzle_rush": {}
+}

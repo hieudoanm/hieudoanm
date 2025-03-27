@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19013736.a4db1331.200x200o.7fcb32d061d0.gif",
+    "player_id": 19013736,
+    "@id": "https://api.chess.com/pub/player/silencerbaba",
+    "url": "https://www.chess.com/member/SilencerBaba",
+    "name": "Ademola Sorungbe",
+    "username": "silencerbaba",
+    "title": "CM",
+    "followers": 169,
+    "country": "https://api.chess.com/pub/country/NG",
+    "location": "Texas",
+    "last_online": 1741612216,
+    "joined": 1411452194,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 739,
+            "date": 1708385334,
+            "rd": 314
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1411452194,
+            "game": "https://www.chess.com/game/daily/588221483"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 93917,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2071,
+            "date": 1705186814,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1958,
+            "date": 1734315371,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2215,
+            "date": 1671437415,
+            "game": "https://www.chess.com/game/live/93371399341"
+        },
+        "record": {
+            "win": 216,
+            "loss": 238,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2276,
+            "date": 1741667484,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2429,
+            "date": 1708712806,
+            "game": "https://www.chess.com/game/live/103763943369"
+        },
+        "record": {
+            "win": 3056,
+            "loss": 3630,
+            "draw": 356
+        }
+    },
+    "fide": 2243,
+    "tactics": {
+        "highest": {
+            "rating": 3371,
+            "date": 1712264348
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1450827021
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

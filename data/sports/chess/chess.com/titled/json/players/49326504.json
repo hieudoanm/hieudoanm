@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49326504.e06483be.200x200o.7a1fd9c5450e.jpeg",
+    "player_id": 49326504,
+    "@id": "https://api.chess.com/pub/player/alrayyan2022",
+    "url": "https://www.chess.com/member/AlRayyan2022",
+    "name": "Hicham Hamdouchi",
+    "username": "alrayyan2022",
+    "title": "GM",
+    "followers": 139,
+    "country": "https://api.chess.com/pub/country/QA",
+    "last_online": 1733661943,
+    "joined": 1535803310,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2568,
+            "date": 1646430497,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1646430497,
+            "game": "https://www.chess.com/game/live/31499389963"
+        },
+        "record": {
+            "win": 35,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2496,
+            "date": 1733426539,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2570,
+            "date": 1644883413,
+            "game": "https://www.chess.com/game/live/39863318111"
+        },
+        "record": {
+            "win": 56,
+            "loss": 48,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2791,
+            "date": 1726493971,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1711590847,
+            "game": "https://www.chess.com/game/live/103238506355"
+        },
+        "record": {
+            "win": 1531,
+            "loss": 1376,
+            "draw": 218
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3199,
+            "date": 1732204142
+        },
+        "lowest": {
+            "rating": 416,
+            "date": 1545161402
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

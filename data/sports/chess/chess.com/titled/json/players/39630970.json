@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39630970.fe84e5f0.200x200o.614f81ccdc7b.jpg",
+    "player_id": 39630970,
+    "@id": "https://api.chess.com/pub/player/chess4always",
+    "url": "https://www.chess.com/member/Chess4always",
+    "name": "Adianet Perez Cruz",
+    "username": "chess4always",
+    "title": "WFM",
+    "followers": 176,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "Estados Unidos",
+    "last_online": 1741616695,
+    "joined": 1508561369,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1325,
+            "date": 1735213119,
+            "rd": 157
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1508561369,
+            "game": "https://www.chess.com/game/daily/245047436"
+        },
+        "record": {
+            "win": 27,
+            "loss": 49,
+            "draw": 4,
+            "time_per_move": 42712,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1984,
+            "date": 1741283374,
+            "rd": 83
+        },
+        "best": {
+            "rating": 1990,
+            "date": 1671132653,
+            "game": "https://www.chess.com/game/live/59070554875"
+        },
+        "record": {
+            "win": 49,
+            "loss": 16,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2057,
+            "date": 1741621772,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2374,
+            "date": 1529135868,
+            "game": "https://www.chess.com/game/live/134674152773"
+        },
+        "record": {
+            "win": 3363,
+            "loss": 2612,
+            "draw": 382
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2001,
+            "date": 1741106787,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1551118728,
+            "game": "https://www.chess.com/game/live/105208279901"
+        },
+        "record": {
+            "win": 3038,
+            "loss": 2750,
+            "draw": 590
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2725,
+            "date": 1732303056
+        },
+        "lowest": {
+            "rating": 1192,
+            "date": 1524706284
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

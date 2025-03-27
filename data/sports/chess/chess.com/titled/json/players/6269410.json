@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6269410.9066eb00.200x200o.5c4e0ce5142d.jpeg",
+    "player_id": 6269410,
+    "@id": "https://api.chess.com/pub/player/giorgichess",
+    "url": "https://www.chess.com/member/giorgichess",
+    "name": "Giorgi Bakhtadze",
+    "username": "giorgichess",
+    "title": "IM",
+    "followers": 98,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1741308970,
+    "joined": 1323314641,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1980,
+            "date": 1741223672,
+            "rd": 157
+        },
+        "best": {
+            "rating": 2047,
+            "date": 1663966483,
+            "game": "https://www.chess.com/game/daily/256417916"
+        },
+        "record": {
+            "win": 198,
+            "loss": 12,
+            "draw": 66,
+            "time_per_move": 50704,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1082,
+            "date": 1706909927,
+            "rd": 262
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1323314641,
+            "game": "https://www.chess.com/game/daily/215853570"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 50704,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2429,
+            "date": 1737899004,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2434,
+            "date": 1611579426,
+            "game": "https://www.chess.com/game/live/115156096639"
+        },
+        "record": {
+            "win": 56,
+            "loss": 16,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2514,
+            "date": 1740529033,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1737897385,
+            "game": "https://www.chess.com/game/live/110847737369"
+        },
+        "record": {
+            "win": 1183,
+            "loss": 782,
+            "draw": 105
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2535,
+            "date": 1739552558,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1676154927,
+            "game": "https://www.chess.com/game/live/54497500527"
+        },
+        "record": {
+            "win": 551,
+            "loss": 344,
+            "draw": 62
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3654,
+            "date": 1708999938
+        },
+        "lowest": {
+            "rating": 1106,
+            "date": 1323441077
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

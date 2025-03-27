@@ -1,0 +1,87 @@
+{
+    "player_id": 16757024,
+    "@id": "https://api.chess.com/pub/player/superjesus88",
+    "url": "https://www.chess.com/member/SuperJesus88",
+    "name": "Jesus Dominguez",
+    "username": "superjesus88",
+    "title": "IM",
+    "followers": 124,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Madrid",
+    "last_online": 1741678827,
+    "joined": 1396636848,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1118,
+            "date": 1720969773,
+            "rd": 206
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1396636848,
+            "game": "https://www.chess.com/game/daily/540160419"
+        },
+        "record": {
+            "win": 4,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 13104,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2724,
+            "date": 1741700384,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2804,
+            "date": 1705605070,
+            "game": "https://www.chess.com/game/live/104854916623"
+        },
+        "record": {
+            "win": 5890,
+            "loss": 5144,
+            "draw": 671
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2580,
+            "date": 1741213056,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2757,
+            "date": 1721047418,
+            "game": "https://www.chess.com/game/live/91385474213"
+        },
+        "record": {
+            "win": 1030,
+            "loss": 808,
+            "draw": 128
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3297,
+            "date": 1681937131
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1658320407
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

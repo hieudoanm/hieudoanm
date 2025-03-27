@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/70327394.aaa9dfe7.200x200o.c83fda825fbf.jpeg",
+    "player_id": 70327394,
+    "@id": "https://api.chess.com/pub/player/daffidollchess2",
+    "url": "https://www.chess.com/member/Daffidollchess2",
+    "name": "Amilal Munkhdalai",
+    "username": "daffidollchess2",
+    "title": "IM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1741395118,
+    "joined": 1578210366,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2021,
+            "date": 1739163071,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1736223459,
+            "game": "https://www.chess.com/game/live/5466287416"
+        },
+        "record": {
+            "win": 11,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2601,
+            "date": 1729327058,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2677,
+            "date": 1719560399,
+            "game": "https://www.chess.com/game/live/111837152587"
+        },
+        "record": {
+            "win": 338,
+            "loss": 185,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2823,
+            "date": 1740768739,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2974,
+            "date": 1723446057,
+            "game": "https://www.chess.com/game/live/117171610069"
+        },
+        "record": {
+            "win": 2730,
+            "loss": 2026,
+            "draw": 435
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3756,
+            "date": 1740570637
+        },
+        "lowest": {
+            "rating": 391,
+            "date": 1586256470
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

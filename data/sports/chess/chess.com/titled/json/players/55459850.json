@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55459850.9ab17dd9.200x200o.dd5bf1548fea.png",
+    "player_id": 55459850,
+    "@id": "https://api.chess.com/pub/player/chefshouse",
+    "url": "https://www.chess.com/member/Chefshouse",
+    "name": "Ding Liren",
+    "username": "chefshouse",
+    "title": "GM",
+    "followers": 8305,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1734056635,
+    "joined": 1546501530,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2719,
+            "date": 1686588097,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2884,
+            "date": 1607165252,
+            "game": "https://www.chess.com/game/live/25262470671"
+        },
+        "record": {
+            "win": 32,
+            "loss": 16,
+            "draw": 40
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3076,
+            "date": 1670607825,
+            "rd": 72
+        },
+        "best": {
+            "rating": 3172,
+            "date": 1669570713,
+            "game": "https://www.chess.com/game/live/33444610989"
+        },
+        "record": {
+            "win": 29,
+            "loss": 28,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3128,
+            "date": 1670605357,
+            "rd": 54
+        },
+        "best": {
+            "rating": 3172,
+            "date": 1669559142,
+            "game": "https://www.chess.com/game/live/33433844219"
+        },
+        "record": {
+            "win": 136,
+            "loss": 69,
+            "draw": 66
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4271,
+            "date": 1613821155
+        },
+        "lowest": {
+            "rating": 2515,
+            "date": 1546955503
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "player_id": 18903510,
+    "@id": "https://api.chess.com/pub/player/igor_lysyj",
+    "url": "https://www.chess.com/member/Igor_Lysyj",
+    "name": "Igor Lysyj",
+    "username": "igor_lysyj",
+    "title": "GM",
+    "followers": 46,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "last_online": 1741513041,
+    "joined": 1410731142,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2586,
+            "date": 1715200766,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2661,
+            "date": 1590852181,
+            "game": "https://www.chess.com/game/live/100462500899"
+        },
+        "record": {
+            "win": 38,
+            "loss": 30,
+            "draw": 40
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2550,
+            "date": 1563060507,
+            "rd": 216
+        },
+        "best": {
+            "rating": 1391,
+            "date": 1563046638,
+            "game": "https://www.chess.com/game/live/3861042376"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2828,
+            "date": 1734480477,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2915,
+            "date": 1730242852,
+            "game": "https://www.chess.com/game/live/5183662268"
+        },
+        "record": {
+            "win": 452,
+            "loss": 196,
+            "draw": 111
+        }
+    },
+    "fide": 2623,
+    "tactics": {
+        "highest": {
+            "rating": 3619,
+            "date": 1650195834
+        },
+        "lowest": {
+            "rating": 2393,
+            "date": 1648816100
+        }
+    },
+    "puzzle_rush": {}
+}

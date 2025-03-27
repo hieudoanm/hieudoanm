@@ -1,0 +1,83 @@
+{
+    "player_id": 303209169,
+    "@id": "https://api.chess.com/pub/player/bigfatduck1",
+    "url": "https://www.chess.com/member/BigFatDuck1",
+    "username": "bigfatduck1",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1738535632,
+    "joined": 1690879243,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2254,
+            "date": 1693242150,
+            "rd": 207
+        },
+        "best": {
+            "rating": 2254,
+            "date": 1693242150,
+            "game": "https://www.chess.com/game/live/86980130309"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2005,
+            "date": 1713101919,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2192,
+            "date": 1698360940,
+            "game": "https://www.chess.com/game/live/84757977459"
+        },
+        "record": {
+            "win": 156,
+            "loss": 152,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2218,
+            "date": 1734647996,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2266,
+            "date": 1709047021,
+            "game": "https://www.chess.com/game/live/99970871129"
+        },
+        "record": {
+            "win": 1210,
+            "loss": 1012,
+            "draw": 172
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2589,
+            "date": 1714994206
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1690879243
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

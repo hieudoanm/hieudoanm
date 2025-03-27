@@ -1,0 +1,103 @@
+{
+    "player_id": 25883460,
+    "@id": "https://api.chess.com/pub/player/jayden960",
+    "url": "https://www.chess.com/member/jayden960",
+    "name": "Zhenyong Jayden Wong",
+    "username": "jayden960",
+    "title": "FM",
+    "followers": 89,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741621981,
+    "joined": 1451654429,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1736528137,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 12,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2022,
+            "date": 1679896412,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2022,
+            "date": 1630751701,
+            "game": "https://www.chess.com/game/live/24394921321"
+        },
+        "record": {
+            "win": 101,
+            "loss": 47,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2654,
+            "date": 1741460418,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2769,
+            "date": 1737226450,
+            "game": "https://www.chess.com/game/live/130960224081"
+        },
+        "record": {
+            "win": 8823,
+            "loss": 3251,
+            "draw": 605
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2511,
+            "date": 1737481925,
+            "rd": 155
+        },
+        "best": {
+            "rating": 2511,
+            "date": 1737481915,
+            "game": "https://www.chess.com/game/live/85249990219"
+        },
+        "record": {
+            "win": 378,
+            "loss": 143,
+            "draw": 26
+        }
+    },
+    "fide": 1000,
+    "tactics": {
+        "highest": {
+            "rating": 3457,
+            "date": 1662466333
+        },
+        "lowest": {
+            "rating": 822,
+            "date": 1458819770
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        },
+        "daily": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

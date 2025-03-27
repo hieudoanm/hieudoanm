@@ -1,0 +1,55 @@
+{
+    "player_id": 307348591,
+    "@id": "https://api.chess.com/pub/player/waybackboy",
+    "url": "https://www.chess.com/member/WaybackBoy",
+    "name": "Tim Janzelj",
+    "username": "waybackboy",
+    "title": "IM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1741633001,
+    "joined": 1692642382,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2621,
+            "date": 1731193495,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2723,
+            "date": 1694554749,
+            "game": "https://www.chess.com/game/live/88292464015"
+        },
+        "record": {
+            "win": 116,
+            "loss": 98,
+            "draw": 19
+        }
+    },
+    "fide": 2458,
+    "tactics": {
+        "highest": {
+            "rating": 2672,
+            "date": 1741634258
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1692642382
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 28
+        },
+        "daily": {
+            "total_attempts": 23,
+            "score": 20
+        }
+    }
+}

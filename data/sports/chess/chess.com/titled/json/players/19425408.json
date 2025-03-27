@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19425408.4c4c5bb8.200x200o.a7b52397077c.jpeg",
+    "player_id": 19425408,
+    "@id": "https://api.chess.com/pub/player/severomorskij",
+    "url": "https://www.chess.com/member/severomorskij",
+    "name": "Aleksandr Moiseenko",
+    "username": "severomorskij",
+    "title": "GM",
+    "followers": 148,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741669368,
+    "joined": 1414094453,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2476,
+            "date": 1739811588,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2709,
+            "date": 1653150006,
+            "game": "https://www.chess.com/game/live/108934871915"
+        },
+        "record": {
+            "win": 21,
+            "loss": 34,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3005,
+            "date": 1702412294,
+            "rd": 130
+        },
+        "best": {
+            "rating": 3005,
+            "date": 1702412294,
+            "game": "https://www.chess.com/game/live/1866128410"
+        },
+        "record": {
+            "win": 542,
+            "loss": 485,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2924,
+            "date": 1734254265,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2926,
+            "date": 1651615177,
+            "game": "https://www.chess.com/game/live/127992576057"
+        },
+        "record": {
+            "win": 789,
+            "loss": 533,
+            "draw": 171
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3914,
+            "date": 1733783670
+        },
+        "lowest": {
+            "rating": 1361,
+            "date": 1414107088
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

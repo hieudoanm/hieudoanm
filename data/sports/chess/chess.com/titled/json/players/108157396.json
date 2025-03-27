@@ -1,0 +1,79 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/108157396.8b32ddfc.200x200o.23e6444f0df5.jpeg",
+    "player_id": 108157396,
+    "@id": "https://api.chess.com/pub/player/f4sterthanyou",
+    "url": "https://www.chess.com/member/F4sterThanYou",
+    "username": "f4sterthanyou",
+    "title": "IM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/BS",
+    "last_online": 1740730921,
+    "joined": 1609274098,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2305,
+            "date": 1681493579,
+            "rd": 136
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1620585817,
+            "game": "https://www.chess.com/game/live/14236307961"
+        },
+        "record": {
+            "win": 22,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2836,
+            "date": 1700223165,
+            "rd": 61
+        },
+        "best": {
+            "rating": 3111,
+            "date": 1634630657,
+            "game": "https://www.chess.com/game/live/10599448157"
+        },
+        "record": {
+            "win": 1064,
+            "loss": 936,
+            "draw": 130
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2804,
+            "date": 1740732559,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2784,
+            "date": 1672957704,
+            "game": "https://www.chess.com/game/live/63022138411"
+        },
+        "record": {
+            "win": 170,
+            "loss": 95,
+            "draw": 26
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1609274098
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1609274098
+        }
+    },
+    "puzzle_rush": {}
+}

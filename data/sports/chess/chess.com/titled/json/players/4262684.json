@@ -1,0 +1,112 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4262684.ce01418e.200x200o.964131705028.jpeg",
+    "player_id": 4262684,
+    "@id": "https://api.chess.com/pub/player/b-unit",
+    "url": "https://www.chess.com/member/B-unit",
+    "name": "Bogdan Lalic",
+    "username": "b-unit",
+    "title": "GM",
+    "followers": 434,
+    "country": "https://api.chess.com/pub/country/XE",
+    "location": "Hastings",
+    "last_online": 1734177202,
+    "joined": 1289939464,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1782,
+            "date": 1734124626,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2226,
+            "date": 1611270690,
+            "game": "https://www.chess.com/game/daily/321156740"
+        },
+        "record": {
+            "win": 125,
+            "loss": 22,
+            "draw": 14,
+            "time_per_move": 37155,
+            "timeout_percent": 16
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 2
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2318,
+            "date": 1732671859,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1589741548,
+            "game": "https://www.chess.com/game/live/18384663577"
+        },
+        "record": {
+            "win": 624,
+            "loss": 24,
+            "draw": 64
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2224,
+            "date": 1731543227,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2677,
+            "date": 1617931420,
+            "game": "https://www.chess.com/game/live/75404642683"
+        },
+        "record": {
+            "win": 94,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2414,
+            "date": 1733785609,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1674180797,
+            "game": "https://www.chess.com/game/live/39031239375"
+        },
+        "record": {
+            "win": 950,
+            "loss": 81,
+            "draw": 137
+        }
+    },
+    "fide": 2402,
+    "tactics": {
+        "highest": {
+            "rating": 3341,
+            "date": 1729119610
+        },
+        "lowest": {
+            "rating": 1191,
+            "date": 1585708047
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

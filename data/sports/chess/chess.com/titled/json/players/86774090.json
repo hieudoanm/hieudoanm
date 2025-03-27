@@ -1,0 +1,103 @@
+{
+    "player_id": 86774090,
+    "@id": "https://api.chess.com/pub/player/powerofapoint",
+    "url": "https://www.chess.com/member/powerofapoint",
+    "name": "Alice Lee",
+    "username": "powerofapoint",
+    "title": "IM",
+    "followers": 254,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741554056,
+    "joined": 1594835104,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2018,
+            "date": 1709212106,
+            "rd": 334
+        },
+        "best": {
+            "rating": 2018,
+            "date": 1608999602,
+            "game": "https://www.chess.com/game/daily/293268436"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 14149,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2345,
+            "date": 1741040814,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2345,
+            "date": 1741040814,
+            "game": "https://www.chess.com/game/live/125433512829"
+        },
+        "record": {
+            "win": 19,
+            "loss": 22,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2844,
+            "date": 1741569807,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2964,
+            "date": 1696715272,
+            "game": "https://www.chess.com/game/live/127889935553"
+        },
+        "record": {
+            "win": 1730,
+            "loss": 1354,
+            "draw": 336
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2810,
+            "date": 1741568585,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1722566447,
+            "game": "https://www.chess.com/game/live/128820769843"
+        },
+        "record": {
+            "win": 518,
+            "loss": 408,
+            "draw": 106
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1594835104
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1594835104
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

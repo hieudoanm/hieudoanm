@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17020464.c7cec1ba.200x200o.e9a9a2936bb2.jpg",
+    "player_id": 17020464,
+    "@id": "https://api.chess.com/pub/player/cool64chess",
+    "url": "https://www.chess.com/member/cool64chess",
+    "name": "Rajarishi Karthi",
+    "username": "cool64chess",
+    "title": "CM",
+    "followers": 1832,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741679749,
+    "joined": 1398240542,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1800,
+            "date": 1741699341,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1934,
+            "date": 1432739051,
+            "game": "https://www.chess.com/game/daily/129812142"
+        },
+        "record": {
+            "win": 7841,
+            "loss": 1981,
+            "draw": 1122,
+            "time_per_move": 85997,
+            "timeout_percent": 26
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1555,
+            "date": 1732967020,
+            "rd": 87
+        },
+        "best": {
+            "rating": 1873,
+            "date": 1578356295,
+            "game": "https://www.chess.com/game/daily/92871760"
+        },
+        "record": {
+            "win": 509,
+            "loss": 176,
+            "draw": 83,
+            "time_per_move": 85997,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2220,
+            "date": 1719986845,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2437,
+            "date": 1652520877,
+            "game": "https://www.chess.com/game/live/47410830329"
+        },
+        "record": {
+            "win": 192,
+            "loss": 45,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1733166973,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2643,
+            "date": 1674801618,
+            "game": "https://www.chess.com/game/live/68013776253"
+        },
+        "record": {
+            "win": 1798,
+            "loss": 686,
+            "draw": 120
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2450,
+            "date": 1737904418,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1652537477,
+            "game": "https://www.chess.com/game/live/85080703023"
+        },
+        "record": {
+            "win": 1448,
+            "loss": 545,
+            "draw": 130
+        }
+    },
+    "fide": 2213,
+    "tactics": {
+        "highest": {
+            "rating": 4256,
+            "date": 1740895509
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1602858512
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 83,
+            "score": 80
+        }
+    }
+}

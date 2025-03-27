@@ -1,0 +1,103 @@
+{
+    "player_id": 8079636,
+    "@id": "https://api.chess.com/pub/player/alohamora11",
+    "url": "https://www.chess.com/member/Alohamora11",
+    "name": "Anil Berk Erdogan",
+    "username": "alohamora11",
+    "title": "CM",
+    "followers": 51,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741543100,
+    "joined": 1341316954,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 965,
+            "date": 1735591184,
+            "rd": 347
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1341316954,
+            "game": "https://www.chess.com/game/daily/532757869"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 57079,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2034,
+            "date": 1685652971,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2175,
+            "date": 1590254625,
+            "game": "https://www.chess.com/game/live/4910709537"
+        },
+        "record": {
+            "win": 24,
+            "loss": 14,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2524,
+            "date": 1725877746,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2621,
+            "date": 1670349857,
+            "game": "https://www.chess.com/game/live/9992527273"
+        },
+        "record": {
+            "win": 256,
+            "loss": 188,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2652,
+            "date": 1741640836,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2672,
+            "date": 1702769392,
+            "game": "https://www.chess.com/game/live/87690727539"
+        },
+        "record": {
+            "win": 2735,
+            "loss": 2580,
+            "draw": 435
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3020,
+            "date": 1740739004
+        },
+        "lowest": {
+            "rating": 1137,
+            "date": 1341317894
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

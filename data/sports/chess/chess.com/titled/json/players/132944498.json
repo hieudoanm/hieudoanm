@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/132944498.818f7555.200x200o.852243ff35a6.jpeg",
+    "player_id": 132944498,
+    "@id": "https://api.chess.com/pub/player/rapidman01",
+    "url": "https://www.chess.com/member/rapidman01",
+    "username": "rapidman01",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1738737305,
+    "joined": 1617397837,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1583,
+            "date": 1617520340,
+            "rd": 210
+        },
+        "best": {
+            "rating": 1583,
+            "date": 1617520340,
+            "game": "https://www.chess.com/game/live/11259197495"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2611,
+            "date": 1736612111,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2611,
+            "date": 1736496633,
+            "game": "https://www.chess.com/game/live/129974340269"
+        },
+        "record": {
+            "win": 36,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2491,
+            "date": 1736025108,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2508,
+            "date": 1726493865,
+            "game": "https://www.chess.com/game/live/120232204081"
+        },
+        "record": {
+            "win": 42,
+            "loss": 16,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1617397837
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1617397837
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

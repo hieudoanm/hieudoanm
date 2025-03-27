@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27731354.c3f5b2b8.200x200o.cf155a31b77c.jpeg",
+    "player_id": 27731354,
+    "@id": "https://api.chess.com/pub/player/garicardi",
+    "url": "https://www.chess.com/member/garicardi",
+    "name": "Enrique Ricardo Garcia Herrera",
+    "username": "garicardi",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "Rusia",
+    "last_online": 1741644524,
+    "joined": 1460579644,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1647,
+            "date": 1725718074,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1647,
+            "date": 1582961403,
+            "game": "https://www.chess.com/game/daily/232206604"
+        },
+        "record": {
+            "win": 32,
+            "loss": 28,
+            "draw": 2,
+            "time_per_move": 62630,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1763,
+            "date": 1741647178,
+            "rd": 161
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1560521490,
+            "game": "https://www.chess.com/game/live/5469013148"
+        },
+        "record": {
+            "win": 29,
+            "loss": 15,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2063,
+            "date": 1741556349,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1600196542,
+            "game": "https://www.chess.com/game/live/123970227713"
+        },
+        "record": {
+            "win": 980,
+            "loss": 708,
+            "draw": 83
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2177,
+            "date": 1741555896,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2236,
+            "date": 1605051683,
+            "game": "https://www.chess.com/game/live/120957013801"
+        },
+        "record": {
+            "win": 848,
+            "loss": 691,
+            "draw": 96
+        }
+    },
+    "fide": 2010,
+    "tactics": {
+        "highest": {
+            "rating": 2641,
+            "date": 1727223277
+        },
+        "lowest": {
+            "rating": 1195,
+            "date": 1476660984
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

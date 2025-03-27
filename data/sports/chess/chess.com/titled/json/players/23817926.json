@@ -1,0 +1,85 @@
+{
+    "player_id": 23817926,
+    "@id": "https://api.chess.com/pub/player/waspofborneo",
+    "url": "https://www.chess.com/member/waspofborneo",
+    "name": "Md Omar Ak Hafizon Pg",
+    "username": "waspofborneo",
+    "title": "CM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/BN",
+    "last_online": 1739223112,
+    "joined": 1440496653,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2095,
+            "date": 1697349543,
+            "rd": 138
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1631597363,
+            "game": "https://www.chess.com/game/live/25606812921"
+        },
+        "record": {
+            "win": 50,
+            "loss": 20,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2319,
+            "date": 1737729727,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2476,
+            "date": 1736506984,
+            "game": "https://www.chess.com/game/live/61999723449"
+        },
+        "record": {
+            "win": 1961,
+            "loss": 1857,
+            "draw": 231
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2245,
+            "date": 1708451776,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1684854549,
+            "game": "https://www.chess.com/game/live/78593003087"
+        },
+        "record": {
+            "win": 261,
+            "loss": 194,
+            "draw": 37
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3313,
+            "date": 1631684853
+        },
+        "lowest": {
+            "rating": 1339,
+            "date": 1440496970
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45747586.e7b3bf5c.200x200o.d10d89ffa0ab.jpg",
+    "player_id": 45747586,
+    "@id": "https://api.chess.com/pub/player/matols",
+    "url": "https://www.chess.com/member/Matols",
+    "name": "Olga Matveeva",
+    "username": "matols",
+    "title": "WIM",
+    "followers": 463,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Perm",
+    "last_online": 1741702654,
+    "joined": 1525022202,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1448,
+            "date": 1653575001,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1448,
+            "date": 1613802138,
+            "game": "https://www.chess.com/game/daily/312061808"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 3335,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2216,
+            "date": 1741282246,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1739432492,
+            "game": "https://www.chess.com/game/live/71859175721"
+        },
+        "record": {
+            "win": 37,
+            "loss": 23,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2085,
+            "date": 1741624256,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2372,
+            "date": 1606837232,
+            "game": "https://www.chess.com/game/live/5030781133"
+        },
+        "record": {
+            "win": 80,
+            "loss": 104,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2379,
+            "date": 1741370347,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1725989166,
+            "game": "https://www.chess.com/game/live/133634939009"
+        },
+        "record": {
+            "win": 1654,
+            "loss": 1989,
+            "draw": 336
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2810,
+            "date": 1735831745
+        },
+        "lowest": {
+            "rating": 809,
+            "date": 1526130358
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

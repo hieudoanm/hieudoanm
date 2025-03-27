@@ -1,0 +1,49 @@
+{
+    "player_id": 408308763,
+    "@id": "https://api.chess.com/pub/player/spytihneva",
+    "url": "https://www.chess.com/member/Spytihneva",
+    "username": "spytihneva",
+    "title": "WFM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/ZW",
+    "last_online": 1738684490,
+    "joined": 1733852180,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 1940,
+            "date": 1735832902,
+            "rd": 124
+        },
+        "best": {
+            "rating": 2189,
+            "date": 1735830788,
+            "game": "https://www.chess.com/game/live/129569572165"
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2833,
+            "date": 1737026801
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1733852180
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

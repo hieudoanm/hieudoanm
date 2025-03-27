@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4381685.e8cd3231.200x200o.7059a854e000.png",
+    "player_id": 4381685,
+    "@id": "https://api.chess.com/pub/player/knvb",
+    "url": "https://www.chess.com/member/KNVB",
+    "name": "Aman Hambleton",
+    "username": "knvb",
+    "title": "GM",
+    "followers": 15192,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Toronto",
+    "last_online": 1741640253,
+    "joined": 1292185376,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2200,
+            "date": 1724422334,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1298920886,
+            "game": "https://www.chess.com/game/daily/43780486"
+        },
+        "record": {
+            "win": 15,
+            "loss": 12,
+            "draw": 0,
+            "time_per_move": 5503,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2669,
+            "date": 1741536443,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2695,
+            "date": 1587022356,
+            "game": "https://www.chess.com/game/live/118447718201"
+        },
+        "record": {
+            "win": 196,
+            "loss": 40,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3107,
+            "date": 1741538335,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3201,
+            "date": 1630546758,
+            "game": "https://www.chess.com/game/live/71091359605"
+        },
+        "record": {
+            "win": 26462,
+            "loss": 11901,
+            "draw": 2320
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2974,
+            "date": 1741545243,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2974,
+            "date": 1737653377,
+            "game": "https://www.chess.com/game/live/53892699947"
+        },
+        "record": {
+            "win": 12959,
+            "loss": 5763,
+            "draw": 1326
+        }
+    },
+    "fide": 2420,
+    "tactics": {
+        "highest": {
+            "rating": 4019,
+            "date": 1708310439
+        },
+        "lowest": {
+            "rating": 1391,
+            "date": 1296818838
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 83,
+            "score": 80
+        }
+    }
+}

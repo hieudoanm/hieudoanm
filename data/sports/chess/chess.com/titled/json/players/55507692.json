@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55507692.5cf302bb.200x200o.eb86537fad6f.jpg",
+    "player_id": 55507692,
+    "@id": "https://api.chess.com/pub/player/sofie1010",
+    "url": "https://www.chess.com/member/sofie1010",
+    "name": "Zara La Fleur",
+    "username": "sofie1010",
+    "title": "WCM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/TT",
+    "last_online": 1739142792,
+    "joined": 1546602563,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1776,
+            "date": 1734393071,
+            "rd": 81
+        },
+        "best": {
+            "rating": 1882,
+            "date": 1721665549,
+            "game": "https://www.chess.com/game/live/114388177961"
+        },
+        "record": {
+            "win": 84,
+            "loss": 66,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1402,
+            "date": 1741019134,
+            "rd": 41
+        },
+        "best": {
+            "rating": 1868,
+            "date": 1720298620,
+            "game": "https://www.chess.com/game/live/114037247609"
+        },
+        "record": {
+            "win": 649,
+            "loss": 592,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1864,
+            "date": 1740236998,
+            "rd": 58
+        },
+        "best": {
+            "rating": 1943,
+            "date": 1735560115,
+            "game": "https://www.chess.com/game/live/118003180743"
+        },
+        "record": {
+            "win": 542,
+            "loss": 475,
+            "draw": 19
+        }
+    },
+    "fide": 1874,
+    "tactics": {
+        "highest": {
+            "rating": 2913,
+            "date": 1726384006
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1546602678
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

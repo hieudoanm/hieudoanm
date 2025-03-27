@@ -1,0 +1,85 @@
+{
+    "player_id": 48594048,
+    "@id": "https://api.chess.com/pub/player/kroonts13",
+    "url": "https://www.chess.com/member/kroonts13",
+    "name": "Andres Escobar",
+    "username": "kroonts13",
+    "title": "FM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "antioquia",
+    "last_online": 1741340908,
+    "joined": 1533763559,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2499,
+            "date": 1709538069,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2681,
+            "date": 1600217503,
+            "game": "https://www.chess.com/game/live/5451563013"
+        },
+        "record": {
+            "win": 10,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2422,
+            "date": 1740740325,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1652997104,
+            "game": "https://www.chess.com/game/live/131103586575"
+        },
+        "record": {
+            "win": 313,
+            "loss": 287,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2727,
+            "date": 1740198131
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1661878217,
+            "game": "https://www.chess.com/game/live/3183274901"
+        },
+        "record": {
+            "win": 1477,
+            "loss": 1384,
+            "draw": 237
+        }
+    },
+    "fide": 2322,
+    "tactics": {
+        "highest": {
+            "rating": 1936,
+            "date": 1663943131
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1533766339
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 40
+        }
+    }
+}

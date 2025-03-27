@@ -1,0 +1,169 @@
+//// ------------------------------------------------------
+//// THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+//// ------------------------------------------------------
+
+Table player {
+  id Int [pk]
+  username String [unique, not null]
+  avatar String [not null, default: '']
+  name String [not null, default: '']
+  title Title [not null, default: 'GM']
+  country String [not null, default: '']
+  countryCode String [not null, default: '']
+  status String [not null, default: '']
+  league String [not null, default: '']
+  url String [not null, default: '']
+  twitchUrl String [not null, default: '']
+  isStreamer Boolean [not null, default: false]
+  verified Boolean [not null, default: false]
+  lastOnline DateTime [default: `now()`, not null]
+  joined DateTime [default: `now()`, not null]
+  rapidRatingBest Int [not null, default: 0]
+  rapidRatingLast Int [not null, default: 0]
+  rapidRatingDeviation Int [not null, default: 0]
+  rapidRecordWin Int [not null, default: 0]
+  rapidRecordDraw Int [not null, default: 0]
+  rapidRecordLoss Int [not null, default: 0]
+  blitzRatingBest Int [not null, default: 0]
+  blitzRatingLast Int [not null, default: 0]
+  blitzRatingDeviation Int [not null, default: 0]
+  blitzRecordWin Int [not null, default: 0]
+  blitzRecordDraw Int [not null, default: 0]
+  blitzRecordLoss Int [not null, default: 0]
+  bulletRatingBest Int [not null, default: 0]
+  bulletRatingLast Int [not null, default: 0]
+  bulletRatingDeviation Int [not null, default: 0]
+  bulletRecordWin Int [not null, default: 0]
+  bulletRecordDraw Int [not null, default: 0]
+  bulletRecordLoss Int [not null, default: 0]
+  createdAt DateTime [default: `now()`, not null]
+  updatedAt DateTime [default: `now()`, not null]
+}
+
+Table game {
+  uuid String [pk]
+  url String [not null]
+  pgn String [not null, default: '']
+  timeClass TimeClass [not null, default: 'classical']
+  timeControl String [not null, default: '']
+  endTime DateTime [default: `now()`, not null]
+  rated Boolean [not null, default: false]
+  initialSetup String [not null, default: '']
+  fen String [not null, default: '']
+  tcn String [not null, default: '']
+  rules Variant [not null, default: 'chess']
+  whiteAccuracy Float [not null, default: 0]
+  whiteRating Int [not null, default: 0]
+  whiteResult Result [not null]
+  whiteUsername String [not null, default: '']
+  whiteKing Int [not null, default: 0]
+  whiteQueen Int [not null, default: 0]
+  whiteRook Int [not null, default: 0]
+  whiteBishop Int [not null, default: 0]
+  whiteKnight Int [not null, default: 0]
+  whitePawn Int [not null, default: 0]
+  whiteCastling String [not null, default: '']
+  blackAccuracy Float [not null, default: 0]
+  blackRating Int [not null, default: 0]
+  blackResult Result [not null]
+  blackUsername String [not null, default: '']
+  blackKing Int [not null, default: 0]
+  blackQueen Int [not null, default: 0]
+  blackRook Int [not null, default: 0]
+  blackBishop Int [not null, default: 0]
+  blackKnight Int [not null, default: 0]
+  blackPawn Int [not null, default: 0]
+  blackCastling String [not null, default: '']
+  opening String [not null, default: '']
+  openingName String [not null, default: '']
+  endPhrase Phrase [not null, default: 'endgame']
+  termination String [not null, default: '']
+  createdAt DateTime [default: `now()`, not null]
+  updatedAt DateTime [default: `now()`, not null]
+}
+
+Table opening {
+  eco String [not null, default: '']
+  name String [not null, default: '']
+  fen String [not null, default: '']
+  pgn String [not null, default: '']
+  createdAt DateTime [default: `now()`, not null]
+  updatedAt DateTime [default: `now()`, not null]
+
+  indexes {
+    (eco, name, pgn) [pk]
+  }
+}
+
+Table country {
+  cca2 String [unique, not null, default: '']
+  cca3 String [unique, not null, default: '']
+  name String [not null, default: '']
+  common String [not null, default: '']
+  official String [not null, default: '']
+  flag String [not null, default: '']
+  createdAt DateTime [default: `now()`, not null]
+  updatedAt DateTime [default: `now()`, not null]
+
+  indexes {
+    (cca2, cca3) [pk]
+  }
+}
+
+Enum Title {
+  GM
+  IM
+  FM
+  CM
+  NM
+  WGM
+  WIM
+  WFM
+  WCM
+  WNM
+  AGM
+  AIM
+  AFM
+  ACM
+}
+
+Enum TimeClass {
+  daily
+  classical
+  rapid
+  blitz
+  bullet
+}
+
+Enum Result {
+  win
+  fiftymove
+  agreed
+  insufficient
+  repetition
+  stalemate
+  timevsinsufficient
+  checkmated
+  resigned
+  timeout
+  abandoned
+  bughousepartnerlose
+  threecheck
+  kingofthehill
+}
+
+Enum Variant {
+  bughouse
+  chess
+  chess960
+  crazyhouse
+  kingofthehill
+  oddschess
+  threecheck
+}
+
+Enum Phrase {
+  opening
+  middlegame
+  endgame
+}

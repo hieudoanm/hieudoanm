@@ -1,0 +1,102 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/903661.577e90ba.200x200o.952d7ccb23b4.jpeg",
+    "player_id": 903661,
+    "@id": "https://api.chess.com/pub/player/geeeeri",
+    "url": "https://www.chess.com/member/geeeeri",
+    "name": "Attila Gergacz",
+    "username": "geeeeri",
+    "title": "IM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/DK",
+    "location": "Kolding",
+    "last_online": 1697743920,
+    "joined": 1200152032,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1665,
+            "date": 1701880332,
+            "rd": 79
+        },
+        "best": {
+            "rating": 1974,
+            "date": 1510669676,
+            "game": "https://www.chess.com/game/daily/54083622"
+        },
+        "record": {
+            "win": 111,
+            "loss": 109,
+            "draw": 12,
+            "time_per_move": 48194,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1522,
+            "date": 1534772414,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1924,
+            "date": 1517262807,
+            "game": "https://www.chess.com/game/daily/180548714"
+        },
+        "record": {
+            "win": 23,
+            "loss": 15,
+            "draw": 0,
+            "time_per_move": 48194,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2479,
+            "date": 1526327286,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2515,
+            "date": 1490380033,
+            "game": "https://www.chess.com/game/live/2537126558"
+        },
+        "record": {
+            "win": 1022,
+            "loss": 974,
+            "draw": 95
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2339,
+            "date": 1518957305,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2418,
+            "date": 1514933003,
+            "game": "https://www.chess.com/game/live/2527354094"
+        },
+        "record": {
+            "win": 324,
+            "loss": 312,
+            "draw": 39
+        }
+    },
+    "fide": 2374,
+    "tactics": {
+        "highest": {
+            "rating": 2256,
+            "date": 1466856583
+        },
+        "lowest": {
+            "rating": 1138,
+            "date": 1431074492
+        }
+    },
+    "puzzle_rush": {}
+}

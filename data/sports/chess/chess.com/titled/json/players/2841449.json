@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2841449.61f07978.200x200o.87faceae456b.jpg",
+    "player_id": 2841449,
+    "@id": "https://api.chess.com/pub/player/mikeklein",
+    "url": "https://www.chess.com/member/MikeKlein",
+    "name": "Mike Klein",
+    "username": "mikeklein",
+    "title": "FM",
+    "followers": 95844,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Charlotte",
+    "last_online": 1741696938,
+    "joined": 1274214391,
+    "status": "staff",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2073,
+            "date": 1739806461,
+            "rd": 115
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1541311377,
+            "game": "https://www.chess.com/game/daily/160664698"
+        },
+        "record": {
+            "win": 128,
+            "loss": 17,
+            "draw": 14,
+            "time_per_move": 79063,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1699,
+            "date": 1692374130,
+            "rd": 115
+        },
+        "best": {
+            "rating": 1699,
+            "date": 1692374130,
+            "game": "https://www.chess.com/game/daily/335866075"
+        },
+        "record": {
+            "win": 22,
+            "loss": 3,
+            "draw": 3,
+            "time_per_move": 79063,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2227,
+            "date": 1728336086,
+            "rd": 100
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2091,
+            "date": 1676992385,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1676990723,
+            "game": "https://www.chess.com/game/live/70730721437"
+        },
+        "record": {
+            "win": 330,
+            "loss": 141,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2347,
+            "date": 1661266962,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1640962052,
+            "game": "https://www.chess.com/game/live/34356008623"
+        },
+        "record": {
+            "win": 509,
+            "loss": 253,
+            "draw": 47
+        }
+    },
+    "fide": 2326,
+    "tactics": {
+        "highest": {
+            "rating": 3516,
+            "date": 1725398717
+        },
+        "lowest": {
+            "rating": 994,
+            "date": 1305820156
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 38
+        }
+    }
+}

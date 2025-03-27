@@ -1,0 +1,70 @@
+{
+    "player_id": 307192419,
+    "@id": "https://api.chess.com/pub/player/pavan_putra_maruthi",
+    "url": "https://www.chess.com/member/Pavan_Putra_Maruthi",
+    "username": "pavan_putra_maruthi",
+    "title": "FM",
+    "followers": 185,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741693219,
+    "joined": 1692568303,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2364,
+            "date": 1723301439,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2555,
+            "date": 1703963767,
+            "game": "https://www.chess.com/game/live/97701150897"
+        },
+        "record": {
+            "win": 7,
+            "loss": 5,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2784,
+            "date": 1741486996,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2870,
+            "date": 1737771725,
+            "game": "https://www.chess.com/game/live/131080755473"
+        },
+        "record": {
+            "win": 2043,
+            "loss": 1985,
+            "draw": 478
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3261,
+            "date": 1732411076
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1692568303
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        },
+        "daily": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

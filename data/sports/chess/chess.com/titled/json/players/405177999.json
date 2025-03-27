@@ -1,0 +1,73 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/405177999.f8cca843.200x200o.232dda6bfd85.jpg",
+    "player_id": 405177999,
+    "@id": "https://api.chess.com/pub/player/marcul0",
+    "url": "https://www.chess.com/member/Marcul0",
+    "name": "Ernur Amangeldy",
+    "username": "marcul0",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741679234,
+    "joined": 1732633223,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2858,
+            "date": 1739546190,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2916,
+            "date": 1739376211,
+            "game": "https://www.chess.com/game/live/127332069441"
+        },
+        "record": {
+            "win": 265,
+            "loss": 178,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2772,
+            "date": 1741159680,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2785,
+            "date": 1741111854,
+            "game": "https://www.chess.com/game/live/127587078205"
+        },
+        "record": {
+            "win": 59,
+            "loss": 33,
+            "draw": 11
+        }
+    },
+    "fide": 2198,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1732633223
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1732633223
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        },
+        "daily": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

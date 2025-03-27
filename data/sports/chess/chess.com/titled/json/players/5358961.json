@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5358961.76294154.200x200o.4b58405e7a61.jpeg",
+    "player_id": 5358961,
+    "@id": "https://api.chess.com/pub/player/mendozadavid2000",
+    "url": "https://www.chess.com/member/MendozaDavid2000",
+    "name": "David Mendoza Criollo",
+    "username": "mendozadavid2000",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/EC",
+    "last_online": 1741220332,
+    "joined": 1309385421,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2055,
+            "date": 1734144888,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1594767803,
+            "game": "https://www.chess.com/game/live/5306675060"
+        },
+        "record": {
+            "win": 21,
+            "loss": 26,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2343,
+            "date": 1741568736,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2444,
+            "date": 1650596054,
+            "game": "https://www.chess.com/game/live/35654196879"
+        },
+        "record": {
+            "win": 3460,
+            "loss": 3074,
+            "draw": 284
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2321,
+            "date": 1741220895,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2429,
+            "date": 1656446679,
+            "game": "https://www.chess.com/game/live/44688549183"
+        },
+        "record": {
+            "win": 1732,
+            "loss": 1441,
+            "draw": 201
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3004,
+            "date": 1686579924
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1419436528
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

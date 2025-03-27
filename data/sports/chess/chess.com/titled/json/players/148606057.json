@@ -1,0 +1,84 @@
+{
+    "player_id": 148606057,
+    "@id": "https://api.chess.com/pub/player/xizahk",
+    "url": "https://www.chess.com/member/xizahk",
+    "name": "Joanna Furtak",
+    "username": "xizahk",
+    "title": "WCM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1732145024,
+    "joined": 1626886707,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2318,
+            "date": 1669314325,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1666889071,
+            "game": "https://www.chess.com/game/live/63052922115"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2050,
+            "date": 1636664918,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2087,
+            "date": 1627744151,
+            "game": "https://www.chess.com/game/live/21397231849"
+        },
+        "record": {
+            "win": 64,
+            "loss": 19,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2318,
+            "date": 1642536210,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1631038257,
+            "game": "https://www.chess.com/game/live/35663172783"
+        },
+        "record": {
+            "win": 16,
+            "loss": 31,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3100,
+            "date": 1667993542
+        },
+        "lowest": {
+            "rating": 797,
+            "date": 1628627058
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 37
+        }
+    }
+}

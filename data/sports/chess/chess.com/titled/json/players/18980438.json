@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18980438.a85c0ec0.200x200o.01adb2d8bac6.jpg",
+    "player_id": 18980438,
+    "@id": "https://api.chess.com/pub/player/thekingdoctor",
+    "url": "https://www.chess.com/member/TheKingDoctor",
+    "name": "Renzo Jhonathan Rengifo Blancas",
+    "username": "thekingdoctor",
+    "title": "FM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/PE",
+    "location": "lima",
+    "last_online": 1741668391,
+    "joined": 1411236589,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1755,
+            "date": 1726856099,
+            "rd": 176
+        },
+        "best": {
+            "rating": 1770,
+            "date": 1703271556,
+            "game": "https://www.chess.com/game/live/120592189347"
+        },
+        "record": {
+            "win": 3,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2505,
+            "date": 1739641928,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1736011094,
+            "game": "https://www.chess.com/game/live/129749366981"
+        },
+        "record": {
+            "win": 62,
+            "loss": 68,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2543,
+            "date": 1741669605,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2606,
+            "date": 1738695647,
+            "game": "https://www.chess.com/game/live/130026008495"
+        },
+        "record": {
+            "win": 1708,
+            "loss": 1873,
+            "draw": 302
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3004,
+            "date": 1673454056
+        },
+        "lowest": {
+            "rating": 1366,
+            "date": 1474849060
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

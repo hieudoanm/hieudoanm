@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4083321.a05d5ef2.200x200o.3f6dddd743a7.jpeg",
+    "player_id": 4083321,
+    "@id": "https://api.chess.com/pub/player/tapuah",
+    "url": "https://www.chess.com/member/Tapuah",
+    "name": "Ilya Smirin",
+    "username": "tapuah",
+    "title": "GM",
+    "followers": 4180,
+    "country": "https://api.chess.com/pub/country/IL",
+    "location": "Tel Aviv",
+    "last_online": 1741700267,
+    "joined": 1286373393,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 540,
+            "date": 1714130237,
+            "rd": 286
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1286373393,
+            "game": "https://www.chess.com/game/daily/646260943"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 14030,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2421,
+            "date": 1714238911,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1601453607,
+            "game": "https://www.chess.com/game/live/5296042688"
+        },
+        "record": {
+            "win": 27,
+            "loss": 9,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2751,
+            "date": 1630575283,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2751,
+            "date": 1630575192,
+            "game": "https://www.chess.com/game/live/24313852041"
+        },
+        "record": {
+            "win": 17,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2923,
+            "date": 1741696880,
+            "rd": 24
+        },
+        "best": {
+            "rating": 3015,
+            "date": 1738613842,
+            "game": "https://www.chess.com/game/live/108976220755"
+        },
+        "record": {
+            "win": 14252,
+            "loss": 8451,
+            "draw": 2948
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3212,
+            "date": 1710149902
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1534867547
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "player_id": 336539479,
+    "@id": "https://api.chess.com/pub/player/aceontheturn",
+    "url": "https://www.chess.com/member/aceontheturn",
+    "name": "Bartlomiej Heberla",
+    "username": "aceontheturn",
+    "title": "GM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Warsaw",
+    "last_online": 1734133182,
+    "joined": 1704296838,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2554,
+            "date": 1732709720,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1732709720,
+            "game": "https://www.chess.com/game/live/126447616223"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2851,
+            "date": 1733713446,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2864,
+            "date": 1732314983,
+            "game": "https://www.chess.com/game/live/126028156959"
+        },
+        "record": {
+            "win": 191,
+            "loss": 174,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2823,
+            "date": 1734133536,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1732362600,
+            "game": "https://www.chess.com/game/live/127328434329"
+        },
+        "record": {
+            "win": 612,
+            "loss": 612,
+            "draw": 130
+        }
+    },
+    "fide": 2552,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1704296838
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1704296838
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 37
+        }
+    }
+}

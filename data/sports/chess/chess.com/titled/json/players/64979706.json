@@ -1,0 +1,98 @@
+{
+    "player_id": 64979706,
+    "@id": "https://api.chess.com/pub/player/snegokhod",
+    "url": "https://www.chess.com/member/Snegokhod",
+    "name": "Anatoly Krutko",
+    "username": "snegokhod",
+    "title": "FM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/HR",
+    "last_online": 1741472864,
+    "joined": 1567328383,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1704815941,
+            "rd": 350
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 1311220,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1920,
+            "date": 1621003545,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2444,
+            "date": 1608358983,
+            "game": "https://www.chess.com/game/live/14741304999"
+        },
+        "record": {
+            "win": 10,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2107,
+            "date": 1740212134,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1567700190,
+            "game": "https://www.chess.com/game/live/4007200474"
+        },
+        "record": {
+            "win": 136,
+            "loss": 105,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2547,
+            "date": 1735019867,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1580841429,
+            "game": "https://www.chess.com/game/live/10259003431"
+        },
+        "record": {
+            "win": 629,
+            "loss": 602,
+            "draw": 118
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2804,
+            "date": 1599393441
+        },
+        "lowest": {
+            "rating": 2500,
+            "date": 1580037732
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

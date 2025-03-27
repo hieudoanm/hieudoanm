@@ -1,0 +1,104 @@
+{
+    "player_id": 192556823,
+    "@id": "https://api.chess.com/pub/player/freegirll",
+    "url": "https://www.chess.com/member/FreeGirll",
+    "name": "Arya Aydogan",
+    "username": "freegirll",
+    "title": "WCM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741702114,
+    "joined": 1659868387,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1577,
+            "date": 1729833640,
+            "rd": 122
+        },
+        "best": {
+            "rating": 1577,
+            "date": 1729833640,
+            "game": "https://www.chess.com/game/daily/550501409"
+        },
+        "record": {
+            "win": 31,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 77058,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2118,
+            "date": 1733164217,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2309,
+            "date": 1704800475,
+            "game": "https://www.chess.com/game/live/98789153705"
+        },
+        "record": {
+            "win": 290,
+            "loss": 85,
+            "draw": 33
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2165,
+            "date": 1735407020,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2165,
+            "date": 1735407020,
+            "game": "https://www.chess.com/game/live/127332036763"
+        },
+        "record": {
+            "win": 226,
+            "loss": 104,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2030,
+            "date": 1733331306,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1703359907,
+            "game": "https://www.chess.com/game/live/120327651809"
+        },
+        "record": {
+            "win": 287,
+            "loss": 84,
+            "draw": 17
+        }
+    },
+    "fide": 1830,
+    "tactics": {
+        "highest": {
+            "rating": 3214,
+            "date": 1712332993
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1659883048
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

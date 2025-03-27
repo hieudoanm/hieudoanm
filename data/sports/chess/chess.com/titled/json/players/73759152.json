@@ -1,0 +1,99 @@
+{
+    "player_id": 73759152,
+    "@id": "https://api.chess.com/pub/player/d0br0v01skiy",
+    "url": "https://www.chess.com/member/D0Br0V01skiy",
+    "name": "Alimzhan Amirkul",
+    "username": "d0br0v01skiy",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1738622590,
+    "joined": 1584511298,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1200,
+            "date": 1729550839,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 9662,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2399,
+            "date": 1734384620,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1734384121,
+            "game": "https://www.chess.com/game/live/5924668075"
+        },
+        "record": {
+            "win": 13,
+            "loss": 7,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2801,
+            "date": 1739679556,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2825,
+            "date": 1739597472,
+            "game": "https://www.chess.com/game/live/126121216693"
+        },
+        "record": {
+            "win": 287,
+            "loss": 200,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2526,
+            "date": 1741104928,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1732038883,
+            "game": "https://www.chess.com/game/live/125770797913"
+        },
+        "record": {
+            "win": 153,
+            "loss": 95,
+            "draw": 14
+        }
+    },
+    "fide": 2399,
+    "tactics": {
+        "highest": {
+            "rating": 3611,
+            "date": 1728362420
+        },
+        "lowest": {
+            "rating": 775,
+            "date": 1588223362
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

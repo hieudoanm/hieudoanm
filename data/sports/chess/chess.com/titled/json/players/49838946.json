@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49838946.27634298.200x200o.da265453ef22.jpeg",
+    "player_id": 49838946,
+    "@id": "https://api.chess.com/pub/player/ffbp3q",
+    "url": "https://www.chess.com/member/ffbp3q",
+    "name": "Josef Ob\u0161iva\u010d",
+    "username": "ffbp3q",
+    "title": "FM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "location": "Vala\u0161sk\u00e1 Byst\u0159ice",
+    "last_online": 1741645024,
+    "joined": 1537203363,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2453,
+            "date": 1741549348,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1700156584,
+            "game": "https://www.chess.com/game/live/10341408555"
+        },
+        "record": {
+            "win": 464,
+            "loss": 201,
+            "draw": 101
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2057,
+            "date": 1741646644,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2291,
+            "date": 1603470248,
+            "game": "https://www.chess.com/game/live/7913728561"
+        },
+        "record": {
+            "win": 4220,
+            "loss": 2590,
+            "draw": 364
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1700309299,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1700309299,
+            "game": "https://www.chess.com/game/live/12677165553"
+        },
+        "record": {
+            "win": 3593,
+            "loss": 2228,
+            "draw": 495
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3522,
+            "date": 1711393056
+        },
+        "lowest": {
+            "rating": 1979,
+            "date": 1542407533
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 31
+        }
+    }
+}

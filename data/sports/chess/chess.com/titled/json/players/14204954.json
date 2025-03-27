@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14204954.ffa7c841.200x200o.6622436eb875.jpeg",
+    "player_id": 14204954,
+    "@id": "https://api.chess.com/pub/player/bojanr1",
+    "url": "https://www.chess.com/member/BojanR1",
+    "name": "Bojan Radulovic",
+    "username": "bojanr1",
+    "title": "FM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741618969,
+    "joined": 1383664550,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2185,
+            "date": 1715071896,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1688279341,
+            "game": "https://www.chess.com/game/live/81898307841"
+        },
+        "record": {
+            "win": 11,
+            "loss": 7,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2116,
+            "date": 1731446107,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2403,
+            "date": 1616282555,
+            "game": "https://www.chess.com/game/live/58653065345"
+        },
+        "record": {
+            "win": 2518,
+            "loss": 2620,
+            "draw": 279
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2323,
+            "date": 1741619495,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2486,
+            "date": 1641935981,
+            "game": "https://www.chess.com/game/live/38781635291"
+        },
+        "record": {
+            "win": 2500,
+            "loss": 2226,
+            "draw": 389
+        }
+    },
+    "fide": 2164,
+    "tactics": {
+        "highest": {
+            "rating": 2440,
+            "date": 1609103871
+        },
+        "lowest": {
+            "rating": 1886,
+            "date": 1484861817
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 13,
+            "score": 10
+        }
+    }
+}

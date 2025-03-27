@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/325275745.af43d0ec.200x200o.f181b939c272.jpg",
+    "player_id": 325275745,
+    "@id": "https://api.chess.com/pub/player/pasmendjambvirgulptipon98",
+    "url": "https://www.chess.com/member/Pasmendjambvirgulptipon98",
+    "name": "Luca Ernst",
+    "username": "pasmendjambvirgulptipon98",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741359959,
+    "joined": 1699694556,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1623,
+            "date": 1714055198,
+            "rd": 326
+        },
+        "best": {
+            "rating": 1623,
+            "date": 1714055198,
+            "game": "https://www.chess.com/game/daily/632151053"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 64711,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2084,
+            "date": 1726849186,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2088,
+            "date": 1726846579,
+            "game": "https://www.chess.com/game/live/120585017987"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2503,
+            "date": 1728755977,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1727541420,
+            "game": "https://www.chess.com/game/live/103746058969"
+        },
+        "record": {
+            "win": 187,
+            "loss": 255,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2524,
+            "date": 1741368268,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1741110872,
+            "game": "https://www.chess.com/game/live/118533464243"
+        },
+        "record": {
+            "win": 110,
+            "loss": 149,
+            "draw": 16
+        }
+    },
+    "fide": 2084,
+    "tactics": {
+        "highest": {
+            "rating": 2972,
+            "date": 1737221800
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1699694556
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

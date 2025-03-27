@@ -1,0 +1,67 @@
+{
+    "player_id": 284922697,
+    "@id": "https://api.chess.com/pub/player/elmishigami",
+    "url": "https://www.chess.com/member/elmishigami",
+    "name": "nitchefu",
+    "username": "elmishigami",
+    "title": "WCM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1734040879,
+    "joined": 1683938089,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2309,
+            "date": 1732202082,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1709258295,
+            "game": "https://www.chess.com/game/live/109031970543"
+        },
+        "record": {
+            "win": 289,
+            "loss": 248,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2303,
+            "date": 1734184242,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1733875780,
+            "game": "https://www.chess.com/game/live/124731591047"
+        },
+        "record": {
+            "win": 115,
+            "loss": 91,
+            "draw": 11
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2210,
+            "date": 1733442959
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1683938089
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/299269053.208b8118.200x200o.91a98b417306.jpg",
+    "player_id": 299269053,
+    "@id": "https://api.chess.com/pub/player/ivana_999",
+    "url": "https://www.chess.com/member/ivana_999",
+    "name": "Ivana Maria Furtado",
+    "username": "ivana_999",
+    "title": "WIM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741567092,
+    "joined": 1689078859,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2085,
+            "date": 1715417669,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2166,
+            "date": 1695693976,
+            "game": "https://www.chess.com/game/live/108385198561"
+        },
+        "record": {
+            "win": 56,
+            "loss": 47,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1791,
+            "date": 1739365653,
+            "rd": 102
+        },
+        "best": {
+            "rating": 1901,
+            "date": 1693053512,
+            "game": "https://www.chess.com/game/live/106397188727"
+        },
+        "record": {
+            "win": 118,
+            "loss": 117,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2171,
+            "date": 1734473339,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2177,
+            "date": 1733263584,
+            "game": "https://www.chess.com/game/live/126376243141"
+        },
+        "record": {
+            "win": 226,
+            "loss": 304,
+            "draw": 39
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3059,
+            "date": 1689488506
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1689078859
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

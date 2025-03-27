@@ -1,0 +1,66 @@
+{
+    "player_id": 39941614,
+    "@id": "https://api.chess.com/pub/player/herostring",
+    "url": "https://www.chess.com/member/HeroString",
+    "username": "herostring",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1741645400,
+    "joined": 1509479999,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2231,
+            "date": 1741027653,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1692391880,
+            "game": "https://www.chess.com/game/live/82032093813"
+        },
+        "record": {
+            "win": 2848,
+            "loss": 2399,
+            "draw": 339
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1741645766,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1649606959,
+            "game": "https://www.chess.com/game/live/42935367375"
+        },
+        "record": {
+            "win": 1041,
+            "loss": 889,
+            "draw": 126
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3242,
+            "date": 1741427931
+        },
+        "lowest": {
+            "rating": 2311,
+            "date": 1643146419
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 38
+        }
+    }
+}

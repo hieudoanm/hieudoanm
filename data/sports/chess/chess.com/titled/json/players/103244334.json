@@ -1,0 +1,79 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/103244334.dbff90b4.200x200o.b3b8b22e4ccf.jpg",
+    "player_id": 103244334,
+    "@id": "https://api.chess.com/pub/player/surefinewhatever",
+    "url": "https://www.chess.com/member/surefinewhatever",
+    "username": "surefinewhatever",
+    "title": "WFM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/XE",
+    "last_online": 1741455722,
+    "joined": 1607599648,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1999,
+            "date": 1722320438,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2323,
+            "date": 1682020838,
+            "rd": 212
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1681887714,
+            "game": "https://www.chess.com/game/live/75626499789"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2427,
+            "date": 1741677490,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2458,
+            "date": 1739746937,
+            "game": "https://www.chess.com/game/live/112121493065"
+        },
+        "record": {
+            "win": 739,
+            "loss": 522,
+            "draw": 107
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3303,
+            "date": 1729422677
+        },
+        "lowest": {
+            "rating": 809,
+            "date": 1609163548
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

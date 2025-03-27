@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16896004.998f80f7.200x200o.223cb36fd8f3.jpg",
+    "player_id": 16896004,
+    "@id": "https://api.chess.com/pub/player/thanhnghia",
+    "url": "https://www.chess.com/member/ThanhNghia",
+    "name": "Thanh Nghia Nguyen",
+    "username": "thanhnghia",
+    "title": "CM",
+    "followers": 68,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "Ho Chi Minh City, Vietnam",
+    "last_online": 1741675739,
+    "joined": 1397468421,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1974,
+            "date": 1741675771,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2036,
+            "date": 1707617741,
+            "game": "https://www.chess.com/game/daily/264417802"
+        },
+        "record": {
+            "win": 97,
+            "loss": 6,
+            "draw": 5,
+            "time_per_move": 23176,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1591,
+            "date": 1720903095,
+            "rd": 263
+        },
+        "best": {
+            "rating": 1591,
+            "date": 1720903095,
+            "game": "https://www.chess.com/game/daily/265839862"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23176,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1504,
+            "date": 1741010486,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2074,
+            "date": 1640175895,
+            "game": "https://www.chess.com/game/live/33913771297"
+        },
+        "record": {
+            "win": 14,
+            "loss": 7,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2371,
+            "date": 1699586231,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1694441661,
+            "game": "https://www.chess.com/game/live/92378497647"
+        },
+        "record": {
+            "win": 158,
+            "loss": 104,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2484,
+            "date": 1738713721,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1720542025,
+            "game": "https://www.chess.com/game/live/114276064907"
+        },
+        "record": {
+            "win": 318,
+            "loss": 193,
+            "draw": 38
+        }
+    },
+    "fide": 2124,
+    "tactics": {
+        "highest": {
+            "rating": 3494,
+            "date": 1692094518
+        },
+        "lowest": {
+            "rating": 1390,
+            "date": 1470195195
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

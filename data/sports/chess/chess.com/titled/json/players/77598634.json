@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77598634.6b73aaa7.200x200o.117b237aba14.jpg",
+    "player_id": 77598634,
+    "@id": "https://api.chess.com/pub/player/ridethesky89",
+    "url": "https://www.chess.com/member/Ridethesky89",
+    "name": "Maximiliano Codigone",
+    "username": "ridethesky89",
+    "title": "NM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741641441,
+    "joined": 1587666297,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2148,
+            "date": 1739918055,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1707598431,
+            "game": "https://www.chess.com/game/live/101455257197"
+        },
+        "record": {
+            "win": 204,
+            "loss": 239,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2394,
+            "date": 1741645981,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2448,
+            "date": 1616873537,
+            "game": "https://www.chess.com/game/live/134238558869"
+        },
+        "record": {
+            "win": 323,
+            "loss": 349,
+            "draw": 37
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3194,
+            "date": 1735785459
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1587666297
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 31
+        }
+    }
+}

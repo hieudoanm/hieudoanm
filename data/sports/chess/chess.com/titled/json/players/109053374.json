@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/109053374.23612df9.200x200o.7c8ebda7f7a7.jpg",
+    "player_id": 109053374,
+    "@id": "https://api.chess.com/pub/player/remyalasmar",
+    "url": "https://www.chess.com/member/RemyAlAsmar",
+    "name": "Remy Al asmar",
+    "username": "remyalasmar",
+    "title": "WCM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/LB",
+    "last_online": 1741698272,
+    "joined": 1609578155,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1136,
+            "date": 1738843831,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1329,
+            "date": 1663334331,
+            "game": "https://www.chess.com/game/daily/422533213"
+        },
+        "record": {
+            "win": 17,
+            "loss": 6,
+            "draw": 3,
+            "time_per_move": 36445,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2103,
+            "date": 1734824075,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2116,
+            "date": 1734193740,
+            "game": "https://www.chess.com/game/live/127511429029"
+        },
+        "record": {
+            "win": 1546,
+            "loss": 1224,
+            "draw": 226
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2033,
+            "date": 1741640014,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2239,
+            "date": 1738626810,
+            "game": "https://www.chess.com/game/live/130959629277"
+        },
+        "record": {
+            "win": 4427,
+            "loss": 4066,
+            "draw": 397
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2053,
+            "date": 1741203687,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1703455417,
+            "game": "https://www.chess.com/game/live/121622413529"
+        },
+        "record": {
+            "win": 2228,
+            "loss": 2001,
+            "draw": 267
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2963,
+            "date": 1740439709
+        },
+        "lowest": {
+            "rating": 387,
+            "date": 1610723186
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 13,
+            "score": 10
+        }
+    }
+}

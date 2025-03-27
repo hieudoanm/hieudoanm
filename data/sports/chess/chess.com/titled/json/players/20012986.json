@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20012986.1a97fd4b.200x200o.44a3156178f1.png",
+    "player_id": 20012986,
+    "@id": "https://api.chess.com/pub/player/michael_zaslavsky",
+    "url": "https://www.chess.com/member/Michael_Zaslavsky",
+    "name": "Michael Zaslavsky",
+    "username": "michael_zaslavsky",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/AE",
+    "location": "Dubai",
+    "last_online": 1740165814,
+    "joined": 1417618699,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2706,
+            "date": 1683909574,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1683909574,
+            "game": "https://www.chess.com/game/live/77643728141"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2703,
+            "date": 1628209970,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2840,
+            "date": 1628185621,
+            "game": "https://www.chess.com/game/live/21945578907"
+        },
+        "record": {
+            "win": 102,
+            "loss": 95,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2704,
+            "date": 1668737248,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1668737248,
+            "game": "https://www.chess.com/game/live/62472013877"
+        },
+        "record": {
+            "win": 241,
+            "loss": 109,
+            "draw": 45
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3256,
+            "date": 1567405421
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1566332619
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 32
+        }
+    }
+}

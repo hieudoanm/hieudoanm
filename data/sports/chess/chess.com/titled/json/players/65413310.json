@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/65413310.17080d56.200x200o.19d0e1d647f6.jpeg",
+    "player_id": 65413310,
+    "@id": "https://api.chess.com/pub/player/najdorfontop",
+    "url": "https://www.chess.com/member/Najdorfontop",
+    "username": "najdorfontop",
+    "title": "CM",
+    "followers": 62,
+    "country": "https://api.chess.com/pub/country/JP",
+    "location": "ON a Big trEe",
+    "last_online": 1740481010,
+    "joined": 1568293843,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1370,
+            "date": 1731083587,
+            "rd": 89
+        },
+        "best": {
+            "rating": 1727,
+            "date": 1577184176,
+            "game": "https://www.chess.com/game/daily/242404468"
+        },
+        "record": {
+            "win": 34,
+            "loss": 34,
+            "draw": 0,
+            "time_per_move": 41643,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1731083588,
+            "rd": 100
+        },
+        "best": {
+            "rating": 1975,
+            "date": 1688286806,
+            "game": "https://www.chess.com/game/live/82025471777"
+        },
+        "record": {
+            "win": 15,
+            "loss": 11,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2332,
+            "date": 1731149384,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2352,
+            "date": 1731149092,
+            "game": "https://www.chess.com/game/live/10671471327"
+        },
+        "record": {
+            "win": 213,
+            "loss": 112,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2364,
+            "date": 1730733907,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2429,
+            "date": 1729882151,
+            "game": "https://www.chess.com/game/live/123441080747"
+        },
+        "record": {
+            "win": 837,
+            "loss": 522,
+            "draw": 65
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3415,
+            "date": 1682838840
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1646929050
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

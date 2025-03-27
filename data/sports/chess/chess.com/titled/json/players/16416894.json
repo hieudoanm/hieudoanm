@@ -1,0 +1,84 @@
+{
+    "player_id": 16416894,
+    "@id": "https://api.chess.com/pub/player/badouuu",
+    "url": "https://www.chess.com/member/Badouuu",
+    "name": "Emma Richard",
+    "username": "badouuu",
+    "title": "WFM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741467535,
+    "joined": 1394572296,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2044,
+            "date": 1713553769,
+            "rd": 184
+        },
+        "best": {
+            "rating": 2044,
+            "date": 1713553769,
+            "game": "https://www.chess.com/game/live/107292082883"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2451,
+            "date": 1740653686,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2590,
+            "date": 1711968602,
+            "game": "https://www.chess.com/game/live/2428111636"
+        },
+        "record": {
+            "win": 2707,
+            "loss": 2446,
+            "draw": 138
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2139,
+            "date": 1741693325,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1727384676,
+            "game": "https://www.chess.com/game/live/122121536379"
+        },
+        "record": {
+            "win": 7850,
+            "loss": 7247,
+            "draw": 787
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3138,
+            "date": 1674212480
+        },
+        "lowest": {
+            "rating": 1364,
+            "date": 1493587606
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 38
+        }
+    }
+}

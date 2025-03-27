@@ -1,0 +1,135 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7387937.0d30d4d7.200x200o.46009983e08b.jpg",
+    "player_id": 7387937,
+    "@id": "https://api.chess.com/pub/player/horokoskii",
+    "url": "https://www.chess.com/member/Horokoskii",
+    "name": "Gustavo Horokoski De Souza",
+    "username": "horokoskii",
+    "title": "NM",
+    "followers": 276,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741697920,
+    "joined": 1335238090,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1502,
+            "date": 1741621075,
+            "rd": 104
+        },
+        "best": {
+            "rating": 1523,
+            "date": 1734632090,
+            "game": "https://www.chess.com/game/daily/687391115"
+        },
+        "record": {
+            "win": 36,
+            "loss": 1,
+            "draw": 6,
+            "time_per_move": 43408,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1168,
+            "date": 1729245156,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1268,
+            "date": 1729225431,
+            "game": "https://www.chess.com/game/daily/704757827"
+        },
+        "record": {
+            "win": 13,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 43408,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2024,
+            "date": 1725661835,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2123,
+            "date": 1654207505,
+            "game": "https://www.chess.com/game/live/47946067819"
+        },
+        "record": {
+            "win": 35,
+            "loss": 26,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2308,
+            "date": 1741621433,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1722218390,
+            "game": "https://www.chess.com/game/live/116445037181"
+        },
+        "record": {
+            "win": 5066,
+            "loss": 4755,
+            "draw": 563
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2231,
+            "date": 1741656072,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2273,
+            "date": 1734753173,
+            "game": "https://www.chess.com/game/live/128218192013"
+        },
+        "record": {
+            "win": 1461,
+            "loss": 1367,
+            "draw": 220
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3229,
+            "date": 1712405662
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1475906972
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

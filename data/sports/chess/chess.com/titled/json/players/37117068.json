@@ -1,0 +1,119 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37117068.09d1fa90.200x200o.cd75e5e35e88.jpg",
+    "player_id": 37117068,
+    "@id": "https://api.chess.com/pub/player/e4evr",
+    "url": "https://www.chess.com/member/e4evr",
+    "name": "Thomas Villiers",
+    "username": "e4evr",
+    "title": "CM",
+    "followers": 136,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741701003,
+    "joined": 1500361418,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1668,
+            "date": 1741703682,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2068,
+            "date": 1500469111,
+            "game": "https://www.chess.com/game/daily/170416128"
+        },
+        "record": {
+            "win": 3254,
+            "loss": 1711,
+            "draw": 351,
+            "time_per_move": 36294,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1462,
+            "date": 1598499695,
+            "rd": 216
+        },
+        "record": {
+            "win": 0,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 36294,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2502,
+            "date": 1739319263,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2511,
+            "date": 1698111541,
+            "game": "https://www.chess.com/game/live/128662405571"
+        },
+        "record": {
+            "win": 306,
+            "loss": 151,
+            "draw": 57
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2402,
+            "date": 1736919877,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2430,
+            "date": 1735086065,
+            "game": "https://www.chess.com/game/live/73524187199"
+        },
+        "record": {
+            "win": 209,
+            "loss": 132,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2501,
+            "date": 1740624951,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1692134152,
+            "game": "https://www.chess.com/game/live/45955840397"
+        },
+        "record": {
+            "win": 400,
+            "loss": 245,
+            "draw": 60
+        }
+    },
+    "fide": 2195,
+    "tactics": {
+        "highest": {
+            "rating": 3222,
+            "date": 1731166572
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1500361463
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

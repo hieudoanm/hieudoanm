@@ -1,0 +1,62 @@
+{
+    "player_id": 86778590,
+    "@id": "https://api.chess.com/pub/player/savvyshark",
+    "url": "https://www.chess.com/member/SavvyShark",
+    "name": "Shakira Ampaire",
+    "username": "savvyshark",
+    "title": "WCM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/UG",
+    "location": "Kampala",
+    "last_online": 1666451092,
+    "joined": 1594838850,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1618,
+            "date": 1629627749,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2061,
+            "date": 1596285494,
+            "game": "https://www.chess.com/game/live/5230636247"
+        },
+        "record": {
+            "win": 11,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1850,
+            "date": 1596182634,
+            "rd": 209
+        },
+        "best": {
+            "rating": 673,
+            "date": 1596106017,
+            "game": "https://www.chess.com/game/live/5225517042"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1594838850
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1594838850
+        }
+    },
+    "puzzle_rush": {}
+}

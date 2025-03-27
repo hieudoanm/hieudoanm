@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32211306.ed1fc706.200x200o.8f86e173312c.jpeg",
+    "player_id": 32211306,
+    "@id": "https://api.chess.com/pub/player/silversik",
+    "url": "https://www.chess.com/member/Silversik",
+    "name": "Piotr Jagodzinski",
+    "username": "silversik",
+    "title": "CM",
+    "followers": 124,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Zary",
+    "last_online": 1741035254,
+    "joined": 1483805918,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2060,
+            "date": 1738332116,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2074,
+            "date": 1595937001,
+            "game": "https://www.chess.com/game/daily/271459014"
+        },
+        "record": {
+            "win": 15,
+            "loss": 4,
+            "draw": 1,
+            "time_per_move": 5639,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2284,
+            "date": 1738396458,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2284,
+            "date": 1738396458,
+            "game": "https://www.chess.com/game/live/50181590453"
+        },
+        "record": {
+            "win": 51,
+            "loss": 21,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2550,
+            "date": 1738788259,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2725,
+            "date": 1655320772,
+            "game": "https://www.chess.com/game/live/51645642749"
+        },
+        "record": {
+            "win": 2297,
+            "loss": 2665,
+            "draw": 278
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2647,
+            "date": 1741132528,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2827,
+            "date": 1738067171,
+            "game": "https://www.chess.com/game/live/4678290047"
+        },
+        "record": {
+            "win": 5024,
+            "loss": 5617,
+            "draw": 763
+        }
+    },
+    "fide": 2205,
+    "tactics": {
+        "highest": {
+            "rating": 3087,
+            "date": 1738009959
+        },
+        "lowest": {
+            "rating": 1198,
+            "date": 1522689624
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

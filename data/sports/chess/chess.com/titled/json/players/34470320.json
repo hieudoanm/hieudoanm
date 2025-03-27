@@ -1,0 +1,67 @@
+{
+    "player_id": 34470320,
+    "@id": "https://api.chess.com/pub/player/tagir45",
+    "url": "https://www.chess.com/member/Tagir45",
+    "name": "Tagir Salemgareev",
+    "username": "tagir45",
+    "title": "IM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1738257339,
+    "joined": 1491160227,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2535,
+            "date": 1590516924,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2419,
+            "date": 1586162346,
+            "game": "https://www.chess.com/game/live/3866059419"
+        },
+        "record": {
+            "win": 44,
+            "loss": 29,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2566,
+            "date": 1727802102,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2805,
+            "date": 1622636347,
+            "game": "https://www.chess.com/game/live/107625259631"
+        },
+        "record": {
+            "win": 1436,
+            "loss": 1166,
+            "draw": 254
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 5074,
+            "date": 1560425353
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1494416944
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/150544523.19283617.200x200o.9636dd86b107.jpeg",
+    "player_id": 150544523,
+    "@id": "https://api.chess.com/pub/player/pds7603",
+    "url": "https://www.chess.com/member/PDS7603",
+    "name": "GIRINATH PDS",
+    "username": "pds7603",
+    "title": "IM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "HYDERABAD,INDIA.",
+    "last_online": 1735485552,
+    "joined": 1628483071,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 396,
+            "date": 1694576327,
+            "rd": 345
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 882721,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1409,
+            "date": 1698234167,
+            "rd": 143
+        },
+        "best": {
+            "rating": 1409,
+            "date": 1698234167,
+            "game": "https://www.chess.com/game/live/91972195767"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2137,
+            "date": 1741623253,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2301,
+            "date": 1656089632,
+            "game": "https://www.chess.com/game/live/49798219635"
+        },
+        "record": {
+            "win": 2534,
+            "loss": 1789,
+            "draw": 124
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2347,
+            "date": 1715094842,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2557,
+            "date": 1645850893,
+            "game": "https://www.chess.com/game/live/27887343951"
+        },
+        "record": {
+            "win": 3682,
+            "loss": 3002,
+            "draw": 426
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3731,
+            "date": 1661093467
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1629294253
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 44
+        }
+    }
+}

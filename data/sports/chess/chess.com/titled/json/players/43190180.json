@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43190180.574a5aac.200x200o.8d1e0bf29635.png",
+    "player_id": 43190180,
+    "@id": "https://api.chess.com/pub/player/alexostrovskiy",
+    "url": "https://www.chess.com/member/AlexOstrovskiy",
+    "name": "Alex Ostrovskiy",
+    "username": "alexostrovskiy",
+    "title": "IM",
+    "followers": 177,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741669079,
+    "joined": 1518245007,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2639,
+            "date": 1694886076,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2896,
+            "date": 1604260630,
+            "game": "https://www.chess.com/game/live/5670728775"
+        },
+        "record": {
+            "win": 1956,
+            "loss": 1536,
+            "draw": 213
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2727,
+            "date": 1740813626,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2882,
+            "date": 1636483115,
+            "game": "https://www.chess.com/game/live/18729019469"
+        },
+        "record": {
+            "win": 2032,
+            "loss": 1459,
+            "draw": 287
+        }
+    },
+    "fide": 2434,
+    "tactics": {
+        "highest": {
+            "rating": 3348,
+            "date": 1719472657
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1584673259
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "player_id": 362638277,
+    "@id": "https://api.chess.com/pub/player/eptsiberia",
+    "url": "https://www.chess.com/member/eptsiberia",
+    "username": "eptsiberia",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741686755,
+    "joined": 1715483042,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2280,
+            "date": 1739862300,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2283,
+            "date": 1724893243,
+            "game": "https://www.chess.com/game/live/126338940169"
+        },
+        "record": {
+            "win": 64,
+            "loss": 26,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2334,
+            "date": 1740470053,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2311,
+            "date": 1723606044,
+            "game": "https://www.chess.com/game/live/116048996141"
+        },
+        "record": {
+            "win": 36,
+            "loss": 19,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2474,
+            "date": 1741688329,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2597,
+            "date": 1738300795,
+            "game": "https://www.chess.com/game/live/114925688317"
+        },
+        "record": {
+            "win": 434,
+            "loss": 335,
+            "draw": 89
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2676,
+            "date": 1728347319
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1715483042
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

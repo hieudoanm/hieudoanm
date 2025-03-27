@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8379920.c86c9c45.200x200o.87797e219678.jpeg",
+    "player_id": 8379920,
+    "@id": "https://api.chess.com/pub/player/drdrebeats",
+    "url": "https://www.chess.com/member/DrDreBeats",
+    "name": "Nelson III Mariano",
+    "username": "drdrebeats",
+    "title": "FM",
+    "followers": 411,
+    "country": "https://api.chess.com/pub/country/PH",
+    "location": "Metro Manila",
+    "last_online": 1741667499,
+    "joined": 1343710449,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1022,
+            "date": 1679558864,
+            "rd": 215
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 65167,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2112,
+            "date": 1729942690,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2231,
+            "date": 1594410412,
+            "game": "https://www.chess.com/game/live/20610080581"
+        },
+        "record": {
+            "win": 75,
+            "loss": 57,
+            "draw": 39
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2736,
+            "date": 1740673201,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2841,
+            "date": 1725193727,
+            "game": "https://www.chess.com/game/live/118919371733"
+        },
+        "record": {
+            "win": 385,
+            "loss": 334,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2661,
+            "date": 1741668353,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1708260875,
+            "game": "https://www.chess.com/game/live/49472993149"
+        },
+        "record": {
+            "win": 1299,
+            "loss": 1236,
+            "draw": 224
+        }
+    },
+    "fide": 2322,
+    "tactics": {
+        "highest": {
+            "rating": 3295,
+            "date": 1739435356
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1343711125
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44859386.6b61216e.200x200o.c4461bed0496.jpeg",
+    "player_id": 44859386,
+    "@id": "https://api.chess.com/pub/player/khaliunaa01",
+    "url": "https://www.chess.com/member/Khaliunaa01",
+    "name": "Khaliun Batnasan",
+    "username": "khaliunaa01",
+    "title": "WFM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1741335850,
+    "joined": 1522572758,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2244,
+            "date": 1730299511,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1667539796,
+            "game": "https://www.chess.com/game/live/61108109377"
+        },
+        "record": {
+            "win": 53,
+            "loss": 20,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1866,
+            "date": 1676878613,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1667930667,
+            "game": "https://www.chess.com/game/live/61663925991"
+        },
+        "record": {
+            "win": 65,
+            "loss": 34,
+            "draw": 7
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3258,
+            "date": 1730112098
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1608124014
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 47
+        }
+    }
+}

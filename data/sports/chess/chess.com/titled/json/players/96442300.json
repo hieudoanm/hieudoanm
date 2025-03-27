@@ -1,0 +1,66 @@
+{
+    "player_id": 96442300,
+    "@id": "https://api.chess.com/pub/player/artemidaa",
+    "url": "https://www.chess.com/member/Artemidaa",
+    "username": "artemidaa",
+    "title": "WGM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741642231,
+    "joined": 1605203906,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2265,
+            "date": 1620370676,
+            "rd": 205
+        },
+        "best": {
+            "rating": 2265,
+            "date": 1620370676,
+            "game": "https://www.chess.com/game/live/14108561921"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2258,
+            "date": 1741642708,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1655057409,
+            "game": "https://www.chess.com/game/live/48795651837"
+        },
+        "record": {
+            "win": 1789,
+            "loss": 2056,
+            "draw": 344
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2018,
+            "date": 1620369039
+        },
+        "lowest": {
+            "rating": 1986,
+            "date": 1620368935
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 3,
+            "score": 2
+        }
+    }
+}

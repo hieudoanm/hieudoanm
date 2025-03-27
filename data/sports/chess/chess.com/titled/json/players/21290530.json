@@ -1,0 +1,84 @@
+{
+    "player_id": 21290530,
+    "@id": "https://api.chess.com/pub/player/itscheckm8mate",
+    "url": "https://www.chess.com/member/ItsCheckM8Mate",
+    "name": "Michelle Catherina, P",
+    "username": "itscheckm8mate",
+    "title": "WIM",
+    "followers": 69,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741640240,
+    "joined": 1425047295,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2453,
+            "date": 1690838216,
+            "rd": 210
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1619716047,
+            "game": "https://www.chess.com/game/live/5970574999"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2057,
+            "date": 1683646640,
+            "rd": 121
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1605620663,
+            "game": "https://www.chess.com/game/live/5030832899"
+        },
+        "record": {
+            "win": 206,
+            "loss": 170,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2415,
+            "date": 1741106379,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1693328589,
+            "game": "https://www.chess.com/game/live/8163857671"
+        },
+        "record": {
+            "win": 222,
+            "loss": 204,
+            "draw": 33
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2547,
+            "date": 1695168224
+        },
+        "lowest": {
+            "rating": 1244,
+            "date": 1481386503
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

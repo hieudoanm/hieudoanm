@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/327020419.6bd8c24f.200x200o.00bf793b38d2.jpg",
+    "player_id": 327020419,
+    "@id": "https://api.chess.com/pub/player/vorobei1978",
+    "url": "https://www.chess.com/member/Vorobei1978",
+    "name": "Denis Trifonov",
+    "username": "vorobei1978",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/BY",
+    "location": "Minsk",
+    "last_online": 1741693071,
+    "joined": 1700377985,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2216,
+            "date": 1741186600,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2242,
+            "date": 1739202263,
+            "game": "https://www.chess.com/game/live/132935996585"
+        },
+        "record": {
+            "win": 14,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2338,
+            "date": 1741366840,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2393,
+            "date": 1736608604,
+            "game": "https://www.chess.com/game/live/130347617489"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2591,
+            "date": 1741690949,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1739114224,
+            "game": "https://www.chess.com/game/live/128795001047"
+        },
+        "record": {
+            "win": 1007,
+            "loss": 1001,
+            "draw": 161
+        }
+    },
+    "fide": 2163,
+    "tactics": {
+        "highest": {
+            "rating": 3063,
+            "date": 1740734743
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1700377985
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        },
+        "daily": {
+            "total_attempts": 20,
+            "score": 17
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "player_id": 15683858,
+    "@id": "https://api.chess.com/pub/player/dvayntrub",
+    "url": "https://www.chess.com/member/dvayntrub",
+    "name": "Dmitry Vayntrub",
+    "username": "dvayntrub",
+    "title": "NM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "SF Bay Area",
+    "last_online": 1741656615,
+    "joined": 1390324446,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2236,
+            "date": 1624746274,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1617481938,
+            "game": "https://www.chess.com/game/live/18426596525"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1735,
+            "date": 1740544008,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2311,
+            "date": 1740542746,
+            "game": "https://www.chess.com/game/live/134282940647"
+        },
+        "record": {
+            "win": 5,
+            "loss": 7,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2254,
+            "date": 1741657123,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1689824975,
+            "game": "https://www.chess.com/game/live/50035210459"
+        },
+        "record": {
+            "win": 2776,
+            "loss": 2100,
+            "draw": 373
+        }
+    },
+    "fide": 2254,
+    "tactics": {
+        "highest": {
+            "rating": 3481,
+            "date": 1699243904
+        },
+        "lowest": {
+            "rating": 2217,
+            "date": 1591849857
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 29,
+            "score": 26
+        }
+    }
+}

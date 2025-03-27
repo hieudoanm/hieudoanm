@@ -1,0 +1,68 @@
+{
+    "player_id": 50528434,
+    "@id": "https://api.chess.com/pub/player/samdanov",
+    "url": "https://www.chess.com/member/samdanov",
+    "name": "Samdan Samdanov",
+    "username": "samdanov",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Ulan-Ude",
+    "last_online": 1623818203,
+    "joined": 1538994345,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2431,
+            "date": 1614887220,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2496,
+            "date": 1545210689,
+            "game": "https://www.chess.com/game/live/3310701803"
+        },
+        "record": {
+            "win": 83,
+            "loss": 120,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2437,
+            "date": 1620487775,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1615346750,
+            "game": "https://www.chess.com/game/live/9178656367"
+        },
+        "record": {
+            "win": 548,
+            "loss": 615,
+            "draw": 52
+        }
+    },
+    "fide": 2294,
+    "tactics": {
+        "highest": {
+            "rating": 2381,
+            "date": 1544197726
+        },
+        "lowest": {
+            "rating": 2206,
+            "date": 1539836804
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

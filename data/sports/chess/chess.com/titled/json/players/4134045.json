@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4134045.95dee643.200x200o.5a33f3b6f3e3.jpg",
+    "player_id": 4134045,
+    "@id": "https://api.chess.com/pub/player/el-ajedrecista",
+    "url": "https://www.chess.com/member/El-Ajedrecista",
+    "name": "Mike Fellman",
+    "username": "el-ajedrecista",
+    "title": "FM",
+    "followers": 132,
+    "country": "https://api.chess.com/pub/country/HR",
+    "location": "El Mundo",
+    "last_online": 1740335019,
+    "joined": 1287383673,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1698,
+            "date": 1727109522,
+            "rd": 181
+        },
+        "best": {
+            "rating": 1698,
+            "date": 1620434403,
+            "game": "https://www.chess.com/game/daily/320265558"
+        },
+        "record": {
+            "win": 8,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 94721,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2091,
+            "date": 1658538638,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1658537021,
+            "game": "https://www.chess.com/game/live/52275042769"
+        },
+        "record": {
+            "win": 67,
+            "loss": 28,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1957,
+            "date": 1674779505,
+            "rd": 74
+        },
+        "best": {
+            "rating": 1993,
+            "date": 1674777893,
+            "game": "https://www.chess.com/game/live/68516527859"
+        },
+        "record": {
+            "win": 35,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1938,
+            "date": 1741594734,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2044,
+            "date": 1688756634,
+            "game": "https://www.chess.com/game/live/2235733121"
+        },
+        "record": {
+            "win": 6720,
+            "loss": 5910,
+            "draw": 619
+        }
+    },
+    "fide": 2201,
+    "tactics": {
+        "highest": {
+            "rating": 2544,
+            "date": 1680296517
+        },
+        "lowest": {
+            "rating": 1393,
+            "date": 1374287745
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 17,
+            "score": 16
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "player_id": 26087752,
+    "@id": "https://api.chess.com/pub/player/schubakov",
+    "url": "https://www.chess.com/member/schubakov",
+    "name": "Sultan Chubakov",
+    "username": "schubakov",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/KG",
+    "location": "Bishkek",
+    "last_online": 1741684175,
+    "joined": 1452569962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1800,
+            "date": 1715359247,
+            "rd": 188
+        },
+        "record": {
+            "win": 2,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 304967,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2070,
+            "date": 1709289490,
+            "rd": 215
+        },
+        "best": {
+            "rating": 2070,
+            "date": 1709289490,
+            "game": "https://www.chess.com/game/live/103027973327"
+        },
+        "record": {
+            "win": 22,
+            "loss": 12,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2315,
+            "date": 1741547299,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1724583206,
+            "game": "https://www.chess.com/game/live/103657334503"
+        },
+        "record": {
+            "win": 202,
+            "loss": 127,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2461,
+            "date": 1741423699,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1731407163,
+            "game": "https://www.chess.com/game/live/3706069491"
+        },
+        "record": {
+            "win": 803,
+            "loss": 566,
+            "draw": 97
+        }
+    },
+    "fide": 2304,
+    "tactics": {
+        "highest": {
+            "rating": 3703,
+            "date": 1521782131
+        },
+        "lowest": {
+            "rating": 1001,
+            "date": 1453130521
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        },
+        "daily": {
+            "total_attempts": 54,
+            "score": 52
+        }
+    }
+}

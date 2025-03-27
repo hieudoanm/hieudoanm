@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/103742934.4141d8b8.200x200o.bbe7177eaaaa.png",
+    "player_id": 103742934,
+    "@id": "https://api.chess.com/pub/player/deenzerz",
+    "url": "https://www.chess.com/member/Deenzerz",
+    "name": "Alejandro Cuellar Montes",
+    "username": "deenzerz",
+    "title": "CM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741550898,
+    "joined": 1607771120,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1866,
+            "date": 1737637981,
+            "rd": 53
+        },
+        "best": {
+            "rating": 1939,
+            "date": 1692882722,
+            "game": "https://www.chess.com/game/daily/391171809"
+        },
+        "record": {
+            "win": 213,
+            "loss": 57,
+            "draw": 21,
+            "time_per_move": 4613,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1726153964,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1726153964,
+            "game": "https://www.chess.com/game/live/119892060185"
+        },
+        "record": {
+            "win": 14,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2532,
+            "date": 1739818246,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2695,
+            "date": 1729370783,
+            "game": "https://www.chess.com/game/live/123764376845"
+        },
+        "record": {
+            "win": 885,
+            "loss": 698,
+            "draw": 110
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2539,
+            "date": 1741110962,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1735244959,
+            "game": "https://www.chess.com/game/live/132424914365"
+        },
+        "record": {
+            "win": 691,
+            "loss": 645,
+            "draw": 113
+        }
+    },
+    "fide": 2190,
+    "tactics": {
+        "highest": {
+            "rating": 2377,
+            "date": 1735895401
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1668849085
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

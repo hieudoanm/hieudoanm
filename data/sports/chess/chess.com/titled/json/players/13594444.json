@@ -1,0 +1,25 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13594444.4189bd33.200x200o.5b28e9ea96c4.jpeg",
+    "player_id": 13594444,
+    "@id": "https://api.chess.com/pub/player/david_arutinian",
+    "url": "https://www.chess.com/member/David_Arutinian",
+    "name": "David Arutinian",
+    "username": "david_arutinian",
+    "title": "GM",
+    "followers": 2212,
+    "country": "https://api.chess.com/pub/country/GE",
+    "location": "Tbilisi",
+    "last_online": 1734161488,
+    "joined": 1379661651,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmarutinian",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmarutinian"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/68221396.7dfc2c0c.200x200o.9878f2c41d57.jpg",
+    "player_id": 68221396,
+    "@id": "https://api.chess.com/pub/player/starbrightstarlight101",
+    "url": "https://www.chess.com/member/StarBrightStarLight101",
+    "username": "starbrightstarlight101",
+    "title": "FM",
+    "followers": 162,
+    "country": "https://api.chess.com/pub/country/TH",
+    "location": "Bangkok, Thailand",
+    "last_online": 1741679159,
+    "joined": 1574236476,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1853,
+            "date": 1739588995,
+            "rd": 245
+        },
+        "best": {
+            "rating": 1853,
+            "date": 1719844694,
+            "game": "https://www.chess.com/game/daily/425968815"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 92010,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2166,
+            "date": 1740832069,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2664,
+            "date": 1602234261,
+            "game": "https://www.chess.com/game/live/6499939179"
+        },
+        "record": {
+            "win": 27,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2122,
+            "date": 1741524831,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2311,
+            "date": 1698463889,
+            "game": "https://www.chess.com/game/live/83089056403"
+        },
+        "record": {
+            "win": 2450,
+            "loss": 1727,
+            "draw": 132
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2414,
+            "date": 1739790308,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1587802569,
+            "game": "https://www.chess.com/game/live/4480568695"
+        },
+        "record": {
+            "win": 495,
+            "loss": 300,
+            "draw": 61
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3386,
+            "date": 1715679457
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1575118957
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

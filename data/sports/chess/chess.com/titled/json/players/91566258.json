@@ -1,0 +1,45 @@
+{
+    "player_id": 91566258,
+    "@id": "https://api.chess.com/pub/player/rebrab1",
+    "url": "https://www.chess.com/member/rebrab1",
+    "username": "rebrab1",
+    "title": "NM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741658750,
+    "joined": 1600551584,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2029,
+            "date": 1741586972,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2056,
+            "date": 1688972163,
+            "game": "https://www.chess.com/game/live/116651386649"
+        },
+        "record": {
+            "win": 277,
+            "loss": 148,
+            "draw": 86
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2882,
+            "date": 1714010022
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1600907421
+        }
+    },
+    "puzzle_rush": {}
+}

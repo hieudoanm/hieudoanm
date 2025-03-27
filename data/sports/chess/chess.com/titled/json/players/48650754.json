@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48650754.7d478319.200x200o.5d7afa4ef5f4.jpg",
+    "player_id": 48650754,
+    "@id": "https://api.chess.com/pub/player/ionutdd123",
+    "url": "https://www.chess.com/member/Ionutdd123",
+    "name": "Ionut-Alexandru Dobrin",
+    "username": "ionutdd123",
+    "title": "CM",
+    "followers": 168,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Bucharest",
+    "last_online": 1741617262,
+    "joined": 1533929610,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2302,
+            "date": 1731794704,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2302,
+            "date": 1689158277,
+            "game": "https://www.chess.com/game/live/82890040765"
+        },
+        "record": {
+            "win": 95,
+            "loss": 38,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2452,
+            "date": 1741617589,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2490,
+            "date": 1731196729,
+            "game": "https://www.chess.com/game/live/124935543697"
+        },
+        "record": {
+            "win": 382,
+            "loss": 285,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1741621859,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2635,
+            "date": 1736796353,
+            "game": "https://www.chess.com/game/live/130534191379"
+        },
+        "record": {
+            "win": 2562,
+            "loss": 2072,
+            "draw": 445
+        }
+    },
+    "fide": 2215,
+    "tactics": {
+        "highest": {
+            "rating": 3446,
+            "date": 1712572082
+        },
+        "lowest": {
+            "rating": 409,
+            "date": 1534075625
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32734756.3c2e99b3.200x200o.1208c4e9f621.png",
+    "player_id": 32734756,
+    "@id": "https://api.chess.com/pub/player/photochess",
+    "url": "https://www.chess.com/member/PhotoChess",
+    "name": "Maria Emelianova",
+    "username": "photochess",
+    "title": "WFM",
+    "followers": 2364,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "Utrecht",
+    "last_online": 1741699870,
+    "joined": 1485599654,
+    "status": "staff",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/photochess",
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/photochess"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1237,
+            "date": 1741681732,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2018,
+            "date": 1530223962,
+            "game": "https://www.chess.com/game/daily/179799666"
+        },
+        "record": {
+            "win": 85,
+            "loss": 118,
+            "draw": 8,
+            "time_per_move": 99388,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1087,
+            "date": 1709548718,
+            "rd": 140
+        },
+        "best": {
+            "rating": 1603,
+            "date": 1511356982,
+            "game": "https://www.chess.com/game/daily/175001336"
+        },
+        "record": {
+            "win": 6,
+            "loss": 19,
+            "draw": 0,
+            "time_per_move": 99388,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1900,
+            "date": 1741643132,
+            "rd": 129
+        },
+        "best": {
+            "rating": 1921,
+            "date": 1712695530,
+            "game": "https://www.chess.com/game/live/124752610347"
+        },
+        "record": {
+            "win": 32,
+            "loss": 16,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1703,
+            "date": 1739394370,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1893,
+            "date": 1600007510,
+            "game": "https://www.chess.com/game/live/114463881909"
+        },
+        "record": {
+            "win": 180,
+            "loss": 149,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1732,
+            "date": 1741453285,
+            "rd": 74
+        },
+        "best": {
+            "rating": 1974,
+            "date": 1622269786,
+            "game": "https://www.chess.com/game/live/4240866665"
+        },
+        "record": {
+            "win": 460,
+            "loss": 357,
+            "draw": 40
+        }
+    },
+    "fide": 2049,
+    "tactics": {
+        "highest": {
+            "rating": 3174,
+            "date": 1733154268
+        },
+        "lowest": {
+            "rating": 1290,
+            "date": 1485603466
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 86,
+            "score": 83
+        },
+        "daily": {
+            "total_attempts": 51,
+            "score": 49
+        }
+    }
+}

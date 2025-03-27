@@ -1,0 +1,68 @@
+{
+    "player_id": 52635754,
+    "@id": "https://api.chess.com/pub/player/mironov_c5",
+    "url": "https://www.chess.com/member/Mironov_C5",
+    "name": "Vladimir Mironov",
+    "username": "mironov_c5",
+    "title": "IM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1739615642,
+    "joined": 1543689382,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2525,
+            "date": 1741619610,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2530,
+            "date": 1643038417,
+            "game": "https://www.chess.com/game/live/35790377667"
+        },
+        "record": {
+            "win": 1554,
+            "loss": 1357,
+            "draw": 108
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2509,
+            "date": 1738421567,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1738421567,
+            "game": "https://www.chess.com/game/live/99568294733"
+        },
+        "record": {
+            "win": 934,
+            "loss": 692,
+            "draw": 97
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3392,
+            "date": 1699828026
+        },
+        "lowest": {
+            "rating": 817,
+            "date": 1543690743
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

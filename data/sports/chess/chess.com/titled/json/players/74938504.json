@@ -1,0 +1,103 @@
+{
+    "player_id": 74938504,
+    "@id": "https://api.chess.com/pub/player/bobdakow",
+    "url": "https://www.chess.com/member/BobDaKow",
+    "name": "Jed Sloan",
+    "username": "bobdakow",
+    "title": "CM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741656855,
+    "joined": 1585488417,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1669,
+            "date": 1733909402,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1610425513,
+            "game": "https://www.chess.com/game/daily/297390854"
+        },
+        "record": {
+            "win": 16,
+            "loss": 16,
+            "draw": 0,
+            "time_per_move": 72607,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2089,
+            "date": 1738358060,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2157,
+            "date": 1652625610,
+            "game": "https://www.chess.com/game/live/46273233399"
+        },
+        "record": {
+            "win": 27,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1965,
+            "date": 1740269444,
+            "rd": 150
+        },
+        "best": {
+            "rating": 2527,
+            "date": 1606876619,
+            "game": "https://www.chess.com/game/live/5835178608"
+        },
+        "record": {
+            "win": 16,
+            "loss": 23,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1767,
+            "date": 1740243192,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1697578149,
+            "game": "https://www.chess.com/game/live/4926198376"
+        },
+        "record": {
+            "win": 206,
+            "loss": 203,
+            "draw": 28
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1297,
+            "date": 1660823814
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1618003674
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

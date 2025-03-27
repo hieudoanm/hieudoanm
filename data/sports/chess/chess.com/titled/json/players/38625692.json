@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38625692.890b7620.200x200o.8db51d153e69.jpeg",
+    "player_id": 38625692,
+    "@id": "https://api.chess.com/pub/player/ellipsoul",
+    "url": "https://www.chess.com/member/Ellipsoul",
+    "name": "Aron Teh",
+    "username": "ellipsoul",
+    "title": "FM",
+    "followers": 252,
+    "country": "https://api.chess.com/pub/country/MY",
+    "location": "Everywhere",
+    "last_online": 1741435509,
+    "joined": 1505376968,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1945,
+            "date": 1731628419,
+            "rd": 62
+        },
+        "best": {
+            "rating": 1968,
+            "date": 1553009624,
+            "game": "https://www.chess.com/game/daily/276983662"
+        },
+        "record": {
+            "win": 60,
+            "loss": 27,
+            "draw": 5,
+            "time_per_move": 9011,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2436,
+            "date": 1693486883,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2479,
+            "date": 1684698775,
+            "game": "https://www.chess.com/game/live/81277305269"
+        },
+        "record": {
+            "win": 38,
+            "loss": 19,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2697,
+            "date": 1731148626,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1683444534,
+            "game": "https://www.chess.com/game/live/124887538909"
+        },
+        "record": {
+            "win": 829,
+            "loss": 563,
+            "draw": 138
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2714,
+            "date": 1731542126,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2716,
+            "date": 1714589408,
+            "game": "https://www.chess.com/game/live/12086037961"
+        },
+        "record": {
+            "win": 1179,
+            "loss": 823,
+            "draw": 299
+        }
+    },
+    "fide": 2263,
+    "tactics": {
+        "highest": {
+            "rating": 3700,
+            "date": 1703617516
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1507115884
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 42
+        }
+    }
+}

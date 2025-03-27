@@ -1,0 +1,89 @@
+{
+    "player_id": 360821167,
+    "@id": "https://api.chess.com/pub/player/bryantman2014",
+    "url": "https://www.chess.com/member/Bryantman2014",
+    "name": "Seyed Kian Ghoreishi Amiri",
+    "username": "bryantman2014",
+    "title": "CM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741697566,
+    "joined": 1714680366,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2090,
+            "date": 1741286467,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2090,
+            "date": 1726827713,
+            "game": "https://www.chess.com/game/live/120565837849"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2431,
+            "date": 1740228504,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1724089196,
+            "game": "https://www.chess.com/game/live/123093692021"
+        },
+        "record": {
+            "win": 145,
+            "loss": 114,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2666,
+            "date": 1741111108,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1735663007,
+            "game": "https://www.chess.com/game/live/125772006501"
+        },
+        "record": {
+            "win": 100,
+            "loss": 75,
+            "draw": 21
+        }
+    },
+    "fide": 2082,
+    "tactics": {
+        "highest": {
+            "rating": 3846,
+            "date": 1736234134
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1714680366
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        },
+        "daily": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

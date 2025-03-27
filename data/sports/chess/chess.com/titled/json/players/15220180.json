@@ -1,0 +1,124 @@
+{
+    "player_id": 15220180,
+    "@id": "https://api.chess.com/pub/player/olifantcz",
+    "url": "https://www.chess.com/member/OlifantCZ",
+    "name": "Olga Sikorova",
+    "username": "olifantcz",
+    "title": "WGM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "location": "T\u0159inec",
+    "last_online": 1741631032,
+    "joined": 1387964962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2017,
+            "date": 1741691299,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2017,
+            "date": 1741000955,
+            "game": "https://www.chess.com/game/daily/758073871"
+        },
+        "record": {
+            "win": 120,
+            "loss": 21,
+            "draw": 11,
+            "time_per_move": 9600,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1830,
+            "date": 1739971445,
+            "rd": 96
+        },
+        "best": {
+            "rating": 1830,
+            "date": 1739971445,
+            "game": "https://www.chess.com/game/daily/674186377"
+        },
+        "record": {
+            "win": 88,
+            "loss": 16,
+            "draw": 2,
+            "time_per_move": 9600,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2102,
+            "date": 1741548515,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2319,
+            "date": 1605374698,
+            "game": "https://www.chess.com/game/live/17258045507"
+        },
+        "record": {
+            "win": 61,
+            "loss": 29,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2214,
+            "date": 1741530421,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1608413025,
+            "game": "https://www.chess.com/game/live/107448264917"
+        },
+        "record": {
+            "win": 600,
+            "loss": 368,
+            "draw": 57
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2241,
+            "date": 1740864619,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1659798552,
+            "game": "https://www.chess.com/game/live/46790368791"
+        },
+        "record": {
+            "win": 3715,
+            "loss": 3332,
+            "draw": 452
+        }
+    },
+    "fide": 2211,
+    "tactics": {
+        "highest": {
+            "rating": 3263,
+            "date": 1698486532
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1468605067
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

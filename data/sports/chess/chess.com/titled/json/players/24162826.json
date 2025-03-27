@@ -1,0 +1,86 @@
+{
+    "player_id": 24162826,
+    "@id": "https://api.chess.com/pub/player/vrml20",
+    "url": "https://www.chess.com/member/VRML20",
+    "name": "Asuka Nakamura",
+    "username": "vrml20",
+    "title": "NM",
+    "followers": 172,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York, NY",
+    "last_online": 1741564532,
+    "joined": 1442540302,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2089,
+            "date": 1738728746,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2089,
+            "date": 1738728745,
+            "game": "https://www.chess.com/game/live/132467413953"
+        },
+        "record": {
+            "win": 8,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2719,
+            "date": 1741565223,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2755,
+            "date": 1738722695,
+            "game": "https://www.chess.com/game/live/81291813231"
+        },
+        "record": {
+            "win": 5631,
+            "loss": 4701,
+            "draw": 1044
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2583,
+            "date": 1741488908,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1637011109,
+            "game": "https://www.chess.com/game/live/87436915495"
+        },
+        "record": {
+            "win": 2279,
+            "loss": 2501,
+            "draw": 863
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3674,
+            "date": 1651892933
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1512875506
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

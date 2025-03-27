@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60434179.29c0184e.200x200o.e79a5debe59c.jpg",
+    "player_id": 60434179,
+    "@id": "https://api.chess.com/pub/player/adrianmartelli",
+    "url": "https://www.chess.com/member/AdrianMartelli",
+    "name": "Adrian Moldovan",
+    "username": "adrianmartelli",
+    "title": "NM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741654632,
+    "joined": 1556676105,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1130,
+            "date": 1735901674,
+            "rd": 285
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1556676105,
+            "game": "https://www.chess.com/game/daily/659865889"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 102172,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2119,
+            "date": 1735901674,
+            "rd": 232
+        },
+        "best": {
+            "rating": 1893,
+            "date": 1611383738,
+            "game": "https://www.chess.com/game/live/5130954495"
+        },
+        "record": {
+            "win": 27,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2569,
+            "date": 1741035968,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1739466083,
+            "game": "https://www.chess.com/game/live/133136350461"
+        },
+        "record": {
+            "win": 301,
+            "loss": 238,
+            "draw": 24
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2545,
+            "date": 1741304752,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1739923537,
+            "game": "https://www.chess.com/game/live/130615886883"
+        },
+        "record": {
+            "win": 221,
+            "loss": 157,
+            "draw": 22
+        }
+    },
+    "fide": 2119,
+    "tactics": {
+        "highest": {
+            "rating": 3108,
+            "date": 1739408266
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1589838615
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

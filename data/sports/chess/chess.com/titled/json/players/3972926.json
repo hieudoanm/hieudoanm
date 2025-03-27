@@ -1,0 +1,30 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3972926.de128221.200x200o.b2a8ed31d99f.jpeg",
+    "player_id": 3972926,
+    "@id": "https://api.chess.com/pub/player/chess_ik",
+    "url": "https://www.chess.com/member/chess_ik",
+    "name": "Ivan Kornilov",
+    "username": "chess_ik",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Moscow",
+    "last_online": 1307210516,
+    "joined": 1284389649,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2391,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1284389649
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1284389649
+        }
+    },
+    "puzzle_rush": {}
+}

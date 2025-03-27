@@ -1,0 +1,96 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41600116.3f2074ec.200x200o.5e20a3ba10d6.jpg",
+    "player_id": 41600116,
+    "@id": "https://api.chess.com/pub/player/giorgi-sibashvili",
+    "url": "https://www.chess.com/member/Giorgi-Sibashvili",
+    "name": "Giorgi Sibashvili",
+    "username": "giorgi-sibashvili",
+    "title": "IM",
+    "followers": 411,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1741703900,
+    "joined": 1514030702,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/imgiorgisibashvili",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/imgiorgisibashvili"
+        },
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@imgiorgisibashvili"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2442,
+            "date": 1735915297,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1735913072,
+            "game": "https://www.chess.com/game/live/129649730701"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2778,
+            "date": 1738175896,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2793,
+            "date": 1738175538,
+            "game": "https://www.chess.com/game/live/12602239741"
+        },
+        "record": {
+            "win": 166,
+            "loss": 113,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2820,
+            "date": 1741175497,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1738314944,
+            "game": "https://www.chess.com/game/live/126983418525"
+        },
+        "record": {
+            "win": 709,
+            "loss": 578,
+            "draw": 127
+        }
+    },
+    "fide": 2423,
+    "tactics": {
+        "highest": {
+            "rating": 3434,
+            "date": 1526124549
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1514389803
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

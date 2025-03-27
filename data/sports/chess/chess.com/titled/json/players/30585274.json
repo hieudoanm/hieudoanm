@@ -1,0 +1,85 @@
+{
+    "player_id": 30585274,
+    "@id": "https://api.chess.com/pub/player/pepekan",
+    "url": "https://www.chess.com/member/Pepekan",
+    "name": "Pepe Kan",
+    "username": "pepekan",
+    "title": "IM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Madrid",
+    "last_online": 1741608531,
+    "joined": 1477423034,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2298,
+            "date": 1702850376,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1641422949,
+            "game": "https://www.chess.com/game/live/59767315259"
+        },
+        "record": {
+            "win": 292,
+            "loss": 182,
+            "draw": 37
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2264,
+            "date": 1715545587,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1652115438,
+            "game": "https://www.chess.com/game/live/44618431239"
+        },
+        "record": {
+            "win": 466,
+            "loss": 115,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2367,
+            "date": 1715547636,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1637240427,
+            "game": "https://www.chess.com/game/live/51532778595"
+        },
+        "record": {
+            "win": 1728,
+            "loss": 694,
+            "draw": 244
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3602,
+            "date": 1736409885
+        },
+        "lowest": {
+            "rating": 1979,
+            "date": 1477460337
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

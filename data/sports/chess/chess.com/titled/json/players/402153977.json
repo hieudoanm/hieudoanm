@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/402153977.18903a59.200x200o.3ed429f56817.jpg",
+    "player_id": 402153977,
+    "@id": "https://api.chess.com/pub/player/quesadaluise",
+    "url": "https://www.chess.com/member/QuesadaLuisE",
+    "name": "Luis Ernesto Quesada P\u00e9rez",
+    "username": "quesadaluise",
+    "title": "GM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1738279688,
+    "joined": 1731459825,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2535,
+            "date": 1737984914,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2165,
+            "date": 1737922984,
+            "game": "https://www.chess.com/game/live/131661634469"
+        },
+        "record": {
+            "win": 122,
+            "loss": 7,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2535,
+            "date": 1737984914
+        },
+        "best": {
+            "rating": 2480,
+            "date": 1737939649,
+            "game": "https://www.chess.com/game/live/131677791645"
+        },
+        "record": {
+            "win": 51,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "fide": 2535,
+    "tactics": {
+        "highest": {
+            "rating": 2673,
+            "date": 1738036922
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1731459825
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

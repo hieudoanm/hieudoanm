@@ -1,0 +1,31 @@
+{
+    "player_id": 67317010,
+    "@id": "https://api.chess.com/pub/player/polarkoalabear",
+    "url": "https://www.chess.com/member/polarkoalabear",
+    "username": "polarkoalabear",
+    "title": "WCM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1741498015,
+    "joined": 1572445077,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 2673,
+            "date": 1622044216
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1577807414
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

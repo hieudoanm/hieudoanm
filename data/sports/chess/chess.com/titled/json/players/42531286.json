@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42531286.95864fb9.200x200o.154479a902fc.jpeg",
+    "player_id": 42531286,
+    "@id": "https://api.chess.com/pub/player/ovsiannikov_maxim",
+    "url": "https://www.chess.com/member/Ovsiannikov_Maxim",
+    "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u041e\u0432\u0441\u044f\u043d\u043d\u0438\u043a\u043e\u0432",
+    "username": "ovsiannikov_maxim",
+    "title": "FM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1644240573,
+    "joined": 1516525842,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2498,
+            "date": 1583086161,
+            "rd": 213
+        },
+        "best": {
+            "rating": 2549,
+            "date": 1583085918,
+            "game": "https://www.chess.com/game/live/4551005877"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2522,
+            "date": 1635966565,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1635965839,
+            "game": "https://www.chess.com/game/live/29704781451"
+        },
+        "record": {
+            "win": 2759,
+            "loss": 2760,
+            "draw": 587
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2412,
+            "date": 1595250272
+        },
+        "lowest": {
+            "rating": 788,
+            "date": 1538299715
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 23
+        }
+    }
+}

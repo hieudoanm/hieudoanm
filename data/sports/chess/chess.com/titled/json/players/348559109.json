@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/348559109.f8fb4e3b.200x200o.e1556048a358.jpg",
+    "player_id": 348559109,
+    "@id": "https://api.chess.com/pub/player/robertdowneyjr111",
+    "url": "https://www.chess.com/member/RobertDowneyJr111",
+    "name": "Ojasva Singh",
+    "username": "robertdowneyjr111",
+    "title": "FM",
+    "followers": 116,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741686376,
+    "joined": 1709401779,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1739029412,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1739029412,
+            "game": "https://www.chess.com/game/live/132767996033"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2614,
+            "date": 1740315262,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1737490555,
+            "game": "https://www.chess.com/game/live/129503633951"
+        },
+        "record": {
+            "win": 112,
+            "loss": 120,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2749,
+            "date": 1741691571,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1739539355,
+            "game": "https://www.chess.com/game/live/128459546435"
+        },
+        "record": {
+            "win": 657,
+            "loss": 702,
+            "draw": 174
+        }
+    },
+    "fide": 2328,
+    "tactics": {
+        "highest": {
+            "rating": 1100,
+            "date": 1737710291
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1709401779
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 39
+        }
+    }
+}

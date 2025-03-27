@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59761610.6892f599.200x200o.7a753bc238a2.jpg",
+    "player_id": 59761610,
+    "@id": "https://api.chess.com/pub/player/roarthelion",
+    "url": "https://www.chess.com/member/RoarTheLion",
+    "username": "roarthelion",
+    "title": "WNM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1739604562,
+    "joined": 1555140579,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2006,
+            "date": 1733143035,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2023,
+            "date": 1728185348,
+            "game": "https://www.chess.com/game/live/121504239009"
+        },
+        "record": {
+            "win": 210,
+            "loss": 185,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2034,
+            "date": 1735876841,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1726971294,
+            "game": "https://www.chess.com/game/live/120585658711"
+        },
+        "record": {
+            "win": 36,
+            "loss": 33,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3191,
+            "date": 1733368698
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1558092467
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

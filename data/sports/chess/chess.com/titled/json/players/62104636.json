@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62104636.e221d61f.200x200o.4652b462b1ca.jpeg",
+    "player_id": 62104636,
+    "@id": "https://api.chess.com/pub/player/bacallao2019",
+    "url": "https://www.chess.com/member/Bacallao2019",
+    "name": "Yusnel Bacallao Alonso",
+    "username": "bacallao2019",
+    "title": "GM",
+    "followers": 177,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1734169726,
+    "joined": 1560122062,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1736,
+            "date": 1624436924,
+            "rd": 210
+        },
+        "best": {
+            "rating": 1872,
+            "date": 1585679403,
+            "game": "https://www.chess.com/game/daily/255169284"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 115652,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2545,
+            "date": 1701636291,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1607026645,
+            "game": "https://www.chess.com/game/live/5880211650"
+        },
+        "record": {
+            "win": 30,
+            "loss": 5,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2750,
+            "date": 1579135062,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1564889071,
+            "game": "https://www.chess.com/game/live/3868432314"
+        },
+        "record": {
+            "win": 415,
+            "loss": 182,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2773,
+            "date": 1683047230,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2870,
+            "date": 1641313492,
+            "game": "https://www.chess.com/game/live/75572607351"
+        },
+        "record": {
+            "win": 343,
+            "loss": 207,
+            "draw": 69
+        }
+    },
+    "fide": 2590,
+    "tactics": {
+        "highest": {
+            "rating": 3586,
+            "date": 1671575296
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1560797482
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "player_id": 430779781,
+    "@id": "https://api.chess.com/pub/player/queserasera21",
+    "url": "https://www.chess.com/member/Queserasera21",
+    "username": "queserasera21",
+    "title": "GM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741686539,
+    "joined": 1740049937,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 3085,
+            "date": 1741688757,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2976,
+            "date": 1741260284,
+            "game": "https://www.chess.com/game/live/134998741627"
+        },
+        "record": {
+            "win": 159,
+            "loss": 80,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1740049937
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1740049937
+        }
+    },
+    "puzzle_rush": {}
+}

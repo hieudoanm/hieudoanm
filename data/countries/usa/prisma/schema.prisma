@@ -1,0 +1,90 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model State {
+  abbreviation String       @id @default("") @map("abbreviation") @db.VarChar(2)
+  name         String       @default("") @map("name") @db.VarChar(255)
+  capital      String       @default("") @map("capital") @db.VarChar(255)
+  admission    DateTime     @default(now()) @map("admission") @db.Date
+  level        Level        @map("level")
+  region       String       @default("") @map("region") @db.VarChar(255)
+  division     String       @default("") @map("division") @db.VarChar(255)
+  politicians  Politician[]
+
+  @@map("states")
+}
+
+model Politician {
+  branch            Branch   @map("branch")
+  level             Level    @map("level")
+  no                Int      @default(0) @map("no") @db.Integer
+  position          Position @map("position")
+  name              String   @default("") @map("name") @db.VarChar(255)
+  fullName          String   @default("") @map("full_name") @db.VarChar(255)
+  party             Party    @map("party")
+  startDate         DateTime @default(now()) @map("start_date") @db.Date
+  endDate           DateTime @default(now()) @map("end_date") @db.Date
+  birthState        String   @default("") @map("birth_state") @db.VarChar(255)
+  birthDate         DateTime @default(now()) @map("birth_date") @db.Date
+  state             State    @relation(references: [abbreviation], fields: [stateAbbreviation])
+  stateAbbreviation String   @default("") @map("state_abbreviation") @db.VarChar(2)
+  createdAt         DateTime @default(now()) @map("created_at") @db.Timestamptz()
+  updatedAt         DateTime @default(now()) @updatedAt @map("updated_at") @db.Timestamptz()
+
+  @@id([branch, level, no, position, stateAbbreviation])
+  @@map("politicians")
+}
+
+enum Branch {
+  executive
+  legislative
+  judiciary
+}
+
+enum Level {
+  federal
+  state
+  territory
+}
+
+enum Position {
+  president
+  vice
+  state
+  treasury
+  defense
+  attorney
+  interior
+  agriculture
+  commerce
+  labor
+  health
+  housing
+  transportation
+  energy
+  education
+  veterans
+  security
+  chief
+  governor
+  lieutenant_governor
+}
+
+enum Party {
+  democratic
+  independent
+  republican
+  whig
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/161598311.38ff7dea.200x200o.5b7aca7b413b.jpg",
+    "player_id": 161598311,
+    "@id": "https://api.chess.com/pub/player/kowarenai",
+    "url": "https://www.chess.com/member/Kowarenai",
+    "name": "Brayan Angel Amaya",
+    "username": "kowarenai",
+    "title": "NM",
+    "followers": 2176,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Florida",
+    "last_online": 1741659016,
+    "joined": 1637108063,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2369,
+            "date": 1728787098,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2384,
+            "date": 1689674118,
+            "game": "https://www.chess.com/game/live/76728553597"
+        },
+        "record": {
+            "win": 215,
+            "loss": 44,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2602,
+            "date": 1740366977,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1730817542,
+            "game": "https://www.chess.com/game/live/127939154775"
+        },
+        "record": {
+            "win": 3144,
+            "loss": 2315,
+            "draw": 493
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2546,
+            "date": 1741423096,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1720716608,
+            "game": "https://www.chess.com/game/live/114976108093"
+        },
+        "record": {
+            "win": 2900,
+            "loss": 1936,
+            "draw": 477
+        }
+    },
+    "fide": 2251,
+    "tactics": {
+        "highest": {
+            "rating": 3390,
+            "date": 1731954880
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1637514233
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

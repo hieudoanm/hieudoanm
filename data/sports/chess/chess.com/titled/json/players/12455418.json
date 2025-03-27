@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12455418.35ab9a74.200x200o.4945f5763457.jpeg",
+    "player_id": 12455418,
+    "@id": "https://api.chess.com/pub/player/thomaslegend",
+    "url": "https://www.chess.com/member/Thomaslegend",
+    "name": "Thomas(Hanwen) Xuan",
+    "username": "thomaslegend",
+    "title": "CM",
+    "followers": 226,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Sydney",
+    "last_online": 1741691023,
+    "joined": 1372079248,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1959,
+            "date": 1739938598,
+            "rd": 118
+        },
+        "best": {
+            "rating": 1983,
+            "date": 1442708712,
+            "game": "https://www.chess.com/game/daily/108293090"
+        },
+        "record": {
+            "win": 42,
+            "loss": 21,
+            "draw": 6,
+            "time_per_move": 16965,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 459,
+            "date": 1739606753,
+            "rd": 92
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1439535600,
+            "game": "https://www.chess.com/game/live/35771797983"
+        },
+        "record": {
+            "win": 37,
+            "loss": 57,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2146,
+            "date": 1741690737,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1735364100,
+            "game": "https://www.chess.com/game/live/123684595545"
+        },
+        "record": {
+            "win": 2868,
+            "loss": 2513,
+            "draw": 271
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2314,
+            "date": 1735196872,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2314,
+            "date": 1735196872,
+            "game": "https://www.chess.com/game/live/128266204887"
+        },
+        "record": {
+            "win": 2241,
+            "loss": 2062,
+            "draw": 273
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3024,
+            "date": 1666762474
+        },
+        "lowest": {
+            "rating": 1051,
+            "date": 1372323015
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 293529615,
+    "@id": "https://api.chess.com/pub/player/vinnkratos",
+    "url": "https://www.chess.com/member/Vinnkratos",
+    "name": "Myhaylo Zhukovskyi",
+    "username": "vinnkratos",
+    "title": "CM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741608945,
+    "joined": 1686757786,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2474,
+            "date": 1739557849,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2474,
+            "date": 1704416723,
+            "game": "https://www.chess.com/game/live/98155274731"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2802,
+            "date": 1739994009,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2857,
+            "date": 1738204335,
+            "game": "https://www.chess.com/game/live/133052344769"
+        },
+        "record": {
+            "win": 601,
+            "loss": 471,
+            "draw": 80
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2714,
+            "date": 1740523986,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2827,
+            "date": 1732751478,
+            "game": "https://www.chess.com/game/live/125945303957"
+        },
+        "record": {
+            "win": 693,
+            "loss": 768,
+            "draw": 165
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1686757786
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1686757786
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

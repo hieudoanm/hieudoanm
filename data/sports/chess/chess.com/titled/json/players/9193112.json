@@ -1,0 +1,85 @@
+{
+    "player_id": 9193112,
+    "@id": "https://api.chess.com/pub/player/bocah_gila",
+    "url": "https://www.chess.com/member/bocah_gila",
+    "name": "Constantius Leonardo Pratama",
+    "username": "bocah_gila",
+    "title": "FM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/ID",
+    "location": "Bekasi",
+    "last_online": 1740385350,
+    "joined": 1349769945,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1799,
+            "date": 1705899804,
+            "rd": 307
+        },
+        "best": {
+            "rating": 2013,
+            "date": 1487130860,
+            "game": "https://www.chess.com/game/live/955369023"
+        },
+        "record": {
+            "win": 17,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2521,
+            "date": 1740260996,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1687028709,
+            "game": "https://www.chess.com/game/live/80765479089"
+        },
+        "record": {
+            "win": 447,
+            "loss": 423,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2573,
+            "date": 1740154958,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1687373425,
+            "game": "https://www.chess.com/game/live/126019750463"
+        },
+        "record": {
+            "win": 534,
+            "loss": 430,
+            "draw": 62
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3375,
+            "date": 1737303302
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1411463424
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 41
+        }
+    }
+}

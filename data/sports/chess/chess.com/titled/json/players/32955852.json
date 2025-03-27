@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32955852.f765ed1c.200x200o.c830a1ae1ed4.png",
+    "player_id": 32955852,
+    "@id": "https://api.chess.com/pub/player/marcnd",
+    "url": "https://www.chess.com/member/marcnd",
+    "name": "Marc Narciso Dublan",
+    "username": "marcnd",
+    "title": "GM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Barcelona",
+    "last_online": 1741634351,
+    "joined": 1486323406,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1998,
+            "date": 1727278910,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2735,
+            "date": 1731546531,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2765,
+            "date": 1609120333,
+            "game": "https://www.chess.com/game/live/106790442769"
+        },
+        "record": {
+            "win": 873,
+            "loss": 418,
+            "draw": 41
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2430,
+            "date": 1702246700,
+            "rd": 161
+        },
+        "best": {
+            "rating": 2652,
+            "date": 1557307228,
+            "game": "https://www.chess.com/game/live/2359482490"
+        },
+        "record": {
+            "win": 487,
+            "loss": 184,
+            "draw": 36
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2772,
+            "date": 1730576044
+        },
+        "lowest": {
+            "rating": 1247,
+            "date": 1486336514
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 37
+        }
+    }
+}

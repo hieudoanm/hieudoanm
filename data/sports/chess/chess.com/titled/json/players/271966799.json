@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/271966799.02353ae1.200x200o.bb0e41c4e0e5.jpg",
+    "player_id": 271966799,
+    "@id": "https://api.chess.com/pub/player/starkynz",
+    "url": "https://www.chess.com/member/StarkyNZ",
+    "name": "John Stark",
+    "username": "starkynz",
+    "title": "CM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/NZ",
+    "location": "Christchurch",
+    "last_online": 1741648782,
+    "joined": 1680830638,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2223,
+            "date": 1740901651,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1719022162,
+            "game": "https://www.chess.com/game/live/87291706051"
+        },
+        "record": {
+            "win": 26,
+            "loss": 11,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2372,
+            "date": 1741673954,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2482,
+            "date": 1684360622,
+            "game": "https://www.chess.com/game/live/94005166201"
+        },
+        "record": {
+            "win": 751,
+            "loss": 534,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2341,
+            "date": 1741671795,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2462,
+            "date": 1715955333,
+            "game": "https://www.chess.com/game/live/90715162101"
+        },
+        "record": {
+            "win": 1170,
+            "loss": 993,
+            "draw": 195
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2921,
+            "date": 1682489291
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1680830638
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

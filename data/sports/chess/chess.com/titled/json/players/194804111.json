@@ -1,0 +1,98 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/194804111.775841b6.200x200o.2a8f897ac91d.jpeg",
+    "player_id": 194804111,
+    "@id": "https://api.chess.com/pub/player/carminaramas",
+    "url": "https://www.chess.com/member/CarminaRamas",
+    "name": "Carmina Jasmine Ramas",
+    "username": "carminaramas",
+    "title": "WCM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/GU",
+    "last_online": 1741350109,
+    "joined": 1661523775,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1323,
+            "date": 1736957930,
+            "rd": 194
+        },
+        "best": {
+            "rating": 1482,
+            "date": 1709232872,
+            "game": "https://www.chess.com/game/daily/619995249"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 49149,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1742,
+            "date": 1741350098,
+            "rd": 64
+        },
+        "best": {
+            "rating": 1736,
+            "date": 1739267765,
+            "game": "https://www.chess.com/game/live/76598420711"
+        },
+        "record": {
+            "win": 467,
+            "loss": 370,
+            "draw": 73
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1701,
+            "date": 1699600507
+        },
+        "best": {
+            "rating": 1500,
+            "date": 1679614623,
+            "game": "https://www.chess.com/game/live/89380281147"
+        },
+        "record": {
+            "win": 9,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1701,
+            "date": 1713701597
+        },
+        "best": {
+            "rating": 1448,
+            "date": 1699004198,
+            "game": "https://www.chess.com/game/live/93062472389"
+        },
+        "record": {
+            "win": 137,
+            "loss": 117,
+            "draw": 21
+        }
+    },
+    "fide": 1701,
+    "tactics": {
+        "highest": {
+            "rating": 3182,
+            "date": 1724542767
+        },
+        "lowest": {
+            "rating": 387,
+            "date": 1661523857
+        }
+    },
+    "puzzle_rush": {}
+}

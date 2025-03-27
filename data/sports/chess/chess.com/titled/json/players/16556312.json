@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16556312.49aa81f4.200x200o.ee846b015562.png",
+    "player_id": 16556312,
+    "@id": "https://api.chess.com/pub/player/thechessmind",
+    "url": "https://www.chess.com/member/TheChessMind",
+    "name": "Dennis Monokroussos",
+    "username": "thechessmind",
+    "title": "FM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Indiana",
+    "last_online": 1741554402,
+    "joined": 1395421030,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2236,
+            "date": 1643921331,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2236,
+            "date": 1623979792,
+            "game": "https://www.chess.com/game/live/15894249557"
+        },
+        "record": {
+            "win": 32,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2522,
+            "date": 1631589750,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1631589750,
+            "game": "https://www.chess.com/game/live/12266271593"
+        },
+        "record": {
+            "win": 100,
+            "loss": 31,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2547,
+            "date": 1618596267,
+            "rd": 157
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1618596267,
+            "game": "https://www.chess.com/game/live/1560981942"
+        },
+        "record": {
+            "win": 252,
+            "loss": 154,
+            "draw": 32
+        }
+    },
+    "fide": 2281,
+    "tactics": {
+        "highest": {
+            "rating": 3169,
+            "date": 1709584184
+        },
+        "lowest": {
+            "rating": 1355,
+            "date": 1406149670
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

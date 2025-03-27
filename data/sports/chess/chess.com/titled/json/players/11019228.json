@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11019228.c083ece7.200x200o.c615c121f599.jpg",
+    "player_id": 11019228,
+    "@id": "https://api.chess.com/pub/player/c_busta",
+    "url": "https://www.chess.com/member/C_Busta",
+    "name": "Cirilo Bustamante",
+    "username": "c_busta",
+    "title": "NM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Viedma",
+    "last_online": 1741204611,
+    "joined": 1362336954,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1986,
+            "date": 1741481166,
+            "rd": 124
+        },
+        "best": {
+            "rating": 2079,
+            "date": 1738338350,
+            "game": "https://www.chess.com/game/daily/764660221"
+        },
+        "record": {
+            "win": 16,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 15768,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1733012344,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1692605211,
+            "game": "https://www.chess.com/game/live/76218632131"
+        },
+        "record": {
+            "win": 53,
+            "loss": 31,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2038,
+            "date": 1733151365,
+            "rd": 139
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1684037766,
+            "game": "https://www.chess.com/game/live/77785824539"
+        },
+        "record": {
+            "win": 23,
+            "loss": 14,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2227,
+            "date": 1741657232,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1737544962,
+            "game": "https://www.chess.com/game/live/131235622777"
+        },
+        "record": {
+            "win": 3036,
+            "loss": 2267,
+            "draw": 210
+        }
+    },
+    "fide": 2038,
+    "tactics": {
+        "highest": {
+            "rating": 3349,
+            "date": 1733199123
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1363322699
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

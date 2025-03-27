@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73064124.e925a63e.200x200o.f9cc6fd6b0f0.jpeg",
+    "player_id": 73064124,
+    "@id": "https://api.chess.com/pub/player/kcnock2004",
+    "url": "https://www.chess.com/member/Kcnock2004",
+    "name": "Saksham Rautela",
+    "username": "kcnock2004",
+    "title": "IM",
+    "followers": 255,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Dallas",
+    "last_online": 1741018291,
+    "joined": 1583392157,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2366,
+            "date": 1722532708,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1698609848,
+            "game": "https://www.chess.com/game/live/92339597111"
+        },
+        "record": {
+            "win": 21,
+            "loss": 7,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2330,
+            "date": 1741540373,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2611,
+            "date": 1648728061,
+            "game": "https://www.chess.com/game/live/36760202447"
+        },
+        "record": {
+            "win": 3880,
+            "loss": 4385,
+            "draw": 605
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2502,
+            "date": 1741019855,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2637,
+            "date": 1649415835,
+            "game": "https://www.chess.com/game/live/4802200616"
+        },
+        "record": {
+            "win": 3152,
+            "loss": 3370,
+            "draw": 747
+        }
+    },
+    "fide": 2401,
+    "tactics": {
+        "highest": {
+            "rating": 3330,
+            "date": 1648719144
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1594540222
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

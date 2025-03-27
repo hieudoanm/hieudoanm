@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/147662517.9f2fca02.200x200o.2dbbe2f69b7e.jpeg",
+    "player_id": 147662517,
+    "@id": "https://api.chess.com/pub/player/quexpega",
+    "url": "https://www.chess.com/member/QuexPega",
+    "name": "Willian Bento Fran\u00e7a",
+    "username": "quexpega",
+    "title": "NM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1738314620,
+    "joined": 1626125229,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1537,
+            "date": 1636083116,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1543,
+            "date": 1636081538,
+            "game": "https://www.chess.com/game/live/29819947075"
+        },
+        "record": {
+            "win": 10,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2602,
+            "date": 1639769735,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1639769735,
+            "game": "https://www.chess.com/game/live/33508146247"
+        },
+        "record": {
+            "win": 286,
+            "loss": 121,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2427,
+            "date": 1741658614,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1649969010,
+            "game": "https://www.chess.com/game/live/24772924367"
+        },
+        "record": {
+            "win": 4580,
+            "loss": 3679,
+            "draw": 534
+        }
+    },
+    "fide": 2179,
+    "tactics": {
+        "highest": {
+            "rating": 3238,
+            "date": 1732122923
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1628197803
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 31
+        }
+    }
+}

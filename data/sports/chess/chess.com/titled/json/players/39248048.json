@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39248048.23d6faa1.200x200o.578a16bfec10.jpeg",
+    "player_id": 39248048,
+    "@id": "https://api.chess.com/pub/player/harsha_bharathakoti",
+    "url": "https://www.chess.com/member/Harsha_Bharathakoti",
+    "name": "Harsha Bharathakoti",
+    "username": "harsha_bharathakoti",
+    "title": "GM",
+    "followers": 384,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Saint Louis",
+    "last_online": 1734143778,
+    "joined": 1507370745,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2432,
+            "date": 1715194210,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2595,
+            "date": 1653156634,
+            "game": "https://www.chess.com/game/live/46284056985"
+        },
+        "record": {
+            "win": 32,
+            "loss": 33,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2957,
+            "date": 1729652387,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3037,
+            "date": 1624707478,
+            "game": "https://www.chess.com/game/live/99639122093"
+        },
+        "record": {
+            "win": 1179,
+            "loss": 690,
+            "draw": 135
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2940,
+            "date": 1734146445,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2997,
+            "date": 1727487389,
+            "game": "https://www.chess.com/game/live/101001737655"
+        },
+        "record": {
+            "win": 2365,
+            "loss": 1366,
+            "draw": 439
+        }
+    },
+    "fide": 2567,
+    "tactics": {
+        "highest": {
+            "rating": 4455,
+            "date": 1543314665
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1517306931
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

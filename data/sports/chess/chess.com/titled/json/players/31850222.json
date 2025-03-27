@@ -1,0 +1,85 @@
+{
+    "player_id": 31850222,
+    "@id": "https://api.chess.com/pub/player/a_satan_sees_natasa",
+    "url": "https://www.chess.com/member/a_satan_sees_natasa",
+    "name": "Lovro \u010cupi\u0107",
+    "username": "a_satan_sees_natasa",
+    "title": "FM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/HR",
+    "last_online": 1727012152,
+    "joined": 1482607919,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2084,
+            "date": 1717883486,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1635671879,
+            "game": "https://www.chess.com/game/live/29409592183"
+        },
+        "record": {
+            "win": 12,
+            "loss": 13,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2004,
+            "date": 1657878747,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2132,
+            "date": 1620110331,
+            "game": "https://www.chess.com/game/live/51617437693"
+        },
+        "record": {
+            "win": 4,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2608,
+            "date": 1717756398,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1652943814,
+            "game": "https://www.chess.com/game/live/37058492459"
+        },
+        "record": {
+            "win": 3154,
+            "loss": 2514,
+            "draw": 359
+        }
+    },
+    "fide": 2280,
+    "tactics": {
+        "highest": {
+            "rating": 2801,
+            "date": 1704150915
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1493581197
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 45
+        }
+    }
+}

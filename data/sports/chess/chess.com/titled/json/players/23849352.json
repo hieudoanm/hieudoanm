@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23849352.af3e9f5d.200x200o.0dc453cdb95d.jpeg",
+    "player_id": 23849352,
+    "@id": "https://api.chess.com/pub/player/karenzadita",
+    "url": "https://www.chess.com/member/karenzadita",
+    "name": "Dita Karenza",
+    "username": "karenzadita",
+    "title": "WIM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/ID",
+    "location": "Jakarta",
+    "last_online": 1714053002,
+    "joined": 1440688205,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1843,
+            "date": 1658827107,
+            "rd": 136
+        },
+        "best": {
+            "rating": 2066,
+            "date": 1601447160,
+            "game": "https://www.chess.com/game/live/5517447752"
+        },
+        "record": {
+            "win": 7,
+            "loss": 10,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2134,
+            "date": 1703169403,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2629,
+            "date": 1601749556,
+            "game": "https://www.chess.com/game/live/5533388752"
+        },
+        "record": {
+            "win": 221,
+            "loss": 194,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2331,
+            "date": 1704712764,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1613500277,
+            "game": "https://www.chess.com/game/live/5514806921"
+        },
+        "record": {
+            "win": 132,
+            "loss": 110,
+            "draw": 14
+        }
+    },
+    "fide": 2026,
+    "tactics": {
+        "highest": {
+            "rating": 3001,
+            "date": 1688187569
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1440688622
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

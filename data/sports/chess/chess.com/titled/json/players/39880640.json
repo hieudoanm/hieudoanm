@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39880640.2a1c4a94.200x200o.7133fc530097.jpg",
+    "player_id": 39880640,
+    "@id": "https://api.chess.com/pub/player/morozcoma",
+    "url": "https://www.chess.com/member/morozcoma",
+    "name": "Miguel Angel Montes Orozco",
+    "username": "morozcoma",
+    "title": "CM",
+    "followers": 101,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1740253393,
+    "joined": 1509302028,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2055,
+            "date": 1689219041,
+            "rd": 138
+        },
+        "best": {
+            "rating": 2055,
+            "date": 1687989658,
+            "game": "https://www.chess.com/game/live/17173995271"
+        },
+        "record": {
+            "win": 43,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2129,
+            "date": 1722403629,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2137,
+            "date": 1682638049,
+            "game": "https://www.chess.com/game/live/76045897279"
+        },
+        "record": {
+            "win": 123,
+            "loss": 56,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2507,
+            "date": 1733854174,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1733854174,
+            "game": "https://www.chess.com/game/live/127588227855"
+        },
+        "record": {
+            "win": 1487,
+            "loss": 1166,
+            "draw": 143
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3572,
+            "date": 1693449089
+        },
+        "lowest": {
+            "rating": 975,
+            "date": 1541023481
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

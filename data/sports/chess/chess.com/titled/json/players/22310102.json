@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22310102.27ce1901.200x200o.291838501e8b.png",
+    "player_id": 22310102,
+    "@id": "https://api.chess.com/pub/player/teidi96",
+    "url": "https://www.chess.com/member/Teidi96",
+    "name": "Daniel Teidi Awoki",
+    "username": "teidi96",
+    "title": "NM",
+    "followers": 777,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "S&atilde;o Paulo",
+    "last_online": 1741665341,
+    "joined": 1431139293,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1694,
+            "date": 1741101057,
+            "rd": 116
+        },
+        "best": {
+            "rating": 1694,
+            "date": 1739492721,
+            "game": "https://www.chess.com/game/daily/574407429"
+        },
+        "record": {
+            "win": 47,
+            "loss": 5,
+            "draw": 3,
+            "time_per_move": 22745,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1354,
+            "date": 1704562838,
+            "rd": 258
+        },
+        "best": {
+            "rating": 1354,
+            "date": 1704562837,
+            "game": "https://www.chess.com/game/daily/601975235"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 22745,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2326,
+            "date": 1709003902,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1601863689,
+            "game": "https://www.chess.com/game/live/5511854265"
+        },
+        "record": {
+            "win": 33,
+            "loss": 23,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2230,
+            "date": 1739550139,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2426,
+            "date": 1633836897,
+            "game": "https://www.chess.com/game/live/110847674803"
+        },
+        "record": {
+            "win": 1332,
+            "loss": 1256,
+            "draw": 150
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2269,
+            "date": 1741665545,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2484,
+            "date": 1729970112,
+            "game": "https://www.chess.com/game/live/37678772117"
+        },
+        "record": {
+            "win": 14313,
+            "loss": 14306,
+            "draw": 2303
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3452,
+            "date": 1684193470
+        },
+        "lowest": {
+            "rating": 1202,
+            "date": 1510032439
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

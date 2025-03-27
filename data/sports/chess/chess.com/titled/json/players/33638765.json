@@ -1,0 +1,93 @@
+{
+    "player_id": 33638765,
+    "@id": "https://api.chess.com/pub/player/begusdrasko",
+    "url": "https://www.chess.com/member/BegusDrasko",
+    "username": "begusdrasko",
+    "title": "FM",
+    "followers": 103,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741697747,
+    "joined": 1488486920,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1801,
+            "date": 1727199120,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 9196,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2094,
+            "date": 1709668467,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2094,
+            "date": 1709668467,
+            "game": "https://www.chess.com/game/live/103407162049"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2525,
+            "date": 1741537644,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1702730333,
+            "game": "https://www.chess.com/game/live/96329712751"
+        },
+        "record": {
+            "win": 205,
+            "loss": 121,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2620,
+            "date": 1741602482,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1713977367,
+            "game": "https://www.chess.com/game/live/43056547783"
+        },
+        "record": {
+            "win": 7695,
+            "loss": 6573,
+            "draw": 1835
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3069,
+            "date": 1726996939
+        },
+        "lowest": {
+            "rating": 1189,
+            "date": 1494328652
+        }
+    },
+    "puzzle_rush": {}
+}

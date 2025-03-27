@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41972916.a4e88bb5.200x200o.d5f03d42ce39.jpg",
+    "player_id": 41972916,
+    "@id": "https://api.chess.com/pub/player/bernt42",
+    "url": "https://www.chess.com/member/Bernt42",
+    "name": "Gaute Bergan",
+    "username": "bernt42",
+    "title": "CM",
+    "followers": 54,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1741357919,
+    "joined": 1515017306,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1811,
+            "date": 1740414528,
+            "rd": 198
+        },
+        "best": {
+            "rating": 1907,
+            "date": 1701678872,
+            "game": "https://www.chess.com/game/daily/460958077"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 117000,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1961,
+            "date": 1739540134,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1624019999,
+            "game": "https://www.chess.com/game/live/17437333399"
+        },
+        "record": {
+            "win": 29,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2026,
+            "date": 1726224565,
+            "rd": 157
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1659113353,
+            "game": "https://www.chess.com/game/live/9215139013"
+        },
+        "record": {
+            "win": 436,
+            "loss": 339,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2200,
+            "date": 1739701418,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2326,
+            "date": 1709046857,
+            "game": "https://www.chess.com/game/live/100522884365"
+        },
+        "record": {
+            "win": 794,
+            "loss": 650,
+            "draw": 120
+        }
+    },
+    "fide": 2004,
+    "tactics": {
+        "highest": {
+            "rating": 3067,
+            "date": 1714647139
+        },
+        "lowest": {
+            "rating": 404,
+            "date": 1515049678
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

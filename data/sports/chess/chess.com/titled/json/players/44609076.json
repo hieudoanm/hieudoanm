@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44609076.ae3ed20c.200x200o.4f8f604b0031.jpeg",
+    "player_id": 44609076,
+    "@id": "https://api.chess.com/pub/player/basyak97",
+    "url": "https://www.chess.com/member/Basyak97",
+    "name": "Bogdan Basko",
+    "username": "basyak97",
+    "title": "NM",
+    "followers": 495,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430, \u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439",
+    "last_online": 1741702135,
+    "joined": 1521914903,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1857,
+            "date": 1736170782,
+            "rd": 124
+        },
+        "best": {
+            "rating": 1983,
+            "date": 1635034313,
+            "game": "https://www.chess.com/game/daily/378213209"
+        },
+        "record": {
+            "win": 99,
+            "loss": 41,
+            "draw": 6,
+            "time_per_move": 43805,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1276,
+            "date": 1620289803,
+            "rd": 247
+        },
+        "best": {
+            "rating": 1400,
+            "date": 1521914903,
+            "game": "https://www.chess.com/game/daily/328536404"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 43805,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1487,
+            "date": 1736815702,
+            "rd": 228
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1614382623,
+            "game": "https://www.chess.com/game/live/58151461545"
+        },
+        "record": {
+            "win": 12,
+            "loss": 4,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2576,
+            "date": 1737158235,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2586,
+            "date": 1735415003,
+            "game": "https://www.chess.com/game/live/129156152635"
+        },
+        "record": {
+            "win": 474,
+            "loss": 304,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2477,
+            "date": 1740991023,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2596,
+            "date": 1727839738,
+            "game": "https://www.chess.com/game/live/118534124379"
+        },
+        "record": {
+            "win": 2717,
+            "loss": 2489,
+            "draw": 368
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3177,
+            "date": 1702981804
+        },
+        "lowest": {
+            "rating": 1001,
+            "date": 1533852500
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

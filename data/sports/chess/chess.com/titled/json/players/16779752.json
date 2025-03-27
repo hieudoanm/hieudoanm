@@ -1,0 +1,30 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16779752.87ed0c28.200x200o.7ecb875f6e80.jpeg",
+    "player_id": 16779752,
+    "@id": "https://api.chess.com/pub/player/champmat",
+    "url": "https://www.chess.com/member/champmat",
+    "name": "Foisor Ovidiu",
+    "username": "champmat",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Timisoara",
+    "last_online": 1477592083,
+    "joined": 1396763528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2487,
+    "tactics": {
+        "highest": {
+            "rating": 2590,
+            "date": 1475573753
+        },
+        "lowest": {
+            "rating": 1406,
+            "date": 1396804410
+        }
+    },
+    "puzzle_rush": {}
+}

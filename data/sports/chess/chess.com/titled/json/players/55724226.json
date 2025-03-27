@@ -1,0 +1,118 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55724226.0ba82cd8.200x200o.daac4ae34c55.jpeg",
+    "player_id": 55724226,
+    "@id": "https://api.chess.com/pub/player/artooon",
+    "url": "https://www.chess.com/member/artooon",
+    "name": "Pranesh M",
+    "username": "artooon",
+    "title": "GM",
+    "followers": 1301,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1734178778,
+    "joined": 1547032883,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1766,
+            "date": 1711385431,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1547032883,
+            "game": "https://www.chess.com/game/daily/219812640"
+        },
+        "record": {
+            "win": 21,
+            "loss": 4,
+            "draw": 2,
+            "time_per_move": 28036,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1540,
+            "date": 1562484139,
+            "rd": 207
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 28036,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2568,
+            "date": 1727535381,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2656,
+            "date": 1683988715,
+            "game": "https://www.chess.com/game/live/77724225947"
+        },
+        "record": {
+            "win": 33,
+            "loss": 17,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3045,
+            "date": 1732988004,
+            "rd": 38
+        },
+        "best": {
+            "rating": 3195,
+            "date": 1722536061,
+            "game": "https://www.chess.com/game/live/76230042021"
+        },
+        "record": {
+            "win": 5141,
+            "loss": 5674,
+            "draw": 651
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3018,
+            "date": 1733765180,
+            "rd": 43
+        },
+        "best": {
+            "rating": 3149,
+            "date": 1719506884,
+            "game": "https://www.chess.com/game/live/100887202419"
+        },
+        "record": {
+            "win": 1878,
+            "loss": 2050,
+            "draw": 475
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3929,
+            "date": 1732425106
+        },
+        "lowest": {
+            "rating": 1205,
+            "date": 1549034003
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 80,
+            "score": 77
+        }
+    }
+}

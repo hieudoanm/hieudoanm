@@ -1,0 +1,104 @@
+{
+    "player_id": 11417896,
+    "@id": "https://api.chess.com/pub/player/meoluoi91",
+    "url": "https://www.chess.com/member/meoluoi91",
+    "name": "Hoang Thi Bao Tram",
+    "username": "meoluoi91",
+    "title": "WGM",
+    "followers": 118,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "Ho Chi Minh",
+    "last_online": 1740766817,
+    "joined": 1365237610,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1661510846,
+            "rd": 350
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1365237610,
+            "game": "https://www.chess.com/game/daily/80214182"
+        },
+        "record": {
+            "win": 1,
+            "loss": 9,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2244,
+            "date": 1739721933,
+            "rd": 184
+        },
+        "best": {
+            "rating": 2260,
+            "date": 1597999348,
+            "game": "https://www.chess.com/game/live/5337913981"
+        },
+        "record": {
+            "win": 53,
+            "loss": 48,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2550,
+            "date": 1740408466,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2759,
+            "date": 1735221679,
+            "game": "https://www.chess.com/game/live/124302530065"
+        },
+        "record": {
+            "win": 3340,
+            "loss": 2885,
+            "draw": 271
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2621,
+            "date": 1737476247,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1618551862,
+            "game": "https://www.chess.com/game/live/85852307439"
+        },
+        "record": {
+            "win": 2420,
+            "loss": 2051,
+            "draw": 300
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3446,
+            "date": 1740660163
+        },
+        "lowest": {
+            "rating": 1035,
+            "date": 1373618335
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

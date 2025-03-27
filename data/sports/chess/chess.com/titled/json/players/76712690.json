@@ -1,0 +1,80 @@
+{
+    "player_id": 76712690,
+    "@id": "https://api.chess.com/pub/player/antonis2056",
+    "url": "https://www.chess.com/member/Antonis2056",
+    "name": "Antonios Kalogridis",
+    "username": "antonis2056",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741425550,
+    "joined": 1586893424,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1832,
+            "date": 1676556407,
+            "rd": 183
+        },
+        "best": {
+            "rating": 1972,
+            "date": 1589996557,
+            "game": "https://www.chess.com/game/live/8531094187"
+        },
+        "record": {
+            "win": 27,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1631,
+            "date": 1684671784,
+            "rd": 267
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2516,
+            "date": 1684672672,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1684672134,
+            "game": "https://www.chess.com/game/live/78169999487"
+        },
+        "record": {
+            "win": 78,
+            "loss": 70,
+            "draw": 17
+        }
+    },
+    "fide": 2308,
+    "tactics": {
+        "highest": {
+            "rating": 1467,
+            "date": 1648197437
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1595333244
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

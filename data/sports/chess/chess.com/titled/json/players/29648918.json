@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29648918.f92f01de.200x200o.e8db5cff06d8.jpeg",
+    "player_id": 29648918,
+    "@id": "https://api.chess.com/pub/player/andrej0906",
+    "url": "https://www.chess.com/member/andrej0906",
+    "name": "Andrei Gurbanov",
+    "username": "andrej0906",
+    "title": "IM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Haifa",
+    "last_online": 1741163403,
+    "joined": 1472226796,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2263,
+            "date": 1696395792,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1596883250,
+            "game": "https://www.chess.com/game/live/5268003127"
+        },
+        "record": {
+            "win": 11,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2456,
+            "date": 1741447879,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1696396609,
+            "game": "https://www.chess.com/game/live/123255089035"
+        },
+        "record": {
+            "win": 61,
+            "loss": 49,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2494,
+            "date": 1733501219,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1699219688,
+            "game": "https://www.chess.com/game/live/93533370881"
+        },
+        "record": {
+            "win": 3078,
+            "loss": 2338,
+            "draw": 498
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3390,
+            "date": 1729491034
+        },
+        "lowest": {
+            "rating": 987,
+            "date": 1472226870
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

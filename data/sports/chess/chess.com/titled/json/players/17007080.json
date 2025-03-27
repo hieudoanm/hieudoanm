@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17007080.c7bb06dc.200x200o.995f01f1be95.jpeg",
+    "player_id": 17007080,
+    "@id": "https://api.chess.com/pub/player/backtothebeginning",
+    "url": "https://www.chess.com/member/Backtothebeginning",
+    "name": "Inguh Kim",
+    "username": "backtothebeginning",
+    "title": "CM",
+    "followers": 254,
+    "country": "https://api.chess.com/pub/country/KR",
+    "location": "Seoul",
+    "last_online": 1741692762,
+    "joined": 1398152484,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1866,
+            "date": 1714538962,
+            "rd": 18
+        },
+        "best": {
+            "rating": 1943,
+            "date": 1686406785,
+            "game": "https://www.chess.com/game/daily/426527381"
+        },
+        "record": {
+            "win": 511,
+            "loss": 267,
+            "draw": 151,
+            "time_per_move": 7960,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2207,
+            "date": 1732967486,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2327,
+            "date": 1596617733,
+            "game": "https://www.chess.com/game/live/51724825767"
+        },
+        "record": {
+            "win": 536,
+            "loss": 313,
+            "draw": 148
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1915,
+            "date": 1741694489,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2268,
+            "date": 1640753490,
+            "game": "https://www.chess.com/game/live/49635039489"
+        },
+        "record": {
+            "win": 4956,
+            "loss": 4842,
+            "draw": 683
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2109,
+            "date": 1729664542,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2226,
+            "date": 1631754934,
+            "game": "https://www.chess.com/game/live/29208611701"
+        },
+        "record": {
+            "win": 2475,
+            "loss": 1663,
+            "draw": 365
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3377,
+            "date": 1708436452
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1403804477
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

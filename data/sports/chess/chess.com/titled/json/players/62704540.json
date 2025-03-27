@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62704540.4d3cb4d6.200x200o.8a19905a7672.jpeg",
+    "player_id": 62704540,
+    "@id": "https://api.chess.com/pub/player/arvinrasti",
+    "url": "https://www.chess.com/member/ArvinRasti",
+    "name": "Arvin Rasti",
+    "username": "arvinrasti",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1741363126,
+    "joined": 1561557271,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2154,
+            "date": 1739733298,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2177,
+            "date": 1739726484,
+            "game": "https://www.chess.com/game/live/133469975085"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2427,
+            "date": 1737583453,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1735046151,
+            "game": "https://www.chess.com/game/live/128701408577"
+        },
+        "record": {
+            "win": 96,
+            "loss": 61,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1740755159,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2588,
+            "date": 1738689744,
+            "game": "https://www.chess.com/game/live/132423681275"
+        },
+        "record": {
+            "win": 54,
+            "loss": 69,
+            "draw": 8
+        }
+    },
+    "fide": 2177,
+    "tactics": {
+        "highest": {
+            "rating": 3355,
+            "date": 1740602741
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1571743991
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

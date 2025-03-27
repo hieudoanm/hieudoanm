@@ -1,0 +1,63 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/315092049.5619a44d.200x200o.95c678f8f1e6.jpg",
+    "player_id": 315092049,
+    "@id": "https://api.chess.com/pub/player/elefantenegro",
+    "url": "https://www.chess.com/member/ElefanteNegro",
+    "name": "Leandro Alvarez",
+    "username": "elefantenegro",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741376288,
+    "joined": 1695564371,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2163,
+            "date": 1696982818
+        },
+        "best": {
+            "rating": 2110,
+            "date": 1696982258,
+            "game": "https://www.chess.com/game/live/90719949751"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2260,
+            "date": 1741428558,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2219,
+            "date": 1740352840,
+            "game": "https://www.chess.com/game/live/134262545779"
+        },
+        "record": {
+            "win": 125,
+            "loss": 51,
+            "draw": 6
+        }
+    },
+    "fide": 2163,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1695564371
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1695564371
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19729828.f2291882.200x200o.a877748be271.jpg",
+    "player_id": 19729828,
+    "@id": "https://api.chess.com/pub/player/gen-gutman",
+    "url": "https://www.chess.com/member/Gen-Gutman",
+    "name": "Gennadii Gutman",
+    "username": "gen-gutman",
+    "title": "GM",
+    "followers": 148,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Dnipro",
+    "last_online": 1734077619,
+    "joined": 1416047830,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1669,
+            "date": 1728578430,
+            "rd": 150
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1416047830,
+            "game": "https://www.chess.com/game/daily/210990492"
+        },
+        "record": {
+            "win": 37,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 8314,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1207,
+            "date": 1662416996,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2161,
+            "date": 1617106321,
+            "game": "https://www.chess.com/game/live/10928813027"
+        },
+        "record": {
+            "win": 21,
+            "loss": 34,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2676,
+            "date": 1734043864,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2761,
+            "date": 1731790374,
+            "game": "https://www.chess.com/game/live/109189280409"
+        },
+        "record": {
+            "win": 10844,
+            "loss": 7612,
+            "draw": 798
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2350,
+            "date": 1724173126,
+            "rd": 191
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1567371123,
+            "game": "https://www.chess.com/game/live/1622289894"
+        },
+        "record": {
+            "win": 394,
+            "loss": 286,
+            "draw": 72
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3266,
+            "date": 1475839546
+        },
+        "lowest": {
+            "rating": 1007,
+            "date": 1462964833
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 86,
+            "score": 83
+        }
+    }
+}

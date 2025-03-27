@@ -1,0 +1,94 @@
+{
+    "player_id": 11129550,
+    "@id": "https://api.chess.com/pub/player/koknoi",
+    "url": "https://www.chess.com/member/koknoi",
+    "name": "Onkemetse Francis",
+    "username": "koknoi",
+    "title": "WIM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/BW",
+    "last_online": 1739970823,
+    "joined": 1363176147,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 398,
+            "date": 1695582560,
+            "rd": 347
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 12061,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1648,
+            "date": 1633805184,
+            "rd": 123
+        },
+        "best": {
+            "rating": 1801,
+            "date": 1596976400,
+            "game": "https://www.chess.com/game/live/5268002112"
+        },
+        "record": {
+            "win": 6,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1649,
+            "date": 1596910844,
+            "rd": 201
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1589,
+            "date": 1739251555,
+            "rd": 96
+        },
+        "best": {
+            "rating": 1833,
+            "date": 1514499846,
+            "game": "https://www.chess.com/game/live/2528513894"
+        },
+        "record": {
+            "win": 2329,
+            "loss": 2240,
+            "draw": 240
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2733,
+            "date": 1727468105
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1363446309
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 28
+        }
+    }
+}

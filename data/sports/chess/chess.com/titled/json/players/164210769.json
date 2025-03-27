@@ -1,0 +1,63 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/164210769.4f1db9af.200x200o.97465826ae2e.jpeg",
+    "player_id": 164210769,
+    "@id": "https://api.chess.com/pub/player/bilicvladimir",
+    "url": "https://www.chess.com/member/BilicVladimir",
+    "name": "Vladimir Bilic",
+    "username": "bilicvladimir",
+    "title": "FM",
+    "followers": 584,
+    "country": "https://api.chess.com/pub/country/BA",
+    "last_online": 1741622572,
+    "joined": 1639082732,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2443,
+            "date": 1740600507,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1664712719,
+            "game": "https://www.chess.com/game/live/58450838595"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2763,
+            "date": 1741637628,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2838,
+            "date": 1730207523,
+            "game": "https://www.chess.com/game/live/124057218411"
+        },
+        "record": {
+            "win": 8410,
+            "loss": 9632,
+            "draw": 3365
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1639082732
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1639082732
+        }
+    },
+    "puzzle_rush": {}
+}

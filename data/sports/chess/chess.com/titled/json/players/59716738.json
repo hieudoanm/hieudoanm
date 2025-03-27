@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59716738.36f1ed9f.200x200o.5086ff46db9d.jpeg",
+    "player_id": 59716738,
+    "@id": "https://api.chess.com/pub/player/evgenia89",
+    "url": "https://www.chess.com/member/Evgenia89",
+    "name": "Evgenia Kuzevanova",
+    "username": "evgenia89",
+    "title": "WIM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1740508584,
+    "joined": 1555052137,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1979,
+            "date": 1676613261,
+            "rd": 349
+        },
+        "best": {
+            "rating": 1979,
+            "date": 1676613261,
+            "game": "https://www.chess.com/game/live/70351355811"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1825,
+            "date": 1721850481,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2227,
+            "date": 1659989968,
+            "game": "https://www.chess.com/game/live/53731839997"
+        },
+        "record": {
+            "win": 11,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2170,
+            "date": 1722608049,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2174,
+            "date": 1596898501,
+            "game": "https://www.chess.com/game/live/5834538184"
+        },
+        "record": {
+            "win": 1110,
+            "loss": 1027,
+            "draw": 147
+        }
+    },
+    "fide": 2160,
+    "tactics": {
+        "highest": {
+            "rating": 2836,
+            "date": 1698006401
+        },
+        "lowest": {
+            "rating": 2137,
+            "date": 1632812735
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

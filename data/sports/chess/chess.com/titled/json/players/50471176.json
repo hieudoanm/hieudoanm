@@ -1,0 +1,99 @@
+{
+    "player_id": 50471176,
+    "@id": "https://api.chess.com/pub/player/keeper0416",
+    "url": "https://www.chess.com/member/Keeper0416",
+    "name": "Erdenepurev Boldoo",
+    "username": "keeper0416",
+    "title": "FM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1741403271,
+    "joined": 1538835888,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1704813628,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 83,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1991,
+            "date": 1711356935,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2069,
+            "date": 1607713081,
+            "game": "https://www.chess.com/game/live/5942554348"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2731,
+            "date": 1741364685,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2721,
+            "date": 1735984992,
+            "game": "https://www.chess.com/game/live/82987275153"
+        },
+        "record": {
+            "win": 500,
+            "loss": 368,
+            "draw": 54
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2546,
+            "date": 1734783299,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2614,
+            "date": 1693930350,
+            "game": "https://www.chess.com/game/live/87668531145"
+        },
+        "record": {
+            "win": 203,
+            "loss": 152,
+            "draw": 37
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3561,
+            "date": 1702269550
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1644306016
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "player_id": 73474050,
+    "@id": "https://api.chess.com/pub/player/quantumwizard137",
+    "url": "https://www.chess.com/member/quantumwizard137",
+    "name": "Evelyn Zhu",
+    "username": "quantumwizard137",
+    "title": "WIM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1736947856,
+    "joined": 1584135922,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1691,
+            "date": 1729973839,
+            "rd": 269
+        },
+        "best": {
+            "rating": 1691,
+            "date": 1607711312,
+            "game": "https://www.chess.com/game/daily/263995274"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 470026,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2034,
+            "date": 1665792324,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2236,
+            "date": 1588522949,
+            "game": "https://www.chess.com/game/live/5020550824"
+        },
+        "record": {
+            "win": 14,
+            "loss": 9,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2398,
+            "date": 1737509158,
+            "rd": 125
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1609290055,
+            "game": "https://www.chess.com/game/live/9240957663"
+        },
+        "record": {
+            "win": 119,
+            "loss": 84,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2309,
+            "date": 1738373739,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2332,
+            "date": 1611954463,
+            "game": "https://www.chess.com/game/live/6191225847"
+        },
+        "record": {
+            "win": 61,
+            "loss": 33,
+            "draw": 14
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1584135922
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1584135922
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

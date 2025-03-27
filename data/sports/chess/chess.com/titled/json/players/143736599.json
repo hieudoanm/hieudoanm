@@ -1,0 +1,84 @@
+{
+    "player_id": 143736599,
+    "@id": "https://api.chess.com/pub/player/levanzovsky",
+    "url": "https://www.chess.com/member/Levanzovsky",
+    "name": "Yotam Shohat",
+    "username": "levanzovsky",
+    "title": "IM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/IL",
+    "last_online": 1741073014,
+    "joined": 1623159802,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2289,
+            "date": 1679941432,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2329,
+            "date": 1679938766,
+            "game": "https://www.chess.com/game/live/73672871789"
+        },
+        "record": {
+            "win": 8,
+            "loss": 9,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2530,
+            "date": 1733935984,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1650222462,
+            "game": "https://www.chess.com/game/live/90461920073"
+        },
+        "record": {
+            "win": 126,
+            "loss": 154,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2560,
+            "date": 1741073531,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2718,
+            "date": 1685514386,
+            "game": "https://www.chess.com/game/live/79252909565"
+        },
+        "record": {
+            "win": 1751,
+            "loss": 2235,
+            "draw": 313
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3496,
+            "date": 1709630147
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1659651653
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 42
+        }
+    }
+}

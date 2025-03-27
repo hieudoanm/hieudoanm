@@ -1,0 +1,85 @@
+{
+    "player_id": 15751370,
+    "@id": "https://api.chess.com/pub/player/bmochsner",
+    "url": "https://www.chess.com/member/BMOchsner",
+    "name": "Bjorn Moller Ochsner",
+    "username": "bmochsner",
+    "title": "GM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/DK",
+    "location": "Danmark",
+    "last_online": 1734168227,
+    "joined": 1390689875,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2251,
+            "date": 1590864671,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1590857863,
+            "game": "https://www.chess.com/game/live/4929262819"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2543,
+            "date": 1734168316,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2577,
+            "date": 1720279575,
+            "game": "https://www.chess.com/game/live/113386752759"
+        },
+        "record": {
+            "win": 597,
+            "loss": 456,
+            "draw": 43
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2555,
+            "date": 1722447883,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2555,
+            "date": 1699341326,
+            "game": "https://www.chess.com/game/live/31938606187"
+        },
+        "record": {
+            "win": 208,
+            "loss": 106,
+            "draw": 22
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2809,
+            "date": 1706358509
+        },
+        "lowest": {
+            "rating": 1351,
+            "date": 1390689937
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 49
+        }
+    }
+}

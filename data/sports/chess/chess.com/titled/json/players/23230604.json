@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23230604.7d905b56.200x200o.60d074cfcdfb.jpeg",
+    "player_id": 23230604,
+    "@id": "https://api.chess.com/pub/player/rodtwinkz",
+    "url": "https://www.chess.com/member/RodTwinkz",
+    "name": "Roderick Nava",
+    "username": "rodtwinkz",
+    "title": "IM",
+    "followers": 8922,
+    "country": "https://api.chess.com/pub/country/PH",
+    "location": "Carmona, Cavite",
+    "last_online": 1741663059,
+    "joined": 1436847982,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2491,
+            "date": 1738904035,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2491,
+            "date": 1738904035,
+            "game": "https://www.chess.com/game/live/125080729819"
+        },
+        "record": {
+            "win": 75,
+            "loss": 9,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2829,
+            "date": 1741668419,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2862,
+            "date": 1730732026,
+            "game": "https://www.chess.com/game/live/105432637541"
+        },
+        "record": {
+            "win": 3980,
+            "loss": 3489,
+            "draw": 537
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2798,
+            "date": 1741704000,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2838,
+            "date": 1730269631,
+            "game": "https://www.chess.com/game/live/123229228935"
+        },
+        "record": {
+            "win": 1991,
+            "loss": 1617,
+            "draw": 351
+        }
+    },
+    "fide": 2381,
+    "tactics": {
+        "highest": {
+            "rating": 3212,
+            "date": 1662520180
+        },
+        "lowest": {
+            "rating": 1087,
+            "date": 1463488317
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

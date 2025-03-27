@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17448918.7d6bc0fd.200x200o.599ad5f5d89c.jpeg",
+    "player_id": 17448918,
+    "@id": "https://api.chess.com/pub/player/resnullus",
+    "url": "https://www.chess.com/member/resnullus",
+    "name": "Sherily Cua",
+    "username": "resnullus",
+    "title": "WFM",
+    "followers": 462,
+    "country": "https://api.chess.com/pub/country/PH",
+    "location": "Caloocan",
+    "last_online": 1741446854,
+    "joined": 1401124814,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2054,
+            "date": 1730293776,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2064,
+            "date": 1729079520,
+            "game": "https://www.chess.com/game/live/120398971363"
+        },
+        "record": {
+            "win": 172,
+            "loss": 88,
+            "draw": 33
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2152,
+            "date": 1645007929,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1642781167,
+            "game": "https://www.chess.com/game/live/3245212177"
+        },
+        "record": {
+            "win": 2254,
+            "loss": 1850,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2304,
+            "date": 1730291501,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2327,
+            "date": 1729941012,
+            "game": "https://www.chess.com/game/live/122815486563"
+        },
+        "record": {
+            "win": 294,
+            "loss": 97,
+            "draw": 21
+        }
+    },
+    "fide": 2154,
+    "tactics": {
+        "highest": {
+            "rating": 2861,
+            "date": 1677653476
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1652166408
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

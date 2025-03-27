@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23583280.893f9b8e.200x200o.44731b8321f9.jpeg",
+    "player_id": 23583280,
+    "@id": "https://api.chess.com/pub/player/bocah_sakit",
+    "url": "https://www.chess.com/member/bocah_sakit",
+    "name": "Novendra Priasmoro",
+    "username": "bocah_sakit",
+    "title": "GM",
+    "followers": 537,
+    "country": "https://api.chess.com/pub/country/ID",
+    "location": "jakarta",
+    "last_online": 1733575486,
+    "joined": 1439043895,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1196,
+            "date": 1733584725,
+            "rd": 285
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 2,
+            "time_per_move": 43888,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2273,
+            "date": 1690213571,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2597,
+            "date": 1601023145,
+            "game": "https://www.chess.com/game/live/46890575121"
+        },
+        "record": {
+            "win": 52,
+            "loss": 36,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2759,
+            "date": 1733592764,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2978,
+            "date": 1613836938,
+            "game": "https://www.chess.com/game/live/11039691411"
+        },
+        "record": {
+            "win": 4662,
+            "loss": 3758,
+            "draw": 549
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2729,
+            "date": 1732299013,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2939,
+            "date": 1654014347,
+            "game": "https://www.chess.com/game/live/6580176545"
+        },
+        "record": {
+            "win": 1935,
+            "loss": 1308,
+            "draw": 263
+        }
+    },
+    "fide": 2502,
+    "tactics": {
+        "highest": {
+            "rating": 4841,
+            "date": 1548299415
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1439088321
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

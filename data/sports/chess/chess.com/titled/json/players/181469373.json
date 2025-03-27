@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/181469373.dd2a007c.200x200o.3cb5eb622c34.jpg",
+    "player_id": 181469373,
+    "@id": "https://api.chess.com/pub/player/defenstrator",
+    "url": "https://www.chess.com/member/Defenstrator",
+    "name": "Bryan Weisz",
+    "username": "defenstrator",
+    "title": "NM",
+    "followers": 835,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Connecticut",
+    "last_online": 1741703167,
+    "joined": 1650764579,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2091,
+            "date": 1711237569,
+            "rd": 269
+        },
+        "best": {
+            "rating": 2091,
+            "date": 1711237569,
+            "game": "https://www.chess.com/game/daily/444913769"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 96834,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2377,
+            "date": 1740666376
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1669748323,
+            "game": "https://www.chess.com/game/live/93351526931"
+        },
+        "record": {
+            "win": 3977,
+            "loss": 3245,
+            "draw": 624
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2717,
+            "date": 1738569817,
+            "rd": 14
+        },
+        "best": {
+            "rating": 2740,
+            "date": 1737858946,
+            "game": "https://www.chess.com/game/live/57869460241"
+        },
+        "record": {
+            "win": 12329,
+            "loss": 10590,
+            "draw": 1608
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2638,
+            "date": 1740344076,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2630,
+            "date": 1701581553,
+            "game": "https://www.chess.com/game/live/97950133257"
+        },
+        "record": {
+            "win": 2900,
+            "loss": 2530,
+            "draw": 368
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1760,
+            "date": 1713562312
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1654048366
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 24
+        }
+    }
+}

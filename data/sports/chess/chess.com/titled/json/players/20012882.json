@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20012882.627cecaf.200x200o.101a136e3e82.jpeg",
+    "player_id": 20012882,
+    "@id": "https://api.chess.com/pub/player/glenelco",
+    "url": "https://www.chess.com/member/glenelco",
+    "name": "Ranveer Mohite",
+    "username": "glenelco",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Pune City",
+    "last_online": 1741689944,
+    "joined": 1417617995,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 761,
+            "date": 1704986662,
+            "rd": 300
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1417617995,
+            "game": "https://www.chess.com/game/daily/564639057"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 51316,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2277,
+            "date": 1704986662,
+            "rd": 223
+        },
+        "best": {
+            "rating": 1407,
+            "date": 1568294980,
+            "game": "https://www.chess.com/game/live/3405053617"
+        },
+        "record": {
+            "win": 4,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2264,
+            "date": 1598709840,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2178,
+            "date": 1534244807,
+            "game": "https://www.chess.com/game/live/2942823166"
+        },
+        "record": {
+            "win": 191,
+            "loss": 138,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2493,
+            "date": 1731305674,
+            "rd": 130
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1599141720,
+            "game": "https://www.chess.com/game/live/5387165370"
+        },
+        "record": {
+            "win": 1166,
+            "loss": 878,
+            "draw": 146
+        }
+    },
+    "fide": 2277,
+    "tactics": {
+        "highest": {
+            "rating": 2906,
+            "date": 1739605256
+        },
+        "lowest": {
+            "rating": 1336,
+            "date": 1417623019
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

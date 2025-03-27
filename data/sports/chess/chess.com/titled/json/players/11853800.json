@@ -1,0 +1,84 @@
+{
+    "player_id": 11853800,
+    "@id": "https://api.chess.com/pub/player/alexa797",
+    "url": "https://www.chess.com/member/Alexa797",
+    "name": "Elmira Karnaukhova",
+    "username": "alexa797",
+    "title": "WGM",
+    "followers": 128,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741605287,
+    "joined": 1368344146,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1968,
+            "date": 1721121306,
+            "rd": 159
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1604208940,
+            "game": "https://www.chess.com/game/live/114859727329"
+        },
+        "record": {
+            "win": 11,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2369,
+            "date": 1737822776,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2384,
+            "date": 1737818091,
+            "game": "https://www.chess.com/game/live/5045949960"
+        },
+        "record": {
+            "win": 1325,
+            "loss": 1259,
+            "draw": 107
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1741614140,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1707221490,
+            "game": "https://www.chess.com/game/live/115216701369"
+        },
+        "record": {
+            "win": 6236,
+            "loss": 6303,
+            "draw": 967
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2531,
+            "date": 1737302196
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1642341903
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

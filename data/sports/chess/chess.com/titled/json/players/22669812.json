@@ -1,0 +1,51 @@
+{
+    "player_id": 22669812,
+    "@id": "https://api.chess.com/pub/player/bgrabarska",
+    "url": "https://www.chess.com/member/bgrabarska",
+    "name": "Barbara Jaracz",
+    "username": "bgrabarska",
+    "title": "WGM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "jelenia gora",
+    "last_online": 1696418706,
+    "joined": 1433361683,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2180,
+            "date": 1696418879,
+            "rd": 187
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1508953469,
+            "game": "https://www.chess.com/game/live/3949748498"
+        },
+        "record": {
+            "win": 77,
+            "loss": 53,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2681,
+            "date": 1696356783
+        },
+        "lowest": {
+            "rating": 1361,
+            "date": 1433361768
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 19,
+            "score": 18
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28208046.cde294a6.200x200o.60d6a5143f18.jpeg",
+    "player_id": 28208046,
+    "@id": "https://api.chess.com/pub/player/bluewizzard",
+    "url": "https://www.chess.com/member/BlueWizzard",
+    "name": "Denes Boros",
+    "username": "bluewizzard",
+    "title": "GM",
+    "followers": 349,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Saint Louis",
+    "last_online": 1734185267,
+    "joined": 1463361589,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2587,
+            "date": 1674002076,
+            "rd": 249
+        },
+        "best": {
+            "rating": 2587,
+            "date": 1674002076,
+            "game": "https://www.chess.com/game/live/67740035695"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2962,
+            "date": 1734153267,
+            "rd": 26
+        },
+        "best": {
+            "rating": 3090,
+            "date": 1713899453,
+            "game": "https://www.chess.com/game/live/71088183253"
+        },
+        "record": {
+            "win": 5583,
+            "loss": 2174,
+            "draw": 414
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2896,
+            "date": 1734150897,
+            "rd": 21
+        },
+        "best": {
+            "rating": 3014,
+            "date": 1696795386,
+            "game": "https://www.chess.com/game/live/26247009045"
+        },
+        "record": {
+            "win": 5935,
+            "loss": 2842,
+            "draw": 660
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1225,
+            "date": 1587482745
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1554229629
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

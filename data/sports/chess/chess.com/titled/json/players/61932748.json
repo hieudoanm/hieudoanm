@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/61932748.d563dd1c.200x200o.87cd11a5cd6c.jpeg",
+    "player_id": 61932748,
+    "@id": "https://api.chess.com/pub/player/turquoise_2701",
+    "url": "https://www.chess.com/member/Turquoise_2701",
+    "username": "turquoise_2701",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1740748041,
+    "joined": 1559722072,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2065,
+            "date": 1597254566,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2174,
+            "date": 1570035122,
+            "game": "https://www.chess.com/game/live/5085644178"
+        },
+        "record": {
+            "win": 32,
+            "loss": 20,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2294,
+            "date": 1682792585,
+            "rd": 121
+        },
+        "best": {
+            "rating": 2299,
+            "date": 1682791867,
+            "game": "https://www.chess.com/game/live/3876565494"
+        },
+        "record": {
+            "win": 99,
+            "loss": 74,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2374,
+            "date": 1683480355,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1656430234,
+            "game": "https://www.chess.com/game/live/3827955102"
+        },
+        "record": {
+            "win": 823,
+            "loss": 632,
+            "draw": 188
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3109,
+            "date": 1641845438
+        },
+        "lowest": {
+            "rating": 2018,
+            "date": 1568453364
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

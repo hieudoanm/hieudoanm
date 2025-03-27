@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31797746.96f95f97.200x200o.ca91c4252108.jpeg",
+    "player_id": 31797746,
+    "@id": "https://api.chess.com/pub/player/baki83",
+    "url": "https://www.chess.com/member/baki83",
+    "name": "Etienne Bacrot",
+    "username": "baki83",
+    "title": "GM",
+    "followers": 1359,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1734127721,
+    "joined": 1482424927,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2566,
+            "date": 1715201437,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1591376896,
+            "game": "https://www.chess.com/game/live/77654130823"
+        },
+        "record": {
+            "win": 30,
+            "loss": 37,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2756,
+            "date": 1732812713,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2846,
+            "date": 1667952134,
+            "game": "https://www.chess.com/game/live/43973148981"
+        },
+        "record": {
+            "win": 654,
+            "loss": 527,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2979,
+            "date": 1733858785,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2988,
+            "date": 1733856718,
+            "game": "https://www.chess.com/game/live/88292463953"
+        },
+        "record": {
+            "win": 1868,
+            "loss": 1050,
+            "draw": 293
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3239,
+            "date": 1619474689
+        },
+        "lowest": {
+            "rating": 1190,
+            "date": 1484234766
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

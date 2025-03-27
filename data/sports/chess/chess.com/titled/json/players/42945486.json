@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42945486.4c702f54.200x200o.13a32a5a7409.jpeg",
+    "player_id": 42945486,
+    "@id": "https://api.chess.com/pub/player/nightowlcalculator",
+    "url": "https://www.chess.com/member/NightOwlCalculator",
+    "name": "Anjaneya Rao",
+    "username": "nightowlcalculator",
+    "title": "CM",
+    "followers": 58,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741638217,
+    "joined": 1517602967,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 758,
+            "date": 1740588928,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1561435202,
+            "game": "https://www.chess.com/game/daily/240472742"
+        },
+        "record": {
+            "win": 166,
+            "loss": 88,
+            "draw": 16,
+            "time_per_move": 85240,
+            "timeout_percent": 80
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2363,
+            "date": 1740507312,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1707890741,
+            "game": "https://www.chess.com/game/live/103053768719"
+        },
+        "record": {
+            "win": 400,
+            "loss": 242,
+            "draw": 63
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2501,
+            "date": 1739332859,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1739332859,
+            "game": "https://www.chess.com/game/live/106088539387"
+        },
+        "record": {
+            "win": 527,
+            "loss": 348,
+            "draw": 71
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2397,
+            "date": 1741638932,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2493,
+            "date": 1733933230,
+            "game": "https://www.chess.com/game/live/129421382033"
+        },
+        "record": {
+            "win": 979,
+            "loss": 692,
+            "draw": 116
+        }
+    },
+    "fide": 2232,
+    "tactics": {
+        "highest": {
+            "rating": 3696,
+            "date": 1739240523
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1517863039
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

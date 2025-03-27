@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36546970.a6a0e547.200x200o.95c7e74b7d5b.jpeg",
+    "player_id": 36546970,
+    "@id": "https://api.chess.com/pub/player/limkyaw",
+    "url": "https://www.chess.com/member/limkyaw",
+    "name": "Kyaw Kyaw Soe",
+    "username": "limkyaw",
+    "title": "FM",
+    "followers": 60,
+    "country": "https://api.chess.com/pub/country/MM",
+    "location": "World",
+    "last_online": 1741533596,
+    "joined": 1498308617,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2159,
+            "date": 1722875632,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2247,
+            "date": 1647790657,
+            "game": "https://www.chess.com/game/live/6392768173"
+        },
+        "record": {
+            "win": 87,
+            "loss": 21,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1648,
+            "date": 1737983891,
+            "rd": 38
+        },
+        "best": {
+            "rating": 1959,
+            "date": 1646753769,
+            "game": "https://www.chess.com/game/live/103510893243"
+        },
+        "record": {
+            "win": 5618,
+            "loss": 3456,
+            "draw": 190
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2054,
+            "date": 1727513347,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2360,
+            "date": 1642208000,
+            "game": "https://www.chess.com/game/live/36443502095"
+        },
+        "record": {
+            "win": 5508,
+            "loss": 2525,
+            "draw": 419
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3544,
+            "date": 1729339099
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1498309545
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

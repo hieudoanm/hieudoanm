@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/379310839.4984eb0a.200x200o.47b287487205.jpg",
+    "player_id": 379310839,
+    "@id": "https://api.chess.com/pub/player/middiegame",
+    "url": "https://www.chess.com/member/middIegame",
+    "username": "middiegame",
+    "title": "NM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741628310,
+    "joined": 1722876341,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2139,
+            "date": 1732573391,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2153,
+            "date": 1727477594,
+            "game": "https://www.chess.com/game/live/121142410853"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2676,
+            "date": 1741630753,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2753,
+            "date": 1735673834,
+            "game": "https://www.chess.com/game/live/128322603365"
+        },
+        "record": {
+            "win": 1130,
+            "loss": 1301,
+            "draw": 151
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1740595321,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2528,
+            "date": 1737427669,
+            "game": "https://www.chess.com/game/live/120756668767"
+        },
+        "record": {
+            "win": 118,
+            "loss": 120,
+            "draw": 15
+        }
+    },
+    "fide": 2281,
+    "tactics": {
+        "highest": {
+            "rating": 2767,
+            "date": 1739237714
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1722876341
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,65 @@
+{
+    "player_id": 28744706,
+    "@id": "https://api.chess.com/pub/player/mouse-sleep",
+    "url": "https://www.chess.com/member/Mouse-Sleep",
+    "username": "mouse-sleep",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741703301,
+    "joined": 1466614721,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2701,
+            "date": 1739011622,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2781,
+            "date": 1691759778,
+            "game": "https://www.chess.com/game/live/79281210293"
+        },
+        "record": {
+            "win": 4556,
+            "loss": 3878,
+            "draw": 599
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2557,
+            "date": 1741696558,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2725,
+            "date": 1738267380,
+            "game": "https://www.chess.com/game/live/97523974079"
+        },
+        "record": {
+            "win": 5320,
+            "loss": 4389,
+            "draw": 935
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3196,
+            "date": 1684250422
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1579382153
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

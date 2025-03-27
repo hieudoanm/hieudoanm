@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/81402808.586deb52.200x200o.81925afdf733.jpg",
+    "player_id": 81402808,
+    "@id": "https://api.chess.com/pub/player/carlosibarra09",
+    "url": "https://www.chess.com/member/CarlosIbarra09",
+    "name": "Carlos Roberto Ibarra",
+    "username": "carlosibarra09",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/SV",
+    "last_online": 1741064776,
+    "joined": 1591232326,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2134,
+            "date": 1738784730,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2134,
+            "date": 1738784461,
+            "game": "https://www.chess.com/game/live/46927764935"
+        },
+        "record": {
+            "win": 142,
+            "loss": 28,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2165,
+            "date": 1733251312,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2244,
+            "date": 1726169059,
+            "game": "https://www.chess.com/game/live/119907679727"
+        },
+        "record": {
+            "win": 94,
+            "loss": 23,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2360,
+            "date": 1723941600,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2398,
+            "date": 1722381041,
+            "game": "https://www.chess.com/game/live/116112668071"
+        },
+        "record": {
+            "win": 137,
+            "loss": 40,
+            "draw": 7
+        }
+    },
+    "fide": 2134,
+    "tactics": {
+        "highest": {
+            "rating": 3379,
+            "date": 1728701455
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1597422545
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 30
+        }
+    }
+}

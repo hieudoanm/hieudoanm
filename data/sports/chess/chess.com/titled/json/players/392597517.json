@@ -1,0 +1,46 @@
+{
+    "player_id": 392597517,
+    "@id": "https://api.chess.com/pub/player/artisticonline",
+    "url": "https://www.chess.com/member/Artisticonline",
+    "name": "Aarav A",
+    "username": "artisticonline",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1740889336,
+    "joined": 1727718846,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2674,
+            "date": 1735061325,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1730825997,
+            "game": "https://www.chess.com/game/live/124564223221"
+        },
+        "record": {
+            "win": 30,
+            "loss": 22,
+            "draw": 4
+        }
+    },
+    "fide": 2215,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1727718846
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1727718846
+        }
+    },
+    "puzzle_rush": {}
+}

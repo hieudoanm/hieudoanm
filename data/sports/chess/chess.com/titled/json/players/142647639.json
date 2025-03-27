@@ -1,0 +1,89 @@
+{
+    "player_id": 142647639,
+    "@id": "https://api.chess.com/pub/player/ymflb8hj43890rfjiwo93i",
+    "url": "https://www.chess.com/member/ymflb8hj43890rfjiwo93i",
+    "name": "Yichen Han",
+    "username": "ymflb8hj43890rfjiwo93i",
+    "title": "IM",
+    "followers": 78,
+    "country": "https://api.chess.com/pub/country/KR",
+    "last_online": 1741683832,
+    "joined": 1622459022,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2648,
+            "date": 1741259851,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2648,
+            "date": 1693507926,
+            "game": "https://www.chess.com/game/live/32292635695"
+        },
+        "record": {
+            "win": 188,
+            "loss": 34,
+            "draw": 33
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2901,
+            "date": 1740241152,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2968,
+            "date": 1720816111,
+            "game": "https://www.chess.com/game/live/110555532107"
+        },
+        "record": {
+            "win": 1310,
+            "loss": 1346,
+            "draw": 213
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2770,
+            "date": 1741686720,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2838,
+            "date": 1737624459,
+            "game": "https://www.chess.com/game/live/130846764987"
+        },
+        "record": {
+            "win": 512,
+            "loss": 453,
+            "draw": 79
+        }
+    },
+    "fide": 2447,
+    "tactics": {
+        "highest": {
+            "rating": 3782,
+            "date": 1711056751
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1636810525
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        },
+        "daily": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

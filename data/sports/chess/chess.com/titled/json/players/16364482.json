@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16364482.1959660f.200x200o.b14ed74b00e1.jpg",
+    "player_id": 16364482,
+    "@id": "https://api.chess.com/pub/player/adotand",
+    "url": "https://www.chess.com/member/adotand",
+    "name": "Pranav Anand",
+    "username": "adotand",
+    "title": "GM",
+    "followers": 687,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1734146198,
+    "joined": 1394258780,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2459,
+            "date": 1716641198,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2483,
+            "date": 1686594003,
+            "game": "https://www.chess.com/game/live/80324510467"
+        },
+        "record": {
+            "win": 26,
+            "loss": 33,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2942,
+            "date": 1734106241,
+            "rd": 20
+        },
+        "best": {
+            "rating": 3162,
+            "date": 1713883497,
+            "game": "https://www.chess.com/game/live/107284777923"
+        },
+        "record": {
+            "win": 6730,
+            "loss": 7284,
+            "draw": 868
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2901,
+            "date": 1734183612,
+            "rd": 26
+        },
+        "best": {
+            "rating": 3074,
+            "date": 1716638377,
+            "game": "https://www.chess.com/game/live/123921010561"
+        },
+        "record": {
+            "win": 4134,
+            "loss": 3930,
+            "draw": 768
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3731,
+            "date": 1733194961
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1500456772
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        },
+        "daily": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

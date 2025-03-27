@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49542020.3c660b52.200x200o.6218fd850c7a.jpeg",
+    "player_id": 49542020,
+    "@id": "https://api.chess.com/pub/player/cheer_down",
+    "url": "https://www.chess.com/member/Cheer_Down",
+    "name": "Viktor Parfenov",
+    "username": "cheer_down",
+    "title": "CM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/IL",
+    "last_online": 1741578324,
+    "joined": 1536397609,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1692110935,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 22,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1680210571,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2041,
+            "date": 1576082649,
+            "game": "https://www.chess.com/game/live/4284083041"
+        },
+        "record": {
+            "win": 7,
+            "loss": 7,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2377,
+            "date": 1739731384,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2513,
+            "date": 1692645431,
+            "game": "https://www.chess.com/game/live/85216344183"
+        },
+        "record": {
+            "win": 994,
+            "loss": 1236,
+            "draw": 136
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2463,
+            "date": 1741695350,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1693231206,
+            "game": "https://www.chess.com/game/live/116011892947"
+        },
+        "record": {
+            "win": 8875,
+            "loss": 10783,
+            "draw": 2154
+        }
+    },
+    "fide": 2193,
+    "tactics": {
+        "highest": {
+            "rating": 2277,
+            "date": 1711880944
+        },
+        "lowest": {
+            "rating": 1204,
+            "date": 1550749716
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

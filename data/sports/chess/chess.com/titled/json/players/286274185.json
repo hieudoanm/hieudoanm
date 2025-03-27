@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/286274185.b5bb91c4.200x200o.41ca5ec46c40.png",
+    "player_id": 286274185,
+    "@id": "https://api.chess.com/pub/player/chesssharkz",
+    "url": "https://www.chess.com/member/ChessSharkz",
+    "name": "Kayden Troff",
+    "username": "chesssharkz",
+    "title": "GM",
+    "followers": 2380,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1734114306,
+    "joined": 1684341535,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/chesssharkz",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/chesssharkz"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2599,
+            "date": 1734043646,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1706162249,
+            "game": "https://www.chess.com/game/live/117663029331"
+        },
+        "record": {
+            "win": 34,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2909,
+            "date": 1733889386,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3022,
+            "date": 1712116543,
+            "game": "https://www.chess.com/game/live/121284673577"
+        },
+        "record": {
+            "win": 1845,
+            "loss": 991,
+            "draw": 168
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2941,
+            "date": 1734042402,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2979,
+            "date": 1729614832,
+            "game": "https://www.chess.com/game/live/123351698373"
+        },
+        "record": {
+            "win": 1320,
+            "loss": 881,
+            "draw": 201
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3710,
+            "date": 1729129682
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1684341535
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 80,
+            "score": 77
+        }
+    }
+}

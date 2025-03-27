@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13531744.c9ba094f.200x200o.fe905ed07b02.jpeg",
+    "player_id": 13531744,
+    "@id": "https://api.chess.com/pub/player/heineccius",
+    "url": "https://www.chess.com/member/Heineccius",
+    "name": "Alessandro Manzone",
+    "username": "heineccius",
+    "title": "FM",
+    "followers": 131,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Resistencia",
+    "last_online": 1741638864,
+    "joined": 1379208561,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1590,
+            "date": 1741646428,
+            "rd": 201
+        },
+        "best": {
+            "rating": 1590,
+            "date": 1715987915,
+            "game": "https://www.chess.com/game/daily/432365273"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 139295,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1741306831,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2277,
+            "date": 1738787298,
+            "game": "https://www.chess.com/game/live/129000179269"
+        },
+        "record": {
+            "win": 85,
+            "loss": 21,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2508,
+            "date": 1740865073,
+            "rd": 49
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2653,
+            "date": 1737647473,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2792,
+            "date": 1728047465,
+            "game": "https://www.chess.com/game/live/5918536159"
+        },
+        "record": {
+            "win": 1121,
+            "loss": 681,
+            "draw": 140
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3547,
+            "date": 1727543048
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1540937307
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

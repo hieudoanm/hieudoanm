@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/70513730.ad5811c4.200x200o.63c4170a07c0.jpeg",
+    "player_id": 70513730,
+    "@id": "https://api.chess.com/pub/player/tomilen",
+    "url": "https://www.chess.com/member/TomiLen",
+    "name": "Elena Tomilova",
+    "username": "tomilen",
+    "title": "WGM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1649518473,
+    "joined": 1578567466,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2153,
+            "date": 1590523185,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2569,
+            "date": 1590428907,
+            "game": "https://www.chess.com/game/live/4906423468"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2445,
+            "date": 1622836326,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2652,
+            "date": 1603818377,
+            "game": "https://www.chess.com/game/live/5611433374"
+        },
+        "record": {
+            "win": 205,
+            "loss": 166,
+            "draw": 70
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2822,
+            "date": 1641919321
+        },
+        "lowest": {
+            "rating": 2359,
+            "date": 1578663864
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

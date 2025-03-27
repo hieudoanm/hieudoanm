@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27648968.96a4e8c4.200x200o.c68c35348a04.jpeg",
+    "player_id": 27648968,
+    "@id": "https://api.chess.com/pub/player/llrchess",
+    "url": "https://www.chess.com/member/LLRChess",
+    "name": "Leopold Le Ruyet",
+    "username": "llrchess",
+    "title": "FM",
+    "followers": 246,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Guangzhou",
+    "last_online": 1741700935,
+    "joined": 1460118872,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1376,
+            "date": 1643731795,
+            "rd": 235
+        },
+        "best": {
+            "rating": 1376,
+            "date": 1564690571,
+            "game": "https://www.chess.com/game/daily/230779472"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 88939,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2543,
+            "date": 1737462612,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1735011841,
+            "game": "https://www.chess.com/game/live/112097403663"
+        },
+        "record": {
+            "win": 80,
+            "loss": 39,
+            "draw": 22
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2055,
+            "date": 1673260204,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2104,
+            "date": 1647959515,
+            "game": "https://www.chess.com/game/live/42902970713"
+        },
+        "record": {
+            "win": 33,
+            "loss": 15,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2606,
+            "date": 1724570373,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1688202000,
+            "game": "https://www.chess.com/game/live/77951570569"
+        },
+        "record": {
+            "win": 1234,
+            "loss": 1009,
+            "draw": 160
+        }
+    },
+    "fide": 2346,
+    "tactics": {
+        "highest": {
+            "rating": 3834,
+            "date": 1701907290
+        },
+        "lowest": {
+            "rating": 1346,
+            "date": 1461080464
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

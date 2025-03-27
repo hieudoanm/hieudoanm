@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73781440.41705c51.200x200o.9cb9722f5d06.jpeg",
+    "player_id": 73781440,
+    "@id": "https://api.chess.com/pub/player/dianadarchia",
+    "url": "https://www.chess.com/member/DianaDarchia",
+    "name": "Diana Darchia",
+    "username": "dianadarchia",
+    "title": "WGM",
+    "followers": 132,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1741429082,
+    "joined": 1584541511,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1974,
+            "date": 1737039519,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2085,
+            "date": 1666084797,
+            "game": "https://www.chess.com/game/live/60972572565"
+        },
+        "record": {
+            "win": 43,
+            "loss": 30,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2004,
+            "date": 1600421999,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1873,
+            "date": 1598902933,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2337,
+            "date": 1585744972,
+            "game": "https://www.chess.com/game/live/4625197276"
+        },
+        "record": {
+            "win": 74,
+            "loss": 34,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2895,
+            "date": 1739453969
+        },
+        "lowest": {
+            "rating": 2009,
+            "date": 1584900222
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

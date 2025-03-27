@@ -1,0 +1,78 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25915.725cbe23.200x200o.435ca578025c.jpeg",
+    "player_id": 25915,
+    "@id": "https://api.chess.com/pub/player/pichi2004",
+    "url": "https://www.chess.com/member/pichi2004",
+    "name": "Roberto Debarnot",
+    "username": "pichi2004",
+    "title": "IM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Argentina, Bs:As",
+    "last_online": 1473162386,
+    "joined": 1187311823,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1058,
+            "date": 1463004459,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 70692,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1625,
+            "date": 1301981500,
+            "rd": 304
+        },
+        "best": {
+            "rating": 1475,
+            "date": 1301981500,
+            "game": "https://www.chess.com/game/live/115649462"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1816,
+            "date": 1425002428,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2015,
+            "date": 1311438265,
+            "game": "https://www.chess.com/game/live/171628407"
+        },
+        "record": {
+            "win": 1595,
+            "loss": 1215,
+            "draw": 134
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 1484,
+            "date": 1317167448
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1317167359
+        }
+    },
+    "puzzle_rush": {}
+}

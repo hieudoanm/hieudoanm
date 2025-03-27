@@ -1,0 +1,66 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/131731920.a6de45f9.200x200o.01d5f8775e8b.png",
+    "player_id": 131731920,
+    "@id": "https://api.chess.com/pub/player/rochefort_10",
+    "url": "https://www.chess.com/member/Rochefort_10",
+    "username": "rochefort_10",
+    "title": "FM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/MH",
+    "last_online": 1741693627,
+    "joined": 1616937184,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2537,
+            "date": 1741639794
+        },
+        "best": {
+            "rating": 2574,
+            "date": 1733069762,
+            "game": "https://www.chess.com/game/live/110583175409"
+        },
+        "record": {
+            "win": 590,
+            "loss": 434,
+            "draw": 195
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2605,
+            "date": 1741548321,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1726518992,
+            "game": "https://www.chess.com/game/live/120342021717"
+        },
+        "record": {
+            "win": 1042,
+            "loss": 997,
+            "draw": 274
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3475,
+            "date": 1732445138
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1616937184
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 47
+        }
+    }
+}

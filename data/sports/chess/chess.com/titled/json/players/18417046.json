@@ -1,0 +1,95 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18417046.2d89bd85.200x200o.7ec2bbf05199.jpeg",
+    "player_id": 18417046,
+    "@id": "https://api.chess.com/pub/player/bagge89",
+    "url": "https://www.chess.com/member/bagge89",
+    "name": "Richard Mbedza",
+    "username": "bagge89",
+    "title": "CM",
+    "followers": 50,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "location": "jhb",
+    "last_online": 1721804890,
+    "joined": 1407579573,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1708280563,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 387818,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2006,
+            "date": 1721805277,
+            "rd": 185
+        },
+        "best": {
+            "rating": 2130,
+            "date": 1415529981,
+            "game": "https://www.chess.com/game/live/962073505"
+        },
+        "record": {
+            "win": 68,
+            "loss": 46,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1615,
+            "date": 1669678658,
+            "rd": 83
+        },
+        "best": {
+            "rating": 1957,
+            "date": 1434839183,
+            "game": "https://www.chess.com/game/live/2192104512"
+        },
+        "record": {
+            "win": 1139,
+            "loss": 1098,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1869,
+            "date": 1724075030,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2217,
+            "date": 1494310905,
+            "game": "https://www.chess.com/game/live/1547150284"
+        },
+        "record": {
+            "win": 2970,
+            "loss": 2447,
+            "draw": 233
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2003,
+            "date": 1723744118
+        },
+        "lowest": {
+            "rating": 1111,
+            "date": 1411323758
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,102 @@
+{
+    "player_id": 44428968,
+    "@id": "https://api.chess.com/pub/player/purpleunicorn2853",
+    "url": "https://www.chess.com/member/PurpleUnicorn2853",
+    "name": "Anagha Aniket Sinkar",
+    "username": "purpleunicorn2853",
+    "title": "WCM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741659603,
+    "joined": 1521466688,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1120,
+            "date": 1739145827,
+            "rd": 131
+        },
+        "best": {
+            "rating": 1250,
+            "date": 1688026976,
+            "game": "https://www.chess.com/game/daily/251750678"
+        },
+        "record": {
+            "win": 16,
+            "loss": 28,
+            "draw": 1,
+            "time_per_move": 96730,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1754,
+            "date": 1736700180
+        },
+        "best": {
+            "rating": 1600,
+            "date": 1717281688,
+            "game": "https://www.chess.com/game/live/111015070041"
+        },
+        "record": {
+            "win": 120,
+            "loss": 119,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1762,
+            "date": 1737945427
+        },
+        "best": {
+            "rating": 1101,
+            "date": 1622097925,
+            "game": "https://www.chess.com/game/live/29678364183"
+        },
+        "record": {
+            "win": 8428,
+            "loss": 8426,
+            "draw": 434
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1917,
+            "date": 1740528165,
+            "rd": 63
+        },
+        "best": {
+            "rating": 1917,
+            "date": 1740528165,
+            "game": "https://www.chess.com/game/live/133655951801"
+        },
+        "record": {
+            "win": 1180,
+            "loss": 1141,
+            "draw": 104
+        }
+    },
+    "fide": 1754,
+    "tactics": {
+        "highest": {
+            "rating": 3075,
+            "date": 1741662118
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1521466688
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 82,
+            "score": 79
+        }
+    }
+}

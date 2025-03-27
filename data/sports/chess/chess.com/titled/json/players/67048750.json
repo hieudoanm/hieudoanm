@@ -1,0 +1,51 @@
+{
+    "player_id": 67048750,
+    "@id": "https://api.chess.com/pub/player/ab-lsv",
+    "url": "https://www.chess.com/member/ab-lsv",
+    "name": "Andreas Brenke",
+    "username": "ab-lsv",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741256880,
+    "joined": 1571866964,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2355,
+            "date": 1741111631,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1730827978,
+            "game": "https://www.chess.com/game/live/130609278915"
+        },
+        "record": {
+            "win": 1583,
+            "loss": 1294,
+            "draw": 301
+        }
+    },
+    "fide": 2349,
+    "tactics": {
+        "highest": {
+            "rating": 3432,
+            "date": 1652536286
+        },
+        "lowest": {
+            "rating": 415,
+            "date": 1571867124
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

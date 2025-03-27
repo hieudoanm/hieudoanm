@@ -1,0 +1,83 @@
+{
+    "player_id": 342229287,
+    "@id": "https://api.chess.com/pub/player/tyronjm",
+    "url": "https://www.chess.com/member/TyronJM",
+    "username": "tyronjm",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741387067,
+    "joined": 1706643634,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2180,
+            "date": 1741662930,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2192,
+            "date": 1737752544,
+            "game": "https://www.chess.com/game/live/132496859369"
+        },
+        "record": {
+            "win": 4,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2328,
+            "date": 1740343390,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1739042561,
+            "game": "https://www.chess.com/game/live/132763198553"
+        },
+        "record": {
+            "win": 104,
+            "loss": 35,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2315,
+            "date": 1740591690,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2329,
+            "date": 1740591431,
+            "game": "https://www.chess.com/game/live/132506434135"
+        },
+        "record": {
+            "win": 88,
+            "loss": 24,
+            "draw": 2
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2620,
+            "date": 1741661382
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1706643634
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

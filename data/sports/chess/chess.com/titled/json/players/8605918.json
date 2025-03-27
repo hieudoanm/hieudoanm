@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8605918.ca80f64b.200x200o.a47a80783f83.jpeg",
+    "player_id": 8605918,
+    "@id": "https://api.chess.com/pub/player/backreg",
+    "url": "https://www.chess.com/member/backreg",
+    "name": "Val Sau",
+    "username": "backreg",
+    "title": "FM",
+    "followers": 281,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "Riga",
+    "last_online": 1741701300,
+    "joined": 1345408785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2478,
+            "date": 1741700670,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1739978652,
+            "game": "https://www.chess.com/game/live/133561146025"
+        },
+        "record": {
+            "win": 91,
+            "loss": 14,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2464,
+            "date": 1740311019,
+            "rd": 147
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1738406020,
+            "game": "https://www.chess.com/game/live/552968193"
+        },
+        "record": {
+            "win": 1037,
+            "loss": 737,
+            "draw": 64
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2599,
+            "date": 1741703642,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2683,
+            "date": 1739393374,
+            "game": "https://www.chess.com/game/live/133129184909"
+        },
+        "record": {
+            "win": 10698,
+            "loss": 7905,
+            "draw": 1104
+        }
+    },
+    "fide": 2334,
+    "tactics": {
+        "highest": {
+            "rating": 3281,
+            "date": 1625682143
+        },
+        "lowest": {
+            "rating": 2060,
+            "date": 1369234881
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 43
+        }
+    }
+}

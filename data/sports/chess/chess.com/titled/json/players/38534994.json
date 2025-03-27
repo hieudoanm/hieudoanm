@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38534994.39fe0b16.200x200o.6ca5098733e7.jpeg",
+    "player_id": 38534994,
+    "@id": "https://api.chess.com/pub/player/olfer",
+    "url": "https://www.chess.com/member/olfer",
+    "name": "Ferenc Olah",
+    "username": "olfer",
+    "title": "FM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "novi sad",
+    "last_online": 1741701283,
+    "joined": 1505081447,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1536,
+            "date": 1713083638,
+            "rd": 92
+        },
+        "best": {
+            "rating": 1536,
+            "date": 1713083637,
+            "game": "https://www.chess.com/game/daily/496490513"
+        },
+        "record": {
+            "win": 27,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 2763,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2304,
+            "date": 1736511910,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2304,
+            "date": 1709798758,
+            "game": "https://www.chess.com/game/live/103481442573"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2410,
+            "date": 1607857625,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1607857350,
+            "game": "https://www.chess.com/game/live/4906165972"
+        },
+        "record": {
+            "win": 117,
+            "loss": 99,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2185,
+            "date": 1735736405,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2335,
+            "date": 1695313091,
+            "game": "https://www.chess.com/game/live/103450848805"
+        },
+        "record": {
+            "win": 1715,
+            "loss": 1347,
+            "draw": 181
+        }
+    },
+    "fide": 2308,
+    "tactics": {
+        "highest": {
+            "rating": 4092,
+            "date": 1737487493
+        },
+        "lowest": {
+            "rating": 409,
+            "date": 1505399922
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        },
+        "daily": {
+            "total_attempts": 39,
+            "score": 38
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8049220.367cc159.200x200o.b4d49878e97e.jpg",
+    "player_id": 8049220,
+    "@id": "https://api.chess.com/pub/player/terrapin33",
+    "url": "https://www.chess.com/member/terrapin33",
+    "name": "Shawn Pealer",
+    "username": "terrapin33",
+    "title": "NM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Charlotte, NC",
+    "last_online": 1740354431,
+    "joined": 1341037246,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1752,
+            "date": 1741702806,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1389675780,
+            "game": "https://www.chess.com/game/daily/148304854"
+        },
+        "record": {
+            "win": 434,
+            "loss": 86,
+            "draw": 20,
+            "time_per_move": 95402,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1890,
+            "date": 1602653515,
+            "rd": 195
+        },
+        "best": {
+            "rating": 1965,
+            "date": 1419200235,
+            "game": "https://www.chess.com/game/daily/83589726"
+        },
+        "record": {
+            "win": 76,
+            "loss": 16,
+            "draw": 4,
+            "time_per_move": 95402,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2060,
+            "date": 1732756788,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2485,
+            "date": 1623942037,
+            "game": "https://www.chess.com/game/live/117410976229"
+        },
+        "record": {
+            "win": 129,
+            "loss": 74,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2265,
+            "date": 1741639605,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1725628576,
+            "game": "https://www.chess.com/game/live/119298006599"
+        },
+        "record": {
+            "win": 2121,
+            "loss": 1671,
+            "draw": 98
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2236,
+            "date": 1740410252,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2345,
+            "date": 1699195998,
+            "game": "https://www.chess.com/game/live/93030787393"
+        },
+        "record": {
+            "win": 2375,
+            "loss": 1909,
+            "draw": 135
+        }
+    },
+    "fide": 2263,
+    "tactics": {
+        "highest": {
+            "rating": 3149,
+            "date": 1662115880
+        },
+        "lowest": {
+            "rating": 1342,
+            "date": 1341129177
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

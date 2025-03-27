@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23828548.9f3f20c7.200x200o.a00ea18334d6.png",
+    "player_id": 23828548,
+    "@id": "https://api.chess.com/pub/player/treinadorbr",
+    "url": "https://www.chess.com/member/TreinadorBR",
+    "name": "Nery Junior Jos\u00e9 Ant\u00f4nio",
+    "username": "treinadorbr",
+    "title": "NM",
+    "followers": 746,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741701368,
+    "joined": 1440555585,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1807,
+            "date": 1741701612,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2102,
+            "date": 1616956952,
+            "game": "https://www.chess.com/game/daily/247685038"
+        },
+        "record": {
+            "win": 409,
+            "loss": 160,
+            "draw": 31,
+            "time_per_move": 100965,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1736,
+            "date": 1606191602,
+            "rd": 242
+        },
+        "best": {
+            "rating": 1736,
+            "date": 1606191602,
+            "game": "https://www.chess.com/game/daily/237058026"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 100965,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2365,
+            "date": 1734191644,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2365,
+            "date": 1728062309,
+            "game": "https://www.chess.com/game/live/73917001473"
+        },
+        "record": {
+            "win": 146,
+            "loss": 24,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2383,
+            "date": 1740097311
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1669858897,
+            "game": "https://www.chess.com/game/live/71092996287"
+        },
+        "record": {
+            "win": 2365,
+            "loss": 1804,
+            "draw": 231
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2412,
+            "date": 1741653579,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1670103591,
+            "game": "https://www.chess.com/game/live/134259551567"
+        },
+        "record": {
+            "win": 1437,
+            "loss": 597,
+            "draw": 106
+        }
+    },
+    "fide": 2174,
+    "tactics": {
+        "highest": {
+            "rating": 3416,
+            "date": 1726676334
+        },
+        "lowest": {
+            "rating": 401,
+            "date": 1527642985
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

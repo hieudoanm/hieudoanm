@@ -1,0 +1,3 @@
+pnpm run build-docs
+pnpm run format
+git add -A

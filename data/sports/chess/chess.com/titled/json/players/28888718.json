@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28888718.b1105955.200x200o.2c7d10665b2b.jpg",
+    "player_id": 28888718,
+    "@id": "https://api.chess.com/pub/player/milovanratkovic",
+    "url": "https://www.chess.com/member/milovanratkovic",
+    "name": "Milovan Ratkovic",
+    "username": "milovanratkovic",
+    "title": "IM",
+    "followers": 417,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741689651,
+    "joined": 1467464785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2231,
+            "date": 1704660641,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1647805766,
+            "game": "https://www.chess.com/game/live/49390132355"
+        },
+        "record": {
+            "win": 14,
+            "loss": 13,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2753,
+            "date": 1741690131,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2788,
+            "date": 1733847782,
+            "game": "https://www.chess.com/game/live/87236384707"
+        },
+        "record": {
+            "win": 1123,
+            "loss": 1160,
+            "draw": 125
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2428,
+            "date": 1733868340,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2769,
+            "date": 1549271064,
+            "game": "https://www.chess.com/game/live/47455845159"
+        },
+        "record": {
+            "win": 4984,
+            "loss": 4322,
+            "draw": 710
+        }
+    },
+    "fide": 2424,
+    "tactics": {
+        "highest": {
+            "rating": 2993,
+            "date": 1667628981
+        },
+        "lowest": {
+            "rating": 1166,
+            "date": 1468838682
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

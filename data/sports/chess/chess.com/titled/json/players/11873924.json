@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11873924.dc57493b.200x200o.1a44c9f7a8f9.jpeg",
+    "player_id": 11873924,
+    "@id": "https://api.chess.com/pub/player/mouraobio",
+    "url": "https://www.chess.com/member/mouraobio",
+    "name": "Igor Mourao",
+    "username": "mouraobio",
+    "title": "NM",
+    "followers": 208,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Goi\u00e2nia - (FIDE 2178)",
+    "last_online": 1741273939,
+    "joined": 1368487007,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1245,
+            "date": 1717958727,
+            "rd": 246
+        },
+        "best": {
+            "rating": 1264,
+            "date": 1717341883,
+            "game": "https://www.chess.com/game/daily/309337834"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 2,
+            "time_per_move": 21204,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2249,
+            "date": 1735940242,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1596198073,
+            "game": "https://www.chess.com/game/live/129667772465"
+        },
+        "record": {
+            "win": 45,
+            "loss": 15,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2516,
+            "date": 1726171115,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1715371495,
+            "game": "https://www.chess.com/game/live/109110588969"
+        },
+        "record": {
+            "win": 772,
+            "loss": 554,
+            "draw": 110
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2500,
+            "date": 1718990519,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1718990519,
+            "game": "https://www.chess.com/game/live/4110636450"
+        },
+        "record": {
+            "win": 1415,
+            "loss": 952,
+            "draw": 205
+        }
+    },
+    "fide": 2141,
+    "tactics": {
+        "highest": {
+            "rating": 3365,
+            "date": 1724434111
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1499201006
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

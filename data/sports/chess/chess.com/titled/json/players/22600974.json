@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22600974.21f0c968.200x200o.f91e6ff8482c.jpeg",
+    "player_id": 22600974,
+    "@id": "https://api.chess.com/pub/player/questto22",
+    "url": "https://www.chess.com/member/QuestTo22",
+    "name": "Jonny Quest",
+    "username": "questto22",
+    "title": "FM",
+    "followers": 54,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1707794751,
+    "joined": 1432933635,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1745,
+            "date": 1672967965,
+            "rd": 151
+        },
+        "best": {
+            "rating": 1745,
+            "date": 1638419766,
+            "game": "https://www.chess.com/game/live/32158186039"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2503,
+            "date": 1640964485,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1640963938,
+            "game": "https://www.chess.com/game/live/34703388311"
+        },
+        "record": {
+            "win": 11,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2543,
+            "date": 1707809628,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2576,
+            "date": 1707779264,
+            "game": "https://www.chess.com/game/live/101541727831"
+        },
+        "record": {
+            "win": 160,
+            "loss": 64,
+            "draw": 7
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2051,
+            "date": 1500387513
+        },
+        "lowest": {
+            "rating": 1296,
+            "date": 1433181934
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

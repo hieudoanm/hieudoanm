@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/188147133.5217a9e7.200x200o.0303ef4d5f69.jpeg",
+    "player_id": 188147133,
+    "@id": "https://api.chess.com/pub/player/pachonpower",
+    "url": "https://www.chess.com/member/Pachonpower",
+    "name": "Andres Ferriz Barrios",
+    "username": "pachonpower",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741662335,
+    "joined": 1656273040,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2218,
+            "date": 1724907541,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1686274083,
+            "game": "https://www.chess.com/game/live/80011837063"
+        },
+        "record": {
+            "win": 7,
+            "loss": 15,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2462,
+            "date": 1733511729,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2462,
+            "date": 1733511729,
+            "game": "https://www.chess.com/game/live/61626016733"
+        },
+        "record": {
+            "win": 152,
+            "loss": 125,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2486,
+            "date": 1737585754,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1725397230,
+            "game": "https://www.chess.com/game/live/114908313549"
+        },
+        "record": {
+            "win": 276,
+            "loss": 290,
+            "draw": 52
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3069,
+            "date": 1712879500
+        },
+        "lowest": {
+            "rating": 2411,
+            "date": 1660084338
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        },
+        "daily": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

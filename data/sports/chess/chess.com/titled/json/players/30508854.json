@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30508854.1c0e1c62.200x200o.e201b6d73ebf.jpeg",
+    "player_id": 30508854,
+    "@id": "https://api.chess.com/pub/player/drvelja",
+    "url": "https://www.chess.com/member/DrVelja",
+    "name": "Velimir Ivic",
+    "username": "drvelja",
+    "title": "GM",
+    "followers": 250,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Belgrade",
+    "last_online": 1734108981,
+    "joined": 1477043586,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2635,
+            "date": 1721495450,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2654,
+            "date": 1715285381,
+            "game": "https://www.chess.com/game/live/109012920973"
+        },
+        "record": {
+            "win": 52,
+            "loss": 40,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2977,
+            "date": 1720892648,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3057,
+            "date": 1606577315,
+            "game": "https://www.chess.com/game/live/5785346501"
+        },
+        "record": {
+            "win": 2402,
+            "loss": 1994,
+            "draw": 292
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2974,
+            "date": 1733849776,
+            "rd": 46
+        },
+        "best": {
+            "rating": 3038,
+            "date": 1711491917,
+            "game": "https://www.chess.com/game/live/108835944977"
+        },
+        "record": {
+            "win": 2554,
+            "loss": 1792,
+            "draw": 428
+        }
+    },
+    "fide": 2581,
+    "tactics": {
+        "highest": {
+            "rating": 3883,
+            "date": 1713993763
+        },
+        "lowest": {
+            "rating": 1401,
+            "date": 1477046881
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

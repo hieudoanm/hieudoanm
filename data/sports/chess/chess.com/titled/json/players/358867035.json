@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/358867035.df683c2f.200x200o.0f43ad898385.jpg",
+    "player_id": 358867035,
+    "@id": "https://api.chess.com/pub/player/thetnaung291",
+    "url": "https://www.chess.com/member/ThetNaung291",
+    "name": "Thet Naung",
+    "username": "thetnaung291",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/MM",
+    "last_online": 1741701165,
+    "joined": 1713858620,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2270,
+            "date": 1715764166,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2087,
+            "date": 1714125447,
+            "game": "https://www.chess.com/game/live/107863758715"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2218,
+            "date": 1740471190,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1714225654,
+            "game": "https://www.chess.com/game/live/109788029775"
+        },
+        "record": {
+            "win": 15,
+            "loss": 41,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2531,
+            "date": 1741701144,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2468,
+            "date": 1721212175,
+            "game": "https://www.chess.com/game/live/111858216861"
+        },
+        "record": {
+            "win": 486,
+            "loss": 344,
+            "draw": 56
+        }
+    },
+    "fide": 2270,
+    "tactics": {
+        "highest": {
+            "rating": 2565,
+            "date": 1731570975
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1713858620
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        },
+        "daily": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

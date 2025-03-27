@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51807634.1e1458bf.200x200o.7579eb46650a.jpg",
+    "player_id": 51807634,
+    "@id": "https://api.chess.com/pub/player/chessgiantyoutube",
+    "url": "https://www.chess.com/member/ChessGiantYouTube",
+    "name": "Solomon Ruddell",
+    "username": "chessgiantyoutube",
+    "title": "NM",
+    "followers": 1161,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741651632,
+    "joined": 1542132159,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1758,
+            "date": 1739708811,
+            "rd": 162
+        },
+        "best": {
+            "rating": 1875,
+            "date": 1570746548,
+            "game": "https://www.chess.com/game/daily/600072993"
+        },
+        "record": {
+            "win": 11,
+            "loss": 3,
+            "draw": 2,
+            "time_per_move": 55067,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2005,
+            "date": 1739708811,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1739708811,
+            "game": "https://www.chess.com/game/daily/743376827"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 55067,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2225,
+            "date": 1738268296,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1606447171,
+            "game": "https://www.chess.com/game/live/106046465633"
+        },
+        "record": {
+            "win": 139,
+            "loss": 78,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2533,
+            "date": 1741377995,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2659,
+            "date": 1739711568,
+            "game": "https://www.chess.com/game/live/126730206257"
+        },
+        "record": {
+            "win": 3705,
+            "loss": 2519,
+            "draw": 383
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2353,
+            "date": 1741654912,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1715926374,
+            "game": "https://www.chess.com/game/live/123372621777"
+        },
+        "record": {
+            "win": 1134,
+            "loss": 730,
+            "draw": 122
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3586,
+            "date": 1737912958
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1546035049
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

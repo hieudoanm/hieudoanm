@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/110541658.2d82b60f.200x200o.4262bb0a3efe.jpeg",
+    "player_id": 110541658,
+    "@id": "https://api.chess.com/pub/player/samatsa",
+    "url": "https://www.chess.com/member/Samatsa",
+    "name": "Samuel Malka",
+    "username": "samatsa",
+    "title": "FM",
+    "followers": 257,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741651279,
+    "joined": 1610046148,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/samatsa_",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/samatsa_"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1643,
+            "date": 1726839231,
+            "rd": 203
+        },
+        "best": {
+            "rating": 1643,
+            "date": 1726839231,
+            "game": "https://www.chess.com/game/daily/380919281"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 16707,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2452,
+            "date": 1725264025,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2452,
+            "date": 1692564901,
+            "game": "https://www.chess.com/game/live/86302749731"
+        },
+        "record": {
+            "win": 73,
+            "loss": 27,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2580,
+            "date": 1738973670,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2580,
+            "date": 1738972853,
+            "game": "https://www.chess.com/game/live/132710983541"
+        },
+        "record": {
+            "win": 93,
+            "loss": 44,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2572,
+            "date": 1740860877,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2577,
+            "date": 1739054626,
+            "game": "https://www.chess.com/game/live/53796068451"
+        },
+        "record": {
+            "win": 1214,
+            "loss": 1131,
+            "draw": 234
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3747,
+            "date": 1738113333
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1610118314
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

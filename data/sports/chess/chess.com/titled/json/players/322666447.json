@@ -1,0 +1,73 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/322666447.019cd22b.200x200o.98752b8cad07.jpg",
+    "player_id": 322666447,
+    "@id": "https://api.chess.com/pub/player/ichbinberliner2012",
+    "url": "https://www.chess.com/member/IchbinBerliner2012",
+    "name": "David Lacan-Rus",
+    "username": "ichbinberliner2012",
+    "title": "FM",
+    "followers": 125,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741633078,
+    "joined": 1698611215,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2622,
+            "date": 1739300304,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2846,
+            "date": 1737030319,
+            "game": "https://www.chess.com/game/live/130773682279"
+        },
+        "record": {
+            "win": 7,
+            "loss": 54,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2745,
+            "date": 1740685744,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1737039462,
+            "game": "https://www.chess.com/game/live/133202942023"
+        },
+        "record": {
+            "win": 323,
+            "loss": 346,
+            "draw": 66
+        }
+    },
+    "fide": 2403,
+    "tactics": {
+        "highest": {
+            "rating": 3698,
+            "date": 1741633735
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1698611215
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        },
+        "daily": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

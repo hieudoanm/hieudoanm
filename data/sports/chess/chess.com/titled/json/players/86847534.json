@@ -1,0 +1,28 @@
+{
+    "player_id": 86847534,
+    "@id": "https://api.chess.com/pub/player/ezanatan",
+    "url": "https://www.chess.com/member/EZANATAN",
+    "name": "DESALEGN FEKADU",
+    "username": "ezanatan",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/ET",
+    "location": "ADDIS ABABA",
+    "last_online": 1596195821,
+    "joined": 1594916832,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1594916832
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1594916832
+        }
+    },
+    "puzzle_rush": {}
+}

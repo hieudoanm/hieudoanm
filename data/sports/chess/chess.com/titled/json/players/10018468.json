@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10018468.276ef641.200x200o.cdd8d65d4ec8.jpg",
+    "player_id": 10018468,
+    "@id": "https://api.chess.com/pub/player/optikbaskan",
+    "url": "https://www.chess.com/member/optikbaskan",
+    "name": "Umut Atakisi",
+    "username": "optikbaskan",
+    "title": "IM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "Kadikoy / Istanbul",
+    "last_online": 1741035631,
+    "joined": 1355521885,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2450,
+            "date": 1736603285,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2562,
+            "date": 1735509647,
+            "game": "https://www.chess.com/game/live/128817787363"
+        },
+        "record": {
+            "win": 50,
+            "loss": 66,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2557,
+            "date": 1738626292,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2566,
+            "date": 1736713009,
+            "game": "https://www.chess.com/game/live/128243391981"
+        },
+        "record": {
+            "win": 124,
+            "loss": 111,
+            "draw": 48
+        }
+    },
+    "fide": 2308,
+    "tactics": {
+        "highest": {
+            "rating": 2865,
+            "date": 1736465074
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1355521988
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

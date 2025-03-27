@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/417415573.e22d0f82.200x200o.d28c3ba30d86.png",
+    "player_id": 417415573,
+    "@id": "https://api.chess.com/pub/player/academia3",
+    "url": "https://www.chess.com/member/Academia3",
+    "name": "Jorge Leal",
+    "username": "academia3",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741624225,
+    "joined": 1736773215,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1739144029,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2315,
+            "date": 1737129432,
+            "game": "https://www.chess.com/game/live/130799454885"
+        },
+        "record": {
+            "win": 167,
+            "loss": 122,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2319,
+            "date": 1739318351,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1739313649,
+            "game": "https://www.chess.com/game/live/133051733917"
+        },
+        "record": {
+            "win": 35,
+            "loss": 25,
+            "draw": 4
+        }
+    },
+    "fide": 1976,
+    "tactics": {
+        "highest": {
+            "rating": 1037,
+            "date": 1736984001
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1736773215
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

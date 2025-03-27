@@ -1,0 +1,68 @@
+{
+    "player_id": 399262939,
+    "@id": "https://api.chess.com/pub/player/en-quosantt",
+    "url": "https://www.chess.com/member/En-Quosantt",
+    "name": "Timothy Chien En Lim",
+    "username": "en-quosantt",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741618116,
+    "joined": 1730257483,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2154,
+            "date": 1741376793,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2096,
+            "date": 1739391657,
+            "game": "https://www.chess.com/game/live/132505884349"
+        },
+        "record": {
+            "win": 76,
+            "loss": 42,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2136,
+            "date": 1740082302,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2159,
+            "date": 1739312824,
+            "game": "https://www.chess.com/game/live/131842231613"
+        },
+        "record": {
+            "win": 25,
+            "loss": 44,
+            "draw": 2
+        }
+    },
+    "fide": 1990,
+    "tactics": {
+        "highest": {
+            "rating": 3385,
+            "date": 1741033648
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1730257483
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

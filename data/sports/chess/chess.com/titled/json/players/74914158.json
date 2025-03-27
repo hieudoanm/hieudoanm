@@ -1,0 +1,66 @@
+{
+    "player_id": 74914158,
+    "@id": "https://api.chess.com/pub/player/charlatante",
+    "url": "https://www.chess.com/member/Charlatante",
+    "username": "charlatante",
+    "title": "GM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/TG",
+    "last_online": 1734068521,
+    "joined": 1585472157,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2536,
+            "date": 1588491777,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2386,
+            "date": 1588491777,
+            "game": "https://www.chess.com/game/live/4803265228"
+        },
+        "record": {
+            "win": 14,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2850,
+            "date": 1734143924,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2958,
+            "date": 1709158465,
+            "game": "https://www.chess.com/game/live/113471949667"
+        },
+        "record": {
+            "win": 1011,
+            "loss": 716,
+            "draw": 160
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1585472157
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1585472157
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

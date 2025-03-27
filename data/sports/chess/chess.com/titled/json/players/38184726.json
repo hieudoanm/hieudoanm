@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38184726.03fce957.200x200o.c6f20ec519fc.jpeg",
+    "player_id": 38184726,
+    "@id": "https://api.chess.com/pub/player/nagobe",
+    "url": "https://www.chess.com/member/Nagobe",
+    "name": "Nat\u00e1cio Gon\u00e7alves Bezerra",
+    "username": "nagobe",
+    "title": "NM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Rio de Janeiro",
+    "last_online": 1741695062,
+    "joined": 1503941864,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 963,
+            "date": 1706550864,
+            "rd": 333
+        },
+        "best": {
+            "rating": 963,
+            "date": 1706550864,
+            "game": "https://www.chess.com/game/daily/584672857"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 212340,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2120,
+            "date": 1741702455,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2063,
+            "date": 1718372305,
+            "game": "https://www.chess.com/game/live/112538395483"
+        },
+        "record": {
+            "win": 103,
+            "loss": 68,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1966,
+            "date": 1741350624,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2161,
+            "date": 1718975919,
+            "game": "https://www.chess.com/game/live/112714771125"
+        },
+        "record": {
+            "win": 224,
+            "loss": 207,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2156,
+            "date": 1741608818,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1729537399,
+            "game": "https://www.chess.com/game/live/102789115925"
+        },
+        "record": {
+            "win": 6430,
+            "loss": 6664,
+            "draw": 603
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3116,
+            "date": 1711331718
+        },
+        "lowest": {
+            "rating": 415,
+            "date": 1554416461
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

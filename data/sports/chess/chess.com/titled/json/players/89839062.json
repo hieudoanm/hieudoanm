@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/89839062.3562177d.200x200o.35f06234c618.jpg",
+    "player_id": 89839062,
+    "@id": "https://api.chess.com/pub/player/nicollem13",
+    "url": "https://www.chess.com/member/NicolleM13",
+    "name": "Nicolle Mogoll\u00f3n Tobar",
+    "username": "nicollem13",
+    "title": "WCM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Valle",
+    "last_online": 1741108576,
+    "joined": 1598392135,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1662,
+            "date": 1624029859,
+            "rd": 115
+        },
+        "best": {
+            "rating": 1844,
+            "date": 1619305362,
+            "game": "https://www.chess.com/game/live/13038805241"
+        },
+        "record": {
+            "win": 16,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1842,
+            "date": 1730859921,
+            "rd": 111
+        },
+        "best": {
+            "rating": 1927,
+            "date": 1730855170,
+            "game": "https://www.chess.com/game/live/124594108955"
+        },
+        "record": {
+            "win": 12,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2262,
+            "date": 1741111699,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1741108024,
+            "game": "https://www.chess.com/game/live/134846356107"
+        },
+        "record": {
+            "win": 72,
+            "loss": 48,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1598392135
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1598392135
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

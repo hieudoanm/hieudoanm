@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/399151333.0b7b53c4.200x200o.fef37ae202ca.jpg",
+    "player_id": 399151333,
+    "@id": "https://api.chess.com/pub/player/wt97",
+    "url": "https://www.chess.com/member/WT97",
+    "name": "Willians Fernando Trindade",
+    "username": "wt97",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741559537,
+    "joined": 1730216073,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2036,
+            "date": 1733179046,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1731162342,
+            "game": "https://www.chess.com/game/live/124900740995"
+        },
+        "record": {
+            "win": 7,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1987,
+            "date": 1741560992,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2094,
+            "date": 1732742664,
+            "game": "https://www.chess.com/game/live/126385156823"
+        },
+        "record": {
+            "win": 11,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "fide": 2045,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1730216073
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1730216073
+        }
+    },
+    "puzzle_rush": {}
+}

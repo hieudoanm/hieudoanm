@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8689694.b31dc89e.200x200o.52a4d377dc8f.jpg",
+    "player_id": 8689694,
+    "@id": "https://api.chess.com/pub/player/thenomnomfactor",
+    "url": "https://www.chess.com/member/TheNomNomFactor",
+    "name": "Craig Hilby",
+    "username": "thenomnomfactor",
+    "title": "IM",
+    "followers": 235,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Texas",
+    "last_online": 1741482668,
+    "joined": 1346044171,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2030,
+            "date": 1593073692,
+            "rd": 150
+        },
+        "best": {
+            "rating": 2364,
+            "date": 1461387051,
+            "game": "https://www.chess.com/game/daily/161499030"
+        },
+        "record": {
+            "win": 333,
+            "loss": 56,
+            "draw": 45,
+            "time_per_move": 38233,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1589,
+            "date": 1425662439,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1748,
+            "date": 1419150993,
+            "game": "https://www.chess.com/game/daily/94931196"
+        },
+        "record": {
+            "win": 10,
+            "loss": 9,
+            "draw": 1,
+            "time_per_move": 38233,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2440,
+            "date": 1687384159,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1609792800,
+            "game": "https://www.chess.com/game/live/951715926"
+        },
+        "record": {
+            "win": 71,
+            "loss": 28,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2681,
+            "date": 1722283035,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2739,
+            "date": 1722281592,
+            "game": "https://www.chess.com/game/live/29218747865"
+        },
+        "record": {
+            "win": 4102,
+            "loss": 2130,
+            "draw": 358
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2571,
+            "date": 1740772860,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2683,
+            "date": 1638679331,
+            "game": "https://www.chess.com/game/live/53818857335"
+        },
+        "record": {
+            "win": 1976,
+            "loss": 1046,
+            "draw": 227
+        }
+    },
+    "fide": 2405,
+    "tactics": {
+        "highest": {
+            "rating": 3691,
+            "date": 1738008284
+        },
+        "lowest": {
+            "rating": 1355,
+            "date": 1453612660
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

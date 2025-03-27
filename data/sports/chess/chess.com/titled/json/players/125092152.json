@@ -1,0 +1,105 @@
+{
+    "player_id": 125092152,
+    "@id": "https://api.chess.com/pub/player/bullhouse14",
+    "url": "https://www.chess.com/member/Bullhouse14",
+    "name": "Bhavik Ahuja",
+    "username": "bullhouse14",
+    "title": "CM",
+    "followers": 282,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Delhi",
+    "last_online": 1741663783,
+    "joined": 1614692452,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1659,
+            "date": 1740774351,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1659,
+            "date": 1668156002,
+            "game": "https://www.chess.com/game/daily/441664705"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 44803,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2468,
+            "date": 1736585829,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2484,
+            "date": 1702645593,
+            "game": "https://www.chess.com/game/live/95494803551"
+        },
+        "record": {
+            "win": 38,
+            "loss": 11,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2853,
+            "date": 1741638631,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2853,
+            "date": 1741053059,
+            "game": "https://www.chess.com/game/live/71779988519"
+        },
+        "record": {
+            "win": 4737,
+            "loss": 4461,
+            "draw": 609
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2642,
+            "date": 1741566897,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1740857691,
+            "game": "https://www.chess.com/game/live/131491822255"
+        },
+        "record": {
+            "win": 1173,
+            "loss": 1075,
+            "draw": 177
+        }
+    },
+    "fide": 2175,
+    "tactics": {
+        "highest": {
+            "rating": 3540,
+            "date": 1739490556
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1636440601
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

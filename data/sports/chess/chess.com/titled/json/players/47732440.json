@@ -1,0 +1,109 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47732440.153a411f.200x200o.500623b2350a.jpg",
+    "player_id": 47732440,
+    "@id": "https://api.chess.com/pub/player/rezamahdavi2008",
+    "url": "https://www.chess.com/member/rezamahdavi2008",
+    "name": "Reza Mahdavi",
+    "username": "rezamahdavi2008",
+    "title": "FM",
+    "followers": 357,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741640199,
+    "joined": 1531125112,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1403,
+            "date": 1720274919,
+            "rd": 293
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1531125112,
+            "game": "https://www.chess.com/game/daily/445818635"
+        },
+        "record": {
+            "win": 1,
+            "loss": 5,
+            "draw": 1,
+            "time_per_move": 24948,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2297,
+            "date": 1739125696,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2297,
+            "date": 1739125696,
+            "game": "https://www.chess.com/game/live/132862851521"
+        },
+        "record": {
+            "win": 46,
+            "loss": 9,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3010,
+            "date": 1741459298,
+            "rd": 45
+        },
+        "best": {
+            "rating": 3132,
+            "date": 1697365353,
+            "game": "https://www.chess.com/game/live/76530158805"
+        },
+        "record": {
+            "win": 4829,
+            "loss": 4056,
+            "draw": 494
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2941,
+            "date": 1741636777,
+            "rd": 38
+        },
+        "best": {
+            "rating": 3084,
+            "date": 1735661068,
+            "game": "https://www.chess.com/game/live/126394796755"
+        },
+        "record": {
+            "win": 2069,
+            "loss": 1314,
+            "draw": 286
+        }
+    },
+    "fide": 2436,
+    "tactics": {
+        "highest": {
+            "rating": 3383,
+            "date": 1738546143
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1550661051
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 91,
+            "score": 88
+        },
+        "daily": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

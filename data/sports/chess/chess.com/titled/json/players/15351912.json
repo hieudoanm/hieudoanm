@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15351912.953f074e.200x200o.ecdff082395b.gif",
+    "player_id": 15351912,
+    "@id": "https://api.chess.com/pub/player/necromon",
+    "url": "https://www.chess.com/member/Necromon",
+    "name": "John Nemeth",
+    "username": "necromon",
+    "title": "FM",
+    "followers": 105,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Melbourne",
+    "last_online": 1741677114,
+    "joined": 1388573885,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2102,
+            "date": 1738028328,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2102,
+            "date": 1641069774,
+            "game": "https://www.chess.com/game/daily/364903133"
+        },
+        "record": {
+            "win": 68,
+            "loss": 8,
+            "draw": 10,
+            "time_per_move": 26527,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2285,
+            "date": 1741119345,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1672701578,
+            "game": "https://www.chess.com/game/live/66439991951"
+        },
+        "record": {
+            "win": 171,
+            "loss": 28,
+            "draw": 37
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2423,
+            "date": 1728123322,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1665527324,
+            "game": "https://www.chess.com/game/live/21637233621"
+        },
+        "record": {
+            "win": 1285,
+            "loss": 578,
+            "draw": 93
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2610,
+            "date": 1719507382,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2622,
+            "date": 1719504158,
+            "game": "https://www.chess.com/game/live/113094595047"
+        },
+        "record": {
+            "win": 693,
+            "loss": 300,
+            "draw": 78
+        }
+    },
+    "fide": 2164,
+    "tactics": {
+        "highest": {
+            "rating": 3660,
+            "date": 1684143165
+        },
+        "lowest": {
+            "rating": 1348,
+            "date": 1460772801
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

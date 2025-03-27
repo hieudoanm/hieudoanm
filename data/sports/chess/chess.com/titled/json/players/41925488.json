@@ -1,0 +1,104 @@
+{
+    "player_id": 41925488,
+    "@id": "https://api.chess.com/pub/player/knjazj",
+    "url": "https://www.chess.com/member/Knjazj",
+    "name": "Sergey Dmitriev",
+    "username": "knjazj",
+    "title": "FM",
+    "followers": 77,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741703291,
+    "joined": 1514902631,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1740146012,
+            "rd": 350
+        },
+        "record": {
+            "win": 10,
+            "loss": 36,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 2,
+            "count": 2,
+            "highest_finish": 132
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2018,
+            "date": 1741685941,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2175,
+            "date": 1737304460,
+            "game": "https://www.chess.com/game/live/117418195871"
+        },
+        "record": {
+            "win": 1907,
+            "loss": 2277,
+            "draw": 394
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1576,
+            "date": 1723399238,
+            "rd": 119
+        },
+        "best": {
+            "rating": 1844,
+            "date": 1586098561,
+            "game": "https://www.chess.com/game/live/6026134845"
+        },
+        "record": {
+            "win": 22,
+            "loss": 20,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1958,
+            "date": 1741474351,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2164,
+            "date": 1641868462,
+            "game": "https://www.chess.com/game/live/78009779509"
+        },
+        "record": {
+            "win": 8301,
+            "loss": 9200,
+            "draw": 1413
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2614,
+            "date": 1667001623
+        },
+        "lowest": {
+            "rating": 987,
+            "date": 1530034064
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 25,
+            "score": 23
+        }
+    }
+}

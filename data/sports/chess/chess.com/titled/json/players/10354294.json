@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10354294.ae23f7d8.200x200o.29e33a8f14f0.jpeg",
+    "player_id": 10354294,
+    "@id": "https://api.chess.com/pub/player/superjem123",
+    "url": "https://www.chess.com/member/superjem123",
+    "name": "Jan Emmanuel Garcia",
+    "username": "superjem123",
+    "title": "IM",
+    "followers": 201,
+    "country": "https://api.chess.com/pub/country/PH",
+    "location": "Manila, Philippines",
+    "last_online": 1741349428,
+    "joined": 1357711671,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2326,
+            "date": 1730899387,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1700917591,
+            "game": "https://www.chess.com/game/live/108565755223"
+        },
+        "record": {
+            "win": 167,
+            "loss": 44,
+            "draw": 78
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2877,
+            "date": 1716375513,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2889,
+            "date": 1714718078,
+            "game": "https://www.chess.com/game/live/5693100531"
+        },
+        "record": {
+            "win": 224,
+            "loss": 126,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2802,
+            "date": 1738711555,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2911,
+            "date": 1737555477,
+            "game": "https://www.chess.com/game/live/131298616087"
+        },
+        "record": {
+            "win": 557,
+            "loss": 221,
+            "draw": 112
+        }
+    },
+    "fide": 2426,
+    "tactics": {
+        "highest": {
+            "rating": 2305,
+            "date": 1721093822
+        },
+        "lowest": {
+            "rating": 1352,
+            "date": 1466181927
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

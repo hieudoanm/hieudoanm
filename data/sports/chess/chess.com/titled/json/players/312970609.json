@@ -1,0 +1,85 @@
+{
+    "player_id": 312970609,
+    "@id": "https://api.chess.com/pub/player/alexandrehouhou",
+    "url": "https://www.chess.com/member/AlexandreHouhou",
+    "name": "Alexandre Houhou",
+    "username": "alexandrehouhou",
+    "title": "CM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741680273,
+    "joined": 1694781873,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2202,
+            "date": 1734515693,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2214,
+            "date": 1732919748,
+            "game": "https://www.chess.com/game/live/128195409519"
+        },
+        "record": {
+            "win": 25,
+            "loss": 13,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2297,
+            "date": 1740069739,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2458,
+            "date": 1695281248,
+            "game": "https://www.chess.com/game/live/129766812241"
+        },
+        "record": {
+            "win": 882,
+            "loss": 764,
+            "draw": 83
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2424,
+            "date": 1741618931,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2464,
+            "date": 1737068049,
+            "game": "https://www.chess.com/game/live/105830470913"
+        },
+        "record": {
+            "win": 352,
+            "loss": 302,
+            "draw": 34
+        }
+    },
+    "fide": 2138,
+    "tactics": {
+        "highest": {
+            "rating": 3389,
+            "date": 1730797870
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1694781873
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

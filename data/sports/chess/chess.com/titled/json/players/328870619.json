@@ -1,0 +1,80 @@
+{
+    "player_id": 328870619,
+    "@id": "https://api.chess.com/pub/player/captaintamas",
+    "url": "https://www.chess.com/member/CaptainTamas",
+    "name": "Ughur Ilyasli",
+    "username": "captaintamas",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741011266,
+    "joined": 1701103240,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2317,
+            "date": 1741013128,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1716195302,
+            "game": "https://www.chess.com/game/live/104350783321"
+        },
+        "record": {
+            "win": 51,
+            "loss": 21,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2282,
+            "date": 1731588390,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1709221475,
+            "game": "https://www.chess.com/game/live/125070006721"
+        },
+        "record": {
+            "win": 24,
+            "loss": 22,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2366,
+            "date": 1732022939,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1712302389,
+            "game": "https://www.chess.com/game/live/102961307173"
+        },
+        "record": {
+            "win": 37,
+            "loss": 32,
+            "draw": 2
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3409,
+            "date": 1723098560
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1701103240
+        }
+    },
+    "puzzle_rush": {}
+}

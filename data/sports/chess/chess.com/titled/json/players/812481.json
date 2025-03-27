@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/812481.3f7657c9.200x200o.8cf443acebd5.jpeg",
+    "player_id": 812481,
+    "@id": "https://api.chess.com/pub/player/chess_gainz",
+    "url": "https://www.chess.com/member/Chess_Gainz",
+    "name": "Max Farberov",
+    "username": "chess_gainz",
+    "title": "NM",
+    "followers": 165,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New Jersey",
+    "last_online": 1741701439,
+    "joined": 1199122677,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1820,
+            "date": 1730042452,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2020,
+            "date": 1622112146,
+            "game": "https://www.chess.com/game/daily/334910775"
+        },
+        "record": {
+            "win": 123,
+            "loss": 38,
+            "draw": 12,
+            "time_per_move": 23868,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1057,
+            "date": 1577860804,
+            "rd": 220
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1199122677,
+            "game": "https://www.chess.com/game/daily/243670218"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23868,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2324,
+            "date": 1741224573,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1690135087,
+            "game": "https://www.chess.com/game/live/94408408713"
+        },
+        "record": {
+            "win": 376,
+            "loss": 248,
+            "draw": 71
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2583,
+            "date": 1740963717,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1740963565,
+            "game": "https://www.chess.com/game/live/129796176799"
+        },
+        "record": {
+            "win": 805,
+            "loss": 606,
+            "draw": 86
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2629,
+            "date": 1741225388,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2649,
+            "date": 1736826691,
+            "game": "https://www.chess.com/game/live/105205933009"
+        },
+        "record": {
+            "win": 6038,
+            "loss": 5480,
+            "draw": 737
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3484,
+            "date": 1709046171
+        },
+        "lowest": {
+            "rating": 916,
+            "date": 1245286717
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

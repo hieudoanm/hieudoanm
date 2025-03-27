@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190850475.6e040188.200x200o.8411ec977d0d.jpeg",
+    "player_id": 190850475,
+    "@id": "https://api.chess.com/pub/player/mslemongirl",
+    "url": "https://www.chess.com/member/mslemongirl",
+    "name": "Morgen Mills",
+    "username": "mslemongirl",
+    "title": "WFM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Canada",
+    "last_online": 1741615574,
+    "joined": 1658521339,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2182,
+            "date": 1732396194,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2257,
+            "date": 1673211192,
+            "game": "https://www.chess.com/game/live/70239297301"
+        },
+        "record": {
+            "win": 10,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2336,
+            "date": 1741615717,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1693610460,
+            "game": "https://www.chess.com/game/live/122316601157"
+        },
+        "record": {
+            "win": 1555,
+            "loss": 1148,
+            "draw": 210
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2212,
+            "date": 1741652751,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2421,
+            "date": 1723841238,
+            "game": "https://www.chess.com/game/live/65898729287"
+        },
+        "record": {
+            "win": 1975,
+            "loss": 1639,
+            "draw": 302
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2923,
+            "date": 1737427944
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1660870889
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

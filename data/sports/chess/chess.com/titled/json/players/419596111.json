@@ -1,0 +1,63 @@
+{
+    "player_id": 419596111,
+    "@id": "https://api.chess.com/pub/player/completely_alien",
+    "url": "https://www.chess.com/member/Completely_Alien",
+    "name": "Mateu Boci",
+    "username": "completely_alien",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/VA",
+    "last_online": 1740520093,
+    "joined": 1737474367,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2652,
+            "date": 1739298702,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2652,
+            "date": 1739298702,
+            "game": "https://www.chess.com/game/live/133037351281"
+        },
+        "record": {
+            "win": 35,
+            "loss": 25,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2746,
+            "date": 1740527689,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2787,
+            "date": 1739383998,
+            "game": "https://www.chess.com/game/live/133031932733"
+        },
+        "record": {
+            "win": 129,
+            "loss": 71,
+            "draw": 24
+        }
+    },
+    "fide": 2312,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1737474367
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1737474367
+        }
+    },
+    "puzzle_rush": {}
+}

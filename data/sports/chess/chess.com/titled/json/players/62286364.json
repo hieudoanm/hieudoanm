@@ -1,0 +1,135 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62286364.c63cc426.200x200o.cefc7fdcd0ab.jpeg",
+    "player_id": 62286364,
+    "@id": "https://api.chess.com/pub/player/goldenbuzzer",
+    "url": "https://www.chess.com/member/goldenbuzzer",
+    "name": "Brejesh Chakrabarti",
+    "username": "goldenbuzzer",
+    "title": "FM",
+    "followers": 597,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741634829,
+    "joined": 1560545381,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1449,
+            "date": 1737658411,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2105,
+            "date": 1604769866,
+            "game": "https://www.chess.com/game/daily/299332122"
+        },
+        "record": {
+            "win": 500,
+            "loss": 157,
+            "draw": 43,
+            "time_per_move": 32634,
+            "timeout_percent": 58
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 1,
+            "count": 1,
+            "highest_finish": 2
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1899,
+            "date": 1663972423,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2124,
+            "date": 1601110982,
+            "game": "https://www.chess.com/game/daily/279467290"
+        },
+        "record": {
+            "win": 9,
+            "loss": 8,
+            "draw": 1,
+            "time_per_move": 32634,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 1,
+            "count": 1,
+            "highest_finish": 2
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2545,
+            "date": 1725493737,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2577,
+            "date": 1700702397,
+            "game": "https://www.chess.com/game/live/40950567757"
+        },
+        "record": {
+            "win": 682,
+            "loss": 497,
+            "draw": 265
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2747,
+            "date": 1741456252,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1736206112,
+            "game": "https://www.chess.com/game/live/125180955265"
+        },
+        "record": {
+            "win": 2312,
+            "loss": 1808,
+            "draw": 266
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2572,
+            "date": 1738884011,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2619,
+            "date": 1635807623,
+            "game": "https://www.chess.com/game/live/16408565863"
+        },
+        "record": {
+            "win": 1515,
+            "loss": 1311,
+            "draw": 313
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4150,
+            "date": 1634857653
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1560548873
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

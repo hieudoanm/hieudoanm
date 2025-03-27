@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6235672.d2cbe4d0.200x200o.c1c8625e77aa.jpeg",
+    "player_id": 6235672,
+    "@id": "https://api.chess.com/pub/player/patzerplay",
+    "url": "https://www.chess.com/member/patzerplay",
+    "name": "Michael Auger",
+    "username": "patzerplay",
+    "title": "NM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Chicago",
+    "last_online": 1737927889,
+    "joined": 1322856287,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1945,
+            "date": 1705255085,
+            "rd": 251
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1378083729,
+            "game": "https://www.chess.com/game/daily/157887919"
+        },
+        "record": {
+            "win": 7,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 27919,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2078,
+            "date": 1738460187,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1738460187,
+            "game": "https://www.chess.com/game/live/132197408497"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2476,
+            "date": 1736880085,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2576,
+            "date": 1736876221,
+            "game": "https://www.chess.com/game/live/52356654061"
+        },
+        "record": {
+            "win": 997,
+            "loss": 955,
+            "draw": 112
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2487,
+            "date": 1657041691,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1657037235,
+            "game": "https://www.chess.com/game/live/50779186213"
+        },
+        "record": {
+            "win": 298,
+            "loss": 232,
+            "draw": 27
+        }
+    },
+    "fide": 2264,
+    "tactics": {
+        "highest": {
+            "rating": 3338,
+            "date": 1654174604
+        },
+        "lowest": {
+            "rating": 1389,
+            "date": 1343942652
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

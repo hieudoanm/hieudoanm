@@ -1,0 +1,82 @@
+{
+    "player_id": 40525230,
+    "@id": "https://api.chess.com/pub/player/parawanda",
+    "url": "https://www.chess.com/member/Parawanda",
+    "username": "parawanda",
+    "title": "CM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/KI",
+    "last_online": 1740943631,
+    "joined": 1511096225,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1732270519
+        },
+        "best": {
+            "rating": 1972,
+            "date": 1607767334,
+            "game": "https://www.chess.com/game/live/5947043371"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2689,
+            "date": 1732807466,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2725,
+            "date": 1732550490,
+            "game": "https://www.chess.com/game/live/8199353513"
+        },
+        "record": {
+            "win": 532,
+            "loss": 449,
+            "draw": 64
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2517,
+            "date": 1740943984,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2573,
+            "date": 1650659046,
+            "game": "https://www.chess.com/game/live/44397643995"
+        },
+        "record": {
+            "win": 286,
+            "loss": 170,
+            "draw": 58
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3519,
+            "date": 1712524896
+        },
+        "lowest": {
+            "rating": 1195,
+            "date": 1542726053
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

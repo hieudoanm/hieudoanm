@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30138262.622c5507.200x200o.96d24d130d0f.png",
+    "player_id": 30138262,
+    "@id": "https://api.chess.com/pub/player/levski-sofia",
+    "url": "https://www.chess.com/member/levski-sofia",
+    "name": "Plamen Mladenov",
+    "username": "levski-sofia",
+    "title": "IM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Stoke on Trent",
+    "last_online": 1739741382,
+    "joined": 1475056020,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1162,
+            "date": 1643359568,
+            "rd": 277
+        },
+        "best": {
+            "rating": 1508,
+            "date": 1513430977,
+            "game": "https://www.chess.com/game/daily/180555198"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 95572,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1298,
+            "date": 1738399812,
+            "rd": 212
+        },
+        "best": {
+            "rating": 1420,
+            "date": 1579741826,
+            "game": "https://www.chess.com/game/live/4432057960"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2200,
+            "date": 1685920811,
+            "rd": 204
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1685920811,
+            "game": "https://www.chess.com/game/live/79659607539"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2495,
+            "date": 1741687041,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1737797680,
+            "game": "https://www.chess.com/game/live/131284807231"
+        },
+        "record": {
+            "win": 8949,
+            "loss": 9103,
+            "draw": 2054
+        }
+    },
+    "fide": 2370,
+    "tactics": {
+        "highest": {
+            "rating": 3054,
+            "date": 1689247387
+        },
+        "lowest": {
+            "rating": 1195,
+            "date": 1611865076
+        }
+    },
+    "puzzle_rush": {}
+}

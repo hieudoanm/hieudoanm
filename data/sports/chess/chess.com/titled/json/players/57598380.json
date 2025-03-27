@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57598380.6b47a558.200x200o.349deda2baa5.jpeg",
+    "player_id": 57598380,
+    "@id": "https://api.chess.com/pub/player/spiritofwonder",
+    "url": "https://www.chess.com/member/spiritofwonder",
+    "username": "spiritofwonder",
+    "title": "GM",
+    "followers": 45,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1731571351,
+    "joined": 1550686146,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3013,
+            "date": 1663160667,
+            "rd": 147
+        },
+        "best": {
+            "rating": 3015,
+            "date": 1622715940,
+            "game": "https://www.chess.com/game/live/4195786085"
+        },
+        "record": {
+            "win": 266,
+            "loss": 220,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3019,
+            "date": 1665653436,
+            "rd": 120
+        },
+        "best": {
+            "rating": 3019,
+            "date": 1665653436,
+            "game": "https://www.chess.com/game/live/5122916143"
+        },
+        "record": {
+            "win": 435,
+            "loss": 441,
+            "draw": 97
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1550686146
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1550686146
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

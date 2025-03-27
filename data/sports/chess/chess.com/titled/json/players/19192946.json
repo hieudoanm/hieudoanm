@@ -1,0 +1,83 @@
+{
+    "player_id": 19192946,
+    "@id": "https://api.chess.com/pub/player/sammalvuo",
+    "url": "https://www.chess.com/member/Sammalvuo",
+    "name": "Tapani Sammalvuo",
+    "username": "sammalvuo",
+    "title": "IM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/FI",
+    "location": "Vantaa",
+    "last_online": 1740686673,
+    "joined": 1412609468,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1706779702,
+            "rd": 183
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1412609468,
+            "game": "https://www.chess.com/game/daily/465629675"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 14221,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2391,
+            "date": 1727959404,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1727958939,
+            "game": "https://www.chess.com/game/live/121696844159"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2434,
+            "date": 1736433688,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1706938146,
+            "game": "https://www.chess.com/game/live/129561214061"
+        },
+        "record": {
+            "win": 186,
+            "loss": 65,
+            "draw": 17
+        }
+    },
+    "fide": 2370,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1412609468
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1412609468
+        }
+    },
+    "puzzle_rush": {}
+}

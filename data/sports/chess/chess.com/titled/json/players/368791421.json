@@ -1,0 +1,85 @@
+{
+    "player_id": 368791421,
+    "@id": "https://api.chess.com/pub/player/jg1me",
+    "url": "https://www.chess.com/member/JG1me",
+    "name": "Hubert Meers",
+    "username": "jg1me",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741555081,
+    "joined": 1718028676,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2305,
+            "date": 1738424718,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2305,
+            "date": 1730275106,
+            "game": "https://www.chess.com/game/live/123933617249"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2593,
+            "date": 1740781495,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2593,
+            "date": 1739578222,
+            "game": "https://www.chess.com/game/live/121706462529"
+        },
+        "record": {
+            "win": 56,
+            "loss": 42,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2570,
+            "date": 1737474394,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1719956307,
+            "game": "https://www.chess.com/game/live/113694636047"
+        },
+        "record": {
+            "win": 15,
+            "loss": 9,
+            "draw": 3
+        }
+    },
+    "fide": 2304,
+    "tactics": {
+        "highest": {
+            "rating": 2488,
+            "date": 1738414485
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1718028676
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

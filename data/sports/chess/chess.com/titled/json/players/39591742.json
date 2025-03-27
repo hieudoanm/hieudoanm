@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39591742.8cc18d14.200x200o.2aa597671cf4.jpg",
+    "player_id": 39591742,
+    "@id": "https://api.chess.com/pub/player/likelychess13",
+    "url": "https://www.chess.com/member/LikelyChess13",
+    "name": "Kuzey Guleryuz",
+    "username": "likelychess13",
+    "title": "CM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741702520,
+    "joined": 1508442926,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1737043485,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 290190,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2204,
+            "date": 1737043486,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2096,
+            "date": 1689079468,
+            "game": "https://www.chess.com/game/live/5255501428"
+        },
+        "record": {
+            "win": 23,
+            "loss": 14,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2281,
+            "date": 1741703548,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2335,
+            "date": 1731617540,
+            "game": "https://www.chess.com/game/live/121115409071"
+        },
+        "record": {
+            "win": 176,
+            "loss": 130,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2461,
+            "date": 1741628338,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1740507176,
+            "game": "https://www.chess.com/game/live/133638541933"
+        },
+        "record": {
+            "win": 1059,
+            "loss": 848,
+            "draw": 111
+        }
+    },
+    "fide": 2204,
+    "tactics": {
+        "highest": {
+            "rating": 2804,
+            "date": 1530806418
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1521220134
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

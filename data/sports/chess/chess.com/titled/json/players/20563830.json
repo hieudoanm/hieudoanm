@@ -1,0 +1,49 @@
+{
+    "player_id": 20563830,
+    "@id": "https://api.chess.com/pub/player/stoofbuzze",
+    "url": "https://www.chess.com/member/StoofBuzze",
+    "username": "stoofbuzze",
+    "title": "FM",
+    "followers": 106,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1740764505,
+    "joined": 1420888041,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2563,
+            "date": 1741419995,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2538,
+            "date": 1731616081,
+            "game": "https://www.chess.com/game/live/3952874351"
+        },
+        "record": {
+            "win": 790,
+            "loss": 556,
+            "draw": 92
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3530,
+            "date": 1741427633
+        },
+        "lowest": {
+            "rating": 1332,
+            "date": 1420888487
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 63
+        }
+    }
+}

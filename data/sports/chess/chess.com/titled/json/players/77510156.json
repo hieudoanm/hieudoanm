@@ -1,0 +1,66 @@
+{
+    "player_id": 77510156,
+    "@id": "https://api.chess.com/pub/player/kajaol",
+    "url": "https://www.chess.com/member/KajaOl",
+    "name": "Karolina Olsarova",
+    "username": "kajaol",
+    "title": "WGM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741608697,
+    "joined": 1587584680,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2039,
+            "date": 1613845027,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1613247893,
+            "game": "https://www.chess.com/game/live/7577595309"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2227,
+            "date": 1618683197,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1618676741,
+            "game": "https://www.chess.com/game/live/4770323535"
+        },
+        "record": {
+            "win": 19,
+            "loss": 12,
+            "draw": 8
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3146,
+            "date": 1739801842
+        },
+        "lowest": {
+            "rating": 2306,
+            "date": 1595513159
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

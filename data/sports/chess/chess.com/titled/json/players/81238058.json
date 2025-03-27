@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/81238058.254706dc.200x200o.afbfee7b0605.png",
+    "player_id": 81238058,
+    "@id": "https://api.chess.com/pub/player/thepeasant98",
+    "url": "https://www.chess.com/member/ThePeasant98",
+    "name": "Bas De Boer",
+    "username": "thepeasant98",
+    "title": "CM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741521818,
+    "joined": 1591097962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2179,
+            "date": 1722414947,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2179,
+            "date": 1722414947,
+            "game": "https://www.chess.com/game/live/12401161607"
+        },
+        "record": {
+            "win": 37,
+            "loss": 3,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2161,
+            "date": 1700003840,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2230,
+            "date": 1695048233,
+            "game": "https://www.chess.com/game/live/88786979973"
+        },
+        "record": {
+            "win": 39,
+            "loss": 34,
+            "draw": 6
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3370,
+            "date": 1721847603
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1610299101
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

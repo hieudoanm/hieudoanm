@@ -1,0 +1,67 @@
+{
+    "player_id": 32002690,
+    "@id": "https://api.chess.com/pub/player/chess_pandemonium",
+    "url": "https://www.chess.com/member/Chess_Pandemonium",
+    "name": "Anzel Laubscher",
+    "username": "chess_pandemonium",
+    "title": "WIM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1741505473,
+    "joined": 1483108592,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1693,
+            "date": 1630772906,
+            "rd": 139
+        },
+        "best": {
+            "rating": 2007,
+            "date": 1630593608,
+            "game": "https://www.chess.com/game/live/24244727825"
+        },
+        "record": {
+            "win": 2,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1497,
+            "date": 1738770700,
+            "rd": 102
+        },
+        "best": {
+            "rating": 1530,
+            "date": 1627588092,
+            "game": "https://www.chess.com/game/live/21326439289"
+        },
+        "record": {
+            "win": 43,
+            "loss": 21,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1052,
+            "date": 1626080271
+        },
+        "lowest": {
+            "rating": 833,
+            "date": 1483109014
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13028720.4c73522a.200x200o.e2c31cca03fb.png",
+    "player_id": 13028720,
+    "@id": "https://api.chess.com/pub/player/ernestofdz",
+    "url": "https://www.chess.com/member/ErnestoFdz",
+    "name": "Ernesto Fernandez Romero",
+    "username": "ernestofdz",
+    "title": "GM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "M\u00e1laga",
+    "last_online": 1734133725,
+    "joined": 1375715800,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2647,
+            "date": 1726068764,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1689074886,
+            "game": "https://www.chess.com/game/live/75415854601"
+        },
+        "record": {
+            "win": 440,
+            "loss": 404,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2601,
+            "date": 1723210909,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1723210909,
+            "game": "https://www.chess.com/game/live/91026016275"
+        },
+        "record": {
+            "win": 173,
+            "loss": 94,
+            "draw": 24
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2889,
+            "date": 1716297397
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1375716291
+        }
+    },
+    "puzzle_rush": {}
+}

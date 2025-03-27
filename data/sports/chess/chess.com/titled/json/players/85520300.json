@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/85520300.a98a93db.200x200o.e13761825a26.jpeg",
+    "player_id": 85520300,
+    "@id": "https://api.chess.com/pub/player/dralilayth",
+    "url": "https://www.chess.com/member/Dralilayth",
+    "name": "Ali Layth Ahmed Ahmed",
+    "username": "dralilayth",
+    "title": "FM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/IQ",
+    "last_online": 1727991945,
+    "joined": 1593783690,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2092,
+            "date": 1630755626,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1596805289,
+            "game": "https://www.chess.com/game/live/5590747445"
+        },
+        "record": {
+            "win": 14,
+            "loss": 12,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2200,
+            "date": 1596782855,
+            "rd": 225
+        },
+        "best": {
+            "rating": 1305,
+            "date": 1593788401,
+            "game": "https://www.chess.com/game/live/5094646574"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2366,
+            "date": 1620831193
+        },
+        "lowest": {
+            "rating": 2164,
+            "date": 1605965147
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 12,
+            "score": 11
+        }
+    }
+}

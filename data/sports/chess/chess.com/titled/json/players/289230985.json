@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/289230985.5005a7f1.200x200o.498f97a7b006.jpg",
+    "player_id": 289230985,
+    "@id": "https://api.chess.com/pub/player/cmorales2001",
+    "url": "https://www.chess.com/member/Cmorales2001",
+    "name": "Carlos Morales",
+    "username": "cmorales2001",
+    "title": "FM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/SV",
+    "location": "El Salvador",
+    "last_online": 1741662918,
+    "joined": 1685246832,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1906,
+            "date": 1729226977,
+            "rd": 167
+        },
+        "best": {
+            "rating": 2167,
+            "date": 1691819769,
+            "game": "https://www.chess.com/game/live/85557607979"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2534,
+            "date": 1741455332,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1717687562,
+            "game": "https://www.chess.com/game/live/126731425581"
+        },
+        "record": {
+            "win": 270,
+            "loss": 202,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2512,
+            "date": 1741207328,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1740500057,
+            "game": "https://www.chess.com/game/live/133656554253"
+        },
+        "record": {
+            "win": 607,
+            "loss": 462,
+            "draw": 75
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3179,
+            "date": 1729578999
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1685246832
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

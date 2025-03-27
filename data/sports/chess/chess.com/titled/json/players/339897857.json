@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/339897857.1aade600.200x200o.e22da696959b.jpg",
+    "player_id": 339897857,
+    "@id": "https://api.chess.com/pub/player/kingofnovosibirsk",
+    "url": "https://www.chess.com/member/KingOfNovosibirsk",
+    "username": "kingofnovosibirsk",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/AO",
+    "last_online": 1740137593,
+    "joined": 1705676001,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2053,
+            "date": 1739914368,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2098,
+            "date": 1706289690,
+            "game": "https://www.chess.com/game/live/102639624645"
+        },
+        "record": {
+            "win": 14,
+            "loss": 11,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2155,
+            "date": 1740138065,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2380,
+            "date": 1706203678,
+            "game": "https://www.chess.com/game/live/99942244243"
+        },
+        "record": {
+            "win": 46,
+            "loss": 29,
+            "draw": 6
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1705676001
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1705676001
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 13,
+            "score": 12
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9594284.594c1dad.200x200o.fabe5af365d7.jpeg",
+    "player_id": 9594284,
+    "@id": "https://api.chess.com/pub/player/elpepinillo14",
+    "url": "https://www.chess.com/member/elpepinillo14",
+    "name": "Sim\u00f3n Alejandro Languidey",
+    "username": "elpepinillo14",
+    "title": "IM",
+    "followers": 348,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Tucum\u00e1n",
+    "last_online": 1740759865,
+    "joined": 1352593687,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1407,
+            "date": 1741703955,
+            "rd": 246
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1352593687,
+            "game": "https://www.chess.com/game/daily/726096819"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23758,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2125,
+            "date": 1740370051,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2316,
+            "date": 1592162479,
+            "game": "https://www.chess.com/game/live/5001284271"
+        },
+        "record": {
+            "win": 39,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2654,
+            "date": 1616798809,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2654,
+            "date": 1601943561,
+            "game": "https://www.chess.com/game/live/1604365701"
+        },
+        "record": {
+            "win": 369,
+            "loss": 280,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2724,
+            "date": 1731031652,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2767,
+            "date": 1584113330,
+            "game": "https://www.chess.com/game/live/3574988694"
+        },
+        "record": {
+            "win": 1925,
+            "loss": 1537,
+            "draw": 291
+        }
+    },
+    "fide": 2416,
+    "tactics": {
+        "highest": {
+            "rating": 3297,
+            "date": 1737159475
+        },
+        "lowest": {
+            "rating": 2152,
+            "date": 1478202121
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

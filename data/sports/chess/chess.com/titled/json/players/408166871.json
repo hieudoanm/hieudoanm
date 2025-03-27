@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/408166871.49f63e58.200x200o.ee5ab8373215.jpg",
+    "player_id": 408166871,
+    "@id": "https://api.chess.com/pub/player/skibiditoiletlover94",
+    "url": "https://www.chess.com/member/SkibidiToiletLover94",
+    "name": "David Santiago Lopez Ramirez",
+    "username": "skibiditoiletlover94",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1741703119,
+    "joined": 1733799280,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1932,
+            "date": 1738716399,
+            "rd": 246
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1741703727,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2469,
+            "date": 1734456753,
+            "game": "https://www.chess.com/game/live/130004429421"
+        },
+        "record": {
+            "win": 29,
+            "loss": 40,
+            "draw": 8
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2171,
+            "date": 1736390690
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1733799280
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

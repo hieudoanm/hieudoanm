@@ -1,0 +1,49 @@
+{
+    "player_id": 104800420,
+    "@id": "https://api.chess.com/pub/player/rowan-atkinson",
+    "url": "https://www.chess.com/member/Rowan-Atkinson",
+    "username": "rowan-atkinson",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741625639,
+    "joined": 1608132088,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2670,
+            "date": 1741604835,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2772,
+            "date": 1739455679,
+            "game": "https://www.chess.com/game/live/132175794861"
+        },
+        "record": {
+            "win": 289,
+            "loss": 293,
+            "draw": 30
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3007,
+            "date": 1740150865
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1663242548
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 57
+        }
+    }
+}

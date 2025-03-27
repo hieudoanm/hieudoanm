@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48088354.18edd5f0.200x200o.6085620f4439.png",
+    "player_id": 48088354,
+    "@id": "https://api.chess.com/pub/player/drawdenied-twitch",
+    "url": "https://www.chess.com/member/DrawDenied-Twitch",
+    "username": "drawdenied-twitch",
+    "title": "GM",
+    "followers": 1084,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1734181875,
+    "joined": 1532280808,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2420,
+            "date": 1654370600,
+            "rd": 188
+        },
+        "best": {
+            "rating": 2497,
+            "date": 1654360924,
+            "game": "https://www.chess.com/game/live/48098455739"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3042,
+            "date": 1719656978,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3066,
+            "date": 1707313900,
+            "game": "https://www.chess.com/game/live/60993012129"
+        },
+        "record": {
+            "win": 15178,
+            "loss": 5735,
+            "draw": 1031
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2992,
+            "date": 1709992375,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2973,
+            "date": 1687807044,
+            "game": "https://www.chess.com/game/live/3798462163"
+        },
+        "record": {
+            "win": 6425,
+            "loss": 4371,
+            "draw": 948
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3583,
+            "date": 1714340452
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1532282574
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47917356.d7454533.200x200o.b9cda070f267.jpg",
+    "player_id": 47917356,
+    "@id": "https://api.chess.com/pub/player/nasrin_babayeva",
+    "url": "https://www.chess.com/member/Nasrin_Babayeva",
+    "name": "Nasrin Babayeva",
+    "username": "nasrin_babayeva",
+    "title": "WFM",
+    "followers": 217,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "location": "Nakhchivan",
+    "last_online": 1741430534,
+    "joined": 1531743931,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1744,
+            "date": 1741698805,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2014,
+            "date": 1686928438,
+            "game": "https://www.chess.com/game/daily/520076039"
+        },
+        "record": {
+            "win": 441,
+            "loss": 286,
+            "draw": 55,
+            "time_per_move": 34996,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1498,
+            "date": 1741525523,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1518,
+            "date": 1730700635,
+            "game": "https://www.chess.com/game/daily/766576679"
+        },
+        "record": {
+            "win": 29,
+            "loss": 29,
+            "draw": 3,
+            "time_per_move": 34996,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1920,
+            "date": 1738005392,
+            "rd": 89
+        },
+        "best": {
+            "rating": 1989,
+            "date": 1641377907,
+            "game": "https://www.chess.com/game/live/120592189349"
+        },
+        "record": {
+            "win": 60,
+            "loss": 31,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1989,
+            "date": 1741108200,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2053,
+            "date": 1708193657,
+            "game": "https://www.chess.com/game/live/124309131301"
+        },
+        "record": {
+            "win": 309,
+            "loss": 682,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2179,
+            "date": 1740328605,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2241,
+            "date": 1734456000,
+            "game": "https://www.chess.com/game/live/123975048705"
+        },
+        "record": {
+            "win": 370,
+            "loss": 390,
+            "draw": 34
+        }
+    },
+    "fide": 2110,
+    "tactics": {
+        "highest": {
+            "rating": 3155,
+            "date": 1737011127
+        },
+        "lowest": {
+            "rating": 988,
+            "date": 1531744338
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

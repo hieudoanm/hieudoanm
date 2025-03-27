@@ -1,0 +1,67 @@
+{
+    "player_id": 53320814,
+    "@id": "https://api.chess.com/pub/player/rap_woyska",
+    "url": "https://www.chess.com/member/Rap_woyska",
+    "name": "Arseniy Astafurov",
+    "username": "rap_woyska",
+    "title": "FM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741630182,
+    "joined": 1544964343,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2669,
+            "date": 1741271964,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2793,
+            "date": 1732032924,
+            "game": "https://www.chess.com/game/live/119544571333"
+        },
+        "record": {
+            "win": 2287,
+            "loss": 2978,
+            "draw": 388
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2499,
+            "date": 1741635771,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2613,
+            "date": 1715795774,
+            "game": "https://www.chess.com/game/live/4465839911"
+        },
+        "record": {
+            "win": 3166,
+            "loss": 3688,
+            "draw": 560
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3304,
+            "date": 1732806403
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1545132626
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

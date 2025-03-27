@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6499209.8f3db986.200x200o.69554977f32c.jpeg",
+    "player_id": 6499209,
+    "@id": "https://api.chess.com/pub/player/kismet6",
+    "url": "https://www.chess.com/member/kismet6",
+    "name": "Chris Pensoneau",
+    "username": "kismet6",
+    "title": "NM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Arizona",
+    "last_online": 1741655830,
+    "joined": 1326595430,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1658,
+            "date": 1717698351,
+            "rd": 313
+        },
+        "best": {
+            "rating": 1658,
+            "date": 1326865432,
+            "game": "https://www.chess.com/game/daily/49688518"
+        },
+        "record": {
+            "win": 1,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 8371,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2178,
+            "date": 1741650071,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2209,
+            "date": 1586631734,
+            "game": "https://www.chess.com/game/live/133574349079"
+        },
+        "record": {
+            "win": 47,
+            "loss": 13,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1958,
+            "date": 1741642517,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1581756431,
+            "game": "https://www.chess.com/game/live/35521018951"
+        },
+        "record": {
+            "win": 13981,
+            "loss": 11396,
+            "draw": 893
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1884,
+            "date": 1740622469,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2279,
+            "date": 1542946632,
+            "game": "https://www.chess.com/game/live/4846648707"
+        },
+        "record": {
+            "win": 14508,
+            "loss": 6670,
+            "draw": 809
+        }
+    },
+    "fide": 2228,
+    "tactics": {
+        "highest": {
+            "rating": 2948,
+            "date": 1723587926
+        },
+        "lowest": {
+            "rating": 1383,
+            "date": 1365610418
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 22,
+            "score": 21
+        }
+    }
+}

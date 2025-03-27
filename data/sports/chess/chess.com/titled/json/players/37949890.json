@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37949890.72a22034.200x200o.5de98d20603b.jpeg",
+    "player_id": 37949890,
+    "@id": "https://api.chess.com/pub/player/pandamaster3000",
+    "url": "https://www.chess.com/member/pandamaster3000",
+    "name": "Kevin Wang",
+    "username": "pandamaster3000",
+    "title": "NM",
+    "followers": 294,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Durham, North Carolina",
+    "last_online": 1741618755,
+    "joined": 1503163836,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1983,
+            "date": 1712656373,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2143,
+            "date": 1641875498,
+            "game": "https://www.chess.com/game/daily/328057282"
+        },
+        "record": {
+            "win": 113,
+            "loss": 42,
+            "draw": 7,
+            "time_per_move": 46590,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2265,
+            "date": 1739389660,
+            "rd": 257
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1694567864,
+            "game": "https://www.chess.com/game/live/102748797691"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2526,
+            "date": 1741647350,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2710,
+            "date": 1727401542,
+            "game": "https://www.chess.com/game/live/128543549061"
+        },
+        "record": {
+            "win": 6602,
+            "loss": 4909,
+            "draw": 870
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2429,
+            "date": 1735689705,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1682298626,
+            "game": "https://www.chess.com/game/live/5127092961"
+        },
+        "record": {
+            "win": 728,
+            "loss": 553,
+            "draw": 147
+        }
+    },
+    "fide": 2225,
+    "tactics": {
+        "highest": {
+            "rating": 3375,
+            "date": 1741620150
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1504235064
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

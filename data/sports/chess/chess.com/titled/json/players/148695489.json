@@ -1,0 +1,84 @@
+{
+    "player_id": 148695489,
+    "@id": "https://api.chess.com/pub/player/michall9",
+    "url": "https://www.chess.com/member/MichalL9",
+    "name": "Michal Lahav",
+    "username": "michall9",
+    "title": "WIM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741673330,
+    "joined": 1626961071,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2279,
+            "date": 1694976967,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1694883845,
+            "game": "https://www.chess.com/game/live/88708410393"
+        },
+        "record": {
+            "win": 22,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2327,
+            "date": 1740851243,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2334,
+            "date": 1740850475,
+            "game": "https://www.chess.com/game/live/134588953569"
+        },
+        "record": {
+            "win": 24,
+            "loss": 42,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2247,
+            "date": 1741363885,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1653579368,
+            "game": "https://www.chess.com/game/live/47317853951"
+        },
+        "record": {
+            "win": 125,
+            "loss": 142,
+            "draw": 21
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3112,
+            "date": 1739437582
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1626961071
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

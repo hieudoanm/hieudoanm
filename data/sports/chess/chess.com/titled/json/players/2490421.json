@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2490421.b8c5e79d.200x200o.cb19fa61982e.jpeg",
+    "player_id": 2490421,
+    "@id": "https://api.chess.com/pub/player/killerrook",
+    "url": "https://www.chess.com/member/KillerRook",
+    "name": "Goodwill Khoa",
+    "username": "killerrook",
+    "title": "NM",
+    "followers": 70,
+    "country": "https://api.chess.com/pub/country/NA",
+    "location": "Windhoek",
+    "last_online": 1741646981,
+    "joined": 1218335916,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1587,
+            "date": 1741540770,
+            "rd": 143
+        },
+        "best": {
+            "rating": 1587,
+            "date": 1736794769,
+            "game": "https://www.chess.com/game/daily/660592097"
+        },
+        "record": {
+            "win": 22,
+            "loss": 6,
+            "draw": 1,
+            "time_per_move": 19533,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1890,
+            "date": 1713196597,
+            "rd": 163
+        },
+        "best": {
+            "rating": 1913,
+            "date": 1629995791,
+            "game": "https://www.chess.com/game/live/23376073225"
+        },
+        "record": {
+            "win": 6,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1766,
+            "date": 1741647419,
+            "rd": 32
+        },
+        "best": {
+            "rating": 1944,
+            "date": 1714297201,
+            "game": "https://www.chess.com/game/live/108036041949"
+        },
+        "record": {
+            "win": 1935,
+            "loss": 1937,
+            "draw": 60
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2097,
+            "date": 1740528319,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1740525815,
+            "game": "https://www.chess.com/game/live/133636760529"
+        },
+        "record": {
+            "win": 400,
+            "loss": 375,
+            "draw": 19
+        }
+    },
+    "fide": 1890,
+    "tactics": {
+        "highest": {
+            "rating": 3151,
+            "date": 1714128239
+        },
+        "lowest": {
+            "rating": 1092,
+            "date": 1371577141
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

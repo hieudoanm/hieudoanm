@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40312646.8d053420.200x200o.284f328c8055.jpeg",
+    "player_id": 40312646,
+    "@id": "https://api.chess.com/pub/player/gcamachomartinez",
+    "url": "https://www.chess.com/member/GCamachoMartinez",
+    "name": "Guillermo Camacho Mart\u00ednez",
+    "username": "gcamachomartinez",
+    "title": "FM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1741619640,
+    "joined": 1510525788,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1828,
+            "date": 1617406639,
+            "rd": 248
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2070,
+            "date": 1739412551,
+            "rd": 220
+        },
+        "best": {
+            "rating": 2155,
+            "date": 1736619345,
+            "game": "https://www.chess.com/game/live/3086027719"
+        },
+        "record": {
+            "win": 63,
+            "loss": 27,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2599,
+            "date": 1741619923,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2654,
+            "date": 1738713714,
+            "game": "https://www.chess.com/game/live/132452395335"
+        },
+        "record": {
+            "win": 2500,
+            "loss": 2092,
+            "draw": 606
+        }
+    },
+    "fide": 2307,
+    "tactics": {
+        "highest": {
+            "rating": 2528,
+            "date": 1541992817
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1518043179
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 1,
+            "score": 1
+        }
+    }
+}

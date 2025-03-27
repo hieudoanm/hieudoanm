@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55785136.fa79cdba.200x200o.83a11f035551.jpeg",
+    "player_id": 55785136,
+    "@id": "https://api.chess.com/pub/player/ccesar64",
+    "url": "https://www.chess.com/member/Ccesar64",
+    "name": "Cesar Castro Gutierrez",
+    "username": "ccesar64",
+    "title": "NM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/UY",
+    "last_online": 1668379752,
+    "joined": 1547145827,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2134,
+            "date": 1645380107,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2185,
+            "date": 1588534164,
+            "game": "https://www.chess.com/game/live/35516222715"
+        },
+        "record": {
+            "win": 15,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1923,
+            "date": 1630462865,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2095,
+            "date": 1630287777,
+            "game": "https://www.chess.com/game/live/5275972290"
+        },
+        "record": {
+            "win": 11,
+            "loss": 16,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1986,
+            "date": 1646157598,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1588526475,
+            "game": "https://www.chess.com/game/live/4871575901"
+        },
+        "record": {
+            "win": 1260,
+            "loss": 1105,
+            "draw": 167
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2569,
+            "date": 1630593515
+        },
+        "lowest": {
+            "rating": 1014,
+            "date": 1549755632
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

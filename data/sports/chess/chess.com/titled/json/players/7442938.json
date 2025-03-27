@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7442938.01bb2aca.200x200o.1cee12356929.jpeg",
+    "player_id": 7442938,
+    "@id": "https://api.chess.com/pub/player/suraj240704",
+    "url": "https://www.chess.com/member/Suraj240704",
+    "name": "Suraj Ramanathan",
+    "username": "suraj240704",
+    "title": "NM",
+    "followers": 68,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741556405,
+    "joined": 1335738011,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2121,
+            "date": 1741703247,
+            "rd": 212
+        },
+        "best": {
+            "rating": 2121,
+            "date": 1734897121,
+            "game": "https://www.chess.com/game/daily/243097034"
+        },
+        "record": {
+            "win": 80,
+            "loss": 21,
+            "draw": 14,
+            "time_per_move": 8102,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2356,
+            "date": 1659739664,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1659739664,
+            "game": "https://www.chess.com/game/live/5498165338"
+        },
+        "record": {
+            "win": 218,
+            "loss": 97,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2193,
+            "date": 1734563810,
+            "rd": 200
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1603910065,
+            "game": "https://www.chess.com/game/live/7666893011"
+        },
+        "record": {
+            "win": 152,
+            "loss": 112,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2562,
+            "date": 1741311925,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2644,
+            "date": 1738267063,
+            "game": "https://www.chess.com/game/live/94948233377"
+        },
+        "record": {
+            "win": 6749,
+            "loss": 7277,
+            "draw": 1824
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3434,
+            "date": 1725042638
+        },
+        "lowest": {
+            "rating": 866,
+            "date": 1337429547
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "player_id": 380726983,
+    "@id": "https://api.chess.com/pub/player/legendinaction1",
+    "url": "https://www.chess.com/member/legendinaction1",
+    "username": "legendinaction1",
+    "title": "FM",
+    "followers": 157,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1740996167,
+    "joined": 1723538521,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2948,
+            "date": 1740822382
+        },
+        "best": {
+            "rating": 3047,
+            "date": 1740561168,
+            "game": "https://www.chess.com/game/live/120060047161"
+        },
+        "record": {
+            "win": 277,
+            "loss": 218,
+            "draw": 31
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3710,
+            "date": 1727096345
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1723538521
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 81,
+            "score": 78
+        }
+    }
+}

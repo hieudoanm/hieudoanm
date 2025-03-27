@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33272705.444b663d.200x200o.4f2e309e32f4.jpg",
+    "player_id": 33272705,
+    "@id": "https://api.chess.com/pub/player/silentknight1410",
+    "url": "https://www.chess.com/member/SilentKnight1410",
+    "name": "Aishwin Daniel",
+    "username": "silentknight1410",
+    "title": "CM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Bhopal",
+    "last_online": 1741634698,
+    "joined": 1487328684,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1569,
+            "date": 1728914662,
+            "rd": 255
+        },
+        "best": {
+            "rating": 1866,
+            "date": 1487774679,
+            "game": "https://www.chess.com/game/daily/157909579"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 24014,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1854,
+            "date": 1732458465,
+            "rd": 317
+        },
+        "best": {
+            "rating": 2236,
+            "date": 1729264401,
+            "game": "https://www.chess.com/game/live/2271486423"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2031,
+            "date": 1726005670,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2095,
+            "date": 1726005371,
+            "game": "https://www.chess.com/game/live/119744420819"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2282,
+            "date": 1735794347,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1730362038,
+            "game": "https://www.chess.com/game/live/124100990743"
+        },
+        "record": {
+            "win": 12,
+            "loss": 7,
+            "draw": 4
+        }
+    },
+    "fide": 2236,
+    "tactics": {
+        "highest": {
+            "rating": 2720,
+            "date": 1731065962
+        },
+        "lowest": {
+            "rating": 1192,
+            "date": 1588751018
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 63498170,
+    "@id": "https://api.chess.com/pub/player/marvelavengers4",
+    "url": "https://www.chess.com/member/marvelavengers4",
+    "username": "marvelavengers4",
+    "title": "CM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1733901592,
+    "joined": 1563684564,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1733908713,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1702617337,
+            "game": "https://www.chess.com/game/live/4787412035"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2366,
+            "date": 1733902255,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1730370921,
+            "game": "https://www.chess.com/game/live/5628651635"
+        },
+        "record": {
+            "win": 248,
+            "loss": 188,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2312,
+            "date": 1730642829,
+            "rd": 130
+        },
+        "best": {
+            "rating": 2390,
+            "date": 1682438762,
+            "game": "https://www.chess.com/game/live/73754638017"
+        },
+        "record": {
+            "win": 43,
+            "loss": 44,
+            "draw": 9
+        }
+    },
+    "fide": 2074,
+    "tactics": {
+        "highest": {
+            "rating": 3315,
+            "date": 1706707171
+        },
+        "lowest": {
+            "rating": 813,
+            "date": 1569397497
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

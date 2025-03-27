@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/282752873.c0439010.200x200o.a8904a1f12bc.png",
+    "player_id": 282752873,
+    "@id": "https://api.chess.com/pub/player/dr_troll",
+    "url": "https://www.chess.com/member/Dr_troll",
+    "name": "Sandeep Sethuraman",
+    "username": "dr_troll",
+    "title": "IM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741682080,
+    "joined": 1683325788,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2400,
+            "date": 1726791680,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1709180295,
+            "game": "https://www.chess.com/game/live/102918616573"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2633,
+            "date": 1741422658
+        },
+        "best": {
+            "rating": 2833,
+            "date": 1717358399,
+            "game": "https://www.chess.com/game/live/111096610839"
+        },
+        "record": {
+            "win": 786,
+            "loss": 596,
+            "draw": 110
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2697,
+            "date": 1741685137,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2788,
+            "date": 1726002298,
+            "game": "https://www.chess.com/game/live/104620902643"
+        },
+        "record": {
+            "win": 611,
+            "loss": 462,
+            "draw": 116
+        }
+    },
+    "fide": 2417,
+    "tactics": {
+        "highest": {
+            "rating": 3202,
+            "date": 1734571906
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1683325788
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

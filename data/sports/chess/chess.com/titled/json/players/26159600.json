@@ -1,0 +1,99 @@
+{
+    "player_id": 26159600,
+    "@id": "https://api.chess.com/pub/player/rookoco",
+    "url": "https://www.chess.com/member/rookoco",
+    "name": "Gil Popilski",
+    "username": "rookoco",
+    "title": "GM",
+    "followers": 158,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Austin, TX",
+    "last_online": 1721871470,
+    "joined": 1452912153,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1559,
+            "date": 1696372511,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1452912153,
+            "game": "https://www.chess.com/game/daily/432714043"
+        },
+        "record": {
+            "win": 10,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 7804,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2476,
+            "date": 1693522906,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2630,
+            "date": 1657385560,
+            "game": "https://www.chess.com/game/live/51124156137"
+        },
+        "record": {
+            "win": 4,
+            "loss": 6,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2697,
+            "date": 1697743819,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2834,
+            "date": 1599878872,
+            "game": "https://www.chess.com/game/live/5433158694"
+        },
+        "record": {
+            "win": 27,
+            "loss": 30,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2559,
+            "date": 1721723577,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2809,
+            "date": 1693808492,
+            "game": "https://www.chess.com/game/live/3679639419"
+        },
+        "record": {
+            "win": 8792,
+            "loss": 8188,
+            "draw": 1491
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2467,
+            "date": 1705808224
+        },
+        "lowest": {
+            "rating": 2212,
+            "date": 1499015208
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,116 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37041584.f3cea36f.200x200o.0423b67c40d4.png",
+    "player_id": 37041584,
+    "@id": "https://api.chess.com/pub/player/vigg-sama",
+    "url": "https://www.chess.com/member/Vigg-Sama",
+    "name": "Nat\u00e3 Gon\u00e7alves",
+    "username": "vigg-sama",
+    "title": "NM",
+    "followers": 761,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Lages - SC",
+    "last_online": 1741638178,
+    "joined": 1500088825,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/viggsama",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/viggsama"
+        },
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@viggsama"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1532,
+            "date": 1737560152,
+            "rd": 93
+        },
+        "best": {
+            "rating": 1685,
+            "date": 1699872463,
+            "game": "https://www.chess.com/game/daily/563046493"
+        },
+        "record": {
+            "win": 118,
+            "loss": 48,
+            "draw": 11,
+            "time_per_move": 38258,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2308,
+            "date": 1735943990,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1709335400,
+            "game": "https://www.chess.com/game/live/104111431891"
+        },
+        "record": {
+            "win": 291,
+            "loss": 93,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2127,
+            "date": 1736210001,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2189,
+            "date": 1675481301,
+            "game": "https://www.chess.com/game/live/69214561619"
+        },
+        "record": {
+            "win": 458,
+            "loss": 331,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2255,
+            "date": 1740705191,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2375,
+            "date": 1723586163,
+            "game": "https://www.chess.com/game/live/70734902653"
+        },
+        "record": {
+            "win": 1245,
+            "loss": 809,
+            "draw": 160
+        }
+    },
+    "fide": 2017,
+    "tactics": {
+        "highest": {
+            "rating": 2181,
+            "date": 1704465003
+        },
+        "lowest": {
+            "rating": 798,
+            "date": 1701967807
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 60
+        }
+    }
+}

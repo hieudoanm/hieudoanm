@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7899446.d7b3e67e.200x200o.9f95e60b9710.jpeg",
+    "player_id": 7899446,
+    "@id": "https://api.chess.com/pub/player/liduino",
+    "url": "https://www.chess.com/member/Liduino",
+    "name": "Liduino Furtado",
+    "username": "liduino",
+    "title": "NM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Macap\u00e1",
+    "last_online": 1740160662,
+    "joined": 1339762909,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2164,
+            "date": 1677051172,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2164,
+            "date": 1677051172,
+            "game": "https://www.chess.com/game/live/70788797133"
+        },
+        "record": {
+            "win": 9,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1969,
+            "date": 1738585137,
+            "rd": 193
+        },
+        "best": {
+            "rating": 1979,
+            "date": 1640838672,
+            "game": "https://www.chess.com/game/live/34529359707"
+        },
+        "record": {
+            "win": 75,
+            "loss": 40,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2165,
+            "date": 1741384241,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2280,
+            "date": 1659780238,
+            "game": "https://www.chess.com/game/live/57531457857"
+        },
+        "record": {
+            "win": 1604,
+            "loss": 1495,
+            "draw": 174
+        }
+    },
+    "fide": 2098,
+    "tactics": {
+        "highest": {
+            "rating": 3108,
+            "date": 1714486199
+        },
+        "lowest": {
+            "rating": 1150,
+            "date": 1339773252
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

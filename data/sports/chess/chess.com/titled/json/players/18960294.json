@@ -1,0 +1,94 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18960294.9d28de2f.200x200o.175ede8074bb.jpg",
+    "player_id": 18960294,
+    "@id": "https://api.chess.com/pub/player/arifarsky",
+    "url": "https://www.chess.com/member/Arifarsky",
+    "name": "Arifa Rizki Syaputra",
+    "username": "arifarsky",
+    "title": "NM",
+    "followers": 288,
+    "country": "https://api.chess.com/pub/country/ID",
+    "last_online": 1741684582,
+    "joined": 1411110156,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1707435510,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 16593,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2104,
+            "date": 1741588256,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2236,
+            "date": 1681140082,
+            "game": "https://www.chess.com/game/live/74796749247"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2688,
+            "date": 1741687089,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2801,
+            "date": 1708347489,
+            "game": "https://www.chess.com/game/live/101901327041"
+        },
+        "record": {
+            "win": 199,
+            "loss": 163,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2774,
+            "date": 1741423975,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1696343075,
+            "game": "https://www.chess.com/game/live/88877524643"
+        },
+        "record": {
+            "win": 1670,
+            "loss": 1471,
+            "draw": 264
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3382,
+            "date": 1719985645
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1411110156
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80117220.6e2e11a4.200x200o.6cc29d502c92.jpg",
+    "player_id": 80117220,
+    "@id": "https://api.chess.com/pub/player/50tugrik",
+    "url": "https://www.chess.com/member/50Tugrik",
+    "name": "Batbold Nyamsuren",
+    "username": "50tugrik",
+    "title": "FM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1740675419,
+    "joined": 1590065373,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1737560443,
+            "rd": 350
+        },
+        "record": {
+            "win": 9,
+            "loss": 13,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1601,
+            "date": 1714824353,
+            "rd": 248
+        },
+        "best": {
+            "rating": 1802,
+            "date": 1648574461,
+            "game": "https://www.chess.com/game/live/42313126115"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2518,
+            "date": 1736693189,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2580,
+            "date": 1735649140,
+            "game": "https://www.chess.com/game/live/105434347443"
+        },
+        "record": {
+            "win": 274,
+            "loss": 158,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2521,
+            "date": 1736238576,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1658639352,
+            "game": "https://www.chess.com/game/live/48945614111"
+        },
+        "record": {
+            "win": 201,
+            "loss": 170,
+            "draw": 27
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3616,
+            "date": 1707734308
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1590240476
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "player_id": 23560042,
+    "@id": "https://api.chess.com/pub/player/gajuchess",
+    "url": "https://www.chess.com/member/Gajuchess",
+    "name": "Grzegorz Gajewski",
+    "username": "gajuchess",
+    "title": "GM",
+    "followers": 414,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Warszawa",
+    "last_online": 1734066613,
+    "joined": 1438890606,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2443,
+            "date": 1675444230,
+            "rd": 169
+        },
+        "best": {
+            "rating": 2756,
+            "date": 1586604574,
+            "game": "https://www.chess.com/game/live/48104414253"
+        },
+        "record": {
+            "win": 8,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2596,
+            "date": 1653977373,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2819,
+            "date": 1601972415,
+            "game": "https://www.chess.com/game/live/3569008370"
+        },
+        "record": {
+            "win": 292,
+            "loss": 235,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2886,
+            "date": 1729520562,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2893,
+            "date": 1729325491,
+            "game": "https://www.chess.com/game/live/4117955541"
+        },
+        "record": {
+            "win": 3698,
+            "loss": 2642,
+            "draw": 569
+        }
+    },
+    "fide": 2646,
+    "tactics": {
+        "highest": {
+            "rating": 3721,
+            "date": 1669793180
+        },
+        "lowest": {
+            "rating": 1363,
+            "date": 1450965447
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 50
+        }
+    }
+}

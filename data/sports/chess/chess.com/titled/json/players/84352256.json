@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/84352256.8a2415e7.200x200o.50ef6eec6c3a.jpeg",
+    "player_id": 84352256,
+    "@id": "https://api.chess.com/pub/player/mockingbird998",
+    "url": "https://www.chess.com/member/mockingbird998",
+    "name": "Siranush Ghukasyan",
+    "username": "mockingbird998",
+    "title": "WIM",
+    "followers": 129,
+    "country": "https://api.chess.com/pub/country/AM",
+    "last_online": 1741536245,
+    "joined": 1593098083,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1586,
+            "date": 1737224288,
+            "rd": 143
+        },
+        "best": {
+            "rating": 2016,
+            "date": 1597756814,
+            "game": "https://www.chess.com/game/live/45764957027"
+        },
+        "record": {
+            "win": 6,
+            "loss": 11,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2246,
+            "date": 1737316325,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2416,
+            "date": 1602338511,
+            "game": "https://www.chess.com/game/live/126562165957"
+        },
+        "record": {
+            "win": 211,
+            "loss": 207,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2368,
+            "date": 1738779993,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1597165130,
+            "game": "https://www.chess.com/game/live/17252620743"
+        },
+        "record": {
+            "win": 445,
+            "loss": 397,
+            "draw": 50
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3299,
+            "date": 1731866261
+        },
+        "lowest": {
+            "rating": 1017,
+            "date": 1593174595
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

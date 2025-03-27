@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4352225.41b410c2.200x200o.8fee39ea7c98.jpeg",
+    "player_id": 4352225,
+    "@id": "https://api.chess.com/pub/player/guicar16",
+    "url": "https://www.chess.com/member/guicar16",
+    "name": "Guillermo Carvalho",
+    "username": "guicar16",
+    "title": "CM",
+    "followers": 99,
+    "country": "https://api.chess.com/pub/country/UY",
+    "location": "Atlantida",
+    "last_online": 1741040899,
+    "joined": 1291645107,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 525,
+            "date": 1712701500,
+            "rd": 282
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1291645107,
+            "game": "https://www.chess.com/game/daily/644031859"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 253,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2257,
+            "date": 1666646469,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1618085569,
+            "game": "https://www.chess.com/game/live/11822034583"
+        },
+        "record": {
+            "win": 183,
+            "loss": 111,
+            "draw": 32
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1969,
+            "date": 1652126561,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2090,
+            "date": 1479583780,
+            "game": "https://www.chess.com/game/live/5451740781"
+        },
+        "record": {
+            "win": 851,
+            "loss": 492,
+            "draw": 58
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2178,
+            "date": 1741046268,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1549917234,
+            "game": "https://www.chess.com/game/live/39495573393"
+        },
+        "record": {
+            "win": 3448,
+            "loss": 2058,
+            "draw": 431
+        }
+    },
+    "fide": 2190,
+    "tactics": {
+        "highest": {
+            "rating": 3363,
+            "date": 1701806897
+        },
+        "lowest": {
+            "rating": 1385,
+            "date": 1297788651
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 59
+        }
+    }
+}

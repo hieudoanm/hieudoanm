@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20096798.ab216033.200x200o.7060fafd3e53.jpeg",
+    "player_id": 20096798,
+    "@id": "https://api.chess.com/pub/player/rokis13",
+    "url": "https://www.chess.com/member/Rokis13",
+    "name": "Rokas Klabis",
+    "username": "rokis13",
+    "title": "IM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/LT",
+    "location": "Vilnius",
+    "last_online": 1741267963,
+    "joined": 1418122551,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1708974901,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 63,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2609,
+            "date": 1738050919,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2809,
+            "date": 1717492526,
+            "game": "https://www.chess.com/game/live/107784262081"
+        },
+        "record": {
+            "win": 3389,
+            "loss": 3387,
+            "draw": 541
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2611,
+            "date": 1741268346,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2874,
+            "date": 1730712932,
+            "game": "https://www.chess.com/game/live/70374316937"
+        },
+        "record": {
+            "win": 4269,
+            "loss": 4046,
+            "draw": 828
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3680,
+            "date": 1682841904
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1418145412
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

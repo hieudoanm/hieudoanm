@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/161900653.fe53626b.200x200o.5bf47d048ec9.jpeg",
+    "player_id": 161900653,
+    "@id": "https://api.chess.com/pub/player/berlin_wa11",
+    "url": "https://www.chess.com/member/Berlin_wa11",
+    "name": "Robert Mcligeyo",
+    "username": "berlin_wa11",
+    "title": "CM",
+    "followers": 69,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741652754,
+    "joined": 1637338823,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1596,
+            "date": 1741524666,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1754,
+            "date": 1702062197,
+            "game": "https://www.chess.com/game/daily/645114749"
+        },
+        "record": {
+            "win": 53,
+            "loss": 21,
+            "draw": 3,
+            "time_per_move": 69248,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1580,
+            "date": 1720961222,
+            "rd": 174
+        },
+        "best": {
+            "rating": 1699,
+            "date": 1720375064,
+            "game": "https://www.chess.com/game/daily/643217383"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 69248,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2308,
+            "date": 1739733755,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2308,
+            "date": 1739733755,
+            "game": "https://www.chess.com/game/live/109444817585"
+        },
+        "record": {
+            "win": 141,
+            "loss": 62,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1938,
+            "date": 1737456703,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2031,
+            "date": 1711234616,
+            "game": "https://www.chess.com/game/live/112590604097"
+        },
+        "record": {
+            "win": 724,
+            "loss": 654,
+            "draw": 78
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2175,
+            "date": 1741111821,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2304,
+            "date": 1718932131,
+            "game": "https://www.chess.com/game/live/132445263221"
+        },
+        "record": {
+            "win": 3111,
+            "loss": 2842,
+            "draw": 330
+        }
+    },
+    "fide": 2027,
+    "tactics": {
+        "highest": {
+            "rating": 3471,
+            "date": 1738319163
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1641027948
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30228196.3e7dd815.200x200o.0c6f613bfef2.jpg",
+    "player_id": 30228196,
+    "@id": "https://api.chess.com/pub/player/antosha_chekhonte",
+    "url": "https://www.chess.com/member/Antosha_Chekhonte",
+    "name": "Nikolay Pavlov",
+    "username": "antosha_chekhonte",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/MC",
+    "location": "Rostov-on-Don",
+    "last_online": 1741362631,
+    "joined": 1475582913,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1809,
+            "date": 1711536339,
+            "rd": 343
+        },
+        "best": {
+            "rating": 1809,
+            "date": 1511263476,
+            "game": "https://www.chess.com/game/daily/180005064"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 53,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2691,
+            "date": 1741103352,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1740248415,
+            "game": "https://www.chess.com/game/live/133985956269"
+        },
+        "record": {
+            "win": 213,
+            "loss": 213,
+            "draw": 24
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2622,
+            "date": 1741370307,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2679,
+            "date": 1740501623,
+            "game": "https://www.chess.com/game/live/119114450337"
+        },
+        "record": {
+            "win": 1809,
+            "loss": 1691,
+            "draw": 220
+        }
+    },
+    "fide": 1900,
+    "tactics": {
+        "highest": {
+            "rating": 2343,
+            "date": 1737646389
+        },
+        "lowest": {
+            "rating": 1791,
+            "date": 1512459693
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

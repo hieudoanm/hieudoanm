@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44657018.cda544e1.200x200o.d29339bcc509.jpeg",
+    "player_id": 44657018,
+    "@id": "https://api.chess.com/pub/player/fritz1k",
+    "url": "https://www.chess.com/member/Fritz1K",
+    "name": "Alexey Kolmagorov",
+    "username": "fritz1k",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1731491021,
+    "joined": 1522044868,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2515,
+            "date": 1720069705,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1719640508,
+            "game": "https://www.chess.com/game/live/113746806919"
+        },
+        "record": {
+            "win": 107,
+            "loss": 78,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2583,
+            "date": 1726592190,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2723,
+            "date": 1724693932,
+            "game": "https://www.chess.com/game/live/117304876665"
+        },
+        "record": {
+            "win": 800,
+            "loss": 566,
+            "draw": 214
+        }
+    },
+    "fide": 2124,
+    "tactics": {
+        "highest": {
+            "rating": 3312,
+            "date": 1724828836
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1522044972
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

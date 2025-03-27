@@ -1,0 +1,84 @@
+{
+    "player_id": 20593562,
+    "@id": "https://api.chess.com/pub/player/miyazaki64",
+    "url": "https://www.chess.com/member/miyazaki64",
+    "name": "Yakup Bayram",
+    "username": "miyazaki64",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1731332445,
+    "joined": 1421056755,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2191,
+            "date": 1597253223,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2191,
+            "date": 1597253223,
+            "game": "https://www.chess.com/game/live/5154357050"
+        },
+        "record": {
+            "win": 9,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2193,
+            "date": 1690540996,
+            "rd": 161
+        },
+        "best": {
+            "rating": 2193,
+            "date": 1690540996,
+            "game": "https://www.chess.com/game/live/5436549842"
+        },
+        "record": {
+            "win": 17,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2238,
+            "date": 1625776038,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2380,
+            "date": 1586977005,
+            "game": "https://www.chess.com/game/live/4726751449"
+        },
+        "record": {
+            "win": 43,
+            "loss": 38,
+            "draw": 7
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1610640805
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1596833844
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

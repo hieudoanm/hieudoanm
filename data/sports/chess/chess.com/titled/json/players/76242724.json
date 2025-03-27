@@ -1,0 +1,137 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76242724.40b148ac.200x200o.bda447c7d880.jpg",
+    "player_id": 76242724,
+    "@id": "https://api.chess.com/pub/player/jesper_kjaergaard-jensen",
+    "url": "https://www.chess.com/member/Jesper_Kjaergaard-Jensen",
+    "name": "Jesper Kjaergaard-Jensen",
+    "username": "jesper_kjaergaard-jensen",
+    "title": "CM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/DK",
+    "location": "Basel",
+    "last_online": 1741672456,
+    "joined": 1586514111,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1533,
+            "date": 1741702035,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2023,
+            "date": 1613598951,
+            "game": "https://www.chess.com/game/daily/318705198"
+        },
+        "record": {
+            "win": 129,
+            "loss": 50,
+            "draw": 20,
+            "time_per_move": 9210,
+            "timeout_percent": 3
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 10
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1568,
+            "date": 1635829469,
+            "rd": 91
+        },
+        "best": {
+            "rating": 1719,
+            "date": 1600887504,
+            "game": "https://www.chess.com/game/daily/277494524"
+        },
+        "record": {
+            "win": 15,
+            "loss": 10,
+            "draw": 1,
+            "time_per_move": 9210,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 10
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2100,
+            "date": 1740261448,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2108,
+            "date": 1739732247,
+            "game": "https://www.chess.com/game/live/133465772891"
+        },
+        "record": {
+            "win": 40,
+            "loss": 14,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1940,
+            "date": 1741462264,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1724423010,
+            "game": "https://www.chess.com/game/live/8247216087"
+        },
+        "record": {
+            "win": 126,
+            "loss": 105,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2294,
+            "date": 1741696451,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2389,
+            "date": 1613848840,
+            "game": "https://www.chess.com/game/live/124565321765"
+        },
+        "record": {
+            "win": 954,
+            "loss": 1000,
+            "draw": 161
+        }
+    },
+    "fide": 2081,
+    "tactics": {
+        "highest": {
+            "rating": 3434,
+            "date": 1703373304
+        },
+        "lowest": {
+            "rating": 1015,
+            "date": 1591582689
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

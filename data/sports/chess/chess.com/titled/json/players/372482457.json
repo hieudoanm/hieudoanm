@@ -1,0 +1,79 @@
+{
+    "player_id": 372482457,
+    "@id": "https://api.chess.com/pub/player/ruslan_0807",
+    "url": "https://www.chess.com/member/Ruslan_0807",
+    "name": "Ruslan Momunaliev",
+    "username": "ruslan_0807",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/KG",
+    "last_online": 1741528676,
+    "joined": 1719650226,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1600,
+            "date": 1741336537
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2530,
+            "date": 1733589403,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2545,
+            "date": 1733589143,
+            "game": "https://www.chess.com/game/live/123097780471"
+        },
+        "record": {
+            "win": 51,
+            "loss": 67,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2412,
+            "date": 1741369462,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1733845010,
+            "game": "https://www.chess.com/game/live/117393675887"
+        },
+        "record": {
+            "win": 319,
+            "loss": 328,
+            "draw": 32
+        }
+    },
+    "fide": 2023,
+    "tactics": {
+        "highest": {
+            "rating": 2426,
+            "date": 1730718285
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1719650226
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45931434.bf77e62e.200x200o.447cdc212ff3.jpeg",
+    "player_id": 45931434,
+    "@id": "https://api.chess.com/pub/player/anurag328",
+    "url": "https://www.chess.com/member/Anurag328",
+    "name": "Anurag Mhamal",
+    "username": "anurag328",
+    "title": "GM",
+    "followers": 139,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Goa, India",
+    "last_online": 1733985415,
+    "joined": 1525566064,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2806,
+            "date": 1616182035,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2922,
+            "date": 1612889402,
+            "game": "https://www.chess.com/game/live/2936128357"
+        },
+        "record": {
+            "win": 280,
+            "loss": 144,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2651,
+            "date": 1614239696,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2775,
+            "date": 1586389612,
+            "game": "https://www.chess.com/game/live/6284055706"
+        },
+        "record": {
+            "win": 389,
+            "loss": 302,
+            "draw": 60
+        }
+    },
+    "fide": 2504,
+    "tactics": {
+        "highest": {
+            "rating": 3176,
+            "date": 1569949094
+        },
+        "lowest": {
+            "rating": 1188,
+            "date": 1525576475
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "player_id": 65767670,
+    "@id": "https://api.chess.com/pub/player/napierattack",
+    "url": "https://www.chess.com/member/NapierAttack",
+    "username": "napierattack",
+    "title": "FM",
+    "followers": 161,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741644687,
+    "joined": 1569079703,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1988,
+            "date": 1678613317,
+            "rd": 191
+        },
+        "best": {
+            "rating": 2110,
+            "date": 1575652055,
+            "game": "https://www.chess.com/game/daily/240122096"
+        },
+        "record": {
+            "win": 12,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 60733,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2232,
+            "date": 1741039541,
+            "rd": 196
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1620083149,
+            "game": "https://www.chess.com/game/live/35942991453"
+        },
+        "record": {
+            "win": 70,
+            "loss": 3,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2364,
+            "date": 1640278581,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2364,
+            "date": 1640278581,
+            "game": "https://www.chess.com/game/live/4502677871"
+        },
+        "record": {
+            "win": 18,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2444,
+            "date": 1741641963,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1696723401,
+            "game": "https://www.chess.com/game/live/33521987653"
+        },
+        "record": {
+            "win": 732,
+            "loss": 496,
+            "draw": 133
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3186,
+            "date": 1700168279
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1569884779
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

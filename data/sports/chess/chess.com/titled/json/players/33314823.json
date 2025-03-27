@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33314823.83b47ca1.200x200o.4ffbf34b8fde.jpeg",
+    "player_id": 33314823,
+    "@id": "https://api.chess.com/pub/player/sychev_klementy",
+    "url": "https://www.chess.com/member/Sychev_Klementy",
+    "name": "Klementy Sychev",
+    "username": "sychev_klementy",
+    "title": "GM",
+    "followers": 323,
+    "country": "https://api.chess.com/pub/country/SO",
+    "location": "Moscow",
+    "last_online": 1740465945,
+    "joined": 1487451022,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2530,
+            "date": 1739811519,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2743,
+            "date": 1586530437,
+            "game": "https://www.chess.com/game/live/51726063313"
+        },
+        "record": {
+            "win": 86,
+            "loss": 77,
+            "draw": 38
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2853,
+            "date": 1706522086,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2853,
+            "date": 1658588152,
+            "game": "https://www.chess.com/game/live/5504121706"
+        },
+        "record": {
+            "win": 46,
+            "loss": 22,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3002,
+            "date": 1725543417,
+            "rd": 37
+        },
+        "best": {
+            "rating": 3002,
+            "date": 1725543417,
+            "game": "https://www.chess.com/game/live/119266832659"
+        },
+        "record": {
+            "win": 1070,
+            "loss": 618,
+            "draw": 223
+        }
+    },
+    "fide": 2572,
+    "tactics": {
+        "highest": {
+            "rating": 2880,
+            "date": 1586961826
+        },
+        "lowest": {
+            "rating": 2393,
+            "date": 1585309020
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

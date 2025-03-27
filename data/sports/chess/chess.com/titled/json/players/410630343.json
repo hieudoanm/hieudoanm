@@ -1,0 +1,80 @@
+{
+    "player_id": 410630343,
+    "@id": "https://api.chess.com/pub/player/rhys-arnold",
+    "url": "https://www.chess.com/member/Rhys-Arnold",
+    "name": "Rhys Arnold",
+    "username": "rhys-arnold",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741703784,
+    "joined": 1734604287,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2292,
+            "date": 1740515909,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2402,
+            "date": 1741539949,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2540,
+            "date": 1736276681,
+            "game": "https://www.chess.com/game/live/130960159513"
+        },
+        "record": {
+            "win": 48,
+            "loss": 53,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2484,
+            "date": 1741534611,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2483,
+            "date": 1740528273,
+            "game": "https://www.chess.com/game/live/132424914327"
+        },
+        "record": {
+            "win": 36,
+            "loss": 24,
+            "draw": 7
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 2841,
+            "date": 1740519641
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1734604287
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

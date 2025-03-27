@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20472248.f483c9dc.200x200o.395bcaeae36a.jpeg",
+    "player_id": 20472248,
+    "@id": "https://api.chess.com/pub/player/soadvi",
+    "url": "https://www.chess.com/member/soadvi",
+    "name": "Arthur Macaspac",
+    "username": "soadvi",
+    "title": "NM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741562947,
+    "joined": 1420334884,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 711,
+            "date": 1710445669,
+            "rd": 295
+        },
+        "record": {
+            "win": 0,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 2375,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2540,
+            "date": 1682089048,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2540,
+            "date": 1682089048,
+            "game": "https://www.chess.com/game/live/35020764779"
+        },
+        "record": {
+            "win": 107,
+            "loss": 99,
+            "draw": 33
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2049,
+            "date": 1687648144,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2383,
+            "date": 1604383478,
+            "game": "https://www.chess.com/game/live/4295293807"
+        },
+        "record": {
+            "win": 37,
+            "loss": 18,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2571,
+            "date": 1730176196,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1615272030,
+            "game": "https://www.chess.com/game/live/6211921356"
+        },
+        "record": {
+            "win": 3554,
+            "loss": 3493,
+            "draw": 583
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3555,
+            "date": 1730172036
+        },
+        "lowest": {
+            "rating": 1336,
+            "date": 1446934114
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 257342601,
+    "@id": "https://api.chess.com/pub/player/thecourseoisildur",
+    "url": "https://www.chess.com/member/Thecourseoisildur",
+    "name": "Svyatoslav Lisenkov",
+    "username": "thecourseoisildur",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741678029,
+    "joined": 1678089865,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2448,
+            "date": 1703535356,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1703534171,
+            "game": "https://www.chess.com/game/live/90270536137"
+        },
+        "record": {
+            "win": 11,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2163,
+            "date": 1684492049,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1684491284,
+            "game": "https://www.chess.com/game/live/78230385221"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2720,
+            "date": 1741355476,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2805,
+            "date": 1741278630,
+            "game": "https://www.chess.com/game/live/131820690999"
+        },
+        "record": {
+            "win": 763,
+            "loss": 639,
+            "draw": 132
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3759,
+            "date": 1741636897
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1678089865
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 43
+        }
+    }
+}

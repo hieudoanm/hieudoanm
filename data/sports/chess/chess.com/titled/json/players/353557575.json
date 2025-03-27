@@ -1,0 +1,70 @@
+{
+    "player_id": 353557575,
+    "@id": "https://api.chess.com/pub/player/aiaru-01",
+    "url": "https://www.chess.com/member/Aiaru-01",
+    "name": "Aiaru Altynbek",
+    "username": "aiaru-01",
+    "title": "WCM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741689385,
+    "joined": 1711612767,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2163,
+            "date": 1731936521,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2163,
+            "date": 1731936521,
+            "game": "https://www.chess.com/game/live/121170658363"
+        },
+        "record": {
+            "win": 9,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2400,
+            "date": 1741107792,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2497,
+            "date": 1736788383,
+            "game": "https://www.chess.com/game/live/133633156523"
+        },
+        "record": {
+            "win": 168,
+            "loss": 178,
+            "draw": 22
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3218,
+            "date": 1729271666
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1711612767
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        },
+        "daily": {
+            "total_attempts": 32,
+            "score": 32
+        }
+    }
+}

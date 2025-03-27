@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12209284.26030a27.200x200o.5ca4bc546e6e.jpeg",
+    "player_id": 12209284,
+    "@id": "https://api.chess.com/pub/player/leslymontufar",
+    "url": "https://www.chess.com/member/leslymontufar",
+    "name": "Lesly Mont\u00fafar",
+    "username": "leslymontufar",
+    "title": "WFM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1724025062,
+    "joined": 1370618907,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1255,
+            "date": 1636465072,
+            "rd": 233
+        },
+        "best": {
+            "rating": 1298,
+            "date": 1378681331,
+            "game": "https://www.chess.com/game/daily/74966222"
+        },
+        "record": {
+            "win": 2,
+            "loss": 7,
+            "draw": 0,
+            "time_per_move": 79463,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1841,
+            "date": 1709821140,
+            "rd": 157
+        },
+        "best": {
+            "rating": 1930,
+            "date": 1613235251,
+            "game": "https://www.chess.com/game/live/16935292285"
+        },
+        "record": {
+            "win": 120,
+            "loss": 95,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1708,
+            "date": 1724033687,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2122,
+            "date": 1591486778,
+            "game": "https://www.chess.com/game/live/4878275835"
+        },
+        "record": {
+            "win": 40,
+            "loss": 23,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2268,
+            "date": 1724027831
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1595438789
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

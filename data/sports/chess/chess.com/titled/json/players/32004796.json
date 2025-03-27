@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32004796.d2bd244c.200x200o.c8ee4f81d6ee.jpeg",
+    "player_id": 32004796,
+    "@id": "https://api.chess.com/pub/player/ac130-ghostrider",
+    "url": "https://www.chess.com/member/AC130-Ghostrider",
+    "name": "Magnus Orn Ulfarsson",
+    "username": "ac130-ghostrider",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/IS",
+    "last_online": 1739743379,
+    "joined": 1483114025,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2400,
+            "date": 1586874175,
+            "rd": 133
+        },
+        "best": {
+            "rating": 1914,
+            "date": 1586616891,
+            "game": "https://www.chess.com/game/live/4707764591"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2300,
+            "date": 1735549454,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2465,
+            "date": 1717517618,
+            "game": "https://www.chess.com/game/live/20384990071"
+        },
+        "record": {
+            "win": 147,
+            "loss": 130,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2546,
+            "date": 1741703569,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2639,
+            "date": 1651326568,
+            "game": "https://www.chess.com/game/live/129933014167"
+        },
+        "record": {
+            "win": 10365,
+            "loss": 8279,
+            "draw": 1132
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3228,
+            "date": 1730724048
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1541683901
+        }
+    },
+    "puzzle_rush": {}
+}

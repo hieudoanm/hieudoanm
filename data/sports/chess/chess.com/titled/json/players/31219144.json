@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31219144.112540b1.200x200o.b645d9ff1fe2.jpg",
+    "player_id": 31219144,
+    "@id": "https://api.chess.com/pub/player/hristos03",
+    "url": "https://www.chess.com/member/hristos03",
+    "name": "Hristos Marinakis",
+    "username": "hristos03",
+    "title": "CM",
+    "followers": 587,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741696990,
+    "joined": 1480329069,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2408,
+            "date": 1741546137,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2427,
+            "date": 1738444021,
+            "game": "https://www.chess.com/game/live/132106221169"
+        },
+        "record": {
+            "win": 107,
+            "loss": 47,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2612,
+            "date": 1741623798
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1727193854,
+            "game": "https://www.chess.com/game/live/127332570047"
+        },
+        "record": {
+            "win": 6024,
+            "loss": 6022,
+            "draw": 888
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2548,
+            "date": 1741647049,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2541,
+            "date": 1691849324,
+            "game": "https://www.chess.com/game/live/101064326023"
+        },
+        "record": {
+            "win": 1979,
+            "loss": 1808,
+            "draw": 322
+        }
+    },
+    "fide": 2130,
+    "tactics": {
+        "highest": {
+            "rating": 3616,
+            "date": 1732552542
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1500124081
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 106,
+            "score": 103
+        },
+        "daily": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

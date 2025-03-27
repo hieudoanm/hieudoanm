@@ -1,0 +1,53 @@
+{
+    "player_id": 433067861,
+    "@id": "https://api.chess.com/pub/player/anaconda1704",
+    "url": "https://www.chess.com/member/Anaconda1704",
+    "name": "Aaryan Varshney",
+    "username": "anaconda1704",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741685494,
+    "joined": 1740720647,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2555,
+            "date": 1741157808,
+            "rd": 48
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2574,
+            "date": 1741156816,
+            "rd": 48
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1740720647
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1740720647
+        }
+    },
+    "puzzle_rush": {}
+}

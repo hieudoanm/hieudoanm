@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7752382.4fc13a50.200x200o.87ec4f5f9d01.jpeg",
+    "player_id": 7752382,
+    "@id": "https://api.chess.com/pub/player/arashy_cc",
+    "url": "https://www.chess.com/member/Arashy_CC",
+    "name": "Ali Bitalzadeh",
+    "username": "arashy_cc",
+    "title": "IM",
+    "followers": 241,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741444581,
+    "joined": 1338540177,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 773,
+            "date": 1720627057,
+            "rd": 289
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1338540177,
+            "game": "https://www.chess.com/game/daily/663443183"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 114306,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2466,
+            "date": 1741387300,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1739544519,
+            "game": "https://www.chess.com/game/live/2844252913"
+        },
+        "record": {
+            "win": 8672,
+            "loss": 8030,
+            "draw": 1003
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2514,
+            "date": 1740503295,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2637,
+            "date": 1587883290,
+            "game": "https://www.chess.com/game/live/4594038575"
+        },
+        "record": {
+            "win": 1294,
+            "loss": 1030,
+            "draw": 176
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3010,
+            "date": 1587054779
+        },
+        "lowest": {
+            "rating": 1338,
+            "date": 1372754491
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57182638.0a53b3be.200x200o.76b7c45f4969.jpeg",
+    "player_id": 57182638,
+    "@id": "https://api.chess.com/pub/player/latinachess",
+    "url": "https://www.chess.com/member/Latinachess",
+    "name": "Ingrid Yadyra Aliaga Fern\u00e1ndez",
+    "username": "latinachess",
+    "title": "WIM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/PE",
+    "last_online": 1739222030,
+    "joined": 1549800210,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2178,
+            "date": 1631302697,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2298,
+            "date": 1598211818,
+            "game": "https://www.chess.com/game/live/5340248222"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2296,
+            "date": 1740391498,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2490,
+            "date": 1723098717,
+            "game": "https://www.chess.com/game/live/115267694465"
+        },
+        "record": {
+            "win": 657,
+            "loss": 585,
+            "draw": 59
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2234,
+            "date": 1734669429,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2452,
+            "date": 1662062511,
+            "game": "https://www.chess.com/game/live/56215457571"
+        },
+        "record": {
+            "win": 226,
+            "loss": 221,
+            "draw": 22
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2254,
+            "date": 1712844915
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1552368761
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

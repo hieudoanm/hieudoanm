@@ -1,0 +1,71 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/225106043.fc34b361.200x200o.8d0a8dac0c1e.png",
+    "player_id": 225106043,
+    "@id": "https://api.chess.com/pub/player/alpacacheck",
+    "url": "https://www.chess.com/member/AlpacaCheck",
+    "username": "alpacacheck",
+    "title": "GM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/PE",
+    "last_online": 1734108544,
+    "joined": 1673646941,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2526,
+            "date": 1725648500,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2546,
+            "date": 1725562330,
+            "game": "https://www.chess.com/game/live/81288785573"
+        },
+        "record": {
+            "win": 1045,
+            "loss": 822,
+            "draw": 82
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1732753291,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2618,
+            "date": 1675373470,
+            "game": "https://www.chess.com/game/live/122245168265"
+        },
+        "record": {
+            "win": 216,
+            "loss": 134,
+            "draw": 34
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3209,
+            "date": 1724612285
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1673646941
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 44
+        },
+        "daily": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/327715477.d5fd8a62.200x200o.a1b5857eee90.jpg",
+    "player_id": 327715477,
+    "@id": "https://api.chess.com/pub/player/allcer7",
+    "url": "https://www.chess.com/member/AllCer7",
+    "name": "Allahverdi Hamidov",
+    "username": "allcer7",
+    "title": "FM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741600221,
+    "joined": 1700661334,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2331,
+            "date": 1727770774,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2334,
+            "date": 1721058206,
+            "game": "https://www.chess.com/game/live/114796131141"
+        },
+        "record": {
+            "win": 20,
+            "loss": 10,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2820,
+            "date": 1741352675,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2880,
+            "date": 1740850659,
+            "game": "https://www.chess.com/game/live/115232871599"
+        },
+        "record": {
+            "win": 1534,
+            "loss": 1592,
+            "draw": 219
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2810,
+            "date": 1740507017,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2839,
+            "date": 1739622589,
+            "game": "https://www.chess.com/game/live/124124477951"
+        },
+        "record": {
+            "win": 836,
+            "loss": 804,
+            "draw": 176
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3607,
+            "date": 1715062830
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1700661334
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

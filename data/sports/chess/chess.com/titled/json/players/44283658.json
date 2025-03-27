@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44283658.cb5c868e.200x200o.c0bb388f9b14.jpeg",
+    "player_id": 44283658,
+    "@id": "https://api.chess.com/pub/player/renegade_hitman",
+    "url": "https://www.chess.com/member/Renegade_Hitman",
+    "name": "Sam Marin",
+    "username": "renegade_hitman",
+    "title": "NM",
+    "followers": 97,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741376912,
+    "joined": 1521083223,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2035,
+            "date": 1739383654,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2138,
+            "date": 1695546894,
+            "game": "https://www.chess.com/game/daily/276735610"
+        },
+        "record": {
+            "win": 12,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 52678,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2125,
+            "date": 1741151759,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2211,
+            "date": 1736097797,
+            "game": "https://www.chess.com/game/live/83345125787"
+        },
+        "record": {
+            "win": 75,
+            "loss": 51,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1845,
+            "date": 1740022424,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2267,
+            "date": 1523555425,
+            "game": "https://www.chess.com/game/live/2725162867"
+        },
+        "record": {
+            "win": 1749,
+            "loss": 1595,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2219,
+            "date": 1735176189,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1522942595,
+            "game": "https://www.chess.com/game/live/119627459447"
+        },
+        "record": {
+            "win": 6765,
+            "loss": 6220,
+            "draw": 455
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3038,
+            "date": 1737946180
+        },
+        "lowest": {
+            "rating": 2207,
+            "date": 1522934864
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

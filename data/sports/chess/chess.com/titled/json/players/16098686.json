@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16098686.7143c581.200x200o.640fa129f42e.jpeg",
+    "player_id": 16098686,
+    "@id": "https://api.chess.com/pub/player/castigador2",
+    "url": "https://www.chess.com/member/CASTIGADOR2",
+    "name": "Jonathan S\u00e1nchez Millones",
+    "username": "castigador2",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/PE",
+    "location": "Lima",
+    "last_online": 1736887281,
+    "joined": 1392659603,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2167,
+            "date": 1581908129,
+            "rd": 226
+        },
+        "best": {
+            "rating": 2167,
+            "date": 1581908129,
+            "game": "https://www.chess.com/game/live/4506148355"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2445,
+            "date": 1730594492,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2445,
+            "date": 1730594492,
+            "game": "https://www.chess.com/game/live/124333168997"
+        },
+        "record": {
+            "win": 275,
+            "loss": 197,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2340,
+            "date": 1736887406,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1729363602,
+            "game": "https://www.chess.com/game/live/123317379513"
+        },
+        "record": {
+            "win": 2151,
+            "loss": 2056,
+            "draw": 256
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2934,
+            "date": 1729329295
+        },
+        "lowest": {
+            "rating": 1385,
+            "date": 1413654617
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "player_id": 33721601,
+    "@id": "https://api.chess.com/pub/player/hugooakland",
+    "url": "https://www.chess.com/member/Hugooakland",
+    "name": "Nick De Firmian",
+    "username": "hugooakland",
+    "title": "GM",
+    "followers": 71,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741645922,
+    "joined": 1488742412,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2128,
+            "date": 1627525450,
+            "rd": 204
+        },
+        "best": {
+            "rating": 2128,
+            "date": 1627525450,
+            "game": "https://www.chess.com/game/live/21264031281"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2124,
+            "date": 1519366044,
+            "rd": 246
+        },
+        "best": {
+            "rating": 1974,
+            "date": 1519366044,
+            "game": "https://www.chess.com/game/live/2634837481"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2541,
+            "date": 1741672398,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2670,
+            "date": 1728359672,
+            "game": "https://www.chess.com/game/live/116718665123"
+        },
+        "record": {
+            "win": 19451,
+            "loss": 15028,
+            "draw": 2099
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1488742412
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1488742412
+        }
+    },
+    "puzzle_rush": {}
+}

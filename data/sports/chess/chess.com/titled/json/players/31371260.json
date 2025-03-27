@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31371260.feba7bb9.200x200o.994f05e76219.jpeg",
+    "player_id": 31371260,
+    "@id": "https://api.chess.com/pub/player/leon009",
+    "url": "https://www.chess.com/member/Leon009",
+    "name": "Manuel Le\u00f3n Hoyos",
+    "username": "leon009",
+    "title": "GM",
+    "followers": 182,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "Oregon, USA",
+    "last_online": 1741663827,
+    "joined": 1480821309,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2904,
+            "date": 1622366850,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2904,
+            "date": 1622366850,
+            "game": "https://www.chess.com/game/live/15055017197"
+        },
+        "record": {
+            "win": 531,
+            "loss": 501,
+            "draw": 98
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2936,
+            "date": 1741507309,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2946,
+            "date": 1700986687,
+            "game": "https://www.chess.com/game/live/120824395403"
+        },
+        "record": {
+            "win": 1306,
+            "loss": 1373,
+            "draw": 279
+        }
+    },
+    "fide": 2603,
+    "tactics": {
+        "highest": {
+            "rating": 2940,
+            "date": 1501745848
+        },
+        "lowest": {
+            "rating": 1729,
+            "date": 1489361823
+        }
+    },
+    "puzzle_rush": {}
+}

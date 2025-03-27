@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6412751.202b53d4.200x200o.22e08c6a1173.jpeg",
+    "player_id": 6412751,
+    "@id": "https://api.chess.com/pub/player/indianlad",
+    "url": "https://www.chess.com/member/Indianlad",
+    "name": "S.L. Narayanan",
+    "username": "indianlad",
+    "title": "GM",
+    "followers": 1272,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Trivandrum,Kerala",
+    "last_online": 1741702291,
+    "joined": 1325265629,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2556,
+            "date": 1739819951,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2684,
+            "date": 1649524818,
+            "game": "https://www.chess.com/game/live/43262963213"
+        },
+        "record": {
+            "win": 30,
+            "loss": 30,
+            "draw": 36
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2899,
+            "date": 1741460302,
+            "rd": 34
+        },
+        "best": {
+            "rating": 3138,
+            "date": 1617294917,
+            "game": "https://www.chess.com/game/live/35550984049"
+        },
+        "record": {
+            "win": 3706,
+            "loss": 2533,
+            "draw": 440
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3036,
+            "date": 1741698480,
+            "rd": 32
+        },
+        "best": {
+            "rating": 3090,
+            "date": 1727298292,
+            "game": "https://www.chess.com/game/live/4864855903"
+        },
+        "record": {
+            "win": 6834,
+            "loss": 4703,
+            "draw": 1586
+        }
+    },
+    "fide": 2695,
+    "tactics": {
+        "highest": {
+            "rating": 3776,
+            "date": 1739251180
+        },
+        "lowest": {
+            "rating": 1335,
+            "date": 1378368865
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

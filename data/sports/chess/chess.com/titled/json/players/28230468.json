@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28230468.1cfc28b0.200x200o.9f2953d08f44.jpeg",
+    "player_id": 28230468,
+    "@id": "https://api.chess.com/pub/player/avto24",
+    "url": "https://www.chess.com/member/avto24",
+    "name": "Dmitrijs Tokranovs",
+    "username": "avto24",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "Riga",
+    "last_online": 1735751014,
+    "joined": 1463499281,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2339,
+            "date": 1526755559,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1526755165,
+            "game": "https://www.chess.com/game/live/2821120172"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2426,
+            "date": 1570933312,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1483743667,
+            "game": "https://www.chess.com/game/live/1887762138"
+        },
+        "record": {
+            "win": 574,
+            "loss": 479,
+            "draw": 57
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2487,
+            "date": 1740680445,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2666,
+            "date": 1515280072,
+            "game": "https://www.chess.com/game/live/2544854949"
+        },
+        "record": {
+            "win": 455,
+            "loss": 370,
+            "draw": 64
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2574,
+            "date": 1523988510
+        },
+        "lowest": {
+            "rating": 1482,
+            "date": 1463573349
+        }
+    },
+    "puzzle_rush": {}
+}

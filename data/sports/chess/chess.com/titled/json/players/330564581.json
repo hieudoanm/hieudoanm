@@ -1,0 +1,85 @@
+{
+    "player_id": 330564581,
+    "@id": "https://api.chess.com/pub/player/gmgrandfa",
+    "url": "https://www.chess.com/member/GMGrandFa",
+    "name": "Mersad Khodashenas",
+    "username": "gmgrandfa",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741166794,
+    "joined": 1701801461,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2271,
+            "date": 1733675982,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2271,
+            "date": 1733675982,
+            "game": "https://www.chess.com/game/live/106858825977"
+        },
+        "record": {
+            "win": 16,
+            "loss": 0,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2595,
+            "date": 1722890169,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1722890029,
+            "game": "https://www.chess.com/game/live/116628643629"
+        },
+        "record": {
+            "win": 26,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2612,
+            "date": 1720808818,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2625,
+            "date": 1714398254,
+            "game": "https://www.chess.com/game/live/102614541339"
+        },
+        "record": {
+            "win": 30,
+            "loss": 13,
+            "draw": 2
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3780,
+            "date": 1711698049
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1701801461
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

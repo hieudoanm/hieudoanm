@@ -1,0 +1,83 @@
+{
+    "player_id": 29455640,
+    "@id": "https://api.chess.com/pub/player/blitzfanboy",
+    "url": "https://www.chess.com/member/Blitzfanboy",
+    "username": "blitzfanboy",
+    "title": "IM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741612377,
+    "joined": 1471045080,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2518,
+            "date": 1736957043,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2663,
+            "date": 1622287323,
+            "game": "https://www.chess.com/game/live/13606980401"
+        },
+        "record": {
+            "win": 12,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2419,
+            "date": 1740411066,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2758,
+            "date": 1520956265,
+            "game": "https://www.chess.com/game/live/2019470694"
+        },
+        "record": {
+            "win": 1748,
+            "loss": 1279,
+            "draw": 124
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2217,
+            "date": 1739371185,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2581,
+            "date": 1485510384,
+            "game": "https://www.chess.com/game/live/104866961901"
+        },
+        "record": {
+            "win": 1872,
+            "loss": 1690,
+            "draw": 163
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2582,
+            "date": 1729003020
+        },
+        "lowest": {
+            "rating": 1382,
+            "date": 1471884047
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 78238140,
+    "@id": "https://api.chess.com/pub/player/vsevolod_ovchinnikov",
+    "url": "https://www.chess.com/member/Vsevolod_Ovchinnikov",
+    "name": "Vsevolod Ovchinnikov",
+    "username": "vsevolod_ovchinnikov",
+    "title": "FM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741703393,
+    "joined": 1588269438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2608,
+            "date": 1642708437,
+            "rd": 140
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1642708437,
+            "game": "https://www.chess.com/game/live/35671729645"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2625,
+            "date": 1741188522,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2783,
+            "date": 1735229785,
+            "game": "https://www.chess.com/game/live/89228945017"
+        },
+        "record": {
+            "win": 1824,
+            "loss": 1885,
+            "draw": 267
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2663,
+            "date": 1741623096,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2758,
+            "date": 1739538878,
+            "game": "https://www.chess.com/game/live/87062306367"
+        },
+        "record": {
+            "win": 4537,
+            "loss": 4589,
+            "draw": 1046
+        }
+    },
+    "fide": 2349,
+    "tactics": {
+        "highest": {
+            "rating": 3010,
+            "date": 1673273805
+        },
+        "lowest": {
+            "rating": 2343,
+            "date": 1597769416
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

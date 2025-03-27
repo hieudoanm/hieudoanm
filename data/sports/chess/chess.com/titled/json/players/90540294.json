@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/90540294.94f80fb5.200x200o.eaa3fd680f31.png",
+    "player_id": 90540294,
+    "@id": "https://api.chess.com/pub/player/professorchess101",
+    "url": "https://www.chess.com/member/ProfessorChess101",
+    "name": "Yichen Han",
+    "username": "professorchess101",
+    "title": "IM",
+    "followers": 241,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741676561,
+    "joined": 1599226930,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2570,
+            "date": 1721908187,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2579,
+            "date": 1696538688,
+            "game": "https://www.chess.com/game/live/11529200263"
+        },
+        "record": {
+            "win": 569,
+            "loss": 130,
+            "draw": 113
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3015,
+            "date": 1737402571,
+            "rd": 16
+        },
+        "best": {
+            "rating": 3051,
+            "date": 1624089872,
+            "game": "https://www.chess.com/game/live/17222583665"
+        },
+        "record": {
+            "win": 3314,
+            "loss": 2470,
+            "draw": 360
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2812,
+            "date": 1741599354,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2947,
+            "date": 1737198074,
+            "game": "https://www.chess.com/game/live/131407186801"
+        },
+        "record": {
+            "win": 1275,
+            "loss": 966,
+            "draw": 210
+        }
+    },
+    "fide": 2430,
+    "tactics": {
+        "highest": {
+            "rating": 3726,
+            "date": 1719783634
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1610883681
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 85,
+            "score": 82
+        }
+    }
+}

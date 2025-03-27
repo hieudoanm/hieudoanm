@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19992558.db97c70f.200x200o.d8fea6f1fe90.png",
+    "player_id": 19992558,
+    "@id": "https://api.chess.com/pub/player/hk1974",
+    "url": "https://www.chess.com/member/HK1974",
+    "name": "Hameed Mansour Ali Kadhi",
+    "username": "hk1974",
+    "title": "IM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/QA",
+    "location": "doha",
+    "last_online": 1739887513,
+    "joined": 1417490767,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2335,
+            "date": 1739888799,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2344,
+            "date": 1630952848,
+            "game": "https://www.chess.com/game/live/132589906161"
+        },
+        "record": {
+            "win": 19,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2120,
+            "date": 1588463291,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2042,
+            "date": 1588298036,
+            "game": "https://www.chess.com/game/live/4803056786"
+        },
+        "record": {
+            "win": 105,
+            "loss": 27,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2600,
+            "date": 1730299759,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2611,
+            "date": 1730295398,
+            "game": "https://www.chess.com/game/live/123954098639"
+        },
+        "record": {
+            "win": 398,
+            "loss": 293,
+            "draw": 57
+        }
+    },
+    "fide": 2375,
+    "tactics": {
+        "highest": {
+            "rating": 3145,
+            "date": 1717364547
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1417580922
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 46
+        }
+    }
+}

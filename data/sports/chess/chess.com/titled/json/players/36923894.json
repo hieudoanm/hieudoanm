@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36923894.c0d6f2b3.200x200o.5ba390aabdb4.jpeg",
+    "player_id": 36923894,
+    "@id": "https://api.chess.com/pub/player/taktikmonster",
+    "url": "https://www.chess.com/member/Taktikmonster",
+    "name": "Collin Colbow",
+    "username": "taktikmonster",
+    "title": "IM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741360538,
+    "joined": 1499675396,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1601,
+            "date": 1726838797,
+            "rd": 348
+        },
+        "best": {
+            "rating": 1601,
+            "date": 1725770434,
+            "game": "https://www.chess.com/game/daily/687050807"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 62182,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1677700349,
+            "rd": 228
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1677699055,
+            "game": "https://www.chess.com/game/live/2998759976"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2142,
+            "date": 1606238087,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2185,
+            "date": 1605378225,
+            "game": "https://www.chess.com/game/live/5055415358"
+        },
+        "record": {
+            "win": 24,
+            "loss": 19,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2635,
+            "date": 1737144026,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2638,
+            "date": 1726008753,
+            "game": "https://www.chess.com/game/live/96762684371"
+        },
+        "record": {
+            "win": 223,
+            "loss": 202,
+            "draw": 48
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2950,
+            "date": 1637688763
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1499677716
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 84,
+            "score": 81
+        }
+    }
+}

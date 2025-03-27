@@ -1,0 +1,85 @@
+{
+    "player_id": 83219364,
+    "@id": "https://api.chess.com/pub/player/tapson67",
+    "url": "https://www.chess.com/member/Tapson67",
+    "name": "Aliaksandra Tarasenka",
+    "username": "tapson67",
+    "title": "WFM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/BY",
+    "last_online": 1734637254,
+    "joined": 1592480283,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2077,
+            "date": 1731504945,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2128,
+            "date": 1630766361,
+            "game": "https://www.chess.com/game/live/24236895087"
+        },
+        "record": {
+            "win": 8,
+            "loss": 5,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1528,
+            "date": 1731174390,
+            "rd": 178
+        },
+        "best": {
+            "rating": 1528,
+            "date": 1731174390,
+            "game": "https://www.chess.com/game/live/124913318117"
+        },
+        "record": {
+            "win": 10,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2469,
+            "date": 1732478771,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2626,
+            "date": 1636483036,
+            "game": "https://www.chess.com/game/live/30219621359"
+        },
+        "record": {
+            "win": 40,
+            "loss": 35,
+            "draw": 9
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1609784107
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1609784107
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 49
+        }
+    }
+}

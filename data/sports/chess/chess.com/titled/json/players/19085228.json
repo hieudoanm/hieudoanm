@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19085228.559a861f.200x200o.d5dd1e515e95.jpeg",
+    "player_id": 19085228,
+    "@id": "https://api.chess.com/pub/player/kosanovicgoran",
+    "url": "https://www.chess.com/member/KosanovicGoran",
+    "name": "Goran A Kosanovic",
+    "username": "kosanovicgoran",
+    "title": "GM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Stara Pazova",
+    "last_online": 1698944807,
+    "joined": 1411919731,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2252,
+            "date": 1698480974,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2345,
+            "date": 1685466902,
+            "game": "https://www.chess.com/game/live/77392524663"
+        },
+        "record": {
+            "win": 14,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2361,
+            "date": 1698483099,
+            "rd": 259
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1698483099,
+            "game": "https://www.chess.com/game/live/92221893397"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2649,
+            "date": 1696260106,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1685979146,
+            "game": "https://www.chess.com/game/live/3961479760"
+        },
+        "record": {
+            "win": 339,
+            "loss": 201,
+            "draw": 39
+        }
+    },
+    "fide": 2403,
+    "tactics": {
+        "highest": {
+            "rating": 3323,
+            "date": 1661104995
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1555676895
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

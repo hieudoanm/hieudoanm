@@ -1,0 +1,45 @@
+{
+    "player_id": 378208323,
+    "@id": "https://api.chess.com/pub/player/bronndelanera",
+    "url": "https://www.chess.com/member/BronndelaNera",
+    "username": "bronndelanera",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741044798,
+    "joined": 1722352276,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2605,
+            "date": 1741045902,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2664,
+            "date": 1729116937,
+            "game": "https://www.chess.com/game/live/124656024503"
+        },
+        "record": {
+            "win": 315,
+            "loss": 305,
+            "draw": 66
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1722352276
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1722352276
+        }
+    },
+    "puzzle_rush": {}
+}

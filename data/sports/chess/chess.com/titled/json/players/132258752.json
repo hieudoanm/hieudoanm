@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/132258752.be63ca96.200x200o.a16db3a97805.jpg",
+    "player_id": 132258752,
+    "@id": "https://api.chess.com/pub/player/rebecajimnz",
+    "url": "https://www.chess.com/member/RebecaJimnz",
+    "name": "Rebeca Jim\u00e9nez Fern\u00e1ndez",
+    "username": "rebecajimnz",
+    "title": "WFM",
+    "followers": 117,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741332343,
+    "joined": 1617125198,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2178,
+            "date": 1674555992,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2178,
+            "date": 1674555992,
+            "game": "https://www.chess.com/game/live/68294097011"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2306,
+            "date": 1618338947,
+            "rd": 179
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1618338947,
+            "game": "https://www.chess.com/game/live/12077723109"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2326,
+            "date": 1741111660,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2415,
+            "date": 1729032341,
+            "game": "https://www.chess.com/game/live/119115067299"
+        },
+        "record": {
+            "win": 221,
+            "loss": 395,
+            "draw": 24
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3661,
+            "date": 1737535610
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1617125198
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/276647889.3100f3f0.200x200o.77a01f9c30c7.jpg",
+    "player_id": 276647889,
+    "@id": "https://api.chess.com/pub/player/anujshrivatri21",
+    "url": "https://www.chess.com/member/AnujShrivatri21",
+    "name": "Anuj Shrivatri",
+    "username": "anujshrivatri21",
+    "title": "IM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Katni",
+    "last_online": 1732899734,
+    "joined": 1681834988,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2256,
+            "date": 1688406185,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1688403240,
+            "game": "https://www.chess.com/game/live/82141838817"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2308,
+            "date": 1688660300,
+            "rd": 172
+        },
+        "best": {
+            "rating": 2420,
+            "date": 1688659871,
+            "game": "https://www.chess.com/game/live/82399270313"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2757,
+            "date": 1732900900,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2999,
+            "date": 1681934654,
+            "game": "https://www.chess.com/game/live/83130938555"
+        },
+        "record": {
+            "win": 439,
+            "loss": 336,
+            "draw": 80
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1681834988
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1681834988
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 44
+        }
+    }
+}

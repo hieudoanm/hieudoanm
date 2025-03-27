@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/63957840.d8a8a656.200x200o.489db017caa7.jpeg",
+    "player_id": 63957840,
+    "@id": "https://api.chess.com/pub/player/laurent2003",
+    "url": "https://www.chess.com/member/laurent2003",
+    "name": "Laurent Huynh",
+    "username": "laurent2003",
+    "title": "CM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1741473820,
+    "joined": 1564917815,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2156,
+            "date": 1735569141,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1735569141,
+            "game": "https://www.chess.com/game/live/129298418879"
+        },
+        "record": {
+            "win": 8,
+            "loss": 5,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2068,
+            "date": 1741474592,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2403,
+            "date": 1724273731,
+            "game": "https://www.chess.com/game/live/122334545223"
+        },
+        "record": {
+            "win": 55,
+            "loss": 20,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2400,
+            "date": 1741254694,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1735579065,
+            "game": "https://www.chess.com/game/live/133633759901"
+        },
+        "record": {
+            "win": 971,
+            "loss": 676,
+            "draw": 148
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3477,
+            "date": 1728989135
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1564918600
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 40
+        }
+    }
+}

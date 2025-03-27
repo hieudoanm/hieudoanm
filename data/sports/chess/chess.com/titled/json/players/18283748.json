@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18283748.11266d99.200x200o.92e540d2ccbf.jpeg",
+    "player_id": 18283748,
+    "@id": "https://api.chess.com/pub/player/byniolus",
+    "url": "https://www.chess.com/member/Byniolus",
+    "name": "Zbigniew Pakleza",
+    "username": "byniolus",
+    "title": "GM",
+    "followers": 8212,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Gliwice",
+    "last_online": 1734088185,
+    "joined": 1406716967,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1712590356,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 10891,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2471,
+            "date": 1721239988,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2528,
+            "date": 1588088527,
+            "game": "https://www.chess.com/game/live/108937181815"
+        },
+        "record": {
+            "win": 96,
+            "loss": 26,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2926,
+            "date": 1732543628,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2975,
+            "date": 1650832076,
+            "game": "https://www.chess.com/game/live/106162308469"
+        },
+        "record": {
+            "win": 15776,
+            "loss": 12373,
+            "draw": 1613
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2889,
+            "date": 1733943577,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2923,
+            "date": 1712678187,
+            "game": "https://www.chess.com/game/live/126472133369"
+        },
+        "record": {
+            "win": 4875,
+            "loss": 2448,
+            "draw": 759
+        }
+    },
+    "fide": 2489,
+    "tactics": {
+        "highest": {
+            "rating": 3743,
+            "date": 1705840471
+        },
+        "lowest": {
+            "rating": 1999,
+            "date": 1407713120
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 89,
+            "score": 86
+        }
+    }
+}

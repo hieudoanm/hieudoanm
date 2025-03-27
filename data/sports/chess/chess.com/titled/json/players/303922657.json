@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/303922657.fc712876.200x200o.8592f6cc9ba0.jpg",
+    "player_id": 303922657,
+    "@id": "https://api.chess.com/pub/player/miserableplayer4",
+    "url": "https://www.chess.com/member/miserableplayer4",
+    "username": "miserableplayer4",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741618258,
+    "joined": 1691186439,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1739871348,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 11,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1736104869,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1736104869,
+            "game": "https://www.chess.com/game/live/121963131661"
+        },
+        "record": {
+            "win": 35,
+            "loss": 22,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2716,
+            "date": 1739220866,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2767,
+            "date": 1701732600,
+            "game": "https://www.chess.com/game/live/90855031243"
+        },
+        "record": {
+            "win": 600,
+            "loss": 656,
+            "draw": 125
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3362,
+            "date": 1714095937
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1691186439
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

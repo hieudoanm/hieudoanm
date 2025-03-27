@@ -1,0 +1,85 @@
+{
+    "player_id": 55049392,
+    "@id": "https://api.chess.com/pub/player/daeg86",
+    "url": "https://www.chess.com/member/Daeg86",
+    "name": "Diego Espi\u00f1eira Gonzalez",
+    "username": "daeg86",
+    "title": "IM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Espa\u00f1a",
+    "last_online": 1739019594,
+    "joined": 1545671795,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2270,
+            "date": 1595697586,
+            "rd": 115
+        },
+        "best": {
+            "rating": 2408,
+            "date": 1589049316,
+            "game": "https://www.chess.com/game/live/4833120250"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2279,
+            "date": 1730058959,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1721467280,
+            "game": "https://www.chess.com/game/live/122981440451"
+        },
+        "record": {
+            "win": 36,
+            "loss": 30,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2375,
+            "date": 1731200952,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2513,
+            "date": 1672966262,
+            "game": "https://www.chess.com/game/live/4482052859"
+        },
+        "record": {
+            "win": 97,
+            "loss": 27,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3007,
+            "date": 1730059353
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1545672256
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

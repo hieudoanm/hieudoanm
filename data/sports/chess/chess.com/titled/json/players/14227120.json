@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14227120.c2278530.200x200o.941ee0c101fd.png",
+    "player_id": 14227120,
+    "@id": "https://api.chess.com/pub/player/velandiasaurio",
+    "url": "https://www.chess.com/member/VelandiaSaurio",
+    "name": "Jose Diaz Velandia",
+    "username": "velandiasaurio",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/VE",
+    "location": "Madrid, Spain",
+    "last_online": 1741607896,
+    "joined": 1383779571,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2731,
+            "date": 1741293077,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2847,
+            "date": 1739787494,
+            "game": "https://www.chess.com/game/live/108233956327"
+        },
+        "record": {
+            "win": 1569,
+            "loss": 930,
+            "draw": 181
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2571,
+            "date": 1722637152,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1715721559,
+            "game": "https://www.chess.com/game/live/109459898591"
+        },
+        "record": {
+            "win": 41,
+            "loss": 33,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3326,
+            "date": 1714031937
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1577177385
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 31
+        }
+    }
+}

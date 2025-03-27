@@ -1,0 +1,123 @@
+{
+    "player_id": 10864868,
+    "@id": "https://api.chess.com/pub/player/lwluk",
+    "url": "https://www.chess.com/member/lwluk",
+    "name": "LW Luk",
+    "username": "lwluk",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/HK",
+    "last_online": 1741534860,
+    "joined": 1361205509,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1599,
+            "date": 1741690843,
+            "rd": 55
+        },
+        "best": {
+            "rating": 1998,
+            "date": 1484058949,
+            "game": "https://www.chess.com/game/daily/234569760"
+        },
+        "record": {
+            "win": 2410,
+            "loss": 963,
+            "draw": 250,
+            "time_per_move": 25742,
+            "timeout_percent": 14
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1355,
+            "date": 1731633915,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1699,
+            "date": 1528617903,
+            "game": "https://www.chess.com/game/daily/105913428"
+        },
+        "record": {
+            "win": 40,
+            "loss": 33,
+            "draw": 5,
+            "time_per_move": 25742,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2154,
+            "date": 1718650575,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2165,
+            "date": 1700568699,
+            "game": "https://www.chess.com/game/live/8196206023"
+        },
+        "record": {
+            "win": 22,
+            "loss": 7,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2000,
+            "date": 1596184672,
+            "rd": 97
+        },
+        "best": {
+            "rating": 1362,
+            "date": 1591368643,
+            "game": "https://www.chess.com/game/live/4956623105"
+        },
+        "record": {
+            "win": 4,
+            "loss": 10,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1910,
+            "date": 1723993439,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1955,
+            "date": 1651574260,
+            "game": "https://www.chess.com/game/live/4942939627"
+        },
+        "record": {
+            "win": 52,
+            "loss": 34,
+            "draw": 3
+        }
+    },
+    "fide": 2082,
+    "tactics": {
+        "highest": {
+            "rating": 3231,
+            "date": 1732281715
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1361206871
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 23
+        }
+    }
+}

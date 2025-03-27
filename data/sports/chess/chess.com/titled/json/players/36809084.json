@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36809084.105cbba7.200x200o.369817bdd9fe.jpeg",
+    "player_id": 36809084,
+    "@id": "https://api.chess.com/pub/player/krishnamurti3",
+    "url": "https://www.chess.com/member/Krishnamurti3",
+    "name": "Enrique Biedma Martin",
+    "username": "krishnamurti3",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741700299,
+    "joined": 1499256905,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2610,
+            "date": 1724786463,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2639,
+            "date": 1707392649,
+            "game": "https://www.chess.com/game/live/98732680481"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2485,
+            "date": 1730839967,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1722193454,
+            "game": "https://www.chess.com/game/live/115910399821"
+        },
+        "record": {
+            "win": 48,
+            "loss": 11,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1741700691,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1723145253,
+            "game": "https://www.chess.com/game/live/131424598343"
+        },
+        "record": {
+            "win": 5413,
+            "loss": 4488,
+            "draw": 1901
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3097,
+            "date": 1700617065
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1499256905
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

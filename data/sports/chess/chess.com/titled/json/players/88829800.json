@@ -1,0 +1,66 @@
+{
+    "player_id": 88829800,
+    "@id": "https://api.chess.com/pub/player/winguselessking",
+    "url": "https://www.chess.com/member/winguselessking",
+    "username": "winguselessking",
+    "title": "IM",
+    "followers": 71,
+    "country": "https://api.chess.com/pub/country/ME",
+    "last_online": 1741686656,
+    "joined": 1597151582,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2562,
+            "date": 1740002818,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2674,
+            "date": 1604783310,
+            "game": "https://www.chess.com/game/live/11718193241"
+        },
+        "record": {
+            "win": 208,
+            "loss": 218,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2721,
+            "date": 1741638625,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1732921250,
+            "game": "https://www.chess.com/game/live/126621011559"
+        },
+        "record": {
+            "win": 7309,
+            "loss": 7919,
+            "draw": 988
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3535,
+            "date": 1665916326
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1607895502
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

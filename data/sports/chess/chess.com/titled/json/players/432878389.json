@@ -1,0 +1,70 @@
+{
+    "player_id": 432878389,
+    "@id": "https://api.chess.com/pub/player/zhouyuxu2010",
+    "url": "https://www.chess.com/member/Zhouyuxu2010",
+    "name": "Yuxu Zhou",
+    "username": "zhouyuxu2010",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/IS",
+    "last_online": 1741698879,
+    "joined": 1740665239,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2093,
+            "date": 1740865437,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2660,
+            "date": 1741611624,
+            "rd": 30
+        },
+        "record": {
+            "win": 49,
+            "loss": 39,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2501,
+            "date": 1741296756,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2530,
+            "date": 1741104458,
+            "game": "https://www.chess.com/game/live/134866139615"
+        },
+        "record": {
+            "win": 15,
+            "loss": 16,
+            "draw": 2
+        }
+    },
+    "fide": 2101,
+    "tactics": {
+        "highest": {
+            "rating": 3765,
+            "date": 1741460166
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1740665239
+        }
+    },
+    "puzzle_rush": {}
+}

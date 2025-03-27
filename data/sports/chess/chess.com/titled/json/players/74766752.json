@@ -1,0 +1,104 @@
+{
+    "player_id": 74766752,
+    "@id": "https://api.chess.com/pub/player/xiaotong2008",
+    "url": "https://www.chess.com/member/xiaotong2008",
+    "name": "Xiao Tong",
+    "username": "xiaotong2008",
+    "title": "GM",
+    "followers": 268,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741617230,
+    "joined": 1585369383,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2289,
+            "date": 1724937438,
+            "rd": 154
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1649250003,
+            "game": "https://www.chess.com/game/daily/394960421"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 19036,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2516,
+            "date": 1739819472,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1739818707,
+            "game": "https://www.chess.com/game/live/133556358769"
+        },
+        "record": {
+            "win": 37,
+            "loss": 14,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3001,
+            "date": 1740123472,
+            "rd": 39
+        },
+        "best": {
+            "rating": 3066,
+            "date": 1734675035,
+            "game": "https://www.chess.com/game/live/128408390403"
+        },
+        "record": {
+            "win": 861,
+            "loss": 717,
+            "draw": 120
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3041,
+            "date": 1741365578,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3132,
+            "date": 1737476916,
+            "game": "https://www.chess.com/game/live/126984033541"
+        },
+        "record": {
+            "win": 1317,
+            "loss": 1227,
+            "draw": 348
+        }
+    },
+    "fide": 2506,
+    "tactics": {
+        "highest": {
+            "rating": 4054,
+            "date": 1740129985
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1585634124
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 77,
+            "score": 74
+        }
+    }
+}

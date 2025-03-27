@@ -1,0 +1,44 @@
+{
+    "player_id": 358567389,
+    "@id": "https://api.chess.com/pub/player/life_actuary",
+    "url": "https://www.chess.com/member/Life_Actuary",
+    "username": "life_actuary",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1715788050,
+    "joined": 1713719043,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2100,
+            "date": 1713872466,
+            "rd": 253
+        },
+        "best": {
+            "rating": 1836,
+            "date": 1713816359,
+            "game": "https://www.chess.com/game/live/107555098913"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2087,
+            "date": 1717617890
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1713719043
+        }
+    },
+    "puzzle_rush": {}
+}

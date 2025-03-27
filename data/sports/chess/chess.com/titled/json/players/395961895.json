@@ -1,0 +1,67 @@
+{
+    "player_id": 395961895,
+    "@id": "https://api.chess.com/pub/player/ashleykrushc",
+    "url": "https://www.chess.com/member/AshleyKrushC",
+    "username": "ashleykrushc",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741360733,
+    "joined": 1728990553,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2506,
+            "date": 1737212603,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1736724242,
+            "game": "https://www.chess.com/game/live/128284194229"
+        },
+        "record": {
+            "win": 487,
+            "loss": 556,
+            "draw": 56
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2499,
+            "date": 1741696265,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2545,
+            "date": 1736256431,
+            "game": "https://www.chess.com/game/live/132209985881"
+        },
+        "record": {
+            "win": 218,
+            "loss": 225,
+            "draw": 46
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3503,
+            "date": 1741143534
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728990553
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

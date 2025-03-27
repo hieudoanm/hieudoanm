@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48066110.f26beab9.200x200o.7c294c6679b3.jpeg",
+    "player_id": 48066110,
+    "@id": "https://api.chess.com/pub/player/evandro_barbosa",
+    "url": "https://www.chess.com/member/Evandro_Barbosa",
+    "name": "Evandro Amorim Barbosa",
+    "username": "evandro_barbosa",
+    "title": "GM",
+    "followers": 2994,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1734172716,
+    "joined": 1532208663,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2194,
+            "date": 1707234964,
+            "rd": 224
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1633386837,
+            "game": "https://www.chess.com/game/live/91398514271"
+        },
+        "record": {
+            "win": 22,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2551,
+            "date": 1732815657,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1619899462,
+            "game": "https://www.chess.com/game/live/13641765757"
+        },
+        "record": {
+            "win": 517,
+            "loss": 541,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2734,
+            "date": 1734184301,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2874,
+            "date": 1720406424,
+            "game": "https://www.chess.com/game/live/67032725073"
+        },
+        "record": {
+            "win": 15588,
+            "loss": 16029,
+            "draw": 2762
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1532208663
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1532208663
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

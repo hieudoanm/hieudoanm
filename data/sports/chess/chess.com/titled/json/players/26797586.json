@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26797586.543e2e12.200x200o.2d3bade73e13.jpg",
+    "player_id": 26797586,
+    "@id": "https://api.chess.com/pub/player/timespacecraft",
+    "url": "https://www.chess.com/member/Timespacecraft",
+    "name": "Thorben Koop",
+    "username": "timespacecraft",
+    "title": "IM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1739061140,
+    "joined": 1455834395,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2460,
+            "date": 1736351147,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2471,
+            "date": 1721774914,
+            "game": "https://www.chess.com/game/live/115409924487"
+        },
+        "record": {
+            "win": 144,
+            "loss": 26,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2700,
+            "date": 1719948676,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2700,
+            "date": 1719948676,
+            "game": "https://www.chess.com/game/live/111605602925"
+        },
+        "record": {
+            "win": 7268,
+            "loss": 5432,
+            "draw": 800
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2661,
+            "date": 1741703049,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2651,
+            "date": 1731018653,
+            "game": "https://www.chess.com/game/live/126132592203"
+        },
+        "record": {
+            "win": 1526,
+            "loss": 1121,
+            "draw": 232
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3352,
+            "date": 1726614647
+        },
+        "lowest": {
+            "rating": 1355,
+            "date": 1456152647
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

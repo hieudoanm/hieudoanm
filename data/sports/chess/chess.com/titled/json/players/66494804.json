@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66494804.dc790a65.200x200o.93ab03c1dacd.jpg",
+    "player_id": 66494804,
+    "@id": "https://api.chess.com/pub/player/fla2021",
+    "url": "https://www.chess.com/member/fla2021",
+    "name": "Flavia Cancio-Bello Ayes",
+    "username": "fla2021",
+    "title": "WFM",
+    "followers": 2330,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "Spain",
+    "last_online": 1741701282,
+    "joined": 1570680318,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1163,
+            "date": 1741687928,
+            "rd": 141
+        },
+        "best": {
+            "rating": 1288,
+            "date": 1613134524,
+            "game": "https://www.chess.com/game/daily/430402053"
+        },
+        "record": {
+            "win": 14,
+            "loss": 12,
+            "draw": 0,
+            "time_per_move": 106598,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1278,
+            "date": 1739350639,
+            "rd": 160
+        },
+        "best": {
+            "rating": 1354,
+            "date": 1625701299,
+            "game": "https://www.chess.com/game/live/62275200315"
+        },
+        "record": {
+            "win": 27,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1510,
+            "date": 1741187786,
+            "rd": 69
+        },
+        "best": {
+            "rating": 1619,
+            "date": 1713253373,
+            "game": "https://www.chess.com/game/live/105299451559"
+        },
+        "record": {
+            "win": 56,
+            "loss": 53,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1980,
+            "date": 1740128595,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1670331577,
+            "game": "https://www.chess.com/game/live/4105295564"
+        },
+        "record": {
+            "win": 92,
+            "loss": 67,
+            "draw": 7
+        }
+    },
+    "fide": 2069,
+    "tactics": {
+        "highest": {
+            "rating": 2846,
+            "date": 1737051140
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1646603996
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 1,
+            "score": 0
+        }
+    }
+}

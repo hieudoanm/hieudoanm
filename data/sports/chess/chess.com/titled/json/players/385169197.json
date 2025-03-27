@@ -1,0 +1,85 @@
+{
+    "player_id": 385169197,
+    "@id": "https://api.chess.com/pub/player/heytbeteacher",
+    "url": "https://www.chess.com/member/heytbeteacher",
+    "name": "Baver Y\u0131lmaz",
+    "username": "heytbeteacher",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "Ankara",
+    "last_online": 1741633561,
+    "joined": 1725445388,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2207,
+            "date": 1740164919
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1740164919,
+            "game": "https://www.chess.com/game/live/126038969599"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2774,
+            "date": 1741114558,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2819,
+            "date": 1740848752,
+            "game": "https://www.chess.com/game/live/133988955725"
+        },
+        "record": {
+            "win": 279,
+            "loss": 211,
+            "draw": 50
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2820,
+            "date": 1740507126,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2887,
+            "date": 1739026027,
+            "game": "https://www.chess.com/game/live/132856129619"
+        },
+        "record": {
+            "win": 368,
+            "loss": 333,
+            "draw": 80
+        }
+    },
+    "fide": 2207,
+    "tactics": {
+        "highest": {
+            "rating": 4277,
+            "date": 1730113267
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1725445388
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

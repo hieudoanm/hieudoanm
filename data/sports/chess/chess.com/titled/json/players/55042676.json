@@ -1,0 +1,67 @@
+{
+    "player_id": 55042676,
+    "@id": "https://api.chess.com/pub/player/chessfunmaker",
+    "url": "https://www.chess.com/member/ChessFunMaker",
+    "name": "Volodymyr Medvedyk",
+    "username": "chessfunmaker",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741688804,
+    "joined": 1545661396,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2481,
+            "date": 1741542197,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2564,
+            "date": 1733278851,
+            "game": "https://www.chess.com/game/live/130359641349"
+        },
+        "record": {
+            "win": 411,
+            "loss": 333,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2355,
+            "date": 1741539597,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2433,
+            "date": 1732478921,
+            "game": "https://www.chess.com/game/live/4814954820"
+        },
+        "record": {
+            "win": 342,
+            "loss": 271,
+            "draw": 38
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2756,
+            "date": 1565909924
+        },
+        "lowest": {
+            "rating": 1015,
+            "date": 1546457174
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40213564.2c849e74.200x200o.e374e989549f.jpeg",
+    "player_id": 40213564,
+    "@id": "https://api.chess.com/pub/player/sebastianschnell",
+    "url": "https://www.chess.com/member/SebastianSchnell",
+    "name": "Sebastian Schnell",
+    "username": "sebastianschnell",
+    "title": "CM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/PA",
+    "location": "Santiago",
+    "last_online": 1741635742,
+    "joined": 1510261280,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1271,
+            "date": 1732268815,
+            "rd": 206
+        },
+        "best": {
+            "rating": 1495,
+            "date": 1570480519,
+            "game": "https://www.chess.com/game/daily/235576296"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 199696,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1996,
+            "date": 1732268815,
+            "rd": 193
+        },
+        "best": {
+            "rating": 1433,
+            "date": 1729104681,
+            "game": "https://www.chess.com/game/live/3728105982"
+        },
+        "record": {
+            "win": 7,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2441,
+            "date": 1741458267,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2384,
+            "date": 1734138176,
+            "game": "https://www.chess.com/game/live/34121471901"
+        },
+        "record": {
+            "win": 1240,
+            "loss": 1128,
+            "draw": 131
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2321,
+            "date": 1741133005,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2329,
+            "date": 1739918405,
+            "game": "https://www.chess.com/game/live/133033144399"
+        },
+        "record": {
+            "win": 396,
+            "loss": 317,
+            "draw": 56
+        }
+    },
+    "fide": 1996,
+    "tactics": {
+        "highest": {
+            "rating": 3042,
+            "date": 1636398386
+        },
+        "lowest": {
+            "rating": 1015,
+            "date": 1545759547
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        },
+        "daily": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

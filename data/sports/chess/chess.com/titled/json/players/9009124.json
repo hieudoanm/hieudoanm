@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9009124.d46e23ce.200x200o.92a4168f5565.jpeg",
+    "player_id": 9009124,
+    "@id": "https://api.chess.com/pub/player/tiger415",
+    "url": "https://www.chess.com/member/tiger415",
+    "name": "Drake Wang",
+    "username": "tiger415",
+    "title": "NM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "San Francisco, California",
+    "last_online": 1741489063,
+    "joined": 1348386940,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1554,
+            "date": 1737362316,
+            "rd": 128
+        },
+        "best": {
+            "rating": 1847,
+            "date": 1622043296,
+            "game": "https://www.chess.com/game/daily/59258814"
+        },
+        "record": {
+            "win": 99,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 33669,
+            "timeout_percent": 100
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1503,
+            "date": 1708147615,
+            "rd": 201
+        },
+        "best": {
+            "rating": 1503,
+            "date": 1708147615,
+            "game": "https://www.chess.com/game/daily/605198265"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 33669,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2197,
+            "date": 1649552338,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2234,
+            "date": 1612670837,
+            "game": "https://www.chess.com/game/live/5602812862"
+        },
+        "record": {
+            "win": 52,
+            "loss": 11,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2530,
+            "date": 1740689985,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1726083233,
+            "game": "https://www.chess.com/game/live/119216404225"
+        },
+        "record": {
+            "win": 1125,
+            "loss": 816,
+            "draw": 122
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2530,
+            "date": 1741288604,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2645,
+            "date": 1737957820,
+            "game": "https://www.chess.com/game/live/106374452675"
+        },
+        "record": {
+            "win": 5942,
+            "loss": 4517,
+            "draw": 798
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3372,
+            "date": 1699509224
+        },
+        "lowest": {
+            "rating": 1161,
+            "date": 1381107075
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

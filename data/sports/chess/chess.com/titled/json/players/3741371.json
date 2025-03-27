@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3741371.41122636.200x200o.628e1608a872.jpeg",
+    "player_id": 3741371,
+    "@id": "https://api.chess.com/pub/player/step007",
+    "url": "https://www.chess.com/member/SteP007",
+    "name": "Stepan Papacek",
+    "username": "step007",
+    "title": "FM",
+    "followers": 37,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "location": "Trebon",
+    "last_online": 1741694212,
+    "joined": 1279974901,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1815,
+            "date": 1697118821,
+            "rd": 157
+        },
+        "best": {
+            "rating": 1815,
+            "date": 1496134348,
+            "game": "https://www.chess.com/game/daily/108870376"
+        },
+        "record": {
+            "win": 15,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 119710,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2319,
+            "date": 1741450542,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2348,
+            "date": 1732373926,
+            "game": "https://www.chess.com/game/live/125089153951"
+        },
+        "record": {
+            "win": 100,
+            "loss": 45,
+            "draw": 27
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1806,
+            "date": 1741094066,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1707844859,
+            "game": "https://www.chess.com/game/live/97453863799"
+        },
+        "record": {
+            "win": 1354,
+            "loss": 1143,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2149,
+            "date": 1741107974,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2286,
+            "date": 1564004408,
+            "game": "https://www.chess.com/game/live/98032785103"
+        },
+        "record": {
+            "win": 5841,
+            "loss": 4454,
+            "draw": 536
+        }
+    },
+    "fide": 2245,
+    "tactics": {
+        "highest": {
+            "rating": 3522,
+            "date": 1739647770
+        },
+        "lowest": {
+            "rating": 1334,
+            "date": 1424724738
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

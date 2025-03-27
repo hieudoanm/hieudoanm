@@ -1,0 +1,85 @@
+{
+    "player_id": 32279082,
+    "@id": "https://api.chess.com/pub/player/eugenerougon",
+    "url": "https://www.chess.com/member/EugeneRougon",
+    "name": "Aslan Aitbayev",
+    "username": "eugenerougon",
+    "title": "IM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1731827821,
+    "joined": 1484038392,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2154,
+            "date": 1605873876,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2258,
+            "date": 1601457208,
+            "game": "https://www.chess.com/game/live/5517709764"
+        },
+        "record": {
+            "win": 23,
+            "loss": 11,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2848,
+            "date": 1659762979,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2851,
+            "date": 1635519819,
+            "game": "https://www.chess.com/game/live/46435736399"
+        },
+        "record": {
+            "win": 4154,
+            "loss": 2802,
+            "draw": 396
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2798,
+            "date": 1709101263,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2837,
+            "date": 1675785888,
+            "game": "https://www.chess.com/game/live/4783981296"
+        },
+        "record": {
+            "win": 2777,
+            "loss": 2154,
+            "draw": 498
+        }
+    },
+    "fide": 2457,
+    "tactics": {
+        "highest": {
+            "rating": 3353,
+            "date": 1656097852
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1521186737
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 75,
+            "score": 72
+        }
+    }
+}

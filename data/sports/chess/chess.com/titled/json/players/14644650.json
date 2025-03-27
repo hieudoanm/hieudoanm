@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14644650.a03dc6f3.200x200o.9652710f3850.png",
+    "player_id": 14644650,
+    "@id": "https://api.chess.com/pub/player/ghostqiuyu",
+    "url": "https://www.chess.com/member/Ghostqiuyu",
+    "name": "someone on Earth",
+    "username": "ghostqiuyu",
+    "title": "FM",
+    "followers": 101,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "dem rockies",
+    "last_online": 1738086528,
+    "joined": 1385337863,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1476,
+            "date": 1696536611,
+            "rd": 84
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1571182025,
+            "game": "https://www.chess.com/game/daily/199962854"
+        },
+        "record": {
+            "win": 185,
+            "loss": 245,
+            "draw": 29,
+            "time_per_move": 72348,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1374,
+            "date": 1589488203,
+            "rd": 114
+        },
+        "best": {
+            "rating": 1502,
+            "date": 1391175960,
+            "game": "https://www.chess.com/game/daily/243777448"
+        },
+        "record": {
+            "win": 24,
+            "loss": 26,
+            "draw": 1,
+            "time_per_move": 72348,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2113,
+            "date": 1675460967,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2113,
+            "date": 1609198149,
+            "game": "https://www.chess.com/game/live/5302622909"
+        },
+        "record": {
+            "win": 288,
+            "loss": 277,
+            "draw": 46
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2427,
+            "date": 1738462803,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2541,
+            "date": 1695665624,
+            "game": "https://www.chess.com/game/live/6430644005"
+        },
+        "record": {
+            "win": 397,
+            "loss": 351,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2311,
+            "date": 1729379721,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2396,
+            "date": 1675966344,
+            "game": "https://www.chess.com/game/live/3321904982"
+        },
+        "record": {
+            "win": 251,
+            "loss": 205,
+            "draw": 41
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3037,
+            "date": 1737860601
+        },
+        "lowest": {
+            "rating": 1240,
+            "date": 1385645248
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 44
+        }
+    }
+}

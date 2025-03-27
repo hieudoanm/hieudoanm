@@ -1,0 +1,45 @@
+{
+    "player_id": 393291487,
+    "@id": "https://api.chess.com/pub/player/diegosuarez53",
+    "url": "https://www.chess.com/member/diegosuarez53",
+    "username": "diegosuarez53",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741599054,
+    "joined": 1727938493,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2208,
+            "date": 1741600523,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2244,
+            "date": 1729270064,
+            "game": "https://www.chess.com/game/live/129262358137"
+        },
+        "record": {
+            "win": 203,
+            "loss": 220,
+            "draw": 17
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1727938493
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1727938493
+        }
+    },
+    "puzzle_rush": {}
+}

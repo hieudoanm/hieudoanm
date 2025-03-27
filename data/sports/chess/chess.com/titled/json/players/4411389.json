@@ -1,0 +1,97 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4411389.a5265342.200x200o.6b56681fe1ef.jpeg",
+    "player_id": 4411389,
+    "@id": "https://api.chess.com/pub/player/nau64",
+    "url": "https://www.chess.com/member/nau64",
+    "name": "Jose Riverol",
+    "username": "nau64",
+    "title": "FM",
+    "followers": 2500,
+    "country": "https://api.chess.com/pub/country/UY",
+    "location": "Montevideo",
+    "last_online": 1741700879,
+    "joined": 1292690922,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/nau64ajedrez",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/nau64ajedrez"
+        },
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@nau64"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2347,
+            "date": 1736287060,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2354,
+            "date": 1693787012,
+            "game": "https://www.chess.com/game/live/7534327889"
+        },
+        "record": {
+            "win": 105,
+            "loss": 32,
+            "draw": 30
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2151,
+            "date": 1734913511,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1627243667,
+            "game": "https://www.chess.com/game/live/52845671477"
+        },
+        "record": {
+            "win": 2667,
+            "loss": 633,
+            "draw": 140
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2344,
+            "date": 1734915046,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1616983718,
+            "game": "https://www.chess.com/game/live/4059290081"
+        },
+        "record": {
+            "win": 826,
+            "loss": 334,
+            "draw": 117
+        }
+    },
+    "fide": 2304,
+    "tactics": {
+        "highest": {
+            "rating": 3553,
+            "date": 1715292871
+        },
+        "lowest": {
+            "rating": 1334,
+            "date": 1292693470
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

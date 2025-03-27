@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41328822.fbd15131.200x200o.a0db6f91e6c7.jpg",
+    "player_id": 41328822,
+    "@id": "https://api.chess.com/pub/player/hajiyevkanan",
+    "url": "https://www.chess.com/member/HajiyevKanan",
+    "name": "Hajiyev Kanan",
+    "username": "hajiyevkanan",
+    "title": "FM",
+    "followers": 309,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741683214,
+    "joined": 1513277414,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2428,
+            "date": 1705704650,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1705704650,
+            "game": "https://www.chess.com/game/live/99441722113"
+        },
+        "record": {
+            "win": 171,
+            "loss": 126,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2413,
+            "date": 1720995752,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1704050291,
+            "game": "https://www.chess.com/game/live/89838694291"
+        },
+        "record": {
+            "win": 434,
+            "loss": 278,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2628,
+            "date": 1741642881,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1739736699,
+            "game": "https://www.chess.com/game/live/79824137133"
+        },
+        "record": {
+            "win": 6558,
+            "loss": 5806,
+            "draw": 1194
+        }
+    },
+    "fide": 2197,
+    "tactics": {
+        "highest": {
+            "rating": 3770,
+            "date": 1736482399
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1513716273
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

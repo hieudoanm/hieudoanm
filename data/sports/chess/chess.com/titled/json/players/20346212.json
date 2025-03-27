@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20346212.165a2949.200x200o.85d3b1e20eb6.jpeg",
+    "player_id": 20346212,
+    "@id": "https://api.chess.com/pub/player/axf7",
+    "url": "https://www.chess.com/member/Axf7",
+    "name": "Enrico Pepino",
+    "username": "axf7",
+    "title": "NM",
+    "followers": 67,
+    "country": "https://api.chess.com/pub/country/IT",
+    "location": "Turin, Italy",
+    "last_online": 1740726070,
+    "joined": 1419625849,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2173,
+            "date": 1670968768,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2190,
+            "date": 1670094252,
+            "game": "https://www.chess.com/game/live/63825601119"
+        },
+        "record": {
+            "win": 41,
+            "loss": 32,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1817,
+            "date": 1738521150,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2099,
+            "date": 1655392847,
+            "game": "https://www.chess.com/game/live/111016282441"
+        },
+        "record": {
+            "win": 299,
+            "loss": 203,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2114,
+            "date": 1741695562,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2330,
+            "date": 1660691611,
+            "game": "https://www.chess.com/game/live/108861641135"
+        },
+        "record": {
+            "win": 6866,
+            "loss": 7438,
+            "draw": 1198
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3214,
+            "date": 1731063618
+        },
+        "lowest": {
+            "rating": 1234,
+            "date": 1419787441
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

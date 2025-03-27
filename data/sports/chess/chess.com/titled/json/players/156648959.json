@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/156648959.4507f1cc.200x200o.960aea836e66.jpg",
+    "player_id": 156648959,
+    "@id": "https://api.chess.com/pub/player/alimpic",
+    "url": "https://www.chess.com/member/Alimpic",
+    "name": "Aleksa Alimpic",
+    "username": "alimpic",
+    "title": "FM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Belgrade",
+    "last_online": 1741622419,
+    "joined": 1633164469,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2485,
+            "date": 1684831761,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2485,
+            "date": 1673008232,
+            "game": "https://www.chess.com/game/live/66746485863"
+        },
+        "record": {
+            "win": 15,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2556,
+            "date": 1740408356,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2581,
+            "date": 1714987036,
+            "game": "https://www.chess.com/game/live/38830785003"
+        },
+        "record": {
+            "win": 124,
+            "loss": 114,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2554,
+            "date": 1738102639,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2557,
+            "date": 1738101785,
+            "game": "https://www.chess.com/game/live/131235622179"
+        },
+        "record": {
+            "win": 159,
+            "loss": 121,
+            "draw": 39
+        }
+    },
+    "fide": 2313,
+    "tactics": {
+        "highest": {
+            "rating": 4228,
+            "date": 1716212858
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1633165905
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62603350.beaf4d01.200x200o.4377a6c64301.jpeg",
+    "player_id": 62603350,
+    "@id": "https://api.chess.com/pub/player/dr-cro",
+    "url": "https://www.chess.com/member/Dr-CRO",
+    "name": "Sasa Martinovic",
+    "username": "dr-cro",
+    "title": "GM",
+    "followers": 117,
+    "country": "https://api.chess.com/pub/country/HR",
+    "location": "Zadar",
+    "last_online": 1732524093,
+    "joined": 1561301585,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1710244904,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1623316040,
+            "game": "https://www.chess.com/game/live/103983568017"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2795,
+            "date": 1694495917,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2864,
+            "date": 1694494537,
+            "game": "https://www.chess.com/game/live/88234232857"
+        },
+        "record": {
+            "win": 15,
+            "loss": 17,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2842,
+            "date": 1724050688,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2889,
+            "date": 1694346479,
+            "game": "https://www.chess.com/game/live/50141987227"
+        },
+        "record": {
+            "win": 451,
+            "loss": 422,
+            "draw": 106
+        }
+    },
+    "fide": 2604,
+    "tactics": {
+        "highest": {
+            "rating": 3399,
+            "date": 1708448334
+        },
+        "lowest": {
+            "rating": 2519,
+            "date": 1561756739
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

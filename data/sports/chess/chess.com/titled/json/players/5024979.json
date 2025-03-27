@@ -1,0 +1,107 @@
+{
+    "player_id": 5024979,
+    "@id": "https://api.chess.com/pub/player/potpiedude",
+    "url": "https://www.chess.com/member/potpiedude",
+    "username": "potpiedude",
+    "title": "NM",
+    "followers": 45,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740429989,
+    "joined": 1303526007,
+    "status": "basic",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1440,
+            "date": 1728733795,
+            "rd": 105
+        },
+        "best": {
+            "rating": 1440,
+            "date": 1724103156,
+            "game": "https://www.chess.com/game/daily/688202991"
+        },
+        "record": {
+            "win": 20,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 16935,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2438,
+            "date": 1638565380,
+            "rd": 206
+        },
+        "best": {
+            "rating": 2564,
+            "date": 1628046681,
+            "game": "https://www.chess.com/game/live/21784788197"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2611,
+            "date": 1741645441,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2810,
+            "date": 1733873669,
+            "game": "https://www.chess.com/game/live/22261748641"
+        },
+        "record": {
+            "win": 19255,
+            "loss": 13538,
+            "draw": 1424
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2516,
+            "date": 1740517479,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1630265165,
+            "game": "https://www.chess.com/game/live/11644996269"
+        },
+        "record": {
+            "win": 1353,
+            "loss": 692,
+            "draw": 105
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3849,
+            "date": 1431060686
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1442895936
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        },
+        "daily": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

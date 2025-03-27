@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14858680.ee1df737.200x200o.80b5b7c576e3.jpeg",
+    "player_id": 14858680,
+    "@id": "https://api.chess.com/pub/player/fatupss",
+    "url": "https://www.chess.com/member/FatUpss",
+    "name": "Angel Arribas Lopez",
+    "username": "fatupss",
+    "title": "GM",
+    "followers": 210,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Dallas",
+    "last_online": 1732818080,
+    "joined": 1386214497,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 732,
+            "date": 1730413827,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1386214497,
+            "game": "https://www.chess.com/game/daily/607372683"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 3,
+            "time_per_move": 22424,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2175,
+            "date": 1733200478,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2543,
+            "date": 1593726738,
+            "game": "https://www.chess.com/game/live/6163348483"
+        },
+        "record": {
+            "win": 14,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2739,
+            "date": 1613099454,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2774,
+            "date": 1503093925,
+            "game": "https://www.chess.com/game/live/2263770186"
+        },
+        "record": {
+            "win": 1026,
+            "loss": 760,
+            "draw": 125
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2631,
+            "date": 1733201939,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2802,
+            "date": 1612856318,
+            "game": "https://www.chess.com/game/live/6506654182"
+        },
+        "record": {
+            "win": 554,
+            "loss": 376,
+            "draw": 79
+        }
+    },
+    "fide": 2512,
+    "tactics": {
+        "highest": {
+            "rating": 1433,
+            "date": 1656119446
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1563278896
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

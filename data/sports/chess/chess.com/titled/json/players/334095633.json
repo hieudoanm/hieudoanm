@@ -1,0 +1,83 @@
+{
+    "player_id": 334095633,
+    "@id": "https://api.chess.com/pub/player/basi1isk6",
+    "url": "https://www.chess.com/member/basi1isk6",
+    "username": "basi1isk6",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741678783,
+    "joined": 1703329692,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2262,
+            "date": 1728159113,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2270,
+            "date": 1727798740,
+            "game": "https://www.chess.com/game/live/115036148863"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2855,
+            "date": 1737133159,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2858,
+            "date": 1736246034,
+            "game": "https://www.chess.com/game/live/129984523773"
+        },
+        "record": {
+            "win": 82,
+            "loss": 35,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2790,
+            "date": 1738919546,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2802,
+            "date": 1720468914,
+            "game": "https://www.chess.com/game/live/110484140525"
+        },
+        "record": {
+            "win": 117,
+            "loss": 70,
+            "draw": 16
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3647,
+            "date": 1725958538
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1703329692
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

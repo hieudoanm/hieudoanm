@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/149529825.c5ca0d33.200x200o.da212f06c44d.jpg",
+    "player_id": 149529825,
+    "@id": "https://api.chess.com/pub/player/yuhsin0828",
+    "url": "https://www.chess.com/member/YuHsin0828",
+    "name": "Yu-Hsin Weng",
+    "username": "yuhsin0828",
+    "title": "WCM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/TW",
+    "last_online": 1731305270,
+    "joined": 1627648282,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1804,
+            "date": 1731305059,
+            "rd": 68
+        },
+        "best": {
+            "rating": 1927,
+            "date": 1630143240,
+            "game": "https://www.chess.com/game/live/115921823729"
+        },
+        "record": {
+            "win": 30,
+            "loss": 38,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1862,
+            "date": 1722692428,
+            "rd": 26
+        },
+        "best": {
+            "rating": 1918,
+            "date": 1722616082,
+            "game": "https://www.chess.com/game/live/103299700089"
+        },
+        "record": {
+            "win": 137,
+            "loss": 116,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1796,
+            "date": 1731305942,
+            "rd": 72
+        },
+        "best": {
+            "rating": 1885,
+            "date": 1697708463,
+            "game": "https://www.chess.com/game/live/100121004871"
+        },
+        "record": {
+            "win": 101,
+            "loss": 103,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2248,
+            "date": 1722563185
+        },
+        "lowest": {
+            "rating": 399,
+            "date": 1627683432
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 23,
+            "score": 20
+        }
+    }
+}

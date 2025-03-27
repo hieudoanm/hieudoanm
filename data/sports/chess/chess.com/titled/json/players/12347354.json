@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12347354.62e3afe1.200x200o.ece3be57a9a9.jpeg",
+    "player_id": 12347354,
+    "@id": "https://api.chess.com/pub/player/assumpcaos",
+    "url": "https://www.chess.com/member/Assumpcaos",
+    "name": "Roberto Assumpcao",
+    "username": "assumpcaos",
+    "title": "FM",
+    "followers": 734,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Estados Unidos",
+    "last_online": 1741620889,
+    "joined": 1371395183,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2399,
+            "date": 1741651454,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1718651185,
+            "game": "https://www.chess.com/game/live/120788429007"
+        },
+        "record": {
+            "win": 6303,
+            "loss": 4787,
+            "draw": 1128
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1821,
+            "date": 1645181962,
+            "rd": 192
+        },
+        "best": {
+            "rating": 1821,
+            "date": 1645181962,
+            "game": "https://www.chess.com/game/live/2961844762"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2170,
+            "date": 1737569751,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2308,
+            "date": 1571163040,
+            "game": "https://www.chess.com/game/live/108856301919"
+        },
+        "record": {
+            "win": 6933,
+            "loss": 5376,
+            "draw": 734
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2612,
+            "date": 1714222660
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1416007980
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 28,
+            "score": 26
+        }
+    }
+}

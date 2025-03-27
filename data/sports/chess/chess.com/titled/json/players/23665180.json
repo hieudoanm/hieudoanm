@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23665180.b325db2f.200x200o.4d4301916282.jpeg",
+    "player_id": 23665180,
+    "@id": "https://api.chess.com/pub/player/kaka666",
+    "url": "https://www.chess.com/member/kaka666",
+    "name": "Bai Jinshi",
+    "username": "kaka666",
+    "title": "GM",
+    "followers": 150,
+    "country": "https://api.chess.com/pub/country/CN",
+    "location": "Hangzhou",
+    "last_online": 1741339850,
+    "joined": 1439564166,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2383,
+            "date": 1674811513,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1578494556,
+            "game": "https://www.chess.com/game/live/5503463607"
+        },
+        "record": {
+            "win": 11,
+            "loss": 5,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2876,
+            "date": 1739796979,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2999,
+            "date": 1600881890,
+            "game": "https://www.chess.com/game/live/6279813358"
+        },
+        "record": {
+            "win": 198,
+            "loss": 109,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3002,
+            "date": 1704383559,
+            "rd": 115
+        },
+        "best": {
+            "rating": 3002,
+            "date": 1704383559,
+            "game": "https://www.chess.com/game/live/98121575309"
+        },
+        "record": {
+            "win": 347,
+            "loss": 150,
+            "draw": 67
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4240,
+            "date": 1570886282
+        },
+        "lowest": {
+            "rating": 1364,
+            "date": 1442999417
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

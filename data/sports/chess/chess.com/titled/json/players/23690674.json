@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23690674.62c58fd8.200x200o.a9e05f31dbf6.jpeg",
+    "player_id": 23690674,
+    "@id": "https://api.chess.com/pub/player/noeladricula",
+    "url": "https://www.chess.com/member/noeladricula",
+    "name": "Noel Adricula",
+    "username": "noeladricula",
+    "title": "CM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/FJ",
+    "location": "Suva City",
+    "last_online": 1740983525,
+    "joined": 1439722396,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1656166205,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 27162,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1663,
+            "date": 1722701764,
+            "rd": 163
+        },
+        "best": {
+            "rating": 1821,
+            "date": 1612093676,
+            "game": "https://www.chess.com/game/live/13666919241"
+        },
+        "record": {
+            "win": 643,
+            "loss": 601,
+            "draw": 77
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 400,
+            "date": 1739528898
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1466,
+            "date": 1741703444,
+            "rd": 23
+        },
+        "best": {
+            "rating": 1701,
+            "date": 1598095859,
+            "game": "https://www.chess.com/game/live/133637939855"
+        },
+        "record": {
+            "win": 4833,
+            "loss": 4576,
+            "draw": 349
+        }
+    },
+    "fide": 1640,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1439722396
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1439722396
+        }
+    },
+    "puzzle_rush": {}
+}

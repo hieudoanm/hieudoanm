@@ -1,0 +1,63 @@
+{
+    "player_id": 343294967,
+    "@id": "https://api.chess.com/pub/player/atomicmate123",
+    "url": "https://www.chess.com/member/atomicmate123",
+    "name": "Judah Nathan Levitan",
+    "username": "atomicmate123",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741619815,
+    "joined": 1707074623,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2166,
+            "date": 1737825588,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2176,
+            "date": 1737825222,
+            "game": "https://www.chess.com/game/live/124911006995"
+        },
+        "record": {
+            "win": 24,
+            "loss": 54,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2265,
+            "date": 1741369093,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1707847926,
+            "game": "https://www.chess.com/game/live/134237956779"
+        },
+        "record": {
+            "win": 45,
+            "loss": 114,
+            "draw": 8
+        }
+    },
+    "fide": 2015,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1707074623
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1707074623
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,68 @@
+{
+    "player_id": 405909157,
+    "@id": "https://api.chess.com/pub/player/lancelot120376",
+    "url": "https://www.chess.com/member/Lancelot120376",
+    "name": "Lancelot von Naso",
+    "username": "lancelot120376",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741620284,
+    "joined": 1732911317,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2241,
+            "date": 1738705407,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1734567159,
+            "game": "https://www.chess.com/game/live/132107985139"
+        },
+        "record": {
+            "win": 147,
+            "loss": 173,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2515,
+            "date": 1741543452,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2560,
+            "date": 1738889120,
+            "game": "https://www.chess.com/game/live/130026008605"
+        },
+        "record": {
+            "win": 271,
+            "loss": 301,
+            "draw": 47
+        }
+    },
+    "fide": 2214,
+    "tactics": {
+        "highest": {
+            "rating": 2300,
+            "date": 1738437008
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1732911317
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 1,
+            "score": 0
+        }
+    }
+}

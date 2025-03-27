@@ -1,0 +1,122 @@
+{
+    "player_id": 2902707,
+    "@id": "https://api.chess.com/pub/player/noret",
+    "url": "https://www.chess.com/member/noret",
+    "name": "Truman Hoang",
+    "username": "noret",
+    "title": "NM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741621159,
+    "joined": 1276188129,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1990,
+            "date": 1717605306,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1415926393,
+            "game": "https://www.chess.com/game/daily/100469600"
+        },
+        "record": {
+            "win": 32,
+            "loss": 7,
+            "draw": 1,
+            "time_per_move": 108381,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1006,
+            "date": 1715358718,
+            "rd": 244
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1276188129,
+            "game": "https://www.chess.com/game/daily/647123637"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 108381,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2095,
+            "date": 1741530937,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2111,
+            "date": 1693751896,
+            "game": "https://www.chess.com/game/live/87179314237"
+        },
+        "record": {
+            "win": 404,
+            "loss": 218,
+            "draw": 25
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2031,
+            "date": 1689988099,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2072,
+            "date": 1528848639,
+            "game": "https://www.chess.com/game/live/2873976278"
+        },
+        "record": {
+            "win": 149,
+            "loss": 116,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2274,
+            "date": 1738692770,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2295,
+            "date": 1576553962,
+            "game": "https://www.chess.com/game/live/89595004589"
+        },
+        "record": {
+            "win": 563,
+            "loss": 450,
+            "draw": 45
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3606,
+            "date": 1723745163
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1300058980
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

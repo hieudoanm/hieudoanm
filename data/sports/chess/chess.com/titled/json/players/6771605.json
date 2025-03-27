@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6771605.5ee91645.200x200o.b126a2f585ed.jpeg",
+    "player_id": 6771605,
+    "@id": "https://api.chess.com/pub/player/abubakrtagelsir",
+    "url": "https://www.chess.com/member/abubakrtagelsir",
+    "name": "Abubaker Tagelsir",
+    "username": "abubakrtagelsir",
+    "title": "FM",
+    "followers": 430,
+    "country": "https://api.chess.com/pub/country/SD",
+    "location": "khartoum",
+    "last_online": 1741557634,
+    "joined": 1330211438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1758,
+            "date": 1706524251,
+            "rd": 261
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 9482,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2013,
+            "date": 1715688499,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2169,
+            "date": 1612815811,
+            "game": "https://www.chess.com/game/live/23293795479"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2158,
+            "date": 1739132352,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1494746757,
+            "game": "https://www.chess.com/game/live/5225975224"
+        },
+        "record": {
+            "win": 15120,
+            "loss": 16509,
+            "draw": 622
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2415,
+            "date": 1639507652,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2465,
+            "date": 1526562076,
+            "game": "https://www.chess.com/game/live/2917218517"
+        },
+        "record": {
+            "win": 7248,
+            "loss": 7626,
+            "draw": 726
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3202,
+            "date": 1709663741
+        },
+        "lowest": {
+            "rating": 2104,
+            "date": 1456514691
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

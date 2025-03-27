@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/170666705.62328a61.200x200o.199115e1cca6.jpg",
+    "player_id": 170666705,
+    "@id": "https://api.chess.com/pub/player/urano56",
+    "url": "https://www.chess.com/member/urano56",
+    "name": "Lucas Pereira Mendes Da Silva",
+    "username": "urano56",
+    "title": "NM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741636883,
+    "joined": 1643347773,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1205,
+            "date": 1737482096,
+            "rd": 226
+        },
+        "best": {
+            "rating": 1205,
+            "date": 1726181644,
+            "game": "https://www.chess.com/game/daily/690630565"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 63987,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2029,
+            "date": 1736380522,
+            "rd": 143
+        },
+        "best": {
+            "rating": 2029,
+            "date": 1728755332,
+            "game": "https://www.chess.com/game/live/52454985037"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2333,
+            "date": 1736360428,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1735155281,
+            "game": "https://www.chess.com/game/live/108960590063"
+        },
+        "record": {
+            "win": 135,
+            "loss": 32,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2463,
+            "date": 1741635598,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1737118110,
+            "game": "https://www.chess.com/game/live/127002016947"
+        },
+        "record": {
+            "win": 992,
+            "loss": 834,
+            "draw": 109
+        }
+    },
+    "fide": 2098,
+    "tactics": {
+        "highest": {
+            "rating": 2487,
+            "date": 1736713954
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1652527612
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

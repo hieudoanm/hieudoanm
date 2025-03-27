@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35740336.3de9cfbe.200x200o.bc06c3ce50f0.jpeg",
+    "player_id": 35740336,
+    "@id": "https://api.chess.com/pub/player/thalesbond92",
+    "url": "https://www.chess.com/member/thalesbond92",
+    "name": "Thales Bond Dias Ferreira",
+    "username": "thalesbond92",
+    "title": "NM",
+    "followers": 106,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Linhares, Espirito Santo",
+    "last_online": 1741208132,
+    "joined": 1495511012,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1093,
+            "date": 1647958940,
+            "rd": 345
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 5906,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2204,
+            "date": 1737596170,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1647453459,
+            "game": "https://www.chess.com/game/live/41191883745"
+        },
+        "record": {
+            "win": 53,
+            "loss": 29,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2000,
+            "date": 1738777001,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2010,
+            "date": 1738776587,
+            "game": "https://www.chess.com/game/live/132516010185"
+        },
+        "record": {
+            "win": 34,
+            "loss": 21,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2254,
+            "date": 1740673603,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2298,
+            "date": 1738709394,
+            "game": "https://www.chess.com/game/live/16771509311"
+        },
+        "record": {
+            "win": 940,
+            "loss": 882,
+            "draw": 143
+        }
+    },
+    "fide": 2086,
+    "tactics": {
+        "highest": {
+            "rating": 3117,
+            "date": 1734670410
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1495665043
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

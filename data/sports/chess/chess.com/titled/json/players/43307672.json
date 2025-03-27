@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43307672.4f753554.200x200o.d8ea967ef737.jpeg",
+    "player_id": 43307672,
+    "@id": "https://api.chess.com/pub/player/velemajstor767276",
+    "url": "https://www.chess.com/member/velemajstor767276",
+    "name": "Aleksandar Tomic",
+    "username": "velemajstor767276",
+    "title": "IM",
+    "followers": 221,
+    "country": "https://api.chess.com/pub/country/ME",
+    "location": "Niksic/Podgorica",
+    "last_online": 1741547787,
+    "joined": 1518542871,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2264,
+            "date": 1630762239,
+            "rd": 170
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1630589926,
+            "game": "https://www.chess.com/game/live/5302376036"
+        },
+        "record": {
+            "win": 9,
+            "loss": 4,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2437,
+            "date": 1588713095,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1522347542,
+            "game": "https://www.chess.com/game/live/3280736291"
+        },
+        "record": {
+            "win": 275,
+            "loss": 96,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1740955679,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2793,
+            "date": 1700051151,
+            "game": "https://www.chess.com/game/live/129472436127"
+        },
+        "record": {
+            "win": 4177,
+            "loss": 3996,
+            "draw": 407
+        }
+    },
+    "fide": 2415,
+    "tactics": {
+        "highest": {
+            "rating": 3472,
+            "date": 1713836085
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1520063070
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

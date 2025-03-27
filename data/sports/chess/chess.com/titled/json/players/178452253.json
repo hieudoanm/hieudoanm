@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/178452253.c345feba.200x200o.7777c48d42d2.webp",
+    "player_id": 178452253,
+    "@id": "https://api.chess.com/pub/player/attacks_hurricane",
+    "url": "https://www.chess.com/member/Attacks_Hurricane",
+    "name": "Velavaa Ragavesh",
+    "username": "attacks_hurricane",
+    "title": "CM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1740750728,
+    "joined": 1648566243,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2408,
+            "date": 1692949605,
+            "rd": 126
+        },
+        "best": {
+            "rating": 2408,
+            "date": 1692949605,
+            "game": "https://www.chess.com/game/live/74272452795"
+        },
+        "record": {
+            "win": 10,
+            "loss": 2,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2567,
+            "date": 1735023172,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1734351527,
+            "game": "https://www.chess.com/game/live/121102816235"
+        },
+        "record": {
+            "win": 955,
+            "loss": 748,
+            "draw": 97
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2476,
+            "date": 1735042148,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1724262872,
+            "game": "https://www.chess.com/game/live/117999035351"
+        },
+        "record": {
+            "win": 128,
+            "loss": 88,
+            "draw": 12
+        }
+    },
+    "fide": 2075,
+    "tactics": {
+        "highest": {
+            "rating": 3341,
+            "date": 1734867546
+        },
+        "lowest": {
+            "rating": 810,
+            "date": 1672498530
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 64
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "player_id": 402085637,
+    "@id": "https://api.chess.com/pub/player/bishoppairmasterr",
+    "url": "https://www.chess.com/member/BishopPairMasterr",
+    "name": "David Galstyan",
+    "username": "bishoppairmasterr",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1740146399,
+    "joined": 1731432085,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2105,
+            "date": 1732051845,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2418,
+            "date": 1736899400,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2579,
+            "date": 1732110542,
+            "game": "https://www.chess.com/game/live/127606839213"
+        },
+        "record": {
+            "win": 70,
+            "loss": 80,
+            "draw": 19
+        }
+    },
+    "fide": 2304,
+    "tactics": {
+        "highest": {
+            "rating": 2813,
+            "date": 1733241199
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1731432085
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

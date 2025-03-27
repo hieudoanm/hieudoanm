@@ -1,0 +1,85 @@
+{
+    "player_id": 1716018,
+    "@id": "https://api.chess.com/pub/player/aragon",
+    "url": "https://www.chess.com/member/Aragon",
+    "name": "Richard Persson",
+    "username": "aragon",
+    "title": "CM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/SE",
+    "location": "Malm\u00f6",
+    "last_online": 1741682863,
+    "joined": 1232193575,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2248,
+            "date": 1711732369,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2265,
+            "date": 1697751450,
+            "game": "https://www.chess.com/game/live/47508593857"
+        },
+        "record": {
+            "win": 31,
+            "loss": 16,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1840,
+            "date": 1629824156,
+            "rd": 189
+        },
+        "best": {
+            "rating": 2086,
+            "date": 1463240074,
+            "game": "https://www.chess.com/game/live/2153206541"
+        },
+        "record": {
+            "win": 343,
+            "loss": 242,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2278,
+            "date": 1741471125,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1734455070,
+            "game": "https://www.chess.com/game/live/53216450135"
+        },
+        "record": {
+            "win": 10675,
+            "loss": 7371,
+            "draw": 805
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2185,
+            "date": 1490343403
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1524584155
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

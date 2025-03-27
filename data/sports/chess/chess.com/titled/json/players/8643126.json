@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8643126.5759c46b.200x200o.30ce05f60b0e.jpeg",
+    "player_id": 8643126,
+    "@id": "https://api.chess.com/pub/player/maxz1996",
+    "url": "https://www.chess.com/member/maxz1996",
+    "name": "Max Zinski",
+    "username": "maxz1996",
+    "title": "NM",
+    "followers": 60,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1738518578,
+    "joined": 1345696520,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2046,
+            "date": 1716462428,
+            "rd": 234
+        },
+        "best": {
+            "rating": 2108,
+            "date": 1520713433,
+            "game": "https://www.chess.com/game/daily/228306564"
+        },
+        "record": {
+            "win": 14,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 28374,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1086,
+            "date": 1564208403,
+            "rd": 295
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1345696520,
+            "game": "https://www.chess.com/game/daily/224959672"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 28374,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1865,
+            "date": 1659769172,
+            "rd": 172
+        },
+        "best": {
+            "rating": 1973,
+            "date": 1619373850,
+            "game": "https://www.chess.com/game/live/13108348159"
+        },
+        "record": {
+            "win": 9,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2301,
+            "date": 1737778498,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2489,
+            "date": 1631682291,
+            "game": "https://www.chess.com/game/live/25420806211"
+        },
+        "record": {
+            "win": 2442,
+            "loss": 2605,
+            "draw": 207
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2241,
+            "date": 1737777945,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2348,
+            "date": 1728873283,
+            "game": "https://www.chess.com/game/live/31257618929"
+        },
+        "record": {
+            "win": 705,
+            "loss": 746,
+            "draw": 84
+        }
+    },
+    "fide": 2221,
+    "tactics": {
+        "highest": {
+            "rating": 3340,
+            "date": 1665328133
+        },
+        "lowest": {
+            "rating": 1384,
+            "date": 1369014412
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 28
+        }
+    }
+}

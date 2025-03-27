@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10361750.62318b0e.200x200o.db00bb21db2f.jpeg",
+    "player_id": 10361750,
+    "@id": "https://api.chess.com/pub/player/caradhrast",
+    "url": "https://www.chess.com/member/Caradhrast",
+    "name": "Levente Marosi",
+    "username": "caradhrast",
+    "title": "FM",
+    "followers": 89,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Kecskem\u00e9t",
+    "last_online": 1740841772,
+    "joined": 1357765836,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2251,
+            "date": 1737037177,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2302,
+            "date": 1475433900,
+            "game": "https://www.chess.com/game/daily/199059790"
+        },
+        "record": {
+            "win": 40,
+            "loss": 26,
+            "draw": 12,
+            "time_per_move": 87990,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2281,
+            "date": 1693250713,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1665867320,
+            "game": "https://www.chess.com/game/live/50445055439"
+        },
+        "record": {
+            "win": 78,
+            "loss": 38,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2595,
+            "date": 1741546314,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2745,
+            "date": 1709996235,
+            "game": "https://www.chess.com/game/live/111485552099"
+        },
+        "record": {
+            "win": 8164,
+            "loss": 8426,
+            "draw": 1344
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2575,
+            "date": 1741548044,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2732,
+            "date": 1712932676,
+            "game": "https://www.chess.com/game/live/108576670293"
+        },
+        "record": {
+            "win": 2519,
+            "loss": 2204,
+            "draw": 575
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3228,
+            "date": 1720476424
+        },
+        "lowest": {
+            "rating": 2160,
+            "date": 1467325293
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

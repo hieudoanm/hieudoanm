@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4166561.2d671317.200x200o.e96d99f81bbf.jpg",
+    "player_id": 4166561,
+    "@id": "https://api.chess.com/pub/player/heyerik",
+    "url": "https://www.chess.com/member/heyerik",
+    "name": "Erik Tkachenko",
+    "username": "heyerik",
+    "title": "NM",
+    "followers": 94,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741417237,
+    "joined": 1288051528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1756,
+            "date": 1729737235,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1759,
+            "date": 1588977504,
+            "game": "https://www.chess.com/game/daily/261592252"
+        },
+        "record": {
+            "win": 27,
+            "loss": 4,
+            "draw": 1,
+            "time_per_move": 23245,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2156,
+            "date": 1681988787,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1681148656,
+            "game": "https://www.chess.com/game/live/74883318895"
+        },
+        "record": {
+            "win": 24,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2583,
+            "date": 1738350586,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2589,
+            "date": 1737226230,
+            "game": "https://www.chess.com/game/live/130963803763"
+        },
+        "record": {
+            "win": 424,
+            "loss": 350,
+            "draw": 48
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2521,
+            "date": 1738706914,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1724793356,
+            "game": "https://www.chess.com/game/live/126397201471"
+        },
+        "record": {
+            "win": 264,
+            "loss": 196,
+            "draw": 22
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3034,
+            "date": 1724689110
+        },
+        "lowest": {
+            "rating": 1271,
+            "date": 1388966186
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

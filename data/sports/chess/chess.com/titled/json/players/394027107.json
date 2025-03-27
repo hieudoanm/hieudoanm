@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/394027107.a26a7503.200x200o.993b678e0ce7.png",
+    "player_id": 394027107,
+    "@id": "https://api.chess.com/pub/player/fajnafokaofficial",
+    "url": "https://www.chess.com/member/FajnaFokaofficial",
+    "name": "Bart\u0142omiej R\u00f3g",
+    "username": "fajnafokaofficial",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Chocian\u00f3w",
+    "last_online": 1741683522,
+    "joined": 1728212139,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2480,
+            "date": 1740784859,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1739643736,
+            "game": "https://www.chess.com/game/live/133382340137"
+        },
+        "record": {
+            "win": 128,
+            "loss": 156,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1740507035,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2631,
+            "date": 1738107877,
+            "game": "https://www.chess.com/game/live/128190038711"
+        },
+        "record": {
+            "win": 167,
+            "loss": 114,
+            "draw": 23
+        }
+    },
+    "fide": 2257,
+    "tactics": {
+        "highest": {
+            "rating": 3801,
+            "date": 1731797468
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728212139
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

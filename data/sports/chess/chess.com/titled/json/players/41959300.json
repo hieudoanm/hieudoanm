@@ -1,0 +1,85 @@
+{
+    "player_id": 41959300,
+    "@id": "https://api.chess.com/pub/player/bob_2004",
+    "url": "https://www.chess.com/member/Bob_2004",
+    "name": "Vadim Bobkov",
+    "username": "bob_2004",
+    "title": "FM",
+    "followers": 37,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741523733,
+    "joined": 1514992153,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1726859222,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2335,
+            "date": 1726857808,
+            "game": "https://www.chess.com/game/live/120592189253"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2722,
+            "date": 1735853284,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1675803334,
+            "game": "https://www.chess.com/game/live/112208479241"
+        },
+        "record": {
+            "win": 194,
+            "loss": 159,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2510,
+            "date": 1741268240,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2866,
+            "date": 1718571201,
+            "game": "https://www.chess.com/game/live/117927620163"
+        },
+        "record": {
+            "win": 1832,
+            "loss": 1511,
+            "draw": 275
+        }
+    },
+    "fide": 2341,
+    "tactics": {
+        "highest": {
+            "rating": 3659,
+            "date": 1673898129
+        },
+        "lowest": {
+            "rating": 815,
+            "date": 1547997398
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36959680.0d584711.200x200o.3c1422a769a4.jpeg",
+    "player_id": 36959680,
+    "@id": "https://api.chess.com/pub/player/kingcrusher275",
+    "url": "https://www.chess.com/member/KingCrusher275",
+    "name": "Milind Maiti",
+    "username": "kingcrusher275",
+    "title": "NM",
+    "followers": 96,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "California",
+    "last_online": 1741640749,
+    "joined": 1499799145,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1054,
+            "date": 1737405634,
+            "rd": 266
+        },
+        "best": {
+            "rating": 1054,
+            "date": 1737405634,
+            "game": "https://www.chess.com/game/daily/514531913"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 21933,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2152,
+            "date": 1736913793,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1613878808,
+            "game": "https://www.chess.com/game/live/6137362342"
+        },
+        "record": {
+            "win": 24,
+            "loss": 20,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2540,
+            "date": 1741244794,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2778,
+            "date": 1738306870,
+            "game": "https://www.chess.com/game/live/92634617011"
+        },
+        "record": {
+            "win": 739,
+            "loss": 907,
+            "draw": 103
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2642,
+            "date": 1741568633,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2697,
+            "date": 1737869684,
+            "game": "https://www.chess.com/game/live/76800789135"
+        },
+        "record": {
+            "win": 2521,
+            "loss": 2990,
+            "draw": 496
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3725,
+            "date": 1740774735
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1522035169
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

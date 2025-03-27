@@ -1,0 +1,85 @@
+{
+    "player_id": 13768588,
+    "@id": "https://api.chess.com/pub/player/dinamo81",
+    "url": "https://www.chess.com/member/Dinamo81",
+    "name": "Ardelean George-Catalin",
+    "username": "dinamo81",
+    "title": "IM",
+    "followers": 86,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Satu Mare",
+    "last_online": 1741701104,
+    "joined": 1380878257,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2151,
+            "date": 1591209822,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2182,
+            "date": 1591031714,
+            "game": "https://www.chess.com/game/live/4938368580"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2727,
+            "date": 1607800319,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2752,
+            "date": 1607799999,
+            "game": "https://www.chess.com/game/live/4956290603"
+        },
+        "record": {
+            "win": 152,
+            "loss": 107,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2774,
+            "date": 1741638400,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2783,
+            "date": 1734610396,
+            "game": "https://www.chess.com/game/live/14494137729"
+        },
+        "record": {
+            "win": 396,
+            "loss": 257,
+            "draw": 75
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2973,
+            "date": 1613411379
+        },
+        "lowest": {
+            "rating": 2013,
+            "date": 1556472565
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

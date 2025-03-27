@@ -1,0 +1,84 @@
+{
+    "player_id": 57352288,
+    "@id": "https://api.chess.com/pub/player/mr_asgharzadeh",
+    "url": "https://www.chess.com/member/mr_asgharzadeh",
+    "name": "M.reza Asgharzadeh",
+    "username": "mr_asgharzadeh",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1704971393,
+    "joined": 1550157264,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2343,
+            "date": 1586112882,
+            "rd": 220
+        },
+        "best": {
+            "rating": 2343,
+            "date": 1586112882,
+            "game": "https://www.chess.com/game/live/4683185874"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2158,
+            "date": 1586113252,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1567941512,
+            "game": "https://www.chess.com/game/live/4015408552"
+        },
+        "record": {
+            "win": 14,
+            "loss": 15,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2266,
+            "date": 1586199922,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2461,
+            "date": 1567941799,
+            "game": "https://www.chess.com/game/live/4683014845"
+        },
+        "record": {
+            "win": 5,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2190,
+            "date": 1567941282
+        },
+        "lowest": {
+            "rating": 2190,
+            "date": 1555068153
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "player_id": 317064205,
+    "@id": "https://api.chess.com/pub/player/dontcatchmeifyoucant",
+    "url": "https://www.chess.com/member/dontcatchmeifyoucant",
+    "name": "Marina Kuznetsova",
+    "username": "dontcatchmeifyoucant",
+    "title": "WFM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u0421\u043f\u0431",
+    "last_online": 1741164619,
+    "joined": 1696352016,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2052,
+            "date": 1706455941,
+            "rd": 249
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2286,
+            "date": 1713979967,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2286,
+            "date": 1713979737,
+            "game": "https://www.chess.com/game/live/107432544393"
+        },
+        "record": {
+            "win": 18,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2446,
+            "date": 1715790143,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2452,
+            "date": 1715700047,
+            "game": "https://www.chess.com/game/live/109438318033"
+        },
+        "record": {
+            "win": 25,
+            "loss": 33,
+            "draw": 6
+        }
+    },
+    "fide": 2052,
+    "tactics": {
+        "highest": {
+            "rating": 3600,
+            "date": 1740414609
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1696352016
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

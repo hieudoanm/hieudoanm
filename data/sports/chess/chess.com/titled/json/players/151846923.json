@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/151846923.7bda817f.200x200o.23c707ec536a.jpg",
+    "player_id": 151846923,
+    "@id": "https://api.chess.com/pub/player/ouaret_abdelouhab",
+    "url": "https://www.chess.com/member/ouaret_abdelouhab",
+    "name": "abdelouhab ouaret",
+    "username": "ouaret_abdelouhab",
+    "title": "IM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/DZ",
+    "last_online": 1738185516,
+    "joined": 1629535065,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1601,
+            "date": 1684945664,
+            "rd": 349
+        },
+        "best": {
+            "rating": 1601,
+            "date": 1684945664,
+            "game": "https://www.chess.com/game/daily/513085355"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 159930,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2053,
+            "date": 1683652361,
+            "rd": 168
+        },
+        "best": {
+            "rating": 2297,
+            "date": 1683491927,
+            "game": "https://www.chess.com/game/live/24510167069"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2029,
+            "date": 1723672458,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2157,
+            "date": 1718923945,
+            "game": "https://www.chess.com/game/live/117073205153"
+        },
+        "record": {
+            "win": 107,
+            "loss": 92,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2266,
+            "date": 1725021066,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2344,
+            "date": 1698863562,
+            "game": "https://www.chess.com/game/live/92535626827"
+        },
+        "record": {
+            "win": 250,
+            "loss": 170,
+            "draw": 39
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2856,
+            "date": 1700223488
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1629535065
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 38
+        }
+    }
+}

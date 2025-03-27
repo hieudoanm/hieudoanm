@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/149165299.5323fbe1.200x200o.5b78d71f695c.jpeg",
+    "player_id": 149165299,
+    "@id": "https://api.chess.com/pub/player/the_impost0r",
+    "url": "https://www.chess.com/member/The_Impost0r",
+    "username": "the_impost0r",
+    "title": "GM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/TT",
+    "last_online": 1682093531,
+    "joined": 1627342223,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2955,
+            "date": 1651183603,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2955,
+            "date": 1651183603,
+            "game": "https://www.chess.com/game/live/40763970365"
+        },
+        "record": {
+            "win": 20,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3064,
+            "date": 1682114859,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3064,
+            "date": 1682114859,
+            "game": "https://www.chess.com/game/live/75849593909"
+        },
+        "record": {
+            "win": 344,
+            "loss": 196,
+            "draw": 62
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3408,
+            "date": 1670648756
+        },
+        "lowest": {
+            "rating": 2205,
+            "date": 1627431097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

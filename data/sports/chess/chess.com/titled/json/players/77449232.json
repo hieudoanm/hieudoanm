@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77449232.ad2aa900.200x200o.727fe2d70f07.jpeg",
+    "player_id": 77449232,
+    "@id": "https://api.chess.com/pub/player/wiselife66",
+    "url": "https://www.chess.com/member/WiseLife66",
+    "name": "Brian Dinter",
+    "username": "wiselife66",
+    "title": "NM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/HR",
+    "last_online": 1735383173,
+    "joined": 1587533409,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2147,
+            "date": 1638555666,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2147,
+            "date": 1638555666,
+            "game": "https://www.chess.com/game/live/20281858733"
+        },
+        "record": {
+            "win": 60,
+            "loss": 18,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1979,
+            "date": 1727885157,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1987,
+            "date": 1727603044,
+            "game": "https://www.chess.com/game/live/121173610127"
+        },
+        "record": {
+            "win": 48,
+            "loss": 33,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2292,
+            "date": 1672762025,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2308,
+            "date": 1658166833,
+            "game": "https://www.chess.com/game/live/51905457957"
+        },
+        "record": {
+            "win": 272,
+            "loss": 184,
+            "draw": 51
+        }
+    },
+    "fide": 2208,
+    "tactics": {
+        "highest": {
+            "rating": 3110,
+            "date": 1713552741
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1594702066
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

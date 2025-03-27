@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44193332.e310a64c.200x200o.4e0f96e95599.jpeg",
+    "player_id": 44193332,
+    "@id": "https://api.chess.com/pub/player/karpovvadim",
+    "url": "https://www.chess.com/member/KarpovVadim",
+    "name": "\u0412\u0430\u0434\u0438\u043c \u041a\u0430\u0440\u043f\u043e\u0432",
+    "username": "karpovvadim",
+    "title": "IM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u041e\u0434\u0438\u043d\u0446\u043e\u0432\u043e",
+    "last_online": 1726294912,
+    "joined": 1520855980,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1637,
+            "date": 1720736489,
+            "rd": 225
+        },
+        "best": {
+            "rating": 1866,
+            "date": 1586535259,
+            "game": "https://www.chess.com/game/live/4744222139"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2295,
+            "date": 1725867237,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2355,
+            "date": 1725444920,
+            "game": "https://www.chess.com/game/live/117757796379"
+        },
+        "record": {
+            "win": 147,
+            "loss": 101,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2445,
+            "date": 1741654180,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2685,
+            "date": 1720287156,
+            "game": "https://www.chess.com/game/live/114526129669"
+        },
+        "record": {
+            "win": 1183,
+            "loss": 994,
+            "draw": 310
+        }
+    },
+    "fide": 2338,
+    "tactics": {
+        "highest": {
+            "rating": 1261,
+            "date": 1578650390
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1546024514
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

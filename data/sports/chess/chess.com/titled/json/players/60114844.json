@@ -1,0 +1,84 @@
+{
+    "player_id": 60114844,
+    "@id": "https://api.chess.com/pub/player/knightoutpostop",
+    "url": "https://www.chess.com/member/KnightOutpostOP",
+    "name": "Adam Gaisinsky",
+    "username": "knightoutpostop",
+    "title": "CM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741654519,
+    "joined": 1555945884,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1916,
+            "date": 1717270505,
+            "rd": 223
+        },
+        "best": {
+            "rating": 1916,
+            "date": 1717270505,
+            "game": "https://www.chess.com/game/live/111007213681"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2576,
+            "date": 1741654742,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1739399645,
+            "game": "https://www.chess.com/game/live/36557407267"
+        },
+        "record": {
+            "win": 216,
+            "loss": 243,
+            "draw": 30
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2415,
+            "date": 1741653596,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2510,
+            "date": 1659196786,
+            "game": "https://www.chess.com/game/live/68057171121"
+        },
+        "record": {
+            "win": 1705,
+            "loss": 1919,
+            "draw": 259
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3016,
+            "date": 1655248440
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1555986601
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

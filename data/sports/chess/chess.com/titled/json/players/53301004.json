@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/53301004.f63eb6a1.200x200o.3d3eecc204f0.jpeg",
+    "player_id": 53301004,
+    "@id": "https://api.chess.com/pub/player/czechmviii",
+    "url": "https://www.chess.com/member/CzechmVIII",
+    "name": "Mark Dejmek",
+    "username": "czechmviii",
+    "title": "NM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741183642,
+    "joined": 1544914740,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2318,
+            "date": 1663514296,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1663514296,
+            "game": "https://www.chess.com/game/live/5626393142"
+        },
+        "record": {
+            "win": 3014,
+            "loss": 1509,
+            "draw": 408
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2214,
+            "date": 1741215606,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2396,
+            "date": 1732985130,
+            "game": "https://www.chess.com/game/live/6216277257"
+        },
+        "record": {
+            "win": 7901,
+            "loss": 5771,
+            "draw": 1784
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3354,
+            "date": 1676303916
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1544914878
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

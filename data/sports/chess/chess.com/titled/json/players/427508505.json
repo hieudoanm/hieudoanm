@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/427508505.adc9d1ac.200x200o.44e32e39d476.jpg",
+    "player_id": 427508505,
+    "@id": "https://api.chess.com/pub/player/pizzalover2502",
+    "url": "https://www.chess.com/member/Pizzalover2502",
+    "name": "Anton Karpenko",
+    "username": "pizzalover2502",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741598856,
+    "joined": 1739019777,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2207,
+            "date": 1739776215,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1739776215,
+            "game": "https://www.chess.com/game/live/133296584581"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2327,
+            "date": 1741100382,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1740849794,
+            "game": "https://www.chess.com/game/live/134588360705"
+        },
+        "record": {
+            "win": 47,
+            "loss": 22,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2601,
+            "date": 1741111752,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1739291410,
+            "game": "https://www.chess.com/game/live/134238558657"
+        },
+        "record": {
+            "win": 23,
+            "loss": 21,
+            "draw": 4
+        }
+    },
+    "fide": 2207,
+    "tactics": {
+        "highest": {
+            "rating": 2317,
+            "date": 1741109870
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1739019777
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

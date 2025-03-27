@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1928065.cb691688.200x200o.fa584c425535.jpeg",
+    "player_id": 1928065,
+    "@id": "https://api.chess.com/pub/player/sailorknight",
+    "url": "https://www.chess.com/member/sailorknight",
+    "name": "Peter Dyson",
+    "username": "sailorknight",
+    "title": "NM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741188061,
+    "joined": 1242790363,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1938,
+            "date": 1701976829,
+            "rd": 326
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1623688802,
+            "game": "https://www.chess.com/game/daily/63368524"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 45565,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2055,
+            "date": 1711312475,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2124,
+            "date": 1696798479,
+            "game": "https://www.chess.com/game/live/105049954019"
+        },
+        "record": {
+            "win": 38,
+            "loss": 15,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1463,
+            "date": 1732912105,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1548384390,
+            "game": "https://www.chess.com/game/live/4607109948"
+        },
+        "record": {
+            "win": 1116,
+            "loss": 1165,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1652,
+            "date": 1741700841,
+            "rd": 24
+        },
+        "best": {
+            "rating": 1964,
+            "date": 1417237578,
+            "game": "https://www.chess.com/game/live/81231695221"
+        },
+        "record": {
+            "win": 15671,
+            "loss": 14443,
+            "draw": 1037
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3260,
+            "date": 1710702300
+        },
+        "lowest": {
+            "rating": 1116,
+            "date": 1244409672
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

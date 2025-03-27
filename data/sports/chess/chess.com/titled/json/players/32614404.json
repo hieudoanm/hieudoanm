@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32614404.17f6b098.200x200o.e078e6fa79ac.jpeg",
+    "player_id": 32614404,
+    "@id": "https://api.chess.com/pub/player/andrei_skvortsov",
+    "url": "https://www.chess.com/member/Andrei_Skvortsov",
+    "name": "Andrei Skvortsov",
+    "username": "andrei_skvortsov",
+    "title": "CM",
+    "followers": 117,
+    "country": "https://api.chess.com/pub/country/ME",
+    "location": "Budva",
+    "last_online": 1741473030,
+    "joined": 1485192012,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1987,
+            "date": 1662156149,
+            "rd": 189
+        },
+        "best": {
+            "rating": 2076,
+            "date": 1551368373,
+            "game": "https://www.chess.com/game/live/55895010833"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2770,
+            "date": 1738130080,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2914,
+            "date": 1700486953,
+            "game": "https://www.chess.com/game/live/131868573975"
+        },
+        "record": {
+            "win": 2311,
+            "loss": 1766,
+            "draw": 235
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2737,
+            "date": 1741473343,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2938,
+            "date": 1738226896,
+            "game": "https://www.chess.com/game/live/125914751711"
+        },
+        "record": {
+            "win": 7174,
+            "loss": 6505,
+            "draw": 1468
+        }
+    },
+    "fide": 2321,
+    "tactics": {
+        "highest": {
+            "rating": 1850,
+            "date": 1618234287
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1507746700
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 43
+        }
+    }
+}

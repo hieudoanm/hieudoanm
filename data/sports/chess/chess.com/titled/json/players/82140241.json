@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/82140241.edb3a330.200x200o.e6082440c7d5.jpg",
+    "player_id": 82140241,
+    "@id": "https://api.chess.com/pub/player/enismetin34",
+    "url": "https://www.chess.com/member/EnisMetin34",
+    "name": "Enis Metin",
+    "username": "enismetin34",
+    "title": "NM",
+    "followers": 148,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1739550287,
+    "joined": 1591801595,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2338,
+            "date": 1738655228,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2358,
+            "date": 1643916357,
+            "game": "https://www.chess.com/game/live/53371237699"
+        },
+        "record": {
+            "win": 290,
+            "loss": 177,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2482,
+            "date": 1729102296,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1729020085,
+            "game": "https://www.chess.com/game/live/122336340925"
+        },
+        "record": {
+            "win": 728,
+            "loss": 444,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2588,
+            "date": 1732053877,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2645,
+            "date": 1727818022,
+            "game": "https://www.chess.com/game/live/38770188295"
+        },
+        "record": {
+            "win": 2046,
+            "loss": 1420,
+            "draw": 154
+        }
+    },
+    "fide": 2142,
+    "tactics": {
+        "highest": {
+            "rating": 3667,
+            "date": 1728353024
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1635979593
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2508266.479f50ea.200x200o.e34cf16172a6.jpg",
+    "player_id": 2508266,
+    "@id": "https://api.chess.com/pub/player/abuhanan",
+    "url": "https://www.chess.com/member/abuhanan",
+    "name": "ali alghasra",
+    "username": "abuhanan",
+    "title": "CM",
+    "followers": 618,
+    "country": "https://api.chess.com/pub/country/BH",
+    "location": "manama",
+    "last_online": 1741687827,
+    "joined": 1264867633,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1730752724,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 1213400,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2212,
+            "date": 1718703106,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2212,
+            "date": 1718703106,
+            "game": "https://www.chess.com/game/live/112441225537"
+        },
+        "record": {
+            "win": 105,
+            "loss": 54,
+            "draw": 21
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1690,
+            "date": 1741463397,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1595790529,
+            "game": "https://www.chess.com/game/live/6471447745"
+        },
+        "record": {
+            "win": 19818,
+            "loss": 20536,
+            "draw": 687
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2005,
+            "date": 1741688449,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2122,
+            "date": 1686433818,
+            "game": "https://www.chess.com/game/live/59931664075"
+        },
+        "record": {
+            "win": 19616,
+            "loss": 18615,
+            "draw": 2002
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3106,
+            "date": 1701939678
+        },
+        "lowest": {
+            "rating": 1366,
+            "date": 1539331489
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 22,
+            "score": 21
+        }
+    }
+}

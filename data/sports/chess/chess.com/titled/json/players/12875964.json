@@ -1,0 +1,128 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12875964.ff07ffdc.200x200o.61919491bb7f.jpg",
+    "player_id": 12875964,
+    "@id": "https://api.chess.com/pub/player/jem",
+    "url": "https://www.chess.com/member/Jem",
+    "name": "Jem Gurner",
+    "username": "jem",
+    "title": "CM",
+    "followers": 79,
+    "country": "https://api.chess.com/pub/country/JE",
+    "last_online": 1741633695,
+    "joined": 1374783601,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1984,
+            "date": 1741700598,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2008,
+            "date": 1735155521,
+            "game": "https://www.chess.com/game/daily/622227959"
+        },
+        "record": {
+            "win": 164,
+            "loss": 56,
+            "draw": 17,
+            "time_per_move": 65752,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1346,
+            "date": 1477474737,
+            "rd": 290
+        },
+        "best": {
+            "rating": 1346,
+            "date": 1477474737,
+            "game": "https://www.chess.com/game/daily/140144390"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 65752,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2172,
+            "date": 1741274951,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2209,
+            "date": 1696791350,
+            "game": "https://www.chess.com/game/live/95347737901"
+        },
+        "record": {
+            "win": 79,
+            "loss": 42,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2246,
+            "date": 1741275297,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2291,
+            "date": 1726687832,
+            "game": "https://www.chess.com/game/live/70992531729"
+        },
+        "record": {
+            "win": 1701,
+            "loss": 1178,
+            "draw": 177
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2212,
+            "date": 1741634086,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2279,
+            "date": 1735068290,
+            "game": "https://www.chess.com/game/live/87740513801"
+        },
+        "record": {
+            "win": 4930,
+            "loss": 4542,
+            "draw": 549
+        }
+    },
+    "fide": 1927,
+    "tactics": {
+        "highest": {
+            "rating": 3175,
+            "date": 1727088234
+        },
+        "lowest": {
+            "rating": 899,
+            "date": 1374851346
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        },
+        "daily": {
+            "total_attempts": 22,
+            "score": 20
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/87244884.5db06f2c.200x200o.82bf1bc1ad9c.jpg",
+    "player_id": 87244884,
+    "@id": "https://api.chess.com/pub/player/dominator811",
+    "url": "https://www.chess.com/member/dominator811",
+    "name": "Erik Golubovic",
+    "username": "dominator811",
+    "title": "CM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1741608223,
+    "joined": 1595348321,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2126,
+            "date": 1734875277,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1601813067,
+            "game": "https://www.chess.com/game/live/5536386320"
+        },
+        "record": {
+            "win": 52,
+            "loss": 17,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2414,
+            "date": 1741460419,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2502,
+            "date": 1739038610,
+            "game": "https://www.chess.com/game/live/131568621413"
+        },
+        "record": {
+            "win": 916,
+            "loss": 685,
+            "draw": 89
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2385,
+            "date": 1741540284,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2469,
+            "date": 1723026024,
+            "game": "https://www.chess.com/game/live/115491569131"
+        },
+        "record": {
+            "win": 485,
+            "loss": 273,
+            "draw": 67
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3318,
+            "date": 1732962507
+        },
+        "lowest": {
+            "rating": 401,
+            "date": 1595348474
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

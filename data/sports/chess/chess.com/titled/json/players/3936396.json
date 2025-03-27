@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3936396.1f0404be.200x200o.0796b91d5d58.jpeg",
+    "player_id": 3936396,
+    "@id": "https://api.chess.com/pub/player/ankit_chessneurons",
+    "url": "https://www.chess.com/member/Ankit_ChessNeurons",
+    "name": "Ankit Rajpara",
+    "username": "ankit_chessneurons",
+    "title": "GM",
+    "followers": 228,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1733199605,
+    "joined": 1283755692,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2052,
+            "date": 1584514894,
+            "rd": 313
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1410717593,
+            "game": "https://www.chess.com/game/daily/95930274"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 492,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2245,
+            "date": 1609701782,
+            "rd": 216
+        },
+        "best": {
+            "rating": 2476,
+            "date": 1586998867,
+            "game": "https://www.chess.com/game/live/4727891592"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2765,
+            "date": 1695229829,
+            "rd": 121
+        },
+        "best": {
+            "rating": 2809,
+            "date": 1618236375,
+            "game": "https://www.chess.com/game/live/11975613235"
+        },
+        "record": {
+            "win": 86,
+            "loss": 58,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2720,
+            "date": 1731435085,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2739,
+            "date": 1731430518,
+            "game": "https://www.chess.com/game/live/4720866400"
+        },
+        "record": {
+            "win": 57,
+            "loss": 21,
+            "draw": 17
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3061,
+            "date": 1651857630
+        },
+        "lowest": {
+            "rating": 2157,
+            "date": 1409976723
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

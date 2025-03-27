@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31585292.db6a5b55.200x200o.a86418a74786.jpeg",
+    "player_id": 31585292,
+    "@id": "https://api.chess.com/pub/player/algeriano22",
+    "url": "https://www.chess.com/member/Algeriano22",
+    "name": "Mohamed Haddouche",
+    "username": "algeriano22",
+    "title": "GM",
+    "followers": 680,
+    "country": "https://api.chess.com/pub/country/DZ",
+    "location": "Sidi Bel abbes",
+    "last_online": 1732112173,
+    "joined": 1481619746,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2709,
+            "date": 1675201630,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2752,
+            "date": 1674944473,
+            "game": "https://www.chess.com/game/live/45071470705"
+        },
+        "record": {
+            "win": 599,
+            "loss": 462,
+            "draw": 49
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2655,
+            "date": 1722463147,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2794,
+            "date": 1651434539,
+            "game": "https://www.chess.com/game/live/39219548803"
+        },
+        "record": {
+            "win": 2225,
+            "loss": 2372,
+            "draw": 462
+        }
+    },
+    "fide": 2490,
+    "tactics": {
+        "highest": {
+            "rating": 3219,
+            "date": 1708534620
+        },
+        "lowest": {
+            "rating": 1244,
+            "date": 1481659912
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 34
+        }
+    }
+}

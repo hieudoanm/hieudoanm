@@ -1,0 +1,84 @@
+{
+    "player_id": 47031954,
+    "@id": "https://api.chess.com/pub/player/junglehook",
+    "url": "https://www.chess.com/member/JungleHook",
+    "username": "junglehook",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741577982,
+    "joined": 1528811013,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2008,
+            "date": 1732653342,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2008,
+            "date": 1732653342,
+            "game": "https://www.chess.com/game/live/126390585827"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2505,
+            "date": 1738674976,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2515,
+            "date": 1734615478,
+            "game": "https://www.chess.com/game/live/126390031779"
+        },
+        "record": {
+            "win": 381,
+            "loss": 262,
+            "draw": 55
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2472,
+            "date": 1644874102,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1644874102,
+            "game": "https://www.chess.com/game/live/36871317847"
+        },
+        "record": {
+            "win": 647,
+            "loss": 525,
+            "draw": 107
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2069,
+            "date": 1591824915
+        },
+        "lowest": {
+            "rating": 2003,
+            "date": 1548715878
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

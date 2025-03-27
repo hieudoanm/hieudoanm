@@ -1,0 +1,84 @@
+{
+    "player_id": 354826431,
+    "@id": "https://api.chess.com/pub/player/chera_chola_pandya_in2024",
+    "url": "https://www.chess.com/member/Chera_Chola_Pandya_in2024",
+    "name": "Aakash G",
+    "username": "chera_chola_pandya_in2024",
+    "title": "FM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741245494,
+    "joined": 1712156181,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2247,
+            "date": 1734100521,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2255,
+            "date": 1732793775,
+            "game": "https://www.chess.com/game/live/126531601735"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2478,
+            "date": 1741368207,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2546,
+            "date": 1722181270,
+            "game": "https://www.chess.com/game/live/115920055133"
+        },
+        "record": {
+            "win": 31,
+            "loss": 28,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2553,
+            "date": 1737286024
+        },
+        "best": {
+            "rating": 2781,
+            "date": 1721366208,
+            "game": "https://www.chess.com/game/live/111256311751"
+        },
+        "record": {
+            "win": 188,
+            "loss": 152,
+            "draw": 20
+        }
+    },
+    "fide": 2320,
+    "tactics": {
+        "highest": {
+            "rating": 3664,
+            "date": 1731414586
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1712156181
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

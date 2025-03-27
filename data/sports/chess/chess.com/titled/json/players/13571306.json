@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13571306.43ffda74.200x200o.757d25735f42.jpeg",
+    "player_id": 13571306,
+    "@id": "https://api.chess.com/pub/player/krstulov_alex",
+    "url": "https://www.chess.com/member/krstulov_alex",
+    "name": "Alex Krstulovic",
+    "username": "krstulov_alex",
+    "title": "IM",
+    "followers": 212,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Budapest, Hungary",
+    "last_online": 1741541152,
+    "joined": 1379503119,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1450,
+            "date": 1632040090,
+            "rd": 150
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1387052059,
+            "game": "https://www.chess.com/game/daily/84968304"
+        },
+        "record": {
+            "win": 19,
+            "loss": 36,
+            "draw": 5,
+            "time_per_move": 62844,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1386081144,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 62844,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2178,
+            "date": 1741545489,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2167,
+            "date": 1731871053,
+            "game": "https://www.chess.com/game/live/114705524689"
+        },
+        "record": {
+            "win": 37,
+            "loss": 19,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2621,
+            "date": 1735645552,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2826,
+            "date": 1690830344,
+            "game": "https://www.chess.com/game/live/36088225853"
+        },
+        "record": {
+            "win": 2363,
+            "loss": 1838,
+            "draw": 277
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2642,
+            "date": 1741364976,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1595874729,
+            "game": "https://www.chess.com/game/live/105809489161"
+        },
+        "record": {
+            "win": 827,
+            "loss": 676,
+            "draw": 141
+        }
+    },
+    "fide": 2423,
+    "tactics": {
+        "highest": {
+            "rating": 3298,
+            "date": 1692531175
+        },
+        "lowest": {
+            "rating": 1391,
+            "date": 1477999098
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        },
+        "daily": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1978489.230dd2c0.200x200o.6b4d0c60a6a4.jpeg",
+    "player_id": 1978489,
+    "@id": "https://api.chess.com/pub/player/kensei26",
+    "url": "https://www.chess.com/member/Kensei26",
+    "name": "Robert Akopian",
+    "username": "kensei26",
+    "title": "NM",
+    "followers": 142,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Los Angeles",
+    "last_online": 1741646415,
+    "joined": 1245210256,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 791,
+            "date": 1740625505,
+            "rd": 144
+        },
+        "best": {
+            "rating": 1583,
+            "date": 1425181299,
+            "game": "https://www.chess.com/game/live/64290666559"
+        },
+        "record": {
+            "win": 32,
+            "loss": 47,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2393,
+            "date": 1741136595,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1738924462,
+            "game": "https://www.chess.com/game/live/944227530"
+        },
+        "record": {
+            "win": 801,
+            "loss": 772,
+            "draw": 95
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2403,
+            "date": 1741671270,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1738465541,
+            "game": "https://www.chess.com/game/live/126165557691"
+        },
+        "record": {
+            "win": 8030,
+            "loss": 7755,
+            "draw": 1605
+        }
+    },
+    "fide": 2265,
+    "tactics": {
+        "highest": {
+            "rating": 1893,
+            "date": 1644370190
+        },
+        "lowest": {
+            "rating": 1526,
+            "date": 1455843841
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45410366.df2769e8.200x200o.e6799f2d04bb.jpeg",
+    "player_id": 45410366,
+    "@id": "https://api.chess.com/pub/player/kobalia",
+    "url": "https://www.chess.com/member/Kobalia",
+    "name": "Mikhail Kobalia",
+    "username": "kobalia",
+    "title": "GM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741457581,
+    "joined": 1524049568,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2435,
+            "date": 1739820143,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1601105996,
+            "game": "https://www.chess.com/game/live/121023009053"
+        },
+        "record": {
+            "win": 31,
+            "loss": 28,
+            "draw": 26
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2541,
+            "date": 1728681466,
+            "rd": 159
+        },
+        "best": {
+            "rating": 2541,
+            "date": 1728681466,
+            "game": "https://www.chess.com/game/live/122420084359"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2778,
+            "date": 1741365569,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2862,
+            "date": 1645571908,
+            "game": "https://www.chess.com/game/live/37492886547"
+        },
+        "record": {
+            "win": 794,
+            "loss": 401,
+            "draw": 157
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2407,
+            "date": 1587037293
+        },
+        "lowest": {
+            "rating": 2381,
+            "date": 1587327801
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 51
+        }
+    }
+}

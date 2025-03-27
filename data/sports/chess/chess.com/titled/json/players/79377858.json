@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79377858.f672f63f.200x200o.a14a2cc7dcc6.jpg",
+    "player_id": 79377858,
+    "@id": "https://api.chess.com/pub/player/ucitelot",
+    "url": "https://www.chess.com/member/Ucitelot",
+    "name": "Zvonko Stanojoski",
+    "username": "ucitelot",
+    "title": "GM",
+    "followers": 731,
+    "country": "https://api.chess.com/pub/country/MK",
+    "last_online": 1741703253,
+    "joined": 1589375028,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2517,
+            "date": 1737055045,
+            "rd": 333
+        },
+        "best": {
+            "rating": 2517,
+            "date": 1663744543,
+            "game": "https://www.chess.com/game/live/57483400557"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2554,
+            "date": 1657669950,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1657669757,
+            "game": "https://www.chess.com/game/live/50878256459"
+        },
+        "record": {
+            "win": 15,
+            "loss": 5,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2607,
+            "date": 1741700952,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2683,
+            "date": 1735594668,
+            "game": "https://www.chess.com/game/live/52009233673"
+        },
+        "record": {
+            "win": 11711,
+            "loss": 5800,
+            "draw": 2416
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3685,
+            "date": 1725048600
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1592081018
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 33
+        }
+    }
+}

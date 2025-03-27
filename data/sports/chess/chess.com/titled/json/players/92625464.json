@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/92625464.e5ed866d.200x200o.f57199edfca7.jpeg",
+    "player_id": 92625464,
+    "@id": "https://api.chess.com/pub/player/thandaaw",
+    "url": "https://www.chess.com/member/ThandaAW",
+    "name": "Thandar Aye Win",
+    "username": "thandaaw",
+    "title": "WFM",
+    "followers": 69,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741613823,
+    "joined": 1602035880,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1819,
+            "date": 1741603520,
+            "rd": 115
+        },
+        "best": {
+            "rating": 1931,
+            "date": 1627209509,
+            "game": "https://www.chess.com/game/live/39978637243"
+        },
+        "record": {
+            "win": 363,
+            "loss": 12,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1681,
+            "date": 1741602302,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1909,
+            "date": 1622175874,
+            "game": "https://www.chess.com/game/live/27361787501"
+        },
+        "record": {
+            "win": 336,
+            "loss": 255,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1999,
+            "date": 1739386735,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2109,
+            "date": 1603559549,
+            "game": "https://www.chess.com/game/live/5629605889"
+        },
+        "record": {
+            "win": 36,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2885,
+            "date": 1740988030
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1603470817
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

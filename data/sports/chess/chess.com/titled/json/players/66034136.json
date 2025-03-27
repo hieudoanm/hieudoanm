@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66034136.0126ed3e.200x200o.4c3fcf672cd5.jpeg",
+    "player_id": 66034136,
+    "@id": "https://api.chess.com/pub/player/cathateme",
+    "url": "https://www.chess.com/member/CatHateMe",
+    "name": "\ud83d\udc1f\ud83e\udd88\ud83d\udc20\ud83e\udd88\ud83d\udc21\ud83e\udd88",
+    "username": "cathateme",
+    "title": "WCM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/FI",
+    "location": "Helsinki",
+    "last_online": 1741505608,
+    "joined": 1569669271,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1741,
+            "date": 1731839806,
+            "rd": 87
+        },
+        "best": {
+            "rating": 1741,
+            "date": 1731839806,
+            "game": "https://www.chess.com/game/daily/668627423"
+        },
+        "record": {
+            "win": 40,
+            "loss": 26,
+            "draw": 2,
+            "time_per_move": 20304,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2108,
+            "date": 1708770498,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2108,
+            "date": 1708770498,
+            "game": "https://www.chess.com/game/live/95241032683"
+        },
+        "record": {
+            "win": 610,
+            "loss": 507,
+            "draw": 63
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1802,
+            "date": 1740818655,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2081,
+            "date": 1707736261,
+            "game": "https://www.chess.com/game/live/101472677997"
+        },
+        "record": {
+            "win": 5214,
+            "loss": 5230,
+            "draw": 394
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1928,
+            "date": 1741675941,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2042,
+            "date": 1724103661,
+            "game": "https://www.chess.com/game/live/100172532019"
+        },
+        "record": {
+            "win": 2796,
+            "loss": 2999,
+            "draw": 228
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3062,
+            "date": 1734079247
+        },
+        "lowest": {
+            "rating": 753,
+            "date": 1577437474
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

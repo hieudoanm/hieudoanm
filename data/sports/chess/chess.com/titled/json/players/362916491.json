@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/362916491.39ba6690.200x200o.e2d9c1d1670f.png",
+    "player_id": 362916491,
+    "@id": "https://api.chess.com/pub/player/jkxkvs",
+    "url": "https://www.chess.com/member/JKXKVS",
+    "username": "jkxkvs",
+    "title": "GM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1718561417,
+    "joined": 1715608995,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2524,
+            "date": 1718563041,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1718562911,
+            "game": "https://www.chess.com/game/live/112301401283"
+        },
+        "record": {
+            "win": 37,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2687,
+            "date": 1718561843,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2696,
+            "date": 1718561676,
+            "game": "https://www.chess.com/game/live/112212697355"
+        },
+        "record": {
+            "win": 41,
+            "loss": 9,
+            "draw": 4
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1129,
+            "date": 1716581053
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1715608995
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 16,
+            "score": 13
+        }
+    }
+}

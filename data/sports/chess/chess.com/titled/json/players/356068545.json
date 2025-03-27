@@ -1,0 +1,50 @@
+{
+    "player_id": 356068545,
+    "@id": "https://api.chess.com/pub/player/tessierolivier",
+    "url": "https://www.chess.com/member/TessierOlivier",
+    "name": "Olivier Tessier-Desrosiers",
+    "username": "tessierolivier",
+    "title": "NM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741403730,
+    "joined": 1712676641,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2348,
+            "date": 1741417948,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2403,
+            "date": 1732416671,
+            "game": "https://www.chess.com/game/live/126987032021"
+        },
+        "record": {
+            "win": 158,
+            "loss": 111,
+            "draw": 23
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3390,
+            "date": 1728052592
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1712676641
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

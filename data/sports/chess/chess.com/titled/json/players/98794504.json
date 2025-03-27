@@ -1,0 +1,93 @@
+{
+    "player_id": 98794504,
+    "@id": "https://api.chess.com/pub/player/chinguunsu",
+    "url": "https://www.chess.com/member/ChinguunSu",
+    "name": "Chinguun Sumiya",
+    "username": "chinguunsu",
+    "title": "FM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1741363815,
+    "joined": 1606138901,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1472,
+            "date": 1706275066,
+            "rd": 347
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 68868,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2280,
+            "date": 1627708176,
+            "rd": 256
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2528,
+            "date": 1737297665,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2607,
+            "date": 1698053158,
+            "game": "https://www.chess.com/game/live/129428001227"
+        },
+        "record": {
+            "win": 6,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2766,
+            "date": 1739368313,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2839,
+            "date": 1735692148,
+            "game": "https://www.chess.com/game/live/92503952629"
+        },
+        "record": {
+            "win": 341,
+            "loss": 331,
+            "draw": 71
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2805,
+            "date": 1734851754
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1606138901
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 42
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35519826.f6ebc1ac.200x200o.6ff04625bfe1.jpeg",
+    "player_id": 35519826,
+    "@id": "https://api.chess.com/pub/player/florianschwabeneder",
+    "url": "https://www.chess.com/member/florianschwabeneder",
+    "name": "Florian Schwabeneder",
+    "username": "florianschwabeneder",
+    "title": "IM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1740246718,
+    "joined": 1494761311,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2645,
+            "date": 1725127089,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2679,
+            "date": 1718469975,
+            "game": "https://www.chess.com/game/live/111602045791"
+        },
+        "record": {
+            "win": 312,
+            "loss": 289,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2719,
+            "date": 1738951487,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2743,
+            "date": 1689091791,
+            "game": "https://www.chess.com/game/live/82827752895"
+        },
+        "record": {
+            "win": 3249,
+            "loss": 2912,
+            "draw": 581
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2954,
+            "date": 1580686304
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1520208950
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 45
+        }
+    }
+}

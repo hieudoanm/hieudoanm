@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74591832.6e31d601.200x200o.0384784acce3.webp",
+    "player_id": 74591832,
+    "@id": "https://api.chess.com/pub/player/vedantgoswami",
+    "url": "https://www.chess.com/member/vedantgoswami",
+    "name": "Vedant Goswami",
+    "username": "vedantgoswami",
+    "title": "FM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Bangalore",
+    "last_online": 1741697247,
+    "joined": 1585238844,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2231,
+            "date": 1727144588,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2231,
+            "date": 1723912720,
+            "game": "https://www.chess.com/game/live/117650977777"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2000,
+            "date": 1736259588,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1689523848,
+            "game": "https://www.chess.com/game/live/82984858201"
+        },
+        "record": {
+            "win": 271,
+            "loss": 162,
+            "draw": 29
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2317,
+            "date": 1739376501,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2440,
+            "date": 1719329217,
+            "game": "https://www.chess.com/game/live/91898467699"
+        },
+        "record": {
+            "win": 312,
+            "loss": 332,
+            "draw": 66
+        }
+    },
+    "fide": 2103,
+    "tactics": {
+        "highest": {
+            "rating": 3166,
+            "date": 1649945630
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1591067837
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

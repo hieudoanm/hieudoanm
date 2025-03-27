@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41278848.8f910f60.200x200o.4d4e8021ca09.jpg",
+    "player_id": 41278848,
+    "@id": "https://api.chess.com/pub/player/jonas_88",
+    "url": "https://www.chess.com/member/JoNAs_88",
+    "name": "Jorge Nunez Asencio",
+    "username": "jonas_88",
+    "title": "NM",
+    "followers": 519,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "BC",
+    "last_online": 1741703079,
+    "joined": 1513147165,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2030,
+            "date": 1682065719,
+            "rd": 267
+        },
+        "best": {
+            "rating": 2030,
+            "date": 1650468015,
+            "game": "https://www.chess.com/game/daily/251170226"
+        },
+        "record": {
+            "win": 9,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 5306,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2524,
+            "date": 1685092533,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1683419964,
+            "game": "https://www.chess.com/game/live/77310261379"
+        },
+        "record": {
+            "win": 32,
+            "loss": 12,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2627,
+            "date": 1715566146,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2627,
+            "date": 1715566146,
+            "game": "https://www.chess.com/game/live/4515108456"
+        },
+        "record": {
+            "win": 1831,
+            "loss": 1446,
+            "draw": 127
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2724,
+            "date": 1739547845,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2724,
+            "date": 1609000395,
+            "game": "https://www.chess.com/game/live/3914014975"
+        },
+        "record": {
+            "win": 1342,
+            "loss": 1001,
+            "draw": 149
+        }
+    },
+    "fide": 2281,
+    "tactics": {
+        "highest": {
+            "rating": 3571,
+            "date": 1720448551
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1513408029
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        },
+        "daily": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

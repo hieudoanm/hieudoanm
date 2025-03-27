@@ -1,0 +1,85 @@
+{
+    "player_id": 29668814,
+    "@id": "https://api.chess.com/pub/player/sahs66",
+    "url": "https://www.chess.com/member/sahs66",
+    "name": "Aivars Raudive",
+    "username": "sahs66",
+    "title": "FM",
+    "followers": 89,
+    "country": "https://api.chess.com/pub/country/LV",
+    "last_online": 1741673396,
+    "joined": 1472338988,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1493,
+            "date": 1732194477,
+            "rd": 131
+        },
+        "best": {
+            "rating": 1705,
+            "date": 1617372656,
+            "game": "https://www.chess.com/game/live/5667917819"
+        },
+        "record": {
+            "win": 55,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2329,
+            "date": 1727212918,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2421,
+            "date": 1699659881,
+            "game": "https://www.chess.com/game/live/113524804687"
+        },
+        "record": {
+            "win": 332,
+            "loss": 145,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2306,
+            "date": 1724544469,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2430,
+            "date": 1588525584,
+            "game": "https://www.chess.com/game/live/1711451803"
+        },
+        "record": {
+            "win": 553,
+            "loss": 490,
+            "draw": 106
+        }
+    },
+    "fide": 2288,
+    "tactics": {
+        "highest": {
+            "rating": 1646,
+            "date": 1725823237
+        },
+        "lowest": {
+            "rating": 1342,
+            "date": 1483236578
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 45
+        }
+    }
+}

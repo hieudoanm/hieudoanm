@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28232718.137a8ed4.200x200o.9a9903fe3032.jpeg",
+    "player_id": 28232718,
+    "@id": "https://api.chess.com/pub/player/marvelanddcforlife",
+    "url": "https://www.chess.com/member/MARVELandDCforLIFE",
+    "username": "marvelanddcforlife",
+    "title": "NM",
+    "followers": 749,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1733881206,
+    "joined": 1463508585,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1519,
+            "date": 1739352517,
+            "rd": 156
+        },
+        "best": {
+            "rating": 1590,
+            "date": 1569954631,
+            "game": "https://www.chess.com/game/daily/220991098"
+        },
+        "record": {
+            "win": 18,
+            "loss": 29,
+            "draw": 2,
+            "time_per_move": 63164,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1733883489,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1733883489,
+            "game": "https://www.chess.com/game/live/127599661051"
+        },
+        "record": {
+            "win": 70,
+            "loss": 27,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2434,
+            "date": 1708885279,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2443,
+            "date": 1708885164,
+            "game": "https://www.chess.com/game/live/14092328245"
+        },
+        "record": {
+            "win": 1605,
+            "loss": 1405,
+            "draw": 131
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2384,
+            "date": 1733351807,
+            "rd": 128
+        },
+        "best": {
+            "rating": 2448,
+            "date": 1690772799,
+            "game": "https://www.chess.com/game/live/15386575251"
+        },
+        "record": {
+            "win": 1615,
+            "loss": 1517,
+            "draw": 190
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 2904,
+            "date": 1619135157
+        },
+        "lowest": {
+            "rating": 1348,
+            "date": 1464841791
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 48
+        }
+    }
+}

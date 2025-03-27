@@ -1,0 +1,79 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64071880.d2209bf9.200x200o.cce80313f829.jpeg",
+    "player_id": 64071880,
+    "@id": "https://api.chess.com/pub/player/chocolateroses",
+    "url": "https://www.chess.com/member/ChocolateRoses",
+    "username": "chocolateroses",
+    "title": "WIM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/XW",
+    "last_online": 1741399632,
+    "joined": 1565214645,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1968,
+            "date": 1713617561,
+            "rd": 202
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2360,
+            "date": 1675715706,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2508,
+            "date": 1660761296,
+            "game": "https://www.chess.com/game/live/54500356227"
+        },
+        "record": {
+            "win": 152,
+            "loss": 142,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2276,
+            "date": 1741140829,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1733012119,
+            "game": "https://www.chess.com/game/live/4879274821"
+        },
+        "record": {
+            "win": 167,
+            "loss": 102,
+            "draw": 30
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3374,
+            "date": 1739827460
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1565231796
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

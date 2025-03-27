@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47932656.ed6750d2.200x200o.6c9985f98d63.jpeg",
+    "player_id": 47932656,
+    "@id": "https://api.chess.com/pub/player/angryhorse9",
+    "url": "https://www.chess.com/member/angryhorse9",
+    "name": "Victor Labussiere",
+    "username": "angryhorse9",
+    "title": "FM",
+    "followers": 224,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741210648,
+    "joined": 1531785959,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1663,
+            "date": 1711420693,
+            "rd": 312
+        },
+        "best": {
+            "rating": 1663,
+            "date": 1585421402,
+            "game": "https://www.chess.com/game/daily/255388172"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 119145,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2076,
+            "date": 1704653384,
+            "rd": 186
+        },
+        "best": {
+            "rating": 2167,
+            "date": 1630601234,
+            "game": "https://www.chess.com/game/live/5608279113"
+        },
+        "record": {
+            "win": 51,
+            "loss": 30,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2082,
+            "date": 1732846922,
+            "rd": 140
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1604457221,
+            "game": "https://www.chess.com/game/live/5677492449"
+        },
+        "record": {
+            "win": 388,
+            "loss": 338,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2480,
+            "date": 1740786160,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1596564468,
+            "game": "https://www.chess.com/game/live/4119232762"
+        },
+        "record": {
+            "win": 5772,
+            "loss": 5922,
+            "draw": 954
+        }
+    },
+    "fide": 2332,
+    "tactics": {
+        "highest": {
+            "rating": 3294,
+            "date": 1735761304
+        },
+        "lowest": {
+            "rating": 815,
+            "date": 1551824147
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

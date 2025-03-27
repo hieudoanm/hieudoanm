@@ -1,0 +1,66 @@
+{
+    "player_id": 393479915,
+    "@id": "https://api.chess.com/pub/player/theanoint",
+    "url": "https://www.chess.com/member/theAnoint",
+    "username": "theanoint",
+    "title": "WCM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741261483,
+    "joined": 1727998981,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1678,
+            "date": 1740127646,
+            "rd": 58
+        },
+        "best": {
+            "rating": 1828,
+            "date": 1730746787,
+            "game": "https://www.chess.com/game/live/124738216197"
+        },
+        "record": {
+            "win": 50,
+            "loss": 70,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1618,
+            "date": 1741120254,
+            "rd": 49
+        },
+        "best": {
+            "rating": 1822,
+            "date": 1730554282,
+            "game": "https://www.chess.com/game/live/124295377227"
+        },
+        "record": {
+            "win": 88,
+            "loss": 96,
+            "draw": 8
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2869,
+            "date": 1733909383
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1727998981
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/202101453.1ee664d7.200x200o.f35197968f0e.jpg",
+    "player_id": 202101453,
+    "@id": "https://api.chess.com/pub/player/hiddenmachinations",
+    "url": "https://www.chess.com/member/HiddenMachinations",
+    "username": "hiddenmachinations",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/TT",
+    "last_online": 1740965832,
+    "joined": 1666027050,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2058,
+            "date": 1725468852,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2142,
+            "date": 1713317950,
+            "game": "https://www.chess.com/game/live/106977080201"
+        },
+        "record": {
+            "win": 123,
+            "loss": 89,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1558,
+            "date": 1741146994,
+            "rd": 51
+        },
+        "best": {
+            "rating": 1645,
+            "date": 1731725416,
+            "game": "https://www.chess.com/game/live/125590111177"
+        },
+        "record": {
+            "win": 435,
+            "loss": 426,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2027,
+            "date": 1741236190,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2074,
+            "date": 1733530533,
+            "game": "https://www.chess.com/game/live/109039771839"
+        },
+        "record": {
+            "win": 1203,
+            "loss": 1045,
+            "draw": 98
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3002,
+            "date": 1728439486
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1666027050
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

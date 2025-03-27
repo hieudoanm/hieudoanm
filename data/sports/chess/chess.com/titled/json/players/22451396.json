@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22451396.6b34ada1.200x200o.a84dad18ca35.jpg",
+    "player_id": 22451396,
+    "@id": "https://api.chess.com/pub/player/durarbayli",
+    "url": "https://www.chess.com/member/Durarbayli",
+    "name": "Vasif Durarbayli",
+    "username": "durarbayli",
+    "title": "GM",
+    "followers": 3011,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "location": "Saint Louis, Missouri",
+    "last_online": 1734121222,
+    "joined": 1432018267,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 935,
+            "date": 1696788733,
+            "rd": 282
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1432018267,
+            "game": "https://www.chess.com/game/daily/211462785"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 98674,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2651,
+            "date": 1727626173,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2732,
+            "date": 1590771098,
+            "game": "https://www.chess.com/game/live/121020708883"
+        },
+        "record": {
+            "win": 117,
+            "loss": 83,
+            "draw": 59
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2931,
+            "date": 1732385535,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2971,
+            "date": 1722706706,
+            "game": "https://www.chess.com/game/live/116441431861"
+        },
+        "record": {
+            "win": 1124,
+            "loss": 721,
+            "draw": 124
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2912,
+            "date": 1733853601,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3020,
+            "date": 1710018665,
+            "game": "https://www.chess.com/game/live/101602361613"
+        },
+        "record": {
+            "win": 3629,
+            "loss": 2525,
+            "draw": 677
+        }
+    },
+    "fide": 2711,
+    "tactics": {
+        "highest": {
+            "rating": 3757,
+            "date": 1715990748
+        },
+        "lowest": {
+            "rating": 2239,
+            "date": 1446597900
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

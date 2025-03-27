@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/161110295.ffa31946.200x200o.20e11ca89ebb.jpg",
+    "player_id": 161110295,
+    "@id": "https://api.chess.com/pub/player/optimusprimebr",
+    "url": "https://www.chess.com/member/OptimusPrimeBR",
+    "name": "Marceley Martins",
+    "username": "optimusprimebr",
+    "title": "CM",
+    "followers": 121,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "formosa goias",
+    "last_online": 1741134914,
+    "joined": 1636724784,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2227,
+            "date": 1724077769,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2237,
+            "date": 1695989610,
+            "game": "https://www.chess.com/game/live/42324574355"
+        },
+        "record": {
+            "win": 38,
+            "loss": 17,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1992,
+            "date": 1728135876,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2060,
+            "date": 1703098772,
+            "game": "https://www.chess.com/game/live/83633766419"
+        },
+        "record": {
+            "win": 392,
+            "loss": 358,
+            "draw": 39
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1977,
+            "date": 1741677384,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1707566176,
+            "game": "https://www.chess.com/game/live/90987576247"
+        },
+        "record": {
+            "win": 4865,
+            "loss": 4548,
+            "draw": 601
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3145,
+            "date": 1696163971
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1636724784
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 30
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4007806.ec38e3ad.200x200o.5229b6929aab.jpeg",
+    "player_id": 4007806,
+    "@id": "https://api.chess.com/pub/player/gm_barcenilla",
+    "url": "https://www.chess.com/member/GM_Barcenilla",
+    "name": "Rogelio Barcenilla",
+    "username": "gm_barcenilla",
+    "title": "GM",
+    "followers": 1568,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1734110637,
+    "joined": 1285076794,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2302,
+            "date": 1682768292,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1597398165,
+            "game": "https://www.chess.com/game/live/5599430679"
+        },
+        "record": {
+            "win": 124,
+            "loss": 49,
+            "draw": 42
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2988,
+            "date": 1732382853,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3022,
+            "date": 1644813001,
+            "game": "https://www.chess.com/game/live/26048413353"
+        },
+        "record": {
+            "win": 7092,
+            "loss": 4917,
+            "draw": 537
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3027,
+            "date": 1726119996,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3027,
+            "date": 1726119996,
+            "game": "https://www.chess.com/game/live/81153764513"
+        },
+        "record": {
+            "win": 659,
+            "loss": 319,
+            "draw": 95
+        }
+    },
+    "fide": 2570,
+    "tactics": {
+        "highest": {
+            "rating": 3672,
+            "date": 1732207261
+        },
+        "lowest": {
+            "rating": 1353,
+            "date": 1353865849
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

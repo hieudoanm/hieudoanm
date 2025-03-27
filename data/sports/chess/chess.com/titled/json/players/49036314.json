@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49036314.1580276a.200x200o.ec04e1395782.jpg",
+    "player_id": 49036314,
+    "@id": "https://api.chess.com/pub/player/suyu28",
+    "url": "https://www.chess.com/member/suyu28",
+    "name": "Suyog Wagh",
+    "username": "suyu28",
+    "title": "FM",
+    "followers": 507,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Ahmednagar",
+    "last_online": 1741691569,
+    "joined": 1535022906,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2272,
+            "date": 1740351601,
+            "rd": 255
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1720978713,
+            "game": "https://www.chess.com/game/daily/587758543"
+        },
+        "record": {
+            "win": 10,
+            "loss": 21,
+            "draw": 0,
+            "time_per_move": 64963,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2220,
+            "date": 1735920650,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1658775801,
+            "game": "https://www.chess.com/game/live/52511396303"
+        },
+        "record": {
+            "win": 59,
+            "loss": 21,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2607,
+            "date": 1740481628,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2744,
+            "date": 1651936868,
+            "game": "https://www.chess.com/game/live/46713060573"
+        },
+        "record": {
+            "win": 554,
+            "loss": 412,
+            "draw": 41
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2879,
+            "date": 1741673727,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2909,
+            "date": 1738686652,
+            "game": "https://www.chess.com/game/live/100169005703"
+        },
+        "record": {
+            "win": 2655,
+            "loss": 2143,
+            "draw": 326
+        }
+    },
+    "fide": 2356,
+    "tactics": {
+        "highest": {
+            "rating": 3808,
+            "date": 1679411509
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1535041904
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        }
+    }
+}

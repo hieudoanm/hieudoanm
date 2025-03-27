@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80887082.d6f0e4d7.200x200o.e0763891b122.jpeg",
+    "player_id": 80887082,
+    "@id": "https://api.chess.com/pub/player/l_thno",
+    "url": "https://www.chess.com/member/L_Thno",
+    "username": "l_thno",
+    "title": "WFM",
+    "followers": 59,
+    "country": "https://api.chess.com/pub/country/CL",
+    "last_online": 1741521674,
+    "joined": 1590782570,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1971,
+            "date": 1729672204,
+            "rd": 125
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1664742097,
+            "game": "https://www.chess.com/game/daily/430888909"
+        },
+        "record": {
+            "win": 15,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 19498,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1962,
+            "date": 1693879703,
+            "rd": 163
+        },
+        "best": {
+            "rating": 2072,
+            "date": 1594538150,
+            "game": "https://www.chess.com/game/live/5306428821"
+        },
+        "record": {
+            "win": 22,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1904,
+            "date": 1726095999,
+            "rd": 134
+        },
+        "best": {
+            "rating": 1904,
+            "date": 1726095999,
+            "game": "https://www.chess.com/game/live/61052391789"
+        },
+        "record": {
+            "win": 28,
+            "loss": 32,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1940,
+            "date": 1740794416,
+            "rd": 46
+        },
+        "best": {
+            "rating": 1999,
+            "date": 1662650856,
+            "game": "https://www.chess.com/game/live/5025868696"
+        },
+        "record": {
+            "win": 468,
+            "loss": 429,
+            "draw": 74
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2120,
+            "date": 1736458406
+        },
+        "lowest": {
+            "rating": 1780,
+            "date": 1592622816
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

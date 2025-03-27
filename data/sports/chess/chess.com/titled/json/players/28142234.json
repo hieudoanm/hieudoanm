@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28142234.bec243bc.200x200o.7fbe4f3da781.jpeg",
+    "player_id": 28142234,
+    "@id": "https://api.chess.com/pub/player/parkas",
+    "url": "https://www.chess.com/member/Parkas",
+    "name": "Domantas Klimciauskas",
+    "username": "parkas",
+    "title": "CM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/LT",
+    "last_online": 1733391610,
+    "joined": 1462986790,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2333,
+            "date": 1637007264,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1636130055,
+            "game": "https://www.chess.com/game/live/4770143913"
+        },
+        "record": {
+            "win": 656,
+            "loss": 502,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2325,
+            "date": 1729766449,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2481,
+            "date": 1642536166,
+            "game": "https://www.chess.com/game/live/3820015817"
+        },
+        "record": {
+            "win": 1471,
+            "loss": 1363,
+            "draw": 162
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2604,
+            "date": 1595348670
+        },
+        "lowest": {
+            "rating": 1878,
+            "date": 1474006656
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 31
+        }
+    }
+}

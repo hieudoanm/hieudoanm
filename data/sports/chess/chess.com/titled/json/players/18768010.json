@@ -1,0 +1,33 @@
+{
+    "player_id": 18768010,
+    "@id": "https://api.chess.com/pub/player/olli75",
+    "url": "https://www.chess.com/member/Olli75",
+    "name": "Oliver Kniest",
+    "username": "olli75",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1733174871,
+    "joined": 1409849688,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2972,
+            "date": 1469466823
+        },
+        "lowest": {
+            "rating": 1361,
+            "date": 1409849812
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

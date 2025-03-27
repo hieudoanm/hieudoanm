@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26053796.9ac2ed55.200x200o.d75c2e76f97f.jpg",
+    "player_id": 26053796,
+    "@id": "https://api.chess.com/pub/player/nevorlegov",
+    "url": "https://www.chess.com/member/NevorLegov",
+    "name": "Roven Vogel",
+    "username": "nevorlegov",
+    "title": "GM",
+    "followers": 128,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741596104,
+    "joined": 1452418992,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2033,
+            "date": 1715190474,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2033,
+            "date": 1715190167,
+            "game": "https://www.chess.com/game/live/108924684643"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2579,
+            "date": 1597674941,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1555349105,
+            "game": "https://www.chess.com/game/live/3617502020"
+        },
+        "record": {
+            "win": 378,
+            "loss": 222,
+            "draw": 30
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2982,
+            "date": 1741542951,
+            "rd": 40
+        },
+        "best": {
+            "rating": 3025,
+            "date": 1739009531,
+            "game": "https://www.chess.com/game/live/126531609583"
+        },
+        "record": {
+            "win": 6424,
+            "loss": 4873,
+            "draw": 1559
+        }
+    },
+    "fide": 2550,
+    "tactics": {
+        "highest": {
+            "rating": 3851,
+            "date": 1734092414
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1595323543
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

@@ -1,0 +1,178 @@
+IcbCode,IcbName,ParentIcbCode,IcbLevel,IcbCodePath,IcbNamePath,IcbNameEn
+0001,Dầu khí,0,1,0001,Dầu khí,Petroleum
+0500,Dầu khí,0001,2,0001/0500,Dầu khí /Dầu khí,Petroleum
+0530,Sản xuất Dầu khí,0500,3,0001/0500/0530,Dầu khí /Dầu khí/Sản xuất Dầu khí,Petroleum Production
+0533,Sản xuất và Khai thác dầu khí,0530,4,0001/0500/0530/0533,Dầu khí /Dầu khí/Sản xuất Dầu khí/Sản xuất và Khai thác dầu khí,Petroleum exploration & production
+0537,Tổ hợp Dầu khí,0530,4,0001/0500/0530/0537,Dầu khí /Dầu khí/Sản xuất Dầu khí/Tổ hợp Dầu khí,Petroleum combination
+0570,"Thiết bị, Dịch vụ và Phân phối Dầu khí",0500,3,0001/0500/0570,"Dầu khí /Dầu khí/Thiết bị, Dịch vụ và Phân phối Dầu khí","Petroleum Distribution, Equipment & Services"
+0573,Thiết bị và Dịch vụ Dầu khí,0570,4,0001/0500/0570/0573,"Dầu khí /Dầu khí/Thiết bị, Dịch vụ và Phân phối Dầu khí/Thiết bị và Dịch vụ Dầu khí",Petroleum Equipment & Services
+0577,Ống dẫn Dầu,0570,4,0001/0500/0570/0577,"Dầu khí /Dầu khí/Thiết bị, Dịch vụ và Phân phối Dầu khí/Ống dẫn Dầu",Oil pipeline
+0580,Năng lượng thay thế,0500,3,"0001/0500/0580
+",Dầu khí /Dầu khí/Năng lượng thay thế,Alternative energy
+0583,Thiết bị năng lượng tái chế,0580,4,0001/0500/0580/0583,Dầu khí /Dầu khí/Năng lượng thay thế/Thiết bị năng lượng tái chế,Alternative energy equipment
+0587,Nhiên liệu thay thế,0580,4,0001/0500/0580/0587,Dầu khí /Dầu khí/Năng lượng thay thế/Nhiên liệu thay thế,Alternative fuels
+1000,Nguyên vật liệu,0,1,1000,Nguyên vật liệu,Materials
+1300,Hóa chất,1000,2,1000/1300,Nguyên vật liệu/Hóa chất,Chemical
+1350,Hóa chất,1300,3,1000/1300/1350,Nguyên vật liệu/Hóa chất/Hóa chất,Chemical
+1353,"Nhựa, cao su & sợi",1350,4,1000/1300/1350/1353,"Nguyên vật liệu/Hóa chất/Hóa chất/Nhựa, cao su & sợi","Plastics, Rubber & Fibers"
+1357,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",1350,4,1000/1300/1350/1357,"Nguyên vật liệu/Hóa chất/Hóa chất/Sản phẩm hóa dầu, Nông dược & Hóa chất khác","Petrochemical products, Argo-pharmaceuticals & Other chemicals"
+1700,Tài nguyên Cơ bản,1000,2,1000/1700,Nguyên vật liệu/Tài nguyên Cơ bản,Basic Resources
+1730,Lâm nghiệp và Giấy,1700,3,1000/1700/1730,Nguyên vật liệu/Tài nguyên Cơ bản/Lâm nghiệp và Giấy,Forestry & Paper
+1733,Lâm sản và Chế biến gỗ,1730,4,1000/1700/1730/1733,Nguyên vật liệu/Tài nguyên Cơ bản/Lâm nghiệp và Giấy/Lâm sản và Chế biến gỗ,Forest products & wood processing
+1737,Sản xuất giấy,1730,4,1000/1700/1730/1737,Nguyên vật liệu/Tài nguyên Cơ bản/Lâm nghiệp và Giấy/Sản xuất giấy,Paper production
+1750,Kim loại,1700,3,1000/1700/1750,Nguyên vật liệu/Tài nguyên Cơ bản/Kim loại,Metal
+1753,Nhôm,1750,4,1000/1700/1750/1753,Nguyên vật liệu/Tài nguyên Cơ bản/Kim loại/Nhôm,Aluminium
+1755,Kim Loại màu,1750,4,1000/1700/1750/1755,Nguyên vật liệu/Tài nguyên Cơ bản/Kim loại/Kim Loại màu,Non-ferrous Metal
+1757,Thép và sản phẩm thép,1750,4,1000/1700/1750/1757,Nguyên vật liệu/Tài nguyên Cơ bản/Kim loại/Thép và sản phẩm thép,Steel and steel products
+1770,Khai khoáng,1700,3,1000/1700/1770,Nguyên vật liệu/Tài nguyên Cơ bản/Khai khoáng,Extractive
+1771,Khai thác Than,1770,4,1000/1700/1770/1771,Nguyên vật liệu/Tài nguyên Cơ bản/Khai khoáng/Khai thác Than,Coal mining
+1773,Đá quý và Kim cương,1770,4,1000/1700/1770/1773,Nguyên vật liệu/Tài nguyên Cơ bản/Khai khoáng/Đá quý và Kim cương,Gems & Diamonds
+1775,Khai khoáng,1770,4,1000/1700/1770/1775,Nguyên vật liệu/Tài nguyên Cơ bản/Khai khoáng/Khai khoáng,Extractive
+1777,Khai thác vàng,1770,4,1000/1700/1770/1777,Nguyên vật liệu/Tài nguyên Cơ bản/Khai khoáng/Khai thác vàng,Gold mining
+1779,Bạch kim & Kim loại quý khác,1770,4,1000/1700/1770/1779,Nguyên vật liệu/Tài nguyên Cơ bản/Khai khoáng/Bạch kim & Kim loại quý khác,Platinum & Other Precious Metals
+2000,Công nghiệp,0,1,2000,Công nghiệp,Industry
+2300,Xây dựng và Vật liệu,2000,2,2000/2300,Công nghiệp/Xây dựng và Vật liệu,Construction & Building Materials
+2350,Xây dựng và Vật liệu,2300,3,2000/2300/2350,Công nghiệp/Xây dựng và Vật liệu/Xây dựng và Vật liệu,Construction & Building Materials
+2353,Vật liệu xây dựng & Nội thất,2350,4,2000/2300/2350/2353,Công nghiệp/Xây dựng và Vật liệu/Xây dựng và Vật liệu/Vật liệu xây dựng & Nội thất,Building Materials & Furniture
+2357,Xây dựng,2350,4,2000/2300/2350/2357,Công nghiệp/Xây dựng và Vật liệu/Xây dựng và Vật liệu/Xây dựng,Construction
+2700,Hàng & Dịch vụ Công nghiệp,2000,2,2000/2700,Công nghiệp/Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services
+2710,Hàng không & Quốc phòng,2700,3,2000/2700/2710,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Hàng không & Quốc phòng,Aviation & National defense
+2713,Hàng không,2710,4,2000/2700/2710/2713,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Hàng không & Quốc phòng/Hàng không,Aviation
+2717,Quốc phòng,2710,4,2000/2700/2710/2717,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Hàng không & Quốc phòng/Quốc phòng,National defense
+2720,Hàng công nghiệp,2700,3,2000/2700/2720,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Hàng công nghiệp,Industrial goods
+2723,Containers & Đóng gói,2720,4,2000/2700/2720/2723,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Hàng công nghiệp/Containers & Đóng gói,Containers & Packaging
+2727,Công nghiệp phức hợp,2720,4,2000/2700/2720/2727,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Hàng công nghiệp/Công nghiệp phức hợp,Complex industry
+2730,Điện tử & Thiết bị điện,2700,3,2000/2700/2730,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Điện tử & Thiết bị điện,Electronics & Electrical Equipment
+2733,Hàng điện & điện tử,2730,4,2000/2700/2730/2733,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Điện tử & Thiết bị điện/Hàng điện & điện tử,Electrical & Electronic Goods
+2737,Thiết bị điện,2730,4,2000/2700/2730/2737,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Điện tử & Thiết bị điện/Thiết bị điện,Electrical equipment
+2750,Công nghiệp nặng,2700,3,2000/2700/2750,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Công nghiệp nặng,Heavy industry
+2753,Xe tải & Đóng tàu,2750,4,2000/2700/2750/2753,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Công nghiệp nặng/Xe tải & Đóng tàu,Trucks & Shipbuilding
+2757,Máy công nghiệp,2750,4,2000/2700/2750/2757,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Công nghiệp nặng/Máy công nghiệp,Industrial machines
+2770,Vận tải,2700,3,2000/2700/2770,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Vận tải,Transportation sector
+2771,Chuyển phát nhanh,2770,4,2000/2700/2770/2771,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Vận tải/Chuyển phát nhanh,Express delivery
+2773,Vận tải Thủy,2770,4,2000/2700/2770/2773,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Vận tải/Vận tải Thủy,Waterway transport
+2775,Đường sắt,2770,4,2000/2700/2770/2775,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Vận tải/Đường sắt,Railway
+2777,"Kho bãi, hậu cần và bảo dưỡng",2770,4,2000/2700/2770/2777,"Công nghiệp/Hàng & Dịch vụ Công nghiệp/Vận tải/Kho bãi, hậu cần và bảo dưỡng","Warehouse, Logistics & Maintenance"
+2779,Dịch vụ vận tải,2770,4,2000/2700/2770/2779,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Vận tải/Dịch vụ vận tải,Transport service
+2790,Tư vấn & Hỗ trợ Kinh doanh,2700,3,2000/2700/2790,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Tư vấn & Hỗ trợ Kinh doanh,Business Consulting & Support
+2791,Tư vấn & Hỗ trợ KD,2790,4,2000/2700/2790/2791,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Tư vấn & Hỗ trợ Kinh doanh/Tư vấn & Hỗ trợ KD,Business consulting & Support
+2793,Đào tạo & Việc làm,2790,4,2000/2700/2790/2793,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Tư vấn & Hỗ trợ Kinh doanh/Đào tạo & Việc làm,Training & Employment
+2795,Quản lý Tài chính,2790,4,2000/2700/2790/2795,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Tư vấn & Hỗ trợ Kinh doanh/Quản lý Tài chính,Financial management
+2797,Nhà cung cấp thiết bị,2790,4,2000/2700/2790/2797,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Tư vấn & Hỗ trợ Kinh doanh/Nhà cung cấp thiết bị,Equipment supplier
+2799,Chất thải & Môi trường,2790,4,2000/2700/2790/2799,Công nghiệp/Hàng & Dịch vụ Công nghiệp/Tư vấn & Hỗ trợ Kinh doanh/Chất thải & Môi trường,Waste & Environment
+3000,Hàng Tiêu dùng,0,1,3000,Hàng Tiêu dùng,Consumer goods
+3300,Ô tô và phụ tùng,3000,2,3000/3300,Hàng Tiêu dùng/Ô tô và phụ tùng,Cars & car parts
+3350,Ô tô và phụ tùng,3300,3,3000/3300/3350,Hàng Tiêu dùng/Ô tô và phụ tùng/Ô tô và phụ tùng,Cars & car parts
+3353,Sản xuất ô tô,3350,4,3000/3300/3350/3353,Hàng Tiêu dùng/Ô tô và phụ tùng/Ô tô và phụ tùng/Sản xuất ô tô,Auto manufacturing
+3355,Phụ tùng ô tô,3350,4,3000/3300/3350/3355,Hàng Tiêu dùng/Ô tô và phụ tùng/Ô tô và phụ tùng/Phụ tùng ô tô,Car parts
+3357,Lốp xe,3350,4,3000/3300/3350/3357,Hàng Tiêu dùng/Ô tô và phụ tùng/Ô tô và phụ tùng/Lốp xe,Tire
+3500,Thực phẩm và đồ uống,3000,2,3000/3500,Hàng Tiêu dùng/Thực phẩm và đồ uống,Food & Beverage
+3530,Bia và đồ uống,3500,3,3000/3500/3530,Hàng Tiêu dùng/Thực phẩm và đồ uống/Bia và đồ uống,Beer & Beverage
+3533,Sản xuất bia,3530,4,3000/3500/3530/3533,Hàng Tiêu dùng/Thực phẩm và đồ uống/Bia và đồ uống/Sản xuất bia,Beer manufacturing
+3535,Vang & Rượu mạnh,3530,4,3000/3500/3530/3535,Hàng Tiêu dùng/Thực phẩm và đồ uống/Bia và đồ uống/Vang & Rượu mạnh,Wine & Spirits
+3537,Đồ uống & giải khát,3530,4,3000/3500/3530/3537,Hàng Tiêu dùng/Thực phẩm và đồ uống/Bia và đồ uống/Đồ uống & giải khát,Beverages & refreshments
+3570,Sản xuất thực phẩm,3500,3,3000/3500/3570,Hàng Tiêu dùng/Thực phẩm và đồ uống/Sản xuất thực phẩm,Food manufacturing
+3573,Nuôi trồng nông & hải sản,3570,4,3000/3500/3570/3573,Hàng Tiêu dùng/Thực phẩm và đồ uống/Sản xuất thực phẩm/Nuôi trồng nông & hải sản,Farming & seafood
+3577,Thực phẩm,3570,4,3000/3500/3570/3577,Hàng Tiêu dùng/Thực phẩm và đồ uống/Sản xuất thực phẩm/Thực phẩm,Food
+3700,Hàng cá nhân & Gia dụng,3000,2,3000/3700,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng,Personal & Household Goods
+3720,Hàng gia dụng,3700,3,3000/3700/3720,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng gia dụng,Household Goods
+3722,Đồ gia dụng lâu bền,3720,4,3000/3700/3720/3722,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng gia dụng/Đồ gia dụng lâu bền,Durable housewares
+3724,Đồ gia dụng một lần,3720,4,3000/3700/3720/3724,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng gia dụng/Đồ gia dụng một lần,Household Items single-use
+3726,Thiết bị gia dụng,3720,4,3000/3700/3720/3726,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng gia dụng/Thiết bị gia dụng,Household appliances
+3728,Xây nhà,3720,4,3000/3700/3720/3728,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng gia dụng/Xây nhà,Building
+3740,Hàng hóa giải trí,3700,3,3000/3700/3740,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng hóa giải trí,Entertainment Products
+3743,Điện tử tiêu dùng,3740,4,3000/3700/3740/3743,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng hóa giải trí/Điện tử tiêu dùng,Consumer Electronics
+3745,Sản phẩm nghệ thuật,3740,4,3000/3700/3740/3745,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng hóa giải trí/Sản phẩm nghệ thuật,Art Products
+3747,Đồ chơi,3740,4,3000/3700/3740/3747,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng hóa giải trí/Đồ chơi,Toy Products
+3760,Hàng cá nhân,3700,3,3000/3700/3760,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng cá nhân,Personal Goods
+3763,Hàng May mặc,3760,4,3000/3700/3760/3763,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng cá nhân/Hàng May mặc,Garments
+3765,Giầy dép,3760,4,3000/3700/3760/3765,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng cá nhân/Giầy dép,Shoes
+3767,Hàng cá nhân,3760,4,3000/3700/3760/3767,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Hàng cá nhân/Hàng cá nhân,Personal Goods
+3780,Thuốc lá,3700,3,3000/3700/3780,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Thuốc lá,Tobacco
+3785,Thuốc lá,3780,4,3000/3700/3780/3785,Hàng Tiêu dùng/Hàng cá nhân & Gia dụng/Thuốc lá/Thuốc lá,Tobacco
+4000,Dược phẩm và Y tế,0,1,4000,Dược phẩm và Y tế,Pharmaceutical and medical
+4500,Y tế,4000,2,4000/4500,Dược phẩm và Y tế/Y tế,Medical
+4530,Thiết bị và Dịch vụ Y tế,4500,3,4000/4500/4530,Dược phẩm và Y tế/Y tế/Thiết bị và Dịch vụ Y tế,Medical Equipment & Services
+4533,Chăm sóc y tế,4530,4,4000/4500/4530/4533,Dược phẩm và Y tế/Y tế/Thiết bị và Dịch vụ Y tế/Chăm sóc y tế,Healthcare
+4535,Thiết bị y tế,4530,4,4000/4500/4530/4535,Dược phẩm và Y tế/Y tế/Thiết bị và Dịch vụ Y tế/Thiết bị y tế,Medical equipment
+4537,Dụng cụ y tế,4530,4,4000/4500/4530/4537,Dược phẩm và Y tế/Y tế/Thiết bị và Dịch vụ Y tế/Dụng cụ y tế,Medical device
+4570,Dược phẩm,4500,3,4000/4500/4570,Dược phẩm và Y tế/Y tế/Dược phẩm,Pharmaceutical
+4573,Công nghệ sinh học,4570,4,4000/4500/4570/4573,Dược phẩm và Y tế/Y tế/Dược phẩm/Công nghệ sinh học,Biotechnology
+4577,Dược phẩm,4570,4,4000/4500/4570/4577,Dược phẩm và Y tế/Y tế/Dược phẩm/Dược phẩm,Pharmaceutical
+5000,Dịch vụ Tiêu dùng,0,1,5000,Dịch vụ Tiêu dùng,Consumer service
+5300,Bán lẻ,5000,2,5000/5300,Dịch vụ Tiêu dùng/Bán lẻ,Retail
+5330,Phân phối thực phẩm & dược phẩm,5300,3,5000/5300/5330,Dịch vụ Tiêu dùng/Bán lẻ/Phân phối thực phẩm & dược phẩm,Food & pharmaceutical distribution
+5333,Phân phối dược phẩm,5330,4,5000/5300/5330/5333,Dịch vụ Tiêu dùng/Bán lẻ/Phân phối thực phẩm & dược phẩm/Phân phối dược phẩm,pharmaceutical distribution
+5337,Phân phối thực phẩm,5330,4,5000/5300/5330/5337,Dịch vụ Tiêu dùng/Bán lẻ/Phân phối thực phẩm & dược phẩm/Phân phối thực phẩm,pharmaceutical distribution
+5370,Bán lẻ,5300,3,5000/5300/5370,Dịch vụ Tiêu dùng/Bán lẻ/Bán lẻ,Retail
+5371,Bán lẻ hàng may mặc,5370,4,5000/5300/5370/5371,Dịch vụ Tiêu dùng/Bán lẻ/Bán lẻ/Bán lẻ hàng may mặc,Retail of garments
+5373,Bán lẻ phức hợp,5370,4,5000/5300/5370/5373,Dịch vụ Tiêu dùng/Bán lẻ/Bán lẻ/Bán lẻ phức hợp,Complex retail
+5375,Phân phối nội thất,5370,4,5000/5300/5370/5375,Dịch vụ Tiêu dùng/Bán lẻ/Bán lẻ/Phân phối nội thất,Furniture distribution
+5377,Dịch vụ tiêu dùng chuyên ngành,5370,4,5000/5300/5370/5377,Dịch vụ Tiêu dùng/Bán lẻ/Bán lẻ/Dịch vụ tiêu dùng chuyên ngành,Specialized consumer services
+5379,Phân phối hàng chuyên dụng,5370,4,5000/5300/5370/5379,Dịch vụ Tiêu dùng/Bán lẻ/Bán lẻ/Phân phối hàng chuyên dụng,Distributing specialized goods
+5500,Truyền thông,5000,2,5000/5500,Dịch vụ Tiêu dùng/Truyền thông,Communications
+5550,Truyền thông,5500,3,5000/5500/5550,Dịch vụ Tiêu dùng/Truyền thông/Truyền thông,Communications
+5553,Giải trí & Truyền thông,5550,4,5000/5500/5550/5553,Dịch vụ Tiêu dùng/Truyền thông/Truyền thông/Giải trí & Truyền thông,Entertainment & Communications
+5555,Dịch vụ truyền thông,5550,4,5000/5500/5550/5555,Dịch vụ Tiêu dùng/Truyền thông/Truyền thông/Dịch vụ truyền thông,Communication Service
+5557,"Sách, ấn bản & sản phẩm văn hóa",5550,4,5000/5500/5550/5557,"Dịch vụ Tiêu dùng/Truyền thông/Truyền thông/Sách, ấn bản & sản phẩm văn hóa","Books, Publications and Cultural Products"
+5700,Du lịch và Giải trí,5000,2,5000/5700,Dịch vụ Tiêu dùng/Du lịch và Giải trí,Travel and entertainment
+5750,Du lịch & Giải trí,5700,3,5000/5700/5750,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí,Travel and entertainment
+5751,Hàng không,5750,4,5000/5700/5750/5751,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí/Hàng không,Aviation
+5752,Gambling,5750,4,5000/5700/5750/5752,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí/Gambling,Gambling
+5753,Khách sạn,5750,4,5000/5700/5750/5753,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí/Khách sạn,Hotel
+5755,Dịch vụ giải trí,5750,4,5000/5700/5750/5755,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí/Dịch vụ giải trí,Entertainment service
+5757,Nhà hàng và quán bar,5750,4,5000/5700/5750/5757,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí/Nhà hàng và quán bar,Restaurants and bars
+5759,Vận tải hành khách & Du lịch,5750,4,5000/5700/5750/5759,Dịch vụ Tiêu dùng/Du lịch và Giải trí/Du lịch & Giải trí/Vận tải hành khách & Du lịch,Passenger Transport & Tourism
+6000,Viễn thông,0,1,6000,Viễn thông,Telecommunication
+6500,Viễn thông,6000,2,6000/6500,Viễn thông/Viễn thông,Telecommunication
+6530,Viễn thông cố định,6500,3,6000/6500/6530,Viễn thông/Viễn thông/Viễn thông cố định,Fixed telecommunications
+6535,Viễn thông cố định,6530,4,6000/6500/6530/6535,Viễn thông/Viễn thông/Viễn thông cố định/Viễn thông cố định,Fixed telecommunications
+6570,Viễn thông di động,6500,3,6000/6500/6570,Viễn thông/Viễn thông/Viễn thông di động,Fixed telecommunications
+6575,Viễn thông di động,6570,4,6000/6500/6570/6575,Viễn thông/Viễn thông/Viễn thông di động/Viễn thông di động,Fixed telecommunications
+7000,Tiện ích Cộng đồng,0,1,7000,Tiện ích Cộng đồng,Community Utilities
+7500,"Điện, nước & xăng dầu khí đốt",7000,2,7000/7500,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt","Electricity, water & petrol"
+7530,Sản xuất & Phân phối Điện,7500,3,7000/7500/7530,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt/Sản xuất & Phân phối Điện",Electricity production & distribution
+7535,Sản xuất & Phân phối Điện,7530,4,7000/7500/7530/7535,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt/Sản xuất & Phân phối Điện/Sản xuất & Phân phối Điện",Electricity production & distribution
+7570,Nước & Khí đốt,7500,3,7000/7500/7570,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt/Nước & Khí đốt",Water & Gas
+7573,Phân phối xăng dầu & khí đốt,7570,4,7000/7500/7570/7573,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt/Nước & Khí đốt/Phân phối xăng dầu & khí đốt",Distribution of petroleum & gas
+7575,Tiện ích khác,7570,4,7000/7500/7570/7575,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt/Nước & Khí đốt/Tiện ích khác",Other utilities
+7577,Nước,7570,4,7000/7500/7570/7577,"Tiện ích Cộng đồng/Điện, nước & xăng dầu khí đốt/Nước & Khí đốt/Nước",Water
+8000,Tài chính,0,1,8000,Tài chính,Finance
+8300,Ngân hàng,8301,2,8301/8300,Ngân hàng/Ngân hàng,Banking
+8301,Ngân hàng,0,1,8301,Ngân hàng,Banking
+8350,Ngân hàng,8300,3,8301/8300/8350,Ngân hàng/Ngân hàng/Ngân hàng,Banking
+8355,Ngân hàng,8350,4,8301/8300/8350/8355,Ngân hàng/Ngân hàng/Ngân hàng/Ngân hàng,Banking
+8500,Bảo hiểm,8000,2,8000/8500,Tài chính/Bảo hiểm,Insurance
+8530,Bảo hiểm phi nhân thọ,8500,3,8000/8500/8530,Tài chính/Bảo hiểm/Bảo hiểm phi nhân thọ,Non-life insurance
+8532,Bảo hiểm phức hợp,8530,4,8000/8500/8530/8532,Tài chính/Bảo hiểm/Bảo hiểm phi nhân thọ/Bảo hiểm phức hợp,Complex insurance
+8534,Môi giới bảo hiểm,8530,4,8000/8500/8530/8534,Tài chính/Bảo hiểm/Bảo hiểm phi nhân thọ/Môi giới bảo hiểm,Insurance broker
+8536,Bảo hiểm phi nhân thọ,8530,4,8000/8500/8530/8536,Tài chính/Bảo hiểm/Bảo hiểm phi nhân thọ/Bảo hiểm phi nhân thọ,Non-life insurance
+8538,Tái bảo hiểm,8530,4,8000/8500/8530/8538,Tài chính/Bảo hiểm/Bảo hiểm phi nhân thọ/Tái bảo hiểm,Reinsurance
+8570,Bảo hiểm nhân thọ,8500,3,8000/8500/8570,Tài chính/Bảo hiểm/Bảo hiểm nhân thọ,Life Insurance
+8575,Bảo hiểm nhân thọ,8570,4,8000/8500/8570/8575,Tài chính/Bảo hiểm/Bảo hiểm nhân thọ/Bảo hiểm nhân thọ,Life Insurance
+8600,Bất động sản,8000,2,8000/8600,Tài chính/Bất động sản,Real estate
+8630,Bất động sản,8600,3,8000/8600/8630,Tài chính/Bất động sản/Bất động sản,Real estate
+8633,Bất động sản,8630,4,8000/8600/8630/8633,Tài chính/Bất động sản/Bất động sản/Bất động sản,Real estate
+8637,"Tư Vấn, Định giá, Môi giới Bất động sản",8630,4,8000/8600/8630/8637,"Tài chính/Bất động sản/Bất động sản/Tư Vấn, Định giá, Môi giới Bất động sản","Real estate consulting, valuation, brokerage"
+8670,Quỹ ủy thác BĐS,8600,3,8000/8600/8670,Tài chính/Bất động sản/Quỹ ủy thác BĐS,Real estate investment trust
+8677,Quỹ ủy thác BĐS,8670,4,8000/8600/8670/8677,Tài chính/Bất động sản/Quỹ ủy thác BĐS/Quỹ ủy thác BĐS,Real estate investment trust
+8700,Dịch vụ tài chính,8000,2,8000/8700,Tài chính/Dịch vụ tài chính,Financial Services
+8770,Dịch vụ tài chính,8700,3,8000/8700/8770,Tài chính/Dịch vụ tài chính/Dịch vụ tài chính,Financial Services
+8771,Quản lý tài sản,8770,4,8000/8700/8770/8771,Tài chính/Dịch vụ tài chính/Dịch vụ tài chính/Quản lý tài sản,Asset Management
+8773,Tài chính cá nhân,8770,4,8000/8700/8770/8773,Tài chính/Dịch vụ tài chính/Dịch vụ tài chính/Tài chính cá nhân,Personal Finance
+8775,Tài chính đặc biệt,8770,4,8000/8700/8770/8775,Tài chính/Dịch vụ tài chính/Dịch vụ tài chính/Tài chính đặc biệt,Special Finance
+8777,Môi giới chứng khoán,8770,4,8000/8700/8770/8777,Tài chính/Dịch vụ tài chính/Dịch vụ tài chính/Môi giới chứng khoán,Broker
+8779,Cầm cố,8770,4,8000/8700/8770/8779,Tài chính/Dịch vụ tài chính/Dịch vụ tài chính/Cầm cố,Pledge
+8980,Quỹ đầu tư,8700,3,8000/8700/8980,Tài chính/Dịch vụ tài chính/Quỹ đầu tư,Investment funds
+8985,Quỹ đầu tư,8980,4,8000/8700/8980/8985,Tài chính/Dịch vụ tài chính/Quỹ đầu tư/Quỹ đầu tư,Investment funds
+9000,Công nghệ Thông tin,0,1,9000,Công nghệ Thông tin,Information technology
+9500,Công nghệ Thông tin,9000,2,9000/9500,Công nghệ Thông tin/Công nghệ Thông tin,Information technology
+9530,Phần mềm & Dịch vụ Máy tính,9500,3,9000/9500/9530,Công nghệ Thông tin/Công nghệ Thông tin/Phần mềm & Dịch vụ Máy tính,Computer software & Services
+9533,Dịch vụ Máy tính,9530,4,9000/9500/9530/9533,Công nghệ Thông tin/Công nghệ Thông tin/Phần mềm & Dịch vụ Máy tính/Dịch vụ Máy tính,Computer Services
+9535,Internet,9530,4,9000/9500/9530/9535,Công nghệ Thông tin/Công nghệ Thông tin/Phần mềm & Dịch vụ Máy tính/Internet,Internet
+9537,Phần mềm,9530,4,9000/9500/9530/9537,Công nghệ Thông tin/Công nghệ Thông tin/Phần mềm & Dịch vụ Máy tính/Phần mềm,Software
+9570,Thiết bị và Phần cứng,9500,3,9000/9500/9570,Công nghệ Thông tin/Công nghệ Thông tin/Thiết bị và Phần cứng,Device & Hardware
+9572,Phần cứng,9570,4,9000/9500/9570/9572,Công nghệ Thông tin/Công nghệ Thông tin/Thiết bị và Phần cứng/Phần cứng,Hardware
+9574,Thiết bị văn phòng,9570,4,9000/9500/9570/9574,Công nghệ Thông tin/Công nghệ Thông tin/Thiết bị và Phần cứng/Thiết bị văn phòng,Office equipment
+9576,Bán dẫn,9570,4,9000/9500/9570/9576,Công nghệ Thông tin/Công nghệ Thông tin/Thiết bị và Phần cứng/Bán dẫn,Semi-conducting
+9578,Thiết bị viễn thông,9570,4,9000/9500/9570/9578,Công nghệ Thông tin/Công nghệ Thông tin/Thiết bị và Phần cứng/Thiết bị viễn thông,Telecommunications equipment

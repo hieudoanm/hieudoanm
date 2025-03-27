@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51534774.6ae03e19.200x200o.09561a5774e6.jpg",
+    "player_id": 51534774,
+    "@id": "https://api.chess.com/pub/player/larkin-vladislav",
+    "url": "https://www.chess.com/member/Larkin-Vladislav",
+    "name": "Vladyslav Larkin",
+    "username": "larkin-vladislav",
+    "title": "IM",
+    "followers": 326,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Mykolaiv",
+    "last_online": 1740675123,
+    "joined": 1541516829,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2547,
+            "date": 1739377930,
+            "rd": 162
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1686679173,
+            "game": "https://www.chess.com/game/live/9037664897"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2851,
+            "date": 1730224201,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2943,
+            "date": 1698260441,
+            "game": "https://www.chess.com/game/live/91998021183"
+        },
+        "record": {
+            "win": 382,
+            "loss": 316,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2783,
+            "date": 1737553501,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2895,
+            "date": 1713884825,
+            "game": "https://www.chess.com/game/live/91975264909"
+        },
+        "record": {
+            "win": 247,
+            "loss": 177,
+            "draw": 42
+        }
+    },
+    "fide": 2477,
+    "tactics": {
+        "highest": {
+            "rating": 3485,
+            "date": 1739811781
+        },
+        "lowest": {
+            "rating": 1992,
+            "date": 1547932572
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

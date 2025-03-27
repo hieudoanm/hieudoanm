@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5338937.a1b3fdfa.200x200o.9ad01d2ecc2e.jpeg",
+    "player_id": 5338937,
+    "@id": "https://api.chess.com/pub/player/pauloba",
+    "url": "https://www.chess.com/member/Pauloba",
+    "name": "Paulina Carreras",
+    "username": "pauloba",
+    "title": "WFM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1734046455,
+    "joined": 1309059792,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1238,
+            "date": 1708871955,
+            "rd": 224
+        },
+        "best": {
+            "rating": 1346,
+            "date": 1309063306,
+            "game": "https://www.chess.com/game/daily/45879849"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 57710,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1850,
+            "date": 1685995627,
+            "rd": 100
+        },
+        "best": {
+            "rating": 1929,
+            "date": 1613872574,
+            "game": "https://www.chess.com/game/live/24199034435"
+        },
+        "record": {
+            "win": 19,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2028,
+            "date": 1689808902,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2062,
+            "date": 1681567360,
+            "game": "https://www.chess.com/game/live/75306056007"
+        },
+        "record": {
+            "win": 19,
+            "loss": 37,
+            "draw": 3
+        }
+    },
+    "fide": 1906,
+    "tactics": {
+        "highest": {
+            "rating": 1930,
+            "date": 1613870991
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1597344120
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 23,
+            "score": 20
+        }
+    }
+}

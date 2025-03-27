@@ -1,0 +1,85 @@
+{
+    "player_id": 55505950,
+    "@id": "https://api.chess.com/pub/player/vaathi_coming",
+    "url": "https://www.chess.com/member/Vaathi_Coming",
+    "name": "Aravindh Chithambaram",
+    "username": "vaathi_coming",
+    "title": "GM",
+    "followers": 700,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741704130,
+    "joined": 1546598831,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2766,
+            "date": 1739824268,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1601098753,
+            "game": "https://www.chess.com/game/live/26245216103"
+        },
+        "record": {
+            "win": 27,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2767,
+            "date": 1725976678,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3045,
+            "date": 1619757411,
+            "game": "https://www.chess.com/game/live/16614912893"
+        },
+        "record": {
+            "win": 727,
+            "loss": 577,
+            "draw": 71
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2998,
+            "date": 1739902372,
+            "rd": 46
+        },
+        "best": {
+            "rating": 3018,
+            "date": 1736875165,
+            "game": "https://www.chess.com/game/live/129407020359"
+        },
+        "record": {
+            "win": 1076,
+            "loss": 467,
+            "draw": 153
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2465,
+            "date": 1561696700
+        },
+        "lowest": {
+            "rating": 2401,
+            "date": 1552240070
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 77,
+            "score": 74
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/177843947.22f0fce8.200x200o.eff559504083.jpg",
+    "player_id": 177843947,
+    "@id": "https://api.chess.com/pub/player/papipapita",
+    "url": "https://www.chess.com/member/PapiPapita",
+    "name": "Soham Kamotra",
+    "username": "papipapita",
+    "title": "IM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741642571,
+    "joined": 1648149765,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1815,
+            "date": 1737560159,
+            "rd": 239
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1670264628,
+            "game": "https://www.chess.com/game/daily/602960229"
+        },
+        "record": {
+            "win": 30,
+            "loss": 21,
+            "draw": 2,
+            "time_per_move": 21725,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1718,
+            "date": 1739376912,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2223,
+            "date": 1690540753,
+            "game": "https://www.chess.com/game/live/77305280817"
+        },
+        "record": {
+            "win": 135,
+            "loss": 154,
+            "draw": 31
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2597,
+            "date": 1740244826,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2786,
+            "date": 1703510617,
+            "game": "https://www.chess.com/game/live/123683991155"
+        },
+        "record": {
+            "win": 1715,
+            "loss": 1696,
+            "draw": 210
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2580,
+            "date": 1740420401,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1677750721,
+            "game": "https://www.chess.com/game/live/90175903151"
+        },
+        "record": {
+            "win": 910,
+            "loss": 946,
+            "draw": 148
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4044,
+            "date": 1706781833
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1648803844
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 80,
+            "score": 77
+        }
+    }
+}

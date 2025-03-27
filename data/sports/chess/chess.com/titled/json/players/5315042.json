@@ -1,0 +1,103 @@
+{
+    "player_id": 5315042,
+    "@id": "https://api.chess.com/pub/player/vegan4animals",
+    "url": "https://www.chess.com/member/vegan4animals",
+    "username": "vegan4animals",
+    "title": "NM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Brampton, Ontario",
+    "last_online": 1741667956,
+    "joined": 1308686756,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1768,
+            "date": 1714995809,
+            "rd": 158
+        },
+        "best": {
+            "rating": 1923,
+            "date": 1381050898,
+            "game": "https://www.chess.com/game/daily/89330210"
+        },
+        "record": {
+            "win": 250,
+            "loss": 52,
+            "draw": 20,
+            "time_per_move": 26094,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2237,
+            "date": 1703223328,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1700182875,
+            "game": "https://www.chess.com/game/live/66609044601"
+        },
+        "record": {
+            "win": 49,
+            "loss": 32,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2488,
+            "date": 1731643870,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2588,
+            "date": 1714600824,
+            "game": "https://www.chess.com/game/live/115192697583"
+        },
+        "record": {
+            "win": 1801,
+            "loss": 1977,
+            "draw": 303
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2541,
+            "date": 1741666938,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2607,
+            "date": 1727921794,
+            "game": "https://www.chess.com/game/live/75245514585"
+        },
+        "record": {
+            "win": 24705,
+            "loss": 27312,
+            "draw": 4839
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3462,
+            "date": 1713017259
+        },
+        "lowest": {
+            "rating": 1382,
+            "date": 1363665899
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

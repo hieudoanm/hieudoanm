@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28651376.90ec7310.200x200o.211310e6afd8.jpg",
+    "player_id": 28651376,
+    "@id": "https://api.chess.com/pub/player/annawel",
+    "url": "https://www.chess.com/member/Annawel",
+    "name": "Jules Moussard",
+    "username": "annawel",
+    "title": "GM",
+    "followers": 762,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1734135150,
+    "joined": 1466038494,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1268,
+            "date": 1546974698,
+            "rd": 213
+        },
+        "best": {
+            "rating": 1268,
+            "date": 1497720410,
+            "game": "https://www.chess.com/game/daily/163168532"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 77083,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2719,
+            "date": 1727718414,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1682966576,
+            "game": "https://www.chess.com/game/live/115063677211"
+        },
+        "record": {
+            "win": 83,
+            "loss": 40,
+            "draw": 47
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2999,
+            "date": 1733437692,
+            "rd": 42
+        },
+        "best": {
+            "rating": 3173,
+            "date": 1687008732,
+            "game": "https://www.chess.com/game/live/3588125829"
+        },
+        "record": {
+            "win": 3017,
+            "loss": 1220,
+            "draw": 246
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3003,
+            "date": 1733794726,
+            "rd": 36
+        },
+        "best": {
+            "rating": 3092,
+            "date": 1723153429,
+            "game": "https://www.chess.com/game/live/6377844284"
+        },
+        "record": {
+            "win": 2031,
+            "loss": 1327,
+            "draw": 358
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3526,
+            "date": 1648782352
+        },
+        "lowest": {
+            "rating": 1143,
+            "date": 1483931438
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "player_id": 23732356,
+    "@id": "https://api.chess.com/pub/player/aayaisyah",
+    "url": "https://www.chess.com/member/aayaisyah",
+    "name": "Aay Aisyah Anisa",
+    "username": "aayaisyah",
+    "title": "WFM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/ID",
+    "location": "Jakarta",
+    "last_online": 1741688806,
+    "joined": 1439976082,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1320,
+            "date": 1717674622,
+            "rd": 256
+        },
+        "best": {
+            "rating": 1320,
+            "date": 1453702335,
+            "game": "https://www.chess.com/game/daily/127153610"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 6000,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1997,
+            "date": 1741524716,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2013,
+            "date": 1706340196,
+            "game": "https://www.chess.com/game/live/100078376183"
+        },
+        "record": {
+            "win": 13,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2274,
+            "date": 1741688981,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1456308351,
+            "game": "https://www.chess.com/game/live/1476863470"
+        },
+        "record": {
+            "win": 88,
+            "loss": 64,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2211,
+            "date": 1740484144,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1695123280,
+            "game": "https://www.chess.com/game/live/1561352186"
+        },
+        "record": {
+            "win": 367,
+            "loss": 316,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2905,
+            "date": 1727500783
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1440239181
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

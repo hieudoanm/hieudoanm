@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30580404.4464303f.200x200o.5c8c66bf2ee4.jpeg",
+    "player_id": 30580404,
+    "@id": "https://api.chess.com/pub/player/dhammiko",
+    "url": "https://www.chess.com/member/dhammiko",
+    "name": "Dhatuyo Budiarto",
+    "username": "dhammiko",
+    "title": "CM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/ID",
+    "last_online": 1741687289,
+    "joined": 1477405346,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1911,
+            "date": 1741688871,
+            "rd": 86
+        },
+        "best": {
+            "rating": 1992,
+            "date": 1617091961,
+            "game": "https://www.chess.com/game/live/127637408881"
+        },
+        "record": {
+            "win": 120,
+            "loss": 162,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2370,
+            "date": 1741536655,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1692246716,
+            "game": "https://www.chess.com/game/live/129366817393"
+        },
+        "record": {
+            "win": 1406,
+            "loss": 1104,
+            "draw": 106
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2186,
+            "date": 1740852518,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2242,
+            "date": 1729673169,
+            "game": "https://www.chess.com/game/live/112464693865"
+        },
+        "record": {
+            "win": 95,
+            "loss": 68,
+            "draw": 6
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3236,
+            "date": 1690017802
+        },
+        "lowest": {
+            "rating": 1186,
+            "date": 1618305134
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

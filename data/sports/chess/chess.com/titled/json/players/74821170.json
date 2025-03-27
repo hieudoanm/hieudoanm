@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74821170.cc0a0724.200x200o.aa23ec3388d0.jpeg",
+    "player_id": 74821170,
+    "@id": "https://api.chess.com/pub/player/vversipellis",
+    "url": "https://www.chess.com/member/Vversipellis",
+    "name": "Teymur Bashirov",
+    "username": "vversipellis",
+    "title": "FM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741629382,
+    "joined": 1585409940,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2296,
+            "date": 1718880325,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1606920878,
+            "game": "https://www.chess.com/game/live/5869699990"
+        },
+        "record": {
+            "win": 5,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2179,
+            "date": 1728816795,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1716309830,
+            "game": "https://www.chess.com/game/live/53014187319"
+        },
+        "record": {
+            "win": 622,
+            "loss": 597,
+            "draw": 66
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1716282489,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1657457768,
+            "game": "https://www.chess.com/game/live/15830658569"
+        },
+        "record": {
+            "win": 292,
+            "loss": 184,
+            "draw": 24
+        }
+    },
+    "fide": 2302,
+    "tactics": {
+        "highest": {
+            "rating": 3571,
+            "date": 1737880385
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1586951741
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

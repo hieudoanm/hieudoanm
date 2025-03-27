@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62799788.c46cdb15.200x200o.57975d3d968a.jpg",
+    "player_id": 62799788,
+    "@id": "https://api.chess.com/pub/player/parnian_gh",
+    "url": "https://www.chess.com/member/Parnian_gh",
+    "name": "Parnian Ghomi",
+    "username": "parnian_gh",
+    "title": "WCM",
+    "followers": 51,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1739324194,
+    "joined": 1561808314,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1227,
+            "date": 1736388853,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2087,
+            "date": 1612797469,
+            "game": "https://www.chess.com/game/live/6481657682"
+        },
+        "record": {
+            "win": 36,
+            "loss": 9,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2605,
+            "date": 1738723221,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1737142223,
+            "game": "https://www.chess.com/game/live/130827582321"
+        },
+        "record": {
+            "win": 201,
+            "loss": 200,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2151,
+            "date": 1736389459,
+            "rd": 139
+        },
+        "best": {
+            "rating": 2430,
+            "date": 1583666799,
+            "game": "https://www.chess.com/game/live/4678386103"
+        },
+        "record": {
+            "win": 54,
+            "loss": 22,
+            "draw": 7
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3362,
+            "date": 1738185902
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1564205875
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

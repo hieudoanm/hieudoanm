@@ -1,0 +1,84 @@
+{
+    "player_id": 23552448,
+    "@id": "https://api.chess.com/pub/player/morralover",
+    "url": "https://www.chess.com/member/morralover",
+    "username": "morralover",
+    "title": "CM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Hamburg",
+    "last_online": 1741650368,
+    "joined": 1438844240,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1735560639,
+            "rd": 308
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1735560563,
+            "game": "https://www.chess.com/game/live/54565112395"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2251,
+            "date": 1741287126,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2429,
+            "date": 1711840536,
+            "game": "https://www.chess.com/game/live/133130929853"
+        },
+        "record": {
+            "win": 278,
+            "loss": 215,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2478,
+            "date": 1739650926,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1661891599,
+            "game": "https://www.chess.com/game/live/131319582943"
+        },
+        "record": {
+            "win": 778,
+            "loss": 625,
+            "draw": 122
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3126,
+            "date": 1705905157
+        },
+        "lowest": {
+            "rating": 1204,
+            "date": 1494634974
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

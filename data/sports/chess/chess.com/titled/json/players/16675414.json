@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16675414.f2a7b469.200x200o.742c2b6539b8.jpeg",
+    "player_id": 16675414,
+    "@id": "https://api.chess.com/pub/player/ayodub",
+    "url": "https://www.chess.com/member/AyoDub",
+    "username": "ayodub",
+    "title": "CM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "light squares",
+    "last_online": 1741566152,
+    "joined": 1396147847,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2010,
+            "date": 1704429754,
+            "rd": 124
+        },
+        "best": {
+            "rating": 2010,
+            "date": 1481679798,
+            "game": "https://www.chess.com/game/daily/124401474"
+        },
+        "record": {
+            "win": 44,
+            "loss": 5,
+            "draw": 4,
+            "time_per_move": 6338,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1726,
+            "date": 1511855937,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2046,
+            "date": 1414048737,
+            "game": "https://www.chess.com/game/live/1438396661"
+        },
+        "record": {
+            "win": 42,
+            "loss": 27,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2045,
+            "date": 1528368822,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1985,
+            "date": 1502700682,
+            "game": "https://www.chess.com/game/live/1378560449"
+        },
+        "record": {
+            "win": 384,
+            "loss": 284,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2102,
+            "date": 1696987650,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2102,
+            "date": 1512022344,
+            "game": "https://www.chess.com/game/live/2283174952"
+        },
+        "record": {
+            "win": 257,
+            "loss": 156,
+            "draw": 17
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3155,
+            "date": 1720340439
+        },
+        "lowest": {
+            "rating": 399,
+            "date": 1688975543
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

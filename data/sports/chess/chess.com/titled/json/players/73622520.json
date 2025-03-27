@@ -1,0 +1,84 @@
+{
+    "player_id": 73622520,
+    "@id": "https://api.chess.com/pub/player/heliopsis",
+    "url": "https://www.chess.com/member/Heliopsis",
+    "username": "heliopsis",
+    "title": "GM",
+    "followers": 334,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1734019039,
+    "joined": 1584355069,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1369,
+            "date": 1643703256,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1601720481,
+            "game": "https://www.chess.com/game/live/5901359663"
+        },
+        "record": {
+            "win": 7,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2447,
+            "date": 1689888570,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1623084037,
+            "game": "https://www.chess.com/game/live/14064069417"
+        },
+        "record": {
+            "win": 6,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2597,
+            "date": 1689889185,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2800,
+            "date": 1616946099,
+            "game": "https://www.chess.com/game/live/6151790450"
+        },
+        "record": {
+            "win": 307,
+            "loss": 234,
+            "draw": 66
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2814,
+            "date": 1632747130
+        },
+        "lowest": {
+            "rating": 2482,
+            "date": 1623051025
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

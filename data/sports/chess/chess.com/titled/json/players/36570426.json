@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36570426.098aca41.200x200o.5b2a12d70323.jpg",
+    "player_id": 36570426,
+    "@id": "https://api.chess.com/pub/player/jeaniiiusk",
+    "url": "https://www.chess.com/member/jeaniiiusk",
+    "name": "Jean Karen Enriquez",
+    "username": "jeaniiiusk",
+    "title": "WNM",
+    "followers": 482,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1741571483,
+    "joined": 1498390825,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1286,
+            "date": 1712305733,
+            "rd": 174
+        },
+        "best": {
+            "rating": 1862,
+            "date": 1527678510,
+            "game": "https://www.chess.com/game/daily/194756968"
+        },
+        "record": {
+            "win": 4,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 41039,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1793,
+            "date": 1737872674,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1619240121,
+            "game": "https://www.chess.com/game/live/12978260331"
+        },
+        "record": {
+            "win": 133,
+            "loss": 88,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2229,
+            "date": 1740973705,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1680364790,
+            "game": "https://www.chess.com/game/live/13102924427"
+        },
+        "record": {
+            "win": 721,
+            "loss": 714,
+            "draw": 58
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2179,
+            "date": 1730291388,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2415,
+            "date": 1618926419,
+            "game": "https://www.chess.com/game/live/47820591677"
+        },
+        "record": {
+            "win": 392,
+            "loss": 286,
+            "draw": 43
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3053,
+            "date": 1682160328
+        },
+        "lowest": {
+            "rating": 1188,
+            "date": 1498393044
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 32
+        }
+    }
+}

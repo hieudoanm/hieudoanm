@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4524071.8256654c.200x200o.4eb24ade0793.jpeg",
+    "player_id": 4524071,
+    "@id": "https://api.chess.com/pub/player/aikiigm",
+    "url": "https://www.chess.com/member/Aikiigm",
+    "name": "Manea Alexandru",
+    "username": "aikiigm",
+    "title": "IM",
+    "followers": 707,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Bucuresti",
+    "last_online": 1741697787,
+    "joined": 1294516948,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1200,
+            "date": 1713034817,
+            "rd": 350
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1294516948,
+            "game": "https://www.chess.com/game/daily/42960674"
+        },
+        "record": {
+            "win": 1,
+            "loss": 12,
+            "draw": 0,
+            "time_per_move": 204,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2444,
+            "date": 1741550531,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1688933700,
+            "game": "https://www.chess.com/game/live/1907576728"
+        },
+        "record": {
+            "win": 8,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2599,
+            "date": 1741374431,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2661,
+            "date": 1736547841,
+            "game": "https://www.chess.com/game/live/129552165495"
+        },
+        "record": {
+            "win": 3310,
+            "loss": 2566,
+            "draw": 371
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2583,
+            "date": 1741698071,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1724936996,
+            "game": "https://www.chess.com/game/live/80433558449"
+        },
+        "record": {
+            "win": 6518,
+            "loss": 4821,
+            "draw": 1116
+        }
+    },
+    "fide": 2414,
+    "tactics": {
+        "highest": {
+            "rating": 1291,
+            "date": 1651171190
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1548620017
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

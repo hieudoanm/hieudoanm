@@ -1,0 +1,84 @@
+{
+    "player_id": 73910730,
+    "@id": "https://api.chess.com/pub/player/ibemadhappy",
+    "url": "https://www.chess.com/member/ibemadhappy",
+    "username": "ibemadhappy",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740540612,
+    "joined": 1584661482,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2257,
+            "date": 1715982876,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2270,
+            "date": 1703556008,
+            "game": "https://www.chess.com/game/live/97294217241"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2462,
+            "date": 1690631427,
+            "rd": 205
+        },
+        "best": {
+            "rating": 2462,
+            "date": 1690631427,
+            "game": "https://www.chess.com/game/live/84370233001"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2318,
+            "date": 1740540835,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2419,
+            "date": 1730951257,
+            "game": "https://www.chess.com/game/live/125365759363"
+        },
+        "record": {
+            "win": 474,
+            "loss": 397,
+            "draw": 76
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2891,
+            "date": 1738374716
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1584661482
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

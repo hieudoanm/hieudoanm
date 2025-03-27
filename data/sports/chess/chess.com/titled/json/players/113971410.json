@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/113971410.156543bf.200x200o.7a266f7af914.png",
+    "player_id": 113971410,
+    "@id": "https://api.chess.com/pub/player/goamaster",
+    "url": "https://www.chess.com/member/goamaster",
+    "name": "\u017deljko Mati\u0107",
+    "username": "goamaster",
+    "title": "CM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/HR",
+    "location": "Croatia",
+    "last_online": 1741612542,
+    "joined": 1611085865,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2165,
+            "date": 1741438415,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1650230471,
+            "game": "https://www.chess.com/game/live/7402344229"
+        },
+        "record": {
+            "win": 160,
+            "loss": 46,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2137,
+            "date": 1704553747,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1704450650,
+            "game": "https://www.chess.com/game/live/8112282107"
+        },
+        "record": {
+            "win": 2203,
+            "loss": 663,
+            "draw": 108
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2312,
+            "date": 1741429588,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1718742422,
+            "game": "https://www.chess.com/game/live/102236650327"
+        },
+        "record": {
+            "win": 674,
+            "loss": 262,
+            "draw": 66
+        }
+    },
+    "fide": 2170,
+    "tactics": {
+        "highest": {
+            "rating": 3452,
+            "date": 1739717333
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1611092094
+        }
+    },
+    "puzzle_rush": {}
+}

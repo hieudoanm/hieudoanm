@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26989512.adcdc4e1.200x200o.cccf0f920e7e.jpeg",
+    "player_id": 26989512,
+    "@id": "https://api.chess.com/pub/player/reb",
+    "url": "https://www.chess.com/member/Reb",
+    "name": "Rex Blalock",
+    "username": "reb",
+    "title": "NM",
+    "followers": 112,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Georgia",
+    "last_online": 1741696612,
+    "joined": 1456708816,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1597,
+            "date": 1735982919,
+            "rd": 233
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1456708816,
+            "game": "https://www.chess.com/game/daily/601426565"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 17882,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2151,
+            "date": 1705887926,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1668280759,
+            "game": "https://www.chess.com/game/live/67472449607"
+        },
+        "record": {
+            "win": 11,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1532,
+            "date": 1741703397,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2019,
+            "date": 1466027414,
+            "game": "https://www.chess.com/game/live/34803022885"
+        },
+        "record": {
+            "win": 15907,
+            "loss": 15518,
+            "draw": 576
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2000,
+            "date": 1739893833,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2458,
+            "date": 1626571072,
+            "game": "https://www.chess.com/game/live/46066778463"
+        },
+        "record": {
+            "win": 5976,
+            "loss": 5631,
+            "draw": 498
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3024,
+            "date": 1739292949
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1585415762
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 27
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77376724.793f7536.200x200o.8b3ee5fe831b.jpg",
+    "player_id": 77376724,
+    "@id": "https://api.chess.com/pub/player/promotedpawn101",
+    "url": "https://www.chess.com/member/PromotedPawn101",
+    "name": "Chaimaa Alaoui Belghiti",
+    "username": "promotedpawn101",
+    "title": "WFM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Montr\u00e9al",
+    "last_online": 1740415063,
+    "joined": 1587470505,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1661,
+            "date": 1732652312,
+            "rd": 278
+        },
+        "best": {
+            "rating": 1732,
+            "date": 1598024340,
+            "game": "https://www.chess.com/game/live/5319839007"
+        },
+        "record": {
+            "win": 4,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1546,
+            "date": 1736524166,
+            "rd": 134
+        },
+        "best": {
+            "rating": 1642,
+            "date": 1599168551,
+            "game": "https://www.chess.com/game/live/5153563924"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1993,
+            "date": 1648139853
+        },
+        "lowest": {
+            "rating": 1705,
+            "date": 1648137520
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

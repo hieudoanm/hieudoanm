@@ -1,0 +1,106 @@
+{
+    "player_id": 62339344,
+    "@id": "https://api.chess.com/pub/player/casper",
+    "url": "https://www.chess.com/member/Casper",
+    "name": "Casper Liu",
+    "username": "casper",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/DK",
+    "last_online": 1741687448,
+    "joined": 1560681213,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1763,
+            "date": 1729474725,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1829,
+            "date": 1561572668,
+            "game": "https://www.chess.com/game/daily/348930191"
+        },
+        "record": {
+            "win": 22,
+            "loss": 13,
+            "draw": 3,
+            "time_per_move": 33386,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2227,
+            "date": 1726847278,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2330,
+            "date": 1691424582,
+            "game": "https://www.chess.com/game/live/85159367737"
+        },
+        "record": {
+            "win": 28,
+            "loss": 11,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2738,
+            "date": 1738858627
+        },
+        "best": {
+            "rating": 2768,
+            "date": 1732878544,
+            "game": "https://www.chess.com/game/live/130717825513"
+        },
+        "record": {
+            "win": 387,
+            "loss": 196,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2565,
+            "date": 1741109232,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1728401955,
+            "game": "https://www.chess.com/game/live/99764592601"
+        },
+        "record": {
+            "win": 825,
+            "loss": 829,
+            "draw": 114
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3784,
+            "date": 1732802790
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1560682619
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        },
+        "daily": {
+            "total_attempts": 3,
+            "score": 1
+        }
+    }
+}

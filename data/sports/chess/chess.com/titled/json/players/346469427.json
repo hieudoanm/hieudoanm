@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/346469427.576ccf22.200x200o.acbdb8cadd07.jpg",
+    "player_id": 346469427,
+    "@id": "https://api.chess.com/pub/player/chesskhan11",
+    "url": "https://www.chess.com/member/ChessKhan11",
+    "name": "Alikhan Daulet",
+    "username": "chesskhan11",
+    "title": "CM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741702300,
+    "joined": 1708445092,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2003,
+            "date": 1726848514,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2603,
+            "date": 1741583358,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2682,
+            "date": 1725129054,
+            "game": "https://www.chess.com/game/live/126120549343"
+        },
+        "record": {
+            "win": 798,
+            "loss": 704,
+            "draw": 92
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2684,
+            "date": 1741590564,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2776,
+            "date": 1737825266,
+            "game": "https://www.chess.com/game/live/133637939233"
+        },
+        "record": {
+            "win": 816,
+            "loss": 568,
+            "draw": 108
+        }
+    },
+    "fide": 2013,
+    "tactics": {
+        "highest": {
+            "rating": 3328,
+            "date": 1727842439
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1708445092
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

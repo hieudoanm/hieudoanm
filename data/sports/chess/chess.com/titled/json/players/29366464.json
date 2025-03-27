@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29366464.125e7356.200x200o.0dc3ba0e71b7.jpg",
+    "player_id": 29366464,
+    "@id": "https://api.chess.com/pub/player/saihanthiha",
+    "url": "https://www.chess.com/member/SaiHanThiha",
+    "name": "Mr. Sai Han Thiha",
+    "username": "saihanthiha",
+    "title": "FM",
+    "followers": 80,
+    "country": "https://api.chess.com/pub/country/MM",
+    "location": "myanmar mandalay",
+    "last_online": 1740299695,
+    "joined": 1470472051,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1570,
+            "date": 1710232125,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2037,
+            "date": 1670297162,
+            "game": "https://www.chess.com/game/daily/443985083"
+        },
+        "record": {
+            "win": 107,
+            "loss": 40,
+            "draw": 9,
+            "time_per_move": 20283,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1260,
+            "date": 1621335187,
+            "rd": 178
+        },
+        "best": {
+            "rating": 1260,
+            "date": 1621335187,
+            "game": "https://www.chess.com/game/daily/330929364"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 20283,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2323,
+            "date": 1726847676,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1657855013,
+            "game": "https://www.chess.com/game/live/19286752139"
+        },
+        "record": {
+            "win": 752,
+            "loss": 545,
+            "draw": 57
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2488,
+            "date": 1734201015,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1669824403,
+            "game": "https://www.chess.com/game/live/82485605169"
+        },
+        "record": {
+            "win": 1699,
+            "loss": 1446,
+            "draw": 132
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2576,
+            "date": 1737283455,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2666,
+            "date": 1733043053,
+            "game": "https://www.chess.com/game/live/44209583533"
+        },
+        "record": {
+            "win": 5964,
+            "loss": 5104,
+            "draw": 672
+        }
+    },
+    "fide": 2161,
+    "tactics": {
+        "highest": {
+            "rating": 3479,
+            "date": 1714923041
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1500628523
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75200920.6085313d.200x200o.028857c3ed5f.jpeg",
+    "player_id": 75200920,
+    "@id": "https://api.chess.com/pub/player/andaglas",
+    "url": "https://www.chess.com/member/andaglas",
+    "name": "Andri Gr\u00e9tarsson",
+    "username": "andaglas",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/IS",
+    "last_online": 1739563058,
+    "joined": 1585670248,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1842,
+            "date": 1705087279,
+            "rd": 195
+        },
+        "best": {
+            "rating": 1842,
+            "date": 1705087279,
+            "game": "https://www.chess.com/game/live/4707764592"
+        },
+        "record": {
+            "win": 10,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2021,
+            "date": 1732299900,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2202,
+            "date": 1728515267,
+            "game": "https://www.chess.com/game/live/122079522379"
+        },
+        "record": {
+            "win": 1396,
+            "loss": 832,
+            "draw": 69
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2229,
+            "date": 1741641450,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2239,
+            "date": 1604257699,
+            "game": "https://www.chess.com/game/live/5927902279"
+        },
+        "record": {
+            "win": 222,
+            "loss": 91,
+            "draw": 10
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2372,
+            "date": 1736020333
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1585752084
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

@@ -1,0 +1,213 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  schemas  = ["chess"]
+}
+
+generator dbml {
+  provider = "prisma-dbml-generator"
+}
+
+generator jsonSchema {
+  provider = "prisma-json-schema-generator"
+}
+
+generator markdown {
+  provider = "prisma-markdown"
+  output   = "./README.md"
+}
+
+model Player {
+  id                    Int      @id @map("id")
+  username              String   @unique @map("username") @db.VarChar(255)
+  avatar                String   @default("") @map("avatar") @db.VarChar(255)
+  name                  String   @default("") @map("name") @db.VarChar(255)
+  title                 Title    @default(GM) @map("title")
+  country               String   @default("") @map("country") @db.VarChar(255)
+  countryCode           String   @default("") @map("country_code") @db.VarChar(255)
+  status                String   @default("") @map("status") @db.VarChar(255)
+  league                String   @default("") @map("league") @db.VarChar(255)
+  url                   String   @default("") @map("url") @db.VarChar(255)
+  twitchUrl             String   @default("") @map("twitch_url") @db.VarChar(255)
+  isStreamer            Boolean  @default(false) @map("is_streamer") @db.Boolean
+  verified              Boolean  @default(false) @map("verified") @db.Boolean
+  lastOnline            DateTime @default(now()) @map("last_online") @db.Timestamptz()
+  joined                DateTime @default(now()) @map("joined") @db.Timestamptz()
+  rapidRatingBest       Int      @default(0) @map("rapid_rating_best") @db.Integer
+  rapidRatingLast       Int      @default(0) @map("rapid_rating_last") @db.Integer
+  rapidRatingDeviation  Int      @default(0) @map("rapid_rating_reviation") @db.Integer
+  rapidRecordWin        Int      @default(0) @map("rapid_record_win") @db.Integer
+  rapidRecordDraw       Int      @default(0) @map("rapid_record_draw") @db.Integer
+  rapidRecordLoss       Int      @default(0) @map("rapid_record_loss") @db.Integer
+  blitzRatingBest       Int      @default(0) @map("blitz_rating_best") @db.Integer
+  blitzRatingLast       Int      @default(0) @map("blitz_rating_last") @db.Integer
+  blitzRatingDeviation  Int      @default(0) @map("blitz_rating_reviation") @db.Integer
+  blitzRecordWin        Int      @default(0) @map("blitz_record_win") @db.Integer
+  blitzRecordDraw       Int      @default(0) @map("blitz_record_draw") @db.Integer
+  blitzRecordLoss       Int      @default(0) @map("blitz_record_loss") @db.Integer
+  bulletRatingBest      Int      @default(0) @map("bullet_rating_best") @db.Integer
+  bulletRatingLast      Int      @default(0) @map("bullet_rating_last") @db.Integer
+  bulletRatingDeviation Int      @default(0) @map("bullet_rating_reviation") @db.Integer
+  bulletRecordWin       Int      @default(0) @map("bullet_record_win") @db.Integer
+  bulletRecordDraw      Int      @default(0) @map("bullet_record_draw") @db.Integer
+  bulletRecordLoss      Int      @default(0) @map("bullet_record_loss") @db.Integer
+  createdAt             DateTime @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt             DateTime @default(now()) @updatedAt @map("updated_at") @db.Timestamptz
+
+  @@index([id, username])
+  @@map("player")
+  @@schema("chess")
+}
+
+enum Title {
+  GM
+  IM
+  FM
+  CM
+  NM
+  WGM
+  WIM
+  WFM
+  WCM
+  WNM
+  AGM
+  AIM
+  AFM
+  ACM
+
+  @@schema("chess")
+}
+
+enum TimeClass {
+  daily
+  classical
+  rapid
+  blitz
+  bullet
+
+  @@schema("chess")
+}
+
+enum Result {
+  win
+  fiftymove
+  agreed
+  insufficient
+  repetition
+  stalemate
+  timevsinsufficient
+  checkmated
+  resigned
+  timeout
+  abandoned
+  bughousepartnerlose
+  threecheck
+  kingofthehill
+
+  @@schema("chess")
+}
+
+enum Variant {
+  bughouse
+  chess
+  chess960
+  crazyhouse
+  kingofthehill
+  oddschess
+  threecheck
+
+  @@schema("chess")
+}
+
+enum Phrase {
+  opening
+  middlegame
+  endgame
+
+  @@schema("chess")
+}
+
+model Game {
+  uuid          String    @id @map("uuid") @db.Uuid
+  url           String    @map("url") @db.VarChar(255)
+  pgn           String    @default("") @map("pgn") @db.Text
+  timeClass     TimeClass @default(classical) @map("time_class")
+  timeControl   String    @default("") @map("time_control") @db.VarChar(255)
+  endTime       DateTime  @default(now()) @map("end_time") @db.Timestamptz()
+  rated         Boolean   @default(false) @map("rated") @db.Boolean
+  initialSetup  String    @default("") @map("initial_setup") @db.VarChar(255)
+  fen           String    @default("") @map("fen") @db.VarChar(255)
+  tcn           String    @default("") @map("tcn") @db.Text
+  rules         Variant   @default(chess) @map("rules")
+  whiteAccuracy Float     @default(0) @map("white_accuracy") @db.DoublePrecision
+  whiteRating   Int       @default(0) @map("white_rating") @db.SmallInt
+  whiteResult   Result    @map("white_result")
+  whiteUsername String    @default("") @map("white_username") @db.VarChar(255)
+  whiteKing     Int       @default(0) @map("white_king") @db.SmallInt
+  whiteQueen    Int       @default(0) @map("white_queen") @db.SmallInt
+  whiteRook     Int       @default(0) @map("white_rook") @db.SmallInt
+  whiteBishop   Int       @default(0) @map("white_bishop") @db.SmallInt
+  whiteKnight   Int       @default(0) @map("white_knight") @db.SmallInt
+  whitePawn     Int       @default(0) @map("white_pawn") @db.SmallInt
+  whiteCastling String    @default("") @map("white_castling") @db.VarChar(5)
+  blackAccuracy Float     @default(0) @map("black_accuracy") @db.DoublePrecision
+  blackRating   Int       @default(0) @map("black_rating") @db.SmallInt
+  blackResult   Result    @map("black_result")
+  blackUsername String    @default("") @map("black_username") @db.VarChar(255)
+  blackKing     Int       @default(0) @map("black_king") @db.SmallInt
+  blackQueen    Int       @default(0) @map("black_queen") @db.SmallInt
+  blackRook     Int       @default(0) @map("black_rook") @db.SmallInt
+  blackBishop   Int       @default(0) @map("black_bishop") @db.SmallInt
+  blackKnight   Int       @default(0) @map("black_knight") @db.SmallInt
+  blackPawn     Int       @default(0) @map("black_pawn") @db.SmallInt
+  blackCastling String    @default("") @map("black_castling") @db.VarChar(5)
+  opening       String    @default("") @map("opening") @db.VarChar(3)
+  openingName   String    @default("") @map("opening_name") @db.VarChar(255)
+  endPhrase     Phrase    @default(endgame) @map("end_phrase")
+  termination   String    @default("") @map("termination")
+  createdAt     DateTime  @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt     DateTime  @default(now()) @updatedAt @map("updated_at") @db.Timestamptz
+
+  @@index([uuid])
+  @@map("game")
+  @@schema("chess")
+}
+
+model Opening {
+  eco       String   @default("") @map("eco") @db.VarChar(3)
+  name      String   @default("") @map("name") @db.VarChar(255)
+  fen       String   @default("") @map("fen") @db.VarChar(255)
+  pgn       String   @default("") @map("pgn") @db.VarChar(255)
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt DateTime @default(now()) @updatedAt @map("updated_at") @db.Timestamptz
+
+  @@id([eco, name, pgn])
+  @@map("opening")
+  @@schema("chess")
+}
+
+model Country {
+  cca2      String   @unique @default("") @map("cca2") @db.VarChar(255)
+  cca3      String   @unique @default("") @map("cca3") @db.VarChar(255)
+  name      String   @default("") @map("name") @db.VarChar(255)
+  common    String   @default("") @map("common") @db.VarChar(255)
+  official  String   @default("") @map("official") @db.VarChar(255)
+  flag      String   @default("") @map("flag") @db.VarChar(255)
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt DateTime @default(now()) @updatedAt @map("updated_at") @db.Timestamptz
+
+  @@id([cca2, cca3])
+  @@map("country")
+  @@schema("chess")
+}

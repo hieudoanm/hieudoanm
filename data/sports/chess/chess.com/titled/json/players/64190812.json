@@ -1,0 +1,123 @@
+{
+    "player_id": 64190812,
+    "@id": "https://api.chess.com/pub/player/ant_chess_2019",
+    "url": "https://www.chess.com/member/ant_chess_2019",
+    "name": "Antonios Gkavardinas",
+    "username": "ant_chess_2019",
+    "title": "FM",
+    "followers": 195,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741701504,
+    "joined": 1565532731,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1768,
+            "date": 1739372873,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2033,
+            "date": 1653593404,
+            "game": "https://www.chess.com/game/daily/391187113"
+        },
+        "record": {
+            "win": 92,
+            "loss": 23,
+            "draw": 2,
+            "time_per_move": 39270,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1644,
+            "date": 1668157039,
+            "rd": 137
+        },
+        "best": {
+            "rating": 1826,
+            "date": 1624627281,
+            "game": "https://www.chess.com/game/daily/348921319"
+        },
+        "record": {
+            "win": 8,
+            "loss": 6,
+            "draw": 2,
+            "time_per_move": 39270,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2294,
+            "date": 1739889619,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2049,
+            "date": 1737308242,
+            "game": "https://www.chess.com/game/live/34930210795"
+        },
+        "record": {
+            "win": 49,
+            "loss": 16,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2846,
+            "date": 1741362994,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2867,
+            "date": 1741279225,
+            "game": "https://www.chess.com/game/live/134591358807"
+        },
+        "record": {
+            "win": 715,
+            "loss": 332,
+            "draw": 50
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2653,
+            "date": 1741626344,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2668,
+            "date": 1741104462,
+            "game": "https://www.chess.com/game/live/134241561497"
+        },
+        "record": {
+            "win": 297,
+            "loss": 107,
+            "draw": 23
+        }
+    },
+    "fide": 2302,
+    "tactics": {
+        "highest": {
+            "rating": 3659,
+            "date": 1738168298
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1622462813
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

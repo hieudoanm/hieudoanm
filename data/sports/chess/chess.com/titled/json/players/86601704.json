@@ -1,0 +1,85 @@
+{
+    "player_id": 86601704,
+    "@id": "https://api.chess.com/pub/player/khusenkhojaev",
+    "url": "https://www.chess.com/member/Khusenkhojaev",
+    "name": "Muhammad Khusenkhojaev",
+    "username": "khusenkhojaev",
+    "title": "IM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/TJ",
+    "location": "\u0418\u0441\u0444\u0430\u0440\u0430",
+    "last_online": 1741670041,
+    "joined": 1594658094,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1605873798,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2402,
+            "date": 1596800640,
+            "game": "https://www.chess.com/game/live/5618750848"
+        },
+        "record": {
+            "win": 20,
+            "loss": 10,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2456,
+            "date": 1734880971,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2465,
+            "date": 1691339770,
+            "game": "https://www.chess.com/game/live/109258262647"
+        },
+        "record": {
+            "win": 47,
+            "loss": 54,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2737,
+            "date": 1741671886,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2864,
+            "date": 1735914370,
+            "game": "https://www.chess.com/game/live/100573894021"
+        },
+        "record": {
+            "win": 2634,
+            "loss": 2727,
+            "draw": 579
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3755,
+            "date": 1684823771
+        },
+        "lowest": {
+            "rating": 2403,
+            "date": 1596878863
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

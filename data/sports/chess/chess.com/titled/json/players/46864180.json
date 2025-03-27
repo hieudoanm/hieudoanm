@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46864180.a46d16c2.200x200o.94f78fd951a4.jpeg",
+    "player_id": 46864180,
+    "@id": "https://api.chess.com/pub/player/phelathegreat",
+    "url": "https://www.chess.com/member/Phelathegreat",
+    "name": "Mabusela Johannes",
+    "username": "phelathegreat",
+    "title": "IM",
+    "followers": 477,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "location": "Pretoria",
+    "last_online": 1741616232,
+    "joined": 1528304328,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1671,
+            "date": 1734023536,
+            "rd": 115
+        },
+        "best": {
+            "rating": 1671,
+            "date": 1734023535,
+            "game": "https://www.chess.com/game/daily/660052723"
+        },
+        "record": {
+            "win": 27,
+            "loss": 4,
+            "draw": 3,
+            "time_per_move": 99471,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1140,
+            "date": 1708369973,
+            "rd": 293
+        },
+        "best": {
+            "rating": 1140,
+            "date": 1708369972,
+            "game": "https://www.chess.com/game/daily/610815747"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 99471,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2506,
+            "date": 1733138225,
+            "rd": 192
+        },
+        "best": {
+            "rating": 2524,
+            "date": 1602943095,
+            "game": "https://www.chess.com/game/live/64851135433"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2364,
+            "date": 1694782755,
+            "rd": 172
+        },
+        "best": {
+            "rating": 2455,
+            "date": 1651071501,
+            "game": "https://www.chess.com/game/live/3587932538"
+        },
+        "record": {
+            "win": 59,
+            "loss": 56,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2412,
+            "date": 1741617401,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1626622513,
+            "game": "https://www.chess.com/game/live/93539923483"
+        },
+        "record": {
+            "win": 485,
+            "loss": 421,
+            "draw": 87
+        }
+    },
+    "fide": 2245,
+    "tactics": {
+        "highest": {
+            "rating": 2843,
+            "date": 1645549665
+        },
+        "lowest": {
+            "rating": 1431,
+            "date": 1538643712
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

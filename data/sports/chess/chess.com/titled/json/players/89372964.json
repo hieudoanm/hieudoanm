@@ -1,0 +1,104 @@
+{
+    "player_id": 89372964,
+    "@id": "https://api.chess.com/pub/player/eugeniuszkrol123",
+    "url": "https://www.chess.com/member/EugeniuszKrol123",
+    "name": "Eugeniusz Kr\u00f3l",
+    "username": "eugeniuszkrol123",
+    "title": "FM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Katowice",
+    "last_online": 1739740400,
+    "joined": 1597824828,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1615,
+            "date": 1730305278,
+            "rd": 336
+        },
+        "best": {
+            "rating": 1615,
+            "date": 1687095845,
+            "game": "https://www.chess.com/game/daily/452313767"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 56901,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1736506429,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1697808520,
+            "game": "https://www.chess.com/game/live/73816966449"
+        },
+        "record": {
+            "win": 141,
+            "loss": 134,
+            "draw": 26
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2549,
+            "date": 1730988939,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1709417563,
+            "game": "https://www.chess.com/game/live/121452021985"
+        },
+        "record": {
+            "win": 891,
+            "loss": 1024,
+            "draw": 121
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2493,
+            "date": 1739740787,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1732783582,
+            "game": "https://www.chess.com/game/live/64268987633"
+        },
+        "record": {
+            "win": 898,
+            "loss": 878,
+            "draw": 144
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2195,
+            "date": 1697808727
+        },
+        "lowest": {
+            "rating": 1004,
+            "date": 1600500115
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

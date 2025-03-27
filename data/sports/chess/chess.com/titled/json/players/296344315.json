@@ -1,0 +1,84 @@
+{
+    "player_id": 296344315,
+    "@id": "https://api.chess.com/pub/player/2krk1",
+    "url": "https://www.chess.com/member/2KRK1",
+    "name": "Jose Miguel Fernandez Garcia",
+    "username": "2krk1",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1740240735,
+    "joined": 1687878279,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2395,
+            "date": 1739994674,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2395,
+            "date": 1688058964,
+            "game": "https://www.chess.com/game/live/133732746079"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2763,
+            "date": 1726273767,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2799,
+            "date": 1689161137,
+            "game": "https://www.chess.com/game/live/83506667925"
+        },
+        "record": {
+            "win": 75,
+            "loss": 65,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2689,
+            "date": 1726764233,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2741,
+            "date": 1689340894,
+            "game": "https://www.chess.com/game/live/83873535727"
+        },
+        "record": {
+            "win": 296,
+            "loss": 230,
+            "draw": 62
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1687878279
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1687878279
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 36
+        }
+    }
+}

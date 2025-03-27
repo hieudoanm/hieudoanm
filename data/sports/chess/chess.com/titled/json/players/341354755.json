@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/341354755.ab9c6c79.200x200o.4b4e7e5bd00e.jpg",
+    "player_id": 341354755,
+    "@id": "https://api.chess.com/pub/player/culum2007",
+    "url": "https://www.chess.com/member/Culum2007",
+    "name": "Sanjin Culum",
+    "username": "culum2007",
+    "title": "IM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/BA",
+    "last_online": 1740928803,
+    "joined": 1706274505,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2682,
+            "date": 1740855594,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2715,
+            "date": 1728752053,
+            "game": "https://www.chess.com/game/live/121889439735"
+        },
+        "record": {
+            "win": 194,
+            "loss": 213,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2557,
+            "date": 1729758683,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1724847093,
+            "game": "https://www.chess.com/game/live/120346245745"
+        },
+        "record": {
+            "win": 85,
+            "loss": 50,
+            "draw": 15
+        }
+    },
+    "fide": 2409,
+    "tactics": {
+        "highest": {
+            "rating": 2960,
+            "date": 1740647502
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1706274505
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

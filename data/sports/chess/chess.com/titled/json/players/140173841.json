@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/140173841.75527e6c.200x200o.500048302723.png",
+    "player_id": 140173841,
+    "@id": "https://api.chess.com/pub/player/vladimir_zakhartsov",
+    "url": "https://www.chess.com/member/Vladimir_Zakhartsov",
+    "name": "Vladimir Zakhartsov",
+    "username": "vladimir_zakhartsov",
+    "title": "GM",
+    "followers": 198,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1740849618,
+    "joined": 1620938308,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2508,
+            "date": 1727285349,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1682954429,
+            "game": "https://www.chess.com/game/live/76692214297"
+        },
+        "record": {
+            "win": 10,
+            "loss": 16,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2896,
+            "date": 1717111456,
+            "rd": 36
+        },
+        "best": {
+            "rating": 3048,
+            "date": 1688750966,
+            "game": "https://www.chess.com/game/live/82490524809"
+        },
+        "record": {
+            "win": 158,
+            "loss": 75,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2944,
+            "date": 1741686581,
+            "rd": 26
+        },
+        "best": {
+            "rating": 3056,
+            "date": 1710841758,
+            "game": "https://www.chess.com/game/live/71226255323"
+        },
+        "record": {
+            "win": 1470,
+            "loss": 956,
+            "draw": 326
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2085,
+            "date": 1679320179
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1642290183
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

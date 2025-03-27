@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3695762.7b8897f6.200x200o.50f28ba8d42d.jpg",
+    "player_id": 3695762,
+    "@id": "https://api.chess.com/pub/player/cami3",
+    "url": "https://www.chess.com/member/Cami3",
+    "name": "Camelia-Adriana Ciobanu",
+    "username": "cami3",
+    "title": "WIM",
+    "followers": 1759,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741625959,
+    "joined": 1278993573,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1779,
+            "date": 1733822890,
+            "rd": 136
+        },
+        "best": {
+            "rating": 1904,
+            "date": 1545996654,
+            "game": "https://www.chess.com/game/daily/169546724"
+        },
+        "record": {
+            "win": 257,
+            "loss": 73,
+            "draw": 28,
+            "time_per_move": 26268,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1631,
+            "date": 1495029702,
+            "rd": 305
+        },
+        "best": {
+            "rating": 1631,
+            "date": 1495029702,
+            "game": "https://www.chess.com/game/daily/162885984"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 26268,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1403,
+            "date": 1740762307,
+            "rd": 190
+        },
+        "best": {
+            "rating": 1979,
+            "date": 1548755811,
+            "game": "https://www.chess.com/game/live/3223595300"
+        },
+        "record": {
+            "win": 41,
+            "loss": 11,
+            "draw": 71
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1819,
+            "date": 1713099788,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1847,
+            "date": 1446746311,
+            "game": "https://www.chess.com/game/live/1995614097"
+        },
+        "record": {
+            "win": 454,
+            "loss": 416,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1799,
+            "date": 1679491654,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2110,
+            "date": 1492628815,
+            "game": "https://www.chess.com/game/live/6007008004"
+        },
+        "record": {
+            "win": 410,
+            "loss": 176,
+            "draw": 88
+        }
+    },
+    "fide": 2121,
+    "tactics": {
+        "highest": {
+            "rating": 2835,
+            "date": 1740500698
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1279325885
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

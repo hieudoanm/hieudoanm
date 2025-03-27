@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/203984067.3ba5b37d.200x200o.d999a0f651d0.png",
+    "player_id": 203984067,
+    "@id": "https://api.chess.com/pub/player/myst2500",
+    "url": "https://www.chess.com/member/Myst2500",
+    "name": "Md Imran",
+    "username": "myst2500",
+    "title": "FM",
+    "followers": 59,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741632785,
+    "joined": 1667136138,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1852,
+            "date": 1741633254,
+            "rd": 50
+        },
+        "best": {
+            "rating": 1907,
+            "date": 1740099725,
+            "game": "https://www.chess.com/game/daily/771847491"
+        },
+        "record": {
+            "win": 209,
+            "loss": 29,
+            "draw": 3,
+            "time_per_move": 25803,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1660,
+            "date": 1741633234,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1660,
+            "date": 1741633234,
+            "game": "https://www.chess.com/game/daily/765061945"
+        },
+        "record": {
+            "win": 33,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 25803,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2354,
+            "date": 1739274576,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1739273898,
+            "game": "https://www.chess.com/game/live/132923369829"
+        },
+        "record": {
+            "win": 54,
+            "loss": 10,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2701,
+            "date": 1739901653,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2804,
+            "date": 1731548209,
+            "game": "https://www.chess.com/game/live/125638709421"
+        },
+        "record": {
+            "win": 2115,
+            "loss": 1656,
+            "draw": 158
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2644,
+            "date": 1739897332,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2796,
+            "date": 1729890752,
+            "game": "https://www.chess.com/game/live/68920561813"
+        },
+        "record": {
+            "win": 1131,
+            "loss": 897,
+            "draw": 150
+        }
+    },
+    "fide": 2421,
+    "tactics": {
+        "highest": {
+            "rating": 3409,
+            "date": 1737436176
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1667137264
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 46
+        }
+    }
+}

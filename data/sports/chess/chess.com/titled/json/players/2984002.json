@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2984002.c4b8b09f.200x200o.14eba29ac3f7.jpeg",
+    "player_id": 2984002,
+    "@id": "https://api.chess.com/pub/player/kerrystead",
+    "url": "https://www.chess.com/member/KerryStead",
+    "name": "Kerry Stead",
+    "username": "kerrystead",
+    "title": "CM",
+    "followers": 186,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Gold Coast",
+    "last_online": 1741642187,
+    "joined": 1211784101,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1622,
+            "date": 1741694403,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2095,
+            "date": 1268112909,
+            "game": "https://www.chess.com/game/daily/56718790"
+        },
+        "record": {
+            "win": 2508,
+            "loss": 1019,
+            "draw": 311,
+            "time_per_move": 16121,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1779,
+            "date": 1660681080,
+            "rd": 100
+        },
+        "best": {
+            "rating": 1853,
+            "date": 1541765615,
+            "game": "https://www.chess.com/game/daily/262500788"
+        },
+        "record": {
+            "win": 80,
+            "loss": 54,
+            "draw": 18,
+            "time_per_move": 16121,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1880,
+            "date": 1725094829,
+            "rd": 123
+        },
+        "best": {
+            "rating": 1932,
+            "date": 1711081039,
+            "game": "https://www.chess.com/game/live/104819398077"
+        },
+        "record": {
+            "win": 29,
+            "loss": 14,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1743,
+            "date": 1709562934,
+            "rd": 76
+        },
+        "best": {
+            "rating": 1803,
+            "date": 1699732842,
+            "game": "https://www.chess.com/game/live/93422344861"
+        },
+        "record": {
+            "win": 48,
+            "loss": 29,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2022,
+            "date": 1741624253,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2174,
+            "date": 1586293756,
+            "game": "https://www.chess.com/game/live/129422608613"
+        },
+        "record": {
+            "win": 1025,
+            "loss": 897,
+            "draw": 139
+        }
+    },
+    "fide": 1900,
+    "tactics": {
+        "highest": {
+            "rating": 3033,
+            "date": 1677821910
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1305298500
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

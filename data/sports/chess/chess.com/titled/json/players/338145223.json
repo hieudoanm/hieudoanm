@@ -1,0 +1,46 @@
+{
+    "player_id": 338145223,
+    "@id": "https://api.chess.com/pub/player/crookedpony",
+    "url": "https://www.chess.com/member/CrookedPony",
+    "name": "Kapil Chandran",
+    "username": "crookedpony",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1736733878,
+    "joined": 1704938960,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2555,
+            "date": 1730682097,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2570,
+            "date": 1728154909,
+            "game": "https://www.chess.com/game/live/103750227171"
+        },
+        "record": {
+            "win": 31,
+            "loss": 12,
+            "draw": 6
+        }
+    },
+    "fide": 2352,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1704938960
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1704938960
+        }
+    },
+    "puzzle_rush": {}
+}

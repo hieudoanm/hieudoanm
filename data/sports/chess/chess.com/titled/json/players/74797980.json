@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74797980.8df1d34e.200x200o.fee15471e573.png",
+    "player_id": 74797980,
+    "@id": "https://api.chess.com/pub/player/valeron87",
+    "url": "https://www.chess.com/member/Valeron87",
+    "name": "Sabrina Vega",
+    "username": "valeron87",
+    "title": "IM",
+    "followers": 122,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "looking the stars",
+    "last_online": 1741543299,
+    "joined": 1585397625,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2127,
+            "date": 1678479482,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2375,
+            "date": 1597408588,
+            "game": "https://www.chess.com/game/live/5338292284"
+        },
+        "record": {
+            "win": 11,
+            "loss": 13,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2316,
+            "date": 1730840174,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1690483324,
+            "game": "https://www.chess.com/game/live/84223186173"
+        },
+        "record": {
+            "win": 47,
+            "loss": 55,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2498,
+            "date": 1730843810,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1652221196,
+            "game": "https://www.chess.com/game/live/69546321123"
+        },
+        "record": {
+            "win": 348,
+            "loss": 329,
+            "draw": 46
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3340,
+            "date": 1688327498
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1587126374
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 45
+        }
+    }
+}

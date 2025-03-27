@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/348079967.8eed73c9.200x200o.7a786bfe5217.jpg",
+    "player_id": 348079967,
+    "@id": "https://api.chess.com/pub/player/whatisbynavshde",
+    "url": "https://www.chess.com/member/whatisbynavshde",
+    "name": "Buyankhishig Batpelden",
+    "username": "whatisbynavshde",
+    "title": "WCM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/MN",
+    "location": "ulaanbaatar",
+    "last_online": 1741692000,
+    "joined": 1709193917,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1995,
+            "date": 1736740153,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2007,
+            "date": 1733643822,
+            "game": "https://www.chess.com/game/live/127382402013"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2179,
+            "date": 1741692336,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2258,
+            "date": 1735569809,
+            "game": "https://www.chess.com/game/live/129307971895"
+        },
+        "record": {
+            "win": 159,
+            "loss": 130,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2353,
+            "date": 1741619605,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1736872837,
+            "game": "https://www.chess.com/game/live/128795001533"
+        },
+        "record": {
+            "win": 654,
+            "loss": 591,
+            "draw": 106
+        }
+    },
+    "fide": 1871,
+    "tactics": {
+        "highest": {
+            "rating": 3239,
+            "date": 1741275623
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1709193917
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

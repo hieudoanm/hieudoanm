@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11626356.f9d9ad44.200x200o.c911fb5728d1.png",
+    "player_id": 11626356,
+    "@id": "https://api.chess.com/pub/player/tjallkompall",
+    "url": "https://www.chess.com/member/tjallkompall",
+    "name": "Kjetil Lie",
+    "username": "tjallkompall",
+    "title": "GM",
+    "followers": 98,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1741690469,
+    "joined": 1366720228,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2507,
+            "date": 1739820021,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1598009957,
+            "game": "https://www.chess.com/game/live/121021179537"
+        },
+        "record": {
+            "win": 16,
+            "loss": 19,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2555,
+            "date": 1729422439,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2626,
+            "date": 1693728025,
+            "game": "https://www.chess.com/game/live/2762063033"
+        },
+        "record": {
+            "win": 305,
+            "loss": 214,
+            "draw": 30
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2873,
+            "date": 1739791763,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2869,
+            "date": 1722375644,
+            "game": "https://www.chess.com/game/live/97972925725"
+        },
+        "record": {
+            "win": 1755,
+            "loss": 1708,
+            "draw": 362
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3802,
+            "date": 1697204761
+        },
+        "lowest": {
+            "rating": 1345,
+            "date": 1486322170
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

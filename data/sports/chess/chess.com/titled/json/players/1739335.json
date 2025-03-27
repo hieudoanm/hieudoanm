@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1739335.d5082ba4.200x200o.e48bfa5d6689.jpeg",
+    "player_id": 1739335,
+    "@id": "https://api.chess.com/pub/player/thegreyhound",
+    "url": "https://www.chess.com/member/TheGreyhound",
+    "name": "Carey Theil",
+    "username": "thegreyhound",
+    "title": "NM",
+    "followers": 82,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Boston, MA",
+    "last_online": 1741632104,
+    "joined": 1233355000,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2060,
+            "date": 1741614766,
+            "rd": 161
+        },
+        "best": {
+            "rating": 2118,
+            "date": 1704827442,
+            "game": "https://www.chess.com/game/daily/90640584"
+        },
+        "record": {
+            "win": 25,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 15558,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2236,
+            "date": 1687799069,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1392074692,
+            "game": "https://www.chess.com/game/live/81530588287"
+        },
+        "record": {
+            "win": 6,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1965,
+            "date": 1741564482,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2463,
+            "date": 1301004861,
+            "game": "https://www.chess.com/game/live/95616430"
+        },
+        "record": {
+            "win": 5548,
+            "loss": 4151,
+            "draw": 621
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2270,
+            "date": 1741662104,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2318,
+            "date": 1740575209,
+            "game": "https://www.chess.com/game/live/3846895792"
+        },
+        "record": {
+            "win": 7192,
+            "loss": 6402,
+            "draw": 1592
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2301,
+            "date": 1666587557
+        },
+        "lowest": {
+            "rating": 1992,
+            "date": 1526945376
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

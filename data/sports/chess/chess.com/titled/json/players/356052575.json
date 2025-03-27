@@ -1,0 +1,29 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/356052575.5a8a013d.200x200o.1582439786b6.png",
+    "player_id": 356052575,
+    "@id": "https://api.chess.com/pub/player/forestberg777",
+    "url": "https://www.chess.com/member/ForestBerg777",
+    "name": "Viktor Samosiuk",
+    "username": "forestberg777",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1740757051,
+    "joined": 1712672302,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2331,
+    "tactics": {
+        "highest": {
+            "rating": 3023,
+            "date": 1741516622
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1712672302
+        }
+    },
+    "puzzle_rush": {}
+}

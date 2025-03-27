@@ -1,0 +1,62 @@
+{
+    "player_id": 342240561,
+    "@id": "https://api.chess.com/pub/player/rigorousearners",
+    "url": "https://www.chess.com/member/RigorousEarners",
+    "username": "rigorousearners",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York City",
+    "last_online": 1741639369,
+    "joined": 1706647764,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2610,
+            "date": 1740741121,
+            "rd": 48
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2904,
+            "date": 1741604762,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2955,
+            "date": 1735139934,
+            "game": "https://www.chess.com/game/live/119005187047"
+        },
+        "record": {
+            "win": 745,
+            "loss": 695,
+            "draw": 240
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3153,
+            "date": 1736413808
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1706647764
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

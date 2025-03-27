@@ -1,0 +1,66 @@
+{
+    "player_id": 68057732,
+    "@id": "https://api.chess.com/pub/player/elprofesorsergio",
+    "url": "https://www.chess.com/member/elprofesorsergio",
+    "username": "elprofesorsergio",
+    "title": "GM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1733431965,
+    "joined": 1573900137,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2926,
+            "date": 1606992956,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2926,
+            "date": 1606992956,
+            "game": "https://www.chess.com/game/live/5876234283"
+        },
+        "record": {
+            "win": 67,
+            "loss": 25,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2920,
+            "date": 1715625804,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2972,
+            "date": 1624713582,
+            "game": "https://www.chess.com/game/live/70639916787"
+        },
+        "record": {
+            "win": 460,
+            "loss": 274,
+            "draw": 116
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3406,
+            "date": 1708076512
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1574765628
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

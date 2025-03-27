@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24876280.b99f2381.200x200o.02399b207506.jpeg",
+    "player_id": 24876280,
+    "@id": "https://api.chess.com/pub/player/fabianvivasz",
+    "url": "https://www.chess.com/member/fabianvivasz",
+    "name": "Fabian Vivas",
+    "username": "fabianvivasz",
+    "title": "FM",
+    "followers": 323,
+    "country": "https://api.chess.com/pub/country/VE",
+    "location": "Lima, Per\u00fa",
+    "last_online": 1741454047,
+    "joined": 1446500877,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1047,
+            "date": 1630003815,
+            "rd": 285
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1446500877,
+            "game": "https://www.chess.com/game/daily/326524794"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8356,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1738347437,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2389,
+            "date": 1619238117,
+            "game": "https://www.chess.com/game/live/12978292271"
+        },
+        "record": {
+            "win": 25,
+            "loss": 8,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2616,
+            "date": 1740677988,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1738030538,
+            "game": "https://www.chess.com/game/live/131697583353"
+        },
+        "record": {
+            "win": 869,
+            "loss": 890,
+            "draw": 101
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1737131809,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1714667359,
+            "game": "https://www.chess.com/game/live/4752827656"
+        },
+        "record": {
+            "win": 2395,
+            "loss": 2469,
+            "draw": 236
+        }
+    },
+    "fide": 2393,
+    "tactics": {
+        "highest": {
+            "rating": 3547,
+            "date": 1719877984
+        },
+        "lowest": {
+            "rating": 2213,
+            "date": 1562798921
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "player_id": 417709499,
+    "@id": "https://api.chess.com/pub/player/endgamemaster51",
+    "url": "https://www.chess.com/member/endgamemaster51",
+    "name": "Omer Akkara",
+    "username": "endgamemaster51",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741701036,
+    "joined": 1736867992,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2572,
+            "date": 1741519059,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2269,
+            "date": 1737127535,
+            "game": "https://www.chess.com/game/live/130866552123"
+        },
+        "record": {
+            "win": 34,
+            "loss": 34,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2514,
+            "date": 1741703564,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2686,
+            "date": 1736923383,
+            "game": "https://www.chess.com/game/live/134866139511"
+        },
+        "record": {
+            "win": 404,
+            "loss": 544,
+            "draw": 108
+        }
+    },
+    "fide": 2208,
+    "tactics": {
+        "highest": {
+            "rating": 2924,
+            "date": 1741381952
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1736867992
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

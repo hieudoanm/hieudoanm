@@ -1,0 +1,63 @@
+{
+    "player_id": 419877059,
+    "@id": "https://api.chess.com/pub/player/bjarne_v",
+    "url": "https://www.chess.com/member/Bjarne_V",
+    "name": "Bjarne Vollbehr",
+    "username": "bjarne_v",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Kiel",
+    "last_online": 1740164560,
+    "joined": 1737564020,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2050,
+            "date": 1739816423,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2096,
+            "date": 1739294537,
+            "game": "https://www.chess.com/game/live/133028987719"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2278,
+            "date": 1739912673,
+            "rd": 72
+        },
+        "record": {
+            "win": 21,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2262,
+            "date": 1739866307
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1737564020
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

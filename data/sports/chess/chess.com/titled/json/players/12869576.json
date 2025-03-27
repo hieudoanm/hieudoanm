@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12869576.8c8d0e45.200x200o.2cbe9a0e9106.jpeg",
+    "player_id": 12869576,
+    "@id": "https://api.chess.com/pub/player/sacbutt",
+    "url": "https://www.chess.com/member/Sacbutt",
+    "name": "Ieuan Ward",
+    "username": "sacbutt",
+    "title": "NM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Bishop's Stortford",
+    "last_online": 1741691400,
+    "joined": 1374755007,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1908,
+            "date": 1741691424,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2100,
+            "date": 1568926119,
+            "game": "https://www.chess.com/game/daily/298795360"
+        },
+        "record": {
+            "win": 5871,
+            "loss": 2052,
+            "draw": 868,
+            "time_per_move": 11027,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1813,
+            "date": 1740250539,
+            "rd": 67
+        },
+        "best": {
+            "rating": 1910,
+            "date": 1624484608,
+            "game": "https://www.chess.com/game/daily/361602207"
+        },
+        "record": {
+            "win": 495,
+            "loss": 259,
+            "draw": 67,
+            "time_per_move": 11027,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2297,
+            "date": 1740948838,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1664988519,
+            "game": "https://www.chess.com/game/live/55414205123"
+        },
+        "record": {
+            "win": 129,
+            "loss": 36,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2282,
+            "date": 1738430716,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1721491462,
+            "game": "https://www.chess.com/game/live/112212637891"
+        },
+        "record": {
+            "win": 1567,
+            "loss": 1677,
+            "draw": 223
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2397,
+            "date": 1741553778,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2393,
+            "date": 1717167374,
+            "game": "https://www.chess.com/game/live/58052475621"
+        },
+        "record": {
+            "win": 3927,
+            "loss": 3069,
+            "draw": 607
+        }
+    },
+    "fide": 2293,
+    "tactics": {
+        "highest": {
+            "rating": 3407,
+            "date": 1724878603
+        },
+        "lowest": {
+            "rating": 1417,
+            "date": 1375200353
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

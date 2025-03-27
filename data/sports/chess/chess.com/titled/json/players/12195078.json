@@ -1,0 +1,112 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12195078.dfbb6178.200x200o.4b1115d7ef0a.jpeg",
+    "player_id": 12195078,
+    "@id": "https://api.chess.com/pub/player/m-garcett",
+    "url": "https://www.chess.com/member/m-garcett",
+    "name": "Matheus Garcett",
+    "username": "m-garcett",
+    "title": "NM",
+    "followers": 771,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Campo Grande",
+    "last_online": 1741644882,
+    "joined": 1370535306,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/mgarcett",
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/mgarcett"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1599,
+            "date": 1727058912,
+            "rd": 152
+        },
+        "best": {
+            "rating": 1829,
+            "date": 1613213403,
+            "game": "https://www.chess.com/game/daily/285848278"
+        },
+        "record": {
+            "win": 10,
+            "loss": 17,
+            "draw": 3,
+            "time_per_move": 44159,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1998,
+            "date": 1740423571,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2196,
+            "date": 1618715529,
+            "game": "https://www.chess.com/game/live/34969800769"
+        },
+        "record": {
+            "win": 66,
+            "loss": 32,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1847,
+            "date": 1739317165,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2064,
+            "date": 1625098062,
+            "game": "https://www.chess.com/game/live/11034860129"
+        },
+        "record": {
+            "win": 214,
+            "loss": 216,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2211,
+            "date": 1741645613,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2255,
+            "date": 1600714893,
+            "game": "https://www.chess.com/game/live/130638022617"
+        },
+        "record": {
+            "win": 3040,
+            "loss": 3001,
+            "draw": 311
+        }
+    },
+    "fide": 2064,
+    "tactics": {
+        "highest": {
+            "rating": 3315,
+            "date": 1740492684
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1463330764
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

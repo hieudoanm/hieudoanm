@@ -1,0 +1,103 @@
+{
+    "player_id": 40235700,
+    "@id": "https://api.chess.com/pub/player/vuk2000",
+    "url": "https://www.chess.com/member/Vuk2000",
+    "name": "Vuk Djordjevic",
+    "username": "vuk2000",
+    "title": "IM",
+    "followers": 240,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741695827,
+    "joined": 1510327236,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1746,
+            "date": 1727919512,
+            "rd": 290
+        },
+        "best": {
+            "rating": 1746,
+            "date": 1727919511,
+            "game": "https://www.chess.com/game/daily/708497773"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 9262,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2398,
+            "date": 1733703654,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1577047378,
+            "game": "https://www.chess.com/game/live/4925324579"
+        },
+        "record": {
+            "win": 32,
+            "loss": 13,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2817,
+            "date": 1731342524,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2917,
+            "date": 1608404643,
+            "game": "https://www.chess.com/game/live/6007749433"
+        },
+        "record": {
+            "win": 37,
+            "loss": 22,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2858,
+            "date": 1741696606,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2968,
+            "date": 1728492381,
+            "game": "https://www.chess.com/game/live/120229802511"
+        },
+        "record": {
+            "win": 4262,
+            "loss": 3214,
+            "draw": 656
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3894,
+            "date": 1738393116
+        },
+        "lowest": {
+            "rating": 2400,
+            "date": 1613338299
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 58
+        }
+    }
+}

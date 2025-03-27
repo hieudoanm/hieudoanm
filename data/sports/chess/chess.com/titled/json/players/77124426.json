@@ -1,0 +1,35 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77124426.af2b601c.200x200o.bc08fed5bf74.png",
+    "player_id": 77124426,
+    "@id": "https://api.chess.com/pub/player/mezzominuto",
+    "url": "https://www.chess.com/member/Mezzominuto",
+    "name": "Carlo Marzano",
+    "username": "mezzominuto",
+    "title": "NM",
+    "followers": 130,
+    "country": "https://api.chess.com/pub/country/IT",
+    "location": "Roma",
+    "last_online": 1741687298,
+    "joined": 1587237314,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 3311,
+            "date": 1711016384
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1656792967
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 23
+        }
+    }
+}

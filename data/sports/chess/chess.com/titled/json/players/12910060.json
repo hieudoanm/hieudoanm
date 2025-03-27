@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12910060.0ea73ac8.200x200o.5160f7d0a20b.jpeg",
+    "player_id": 12910060,
+    "@id": "https://api.chess.com/pub/player/wildcoyote2",
+    "url": "https://www.chess.com/member/wildcoyote2",
+    "name": "Karthik Padmanabhan",
+    "username": "wildcoyote2",
+    "title": "NM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1736606379,
+    "joined": 1374968378,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1667,
+            "date": 1715257907,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1667,
+            "date": 1514380806,
+            "game": "https://www.chess.com/game/daily/94936518"
+        },
+        "record": {
+            "win": 48,
+            "loss": 47,
+            "draw": 6,
+            "time_per_move": 10680,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1802,
+            "date": 1714159657,
+            "rd": 230
+        },
+        "best": {
+            "rating": 1917,
+            "date": 1602683765,
+            "game": "https://www.chess.com/game/live/6337248880"
+        },
+        "record": {
+            "win": 42,
+            "loss": 18,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2252,
+            "date": 1729276831,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2277,
+            "date": 1623786339,
+            "game": "https://www.chess.com/game/live/123015012285"
+        },
+        "record": {
+            "win": 633,
+            "loss": 503,
+            "draw": 66
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1907,
+            "date": 1728706919,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2067,
+            "date": 1586362218,
+            "game": "https://www.chess.com/game/live/2508908690"
+        },
+        "record": {
+            "win": 569,
+            "loss": 314,
+            "draw": 43
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2459,
+            "date": 1636733228
+        },
+        "lowest": {
+            "rating": 1340,
+            "date": 1374971125
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

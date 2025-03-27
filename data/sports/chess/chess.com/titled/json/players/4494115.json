@@ -1,0 +1,85 @@
+{
+    "player_id": 4494115,
+    "@id": "https://api.chess.com/pub/player/jk13",
+    "url": "https://www.chess.com/member/jk13",
+    "name": "Jake Kleiman",
+    "username": "jk13",
+    "title": "IM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741608548,
+    "joined": 1294008627,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2266,
+            "date": 1682358010,
+            "rd": 159
+        },
+        "best": {
+            "rating": 2754,
+            "date": 1682351361,
+            "game": "https://www.chess.com/game/live/76089084303"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2628,
+            "date": 1731107853,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2823,
+            "date": 1693070027,
+            "game": "https://www.chess.com/game/live/86815129769"
+        },
+        "record": {
+            "win": 157,
+            "loss": 146,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2696,
+            "date": 1739318850,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2969,
+            "date": 1585320752,
+            "game": "https://www.chess.com/game/live/85851091893"
+        },
+        "record": {
+            "win": 4438,
+            "loss": 4216,
+            "draw": 831
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2793,
+            "date": 1466986915
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1407517995
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

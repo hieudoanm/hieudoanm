@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40330134.6ebe3abf.200x200o.28d5594ba509.jpg",
+    "player_id": 40330134,
+    "@id": "https://api.chess.com/pub/player/200orbustqueen",
+    "url": "https://www.chess.com/member/200orbustQueen",
+    "username": "200orbustqueen",
+    "title": "WFM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741623521,
+    "joined": 1510584989,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1627,
+            "date": 1725281395,
+            "rd": 108
+        },
+        "best": {
+            "rating": 1627,
+            "date": 1694440512,
+            "game": "https://www.chess.com/game/daily/246660916"
+        },
+        "record": {
+            "win": 24,
+            "loss": 7,
+            "draw": 0,
+            "time_per_move": 48416,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2205,
+            "date": 1726661816,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1721820151,
+            "game": "https://www.chess.com/game/live/115212531937"
+        },
+        "record": {
+            "win": 115,
+            "loss": 59,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2248,
+            "date": 1741625153,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2362,
+            "date": 1719950805,
+            "game": "https://www.chess.com/game/live/116434257693"
+        },
+        "record": {
+            "win": 4044,
+            "loss": 3513,
+            "draw": 402
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2140,
+            "date": 1741457035,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2226,
+            "date": 1733232679,
+            "game": "https://www.chess.com/game/live/115385290237"
+        },
+        "record": {
+            "win": 653,
+            "loss": 472,
+            "draw": 62
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3323,
+            "date": 1740051847
+        },
+        "lowest": {
+            "rating": 1002,
+            "date": 1510851970
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

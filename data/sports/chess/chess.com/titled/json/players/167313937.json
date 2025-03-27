@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/167313937.85269a9f.200x200o.db3f1d6184cf.jpeg",
+    "player_id": 167313937,
+    "@id": "https://api.chess.com/pub/player/piekarski64",
+    "url": "https://www.chess.com/member/Piekarski64",
+    "name": "\u00c1tila Balzer Piekarski",
+    "username": "piekarski64",
+    "title": "NM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1738520726,
+    "joined": 1641153030,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2107,
+            "date": 1717458747,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2218,
+            "date": 1670538630,
+            "game": "https://www.chess.com/game/live/63334651141"
+        },
+        "record": {
+            "win": 48,
+            "loss": 15,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2074,
+            "date": 1718674077,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2086,
+            "date": 1718671704,
+            "game": "https://www.chess.com/game/live/102609054895"
+        },
+        "record": {
+            "win": 435,
+            "loss": 339,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2194,
+            "date": 1714258642,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2239,
+            "date": 1714091504,
+            "game": "https://www.chess.com/game/live/44745654745"
+        },
+        "record": {
+            "win": 308,
+            "loss": 211,
+            "draw": 32
+        }
+    },
+    "fide": 2117,
+    "tactics": {
+        "highest": {
+            "rating": 3151,
+            "date": 1734636845
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1641480250
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

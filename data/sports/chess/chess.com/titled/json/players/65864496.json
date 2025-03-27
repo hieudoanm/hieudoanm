@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/65864496.1dc099c6.200x200o.4f94e84ab0cd.png",
+    "player_id": 65864496,
+    "@id": "https://api.chess.com/pub/player/endr_ball",
+    "url": "https://www.chess.com/member/EndR_Ball",
+    "name": "Ruicheng Wang",
+    "username": "endr_ball",
+    "title": "CM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741663315,
+    "joined": 1569312013,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2042,
+            "date": 1728778823,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2042,
+            "date": 1718602450,
+            "game": "https://www.chess.com/game/live/112341012943"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2285,
+            "date": 1740210396,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2281,
+            "date": 1711688844,
+            "game": "https://www.chess.com/game/live/120497447761"
+        },
+        "record": {
+            "win": 72,
+            "loss": 48,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2340,
+            "date": 1741060383,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1729216390,
+            "game": "https://www.chess.com/game/live/118414126201"
+        },
+        "record": {
+            "win": 117,
+            "loss": 63,
+            "draw": 4
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3409,
+            "date": 1715835732
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1569312013
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        },
+        "daily": {
+            "total_attempts": 4,
+            "score": 3
+        }
+    }
+}

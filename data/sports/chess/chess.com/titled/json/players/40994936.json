@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40994936.2479369b.200x200o.2d6eb68d7077.jpeg",
+    "player_id": 40994936,
+    "@id": "https://api.chess.com/pub/player/chessfatbear",
+    "url": "https://www.chess.com/member/chessfatbear",
+    "name": "Jun Zhao",
+    "username": "chessfatbear",
+    "title": "GM",
+    "followers": 132,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1734156302,
+    "joined": 1512393333,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2486,
+            "date": 1656665490,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2748,
+            "date": 1652544897,
+            "game": "https://www.chess.com/game/live/46285732577"
+        },
+        "record": {
+            "win": 6,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2699,
+            "date": 1718296406,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2841,
+            "date": 1603188464,
+            "game": "https://www.chess.com/game/live/3418553053"
+        },
+        "record": {
+            "win": 175,
+            "loss": 167,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2859,
+            "date": 1724266945,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2920,
+            "date": 1715445090,
+            "game": "https://www.chess.com/game/live/73760433485"
+        },
+        "record": {
+            "win": 1031,
+            "loss": 867,
+            "draw": 291
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3842,
+            "date": 1718964506
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1512533428
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        },
+        "daily": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

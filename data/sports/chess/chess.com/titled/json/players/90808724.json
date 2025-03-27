@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/90808724.995f5973.200x200o.eef5c2a5acde.jpg",
+    "player_id": 90808724,
+    "@id": "https://api.chess.com/pub/player/tieuanhngan",
+    "url": "https://www.chess.com/member/TieuAnhNgan",
+    "name": "Vo Quoc Bao Tran",
+    "username": "tieuanhngan",
+    "title": "NM",
+    "followers": 280,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1741685308,
+    "joined": 1599577891,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1424,
+            "date": 1734092281,
+            "rd": 206
+        },
+        "best": {
+            "rating": 1424,
+            "date": 1619835138,
+            "game": "https://www.chess.com/game/daily/314071652"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 80734,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2088,
+            "date": 1741543013,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2100,
+            "date": 1739730378,
+            "game": "https://www.chess.com/game/live/133468182121"
+        },
+        "record": {
+            "win": 170,
+            "loss": 95,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2636,
+            "date": 1736013080,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1736012478,
+            "game": "https://www.chess.com/game/live/129750629995"
+        },
+        "record": {
+            "win": 253,
+            "loss": 144,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2709,
+            "date": 1741626308,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2817,
+            "date": 1731601280,
+            "game": "https://www.chess.com/game/live/116368787483"
+        },
+        "record": {
+            "win": 15539,
+            "loss": 14409,
+            "draw": 2298
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3692,
+            "date": 1726232093
+        },
+        "lowest": {
+            "rating": 818,
+            "date": 1599579528
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

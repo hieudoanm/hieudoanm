@@ -1,0 +1,81 @@
+{
+    "player_id": 73493750,
+    "@id": "https://api.chess.com/pub/player/alkaser1962",
+    "url": "https://www.chess.com/member/alkaser1962",
+    "name": "Zuhair Ahmad",
+    "username": "alkaser1962",
+    "title": "FM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/AE",
+    "location": "Abu Dhabi",
+    "last_online": 1740374386,
+    "joined": 1584176851,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2025,
+            "date": 1735851194,
+            "rd": 172
+        },
+        "best": {
+            "rating": 2043,
+            "date": 1655266334,
+            "game": "https://www.chess.com/game/live/10396045205"
+        },
+        "record": {
+            "win": 11,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1845,
+            "date": 1725656696,
+            "rd": 69
+        },
+        "best": {
+            "rating": 1940,
+            "date": 1647016095,
+            "game": "https://www.chess.com/game/live/40390855073"
+        },
+        "record": {
+            "win": 462,
+            "loss": 412,
+            "draw": 30
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2015,
+            "date": 1740375318,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1622990148,
+            "game": "https://www.chess.com/game/live/63787794863"
+        },
+        "record": {
+            "win": 4231,
+            "loss": 3766,
+            "draw": 472
+        }
+    },
+    "fide": 2333,
+    "tactics": {
+        "highest": {
+            "rating": 1442,
+            "date": 1735850873
+        },
+        "lowest": {
+            "rating": 1017,
+            "date": 1599668483
+        }
+    },
+    "puzzle_rush": {}
+}

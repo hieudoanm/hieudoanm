@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/78182714.9495a358.200x200o.d7a26b78fb99.jpg",
+    "player_id": 78182714,
+    "@id": "https://api.chess.com/pub/player/sergi0medina",
+    "url": "https://www.chess.com/member/sergi0medina",
+    "name": "Sergio Luis Medina Fontes",
+    "username": "sergi0medina",
+    "title": "NM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "Hermosillo",
+    "last_online": 1741064003,
+    "joined": 1588213269,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2371,
+            "date": 1741660215,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1739746550,
+            "game": "https://www.chess.com/game/live/132267026683"
+        },
+        "record": {
+            "win": 109,
+            "loss": 65,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2363,
+            "date": 1733714311,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1732497870,
+            "game": "https://www.chess.com/game/live/119721576867"
+        },
+        "record": {
+            "win": 2297,
+            "loss": 1872,
+            "draw": 234
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2136,
+            "date": 1732331440,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2271,
+            "date": 1715755090,
+            "game": "https://www.chess.com/game/live/101947517053"
+        },
+        "record": {
+            "win": 58,
+            "loss": 32,
+            "draw": 7
+        }
+    },
+    "fide": 2080,
+    "tactics": {
+        "highest": {
+            "rating": 2883,
+            "date": 1734295414
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1588213269
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

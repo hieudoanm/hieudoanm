@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41541700.69b6120f.200x200o.85c4a4ac4493.jpg",
+    "player_id": 41541700,
+    "@id": "https://api.chess.com/pub/player/flora",
+    "url": "https://www.chess.com/member/Flora",
+    "name": "Hema Vikas",
+    "username": "flora",
+    "title": "WCM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741650071,
+    "joined": 1513868093,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1597,
+            "date": 1738247709,
+            "rd": 108
+        },
+        "best": {
+            "rating": 1649,
+            "date": 1706250932,
+            "game": "https://www.chess.com/game/daily/559497109"
+        },
+        "record": {
+            "win": 22,
+            "loss": 9,
+            "draw": 0,
+            "time_per_move": 68693,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1900,
+            "date": 1726174355
+        },
+        "best": {
+            "rating": 2025,
+            "date": 1655596821,
+            "game": "https://www.chess.com/game/live/100309371661"
+        },
+        "record": {
+            "win": 452,
+            "loss": 355,
+            "draw": 58
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2160,
+            "date": 1741663506,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1737011833,
+            "game": "https://www.chess.com/game/live/131331578195"
+        },
+        "record": {
+            "win": 3189,
+            "loss": 3196,
+            "draw": 524
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2098,
+            "date": 1741549766,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2145,
+            "date": 1741147170,
+            "game": "https://www.chess.com/game/live/134843354347"
+        },
+        "record": {
+            "win": 474,
+            "loss": 429,
+            "draw": 71
+        }
+    },
+    "fide": 1900,
+    "tactics": {
+        "highest": {
+            "rating": 3427,
+            "date": 1695178484
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1673718694
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

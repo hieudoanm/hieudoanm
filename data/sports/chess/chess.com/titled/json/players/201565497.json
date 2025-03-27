@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/201565497.5556a2b2.200x200o.528b7cceb34f.jpg",
+    "player_id": 201565497,
+    "@id": "https://api.chess.com/pub/player/kyrie2012",
+    "url": "https://www.chess.com/member/Kyrie2012",
+    "username": "kyrie2012",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741463457,
+    "joined": 1665691097,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2414,
+            "date": 1739190545,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1682877591,
+            "game": "https://www.chess.com/game/live/76435271507"
+        },
+        "record": {
+            "win": 94,
+            "loss": 55,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2526,
+            "date": 1741637347,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2738,
+            "date": 1736689885,
+            "game": "https://www.chess.com/game/live/99235530299"
+        },
+        "record": {
+            "win": 6305,
+            "loss": 6740,
+            "draw": 666
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1946,
+            "date": 1698686844
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1666111449
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 35
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52788190.7d70b8c0.200x200o.b86c4708e77f.jpeg",
+    "player_id": 52788190,
+    "@id": "https://api.chess.com/pub/player/nacisan",
+    "url": "https://www.chess.com/member/NaciSAN",
+    "name": "Cumali Unver",
+    "username": "nacisan",
+    "title": "NM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741637707,
+    "joined": 1543960985,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2107,
+            "date": 1710867926,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1598997516,
+            "game": "https://www.chess.com/game/daily/269564458"
+        },
+        "record": {
+            "win": 11,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 14587,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2146,
+            "date": 1595099404,
+            "rd": 290
+        },
+        "best": {
+            "rating": 2146,
+            "date": 1595099404,
+            "game": "https://www.chess.com/game/daily/269563686"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 14587,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2467,
+            "date": 1728721467,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1726507194,
+            "game": "https://www.chess.com/game/live/108237620045"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2047,
+            "date": 1741205122,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1729089184,
+            "game": "https://www.chess.com/game/live/122828072067"
+        },
+        "record": {
+            "win": 226,
+            "loss": 196,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2200,
+            "date": 1741691329,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1729553128,
+            "game": "https://www.chess.com/game/live/6285114826"
+        },
+        "record": {
+            "win": 3608,
+            "loss": 3899,
+            "draw": 622
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3240,
+            "date": 1725833686
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1545490868
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

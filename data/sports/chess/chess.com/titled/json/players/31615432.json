@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31615432.b991de90.200x200o.e2734c53d622.jpg",
+    "player_id": 31615432,
+    "@id": "https://api.chess.com/pub/player/shohrehbayat",
+    "url": "https://www.chess.com/member/shohrehbayat",
+    "name": "shohreh Bayat",
+    "username": "shohrehbayat",
+    "title": "WFM",
+    "followers": 99,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "London",
+    "last_online": 1741443951,
+    "joined": 1481732526,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1816,
+            "date": 1647418895,
+            "rd": 332
+        },
+        "best": {
+            "rating": 1816,
+            "date": 1597138819,
+            "game": "https://www.chess.com/game/daily/268271190"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 126260,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2004,
+            "date": 1734697549,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2010,
+            "date": 1731925449,
+            "game": "https://www.chess.com/game/live/56632811737"
+        },
+        "record": {
+            "win": 47,
+            "loss": 23,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1839,
+            "date": 1731924890,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2045,
+            "date": 1544731097,
+            "game": "https://www.chess.com/game/live/55796707807"
+        },
+        "record": {
+            "win": 80,
+            "loss": 84,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2112,
+            "date": 1741176753,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1558026216,
+            "game": "https://www.chess.com/game/live/47316079867"
+        },
+        "record": {
+            "win": 870,
+            "loss": 938,
+            "draw": 215
+        }
+    },
+    "fide": 2092,
+    "tactics": {
+        "highest": {
+            "rating": 2822,
+            "date": 1733412987
+        },
+        "lowest": {
+            "rating": 1182,
+            "date": 1481733279
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 38
+        }
+    }
+}

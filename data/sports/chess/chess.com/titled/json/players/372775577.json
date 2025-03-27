@@ -1,0 +1,44 @@
+{
+    "player_id": 372775577,
+    "@id": "https://api.chess.com/pub/player/thuringianfighter",
+    "url": "https://www.chess.com/member/ThuringianFighter",
+    "username": "thuringianfighter",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1736875295,
+    "joined": 1719780330,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2633,
+            "date": 1723616924,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1722679913,
+            "game": "https://www.chess.com/game/live/116418052877"
+        },
+        "record": {
+            "win": 183,
+            "loss": 81,
+            "draw": 32
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1719780330
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1719780330
+        }
+    },
+    "puzzle_rush": {}
+}

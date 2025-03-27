@@ -1,0 +1,69 @@
+{
+    "player_id": 55809298,
+    "@id": "https://api.chess.com/pub/player/familijatop71",
+    "url": "https://www.chess.com/member/familijatop71",
+    "name": "Nesa Modric",
+    "username": "familijatop71",
+    "title": "CM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741684107,
+    "joined": 1547199927,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1851,
+            "date": 1713347117,
+            "rd": 288
+        },
+        "best": {
+            "rating": 1851,
+            "date": 1713347117,
+            "game": "https://www.chess.com/game/daily/605048719"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 169390,
+            "timeout_percent": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2392,
+            "date": 1741111679,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1738084030,
+            "game": "https://www.chess.com/game/live/132423682153"
+        },
+        "record": {
+            "win": 3372,
+            "loss": 4035,
+            "draw": 779
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3359,
+            "date": 1736967438
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1550179511
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

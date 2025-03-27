@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/342736579.ccc5d1e4.200x200o.2f3caa7cd65d.jpg",
+    "player_id": 342736579,
+    "@id": "https://api.chess.com/pub/player/dynkshell",
+    "url": "https://www.chess.com/member/dynkshell",
+    "name": "Arkadiusz Babiarz",
+    "username": "dynkshell",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Krak\u00f3w",
+    "last_online": 1741558923,
+    "joined": 1706862499,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2257,
+            "date": 1722941273,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2269,
+            "date": 1722877915,
+            "game": "https://www.chess.com/game/live/113918382205"
+        },
+        "record": {
+            "win": 28,
+            "loss": 10,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2531,
+            "date": 1739115486,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2578,
+            "date": 1710625476,
+            "game": "https://www.chess.com/game/live/101581980177"
+        },
+        "record": {
+            "win": 57,
+            "loss": 45,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2428,
+            "date": 1739896301,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1708094738,
+            "game": "https://www.chess.com/game/live/133028386557"
+        },
+        "record": {
+            "win": 153,
+            "loss": 106,
+            "draw": 27
+        }
+    },
+    "fide": 2232,
+    "tactics": {
+        "highest": {
+            "rating": 2297,
+            "date": 1739381371
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1706862499
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/141967017.7094f89b.200x200o.363ca0143a8b.jpg",
+    "player_id": 141967017,
+    "@id": "https://api.chess.com/pub/player/secretroses",
+    "url": "https://www.chess.com/member/secretroses",
+    "name": "Irene Xie",
+    "username": "secretroses",
+    "title": "WCM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Ontario",
+    "last_online": 1741575399,
+    "joined": 1622029341,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1349,
+            "date": 1740234778,
+            "rd": 110
+        },
+        "best": {
+            "rating": 1349,
+            "date": 1740234777,
+            "game": "https://www.chess.com/game/daily/748219945"
+        },
+        "record": {
+            "win": 16,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 39417,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2154,
+            "date": 1734115789,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1731723519,
+            "game": "https://www.chess.com/game/live/121898990789"
+        },
+        "record": {
+            "win": 28,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1957,
+            "date": 1739919765,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2020,
+            "date": 1728920991,
+            "game": "https://www.chess.com/game/live/125704750775"
+        },
+        "record": {
+            "win": 285,
+            "loss": 157,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2201,
+            "date": 1740525380,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2222,
+            "date": 1726610742,
+            "game": "https://www.chess.com/game/live/117910795719"
+        },
+        "record": {
+            "win": 200,
+            "loss": 167,
+            "draw": 48
+        }
+    },
+    "fide": 2145,
+    "tactics": {
+        "highest": {
+            "rating": 3227,
+            "date": 1728332083
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1622029341
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

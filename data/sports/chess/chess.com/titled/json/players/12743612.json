@@ -1,0 +1,62 @@
+{
+    "player_id": 12743612,
+    "@id": "https://api.chess.com/pub/player/argimiro",
+    "url": "https://www.chess.com/member/argimiro",
+    "name": "Diego Suarez Pousa",
+    "username": "argimiro",
+    "title": "IM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741700151,
+    "joined": 1374070005,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2468,
+            "date": 1741700366,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1672494251,
+            "game": "https://www.chess.com/game/live/89734895121"
+        },
+        "record": {
+            "win": 13049,
+            "loss": 10521,
+            "draw": 786
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2497,
+            "date": 1741670502,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2656,
+            "date": 1570111964,
+            "game": "https://www.chess.com/game/live/120346245969"
+        },
+        "record": {
+            "win": 14670,
+            "loss": 11947,
+            "draw": 1282
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2246,
+            "date": 1677107355
+        },
+        "lowest": {
+            "rating": 1183,
+            "date": 1472126092
+        }
+    },
+    "puzzle_rush": {}
+}

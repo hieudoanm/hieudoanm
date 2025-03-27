@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17425362.fcabb42e.200x200o.60f8371bd619.jpeg",
+    "player_id": 17425362,
+    "@id": "https://api.chess.com/pub/player/spartancarl81",
+    "url": "https://www.chess.com/member/spartancarl81",
+    "name": "Kevin Carl",
+    "username": "spartancarl81",
+    "title": "NM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741192528,
+    "joined": 1400958038,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1640,
+            "date": 1710750509,
+            "rd": 313
+        },
+        "best": {
+            "rating": 1640,
+            "date": 1679171799,
+            "game": "https://www.chess.com/game/daily/471644193"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 10013,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2252,
+            "date": 1585872962,
+            "rd": 289
+        },
+        "best": {
+            "rating": 2252,
+            "date": 1585872313,
+            "game": "https://www.chess.com/game/live/4671352906"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1701894457,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2208,
+            "date": 1682104443,
+            "game": "https://www.chess.com/game/live/4315130722"
+        },
+        "record": {
+            "win": 42,
+            "loss": 26,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2242,
+            "date": 1734464831,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2343,
+            "date": 1694625682,
+            "game": "https://www.chess.com/game/live/98050913089"
+        },
+        "record": {
+            "win": 4122,
+            "loss": 3153,
+            "draw": 631
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2992,
+            "date": 1719329017
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1511816967
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

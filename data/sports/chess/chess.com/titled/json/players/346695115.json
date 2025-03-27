@@ -1,0 +1,48 @@
+{
+    "player_id": 346695115,
+    "@id": "https://api.chess.com/pub/player/kingmontecristo",
+    "url": "https://www.chess.com/member/KingMonteCristo",
+    "username": "kingmontecristo",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740243120,
+    "joined": 1708543446,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2887,
+            "date": 1740155409,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2907,
+            "date": 1712570001,
+            "game": "https://www.chess.com/game/live/103514461127"
+        },
+        "record": {
+            "win": 100,
+            "loss": 65,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2525,
+            "date": 1723009422
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1708543446
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

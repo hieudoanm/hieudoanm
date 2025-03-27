@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35069968.e932312b.200x200o.590a9322e403.jpg",
+    "player_id": 35069968,
+    "@id": "https://api.chess.com/pub/player/aakash-dalvi7",
+    "url": "https://www.chess.com/member/Aakash-Dalvi7",
+    "name": "Aakash Sharadchandra  Dalvi",
+    "username": "aakash-dalvi7",
+    "title": "FM",
+    "followers": 413,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Thane",
+    "last_online": 1741684353,
+    "joined": 1493206431,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2444,
+            "date": 1738329099,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1603887044,
+            "game": "https://www.chess.com/game/live/105187303939"
+        },
+        "record": {
+            "win": 28,
+            "loss": 5,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2901,
+            "date": 1741640018,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3057,
+            "date": 1713869346,
+            "game": "https://www.chess.com/game/live/106639853221"
+        },
+        "record": {
+            "win": 30708,
+            "loss": 26327,
+            "draw": 3355
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2870,
+            "date": 1741685739,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2850,
+            "date": 1682149349,
+            "game": "https://www.chess.com/game/live/75888042621"
+        },
+        "record": {
+            "win": 5677,
+            "loss": 5282,
+            "draw": 930
+        }
+    },
+    "fide": 2366,
+    "tactics": {
+        "highest": {
+            "rating": 3635,
+            "date": 1737706984
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1493742853
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

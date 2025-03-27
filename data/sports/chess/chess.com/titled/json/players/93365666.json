@@ -1,0 +1,66 @@
+{
+    "player_id": 93365666,
+    "@id": "https://api.chess.com/pub/player/like962",
+    "url": "https://www.chess.com/member/Like962",
+    "username": "like962",
+    "title": "GM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1671119165,
+    "joined": 1603003448,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2656,
+            "date": 1633318107,
+            "rd": 211
+        },
+        "best": {
+            "rating": 2804,
+            "date": 1631173259,
+            "game": "https://www.chess.com/game/live/24912076855"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2579,
+            "date": 1647010217,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2726,
+            "date": 1618453265,
+            "game": "https://www.chess.com/game/live/12538001471"
+        },
+        "record": {
+            "win": 72,
+            "loss": 59,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3134,
+            "date": 1646894381
+        },
+        "lowest": {
+            "rating": 2696,
+            "date": 1635595549
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

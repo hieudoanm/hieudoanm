@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28157790.25eeb392.200x200o.cb5636b1dcb9.jpeg",
+    "player_id": 28157790,
+    "@id": "https://api.chess.com/pub/player/hope_6",
+    "url": "https://www.chess.com/member/Hope_6",
+    "name": "Airat Sadubayev",
+    "username": "hope_6",
+    "title": "FM",
+    "followers": 1074,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "location": "Astana",
+    "last_online": 1741694156,
+    "joined": 1463076705,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1667,
+            "date": 1739093321,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1774,
+            "date": 1666254733,
+            "game": "https://www.chess.com/game/daily/255390626"
+        },
+        "record": {
+            "win": 32,
+            "loss": 4,
+            "draw": 1,
+            "time_per_move": 29228,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 509,
+            "date": 1710150671,
+            "rd": 311
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 29228,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2411,
+            "date": 1708019461,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2486,
+            "date": 1668964907,
+            "game": "https://www.chess.com/game/live/5847496066"
+        },
+        "record": {
+            "win": 202,
+            "loss": 67,
+            "draw": 37
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2608,
+            "date": 1708958841,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2778,
+            "date": 1638432058,
+            "game": "https://www.chess.com/game/live/32170796249"
+        },
+        "record": {
+            "win": 1640,
+            "loss": 1521,
+            "draw": 233
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2735,
+            "date": 1741331838,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1738517478,
+            "game": "https://www.chess.com/game/live/127817948153"
+        },
+        "record": {
+            "win": 11072,
+            "loss": 11476,
+            "draw": 2425
+        }
+    },
+    "fide": 2317,
+    "tactics": {
+        "highest": {
+            "rating": 3299,
+            "date": 1684426694
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1463493348
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 81,
+            "score": 78
+        }
+    }
+}

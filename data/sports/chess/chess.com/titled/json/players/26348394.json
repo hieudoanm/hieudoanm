@@ -1,0 +1,85 @@
+{
+    "player_id": 26348394,
+    "@id": "https://api.chess.com/pub/player/nikolakis2014",
+    "url": "https://www.chess.com/member/Nikolakis2014",
+    "name": "Stelios Halkias",
+    "username": "nikolakis2014",
+    "title": "GM",
+    "followers": 170,
+    "country": "https://api.chess.com/pub/country/GR",
+    "location": "Athens",
+    "last_online": 1741367632,
+    "joined": 1453803750,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2316,
+            "date": 1730481556,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2321,
+            "date": 1597581315,
+            "game": "https://www.chess.com/game/live/5300609978"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2522,
+            "date": 1664034234,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1601543134,
+            "game": "https://www.chess.com/game/live/14977662363"
+        },
+        "record": {
+            "win": 89,
+            "loss": 50,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2755,
+            "date": 1727197388,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2800,
+            "date": 1688511162,
+            "game": "https://www.chess.com/game/live/48958253579"
+        },
+        "record": {
+            "win": 802,
+            "loss": 535,
+            "draw": 150
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3514,
+            "date": 1662828692
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1485723795
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

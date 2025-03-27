@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4091073.1dce3af8.200x200o.fafcd302f2c3.jpeg",
+    "player_id": 4091073,
+    "@id": "https://api.chess.com/pub/player/grootneus",
+    "url": "https://www.chess.com/member/Grootneus",
+    "name": "Francois Oberholzer",
+    "username": "grootneus",
+    "title": "FM",
+    "followers": 152,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1741695012,
+    "joined": 1286523281,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2011,
+            "date": 1717057692,
+            "rd": 128
+        },
+        "best": {
+            "rating": 2133,
+            "date": 1431625436,
+            "game": "https://www.chess.com/game/daily/159347967"
+        },
+        "record": {
+            "win": 103,
+            "loss": 63,
+            "draw": 25,
+            "time_per_move": 113136,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2372,
+            "date": 1697996764,
+            "rd": 149
+        },
+        "best": {
+            "rating": 2532,
+            "date": 1457876108,
+            "game": "https://www.chess.com/game/live/15518545439"
+        },
+        "record": {
+            "win": 82,
+            "loss": 16,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2115,
+            "date": 1727599593,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1720010733,
+            "game": "https://www.chess.com/game/live/2185878919"
+        },
+        "record": {
+            "win": 421,
+            "loss": 416,
+            "draw": 33
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2347,
+            "date": 1697995217,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1662924030,
+            "game": "https://www.chess.com/game/live/4783887975"
+        },
+        "record": {
+            "win": 1596,
+            "loss": 1592,
+            "draw": 154
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3319,
+            "date": 1673785462
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1320741818
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

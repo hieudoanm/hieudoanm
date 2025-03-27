@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25281660.25ded4ee.200x200o.4ae8d92b7fbb.png",
+    "player_id": 25281660,
+    "@id": "https://api.chess.com/pub/player/piccadilly123",
+    "url": "https://www.chess.com/member/Piccadilly123",
+    "name": "Kevin Willathgamuwa",
+    "username": "piccadilly123",
+    "title": "CM",
+    "followers": 197,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741679592,
+    "joined": 1448616103,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1423,
+            "date": 1741342841,
+            "rd": 212
+        },
+        "best": {
+            "rating": 1423,
+            "date": 1741342841,
+            "game": "https://www.chess.com/game/daily/770564557"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 90720,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2335,
+            "date": 1741578123,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2382,
+            "date": 1682991377,
+            "game": "https://www.chess.com/game/live/76729247519"
+        },
+        "record": {
+            "win": 146,
+            "loss": 56,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2515,
+            "date": 1741422379,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1707541908,
+            "game": "https://www.chess.com/game/live/103973459861"
+        },
+        "record": {
+            "win": 4475,
+            "loss": 4279,
+            "draw": 702
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2426,
+            "date": 1741576567,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1739324421,
+            "game": "https://www.chess.com/game/live/11810714827"
+        },
+        "record": {
+            "win": 2173,
+            "loss": 2069,
+            "draw": 443
+        }
+    },
+    "fide": 2062,
+    "tactics": {
+        "highest": {
+            "rating": 3183,
+            "date": 1698490428
+        },
+        "lowest": {
+            "rating": 1367,
+            "date": 1448628395
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

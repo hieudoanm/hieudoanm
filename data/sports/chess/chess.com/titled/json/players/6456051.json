@@ -1,0 +1,86 @@
+{
+    "player_id": 6456051,
+    "@id": "https://api.chess.com/pub/player/mihaiionescu1",
+    "url": "https://www.chess.com/member/Mihaiionescu1",
+    "name": "Mihai Ionescu",
+    "username": "mihaiionescu1",
+    "title": "IM",
+    "followers": 341,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Baia de Arama",
+    "last_online": 1741682932,
+    "joined": 1325925833,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1912,
+            "date": 1736958274,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2126,
+            "date": 1702569738,
+            "game": "https://www.chess.com/game/live/93894522657"
+        },
+        "record": {
+            "win": 106,
+            "loss": 93,
+            "draw": 21
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2537,
+            "date": 1732993045,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2538,
+            "date": 1732992907,
+            "game": "https://www.chess.com/game/live/126730762903"
+        },
+        "record": {
+            "win": 82,
+            "loss": 61,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2512,
+            "date": 1741683312,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2682,
+            "date": 1722610108,
+            "game": "https://www.chess.com/game/live/126981055281"
+        },
+        "record": {
+            "win": 29243,
+            "loss": 33548,
+            "draw": 7921
+        }
+    },
+    "fide": 2321,
+    "tactics": {
+        "highest": {
+            "rating": 3556,
+            "date": 1720470913
+        },
+        "lowest": {
+            "rating": 1366,
+            "date": 1395180234
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

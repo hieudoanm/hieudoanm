@@ -1,0 +1,83 @@
+{
+    "player_id": 51563264,
+    "@id": "https://api.chess.com/pub/player/ilia_jude",
+    "url": "https://www.chess.com/member/Ilia_Jude",
+    "username": "ilia_jude",
+    "title": "GM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/IM",
+    "last_online": 1680016222,
+    "joined": 1541590670,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2499,
+            "date": 1611793736,
+            "rd": 302
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1597774485,
+            "game": "https://www.chess.com/game/live/5316274475"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2271,
+            "date": 1678390109,
+            "rd": 159
+        },
+        "best": {
+            "rating": 2439,
+            "date": 1559222077,
+            "game": "https://www.chess.com/game/live/3741465430"
+        },
+        "record": {
+            "win": 3,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2393,
+            "date": 1680363056,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2605,
+            "date": 1609271356,
+            "game": "https://www.chess.com/game/live/71943899421"
+        },
+        "record": {
+            "win": 193,
+            "loss": 214,
+            "draw": 51
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2450,
+            "date": 1674989130
+        },
+        "lowest": {
+            "rating": 2450,
+            "date": 1664374008
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

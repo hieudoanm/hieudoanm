@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44905886.61bc5a2a.200x200o.445d1bebe7ef.jpg",
+    "player_id": 44905886,
+    "@id": "https://api.chess.com/pub/player/freefresh",
+    "url": "https://www.chess.com/member/Freefresh",
+    "name": "Ilia Martinovici",
+    "username": "freefresh",
+    "title": "IM",
+    "followers": 45,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741701162,
+    "joined": 1522689207,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1468,
+            "date": 1699456946,
+            "rd": 217
+        },
+        "best": {
+            "rating": 1468,
+            "date": 1699456945,
+            "game": "https://www.chess.com/game/daily/580166983"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 28839,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1736548017,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2169,
+            "date": 1606964115,
+            "game": "https://www.chess.com/game/live/5874129650"
+        },
+        "record": {
+            "win": 16,
+            "loss": 7,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2688,
+            "date": 1741686652,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2789,
+            "date": 1698749627,
+            "game": "https://www.chess.com/game/live/54041400229"
+        },
+        "record": {
+            "win": 1291,
+            "loss": 1089,
+            "draw": 154
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2780,
+            "date": 1741698678,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2854,
+            "date": 1739749891,
+            "game": "https://www.chess.com/game/live/132964150857"
+        },
+        "record": {
+            "win": 1455,
+            "loss": 1396,
+            "draw": 309
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3405,
+            "date": 1739785245
+        },
+        "lowest": {
+            "rating": 805,
+            "date": 1522689575
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

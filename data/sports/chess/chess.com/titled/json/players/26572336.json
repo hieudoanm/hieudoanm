@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26572336.93bb4ad6.200x200o.baa9688f1b6f.jpeg",
+    "player_id": 26572336,
+    "@id": "https://api.chess.com/pub/player/zhigalko_sergei",
+    "url": "https://www.chess.com/member/Zhigalko_Sergei",
+    "name": "Sergei Zhigalko",
+    "username": "zhigalko_sergei",
+    "title": "GM",
+    "followers": 1988,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Minsk",
+    "last_online": 1741703176,
+    "joined": 1454847263,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3150,
+            "date": 1741650974,
+            "rd": 27
+        },
+        "best": {
+            "rating": 3256,
+            "date": 1639786278,
+            "game": "https://www.chess.com/game/live/91647540759"
+        },
+        "record": {
+            "win": 10146,
+            "loss": 5563,
+            "draw": 942
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2974,
+            "date": 1741370422,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3031,
+            "date": 1573252493,
+            "game": "https://www.chess.com/game/live/20634587383"
+        },
+        "record": {
+            "win": 4275,
+            "loss": 1846,
+            "draw": 741
+        }
+    },
+    "fide": 2695,
+    "tactics": {
+        "highest": {
+            "rating": 3235,
+            "date": 1535960596
+        },
+        "lowest": {
+            "rating": 1343,
+            "date": 1483462438
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 47
+        }
+    }
+}

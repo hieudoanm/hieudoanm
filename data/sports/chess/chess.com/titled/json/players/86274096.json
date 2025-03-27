@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86274096.ba9585da.200x200o.60ebe9ca3d28.jpeg",
+    "player_id": 86274096,
+    "@id": "https://api.chess.com/pub/player/antonovanadezhda",
+    "url": "https://www.chess.com/member/AntonovaNadezhda",
+    "name": "Nadezhda Antonova",
+    "username": "antonovanadezhda",
+    "title": "WFM",
+    "followers": 46,
+    "country": "https://api.chess.com/pub/country/ZW",
+    "last_online": 1736009854,
+    "joined": 1594323113,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1921,
+            "date": 1605868834,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1596883104,
+            "game": "https://www.chess.com/game/live/5769406154"
+        },
+        "record": {
+            "win": 32,
+            "loss": 15,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2055,
+            "date": 1731783511,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2057,
+            "date": 1600802715,
+            "game": "https://www.chess.com/game/live/125521132503"
+        },
+        "record": {
+            "win": 27,
+            "loss": 63,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2109,
+            "date": 1736870758,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1646783214,
+            "game": "https://www.chess.com/game/live/38701445315"
+        },
+        "record": {
+            "win": 303,
+            "loss": 537,
+            "draw": 47
+        }
+    },
+    "fide": 1877,
+    "tactics": {
+        "highest": {
+            "rating": 3002,
+            "date": 1680976000
+        },
+        "lowest": {
+            "rating": 1961,
+            "date": 1609663820
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

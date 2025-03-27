@@ -1,0 +1,45 @@
+{
+    "player_id": 154941739,
+    "@id": "https://api.chess.com/pub/player/salzburg1756",
+    "url": "https://www.chess.com/member/salzburg1756",
+    "name": "Hartmut Schiner",
+    "username": "salzburg1756",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1729498579,
+    "joined": 1631884337,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2301,
+            "date": 1733846403,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1730025540,
+            "game": "https://www.chess.com/game/live/123102687197"
+        },
+        "record": {
+            "win": 657,
+            "loss": 523,
+            "draw": 72
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1631884337
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1631884337
+        }
+    },
+    "puzzle_rush": {}
+}

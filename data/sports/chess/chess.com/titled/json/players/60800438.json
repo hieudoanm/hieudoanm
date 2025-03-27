@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60800438.f0584bc6.200x200o.86731c8e37d0.png",
+    "player_id": 60800438,
+    "@id": "https://api.chess.com/pub/player/johndoe698",
+    "url": "https://www.chess.com/member/johndoe698",
+    "name": "Nathaniel Mathurin",
+    "username": "johndoe698",
+    "title": "CM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/LC",
+    "last_online": 1741659358,
+    "joined": 1557440407,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1779,
+            "date": 1741471179,
+            "rd": 85
+        },
+        "best": {
+            "rating": 1985,
+            "date": 1638237602,
+            "game": "https://www.chess.com/game/daily/259361726"
+        },
+        "record": {
+            "win": 923,
+            "loss": 680,
+            "draw": 97,
+            "time_per_move": 11817,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1184,
+            "date": 1568486197,
+            "rd": 158
+        },
+        "best": {
+            "rating": 1400,
+            "date": 1557440407,
+            "game": "https://www.chess.com/game/daily/234134438"
+        },
+        "record": {
+            "win": 1,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 11817,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2186,
+            "date": 1718310750,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1671938929,
+            "game": "https://www.chess.com/game/live/65630606459"
+        },
+        "record": {
+            "win": 375,
+            "loss": 228,
+            "draw": 27
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2248,
+            "date": 1739114333,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2392,
+            "date": 1732313771,
+            "game": "https://www.chess.com/game/live/124911546523"
+        },
+        "record": {
+            "win": 160,
+            "loss": 102,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2504,
+            "date": 1741664909,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2665,
+            "date": 1732742614,
+            "game": "https://www.chess.com/game/live/125866130841"
+        },
+        "record": {
+            "win": 4046,
+            "loss": 3196,
+            "draw": 299
+        }
+    },
+    "fide": 2001,
+    "tactics": {
+        "highest": {
+            "rating": 3546,
+            "date": 1739214457
+        },
+        "lowest": {
+            "rating": 907,
+            "date": 1564290831
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 37
+        }
+    }
+}

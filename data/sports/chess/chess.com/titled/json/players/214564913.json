@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/214564913.ea244fe8.200x200o.1a5cc84beffb.jpg",
+    "player_id": 214564913,
+    "@id": "https://api.chess.com/pub/player/yunker_alisa",
+    "url": "https://www.chess.com/member/Yunker_Alisa",
+    "name": "Alisa Genrietta Yunker",
+    "username": "yunker_alisa",
+    "title": "WCM",
+    "followers": 104,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1738687937,
+    "joined": 1671471468,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1456,
+            "date": 1741605681,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1453,
+            "date": 1736185269,
+            "game": "https://www.chess.com/game/daily/713361709"
+        },
+        "record": {
+            "win": 42,
+            "loss": 8,
+            "draw": 2,
+            "time_per_move": 15272,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1472,
+            "date": 1730822206,
+            "rd": 239
+        },
+        "best": {
+            "rating": 1472,
+            "date": 1730822206,
+            "game": "https://www.chess.com/game/daily/702407441"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 15272,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2081,
+            "date": 1740511492,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2081,
+            "date": 1740511492,
+            "game": "https://www.chess.com/game/live/134249941897"
+        },
+        "record": {
+            "win": 30,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2262,
+            "date": 1739636778,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2277,
+            "date": 1739299957,
+            "game": "https://www.chess.com/game/live/108903602687"
+        },
+        "record": {
+            "win": 218,
+            "loss": 98,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2411,
+            "date": 1739539815,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1726235400,
+            "game": "https://www.chess.com/game/live/123350402987"
+        },
+        "record": {
+            "win": 227,
+            "loss": 181,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3410,
+            "date": 1726164378
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1671644273
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

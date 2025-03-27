@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28435172.90ee49b6.200x200o.d2bd6666967f.jpeg",
+    "player_id": 28435172,
+    "@id": "https://api.chess.com/pub/player/michaelroiz",
+    "url": "https://www.chess.com/member/MichaelRoiz",
+    "name": "Michael Roiz",
+    "username": "michaelroiz",
+    "title": "GM",
+    "followers": 1492,
+    "country": "https://api.chess.com/pub/country/IL",
+    "location": "Rishon Le Zion",
+    "last_online": 1741682023,
+    "joined": 1464708944,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2600,
+            "date": 1674894449,
+            "rd": 190
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1630766254,
+            "game": "https://www.chess.com/game/live/24330141995"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2848,
+            "date": 1599748075,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2875,
+            "date": 1535321024,
+            "game": "https://www.chess.com/game/live/2269927674"
+        },
+        "record": {
+            "win": 516,
+            "loss": 349,
+            "draw": 72
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3098,
+            "date": 1741642066,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3149,
+            "date": 1727861268,
+            "game": "https://www.chess.com/game/live/122549071663"
+        },
+        "record": {
+            "win": 9662,
+            "loss": 4814,
+            "draw": 3085
+        }
+    },
+    "fide": 2568,
+    "tactics": {
+        "highest": {
+            "rating": 3139,
+            "date": 1525710741
+        },
+        "lowest": {
+            "rating": 1344,
+            "date": 1486577160
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

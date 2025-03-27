@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27625162.6d3c70d4.200x200o.524c8fb16dc0.jpeg",
+    "player_id": 27625162,
+    "@id": "https://api.chess.com/pub/player/bilodeaua",
+    "url": "https://www.chess.com/member/BilodeauA",
+    "name": "Kirill Alekseenko",
+    "username": "bilodeaua",
+    "title": "GM",
+    "followers": 587,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1734130163,
+    "joined": 1459977076,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2618,
+            "date": 1727544206,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2838,
+            "date": 1644691768,
+            "game": "https://www.chess.com/game/live/69184021455"
+        },
+        "record": {
+            "win": 98,
+            "loss": 98,
+            "draw": 54
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2771,
+            "date": 1724961230,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2985,
+            "date": 1606589334,
+            "game": "https://www.chess.com/game/live/11034859925"
+        },
+        "record": {
+            "win": 547,
+            "loss": 484,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2985,
+            "date": 1733945416,
+            "rd": 45
+        },
+        "best": {
+            "rating": 3113,
+            "date": 1706316660,
+            "game": "https://www.chess.com/game/live/71759097937"
+        },
+        "record": {
+            "win": 3317,
+            "loss": 2599,
+            "draw": 601
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3261,
+            "date": 1651929255
+        },
+        "lowest": {
+            "rating": 1346,
+            "date": 1459978395
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

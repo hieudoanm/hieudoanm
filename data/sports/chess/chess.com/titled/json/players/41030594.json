@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41030594.2c94b3b3.200x200o.9472b815fa81.png",
+    "player_id": 41030594,
+    "@id": "https://api.chess.com/pub/player/mcguima49",
+    "url": "https://www.chess.com/member/mcguima49",
+    "name": "Marcelo Cunha Guimar\u00e3es",
+    "username": "mcguima49",
+    "title": "NM",
+    "followers": 88,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741645824,
+    "joined": 1512485779,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1953,
+            "date": 1690147241,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2053,
+            "date": 1689713124,
+            "game": "https://www.chess.com/game/live/83537680733"
+        },
+        "record": {
+            "win": 17,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1900,
+            "date": 1740318643,
+            "rd": 32
+        },
+        "best": {
+            "rating": 1976,
+            "date": 1738859836,
+            "game": "https://www.chess.com/game/live/132536420361"
+        },
+        "record": {
+            "win": 415,
+            "loss": 454,
+            "draw": 69
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2025,
+            "date": 1741646470,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1738433410,
+            "game": "https://www.chess.com/game/live/133633156983"
+        },
+        "record": {
+            "win": 5860,
+            "loss": 5865,
+            "draw": 798
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3267,
+            "date": 1735736767
+        },
+        "lowest": {
+            "rating": 409,
+            "date": 1512744547
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "player_id": 33275939,
+    "@id": "https://api.chess.com/pub/player/hobbit_01",
+    "url": "https://www.chess.com/member/Hobbit_01",
+    "name": "Ksenia Strukova",
+    "username": "hobbit_01",
+    "title": "WCM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1662503028,
+    "joined": 1487339270,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2313,
+            "date": 1616442975,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2386,
+            "date": 1546946149,
+            "game": "https://www.chess.com/game/live/4120912627"
+        },
+        "record": {
+            "win": 740,
+            "loss": 619,
+            "draw": 98
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2207,
+            "date": 1602498123,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2269,
+            "date": 1592580167,
+            "game": "https://www.chess.com/game/live/5020584815"
+        },
+        "record": {
+            "win": 61,
+            "loss": 32,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1212,
+            "date": 1580541278
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1521892050
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

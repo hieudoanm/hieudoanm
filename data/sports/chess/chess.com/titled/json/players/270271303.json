@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/270271303.0a3682e7.200x200o.02717adf5f70.png",
+    "player_id": 270271303,
+    "@id": "https://api.chess.com/pub/player/luneity",
+    "url": "https://www.chess.com/member/luneity",
+    "username": "luneity",
+    "title": "IM",
+    "followers": 186,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1731772242,
+    "joined": 1680467769,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2534,
+            "date": 1682995020,
+            "rd": 235
+        },
+        "best": {
+            "rating": 2826,
+            "date": 1681008932,
+            "game": "https://www.chess.com/game/live/74746989095"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2893,
+            "date": 1731733631,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2980,
+            "date": 1724725441,
+            "game": "https://www.chess.com/game/live/78184371601"
+        },
+        "record": {
+            "win": 718,
+            "loss": 573,
+            "draw": 89
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2818,
+            "date": 1731009804,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2936,
+            "date": 1711993791,
+            "game": "https://www.chess.com/game/live/105660560339"
+        },
+        "record": {
+            "win": 188,
+            "loss": 171,
+            "draw": 34
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3596,
+            "date": 1710959557
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680467769
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

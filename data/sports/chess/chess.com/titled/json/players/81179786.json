@@ -1,0 +1,84 @@
+{
+    "player_id": 81179786,
+    "@id": "https://api.chess.com/pub/player/brunoo2003",
+    "url": "https://www.chess.com/member/brunoo2003",
+    "name": "Bruno Andr\u00e9 Leite Martins",
+    "username": "brunoo2003",
+    "title": "FM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/PT",
+    "last_online": 1741645163,
+    "joined": 1591041330,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2079,
+            "date": 1688515445,
+            "rd": 165
+        },
+        "best": {
+            "rating": 2079,
+            "date": 1616857896,
+            "game": "https://www.chess.com/game/live/5272744405"
+        },
+        "record": {
+            "win": 52,
+            "loss": 2,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2493,
+            "date": 1689212880,
+            "rd": 115
+        },
+        "best": {
+            "rating": 2528,
+            "date": 1655246134,
+            "game": "https://www.chess.com/game/live/48984605165"
+        },
+        "record": {
+            "win": 137,
+            "loss": 119,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2774,
+            "date": 1741651864,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2786,
+            "date": 1739234374,
+            "game": "https://www.chess.com/game/live/99786167243"
+        },
+        "record": {
+            "win": 471,
+            "loss": 353,
+            "draw": 90
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2115,
+            "date": 1720195023
+        },
+        "lowest": {
+            "rating": 2011,
+            "date": 1652709970
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31619232.3d5f9bd8.200x200o.2d6f343f3bce.jpeg",
+    "player_id": 31619232,
+    "@id": "https://api.chess.com/pub/player/yellowjacek",
+    "url": "https://www.chess.com/member/YellowJacek",
+    "name": "Jacek Stachanczyk",
+    "username": "yellowjacek",
+    "title": "IM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Jaworzno",
+    "last_online": 1741361332,
+    "joined": 1481742263,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1897,
+            "date": 1726661640,
+            "rd": 288
+        },
+        "best": {
+            "rating": 1897,
+            "date": 1726661640,
+            "game": "https://www.chess.com/game/daily/152404456"
+        },
+        "record": {
+            "win": 17,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 9201,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2384,
+            "date": 1731056869,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2445,
+            "date": 1718207571,
+            "game": "https://www.chess.com/game/live/111891737521"
+        },
+        "record": {
+            "win": 67,
+            "loss": 30,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2115,
+            "date": 1718036376,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1691689667,
+            "game": "https://www.chess.com/game/live/55586401287"
+        },
+        "record": {
+            "win": 205,
+            "loss": 110,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2384,
+            "date": 1741362595,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2478,
+            "date": 1673275976,
+            "game": "https://www.chess.com/game/live/66522162127"
+        },
+        "record": {
+            "win": 2417,
+            "loss": 1706,
+            "draw": 392
+        }
+    },
+    "fide": 2146,
+    "tactics": {
+        "highest": {
+            "rating": 3425,
+            "date": 1740837534
+        },
+        "lowest": {
+            "rating": 1243,
+            "date": 1481744515
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

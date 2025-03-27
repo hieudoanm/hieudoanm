@@ -1,0 +1,84 @@
+{
+    "player_id": 7740394,
+    "@id": "https://api.chess.com/pub/player/chipmunknau",
+    "url": "https://www.chess.com/member/chipmunknau",
+    "name": "Quang Long Le",
+    "username": "chipmunknau",
+    "title": "IM",
+    "followers": 290,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741482474,
+    "joined": 1338442220,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2104,
+            "date": 1737416825,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2170,
+            "date": 1609700475,
+            "game": "https://www.chess.com/game/live/131155153365"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2762,
+            "date": 1707067611,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2773,
+            "date": 1705305743,
+            "game": "https://www.chess.com/game/live/36751815903"
+        },
+        "record": {
+            "win": 2219,
+            "loss": 1748,
+            "draw": 191
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2701,
+            "date": 1739942208,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2790,
+            "date": 1704261528,
+            "game": "https://www.chess.com/game/live/129422608283"
+        },
+        "record": {
+            "win": 3253,
+            "loss": 2880,
+            "draw": 394
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3296,
+            "date": 1702188929
+        },
+        "lowest": {
+            "rating": 1294,
+            "date": 1392843447
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

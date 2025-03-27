@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2640672.c491f486.200x200o.af428670844d.jpg",
+    "player_id": 2640672,
+    "@id": "https://api.chess.com/pub/player/boriscx",
+    "url": "https://www.chess.com/member/BorisCx",
+    "username": "boriscx",
+    "title": "CM",
+    "followers": 112,
+    "country": "https://api.chess.com/pub/country/BB",
+    "location": "Christ church",
+    "last_online": 1741355205,
+    "joined": 1268692174,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1913,
+            "date": 1741339690,
+            "rd": 69
+        },
+        "best": {
+            "rating": 1977,
+            "date": 1568610240,
+            "game": "https://www.chess.com/game/daily/233073428"
+        },
+        "record": {
+            "win": 84,
+            "loss": 17,
+            "draw": 4,
+            "time_per_move": 31954,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2225,
+            "date": 1711728319,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2225,
+            "date": 1711728319,
+            "game": "https://www.chess.com/game/live/105466768565"
+        },
+        "record": {
+            "win": 16,
+            "loss": 12,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2131,
+            "date": 1732512294,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2215,
+            "date": 1689226430,
+            "game": "https://www.chess.com/game/live/86679568833"
+        },
+        "record": {
+            "win": 889,
+            "loss": 758,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2213,
+            "date": 1741364424,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2310,
+            "date": 1577141767,
+            "game": "https://www.chess.com/game/live/4318729698"
+        },
+        "record": {
+            "win": 3015,
+            "loss": 2695,
+            "draw": 182
+        }
+    },
+    "fide": 2039,
+    "tactics": {
+        "highest": {
+            "rating": 3200,
+            "date": 1729793737
+        },
+        "lowest": {
+            "rating": 1354,
+            "date": 1466385727
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

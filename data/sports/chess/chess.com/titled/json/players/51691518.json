@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51691518.ff8b6ce7.200x200o.2cc57e4c0d4f.jpeg",
+    "player_id": 51691518,
+    "@id": "https://api.chess.com/pub/player/nottodaysir",
+    "url": "https://www.chess.com/member/NotTodaySir",
+    "name": "Mike Ross",
+    "username": "nottodaysir",
+    "title": "CM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741372878,
+    "joined": 1541873242,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2435,
+            "date": 1738193543,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2435,
+            "date": 1658710188,
+            "game": "https://www.chess.com/game/live/5334462694"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2621,
+            "date": 1731270070,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2656,
+            "date": 1731269419,
+            "game": "https://www.chess.com/game/live/54082208655"
+        },
+        "record": {
+            "win": 552,
+            "loss": 545,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2628,
+            "date": 1741689127,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2705,
+            "date": 1713890375,
+            "game": "https://www.chess.com/game/live/86146702995"
+        },
+        "record": {
+            "win": 1215,
+            "loss": 1097,
+            "draw": 152
+        }
+    },
+    "fide": 2082,
+    "tactics": {
+        "highest": {
+            "rating": 3527,
+            "date": 1701076016
+        },
+        "lowest": {
+            "rating": 2010,
+            "date": 1655743863
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        },
+        "daily": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

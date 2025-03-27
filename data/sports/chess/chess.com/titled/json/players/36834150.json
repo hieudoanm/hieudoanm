@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36834150.42c2b023.200x200o.a6c55b7df967.jpeg",
+    "player_id": 36834150,
+    "@id": "https://api.chess.com/pub/player/bouzidian",
+    "url": "https://www.chess.com/member/bouzidian",
+    "name": "Ahmed Bouzidi",
+    "username": "bouzidian",
+    "title": "CM",
+    "followers": 101,
+    "country": "https://api.chess.com/pub/country/TN",
+    "location": "tunis",
+    "last_online": 1741179661,
+    "joined": 1499347259,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2001,
+            "date": 1740255768,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1732169791,
+            "game": "https://www.chess.com/game/daily/726287227"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 53695,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2179,
+            "date": 1734108582,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2342,
+            "date": 1606132522,
+            "game": "https://www.chess.com/game/live/5803562914"
+        },
+        "record": {
+            "win": 6,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2169,
+            "date": 1740363280,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2397,
+            "date": 1611652696,
+            "game": "https://www.chess.com/game/live/130607449683"
+        },
+        "record": {
+            "win": 85,
+            "loss": 83,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2560,
+            "date": 1741180098,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2625,
+            "date": 1738430534,
+            "game": "https://www.chess.com/game/live/131998187277"
+        },
+        "record": {
+            "win": 672,
+            "loss": 653,
+            "draw": 59
+        }
+    },
+    "fide": 2243,
+    "tactics": {
+        "highest": {
+            "rating": 3073,
+            "date": 1740255987
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1499347259
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

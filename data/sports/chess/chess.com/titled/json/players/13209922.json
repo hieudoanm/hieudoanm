@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13209922.af3a35ac.200x200o.16b007c23042.png",
+    "player_id": 13209922,
+    "@id": "https://api.chess.com/pub/player/margoe",
+    "url": "https://www.chess.com/member/Margoe",
+    "name": "Margoe Williams",
+    "username": "margoe",
+    "title": "WCM",
+    "followers": 1061,
+    "country": "https://api.chess.com/pub/country/JM",
+    "location": "Kingston",
+    "last_online": 1741347544,
+    "joined": 1376959541,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1331,
+            "date": 1741648600,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1761,
+            "date": 1536078019,
+            "game": "https://www.chess.com/game/daily/218782690"
+        },
+        "record": {
+            "win": 109,
+            "loss": 50,
+            "draw": 7,
+            "time_per_move": 20426,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1390,
+            "date": 1654293720,
+            "rd": 169
+        },
+        "best": {
+            "rating": 1404,
+            "date": 1637342796,
+            "game": "https://www.chess.com/game/daily/366025293"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 20426,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1770,
+            "date": 1739128093,
+            "rd": 221
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1639048697,
+            "game": "https://www.chess.com/game/live/4765084627"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1544,
+            "date": 1741649795,
+            "rd": 21
+        },
+        "best": {
+            "rating": 1781,
+            "date": 1736101085,
+            "game": "https://www.chess.com/game/live/5465753711"
+        },
+        "record": {
+            "win": 25879,
+            "loss": 25441,
+            "draw": 1094
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1798,
+            "date": 1735854596,
+            "rd": 58
+        },
+        "best": {
+            "rating": 1941,
+            "date": 1666561043,
+            "game": "https://www.chess.com/game/live/4617697170"
+        },
+        "record": {
+            "win": 1897,
+            "loss": 1893,
+            "draw": 186
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2499,
+            "date": 1692753020
+        },
+        "lowest": {
+            "rating": 997,
+            "date": 1482295206
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

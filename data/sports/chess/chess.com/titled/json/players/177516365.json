@@ -1,0 +1,83 @@
+{
+    "player_id": 177516365,
+    "@id": "https://api.chess.com/pub/player/thehyperfrost",
+    "url": "https://www.chess.com/member/TheHyperFrost",
+    "username": "thehyperfrost",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741695224,
+    "joined": 1647942658,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1726234180,
+            "rd": 92
+        },
+        "best": {
+            "rating": 1857,
+            "date": 1648478119,
+            "game": "https://www.chess.com/game/live/42125991103"
+        },
+        "record": {
+            "win": 7,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2318,
+            "date": 1741616565,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2316,
+            "date": 1715423493,
+            "game": "https://www.chess.com/game/live/109161632367"
+        },
+        "record": {
+            "win": 74,
+            "loss": 40,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2430,
+            "date": 1738587001,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2487,
+            "date": 1730384652,
+            "game": "https://www.chess.com/game/live/120577262003"
+        },
+        "record": {
+            "win": 47,
+            "loss": 22,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3378,
+            "date": 1736423722
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1653136283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

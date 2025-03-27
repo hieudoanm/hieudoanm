@@ -1,0 +1,73 @@
+{
+    "player_id": 323533921,
+    "@id": "https://api.chess.com/pub/player/goatdictator",
+    "url": "https://www.chess.com/member/GoatDictator",
+    "username": "goatdictator",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1737860642,
+    "joined": 1698989400,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1700139914,
+            "rd": 249
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2497,
+            "date": 1719815838,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2497,
+            "date": 1719815838,
+            "game": "https://www.chess.com/game/live/94628945587"
+        },
+        "record": {
+            "win": 23,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2000,
+            "date": 1700139914,
+            "rd": 248
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 439,
+            "date": 1698989474
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1698989400
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

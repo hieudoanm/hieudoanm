@@ -1,0 +1,85 @@
+{
+    "player_id": 17700096,
+    "@id": "https://api.chess.com/pub/player/silver_shadow98",
+    "url": "https://www.chess.com/member/Silver_Shadow98",
+    "name": "Monnisha G K",
+    "username": "silver_shadow98",
+    "title": "WIM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741701714,
+    "joined": 1402828892,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2331,
+            "date": 1740814660,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1694619536,
+            "game": "https://www.chess.com/game/live/122627684345"
+        },
+        "record": {
+            "win": 124,
+            "loss": 89,
+            "draw": 25
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2198,
+            "date": 1740280888,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2360,
+            "date": 1680103251,
+            "game": "https://www.chess.com/game/live/73760064815"
+        },
+        "record": {
+            "win": 869,
+            "loss": 827,
+            "draw": 97
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1740119611,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2484,
+            "date": 1713856241,
+            "game": "https://www.chess.com/game/live/101231052813"
+        },
+        "record": {
+            "win": 174,
+            "loss": 123,
+            "draw": 34
+        }
+    },
+    "fide": 2202,
+    "tactics": {
+        "highest": {
+            "rating": 3197,
+            "date": 1740810151
+        },
+        "lowest": {
+            "rating": 1474,
+            "date": 1429530066
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

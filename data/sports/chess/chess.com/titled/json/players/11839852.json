@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11839852.10350567.200x200o.e2135f5b8ea9.jpeg",
+    "player_id": 11839852,
+    "@id": "https://api.chess.com/pub/player/natovi77",
+    "url": "https://www.chess.com/member/Natovi77",
+    "name": "Manoj Kumar",
+    "username": "natovi77",
+    "title": "CM",
+    "followers": 59,
+    "country": "https://api.chess.com/pub/country/FJ",
+    "last_online": 1741503985,
+    "joined": 1368246387,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2082,
+            "date": 1739674213,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2185,
+            "date": 1707729155,
+            "game": "https://www.chess.com/game/live/5595494996"
+        },
+        "record": {
+            "win": 320,
+            "loss": 291,
+            "draw": 83
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1677,
+            "date": 1730628845,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2134,
+            "date": 1620464725,
+            "game": "https://www.chess.com/game/live/83570801319"
+        },
+        "record": {
+            "win": 636,
+            "loss": 743,
+            "draw": 51
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1799,
+            "date": 1741515147,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1596014957,
+            "game": "https://www.chess.com/game/live/25177267391"
+        },
+        "record": {
+            "win": 4634,
+            "loss": 4905,
+            "draw": 593
+        }
+    },
+    "fide": 1947,
+    "tactics": {
+        "highest": {
+            "rating": 3009,
+            "date": 1675152983
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1368246891
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 21,
+            "score": 19
+        }
+    }
+}

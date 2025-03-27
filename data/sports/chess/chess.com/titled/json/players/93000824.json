@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/93000824.8942901e.200x200o.c6ec3d636265.jpeg",
+    "player_id": 93000824,
+    "@id": "https://api.chess.com/pub/player/gats1",
+    "url": "https://www.chess.com/member/Gats1",
+    "username": "gats1",
+    "title": "GM",
+    "followers": 239,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1734023652,
+    "joined": 1602538380,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2532,
+            "date": 1643488704,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2572,
+            "date": 1643484882,
+            "game": "https://www.chess.com/game/live/37222312969"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2657,
+            "date": 1727646612,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2676,
+            "date": 1711325026,
+            "game": "https://www.chess.com/game/live/105063685369"
+        },
+        "record": {
+            "win": 4,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2750,
+            "date": 1733646026,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2991,
+            "date": 1711139225,
+            "game": "https://www.chess.com/game/live/98696120607"
+        },
+        "record": {
+            "win": 2038,
+            "loss": 1948,
+            "draw": 331
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3675,
+            "date": 1733972762
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1619400135
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

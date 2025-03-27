@@ -1,0 +1,50 @@
+{
+    "player_id": 370539253,
+    "@id": "https://api.chess.com/pub/player/magnusmystery",
+    "url": "https://www.chess.com/member/MagnusMystery",
+    "username": "magnusmystery",
+    "title": "NM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740348099,
+    "joined": 1718744498,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2468,
+            "date": 1741698353,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1729773324,
+            "game": "https://www.chess.com/game/live/123511818161"
+        },
+        "record": {
+            "win": 44,
+            "loss": 28,
+            "draw": 9
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3757,
+            "date": 1740024436
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1718744498
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

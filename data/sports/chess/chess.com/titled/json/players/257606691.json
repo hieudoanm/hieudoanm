@@ -1,0 +1,85 @@
+{
+    "player_id": 257606691,
+    "@id": "https://api.chess.com/pub/player/knightmareprodigy",
+    "url": "https://www.chess.com/member/knightmareprodigy",
+    "name": "Vlastimil Babula",
+    "username": "knightmareprodigy",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1733170907,
+    "joined": 1678127486,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2262,
+            "date": 1700842152,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2262,
+            "date": 1700842151,
+            "game": "https://www.chess.com/game/live/94580972903"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1855,
+            "date": 1733171025,
+            "rd": 86
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1711559810,
+            "game": "https://www.chess.com/game/live/109425682445"
+        },
+        "record": {
+            "win": 39,
+            "loss": 32,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2357,
+            "date": 1726854570,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1713002294,
+            "game": "https://www.chess.com/game/live/97950135049"
+        },
+        "record": {
+            "win": 261,
+            "loss": 195,
+            "draw": 24
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3410,
+            "date": 1721750960
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1678127486
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 41
+        }
+    }
+}

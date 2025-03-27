@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/573771.b1488267.200x200o.c3da92830c79.jpeg",
+    "player_id": 573771,
+    "@id": "https://api.chess.com/pub/player/brianwall",
+    "url": "https://www.chess.com/member/BrianWall",
+    "name": "Brian Wall",
+    "username": "brianwall",
+    "title": "NM",
+    "followers": 429,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Thornton, CO",
+    "last_online": 1732177785,
+    "joined": 1196611219,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1783,
+            "date": 1726993691,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1408202196,
+            "game": "https://www.chess.com/game/daily/128351790"
+        },
+        "record": {
+            "win": 112,
+            "loss": 26,
+            "draw": 8,
+            "time_per_move": 19180,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2061,
+            "date": 1706558838,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1605500100,
+            "game": "https://www.chess.com/game/live/41391014475"
+        },
+        "record": {
+            "win": 465,
+            "loss": 80,
+            "draw": 35
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1844,
+            "date": 1696979874,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2269,
+            "date": 1569131989,
+            "game": "https://www.chess.com/game/live/4054132570"
+        },
+        "record": {
+            "win": 59,
+            "loss": 30,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2282,
+            "date": 1701760900,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2454,
+            "date": 1637904149,
+            "game": "https://www.chess.com/game/live/85634393617"
+        },
+        "record": {
+            "win": 5954,
+            "loss": 4790,
+            "draw": 985
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 2583,
+            "date": 1417408959
+        },
+        "lowest": {
+            "rating": 1347,
+            "date": 1410696886
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 268661427,
+    "@id": "https://api.chess.com/pub/player/blowf1sh",
+    "url": "https://www.chess.com/member/Blowf1sh",
+    "name": "G\u00e1bor Farkas",
+    "username": "blowf1sh",
+    "title": "IM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/SK",
+    "last_online": 1741701652,
+    "joined": 1680165287,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2295,
+            "date": 1715083433,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2320,
+            "date": 1697293388,
+            "game": "https://www.chess.com/game/live/91030707355"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2467,
+            "date": 1741702334,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1731397725,
+            "game": "https://www.chess.com/game/live/128674386695"
+        },
+        "record": {
+            "win": 2591,
+            "loss": 2898,
+            "draw": 459
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2534,
+            "date": 1735931454,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1698238455,
+            "game": "https://www.chess.com/game/live/87137446999"
+        },
+        "record": {
+            "win": 245,
+            "loss": 236,
+            "draw": 46
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2320,
+            "date": 1737018490
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680165287
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16123004.827b7047.200x200o.84f6c7d9c337.png",
+    "player_id": 16123004,
+    "@id": "https://api.chess.com/pub/player/drinbet",
+    "url": "https://www.chess.com/member/drinbet",
+    "name": "Adriano Rodrigues",
+    "username": "drinbet",
+    "title": "FM",
+    "followers": 97,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Niter&oacute;i",
+    "last_online": 1741688580,
+    "joined": 1392815632,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1731146636,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 1304560,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2083,
+            "date": 1627127623,
+            "rd": 208
+        },
+        "best": {
+            "rating": 2083,
+            "date": 1627127623,
+            "game": "https://www.chess.com/game/live/20866199967"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2022,
+            "date": 1741693687,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2261,
+            "date": 1610407912,
+            "game": "https://www.chess.com/game/live/39301843193"
+        },
+        "record": {
+            "win": 9241,
+            "loss": 8542,
+            "draw": 345
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2124,
+            "date": 1739917460,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2416,
+            "date": 1627838798,
+            "game": "https://www.chess.com/game/live/87688370479"
+        },
+        "record": {
+            "win": 2846,
+            "loss": 2362,
+            "draw": 291
+        }
+    },
+    "fide": 2305,
+    "tactics": {
+        "highest": {
+            "rating": 3194,
+            "date": 1720826015
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1495593183
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

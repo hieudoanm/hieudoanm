@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13324428.8250525a.200x200o.857b1d336a06.jpeg",
+    "player_id": 13324428,
+    "@id": "https://api.chess.com/pub/player/ramosha",
+    "url": "https://www.chess.com/member/Ramosha",
+    "name": "Arman Geivondian",
+    "username": "ramosha",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1741111136,
+    "joined": 1377782111,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2401,
+            "date": 1726846543,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1607369563,
+            "game": "https://www.chess.com/game/live/3078697974"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2774,
+            "date": 1717085285,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1694887277,
+            "game": "https://www.chess.com/game/live/84997980599"
+        },
+        "record": {
+            "win": 157,
+            "loss": 110,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2702,
+            "date": 1740501645,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2736,
+            "date": 1726590432,
+            "game": "https://www.chess.com/game/live/87665558901"
+        },
+        "record": {
+            "win": 404,
+            "loss": 293,
+            "draw": 46
+        }
+    },
+    "fide": 2405,
+    "tactics": {
+        "highest": {
+            "rating": 2630,
+            "date": 1737153156
+        },
+        "lowest": {
+            "rating": 2156,
+            "date": 1448388784
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

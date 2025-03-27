@@ -1,0 +1,64 @@
+{
+    "player_id": 82382558,
+    "@id": "https://api.chess.com/pub/player/maplecheck",
+    "url": "https://www.chess.com/member/MapleCheck",
+    "name": "Marlon Jodar",
+    "username": "maplecheck",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Canada",
+    "last_online": 1740699212,
+    "joined": 1591971503,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2226,
+            "date": 1726856175,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2227,
+            "date": 1726852538,
+            "game": "https://www.chess.com/game/live/120590430259"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2354,
+            "date": 1740525699,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2455,
+            "date": 1736895870,
+            "game": "https://www.chess.com/game/live/131235622565"
+        },
+        "record": {
+            "win": 281,
+            "loss": 313,
+            "draw": 32
+        }
+    },
+    "fide": 2209,
+    "tactics": {
+        "highest": {
+            "rating": 2276,
+            "date": 1708462763
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1592164475
+        }
+    },
+    "puzzle_rush": {}
+}

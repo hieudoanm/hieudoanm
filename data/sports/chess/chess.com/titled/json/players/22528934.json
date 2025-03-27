@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22528934.0ed0ff33.200x200o.591c9074ebf1.jpeg",
+    "player_id": 22528934,
+    "@id": "https://api.chess.com/pub/player/joshuaguo",
+    "url": "https://www.chess.com/member/joshuaguo",
+    "name": "Joshua Guo",
+    "username": "joshuaguo",
+    "title": "NM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Markham, Ontario",
+    "last_online": 1741656463,
+    "joined": 1432490685,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1671,
+            "date": 1593637999,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1432490685,
+            "game": "https://www.chess.com/game/daily/159113707"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 31353,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2171,
+            "date": 1727915854,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2171,
+            "date": 1727915854,
+            "game": "https://www.chess.com/game/live/5177958696"
+        },
+        "record": {
+            "win": 11,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2433,
+            "date": 1705711204,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2483,
+            "date": 1632848403,
+            "game": "https://www.chess.com/game/live/82860643627"
+        },
+        "record": {
+            "win": 4008,
+            "loss": 3824,
+            "draw": 380
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2336,
+            "date": 1739810781,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1677621906,
+            "game": "https://www.chess.com/game/live/71360694435"
+        },
+        "record": {
+            "win": 2645,
+            "loss": 2448,
+            "draw": 387
+        }
+    },
+    "fide": 2112,
+    "tactics": {
+        "highest": {
+            "rating": 3322,
+            "date": 1741068016
+        },
+        "lowest": {
+            "rating": 1467,
+            "date": 1432493183
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        },
+        "daily": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

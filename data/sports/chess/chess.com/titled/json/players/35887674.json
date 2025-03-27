@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35887674.1c6e2892.200x200o.c8fd4d2decbc.jpg",
+    "player_id": 35887674,
+    "@id": "https://api.chess.com/pub/player/susik_gaboyan",
+    "url": "https://www.chess.com/member/Susik_Gaboyan",
+    "name": "Susanna Gaboyan",
+    "username": "susik_gaboyan",
+    "title": "WIM",
+    "followers": 186,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Yerevan",
+    "last_online": 1741545491,
+    "joined": 1496002214,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1613,
+            "date": 1719674792,
+            "rd": 338
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1496002214,
+            "game": "https://www.chess.com/game/daily/647614189"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 58174,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2105,
+            "date": 1709953164,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2194,
+            "date": 1608565565,
+            "game": "https://www.chess.com/game/live/24999677265"
+        },
+        "record": {
+            "win": 29,
+            "loss": 21,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2479,
+            "date": 1732835181,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2725,
+            "date": 1534003313,
+            "game": "https://www.chess.com/game/live/4231566502"
+        },
+        "record": {
+            "win": 1066,
+            "loss": 961,
+            "draw": 135
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2286,
+            "date": 1704218727,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1509725813,
+            "game": "https://www.chess.com/game/live/67804894155"
+        },
+        "record": {
+            "win": 1146,
+            "loss": 1040,
+            "draw": 155
+        }
+    },
+    "fide": 2211,
+    "tactics": {
+        "highest": {
+            "rating": 3572,
+            "date": 1723594966
+        },
+        "lowest": {
+            "rating": 1199,
+            "date": 1503349600
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

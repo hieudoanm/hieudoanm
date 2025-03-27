@@ -1,0 +1,51 @@
+{
+    "player_id": 393828073,
+    "@id": "https://api.chess.com/pub/player/cyndad",
+    "url": "https://www.chess.com/member/CYNDAD",
+    "name": "Victor Garcia Cuenca",
+    "username": "cyndad",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1738784045,
+    "joined": 1728132072,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2409,
+            "date": 1738708809,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1738707959,
+            "game": "https://www.chess.com/game/live/130026009043"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "fide": 2264,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1728132072
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728132072
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

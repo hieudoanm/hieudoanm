@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40746874.0e3f9cbc.200x200o.deaf52db4379.jpeg",
+    "player_id": 40746874,
+    "@id": "https://api.chess.com/pub/player/rainmond",
+    "url": "https://www.chess.com/member/Rainmond",
+    "name": "Nikita Afanasiev",
+    "username": "rainmond",
+    "title": "GM",
+    "followers": 90,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Moscow",
+    "last_online": 1737710775,
+    "joined": 1511700432,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2487,
+            "date": 1551979790,
+            "rd": 248
+        },
+        "best": {
+            "rating": 2487,
+            "date": 1547740193,
+            "game": "https://www.chess.com/game/live/2811419570"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2810,
+            "date": 1700348754,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1637847261,
+            "game": "https://www.chess.com/game/live/33670887005"
+        },
+        "record": {
+            "win": 3582,
+            "loss": 2684,
+            "draw": 330
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2775,
+            "date": 1730326565,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2927,
+            "date": 1650292487,
+            "game": "https://www.chess.com/game/live/3546609302"
+        },
+        "record": {
+            "win": 2216,
+            "loss": 1617,
+            "draw": 355
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2144,
+            "date": 1564747413
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1513075155
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

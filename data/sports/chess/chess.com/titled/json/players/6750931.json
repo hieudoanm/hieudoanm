@@ -1,0 +1,105 @@
+{
+    "player_id": 6750931,
+    "@id": "https://api.chess.com/pub/player/microbear",
+    "url": "https://www.chess.com/member/microbear",
+    "name": "Eric Hon",
+    "username": "microbear",
+    "title": "NM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Fisherman's Warf",
+    "last_online": 1741597442,
+    "joined": 1330049391,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2045,
+            "date": 1735851290,
+            "rd": 201
+        },
+        "best": {
+            "rating": 2045,
+            "date": 1735851290,
+            "game": "https://www.chess.com/game/daily/85912656"
+        },
+        "record": {
+            "win": 47,
+            "loss": 14,
+            "draw": 2,
+            "time_per_move": 56136,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2122,
+            "date": 1723646203,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1662778839,
+            "game": "https://www.chess.com/game/live/12713176721"
+        },
+        "record": {
+            "win": 143,
+            "loss": 66,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2500,
+            "date": 1741607287,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2582,
+            "date": 1736815171,
+            "game": "https://www.chess.com/game/live/109791161203"
+        },
+        "record": {
+            "win": 16630,
+            "loss": 15294,
+            "draw": 1559
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2317,
+            "date": 1740340967,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1712763187,
+            "game": "https://www.chess.com/game/live/5561994356"
+        },
+        "record": {
+            "win": 1146,
+            "loss": 807,
+            "draw": 126
+        }
+    },
+    "fide": 100,
+    "tactics": {
+        "highest": {
+            "rating": 3362,
+            "date": 1737457647
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1438876514
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30701428.cca7c19e.200x200o.be130b34815c.jpeg",
+    "player_id": 30701428,
+    "@id": "https://api.chess.com/pub/player/hamisandwich",
+    "url": "https://www.chess.com/member/Hamisandwich",
+    "name": "Vladimir Hamitevici",
+    "username": "hamisandwich",
+    "title": "GM",
+    "followers": 82,
+    "country": "https://api.chess.com/pub/country/MD",
+    "last_online": 1734109485,
+    "joined": 1478039675,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1890,
+            "date": 1667716203,
+            "rd": 266
+        },
+        "best": {
+            "rating": 1890,
+            "date": 1667716203,
+            "game": "https://www.chess.com/game/daily/427179669"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 30872,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2094,
+            "date": 1725199153,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2244,
+            "date": 1651932393,
+            "game": "https://www.chess.com/game/live/114972516469"
+        },
+        "record": {
+            "win": 6,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2739,
+            "date": 1731469665,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1731469613,
+            "game": "https://www.chess.com/game/live/110308291163"
+        },
+        "record": {
+            "win": 172,
+            "loss": 97,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2821,
+            "date": 1732665925,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2856,
+            "date": 1731380515,
+            "game": "https://www.chess.com/game/live/67732421427"
+        },
+        "record": {
+            "win": 7223,
+            "loss": 6415,
+            "draw": 1182
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3526,
+            "date": 1712609666
+        },
+        "lowest": {
+            "rating": 1943,
+            "date": 1483009865
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        }
+    }
+}

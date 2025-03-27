@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13943076.53576922.200x200o.b347fb93fcfc.jpg",
+    "player_id": 13943076,
+    "@id": "https://api.chess.com/pub/player/mandetowitch",
+    "url": "https://www.chess.com/member/Mandetowitch",
+    "name": "Joao Danilo Mandetta",
+    "username": "mandetowitch",
+    "title": "FM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Santos",
+    "last_online": 1728047730,
+    "joined": 1382041873,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2334,
+            "date": 1728068244,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1645710128,
+            "game": "https://www.chess.com/game/live/27107467013"
+        },
+        "record": {
+            "win": 63,
+            "loss": 39,
+            "draw": 28
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2226,
+            "date": 1598731077,
+            "rd": 174
+        },
+        "best": {
+            "rating": 2265,
+            "date": 1547338022,
+            "game": "https://www.chess.com/game/live/3371792923"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2301,
+            "date": 1726693019,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1617741884,
+            "game": "https://www.chess.com/game/live/18035559461"
+        },
+        "record": {
+            "win": 3452,
+            "loss": 2577,
+            "draw": 565
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2940,
+            "date": 1727709781
+        },
+        "lowest": {
+            "rating": 1337,
+            "date": 1383415814
+        }
+    },
+    "puzzle_rush": {}
+}

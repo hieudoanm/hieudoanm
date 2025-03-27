@@ -1,0 +1,45 @@
+{
+    "player_id": 358235573,
+    "@id": "https://api.chess.com/pub/player/v4l3_dds06",
+    "url": "https://www.chess.com/member/v4l3_dds06",
+    "name": "Mayra Valentina De Dios Suarez",
+    "username": "v4l3_dds06",
+    "title": "WCM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1732166692,
+    "joined": 1713574734,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 1629,
+            "date": 1732167083,
+            "rd": 155
+        },
+        "best": {
+            "rating": 1761,
+            "date": 1714170020,
+            "game": "https://www.chess.com/game/live/107908249167"
+        },
+        "record": {
+            "win": 1,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "fide": 1793,
+    "tactics": {
+        "highest": {
+            "rating": 1894,
+            "date": 1716395104
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1713574734
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/319381315.4fc4d2ae.200x200o.d10a053384f5.png",
+    "player_id": 319381315,
+    "@id": "https://api.chess.com/pub/player/delusional_knight",
+    "url": "https://www.chess.com/member/Delusional_Knight",
+    "username": "delusional_knight",
+    "title": "CM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/DK",
+    "last_online": 1741690466,
+    "joined": 1697234332,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2418,
+            "date": 1731616958,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1703528439,
+            "game": "https://www.chess.com/game/live/91657252529"
+        },
+        "record": {
+            "win": 67,
+            "loss": 99,
+            "draw": 43
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2437,
+            "date": 1734306125,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2779,
+            "date": 1697570650,
+            "game": "https://www.chess.com/game/live/100561460387"
+        },
+        "record": {
+            "win": 214,
+            "loss": 250,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2601,
+            "date": 1741697761,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2760,
+            "date": 1735748393,
+            "game": "https://www.chess.com/game/live/107463903275"
+        },
+        "record": {
+            "win": 2585,
+            "loss": 3176,
+            "draw": 668
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3442,
+            "date": 1735220387
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1697234332
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

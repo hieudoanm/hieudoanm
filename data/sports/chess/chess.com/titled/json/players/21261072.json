@@ -1,0 +1,96 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21261072.f754bfbe.200x200o.fba6423ad54f.jpg",
+    "player_id": 21261072,
+    "@id": "https://api.chess.com/pub/player/fandorine",
+    "url": "https://www.chess.com/member/Fandorine",
+    "name": "Maksim Chigaev",
+    "username": "fandorine",
+    "title": "GM",
+    "followers": 454,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1734180432,
+    "joined": 1424876411,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/fandorine96",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/fandorine96"
+        },
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@fandorine96"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2586,
+            "date": 1733420774,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1589583187,
+            "game": "https://www.chess.com/game/live/72471075345"
+        },
+        "record": {
+            "win": 84,
+            "loss": 58,
+            "draw": 63
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2848,
+            "date": 1720725549,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3054,
+            "date": 1688756516,
+            "game": "https://www.chess.com/game/live/68669716189"
+        },
+        "record": {
+            "win": 475,
+            "loss": 339,
+            "draw": 78
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2953,
+            "date": 1730236647,
+            "rd": 42
+        },
+        "best": {
+            "rating": 3036,
+            "date": 1642532063,
+            "game": "https://www.chess.com/game/live/122766876787"
+        },
+        "record": {
+            "win": 3131,
+            "loss": 1464,
+            "draw": 667
+        }
+    },
+    "fide": 2648,
+    "tactics": {
+        "highest": {
+            "rating": 4188,
+            "date": 1585663603
+        },
+        "lowest": {
+            "rating": 1361,
+            "date": 1424879993
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

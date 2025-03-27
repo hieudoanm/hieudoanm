@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/114674512.62df5ec6.200x200o.c6e926e4baa9.jpg",
+    "player_id": 114674512,
+    "@id": "https://api.chess.com/pub/player/the_princess_moon",
+    "url": "https://www.chess.com/member/The_Princess_Moon",
+    "name": "Leancy Beatriz Fernandez Bustamante",
+    "username": "the_princess_moon",
+    "title": "WFM",
+    "followers": 185,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "Barcelona",
+    "last_online": 1741445680,
+    "joined": 1611290757,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1696071662,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 303972,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1998,
+            "date": 1738585753,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2321,
+            "date": 1691182769,
+            "game": "https://www.chess.com/game/live/84920027115"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2007,
+            "date": 1741450227,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2742,
+            "date": 1616687574,
+            "game": "https://www.chess.com/game/live/10426077909"
+        },
+        "record": {
+            "win": 109,
+            "loss": 137,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2364,
+            "date": 1741449027,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1687816236,
+            "game": "https://www.chess.com/game/live/91735734957"
+        },
+        "record": {
+            "win": 405,
+            "loss": 389,
+            "draw": 57
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3221,
+            "date": 1706108739
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1611290757
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

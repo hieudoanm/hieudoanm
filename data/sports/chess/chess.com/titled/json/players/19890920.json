@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19890920.893c8a72.200x200o.df323c052b79.jpeg",
+    "player_id": 19890920,
+    "@id": "https://api.chess.com/pub/player/lazovt",
+    "url": "https://www.chess.com/member/LazovT",
+    "name": "Toni Lazov",
+    "username": "lazovt",
+    "title": "IM",
+    "followers": 160,
+    "country": "https://api.chess.com/pub/country/MK",
+    "location": "Negotino",
+    "last_online": 1741221413,
+    "joined": 1416922125,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2024,
+            "date": 1633704623,
+            "rd": 189
+        },
+        "best": {
+            "rating": 2129,
+            "date": 1466969087,
+            "game": "https://www.chess.com/game/daily/132238390"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 38197,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2145,
+            "date": 1729273332,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2286,
+            "date": 1590859646,
+            "game": "https://www.chess.com/game/live/4929392637"
+        },
+        "record": {
+            "win": 14,
+            "loss": 14,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2755,
+            "date": 1652651899,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2824,
+            "date": 1646018785,
+            "game": "https://www.chess.com/game/live/44467266103"
+        },
+        "record": {
+            "win": 4532,
+            "loss": 3490,
+            "draw": 490
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2760,
+            "date": 1737648691,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2787,
+            "date": 1732739723,
+            "game": "https://www.chess.com/game/live/32136076097"
+        },
+        "record": {
+            "win": 3640,
+            "loss": 2659,
+            "draw": 557
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3290,
+            "date": 1714496134
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1457507898
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

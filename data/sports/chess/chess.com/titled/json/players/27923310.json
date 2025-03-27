@@ -1,0 +1,86 @@
+{
+    "player_id": 27923310,
+    "@id": "https://api.chess.com/pub/player/lhuron",
+    "url": "https://www.chess.com/member/Lhuron",
+    "name": "Marius Zainea",
+    "username": "lhuron",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/LU",
+    "last_online": 1736229677,
+    "joined": 1461686096,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2222,
+            "date": 1741703087,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1674512772,
+            "game": "https://www.chess.com/game/daily/440301337"
+        },
+        "record": {
+            "win": 93,
+            "loss": 18,
+            "draw": 23,
+            "time_per_move": 10895,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1835,
+            "date": 1534619995,
+            "rd": 111
+        },
+        "best": {
+            "rating": 1835,
+            "date": 1534619995,
+            "game": "https://www.chess.com/game/live/1560480276"
+        },
+        "record": {
+            "win": 22,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1948,
+            "date": 1669063605,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2031,
+            "date": 1580594768,
+            "game": "https://www.chess.com/game/live/2734607929"
+        },
+        "record": {
+            "win": 377,
+            "loss": 261,
+            "draw": 43
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3218,
+            "date": 1523460314
+        },
+        "lowest": {
+            "rating": 955,
+            "date": 1461695143
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

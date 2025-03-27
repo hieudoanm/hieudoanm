@@ -1,0 +1,122 @@
+{
+    "player_id": 24045014,
+    "@id": "https://api.chess.com/pub/player/fahad",
+    "url": "https://www.chess.com/member/fahad",
+    "name": "Mohammad Fahad Rahman",
+    "username": "fahad",
+    "title": "IM",
+    "followers": 225,
+    "country": "https://api.chess.com/pub/country/BD",
+    "last_online": 1741511627,
+    "joined": 1441864102,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1887,
+            "date": 1709137416,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1887,
+            "date": 1582458519,
+            "game": "https://www.chess.com/game/daily/250784840"
+        },
+        "record": {
+            "win": 15,
+            "loss": 13,
+            "draw": 0,
+            "time_per_move": 10215,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1829,
+            "date": 1462082708,
+            "rd": 223
+        },
+        "best": {
+            "rating": 1908,
+            "date": 1462045815,
+            "game": "https://www.chess.com/game/daily/134657368"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 10215,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2090,
+            "date": 1687200127,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2644,
+            "date": 1597394705,
+            "game": "https://www.chess.com/game/live/5300267126"
+        },
+        "record": {
+            "win": 37,
+            "loss": 28,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2776,
+            "date": 1739545073,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2849,
+            "date": 1736359676,
+            "game": "https://www.chess.com/game/live/33907853283"
+        },
+        "record": {
+            "win": 4353,
+            "loss": 4147,
+            "draw": 513
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2779,
+            "date": 1739548438,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1739545885,
+            "game": "https://www.chess.com/game/live/13889591343"
+        },
+        "record": {
+            "win": 3435,
+            "loss": 3602,
+            "draw": 591
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3803,
+            "date": 1715903758
+        },
+        "lowest": {
+            "rating": 1193,
+            "date": 1535110833
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

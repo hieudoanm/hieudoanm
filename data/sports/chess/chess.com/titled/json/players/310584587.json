@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/310584587.4b72c30f.200x200o.2b97c5e0f938.jpg",
+    "player_id": 310584587,
+    "@id": "https://api.chess.com/pub/player/cristi_coca",
+    "url": "https://www.chess.com/member/Cristi_Coca",
+    "name": "Cristi Coca",
+    "username": "cristi_coca",
+    "title": "FM",
+    "followers": 79,
+    "country": "https://api.chess.com/pub/country/RO",
+    "last_online": 1741620681,
+    "joined": 1693908614,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2248,
+            "date": 1739809771,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2248,
+            "date": 1697662230,
+            "game": "https://www.chess.com/game/live/117732644365"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2370,
+            "date": 1721079521,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2444,
+            "date": 1698445987,
+            "game": "https://www.chess.com/game/live/94868374555"
+        },
+        "record": {
+            "win": 25,
+            "loss": 14,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2391,
+            "date": 1728503048,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1699890810,
+            "game": "https://www.chess.com/game/live/93133337263"
+        },
+        "record": {
+            "win": 377,
+            "loss": 381,
+            "draw": 48
+        }
+    },
+    "fide": 2248,
+    "tactics": {
+        "highest": {
+            "rating": 3108,
+            "date": 1702393613
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1693908614
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

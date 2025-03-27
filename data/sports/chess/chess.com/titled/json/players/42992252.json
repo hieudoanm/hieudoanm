@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42992252.8cd4a2bc.200x200o.cad296215c39.jpeg",
+    "player_id": 42992252,
+    "@id": "https://api.chess.com/pub/player/dinhnhokiet",
+    "url": "https://www.chess.com/member/dinhnhokiet",
+    "name": "Dinh Nho Kiet",
+    "username": "dinhnhokiet",
+    "title": "FM",
+    "followers": 48,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1741698445,
+    "joined": 1517733475,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2145,
+            "date": 1668700934,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2145,
+            "date": 1658482462,
+            "game": "https://www.chess.com/game/live/52220971285"
+        },
+        "record": {
+            "win": 190,
+            "loss": 108,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2939,
+            "date": 1737708103,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2939,
+            "date": 1737708103,
+            "game": "https://www.chess.com/game/live/126187813321"
+        },
+        "record": {
+            "win": 974,
+            "loss": 720,
+            "draw": 132
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2820,
+            "date": 1740741484,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2868,
+            "date": 1738846167,
+            "game": "https://www.chess.com/game/live/132584500451"
+        },
+        "record": {
+            "win": 820,
+            "loss": 570,
+            "draw": 104
+        }
+    },
+    "fide": 2253,
+    "tactics": {
+        "highest": {
+            "rating": 3381,
+            "date": 1711723188
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1533543581
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41532958.a7318e9e.200x200o.7406e0b11e29.jpg",
+    "player_id": 41532958,
+    "@id": "https://api.chess.com/pub/player/leowin2012",
+    "url": "https://www.chess.com/member/LeoWin2012",
+    "name": "Leonardo Vincenti",
+    "username": "leowin2012",
+    "title": "NM",
+    "followers": 85,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741616229,
+    "joined": 1513842064,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1382,
+            "date": 1737982606,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1705,
+            "date": 1638268724,
+            "game": "https://www.chess.com/game/daily/750410027"
+        },
+        "record": {
+            "win": 45,
+            "loss": 36,
+            "draw": 1,
+            "time_per_move": 21717,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1715001583,
+            "rd": 350
+        },
+        "record": {
+            "win": 4,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 21717,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2116,
+            "date": 1736779714,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1698566627,
+            "game": "https://www.chess.com/game/live/32115109727"
+        },
+        "record": {
+            "win": 603,
+            "loss": 427,
+            "draw": 54
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2396,
+            "date": 1738431769,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1736517652,
+            "game": "https://www.chess.com/game/live/106770034147"
+        },
+        "record": {
+            "win": 632,
+            "loss": 690,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2331,
+            "date": 1738688225,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2469,
+            "date": 1726145987,
+            "game": "https://www.chess.com/game/live/119812237519"
+        },
+        "record": {
+            "win": 2546,
+            "loss": 2327,
+            "draw": 275
+        }
+    },
+    "fide": 2238,
+    "tactics": {
+        "highest": {
+            "rating": 3502,
+            "date": 1708157044
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1587894916
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/387695383.7d518a14.200x200o.0c463b582560.jpg",
+    "player_id": 387695383,
+    "@id": "https://api.chess.com/pub/player/sarbalia",
+    "url": "https://www.chess.com/member/Sarbalia",
+    "name": "Aarav Sarbalia",
+    "username": "sarbalia",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1730211929,
+    "joined": 1726064989,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1606,
+            "date": 1726588119,
+            "rd": 348
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2369,
+            "date": 1729012222,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2419,
+            "date": 1729008534,
+            "game": "https://www.chess.com/game/live/122743463911"
+        },
+        "record": {
+            "win": 3,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1726064989
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1726064989
+        }
+    },
+    "puzzle_rush": {}
+}

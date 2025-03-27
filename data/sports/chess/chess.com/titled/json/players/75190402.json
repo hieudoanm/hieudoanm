@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75190402.624b725f.200x200o.d1032c7a5a71.jpg",
+    "player_id": 75190402,
+    "@id": "https://api.chess.com/pub/player/fanl71",
+    "url": "https://www.chess.com/member/Fanl71",
+    "name": "Francisco Nunez Lucero",
+    "username": "fanl71",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/XC",
+    "last_online": 1739379939,
+    "joined": 1585664405,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1652,
+            "date": 1737757832,
+            "rd": 73
+        },
+        "best": {
+            "rating": 1652,
+            "date": 1737757832,
+            "game": "https://www.chess.com/game/daily/634706971"
+        },
+        "record": {
+            "win": 82,
+            "loss": 13,
+            "draw": 6,
+            "time_per_move": 4400,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2062,
+            "date": 1713043513,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2062,
+            "date": 1709400331,
+            "game": "https://www.chess.com/game/live/106782118209"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1805,
+            "date": 1741210454,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1710519336,
+            "game": "https://www.chess.com/game/live/104166614469"
+        },
+        "record": {
+            "win": 473,
+            "loss": 375,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2080,
+            "date": 1737504246,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2176,
+            "date": 1649352489,
+            "game": "https://www.chess.com/game/live/105264001841"
+        },
+        "record": {
+            "win": 837,
+            "loss": 680,
+            "draw": 121
+        }
+    },
+    "fide": 2062,
+    "tactics": {
+        "highest": {
+            "rating": 3419,
+            "date": 1711611141
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1628292772
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28667108.aa7d6253.200x200o.c70a46ed8447.jpeg",
+    "player_id": 28667108,
+    "@id": "https://api.chess.com/pub/player/champ2005",
+    "url": "https://www.chess.com/member/champ2005",
+    "name": "Raunak Sadhwani",
+    "username": "champ2005",
+    "title": "GM",
+    "followers": 1131,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "India",
+    "last_online": 1733054306,
+    "joined": 1466141544,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2664,
+            "date": 1664024263,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2784,
+            "date": 1571846270,
+            "game": "https://www.chess.com/game/live/47496625069"
+        },
+        "record": {
+            "win": 74,
+            "loss": 47,
+            "draw": 48
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3076,
+            "date": 1731447657,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3177,
+            "date": 1620748854,
+            "game": "https://www.chess.com/game/live/13762969329"
+        },
+        "record": {
+            "win": 3580,
+            "loss": 2286,
+            "draw": 454
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3030,
+            "date": 1732323201,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3084,
+            "date": 1718646943,
+            "game": "https://www.chess.com/game/live/23149255915"
+        },
+        "record": {
+            "win": 4100,
+            "loss": 3049,
+            "draw": 1357
+        }
+    },
+    "fide": 2609,
+    "tactics": {
+        "highest": {
+            "rating": 3544,
+            "date": 1651677861
+        },
+        "lowest": {
+            "rating": 1564,
+            "date": 1466144171
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

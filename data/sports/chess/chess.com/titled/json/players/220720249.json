@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/220720249.a0446a9f.200x200o.028869f87994.jpg",
+    "player_id": 220720249,
+    "@id": "https://api.chess.com/pub/player/moodynorway76",
+    "url": "https://www.chess.com/member/moodynorway76",
+    "name": "Alexander Flaata",
+    "username": "moodynorway76",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/NO",
+    "location": "Oslo",
+    "last_online": 1738961668,
+    "joined": 1672942771,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1648,
+            "date": 1711472002,
+            "rd": 299
+        },
+        "best": {
+            "rating": 1648,
+            "date": 1711472002,
+            "game": "https://www.chess.com/game/daily/632571973"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 3125,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2041,
+            "date": 1710711326,
+            "rd": 205
+        },
+        "best": {
+            "rating": 1882,
+            "date": 1679948089,
+            "game": "https://www.chess.com/game/live/72227710719"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2041,
+            "date": 1710711326,
+            "rd": 349
+        },
+        "best": {
+            "rating": 1600,
+            "date": 1672942924,
+            "game": "https://www.chess.com/game/live/66681784893"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2097,
+            "date": 1736294782,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2130,
+            "date": 1710449931,
+            "game": "https://www.chess.com/game/live/130026009223"
+        },
+        "record": {
+            "win": 53,
+            "loss": 44,
+            "draw": 4
+        }
+    },
+    "fide": 2100,
+    "tactics": {
+        "highest": {
+            "rating": 2542,
+            "date": 1721173081
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1673187559
+        }
+    },
+    "puzzle_rush": {}
+}

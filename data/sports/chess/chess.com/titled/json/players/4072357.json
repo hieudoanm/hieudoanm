@@ -1,0 +1,108 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4072357.be492fb2.200x200o.2f773eeb3544.jpg",
+    "player_id": 4072357,
+    "@id": "https://api.chess.com/pub/player/tjychess",
+    "url": "https://www.chess.com/member/tjychess",
+    "name": "Jingyao Tin",
+    "username": "tjychess",
+    "title": "GM",
+    "followers": 260,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741694567,
+    "joined": 1286181281,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1793,
+            "date": 1715592207,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1286181281,
+            "game": "https://www.chess.com/game/daily/293280922"
+        },
+        "record": {
+            "win": 13,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 16665,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2372,
+            "date": 1735166524,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1596875823,
+            "game": "https://www.chess.com/game/live/24398507329"
+        },
+        "record": {
+            "win": 63,
+            "loss": 31,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3035,
+            "date": 1741460388,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3075,
+            "date": 1697236249,
+            "game": "https://www.chess.com/game/live/134590145295"
+        },
+        "record": {
+            "win": 5248,
+            "loss": 3620,
+            "draw": 590
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2962,
+            "date": 1741697848,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3063,
+            "date": 1741175056,
+            "game": "https://www.chess.com/game/live/81520916969"
+        },
+        "record": {
+            "win": 2969,
+            "loss": 2067,
+            "draw": 554
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3903,
+            "date": 1713460555
+        },
+        "lowest": {
+            "rating": 1348,
+            "date": 1286274322
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        },
+        "daily": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

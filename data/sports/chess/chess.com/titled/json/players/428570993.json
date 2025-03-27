@@ -1,0 +1,39 @@
+{
+    "player_id": 428570993,
+    "@id": "https://api.chess.com/pub/player/whatsuppppppxdd",
+    "url": "https://www.chess.com/member/whatsuppppppxdd",
+    "username": "whatsuppppppxdd",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1740758224,
+    "joined": 1739355499,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2734,
+            "date": 1740689764,
+            "rd": 35
+        },
+        "record": {
+            "win": 54,
+            "loss": 19,
+            "draw": 7
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1739355499
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1739355499
+        }
+    },
+    "puzzle_rush": {}
+}

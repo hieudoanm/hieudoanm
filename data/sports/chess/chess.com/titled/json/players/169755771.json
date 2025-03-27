@@ -1,0 +1,85 @@
+{
+    "player_id": 169755771,
+    "@id": "https://api.chess.com/pub/player/chess_cryptoworld",
+    "url": "https://www.chess.com/member/chess_cryptoworld",
+    "name": "Rushaan Mahajan",
+    "username": "chess_cryptoworld",
+    "title": "NM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741619930,
+    "joined": 1642737045,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1990,
+            "date": 1736210699,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2006,
+            "date": 1736210027,
+            "game": "https://www.chess.com/game/live/129947977335"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2483,
+            "date": 1720391332,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2512,
+            "date": 1720014964,
+            "game": "https://www.chess.com/game/live/113753984391"
+        },
+        "record": {
+            "win": 1,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2516,
+            "date": 1741452832,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1722479173,
+            "game": "https://www.chess.com/game/live/73181677281"
+        },
+        "record": {
+            "win": 1662,
+            "loss": 1876,
+            "draw": 320
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2089,
+            "date": 1655856646
+        },
+        "lowest": {
+            "rating": 1998,
+            "date": 1644538936
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

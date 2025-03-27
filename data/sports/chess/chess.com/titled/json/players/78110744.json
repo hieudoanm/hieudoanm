@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/78110744.d1c7b8bf.200x200o.605524367718.jpeg",
+    "player_id": 78110744,
+    "@id": "https://api.chess.com/pub/player/jamalm2",
+    "url": "https://www.chess.com/member/jamalm2",
+    "name": "Md Jamal Uddin",
+    "username": "jamalm2",
+    "title": "CM",
+    "followers": 78,
+    "country": "https://api.chess.com/pub/country/BD",
+    "location": "Mymensingh",
+    "last_online": 1741500911,
+    "joined": 1588149648,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1740894411,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2074,
+            "date": 1740894215,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2117,
+            "date": 1664726313,
+            "game": "https://www.chess.com/game/live/16519565577"
+        },
+        "record": {
+            "win": 154,
+            "loss": 58,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1723,
+            "date": 1741682892,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2108,
+            "date": 1594142398,
+            "game": "https://www.chess.com/game/live/131602761941"
+        },
+        "record": {
+            "win": 525,
+            "loss": 513,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2067,
+            "date": 1740072217,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2155,
+            "date": 1651425687,
+            "game": "https://www.chess.com/game/live/11467454285"
+        },
+        "record": {
+            "win": 2847,
+            "loss": 2408,
+            "draw": 221
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2172,
+            "date": 1738632933
+        },
+        "lowest": {
+            "rating": 2084,
+            "date": 1645392283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6321091.8e2efd7e.200x200o.0333cf8fee1b.jpg",
+    "player_id": 6321091,
+    "@id": "https://api.chess.com/pub/player/rz0",
+    "url": "https://www.chess.com/member/RZ0",
+    "name": "Enamul Hossain",
+    "username": "rz0",
+    "title": "GM",
+    "followers": 169,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Portsmouth",
+    "last_online": 1741692947,
+    "joined": 1324048353,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2329,
+            "date": 1607103962,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1603974517,
+            "game": "https://www.chess.com/game/live/5490690178"
+        },
+        "record": {
+            "win": 10,
+            "loss": 6,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2578,
+            "date": 1741645370,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2646,
+            "date": 1678988536,
+            "game": "https://www.chess.com/game/live/125776785697"
+        },
+        "record": {
+            "win": 5444,
+            "loss": 5043,
+            "draw": 717
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3771,
+            "date": 1700086613
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1544572954
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        },
+        "daily": {
+            "total_attempts": 40,
+            "score": 39
+        }
+    }
+}

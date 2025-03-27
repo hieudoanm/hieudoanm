@@ -1,0 +1,45 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/87083836.731620b6.200x200o.7f5cdb4b5475.png",
+    "player_id": 87083836,
+    "@id": "https://api.chess.com/pub/player/darkwhiteknight96",
+    "url": "https://www.chess.com/member/darkwhiteknight96",
+    "name": "Mauricio Hernandez",
+    "username": "darkwhiteknight96",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/SV",
+    "last_online": 1714691791,
+    "joined": 1595175266,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2046,
+            "date": 1596990766,
+            "rd": 266
+        },
+        "best": {
+            "rating": 2046,
+            "date": 1596990766,
+            "game": "https://www.chess.com/game/live/5273853180"
+        },
+        "record": {
+            "win": 1,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1595175266
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1595175266
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9485110.479aad33.200x200o.c49ddc2bea3b.jpeg",
+    "player_id": 9485110,
+    "@id": "https://api.chess.com/pub/player/silent_soldier1122",
+    "url": "https://www.chess.com/member/Silent_Soldier1122",
+    "name": "Azeez Alade",
+    "username": "silent_soldier1122",
+    "title": "NM",
+    "followers": 129,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741512686,
+    "joined": 1351824689,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2135,
+            "date": 1723732670,
+            "rd": 203
+        },
+        "best": {
+            "rating": 2135,
+            "date": 1689153408,
+            "game": "https://www.chess.com/game/daily/523968741"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 76717,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1690,
+            "date": 1740715892,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2212,
+            "date": 1687693867,
+            "game": "https://www.chess.com/game/live/81430273299"
+        },
+        "record": {
+            "win": 31,
+            "loss": 22,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1676,
+            "date": 1741497518,
+            "rd": 60
+        },
+        "best": {
+            "rating": 1972,
+            "date": 1651939962,
+            "game": "https://www.chess.com/game/live/127716576337"
+        },
+        "record": {
+            "win": 308,
+            "loss": 286,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2079,
+            "date": 1741620343,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2194,
+            "date": 1735567569,
+            "game": "https://www.chess.com/game/live/129267772767"
+        },
+        "record": {
+            "win": 2954,
+            "loss": 2753,
+            "draw": 188
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2624,
+            "date": 1740292632
+        },
+        "lowest": {
+            "rating": 1342,
+            "date": 1445436152
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 30
+        }
+    }
+}

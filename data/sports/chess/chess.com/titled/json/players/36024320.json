@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36024320.919a244d.200x200o.1b0df2a75505.jpeg",
+    "player_id": 36024320,
+    "@id": "https://api.chess.com/pub/player/tigranmukhutdinov",
+    "url": "https://www.chess.com/member/TigranMukhutdinov",
+    "name": "Tigran Mukhutdinov",
+    "username": "tigranmukhutdinov",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Ufa, Russia",
+    "last_online": 1739285851,
+    "joined": 1496470850,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1112,
+            "date": 1652448565,
+            "rd": 248
+        },
+        "best": {
+            "rating": 1112,
+            "date": 1652448565,
+            "game": "https://www.chess.com/game/daily/395150627"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23987,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2377,
+            "date": 1707137346,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2392,
+            "date": 1707134737,
+            "game": "https://www.chess.com/game/live/100870992501"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2524,
+            "date": 1725135307,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2587,
+            "date": 1621448806,
+            "game": "https://www.chess.com/game/live/116925622643"
+        },
+        "record": {
+            "win": 497,
+            "loss": 223,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2702,
+            "date": 1739297637,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1723013515,
+            "game": "https://www.chess.com/game/live/109438942829"
+        },
+        "record": {
+            "win": 599,
+            "loss": 450,
+            "draw": 143
+        }
+    },
+    "fide": 2286,
+    "tactics": {
+        "highest": {
+            "rating": 3360,
+            "date": 1679381974
+        },
+        "lowest": {
+            "rating": 390,
+            "date": 1496481017
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

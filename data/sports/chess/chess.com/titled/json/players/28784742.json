@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28784742.a9ff14c3.200x200o.35755033f9dd.jpeg",
+    "player_id": 28784742,
+    "@id": "https://api.chess.com/pub/player/gevo1990",
+    "url": "https://www.chess.com/member/Gevo1990",
+    "name": "Gevorg Alaverdyan",
+    "username": "gevo1990",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Yerevan",
+    "last_online": 1741034412,
+    "joined": 1466846141,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2526,
+            "date": 1740512562,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1728580437,
+            "game": "https://www.chess.com/game/live/122319011547"
+        },
+        "record": {
+            "win": 52,
+            "loss": 18,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2660,
+            "date": 1741035118,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2660,
+            "date": 1735469556,
+            "game": "https://www.chess.com/game/live/117927015239"
+        },
+        "record": {
+            "win": 216,
+            "loss": 140,
+            "draw": 29
+        }
+    },
+    "fide": 2317,
+    "tactics": {
+        "highest": {
+            "rating": 2868,
+            "date": 1732176283
+        },
+        "lowest": {
+            "rating": 401,
+            "date": 1554313427
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

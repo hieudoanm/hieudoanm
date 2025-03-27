@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39797282.1c7d8836.200x200o.832653b4c5cc.jpg",
+    "player_id": 39797282,
+    "@id": "https://api.chess.com/pub/player/chessvigoa",
+    "url": "https://www.chess.com/member/ChessVigoa",
+    "name": "Yanira Vigoa Apecheche",
+    "username": "chessvigoa",
+    "title": "WGM",
+    "followers": 72,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741363227,
+    "joined": 1509051437,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2131,
+            "date": 1680268896,
+            "rd": 194
+        },
+        "best": {
+            "rating": 2131,
+            "date": 1668298714,
+            "game": "https://www.chess.com/game/live/62036938149"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2122,
+            "date": 1737554687,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2375,
+            "date": 1531094392,
+            "game": "https://www.chess.com/game/live/2756982209"
+        },
+        "record": {
+            "win": 2461,
+            "loss": 3018,
+            "draw": 345
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2292,
+            "date": 1725648714,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1550550137,
+            "game": "https://www.chess.com/game/live/3471182995"
+        },
+        "record": {
+            "win": 2430,
+            "loss": 2956,
+            "draw": 431
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3011,
+            "date": 1684853428
+        },
+        "lowest": {
+            "rating": 1986,
+            "date": 1519946188
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "player_id": 61893302,
+    "@id": "https://api.chess.com/pub/player/edendzung06",
+    "url": "https://www.chess.com/member/EdenDzung06",
+    "name": "Duc Dung Nguyen",
+    "username": "edendzung06",
+    "title": "CM",
+    "followers": 83,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "West Lafayette",
+    "last_online": 1741684222,
+    "joined": 1559630978,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1749,
+            "date": 1715774919,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2088,
+            "date": 1595939794,
+            "game": "https://www.chess.com/game/daily/256977700"
+        },
+        "record": {
+            "win": 23,
+            "loss": 31,
+            "draw": 5,
+            "time_per_move": 59276,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1587,
+            "date": 1596778666,
+            "rd": 221
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 59276,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2315,
+            "date": 1730891206,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1669000400,
+            "game": "https://www.chess.com/game/live/22691465133"
+        },
+        "record": {
+            "win": 35,
+            "loss": 22,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2411,
+            "date": 1739254275,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1711873766,
+            "game": "https://www.chess.com/game/live/112212078569"
+        },
+        "record": {
+            "win": 2176,
+            "loss": 2709,
+            "draw": 377
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2459,
+            "date": 1740946550,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2518,
+            "date": 1733113498,
+            "game": "https://www.chess.com/game/live/112461682363"
+        },
+        "record": {
+            "win": 1126,
+            "loss": 1182,
+            "draw": 194
+        }
+    },
+    "fide": 2207,
+    "tactics": {
+        "highest": {
+            "rating": 3269,
+            "date": 1730920739
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1561030634
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

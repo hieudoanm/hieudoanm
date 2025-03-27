@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49800704.b894de76.200x200o.0583ef467d31.jpeg",
+    "player_id": 49800704,
+    "@id": "https://api.chess.com/pub/player/larbiben",
+    "url": "https://www.chess.com/member/larbiben",
+    "name": "Larbi Ben",
+    "username": "larbiben",
+    "title": "CM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/MA",
+    "location": "Bahrain",
+    "last_online": 1738338857,
+    "joined": 1537096676,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1886,
+            "date": 1629568713,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1590862002,
+            "game": "https://www.chess.com/game/live/4897257902"
+        },
+        "record": {
+            "win": 18,
+            "loss": 19,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1884,
+            "date": 1736308445,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2002,
+            "date": 1624586773,
+            "game": "https://www.chess.com/game/live/12825251115"
+        },
+        "record": {
+            "win": 332,
+            "loss": 321,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2352,
+            "date": 1737477501,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1737477165,
+            "game": "https://www.chess.com/game/live/131215743781"
+        },
+        "record": {
+            "win": 341,
+            "loss": 285,
+            "draw": 42
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2807,
+            "date": 1666120158
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1537096870
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 28
+        }
+    }
+}

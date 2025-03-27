@@ -1,0 +1,87 @@
+{
+    "player_id": 1317291,
+    "@id": "https://api.chess.com/pub/player/zycie_to_gra",
+    "url": "https://www.chess.com/member/Zycie_to_gra",
+    "name": "Rory Quinn",
+    "username": "zycie_to_gra",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IE",
+    "last_online": 1741307328,
+    "joined": 1204232007,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 875,
+            "date": 1731078091,
+            "rd": 322
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1204232007,
+            "game": "https://www.chess.com/game/daily/328192908"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8178,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2073,
+            "date": 1731078092,
+            "rd": 313
+        },
+        "best": {
+            "rating": 1238,
+            "date": 1618776328,
+            "game": "https://www.chess.com/game/live/12513968909"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2211,
+            "date": 1645916469,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2211,
+            "date": 1645916469,
+            "game": "https://www.chess.com/game/live/39651641567"
+        },
+        "record": {
+            "win": 167,
+            "loss": 79,
+            "draw": 10
+        }
+    },
+    "fide": 2073,
+    "tactics": {
+        "highest": {
+            "rating": 1235,
+            "date": 1613837920
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1613837874
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 29,
+            "score": 26
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10271036.f79bb1b7.200x200o.82a29ce68007.jpeg",
+    "player_id": 10271036,
+    "@id": "https://api.chess.com/pub/player/luismiguelov",
+    "url": "https://www.chess.com/member/LUISMIGUELOV",
+    "name": "LUIS MIGUEL FLORESVILLAR",
+    "username": "luismiguelov",
+    "title": "CM",
+    "followers": 268,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "CUERNAVACA",
+    "last_online": 1741628667,
+    "joined": 1357160451,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2307,
+            "date": 1740935806,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1675280529,
+            "game": "https://www.chess.com/game/live/37222884269"
+        },
+        "record": {
+            "win": 682,
+            "loss": 922,
+            "draw": 268
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1890,
+            "date": 1592299502,
+            "rd": 26
+        },
+        "best": {
+            "rating": 1853,
+            "date": 1589686301,
+            "game": "https://www.chess.com/game/live/4811467585"
+        },
+        "record": {
+            "win": 276,
+            "loss": 298,
+            "draw": 48
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2202,
+            "date": 1741632694,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2267,
+            "date": 1643762409,
+            "game": "https://www.chess.com/game/live/115507172329"
+        },
+        "record": {
+            "win": 9772,
+            "loss": 11195,
+            "draw": 2258
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2500,
+            "date": 1723041661
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1494510903
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 26,
+            "score": 24
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28000994.0b95a77c.200x200o.5612520547c8.jpeg",
+    "player_id": 28000994,
+    "@id": "https://api.chess.com/pub/player/omidnoroozi21",
+    "url": "https://www.chess.com/member/omidnoroozi21",
+    "name": "Omid Noroozi",
+    "username": "omidnoroozi21",
+    "title": "IM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/IR",
+    "location": "tehran",
+    "last_online": 1741641199,
+    "joined": 1462128529,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2045,
+            "date": 1736593572,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2045,
+            "date": 1736366620,
+            "game": "https://www.chess.com/game/live/128666549507"
+        },
+        "record": {
+            "win": 7,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2706,
+            "date": 1735442140,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1639724002,
+            "game": "https://www.chess.com/game/live/128218130459"
+        },
+        "record": {
+            "win": 472,
+            "loss": 496,
+            "draw": 41
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2710,
+            "date": 1735433273,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2754,
+            "date": 1547141218,
+            "game": "https://www.chess.com/game/live/3367668869"
+        },
+        "record": {
+            "win": 1187,
+            "loss": 1125,
+            "draw": 155
+        }
+    },
+    "fide": 2345,
+    "tactics": {
+        "highest": {
+            "rating": 3398,
+            "date": 1737125296
+        },
+        "lowest": {
+            "rating": 1371,
+            "date": 1462130394
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        }
+    }
+}

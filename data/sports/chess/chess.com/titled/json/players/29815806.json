@@ -1,0 +1,104 @@
+{
+    "player_id": 29815806,
+    "@id": "https://api.chess.com/pub/player/gpeloui",
+    "url": "https://www.chess.com/member/gpeloui",
+    "name": "Ezra Kirk",
+    "username": "gpeloui",
+    "title": "IM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1741530447,
+    "joined": 1473204838,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1827,
+            "date": 1664524406,
+            "rd": 324
+        },
+        "best": {
+            "rating": 1827,
+            "date": 1664524406,
+            "game": "https://www.chess.com/game/daily/431175189"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 26318,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2221,
+            "date": 1664828540,
+            "rd": 143
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1617288125,
+            "game": "https://www.chess.com/game/live/11026533333"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2548,
+            "date": 1696867703,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2712,
+            "date": 1612011595,
+            "game": "https://www.chess.com/game/live/6006362711"
+        },
+        "record": {
+            "win": 2610,
+            "loss": 2358,
+            "draw": 236
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2429,
+            "date": 1703990711,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1657218385,
+            "game": "https://www.chess.com/game/live/85872086029"
+        },
+        "record": {
+            "win": 648,
+            "loss": 558,
+            "draw": 81
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3298,
+            "date": 1628872222
+        },
+        "lowest": {
+            "rating": 1854,
+            "date": 1473504421
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

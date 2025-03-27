@@ -1,0 +1,87 @@
+{
+    "player_id": 4165683,
+    "@id": "https://api.chess.com/pub/player/gaasten",
+    "url": "https://www.chess.com/member/gaasten",
+    "name": "Johan Norberg",
+    "username": "gaasten",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/SE",
+    "location": "sweeeeeden",
+    "last_online": 1736430400,
+    "joined": 1288036802,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1991,
+            "date": 1738056489,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2083,
+            "date": 1487244744,
+            "game": "https://www.chess.com/game/daily/111671016"
+        },
+        "record": {
+            "win": 320,
+            "loss": 50,
+            "draw": 26,
+            "time_per_move": 13022,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2508,
+            "date": 1717246916,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2629,
+            "date": 1494435046,
+            "game": "https://www.chess.com/game/live/1754665018"
+        },
+        "record": {
+            "win": 199,
+            "loss": 103,
+            "draw": 24
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2451,
+            "date": 1671981524,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2599,
+            "date": 1639592042,
+            "game": "https://www.chess.com/game/live/33332091695"
+        },
+        "record": {
+            "win": 157,
+            "loss": 90,
+            "draw": 14
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3512,
+            "date": 1683743087
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1430142991
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 39
+        }
+    }
+}

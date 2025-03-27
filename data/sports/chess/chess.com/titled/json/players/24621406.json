@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24621406.de01fc8e.200x200o.07bc5cd35fc1.jpg",
+    "player_id": 24621406,
+    "@id": "https://api.chess.com/pub/player/fu24",
+    "url": "https://www.chess.com/member/fu24",
+    "name": "Nicholas Paltrinieri",
+    "username": "fu24",
+    "title": "FM",
+    "followers": 188,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1738249391,
+    "joined": 1445096036,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2485,
+            "date": 1692306253,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2518,
+            "date": 1691357858,
+            "game": "https://www.chess.com/game/live/45570053295"
+        },
+        "record": {
+            "win": 37,
+            "loss": 19,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2614,
+            "date": 1730459408,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2731,
+            "date": 1698879096,
+            "game": "https://www.chess.com/game/live/37885137475"
+        },
+        "record": {
+            "win": 984,
+            "loss": 841,
+            "draw": 111
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2805,
+            "date": 1738252068,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2805,
+            "date": 1738252068,
+            "game": "https://www.chess.com/game/live/109152670831"
+        },
+        "record": {
+            "win": 8912,
+            "loss": 7870,
+            "draw": 1491
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3260,
+            "date": 1641123785
+        },
+        "lowest": {
+            "rating": 1344,
+            "date": 1487246878
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

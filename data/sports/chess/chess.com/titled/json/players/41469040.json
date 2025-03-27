@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41469040.488ab992.200x200o.4e410b1b2917.jpg",
+    "player_id": 41469040,
+    "@id": "https://api.chess.com/pub/player/gareth-bale11",
+    "url": "https://www.chess.com/member/Gareth-Bale11",
+    "name": "Mamikon Gharibyan",
+    "username": "gareth-bale11",
+    "title": "GM",
+    "followers": 381,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Yerevan",
+    "last_online": 1733592880,
+    "joined": 1513666123,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1630,
+            "date": 1729012416,
+            "rd": 179
+        },
+        "best": {
+            "rating": 1719,
+            "date": 1683190414,
+            "game": "https://www.chess.com/game/daily/552804085"
+        },
+        "record": {
+            "win": 12,
+            "loss": 1,
+            "draw": 2,
+            "time_per_move": 47426,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1605,
+            "date": 1713126138,
+            "rd": 345
+        },
+        "best": {
+            "rating": 1605,
+            "date": 1713126138,
+            "game": "https://www.chess.com/game/daily/623884961"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 47426,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2489,
+            "date": 1727292096,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2571,
+            "date": 1682966959,
+            "game": "https://www.chess.com/game/live/78508992233"
+        },
+        "record": {
+            "win": 41,
+            "loss": 37,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2900,
+            "date": 1728755859,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2921,
+            "date": 1716577948,
+            "game": "https://www.chess.com/game/live/122493924855"
+        },
+        "record": {
+            "win": 2287,
+            "loss": 2191,
+            "draw": 351
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2964,
+            "date": 1729678244,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2986,
+            "date": 1726589221,
+            "game": "https://www.chess.com/game/live/119959197091"
+        },
+        "record": {
+            "win": 1707,
+            "loss": 1338,
+            "draw": 398
+        }
+    },
+    "fide": 2472,
+    "tactics": {
+        "highest": {
+            "rating": 3764,
+            "date": 1715071335
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1523169274
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

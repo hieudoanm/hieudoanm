@@ -1,0 +1,67 @@
+{
+    "player_id": 86129414,
+    "@id": "https://api.chess.com/pub/player/ndriqonasaraci",
+    "url": "https://www.chess.com/member/NdriqonaSaraci",
+    "name": "Ndriqona Saraci",
+    "username": "ndriqonasaraci",
+    "title": "WCM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/XK",
+    "last_online": 1737150089,
+    "joined": 1594202719,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1678,
+            "date": 1651248395,
+            "rd": 124
+        },
+        "best": {
+            "rating": 1744,
+            "date": 1651242205,
+            "game": "https://www.chess.com/game/live/23891294961"
+        },
+        "record": {
+            "win": 6,
+            "loss": 7,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1401,
+            "date": 1737151124,
+            "rd": 54
+        },
+        "best": {
+            "rating": 1611,
+            "date": 1651691334,
+            "game": "https://www.chess.com/game/live/9733187639"
+        },
+        "record": {
+            "win": 213,
+            "loss": 199,
+            "draw": 24
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2546,
+            "date": 1729111062
+        },
+        "lowest": {
+            "rating": 1328,
+            "date": 1615141441
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

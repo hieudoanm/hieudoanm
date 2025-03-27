@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12600254.761e3199.200x200o.585b591d0d2a.jpeg",
+    "player_id": 12600254,
+    "@id": "https://api.chess.com/pub/player/peterpantz",
+    "url": "https://www.chess.com/member/PeterPantz",
+    "username": "peterpantz",
+    "title": "FM",
+    "followers": 63,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Djibuti",
+    "last_online": 1739985466,
+    "joined": 1373051564,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2173,
+            "date": 1724148688,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2173,
+            "date": 1724148688,
+            "game": "https://www.chess.com/game/daily/283533244"
+        },
+        "record": {
+            "win": 112,
+            "loss": 11,
+            "draw": 8,
+            "time_per_move": 18985,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1277,
+            "date": 1585817669,
+            "rd": 132
+        },
+        "best": {
+            "rating": 1277,
+            "date": 1585817669,
+            "game": "https://www.chess.com/game/daily/255256912"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 18985,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2087,
+            "date": 1729974948,
+            "rd": 197
+        },
+        "best": {
+            "rating": 2087,
+            "date": 1658097229,
+            "game": "https://www.chess.com/game/live/4562854398"
+        },
+        "record": {
+            "win": 152,
+            "loss": 88,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2267,
+            "date": 1720378049,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1680268095,
+            "game": "https://www.chess.com/game/live/5879991181"
+        },
+        "record": {
+            "win": 4459,
+            "loss": 3520,
+            "draw": 264
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2429,
+            "date": 1738787758,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1672245982,
+            "game": "https://www.chess.com/game/live/6343817589"
+        },
+        "record": {
+            "win": 11420,
+            "loss": 7760,
+            "draw": 1114
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3070,
+            "date": 1738075227
+        },
+        "lowest": {
+            "rating": 1342,
+            "date": 1375808633
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 42
+        }
+    }
+}

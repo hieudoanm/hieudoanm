@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47635282.00679537.200x200o.05ab93d071f7.jpeg",
+    "player_id": 47635282,
+    "@id": "https://api.chess.com/pub/player/yumibear",
+    "url": "https://www.chess.com/member/YumiBear",
+    "name": "Farah Yumna Budiarti",
+    "username": "yumibear",
+    "title": "WFM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1740533025,
+    "joined": 1530800839,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2001,
+            "date": 1694117659,
+            "rd": 155
+        },
+        "best": {
+            "rating": 2332,
+            "date": 1694112215,
+            "game": "https://www.chess.com/game/live/68521999513"
+        },
+        "record": {
+            "win": 6,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2578,
+            "date": 1720426160,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1719231719,
+            "game": "https://www.chess.com/game/live/112970967597"
+        },
+        "record": {
+            "win": 22,
+            "loss": 13,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2060,
+            "date": 1734769529,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2644,
+            "date": 1539677126,
+            "game": "https://www.chess.com/game/live/7843479591"
+        },
+        "record": {
+            "win": 192,
+            "loss": 193,
+            "draw": 28
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3538,
+            "date": 1706770509
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1530978624
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

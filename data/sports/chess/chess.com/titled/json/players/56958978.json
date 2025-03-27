@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56958978.90cb0f6f.200x200o.b23248d45065.jpeg",
+    "player_id": 56958978,
+    "@id": "https://api.chess.com/pub/player/glavkonvvs",
+    "url": "https://www.chess.com/member/GlavkonVVS",
+    "name": "SHAPIRO VIKTOR",
+    "username": "glavkonvvs",
+    "title": "FM",
+    "followers": 80,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "SPb",
+    "last_online": 1741698855,
+    "joined": 1549349624,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2004,
+            "date": 1661804918,
+            "rd": 345
+        },
+        "best": {
+            "rating": 2004,
+            "date": 1661804918,
+            "game": "https://www.chess.com/game/daily/422882903"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 29899,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2341,
+            "date": 1702062272,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1702060846,
+            "game": "https://www.chess.com/game/live/54044995653"
+        },
+        "record": {
+            "win": 42,
+            "loss": 26,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2572,
+            "date": 1737829255,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1737827774,
+            "game": "https://www.chess.com/game/live/131564382899"
+        },
+        "record": {
+            "win": 97,
+            "loss": 57,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2556,
+            "date": 1740528294,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2723,
+            "date": 1714394500,
+            "game": "https://www.chess.com/game/live/111252093417"
+        },
+        "record": {
+            "win": 2274,
+            "loss": 1798,
+            "draw": 325
+        }
+    },
+    "fide": 2249,
+    "tactics": {
+        "highest": {
+            "rating": 3668,
+            "date": 1707085368
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1589835364
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 83,
+            "score": 80
+        },
+        "daily": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

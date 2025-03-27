@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33984394.701e16dd.200x200o.58b189a5564c.jpeg",
+    "player_id": 33984394,
+    "@id": "https://api.chess.com/pub/player/yahisalem",
+    "url": "https://www.chess.com/member/Yahisalem",
+    "name": "Mohamed Salem Yahi",
+    "username": "yahisalem",
+    "title": "CM",
+    "followers": 63,
+    "country": "https://api.chess.com/pub/country/MR",
+    "last_online": 1739915658,
+    "joined": 1489587339,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2073,
+            "date": 1727626457,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2088,
+            "date": 1727626208,
+            "game": "https://www.chess.com/game/live/102810114781"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1728,
+            "date": 1738200568,
+            "rd": 36
+        },
+        "best": {
+            "rating": 1788,
+            "date": 1737774635,
+            "game": "https://www.chess.com/game/live/131509779119"
+        },
+        "record": {
+            "win": 59,
+            "loss": 54,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2007,
+            "date": 1740756805,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2086,
+            "date": 1719797041,
+            "game": "https://www.chess.com/game/live/115511880115"
+        },
+        "record": {
+            "win": 4517,
+            "loss": 4766,
+            "draw": 432
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2428,
+            "date": 1727488069
+        },
+        "lowest": {
+            "rating": 1024,
+            "date": 1489587546
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 1,
+            "score": 1
+        }
+    }
+}

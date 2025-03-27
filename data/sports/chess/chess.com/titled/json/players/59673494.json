@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59673494.c3ee0787.200x200o.896b4f9ccb2a.jpg",
+    "player_id": 59673494,
+    "@id": "https://api.chess.com/pub/player/harryhexblade",
+    "url": "https://www.chess.com/member/HarryHexblade",
+    "name": "Zaw Ye Htut",
+    "username": "harryhexblade",
+    "title": "CM",
+    "followers": 203,
+    "country": "https://api.chess.com/pub/country/MM",
+    "location": "Lashio",
+    "last_online": 1741617485,
+    "joined": 1554963278,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1620,
+            "date": 1740025495,
+            "rd": 206
+        },
+        "best": {
+            "rating": 1660,
+            "date": 1669133475,
+            "game": "https://www.chess.com/game/daily/280924204"
+        },
+        "record": {
+            "win": 10,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 13953,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2051,
+            "date": 1736342454,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2067,
+            "date": 1722609696,
+            "game": "https://www.chess.com/game/live/116348387627"
+        },
+        "record": {
+            "win": 87,
+            "loss": 42,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2123,
+            "date": 1741326447,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2132,
+            "date": 1739259852,
+            "game": "https://www.chess.com/game/live/4881424683"
+        },
+        "record": {
+            "win": 1029,
+            "loss": 820,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2483,
+            "date": 1741681824,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2519,
+            "date": 1732685147,
+            "game": "https://www.chess.com/game/live/126353978513"
+        },
+        "record": {
+            "win": 3024,
+            "loss": 2692,
+            "draw": 279
+        }
+    },
+    "fide": 1978,
+    "tactics": {
+        "highest": {
+            "rating": 3447,
+            "date": 1692969047
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1565866856
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

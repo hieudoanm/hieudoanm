@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8829034.6d90a567.200x200o.60d12a06fdce.jpeg",
+    "player_id": 8829034,
+    "@id": "https://api.chess.com/pub/player/konavets",
+    "url": "https://www.chess.com/member/Konavets",
+    "name": "Sam Sevian",
+    "username": "konavets",
+    "title": "GM",
+    "followers": 1236,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Mass",
+    "last_online": 1741649629,
+    "joined": 1347084219,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1738,
+            "date": 1594996028,
+            "rd": 222
+        },
+        "best": {
+            "rating": 1991,
+            "date": 1414004533,
+            "game": "https://www.chess.com/game/daily/94195908"
+        },
+        "record": {
+            "win": 76,
+            "loss": 47,
+            "draw": 17,
+            "time_per_move": 33520,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2690,
+            "date": 1739906053,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2776,
+            "date": 1696012270,
+            "game": "https://www.chess.com/game/live/45684673131"
+        },
+        "record": {
+            "win": 167,
+            "loss": 78,
+            "draw": 139
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3141,
+            "date": 1741460309,
+            "rd": 25
+        },
+        "best": {
+            "rating": 3218,
+            "date": 1717173954,
+            "game": "https://www.chess.com/game/live/132169216435"
+        },
+        "record": {
+            "win": 2185,
+            "loss": 918,
+            "draw": 210
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3137,
+            "date": 1741651072,
+            "rd": 33
+        },
+        "best": {
+            "rating": 3193,
+            "date": 1740528320,
+            "game": "https://www.chess.com/game/live/5175078808"
+        },
+        "record": {
+            "win": 4244,
+            "loss": 2083,
+            "draw": 792
+        }
+    },
+    "fide": 2511,
+    "tactics": {
+        "highest": {
+            "rating": 4187,
+            "date": 1620547105
+        },
+        "lowest": {
+            "rating": 2307,
+            "date": 1347310846
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

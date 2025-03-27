@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/61176452.30f7a988.200x200o.968d1ae1065a.jpeg",
+    "player_id": 61176452,
+    "@id": "https://api.chess.com/pub/player/grigordilanyan",
+    "url": "https://www.chess.com/member/GrigorDilanyan",
+    "name": "Grigor Dilanyan",
+    "username": "grigordilanyan",
+    "title": "FM",
+    "followers": 117,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Yerevan",
+    "last_online": 1741693568,
+    "joined": 1558276442,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2123,
+            "date": 1739733575,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2155,
+            "date": 1600001441,
+            "game": "https://www.chess.com/game/live/133461577893"
+        },
+        "record": {
+            "win": 16,
+            "loss": 9,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2706,
+            "date": 1741582279,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2731,
+            "date": 1731782871,
+            "game": "https://www.chess.com/game/live/125520557299"
+        },
+        "record": {
+            "win": 307,
+            "loss": 290,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2706,
+            "date": 1741700599,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2784,
+            "date": 1732468217,
+            "game": "https://www.chess.com/game/live/57425803201"
+        },
+        "record": {
+            "win": 724,
+            "loss": 658,
+            "draw": 97
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3430,
+            "date": 1661932153
+        },
+        "lowest": {
+            "rating": 2300,
+            "date": 1558560840
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

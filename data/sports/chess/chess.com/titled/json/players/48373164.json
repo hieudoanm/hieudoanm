@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48373164.f5a78dba.200x200o.292601308848.jpeg",
+    "player_id": 48373164,
+    "@id": "https://api.chess.com/pub/player/viacheslav92",
+    "url": "https://www.chess.com/member/Viacheslav92",
+    "name": "Malyi Viacheslav",
+    "username": "viacheslav92",
+    "title": "FM",
+    "followers": 67,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741533976,
+    "joined": 1533122844,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2347,
+            "date": 1737675410,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2381,
+            "date": 1682715115,
+            "game": "https://www.chess.com/game/live/6492110597"
+        },
+        "record": {
+            "win": 123,
+            "loss": 63,
+            "draw": 21
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2532,
+            "date": 1741581319,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2721,
+            "date": 1734392990,
+            "game": "https://www.chess.com/game/live/23129411903"
+        },
+        "record": {
+            "win": 17214,
+            "loss": 14297,
+            "draw": 2659
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2651,
+            "date": 1737672083,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2673,
+            "date": 1735762411,
+            "game": "https://www.chess.com/game/live/128910814117"
+        },
+        "record": {
+            "win": 4691,
+            "loss": 4099,
+            "draw": 1177
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2812,
+            "date": 1689246024
+        },
+        "lowest": {
+            "rating": 1193,
+            "date": 1559992434
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

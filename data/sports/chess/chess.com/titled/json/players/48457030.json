@@ -1,0 +1,68 @@
+{
+    "player_id": 48457030,
+    "@id": "https://api.chess.com/pub/player/dont_be_a_c0unt",
+    "url": "https://www.chess.com/member/Dont_be_a_C0unt",
+    "name": "Jan Vykouk",
+    "username": "dont_be_a_c0unt",
+    "title": "IM",
+    "followers": 164,
+    "country": "https://api.chess.com/pub/country/TD",
+    "last_online": 1741644019,
+    "joined": 1533367359,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2682,
+            "date": 1729587603,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2712,
+            "date": 1704915890,
+            "game": "https://www.chess.com/game/live/98650034153"
+        },
+        "record": {
+            "win": 1514,
+            "loss": 2056,
+            "draw": 285
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2727,
+            "date": 1739217735,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2866,
+            "date": 1730987035,
+            "game": "https://www.chess.com/game/live/4691819388"
+        },
+        "record": {
+            "win": 4307,
+            "loss": 4607,
+            "draw": 1065
+        }
+    },
+    "fide": 2423,
+    "tactics": {
+        "highest": {
+            "rating": 3347,
+            "date": 1724852458
+        },
+        "lowest": {
+            "rating": 2202,
+            "date": 1534597687
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

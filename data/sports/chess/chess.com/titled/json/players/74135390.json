@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74135390.3c1c0fd2.200x200o.fb61de718188.jpeg",
+    "player_id": 74135390,
+    "@id": "https://api.chess.com/pub/player/mdchess1734",
+    "url": "https://www.chess.com/member/MdChess1734",
+    "name": "Mrudul Dehankar",
+    "username": "mdchess1734",
+    "title": "WIM",
+    "followers": 70,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741601104,
+    "joined": 1584874959,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2050,
+            "date": 1695309609,
+            "rd": 192
+        },
+        "best": {
+            "rating": 2255,
+            "date": 1634059226,
+            "game": "https://www.chess.com/game/live/27795638299"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2344,
+            "date": 1741023652,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1738522353,
+            "game": "https://www.chess.com/game/live/105557356727"
+        },
+        "record": {
+            "win": 207,
+            "loss": 189,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2422,
+            "date": 1740501039,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2543,
+            "date": 1683044848,
+            "game": "https://www.chess.com/game/live/120930683799"
+        },
+        "record": {
+            "win": 332,
+            "loss": 432,
+            "draw": 36
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3549,
+            "date": 1712903672
+        },
+        "lowest": {
+            "rating": 1808,
+            "date": 1624386580
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

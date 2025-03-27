@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17099034.bc87991f.200x200o.83239a3017d9.jpeg",
+    "player_id": 17099034,
+    "@id": "https://api.chess.com/pub/player/geminiboy",
+    "url": "https://www.chess.com/member/GeminiBoy",
+    "username": "geminiboy",
+    "title": "GM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1733643953,
+    "joined": 1398754856,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 784,
+            "date": 1707841372,
+            "rd": 333
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 1440010,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1847,
+            "date": 1651120295,
+            "rd": 229
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1399532400,
+            "game": "https://www.chess.com/game/live/1608866924"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2581,
+            "date": 1705804937,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2692,
+            "date": 1616060100,
+            "game": "https://www.chess.com/game/live/9798751661"
+        },
+        "record": {
+            "win": 23,
+            "loss": 11,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2849,
+            "date": 1720380602,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2920,
+            "date": 1671633045,
+            "game": "https://www.chess.com/game/live/31127992237"
+        },
+        "record": {
+            "win": 553,
+            "loss": 291,
+            "draw": 55
+        }
+    },
+    "fide": 2513,
+    "tactics": {
+        "highest": {
+            "rating": 2981,
+            "date": 1594903742
+        },
+        "lowest": {
+            "rating": 1493,
+            "date": 1511507909
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

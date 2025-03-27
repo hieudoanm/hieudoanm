@@ -1,0 +1,66 @@
+{
+    "player_id": 224437207,
+    "@id": "https://api.chess.com/pub/player/wulverine02",
+    "url": "https://www.chess.com/member/Wulverine02",
+    "username": "wulverine02",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/CW",
+    "last_online": 1741644963,
+    "joined": 1673555191,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2195,
+            "date": 1724835948,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2310,
+            "date": 1724831727,
+            "game": "https://www.chess.com/game/live/118571295129"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2455,
+            "date": 1741645347,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1733646141,
+            "game": "https://www.chess.com/game/live/127326060087"
+        },
+        "record": {
+            "win": 647,
+            "loss": 747,
+            "draw": 139
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2396,
+            "date": 1724315167
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1673555191
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

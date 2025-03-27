@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2406471.3a727676.200x200o.3567f9663ba8.jpeg",
+    "player_id": 2406471,
+    "@id": "https://api.chess.com/pub/player/gmjoey1",
+    "url": "https://www.chess.com/member/gmjoey1",
+    "name": "Rogelio Jr Antonio",
+    "username": "gmjoey1",
+    "title": "GM",
+    "followers": 3518,
+    "country": "https://api.chess.com/pub/country/PH",
+    "location": "Quezon City",
+    "last_online": 1734077435,
+    "joined": 1261658453,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1115,
+            "date": 1719258667,
+            "rd": 264
+        },
+        "record": {
+            "win": 1,
+            "loss": 9,
+            "draw": 0,
+            "time_per_move": 541161,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2478,
+            "date": 1733728758,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2700,
+            "date": 1700514356,
+            "game": "https://www.chess.com/game/live/91963709381"
+        },
+        "record": {
+            "win": 474,
+            "loss": 95,
+            "draw": 127
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2433,
+            "date": 1724737841,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2972,
+            "date": 1297878251,
+            "game": "https://www.chess.com/game/live/107369843"
+        },
+        "record": {
+            "win": 59059,
+            "loss": 36117,
+            "draw": 2643
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2858,
+            "date": 1734077844,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1680034710,
+            "game": "https://www.chess.com/game/live/73775505019"
+        },
+        "record": {
+            "win": 53753,
+            "loss": 35576,
+            "draw": 5313
+        }
+    },
+    "fide": 2589,
+    "tactics": {
+        "highest": {
+            "rating": 3503,
+            "date": 1656857540
+        },
+        "lowest": {
+            "rating": 1158,
+            "date": 1298884227
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 30
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37742998.ea6f3b8a.200x200o.643e6a46f46d.png",
+    "player_id": 37742998,
+    "@id": "https://api.chess.com/pub/player/ajedrezcapablanca",
+    "url": "https://www.chess.com/member/AjedrezCapablanca",
+    "name": "Julio Leonardo Boudy Bueno",
+    "username": "ajedrezcapablanca",
+    "title": "IM",
+    "followers": 1185,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Gij\u00f3n",
+    "last_online": 1741687314,
+    "joined": 1502487277,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2029,
+            "date": 1712966594,
+            "rd": 222
+        },
+        "best": {
+            "rating": 2029,
+            "date": 1609148895,
+            "game": "https://www.chess.com/game/daily/296192816"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 2469,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1567,
+            "date": 1580857970,
+            "rd": 183
+        },
+        "best": {
+            "rating": 2080,
+            "date": 1522795069,
+            "game": "https://www.chess.com/game/live/2535474583"
+        },
+        "record": {
+            "win": 27,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1814,
+            "date": 1741647631,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2119,
+            "date": 1619564680,
+            "game": "https://www.chess.com/game/live/6257766051"
+        },
+        "record": {
+            "win": 951,
+            "loss": 818,
+            "draw": 39
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2202,
+            "date": 1740180930,
+            "rd": 92
+        },
+        "best": {
+            "rating": 2337,
+            "date": 1525468161,
+            "game": "https://www.chess.com/game/live/55118199303"
+        },
+        "record": {
+            "win": 531,
+            "loss": 341,
+            "draw": 30
+        }
+    },
+    "fide": 2237,
+    "tactics": {
+        "highest": {
+            "rating": 3519,
+            "date": 1723932627
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1502489820
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

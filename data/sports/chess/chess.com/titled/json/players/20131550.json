@@ -1,0 +1,105 @@
+{
+    "player_id": 20131550,
+    "@id": "https://api.chess.com/pub/player/gomeschess02",
+    "url": "https://www.chess.com/member/gomeschess02",
+    "name": "Ganesh Murugappan",
+    "username": "gomeschess02",
+    "title": "NM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Georgia",
+    "last_online": 1740366815,
+    "joined": 1418336296,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1706653821,
+            "rd": 343
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1418336296,
+            "game": "https://www.chess.com/game/daily/266507962"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 30935,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2172,
+            "date": 1739239776,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1700536688,
+            "game": "https://www.chess.com/game/live/72923126665"
+        },
+        "record": {
+            "win": 37,
+            "loss": 22,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1959,
+            "date": 1740369233,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2180,
+            "date": 1671319325,
+            "game": "https://www.chess.com/game/live/65058046829"
+        },
+        "record": {
+            "win": 640,
+            "loss": 474,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2121,
+            "date": 1741383599,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1697319339,
+            "game": "https://www.chess.com/game/live/101925813313"
+        },
+        "record": {
+            "win": 532,
+            "loss": 447,
+            "draw": 46
+        }
+    },
+    "fide": 2157,
+    "tactics": {
+        "highest": {
+            "rating": 3432,
+            "date": 1671563404
+        },
+        "lowest": {
+            "rating": 1364,
+            "date": 1419038854
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

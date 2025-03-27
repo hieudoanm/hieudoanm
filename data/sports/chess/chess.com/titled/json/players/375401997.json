@@ -1,0 +1,67 @@
+{
+    "player_id": 375401997,
+    "@id": "https://api.chess.com/pub/player/leavethecannoli",
+    "url": "https://www.chess.com/member/leavethecannoli",
+    "username": "leavethecannoli",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741466780,
+    "joined": 1721002769,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2075,
+            "date": 1741490909,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2084,
+            "date": 1739643229,
+            "game": "https://www.chess.com/game/live/133381765307"
+        },
+        "record": {
+            "win": 18,
+            "loss": 15,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2358,
+            "date": 1741641189,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2313,
+            "date": 1737748104,
+            "game": "https://www.chess.com/game/live/132614480661"
+        },
+        "record": {
+            "win": 237,
+            "loss": 226,
+            "draw": 26
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1721002769
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1721002769
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

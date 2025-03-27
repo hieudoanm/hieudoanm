@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19147356.27eee1c2.200x200o.74184b6651b0.jpeg",
+    "player_id": 19147356,
+    "@id": "https://api.chess.com/pub/player/josephymwale33",
+    "url": "https://www.chess.com/member/josephymwale33",
+    "name": "Joseph Mwale",
+    "username": "josephymwale33",
+    "title": "FM",
+    "followers": 197,
+    "country": "https://api.chess.com/pub/country/MW",
+    "location": "Durban, KwaZulu-Natal",
+    "last_online": 1741693204,
+    "joined": 1412323709,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1649,
+            "date": 1724910502,
+            "rd": 94
+        },
+        "best": {
+            "rating": 1823,
+            "date": 1711458792,
+            "game": "https://www.chess.com/game/daily/187286796"
+        },
+        "record": {
+            "win": 21,
+            "loss": 16,
+            "draw": 3,
+            "time_per_move": 29434,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1434,
+            "date": 1724726312,
+            "rd": 222
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 29434,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2289,
+            "date": 1724782598,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2289,
+            "date": 1605893237,
+            "game": "https://www.chess.com/game/live/5615745395"
+        },
+        "record": {
+            "win": 31,
+            "loss": 5,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2608,
+            "date": 1732801566,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2678,
+            "date": 1718958443,
+            "game": "https://www.chess.com/game/live/104249400509"
+        },
+        "record": {
+            "win": 760,
+            "loss": 874,
+            "draw": 111
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2524,
+            "date": 1738922988,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2532,
+            "date": 1710854558,
+            "game": "https://www.chess.com/game/live/103994503131"
+        },
+        "record": {
+            "win": 2443,
+            "loss": 1910,
+            "draw": 254
+        }
+    },
+    "fide": 2218,
+    "tactics": {
+        "highest": {
+            "rating": 3428,
+            "date": 1710411736
+        },
+        "lowest": {
+            "rating": 1182,
+            "date": 1503415223
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 36
+        }
+    }
+}

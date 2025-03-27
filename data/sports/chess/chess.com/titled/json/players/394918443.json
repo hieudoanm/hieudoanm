@@ -1,0 +1,66 @@
+{
+    "player_id": 394918443,
+    "@id": "https://api.chess.com/pub/player/thegrobmaniac",
+    "url": "https://www.chess.com/member/TheGrobManiac",
+    "username": "thegrobmaniac",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/LI",
+    "last_online": 1734977266,
+    "joined": 1728567318,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2065,
+            "date": 1734976645,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2158,
+            "date": 1728589997,
+            "game": "https://www.chess.com/game/live/122328597343"
+        },
+        "record": {
+            "win": 22,
+            "loss": 14,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2247,
+            "date": 1734891182,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2247,
+            "date": 1734891182,
+            "game": "https://www.chess.com/game/live/128629951561"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1050,
+            "date": 1728916709
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728567318
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

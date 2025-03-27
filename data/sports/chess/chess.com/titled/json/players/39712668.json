@@ -1,0 +1,105 @@
+{
+    "player_id": 39712668,
+    "@id": "https://api.chess.com/pub/player/mwamba1409",
+    "url": "https://www.chess.com/member/Mwamba1409",
+    "name": "Daniel Jere",
+    "username": "mwamba1409",
+    "title": "IM",
+    "followers": 335,
+    "country": "https://api.chess.com/pub/country/ZM",
+    "location": "USA",
+    "last_online": 1741645709,
+    "joined": 1508808242,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1949,
+            "date": 1717725855,
+            "rd": 265
+        },
+        "best": {
+            "rating": 1949,
+            "date": 1716381878,
+            "game": "https://www.chess.com/game/daily/521154913"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 14609,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2242,
+            "date": 1722434810,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1695354456,
+            "game": "https://www.chess.com/game/live/89092903171"
+        },
+        "record": {
+            "win": 59,
+            "loss": 11,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2547,
+            "date": 1731877246,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2771,
+            "date": 1644020888,
+            "game": "https://www.chess.com/game/live/43989918053"
+        },
+        "record": {
+            "win": 10479,
+            "loss": 8223,
+            "draw": 770
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2724,
+            "date": 1741496785,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2827,
+            "date": 1699898991,
+            "game": "https://www.chess.com/game/live/44337009355"
+        },
+        "record": {
+            "win": 2177,
+            "loss": 1514,
+            "draw": 366
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3707,
+            "date": 1697163457
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1508849588
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

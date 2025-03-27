@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12267254.d9208e54.200x200o.fdf223981c7e.jpeg",
+    "player_id": 12267254,
+    "@id": "https://api.chess.com/pub/player/hitaman",
+    "url": "https://www.chess.com/member/hitaman",
+    "name": "Mykhaylo Oleksiyenko",
+    "username": "hitaman",
+    "title": "GM",
+    "followers": 583,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Lviv",
+    "last_online": 1734127580,
+    "joined": 1370956901,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2223,
+            "date": 1646589738,
+            "rd": 311
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1417867706,
+            "game": "https://www.chess.com/game/live/40327165303"
+        },
+        "record": {
+            "win": 26,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2740,
+            "date": 1723454353,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2740,
+            "date": 1723454353,
+            "game": "https://www.chess.com/game/live/83877524915"
+        },
+        "record": {
+            "win": 51,
+            "loss": 17,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2706,
+            "date": 1733683961,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2795,
+            "date": 1680621954,
+            "game": "https://www.chess.com/game/live/87063035109"
+        },
+        "record": {
+            "win": 488,
+            "loss": 266,
+            "draw": 80
+        }
+    },
+    "fide": 2689,
+    "tactics": {
+        "highest": {
+            "rating": 3876,
+            "date": 1561642992
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1598601851
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

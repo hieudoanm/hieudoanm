@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41590206.e049e219.200x200o.fdedf022870b.jpg",
+    "player_id": 41590206,
+    "@id": "https://api.chess.com/pub/player/alexnovitz",
+    "url": "https://www.chess.com/member/AlexNovitz",
+    "name": "Derlei Alex Florianovitz",
+    "username": "alexnovitz",
+    "title": "NM",
+    "followers": 180,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Chapec\u00f3",
+    "last_online": 1739911126,
+    "joined": 1513994546,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1843,
+            "date": 1732181067,
+            "rd": 108
+        },
+        "best": {
+            "rating": 1962,
+            "date": 1654096297,
+            "game": "https://www.chess.com/game/daily/400583411"
+        },
+        "record": {
+            "win": 39,
+            "loss": 14,
+            "draw": 8,
+            "time_per_move": 20871,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1905,
+            "date": 1709393966,
+            "rd": 125
+        },
+        "best": {
+            "rating": 1977,
+            "date": 1696153527,
+            "game": "https://www.chess.com/game/daily/609674315"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 20871,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2193,
+            "date": 1729121587,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1634862121,
+            "game": "https://www.chess.com/game/live/6556671304"
+        },
+        "record": {
+            "win": 33,
+            "loss": 14,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2200,
+            "date": 1599168309,
+            "rd": 77
+        },
+        "best": {
+            "rating": 1802,
+            "date": 1594173168,
+            "game": "https://www.chess.com/game/live/5126001090"
+        },
+        "record": {
+            "win": 36,
+            "loss": 17,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2200,
+            "date": 1741449329,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2313,
+            "date": 1698873197,
+            "game": "https://www.chess.com/game/live/6580061915"
+        },
+        "record": {
+            "win": 1860,
+            "loss": 1487,
+            "draw": 347
+        }
+    },
+    "fide": 2068,
+    "tactics": {
+        "highest": {
+            "rating": 3388,
+            "date": 1700151704
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1514325404
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 32
+        }
+    }
+}

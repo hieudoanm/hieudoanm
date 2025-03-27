@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47758140.050a4428.200x200o.f3391919c9a5.jpeg",
+    "player_id": 47758140,
+    "@id": "https://api.chess.com/pub/player/likvidator228",
+    "url": "https://www.chess.com/member/Likvidator228",
+    "name": "Valiantsin Yezhel",
+    "username": "likvidator228",
+    "title": "FM",
+    "followers": 84,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "\u041c\u0438\u043d\u0441\u043a",
+    "last_online": 1741681644,
+    "joined": 1531204878,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1678,
+            "date": 1695659361,
+            "rd": 157
+        },
+        "best": {
+            "rating": 1860,
+            "date": 1611229007,
+            "game": "https://www.chess.com/game/daily/299908978"
+        },
+        "record": {
+            "win": 8,
+            "loss": 10,
+            "draw": 2,
+            "time_per_move": 13917,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2459,
+            "date": 1706378259,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1706378259,
+            "game": "https://www.chess.com/game/live/93952947653"
+        },
+        "record": {
+            "win": 58,
+            "loss": 14,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2678,
+            "date": 1741691292,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2660,
+            "date": 1725973775,
+            "game": "https://www.chess.com/game/live/119316019015"
+        },
+        "record": {
+            "win": 1845,
+            "loss": 1344,
+            "draw": 222
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2599,
+            "date": 1739297488,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2636,
+            "date": 1722356477,
+            "game": "https://www.chess.com/game/live/53285397809"
+        },
+        "record": {
+            "win": 1343,
+            "loss": 830,
+            "draw": 218
+        }
+    },
+    "fide": 2311,
+    "tactics": {
+        "highest": {
+            "rating": 3313,
+            "date": 1729408455
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1531717547
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

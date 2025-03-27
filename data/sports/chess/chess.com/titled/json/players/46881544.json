@@ -1,0 +1,50 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46881544.f7fa5d55.200x200o.7f441ddefd5d.jpeg",
+    "player_id": 46881544,
+    "@id": "https://api.chess.com/pub/player/pawn_chainer",
+    "url": "https://www.chess.com/member/pawn_chainer",
+    "name": "Pavel Rozanov",
+    "username": "pawn_chainer",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1738273189,
+    "joined": 1528358183,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2516,
+            "date": 1624393864,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1624393864,
+            "game": "https://www.chess.com/game/live/16656318555"
+        },
+        "record": {
+            "win": 1526,
+            "loss": 1279,
+            "draw": 149
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1395,
+            "date": 1737795204
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1528358234
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

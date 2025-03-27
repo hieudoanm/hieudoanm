@@ -1,0 +1,79 @@
+{
+    "player_id": 65393738,
+    "@id": "https://api.chess.com/pub/player/gmasterkiller",
+    "url": "https://www.chess.com/member/gmasterkiller",
+    "username": "gmasterkiller",
+    "title": "GM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1720593959,
+    "joined": 1568239365,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1598,
+            "date": 1626641478,
+            "rd": 248
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2629,
+            "date": 1607536746,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2649,
+            "date": 1601355079,
+            "game": "https://www.chess.com/game/live/4231061548"
+        },
+        "record": {
+            "win": 420,
+            "loss": 353,
+            "draw": 57
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2580,
+            "date": 1645768888,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2730,
+            "date": 1572296920,
+            "game": "https://www.chess.com/game/live/4286080049"
+        },
+        "record": {
+            "win": 626,
+            "loss": 604,
+            "draw": 136
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1568239365
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1568239365
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

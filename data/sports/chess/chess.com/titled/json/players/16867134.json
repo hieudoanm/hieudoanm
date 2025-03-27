@@ -1,0 +1,103 @@
+{
+    "player_id": 16867134,
+    "@id": "https://api.chess.com/pub/player/jup1978",
+    "url": "https://www.chess.com/member/jup1978",
+    "name": "Juan Antonio Urbina Perez",
+    "username": "jup1978",
+    "title": "FM",
+    "followers": 58,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741446983,
+    "joined": 1397294277,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1958,
+            "date": 1721758934,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1397294277,
+            "game": "https://www.chess.com/game/daily/239083540"
+        },
+        "record": {
+            "win": 236,
+            "loss": 135,
+            "draw": 60,
+            "time_per_move": 6738,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2086,
+            "date": 1659720565,
+            "rd": 250
+        },
+        "best": {
+            "rating": 2370,
+            "date": 1659719441,
+            "game": "https://www.chess.com/game/live/53457666373"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2405,
+            "date": 1736617712,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1733597469,
+            "game": "https://www.chess.com/game/live/127331405917"
+        },
+        "record": {
+            "win": 845,
+            "loss": 652,
+            "draw": 105
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2570,
+            "date": 1740523298,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2624,
+            "date": 1707497712,
+            "game": "https://www.chess.com/game/live/63917500023"
+        },
+        "record": {
+            "win": 6860,
+            "loss": 7957,
+            "draw": 1884
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3377,
+            "date": 1725944667
+        },
+        "lowest": {
+            "rating": 1968,
+            "date": 1397720828
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

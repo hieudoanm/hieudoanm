@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10174260.4865a6da.200x200o.6932fffcda21.png",
+    "player_id": 10174260,
+    "@id": "https://api.chess.com/pub/player/duhless",
+    "url": "https://www.chess.com/member/Duhless",
+    "name": "Daniil Dubov",
+    "username": "duhless",
+    "title": "GM",
+    "followers": 7935,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Moscow",
+    "last_online": 1734013165,
+    "joined": 1356545857,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1352,
+            "date": 1660684108,
+            "rd": 247
+        },
+        "best": {
+            "rating": 1352,
+            "date": 1412174547,
+            "game": "https://www.chess.com/game/daily/97307578"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 6648,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2663,
+            "date": 1721663374,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2940,
+            "date": 1598114615,
+            "game": "https://www.chess.com/game/live/39641945125"
+        },
+        "record": {
+            "win": 121,
+            "loss": 74,
+            "draw": 125
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3040,
+            "date": 1727450035,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3136,
+            "date": 1670612998,
+            "game": "https://www.chess.com/game/live/62105991705"
+        },
+        "record": {
+            "win": 2207,
+            "loss": 1612,
+            "draw": 285
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3142,
+            "date": 1734183574,
+            "rd": 26
+        },
+        "best": {
+            "rating": 3186,
+            "date": 1730462880,
+            "game": "https://www.chess.com/game/live/83435301095"
+        },
+        "record": {
+            "win": 6067,
+            "loss": 3039,
+            "draw": 1395
+        }
+    },
+    "fide": 2627,
+    "tactics": {
+        "highest": {
+            "rating": 2771,
+            "date": 1733521727
+        },
+        "lowest": {
+            "rating": 2387,
+            "date": 1543709700
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 80,
+            "score": 76
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "player_id": 160052511,
+    "@id": "https://api.chess.com/pub/player/betta2004",
+    "url": "https://www.chess.com/member/betta2004",
+    "name": "Francesco Bettalli",
+    "username": "betta2004",
+    "title": "FM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741697571,
+    "joined": 1635869770,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1750,
+            "date": 1695753221,
+            "rd": 303
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1669455602,
+            "game": "https://www.chess.com/game/daily/441348593"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 59569,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2484,
+            "date": 1673958082,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2484,
+            "date": 1673956767,
+            "game": "https://www.chess.com/game/live/67695244053"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2581,
+            "date": 1711522653,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2686,
+            "date": 1678277961,
+            "game": "https://www.chess.com/game/live/72102348091"
+        },
+        "record": {
+            "win": 30,
+            "loss": 17,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2616,
+            "date": 1740505750,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1739294484,
+            "game": "https://www.chess.com/game/live/100995801369"
+        },
+        "record": {
+            "win": 562,
+            "loss": 572,
+            "draw": 106
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3866,
+            "date": 1731707610
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1654027724
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

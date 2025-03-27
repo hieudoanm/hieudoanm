@@ -1,0 +1,108 @@
+{
+    "player_id": 96287852,
+    "@id": "https://api.chess.com/pub/player/archibaldcerveza29",
+    "url": "https://www.chess.com/member/ArchibaldCerveza29",
+    "name": "Joa Max Bornholdt",
+    "username": "archibaldcerveza29",
+    "title": "FM",
+    "followers": 71,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Munich",
+    "last_online": 1741646306,
+    "joined": 1605128120,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1258,
+            "date": 1736242246,
+            "rd": 84
+        },
+        "best": {
+            "rating": 1341,
+            "date": 1703089765,
+            "game": "https://www.chess.com/game/daily/597440077"
+        },
+        "record": {
+            "win": 22,
+            "loss": 3,
+            "draw": 1,
+            "time_per_move": 5605,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1726846981,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2222,
+            "date": 1676322109,
+            "game": "https://www.chess.com/game/live/70060078193"
+        },
+        "record": {
+            "win": 83,
+            "loss": 18,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2546,
+            "date": 1738431214,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2589,
+            "date": 1731781522,
+            "game": "https://www.chess.com/game/live/118261114541"
+        },
+        "record": {
+            "win": 1996,
+            "loss": 884,
+            "draw": 147
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2551,
+            "date": 1741646475,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2560,
+            "date": 1673995183,
+            "game": "https://www.chess.com/game/live/70734275349"
+        },
+        "record": {
+            "win": 852,
+            "loss": 619,
+            "draw": 105
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3477,
+            "date": 1675634656
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1606346579
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 81,
+            "score": 78
+        },
+        "daily": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

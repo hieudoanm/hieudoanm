@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35901998.488e1b5d.200x200o.c61b09ac5f76.jpeg",
+    "player_id": 35901998,
+    "@id": "https://api.chess.com/pub/player/filippov_anton",
+    "url": "https://www.chess.com/member/Filippov_Anton",
+    "name": "Anton Filippov",
+    "username": "filippov_anton",
+    "title": "GM",
+    "followers": 114,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1733067199,
+    "joined": 1496058699,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1766,
+            "date": 1698418312,
+            "rd": 187
+        },
+        "best": {
+            "rating": 1974,
+            "date": 1606130673,
+            "game": "https://www.chess.com/game/live/5803394245"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2398,
+            "date": 1689839265,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1603982326,
+            "game": "https://www.chess.com/game/live/83404542135"
+        },
+        "record": {
+            "win": 33,
+            "loss": 35,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2843,
+            "date": 1689759636,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2865,
+            "date": 1689754665,
+            "game": "https://www.chess.com/game/live/78645020719"
+        },
+        "record": {
+            "win": 505,
+            "loss": 346,
+            "draw": 91
+        }
+    },
+    "fide": 2592,
+    "tactics": {
+        "highest": {
+            "rating": 3197,
+            "date": 1686025077
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1506156493
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

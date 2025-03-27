@@ -1,0 +1,84 @@
+{
+    "player_id": 72477352,
+    "@id": "https://api.chess.com/pub/player/tiranorc_mosulac",
+    "url": "https://www.chess.com/member/Tiranorc_Mosulac",
+    "name": "Lucas Coro",
+    "username": "tiranorc_mosulac",
+    "title": "IM",
+    "followers": 99,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741106258,
+    "joined": 1582253450,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2451,
+            "date": 1713820860,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2537,
+            "date": 1597599578,
+            "game": "https://www.chess.com/game/live/5334981009"
+        },
+        "record": {
+            "win": 59,
+            "loss": 36,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2707,
+            "date": 1736804245,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2710,
+            "date": 1734548330,
+            "game": "https://www.chess.com/game/live/121236023463"
+        },
+        "record": {
+            "win": 5057,
+            "loss": 4398,
+            "draw": 362
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2657,
+            "date": 1740860066,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1736941902,
+            "game": "https://www.chess.com/game/live/106000219815"
+        },
+        "record": {
+            "win": 1449,
+            "loss": 1208,
+            "draw": 124
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3545,
+            "date": 1708272880
+        },
+        "lowest": {
+            "rating": 405,
+            "date": 1646348682
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/91613974.7dbcfb7b.200x200o.2b3c9fc33f3a.jpg",
+    "player_id": 91613974,
+    "@id": "https://api.chess.com/pub/player/elle-al-harab",
+    "url": "https://www.chess.com/member/elle-al-harab",
+    "username": "elle-al-harab",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/SA",
+    "last_online": 1741698281,
+    "joined": 1600622838,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2141,
+            "date": 1741629523,
+            "rd": 45
+        },
+        "record": {
+            "win": 9,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2293,
+            "date": 1726088176,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2363,
+            "date": 1600629874,
+            "game": "https://www.chess.com/game/live/31718982169"
+        },
+        "record": {
+            "win": 134,
+            "loss": 158,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2448,
+            "date": 1741641027,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1739630108,
+            "game": "https://www.chess.com/game/live/132088812769"
+        },
+        "record": {
+            "win": 683,
+            "loss": 808,
+            "draw": 93
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1260,
+            "date": 1730322384
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1600622838
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

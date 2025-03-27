@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/148531853.f12c9c35.200x200o.9ab1266e3a1a.jpeg",
+    "player_id": 148531853,
+    "@id": "https://api.chess.com/pub/player/francesatop",
+    "url": "https://www.chess.com/member/Francesatop",
+    "name": "Wanderlei Lukachewski Junior",
+    "username": "francesatop",
+    "title": "NM",
+    "followers": 77,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Mandaguari",
+    "last_online": 1741622964,
+    "joined": 1626825808,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2410,
+            "date": 1674744310,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2410,
+            "date": 1674744310,
+            "game": "https://www.chess.com/game/live/68482510855"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2510,
+            "date": 1741636426,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1683295625,
+            "game": "https://www.chess.com/game/live/100360449577"
+        },
+        "record": {
+            "win": 7455,
+            "loss": 7572,
+            "draw": 1733
+        }
+    },
+    "fide": 2055,
+    "tactics": {
+        "highest": {
+            "rating": 3246,
+            "date": 1741402757
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1630375378
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 29,
+            "score": 28
+        }
+    }
+}

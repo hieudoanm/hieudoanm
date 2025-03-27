@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/223134493.fecd91ad.200x200o.8ef461f5a152.jpg",
+    "player_id": 223134493,
+    "@id": "https://api.chess.com/pub/player/janistantv",
+    "url": "https://www.chess.com/member/JanistanTV",
+    "name": "Jan Gustafsson",
+    "username": "janistantv",
+    "title": "GM",
+    "followers": 521,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741288513,
+    "joined": 1673367837,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2503,
+            "date": 1736098672,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1720136454,
+            "game": "https://www.chess.com/game/live/113872826525"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2835,
+            "date": 1740580242,
+            "rd": 43
+        },
+        "best": {
+            "rating": 3082,
+            "date": 1702976928,
+            "game": "https://www.chess.com/game/live/96936704157"
+        },
+        "record": {
+            "win": 23,
+            "loss": 19,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2837,
+            "date": 1741201200
+        },
+        "best": {
+            "rating": 2928,
+            "date": 1703514597,
+            "game": "https://www.chess.com/game/live/132448831163"
+        },
+        "record": {
+            "win": 304,
+            "loss": 155,
+            "draw": 64
+        }
+    },
+    "fide": 2618,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1673367837
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1673367837
+        }
+    },
+    "puzzle_rush": {}
+}

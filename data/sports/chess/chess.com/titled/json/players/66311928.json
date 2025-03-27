@@ -1,0 +1,84 @@
+{
+    "player_id": 66311928,
+    "@id": "https://api.chess.com/pub/player/pikachu742",
+    "url": "https://www.chess.com/member/pikachu742",
+    "name": "Gulce Nehir Kara",
+    "username": "pikachu742",
+    "title": "WCM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1733576906,
+    "joined": 1570279746,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2069,
+            "date": 1661253649,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2181,
+            "date": 1593624459,
+            "game": "https://www.chess.com/game/live/5255623620"
+        },
+        "record": {
+            "win": 24,
+            "loss": 7,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2071,
+            "date": 1645971825,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2125,
+            "date": 1600543203,
+            "game": "https://www.chess.com/game/live/5402479666"
+        },
+        "record": {
+            "win": 51,
+            "loss": 32,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1919,
+            "date": 1661427861,
+            "rd": 140
+        },
+        "best": {
+            "rating": 2041,
+            "date": 1578946685,
+            "game": "https://www.chess.com/game/live/4281154187"
+        },
+        "record": {
+            "win": 348,
+            "loss": 187,
+            "draw": 21
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2559,
+            "date": 1622121053
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1579179635
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

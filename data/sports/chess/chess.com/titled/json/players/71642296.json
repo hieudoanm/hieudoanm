@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71642296.bcab4510.200x200o.891972a24fbe.jpeg",
+    "player_id": 71642296,
+    "@id": "https://api.chess.com/pub/player/h-aryanejad",
+    "url": "https://www.chess.com/member/H-Aryanejad",
+    "name": "Hossein Aryanejad",
+    "username": "h-aryanejad",
+    "title": "FM",
+    "followers": 62,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741692903,
+    "joined": 1580682140,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2351,
+            "date": 1734534432,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1672934350,
+            "game": "https://www.chess.com/game/live/123858032905"
+        },
+        "record": {
+            "win": 28,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2111,
+            "date": 1707066581,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1639643446,
+            "game": "https://www.chess.com/game/live/46823991397"
+        },
+        "record": {
+            "win": 1085,
+            "loss": 655,
+            "draw": 141
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2375,
+            "date": 1741693682,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1731934862,
+            "game": "https://www.chess.com/game/live/49112993317"
+        },
+        "record": {
+            "win": 3052,
+            "loss": 2017,
+            "draw": 539
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3087,
+            "date": 1694267499
+        },
+        "lowest": {
+            "rating": 416,
+            "date": 1588784434
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

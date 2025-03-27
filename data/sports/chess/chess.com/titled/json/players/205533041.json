@@ -1,0 +1,65 @@
+{
+    "player_id": 205533041,
+    "@id": "https://api.chess.com/pub/player/nooneknowsbetter",
+    "url": "https://www.chess.com/member/NooneknowsBetter",
+    "username": "nooneknowsbetter",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1736586043,
+    "joined": 1668014964,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2189,
+            "date": 1731430903,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2233,
+            "date": 1720251053,
+            "game": "https://www.chess.com/game/live/113844006253"
+        },
+        "record": {
+            "win": 156,
+            "loss": 99,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2267,
+            "date": 1736615581
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1721287377,
+            "game": "https://www.chess.com/game/live/85397440763"
+        },
+        "record": {
+            "win": 1013,
+            "loss": 754,
+            "draw": 115
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2927,
+            "date": 1721633635
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1668181381
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27509874.98c2b33c.200x200o.9c4325438ce2.png",
+    "player_id": 27509874,
+    "@id": "https://api.chess.com/pub/player/sjtsjogoljev",
+    "url": "https://www.chess.com/member/Sjtsjogoljev",
+    "name": "Eric Van 't Hof",
+    "username": "sjtsjogoljev",
+    "title": "CM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1735507974,
+    "joined": 1459346556,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1879,
+            "date": 1711664772,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2043,
+            "date": 1475403505,
+            "game": "https://www.chess.com/game/daily/223078450"
+        },
+        "record": {
+            "win": 24,
+            "loss": 4,
+            "draw": 1,
+            "time_per_move": 14534,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1403,
+            "date": 1487598547,
+            "rd": 258
+        },
+        "best": {
+            "rating": 1403,
+            "date": 1487598547,
+            "game": "https://www.chess.com/game/daily/156322092"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 14534,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2039,
+            "date": 1702240898,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2045,
+            "date": 1702226025,
+            "game": "https://www.chess.com/game/live/3429004159"
+        },
+        "record": {
+            "win": 54,
+            "loss": 32,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1722,
+            "date": 1589574310,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1862,
+            "date": 1465671394,
+            "game": "https://www.chess.com/game/live/1613149743"
+        },
+        "record": {
+            "win": 31,
+            "loss": 34,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2004,
+            "date": 1740767307,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1560183940,
+            "game": "https://www.chess.com/game/live/100171940143"
+        },
+        "record": {
+            "win": 1156,
+            "loss": 919,
+            "draw": 148
+        }
+    },
+    "fide": 2086,
+    "tactics": {
+        "highest": {
+            "rating": 2381,
+            "date": 1539348736
+        },
+        "lowest": {
+            "rating": 1341,
+            "date": 1459502541
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 19,
+            "score": 16
+        }
+    }
+}

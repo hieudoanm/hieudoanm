@@ -1,0 +1,85 @@
+{
+    "player_id": 35570878,
+    "@id": "https://api.chess.com/pub/player/veiso",
+    "url": "https://www.chess.com/member/Veiso",
+    "name": "Alberto Hern\u00e1ndez",
+    "username": "veiso",
+    "title": "FM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741114736,
+    "joined": 1494943528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2498,
+            "date": 1702124039,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1702123764,
+            "game": "https://www.chess.com/game/live/95862235775"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2404,
+            "date": 1586625298,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2352,
+            "date": 1494946589,
+            "game": "https://www.chess.com/game/live/4708378864"
+        },
+        "record": {
+            "win": 74,
+            "loss": 69,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2522,
+            "date": 1738755228,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1705677780,
+            "game": "https://www.chess.com/game/live/90110382403"
+        },
+        "record": {
+            "win": 279,
+            "loss": 263,
+            "draw": 45
+        }
+    },
+    "fide": 2319,
+    "tactics": {
+        "highest": {
+            "rating": 2135,
+            "date": 1701022672
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1536681814
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

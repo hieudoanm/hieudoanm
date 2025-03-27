@@ -1,0 +1,99 @@
+{
+    "player_id": 13763214,
+    "@id": "https://api.chess.com/pub/player/doggiebones3000",
+    "url": "https://www.chess.com/member/DoggieBones3000",
+    "name": "Steven Cooklev",
+    "username": "doggiebones3000",
+    "title": "NM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/BG",
+    "last_online": 1741674754,
+    "joined": 1380834033,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1713905764,
+            "rd": 350
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 59380,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2196,
+            "date": 1681056947,
+            "rd": 249
+        },
+        "best": {
+            "rating": 2196,
+            "date": 1681056947,
+            "game": "https://www.chess.com/game/live/74795679961"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2283,
+            "date": 1732424211,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1721787265,
+            "game": "https://www.chess.com/game/live/119672992651"
+        },
+        "record": {
+            "win": 186,
+            "loss": 168,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2447,
+            "date": 1738204640,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2447,
+            "date": 1738204640,
+            "game": "https://www.chess.com/game/live/131236844165"
+        },
+        "record": {
+            "win": 1212,
+            "loss": 1071,
+            "draw": 194
+        }
+    },
+    "fide": 2250,
+    "tactics": {
+        "highest": {
+            "rating": 3173,
+            "date": 1733198307
+        },
+        "lowest": {
+            "rating": 1316,
+            "date": 1381023717
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

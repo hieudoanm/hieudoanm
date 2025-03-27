@@ -1,0 +1,73 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/329273179.2f4b7250.200x200o.cc063d138d97.jpg",
+    "player_id": 329273179,
+    "@id": "https://api.chess.com/pub/player/titarovvasiliyoutube",
+    "url": "https://www.chess.com/member/TitarovVasiliYouTube",
+    "name": "Vasilii Titarov",
+    "username": "titarovvasiliyoutube",
+    "title": "CM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741423087,
+    "joined": 1701264139,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2046,
+            "date": 1724751484,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2046,
+            "date": 1724751484,
+            "game": "https://www.chess.com/game/live/118490268591"
+        },
+        "record": {
+            "win": 19,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2522,
+            "date": 1736871631,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1711868661,
+            "game": "https://www.chess.com/game/live/107020370533"
+        },
+        "record": {
+            "win": 263,
+            "loss": 200,
+            "draw": 41
+        }
+    },
+    "fide": 2208,
+    "tactics": {
+        "highest": {
+            "rating": 3640,
+            "date": 1735827978
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1701264139
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        },
+        "daily": {
+            "total_attempts": 10,
+            "score": 7
+        }
+    }
+}

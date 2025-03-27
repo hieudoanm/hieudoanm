@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/187116489.ed4899ea.200x200o.b658c78eee4b.png",
+    "player_id": 187116489,
+    "@id": "https://api.chess.com/pub/player/chessrook_e",
+    "url": "https://www.chess.com/member/ChessRook_E",
+    "name": "Arsal Gardezi",
+    "username": "chessrook_e",
+    "title": "NM",
+    "followers": 111,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741395734,
+    "joined": 1655417613,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1720218291,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 17554,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1847,
+            "date": 1738956894,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1655952940,
+            "game": "https://www.chess.com/game/live/55561206091"
+        },
+        "record": {
+            "win": 10,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2268,
+            "date": 1741272845,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1657998992,
+            "game": "https://www.chess.com/game/live/81368584483"
+        },
+        "record": {
+            "win": 346,
+            "loss": 557,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2292,
+            "date": 1741399963,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2424,
+            "date": 1670370893,
+            "game": "https://www.chess.com/game/live/131214047667"
+        },
+        "record": {
+            "win": 688,
+            "loss": 790,
+            "draw": 85
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3113,
+            "date": 1738766214
+        },
+        "lowest": {
+            "rating": 2000,
+            "date": 1656363011
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

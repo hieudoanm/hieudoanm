@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34121260.bea68a63.200x200o.cb06fa85f33e.jpg",
+    "player_id": 34121260,
+    "@id": "https://api.chess.com/pub/player/valdenicio",
+    "url": "https://www.chess.com/member/valdenicio",
+    "name": "Valdenicio Marcelino de Lima",
+    "username": "valdenicio",
+    "title": "NM",
+    "followers": 116,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1739556040,
+    "joined": 1490033141,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1441,
+            "date": 1736895000,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1441,
+            "date": 1736895000,
+            "game": "https://www.chess.com/game/daily/734100485"
+        },
+        "record": {
+            "win": 22,
+            "loss": 10,
+            "draw": 1,
+            "time_per_move": 18584,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2126,
+            "date": 1738953134,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2126,
+            "date": 1738953134,
+            "game": "https://www.chess.com/game/live/132519662551"
+        },
+        "record": {
+            "win": 63,
+            "loss": 18,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2206,
+            "date": 1738620916,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2223,
+            "date": 1733190881,
+            "game": "https://www.chess.com/game/live/63436060907"
+        },
+        "record": {
+            "win": 1980,
+            "loss": 1603,
+            "draw": 181
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2355,
+            "date": 1741619839,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1737750666,
+            "game": "https://www.chess.com/game/live/127002017255"
+        },
+        "record": {
+            "win": 4046,
+            "loss": 2643,
+            "draw": 370
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2771,
+            "date": 1733863321
+        },
+        "lowest": {
+            "rating": 723,
+            "date": 1551106470
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/143399247.dd66bff9.200x200o.1b0129257d42.jpg",
+    "player_id": 143399247,
+    "@id": "https://api.chess.com/pub/player/kyiekorver",
+    "url": "https://www.chess.com/member/kyIekorver",
+    "name": "LeBonBon Pookie",
+    "username": "kyiekorver",
+    "title": "NM",
+    "followers": 41,
+    "country": "https://api.chess.com/pub/country/ZW",
+    "location": "Sunshine",
+    "last_online": 1741652599,
+    "joined": 1622936150,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1554,
+            "date": 1728462741,
+            "rd": 176
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 5,
+            "time_per_move": 26257,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1900,
+            "date": 1731293513,
+            "rd": 189
+        },
+        "best": {
+            "rating": 1996,
+            "date": 1624300186,
+            "game": "https://www.chess.com/game/live/34546853523"
+        },
+        "record": {
+            "win": 2,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2721,
+            "date": 1741653284,
+            "rd": 23
+        },
+        "best": {
+            "rating": 3005,
+            "date": 1733081150,
+            "game": "https://www.chess.com/game/live/122082561065"
+        },
+        "record": {
+            "win": 5425,
+            "loss": 6564,
+            "draw": 929
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2385,
+            "date": 1741193947,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1728156291,
+            "game": "https://www.chess.com/game/live/121481414289"
+        },
+        "record": {
+            "win": 510,
+            "loss": 474,
+            "draw": 66
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3577,
+            "date": 1719168683
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1624389040
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7577190.e879f616.200x200o.9d0526bf112a.jpg",
+    "player_id": 7577190,
+    "@id": "https://api.chess.com/pub/player/mtchess0207",
+    "url": "https://www.chess.com/member/MTChess0207",
+    "name": "Minh Tu Le",
+    "username": "mtchess0207",
+    "title": "FM",
+    "followers": 228,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "Ho Chi Minh City",
+    "last_online": 1741689180,
+    "joined": 1336996933,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1061,
+            "date": 1722508707,
+            "rd": 251
+        },
+        "best": {
+            "rating": 1305,
+            "date": 1683909164,
+            "game": "https://www.chess.com/game/daily/443011553"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 74173,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2381,
+            "date": 1741443817,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2398,
+            "date": 1730302237,
+            "game": "https://www.chess.com/game/live/122786027991"
+        },
+        "record": {
+            "win": 175,
+            "loss": 135,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2230,
+            "date": 1723365954,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2310,
+            "date": 1514180687,
+            "game": "https://www.chess.com/game/live/2507737545"
+        },
+        "record": {
+            "win": 159,
+            "loss": 92,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2527,
+            "date": 1740824845,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2562,
+            "date": 1721642539,
+            "game": "https://www.chess.com/game/live/5625155701"
+        },
+        "record": {
+            "win": 1169,
+            "loss": 977,
+            "draw": 213
+        }
+    },
+    "fide": 2020,
+    "tactics": {
+        "highest": {
+            "rating": 3306,
+            "date": 1740378499
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1343564552
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

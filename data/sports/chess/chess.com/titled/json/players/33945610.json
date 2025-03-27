@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33945610.d88a3a9d.200x200o.c876eeeacfd6.jpeg",
+    "player_id": 33945610,
+    "@id": "https://api.chess.com/pub/player/ganziitoo",
+    "url": "https://www.chess.com/member/Ganziitoo",
+    "name": "Cristian Vasquez Toledo",
+    "username": "ganziitoo",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/CL",
+    "last_online": 1741532466,
+    "joined": 1489454411,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2530,
+            "date": 1736385833,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2585,
+            "date": 1729048485,
+            "game": "https://www.chess.com/game/live/122787264201"
+        },
+        "record": {
+            "win": 139,
+            "loss": 87,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2495,
+            "date": 1741367674,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1732662331,
+            "game": "https://www.chess.com/game/live/125168311679"
+        },
+        "record": {
+            "win": 59,
+            "loss": 49,
+            "draw": 5
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1489454411
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1489454411
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

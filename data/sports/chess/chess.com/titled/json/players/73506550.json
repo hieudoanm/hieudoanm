@@ -1,0 +1,136 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73506550.f2a9440f.200x200o.42f08899fbeb.jpeg",
+    "player_id": 73506550,
+    "@id": "https://api.chess.com/pub/player/mklenburg",
+    "url": "https://www.chess.com/member/MKlenburg",
+    "name": "Michael Klenburg",
+    "username": "mklenburg",
+    "title": "IM",
+    "followers": 243,
+    "country": "https://api.chess.com/pub/country/IL",
+    "location": "Beer Sheva",
+    "last_online": 1741596245,
+    "joined": 1584195657,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1842,
+            "date": 1741684513,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2160,
+            "date": 1613545203,
+            "game": "https://www.chess.com/game/daily/300001326"
+        },
+        "record": {
+            "win": 1116,
+            "loss": 511,
+            "draw": 326,
+            "time_per_move": 13257,
+            "timeout_percent": 5
+        },
+        "tournament": {
+            "points": 127,
+            "withdraw": 0,
+            "count": 5,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2161,
+            "date": 1602262604,
+            "rd": 216
+        },
+        "best": {
+            "rating": 2161,
+            "date": 1602262604,
+            "game": "https://www.chess.com/game/daily/281088980"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 13257,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 127,
+            "withdraw": 0,
+            "count": 5,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2280,
+            "date": 1720540494,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2461,
+            "date": 1590771122,
+            "game": "https://www.chess.com/game/live/4925199732"
+        },
+        "record": {
+            "win": 9,
+            "loss": 7,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2268,
+            "date": 1739740765,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2488,
+            "date": 1608406512,
+            "game": "https://www.chess.com/game/live/6007971684"
+        },
+        "record": {
+            "win": 951,
+            "loss": 860,
+            "draw": 87
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2653,
+            "date": 1740332914,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2691,
+            "date": 1737543130,
+            "game": "https://www.chess.com/game/live/5974202746"
+        },
+        "record": {
+            "win": 2384,
+            "loss": 2079,
+            "draw": 657
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3110,
+            "date": 1716526821
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1584214558
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

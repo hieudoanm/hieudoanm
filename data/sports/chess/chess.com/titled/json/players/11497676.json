@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11497676.502c7863.200x200o.3a265849b213.jpeg",
+    "player_id": 11497676,
+    "@id": "https://api.chess.com/pub/player/doomking",
+    "url": "https://www.chess.com/member/Doomking",
+    "name": "Jerjis Kapra",
+    "username": "doomking",
+    "title": "NM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "nova scotia",
+    "last_online": 1741492481,
+    "joined": 1365806444,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1719,
+            "date": 1730390279,
+            "rd": 124
+        },
+        "best": {
+            "rating": 1792,
+            "date": 1590769394,
+            "game": "https://www.chess.com/game/daily/253008456"
+        },
+        "record": {
+            "win": 20,
+            "loss": 19,
+            "draw": 0,
+            "time_per_move": 15006,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1724983577,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2309,
+            "date": 1724983576,
+            "game": "https://www.chess.com/game/live/118522665773"
+        },
+        "record": {
+            "win": 286,
+            "loss": 224,
+            "draw": 38
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2035,
+            "date": 1730390280,
+            "rd": 164
+        },
+        "best": {
+            "rating": 1792,
+            "date": 1703539446,
+            "game": "https://www.chess.com/game/live/97278138241"
+        },
+        "record": {
+            "win": 75,
+            "loss": 84,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2601,
+            "date": 1736380323,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2631,
+            "date": 1735078035,
+            "game": "https://www.chess.com/game/live/129844213633"
+        },
+        "record": {
+            "win": 2461,
+            "loss": 2011,
+            "draw": 259
+        }
+    },
+    "fide": 2273,
+    "tactics": {
+        "highest": {
+            "rating": 1799,
+            "date": 1615387416
+        },
+        "lowest": {
+            "rating": 1027,
+            "date": 1420842197
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

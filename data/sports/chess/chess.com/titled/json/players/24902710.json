@@ -1,0 +1,92 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24902710.575c3490.200x200o.18a806bee625.jpg",
+    "player_id": 24902710,
+    "@id": "https://api.chess.com/pub/player/annamaja",
+    "url": "https://www.chess.com/member/annamaja",
+    "name": "Anna-Maja Kazarian",
+    "username": "annamaja",
+    "title": "WIM",
+    "followers": 3606,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741685962,
+    "joined": 1446653652,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/annamaja",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/annamaja"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1727621842,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2251,
+            "date": 1588345747,
+            "game": "https://www.chess.com/game/live/88715529793"
+        },
+        "record": {
+            "win": 62,
+            "loss": 30,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2468,
+            "date": 1740517516,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2630,
+            "date": 1739639861,
+            "game": "https://www.chess.com/game/live/110821344039"
+        },
+        "record": {
+            "win": 1671,
+            "loss": 1323,
+            "draw": 165
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2462,
+            "date": 1741201200,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1697296683,
+            "game": "https://www.chess.com/game/live/134936956491"
+        },
+        "record": {
+            "win": 3287,
+            "loss": 2757,
+            "draw": 308
+        }
+    },
+    "fide": 2206,
+    "tactics": {
+        "highest": {
+            "rating": 3632,
+            "date": 1738600379
+        },
+        "lowest": {
+            "rating": 2013,
+            "date": 1555268384
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

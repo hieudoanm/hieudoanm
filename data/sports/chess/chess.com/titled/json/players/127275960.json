@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/127275960.0801912e.200x200o.edcd375d8f54.png",
+    "player_id": 127275960,
+    "@id": "https://api.chess.com/pub/player/gm_d85",
+    "url": "https://www.chess.com/member/GM_D85",
+    "name": "Dean Anonymous",
+    "username": "gm_d85",
+    "title": "GM",
+    "followers": 94,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Chess Co.",
+    "last_online": 1733154025,
+    "joined": 1615441450,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2742,
+            "date": 1725682296,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2859,
+            "date": 1621406841,
+            "game": "https://www.chess.com/game/live/91161593597"
+        },
+        "record": {
+            "win": 85,
+            "loss": 10,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2861,
+            "date": 1656529516,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2923,
+            "date": 1616331623,
+            "game": "https://www.chess.com/game/live/10070475993"
+        },
+        "record": {
+            "win": 20,
+            "loss": 6,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2980,
+            "date": 1733154296,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3002,
+            "date": 1664628225,
+            "game": "https://www.chess.com/game/live/58169383843"
+        },
+        "record": {
+            "win": 609,
+            "loss": 310,
+            "draw": 212
+        }
+    },
+    "fide": 2650,
+    "tactics": {
+        "highest": {
+            "rating": 3786,
+            "date": 1663475304
+        },
+        "lowest": {
+            "rating": 2661,
+            "date": 1615519178
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/295155927.6b87a4c9.200x200o.85f19df77f1c.png",
+    "player_id": 295155927,
+    "@id": "https://api.chess.com/pub/player/chesssavvy",
+    "url": "https://www.chess.com/member/ChessSavvy",
+    "name": "Noah Keating-Adams",
+    "username": "chesssavvy",
+    "title": "NM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741647447,
+    "joined": 1687377693,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2469,
+            "date": 1731280319,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2485,
+            "date": 1731280063,
+            "game": "https://www.chess.com/game/live/97009321697"
+        },
+        "record": {
+            "win": 1192,
+            "loss": 974,
+            "draw": 125
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2382,
+            "date": 1741298809,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1738639224,
+            "game": "https://www.chess.com/game/live/84945651671"
+        },
+        "record": {
+            "win": 2294,
+            "loss": 2011,
+            "draw": 332
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3490,
+            "date": 1736886909
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1687377693
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

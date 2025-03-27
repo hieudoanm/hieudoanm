@@ -1,0 +1,76 @@
+{
+    "player_id": 17279950,
+    "@id": "https://api.chess.com/pub/player/dimailuka",
+    "url": "https://www.chess.com/member/dimailuka",
+    "name": "Nebojsa Djordjevic",
+    "username": "dimailuka",
+    "title": "FM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Nis",
+    "last_online": 1741699413,
+    "joined": 1399955472,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1067,
+            "date": 1725904415,
+            "rd": 167
+        },
+        "best": {
+            "rating": 1246,
+            "date": 1404198000,
+            "game": "https://www.chess.com/game/live/59689195045"
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2567,
+            "date": 1677425376,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2673,
+            "date": 1741700117,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2772,
+            "date": 1689422829,
+            "game": "https://www.chess.com/game/live/123370256573"
+        },
+        "record": {
+            "win": 24210,
+            "loss": 24549,
+            "draw": 7116
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1820,
+            "date": 1705529758
+        },
+        "lowest": {
+            "rating": 1162,
+            "date": 1642340113
+        }
+    },
+    "puzzle_rush": {}
+}

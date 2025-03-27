@@ -1,0 +1,28 @@
+{
+    "player_id": 390545125,
+    "@id": "https://api.chess.com/pub/player/levanaha",
+    "url": "https://www.chess.com/member/LevanahA",
+    "name": "L\u00e9vanah Alcantara",
+    "username": "levanaha",
+    "title": "WCM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741021127,
+    "joined": 1727035880,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 1783,
+    "tactics": {
+        "highest": {
+            "rating": 3144,
+            "date": 1738783280
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1727035880
+        }
+    },
+    "puzzle_rush": {}
+}

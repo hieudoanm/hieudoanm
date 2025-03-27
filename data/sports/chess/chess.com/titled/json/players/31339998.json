@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31339998.788743ee.200x200o.b96b9c55856a.png",
+    "player_id": 31339998,
+    "@id": "https://api.chess.com/pub/player/rouven1977",
+    "url": "https://www.chess.com/member/ROUVEN1977",
+    "name": "Ruben Ondangan",
+    "username": "rouven1977",
+    "title": "NM",
+    "followers": 164,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741031786,
+    "joined": 1480712051,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2113,
+            "date": 1741638833,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2140,
+            "date": 1697903591,
+            "game": "https://www.chess.com/game/daily/628307681"
+        },
+        "record": {
+            "win": 224,
+            "loss": 38,
+            "draw": 31,
+            "time_per_move": 25243,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2181,
+            "date": 1712533239,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2181,
+            "date": 1712533239,
+            "game": "https://www.chess.com/game/live/106271196287"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2025,
+            "date": 1741474272,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2315,
+            "date": 1614565539,
+            "game": "https://www.chess.com/game/live/2927544092"
+        },
+        "record": {
+            "win": 19269,
+            "loss": 16422,
+            "draw": 1132
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2198,
+            "date": 1736975856,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1610655833,
+            "game": "https://www.chess.com/game/live/6433717282"
+        },
+        "record": {
+            "win": 2007,
+            "loss": 1698,
+            "draw": 157
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3032,
+            "date": 1715704291
+        },
+        "lowest": {
+            "rating": 1597,
+            "date": 1480957193
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 29
+        }
+    }
+}

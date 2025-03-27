@@ -1,0 +1,51 @@
+{
+    "player_id": 73577274,
+    "@id": "https://api.chess.com/pub/player/duloi",
+    "url": "https://www.chess.com/member/Duloi",
+    "name": "Dusan Brinovec",
+    "username": "duloi",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1740077282,
+    "joined": 1584290572,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2288,
+            "date": 1741635545,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2367,
+            "date": 1690574365,
+            "game": "https://www.chess.com/game/live/108918679525"
+        },
+        "record": {
+            "win": 1061,
+            "loss": 789,
+            "draw": 193
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3322,
+            "date": 1739306062
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1584297737
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

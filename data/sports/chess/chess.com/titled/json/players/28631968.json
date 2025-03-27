@@ -1,0 +1,105 @@
+{
+    "player_id": 28631968,
+    "@id": "https://api.chess.com/pub/player/boliviar",
+    "url": "https://www.chess.com/member/Boliviar",
+    "name": "Tiago Cunha Navarro",
+    "username": "boliviar",
+    "title": "NM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/FI",
+    "last_online": 1741695594,
+    "joined": 1465920281,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1856,
+            "date": 1712247449,
+            "rd": 89
+        },
+        "best": {
+            "rating": 1856,
+            "date": 1575709576,
+            "game": "https://www.chess.com/game/daily/212105518"
+        },
+        "record": {
+            "win": 110,
+            "loss": 68,
+            "draw": 11,
+            "time_per_move": 22276,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1710,
+            "date": 1596620404,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1710,
+            "date": 1576219802,
+            "game": "https://www.chess.com/game/daily/234271894"
+        },
+        "record": {
+            "win": 25,
+            "loss": 15,
+            "draw": 0,
+            "time_per_move": 22276,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2288,
+            "date": 1740840279,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2446,
+            "date": 1684611075,
+            "game": "https://www.chess.com/game/live/78349989361"
+        },
+        "record": {
+            "win": 1100,
+            "loss": 1051,
+            "draw": 92
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2378,
+            "date": 1741111459,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1615771336,
+            "game": "https://www.chess.com/game/live/12247748899"
+        },
+        "record": {
+            "win": 4142,
+            "loss": 4245,
+            "draw": 502
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3264,
+            "date": 1731521028
+        },
+        "lowest": {
+            "rating": 1123,
+            "date": 1470055340
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

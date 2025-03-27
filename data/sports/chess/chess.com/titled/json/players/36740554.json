@@ -1,0 +1,102 @@
+{
+    "player_id": 36740554,
+    "@id": "https://api.chess.com/pub/player/nzt72",
+    "url": "https://www.chess.com/member/NZT72",
+    "username": "nzt72",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1736190681,
+    "joined": 1499002221,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2155,
+            "date": 1717245365,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2165,
+            "date": 1605374613,
+            "game": "https://www.chess.com/game/daily/279024190"
+        },
+        "record": {
+            "win": 81,
+            "loss": 8,
+            "draw": 3,
+            "time_per_move": 8158,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2428,
+            "date": 1643794202,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2431,
+            "date": 1643466303,
+            "game": "https://www.chess.com/game/live/35138905161"
+        },
+        "record": {
+            "win": 44,
+            "loss": 9,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2830,
+            "date": 1645811598,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1645811598,
+            "game": "https://www.chess.com/game/live/39550266249"
+        },
+        "record": {
+            "win": 1291,
+            "loss": 901,
+            "draw": 158
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2674,
+            "date": 1671559553,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2686,
+            "date": 1671558327,
+            "game": "https://www.chess.com/game/live/34587604103"
+        },
+        "record": {
+            "win": 1002,
+            "loss": 853,
+            "draw": 305
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3426,
+            "date": 1686963185
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1523691777
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

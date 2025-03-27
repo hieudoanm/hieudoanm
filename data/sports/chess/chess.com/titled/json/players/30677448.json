@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30677448.9b754710.200x200o.99f48cef052a.jpg",
+    "player_id": 30677448,
+    "@id": "https://api.chess.com/pub/player/kotofeyca",
+    "url": "https://www.chess.com/member/Kotofeyca",
+    "name": "Konstantin Begunov",
+    "username": "kotofeyca",
+    "title": "FM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Saint Peterburg",
+    "last_online": 1741588984,
+    "joined": 1477916614,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2262,
+            "date": 1714759783,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1685987063,
+            "game": "https://www.chess.com/game/live/81543156221"
+        },
+        "record": {
+            "win": 40,
+            "loss": 34,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2502,
+            "date": 1740850150,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1732381905,
+            "game": "https://www.chess.com/game/live/85603768091"
+        },
+        "record": {
+            "win": 823,
+            "loss": 1102,
+            "draw": 113
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2540,
+            "date": 1741369091,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2566,
+            "date": 1741107987,
+            "game": "https://www.chess.com/game/live/5863399191"
+        },
+        "record": {
+            "win": 2334,
+            "loss": 2446,
+            "draw": 341
+        }
+    },
+    "fide": 2051,
+    "tactics": {
+        "highest": {
+            "rating": 2650,
+            "date": 1723920466
+        },
+        "lowest": {
+            "rating": 1794,
+            "date": 1539244941
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 44
+        },
+        "daily": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

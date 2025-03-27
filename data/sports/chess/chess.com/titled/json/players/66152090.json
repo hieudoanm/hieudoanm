@@ -1,0 +1,95 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66152090.c192de6a.200x200o.48d523056900.jpeg",
+    "player_id": 66152090,
+    "@id": "https://api.chess.com/pub/player/wiktoriapol",
+    "url": "https://www.chess.com/member/WiktoriaPOL",
+    "name": "Wiktoria \u015amieta\u0144ska",
+    "username": "wiktoriapol",
+    "title": "CM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741515988,
+    "joined": 1569939241,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1622825519,
+            "rd": 350
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1700,
+            "date": 1586433551,
+            "rd": 230
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2381,
+            "date": 1739639946,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2393,
+            "date": 1725390882,
+            "game": "https://www.chess.com/game/live/133378755601"
+        },
+        "record": {
+            "win": 14,
+            "loss": 24,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1739902262,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2448,
+            "date": 1719935799,
+            "game": "https://www.chess.com/game/live/105810095479"
+        },
+        "record": {
+            "win": 599,
+            "loss": 1164,
+            "draw": 106
+        }
+    },
+    "fide": 2132,
+    "tactics": {
+        "highest": {
+            "rating": 3808,
+            "date": 1714884878
+        },
+        "lowest": {
+            "rating": 1718,
+            "date": 1571588507
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

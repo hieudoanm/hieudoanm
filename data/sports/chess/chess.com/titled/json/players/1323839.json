@@ -1,0 +1,128 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1323839.d1e5b5ab.200x200o.f3e1cdbe1b0b.jpeg",
+    "player_id": 1323839,
+    "@id": "https://api.chess.com/pub/player/jiahaoxiang",
+    "url": "https://www.chess.com/member/JiaHaoxiang",
+    "name": "Jia Haoxiang",
+    "username": "jiahaoxiang",
+    "title": "IM",
+    "followers": 189,
+    "country": "https://api.chess.com/pub/country/CN",
+    "location": "Wen Zhou City",
+    "last_online": 1741704077,
+    "joined": 1204718779,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 707,
+            "date": 1682675131,
+            "rd": 275
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1412091127,
+            "game": "https://www.chess.com/game/daily/97213662"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 32950,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1488,
+            "date": 1412663052,
+            "rd": 214
+        },
+        "best": {
+            "rating": 1488,
+            "date": 1412663052,
+            "game": "https://www.chess.com/game/daily/97202752"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 32950,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2364,
+            "date": 1714396719,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2407,
+            "date": 1656299021,
+            "game": "https://www.chess.com/game/live/48218349717"
+        },
+        "record": {
+            "win": 135,
+            "loss": 33,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2642,
+            "date": 1734103407,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2772,
+            "date": 1640346933,
+            "game": "https://www.chess.com/game/live/34072802685"
+        },
+        "record": {
+            "win": 251,
+            "loss": 138,
+            "draw": 24
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2601,
+            "date": 1741619648
+        },
+        "best": {
+            "rating": 2784,
+            "date": 1721980201,
+            "game": "https://www.chess.com/game/live/105810714503"
+        },
+        "record": {
+            "win": 1666,
+            "loss": 1243,
+            "draw": 366
+        }
+    },
+    "fide": 2331,
+    "tactics": {
+        "highest": {
+            "rating": 3664,
+            "date": 1708776614
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1409930361
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        },
+        "daily": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

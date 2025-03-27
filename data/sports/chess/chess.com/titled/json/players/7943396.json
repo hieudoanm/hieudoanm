@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7943396.654d5ed6.200x200o.20b02fce7949.jpeg",
+    "player_id": 7943396,
+    "@id": "https://api.chess.com/pub/player/jdoss",
+    "url": "https://www.chess.com/member/JDoss",
+    "name": "Jason Doss",
+    "username": "jdoss",
+    "title": "FM",
+    "followers": 114,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Dallas",
+    "last_online": 1741674078,
+    "joined": 1340120772,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1698,
+            "date": 1741674621,
+            "rd": 189
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1340120772,
+            "game": "https://www.chess.com/game/daily/265205932"
+        },
+        "record": {
+            "win": 60,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 45714,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 704,
+            "date": 1702275557,
+            "rd": 296
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 45714,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1925,
+            "date": 1732669421,
+            "rd": 190
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1668654535,
+            "game": "https://www.chess.com/game/live/76890001093"
+        },
+        "record": {
+            "win": 23,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2271,
+            "date": 1741648535,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2392,
+            "date": 1628780629,
+            "game": "https://www.chess.com/game/live/52849838453"
+        },
+        "record": {
+            "win": 139,
+            "loss": 73,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2427,
+            "date": 1741649074,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2538,
+            "date": 1667785539,
+            "game": "https://www.chess.com/game/live/61526963369"
+        },
+        "record": {
+            "win": 1539,
+            "loss": 924,
+            "draw": 201
+        }
+    },
+    "fide": 2336,
+    "tactics": {
+        "highest": {
+            "rating": 3092,
+            "date": 1708557846
+        },
+        "lowest": {
+            "rating": 1380,
+            "date": 1352513388
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

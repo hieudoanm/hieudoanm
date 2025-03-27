@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27897412.d8571877.200x200o.1222162fe630.jpeg",
+    "player_id": 27897412,
+    "@id": "https://api.chess.com/pub/player/gmtalentoso",
+    "url": "https://www.chess.com/member/gmtalentoso",
+    "name": "Mariano Madrigal",
+    "username": "gmtalentoso",
+    "title": "IM",
+    "followers": 172,
+    "country": "https://api.chess.com/pub/country/NI",
+    "last_online": 1741093472,
+    "joined": 1461530488,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1725,
+            "date": 1741635374,
+            "rd": 233
+        },
+        "best": {
+            "rating": 2168,
+            "date": 1560372605,
+            "game": "https://www.chess.com/game/daily/208521832"
+        },
+        "record": {
+            "win": 204,
+            "loss": 62,
+            "draw": 9,
+            "time_per_move": 105347,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2266,
+            "date": 1718304985,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2283,
+            "date": 1716001190,
+            "game": "https://www.chess.com/game/live/109442474553"
+        },
+        "record": {
+            "win": 12,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2408,
+            "date": 1741185685,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1710218177,
+            "game": "https://www.chess.com/game/live/102482389943"
+        },
+        "record": {
+            "win": 240,
+            "loss": 208,
+            "draw": 25
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2462,
+            "date": 1736683452,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1661013972,
+            "game": "https://www.chess.com/game/live/124322403375"
+        },
+        "record": {
+            "win": 758,
+            "loss": 696,
+            "draw": 132
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3324,
+            "date": 1730825624
+        },
+        "lowest": {
+            "rating": 976,
+            "date": 1461531667
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

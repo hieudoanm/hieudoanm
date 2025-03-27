@@ -1,0 +1,52 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/380140917.705f4e62.200x200o.ef5c39ea2cfb.jpg",
+    "player_id": 380140917,
+    "@id": "https://api.chess.com/pub/player/neoternemo",
+    "url": "https://www.chess.com/member/NeoTerNemo",
+    "name": "Alexey Grachev",
+    "username": "neoternemo",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741620224,
+    "joined": 1723267180,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2960,
+            "date": 1741543937,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2922,
+            "date": 1739722399,
+            "game": "https://www.chess.com/game/live/122556828433"
+        },
+        "record": {
+            "win": 191,
+            "loss": 78,
+            "draw": 28
+        }
+    },
+    "fide": 2425,
+    "tactics": {
+        "highest": {
+            "rating": 2625,
+            "date": 1739381665
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1723267180
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

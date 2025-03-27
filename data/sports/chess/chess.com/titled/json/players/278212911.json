@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/278212911.4c8344a1.200x200o.7f8e6ad7fc99.jpg",
+    "player_id": 278212911,
+    "@id": "https://api.chess.com/pub/player/iaspet",
+    "url": "https://www.chess.com/member/iAspet",
+    "name": "Aspet Tadevosyan",
+    "username": "iaspet",
+    "title": "CM",
+    "followers": 1629,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741649960,
+    "joined": 1682197123,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 883,
+            "date": 1739515061,
+            "rd": 126
+        },
+        "best": {
+            "rating": 1600,
+            "date": 1682197123,
+            "game": "https://www.chess.com/game/daily/716308641"
+        },
+        "record": {
+            "win": 10,
+            "loss": 12,
+            "draw": 0,
+            "time_per_move": 83968,
+            "timeout_percent": 40
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2449,
+            "date": 1741469051,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1683188410,
+            "game": "https://www.chess.com/game/live/76927168369"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2609,
+            "date": 1737114707,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2664,
+            "date": 1707591857,
+            "game": "https://www.chess.com/game/live/78142275965"
+        },
+        "record": {
+            "win": 953,
+            "loss": 1084,
+            "draw": 142
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2522,
+            "date": 1741593570,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2606,
+            "date": 1712363914,
+            "game": "https://www.chess.com/game/live/105210036799"
+        },
+        "record": {
+            "win": 219,
+            "loss": 201,
+            "draw": 42
+        }
+    },
+    "fide": 2364,
+    "tactics": {
+        "highest": {
+            "rating": 3361,
+            "date": 1737230984
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1682197123
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

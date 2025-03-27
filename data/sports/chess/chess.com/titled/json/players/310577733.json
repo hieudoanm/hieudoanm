@@ -1,0 +1,62 @@
+{
+    "player_id": 310577733,
+    "@id": "https://api.chess.com/pub/player/battlestargalactica04",
+    "url": "https://www.chess.com/member/BattlestarGalactica04",
+    "name": "Emile Boucquet",
+    "username": "battlestargalactica04",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1741610467,
+    "joined": 1693906089,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2199,
+            "date": 1714635492,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2396,
+            "date": 1714594541,
+            "game": "https://www.chess.com/game/live/108333585031"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2193,
+            "date": 1717426108,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2479,
+            "date": 1693949983,
+            "game": "https://www.chess.com/game/live/87688349491"
+        },
+        "record": {
+            "win": 14,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1693906089
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1693906089
+        }
+    },
+    "puzzle_rush": {}
+}

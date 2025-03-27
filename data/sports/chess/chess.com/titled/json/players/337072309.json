@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/337072309.e4ed8fc1.200x200o.f816e66ea2ab.png",
+    "player_id": 337072309,
+    "@id": "https://api.chess.com/pub/player/michaeltilt",
+    "url": "https://www.chess.com/member/Michaeltilt",
+    "name": "Michael Li",
+    "username": "michaeltilt",
+    "title": "NM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York",
+    "last_online": 1738115983,
+    "joined": 1704503746,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2031,
+            "date": 1722115293,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2031,
+            "date": 1722115293,
+            "game": "https://www.chess.com/game/live/115852787679"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2356,
+            "date": 1729090840,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1717800278,
+            "game": "https://www.chess.com/game/live/112124475477"
+        },
+        "record": {
+            "win": 121,
+            "loss": 65,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2373,
+            "date": 1732762041,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1705427326,
+            "game": "https://www.chess.com/game/live/117321647823"
+        },
+        "record": {
+            "win": 245,
+            "loss": 118,
+            "draw": 46
+        }
+    },
+    "fide": 2119,
+    "tactics": {
+        "highest": {
+            "rating": 2904,
+            "date": 1719805207
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1704503746
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/194673317.dfba42f3.200x200o.f72599d1a545.jpg",
+    "player_id": 194673317,
+    "@id": "https://api.chess.com/pub/player/contrversia",
+    "url": "https://www.chess.com/member/ContrVersia",
+    "name": "Valery Kazakouski",
+    "username": "contrversia",
+    "title": "GM",
+    "followers": 65,
+    "country": "https://api.chess.com/pub/country/LT",
+    "location": "Vilnius, Lithuania",
+    "last_online": 1734159519,
+    "joined": 1661435437,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1642,
+            "date": 1730011097,
+            "rd": 323
+        },
+        "best": {
+            "rating": 1642,
+            "date": 1730011097,
+            "game": "https://www.chess.com/game/daily/581592449"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 58223,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1683981255,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2169,
+            "date": 1664093020,
+            "game": "https://www.chess.com/game/live/57826233275"
+        },
+        "record": {
+            "win": 46,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2541,
+            "date": 1719008305,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2907,
+            "date": 1699361035,
+            "game": "https://www.chess.com/game/live/93099792839"
+        },
+        "record": {
+            "win": 92,
+            "loss": 35,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2855,
+            "date": 1730851495,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2948,
+            "date": 1692137866,
+            "game": "https://www.chess.com/game/live/114559684847"
+        },
+        "record": {
+            "win": 822,
+            "loss": 358,
+            "draw": 106
+        }
+    },
+    "fide": 2557,
+    "tactics": {
+        "highest": {
+            "rating": 3857,
+            "date": 1730746602
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1661435437
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

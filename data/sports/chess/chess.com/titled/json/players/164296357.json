@@ -1,0 +1,67 @@
+{
+    "player_id": 164296357,
+    "@id": "https://api.chess.com/pub/player/ajedrecista3000",
+    "url": "https://www.chess.com/member/Ajedrecista3000",
+    "name": "Juan Plazuelo Pascual",
+    "username": "ajedrecista3000",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1735598969,
+    "joined": 1639147686,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2589,
+            "date": 1734791702,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1734125720,
+            "game": "https://www.chess.com/game/live/127864754445"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2648,
+            "date": 1732310726,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1693324574,
+            "game": "https://www.chess.com/game/live/86458849963"
+        },
+        "record": {
+            "win": 167,
+            "loss": 138,
+            "draw": 32
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3624,
+            "date": 1697282284
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1645620554
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

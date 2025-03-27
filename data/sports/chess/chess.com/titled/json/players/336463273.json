@@ -1,0 +1,83 @@
+{
+    "player_id": 336463273,
+    "@id": "https://api.chess.com/pub/player/musiclover288",
+    "url": "https://www.chess.com/member/musiclover288",
+    "username": "musiclover288",
+    "title": "WCM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1738408559,
+    "joined": 1704267748,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1831,
+            "date": 1735815774,
+            "rd": 53
+        },
+        "best": {
+            "rating": 1836,
+            "date": 1735612963,
+            "game": "https://www.chess.com/game/live/129265350751"
+        },
+        "record": {
+            "win": 28,
+            "loss": 15,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1781,
+            "date": 1740750583,
+            "rd": 25
+        },
+        "best": {
+            "rating": 1876,
+            "date": 1738668697,
+            "game": "https://www.chess.com/game/live/133109391421"
+        },
+        "record": {
+            "win": 418,
+            "loss": 378,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1809,
+            "date": 1739699441,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1876,
+            "date": 1714124642,
+            "game": "https://www.chess.com/game/live/121435232421"
+        },
+        "record": {
+            "win": 1649,
+            "loss": 1494,
+            "draw": 162
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2905,
+            "date": 1735282216
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1704267748
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44175108.cb5e6b93.200x200o.3151567697c6.jpg",
+    "player_id": 44175108,
+    "@id": "https://api.chess.com/pub/player/mops_2004",
+    "url": "https://www.chess.com/member/Mops_2004",
+    "name": "Dmitriy Kushko",
+    "username": "mops_2004",
+    "title": "IM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/IE",
+    "location": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+    "last_online": 1741633750,
+    "joined": 1520797298,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2387,
+            "date": 1706285422,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1706285416,
+            "game": "https://www.chess.com/game/live/3231159711"
+        },
+        "record": {
+            "win": 9,
+            "loss": 9,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2670,
+            "date": 1688745832,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1688058507,
+            "game": "https://www.chess.com/game/live/81744806913"
+        },
+        "record": {
+            "win": 107,
+            "loss": 53,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2826,
+            "date": 1741368167,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2924,
+            "date": 1687359073,
+            "game": "https://www.chess.com/game/live/118001385673"
+        },
+        "record": {
+            "win": 10873,
+            "loss": 10038,
+            "draw": 2307
+        }
+    },
+    "fide": 2454,
+    "tactics": {
+        "highest": {
+            "rating": 3370,
+            "date": 1720368698
+        },
+        "lowest": {
+            "rating": 2190,
+            "date": 1554576218
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

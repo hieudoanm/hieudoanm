@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72218390.41351f59.200x200o.fc7300f3ba86.jpeg",
+    "player_id": 72218390,
+    "@id": "https://api.chess.com/pub/player/ticondriul",
+    "url": "https://www.chess.com/member/Ticondriul",
+    "name": "Manuel Crist\u00f3bal",
+    "username": "ticondriul",
+    "title": "FM",
+    "followers": 757,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Mar del Plata",
+    "last_online": 1741699373,
+    "joined": 1581764360,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2458,
+            "date": 1741413121,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1678916244,
+            "game": "https://www.chess.com/game/live/50563150231"
+        },
+        "record": {
+            "win": 51,
+            "loss": 9,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2616,
+            "date": 1740656715,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2892,
+            "date": 1703978579,
+            "game": "https://www.chess.com/game/live/110512306921"
+        },
+        "record": {
+            "win": 3239,
+            "loss": 2586,
+            "draw": 308
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2623,
+            "date": 1741702649,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2813,
+            "date": 1669602417,
+            "game": "https://www.chess.com/game/live/61537776223"
+        },
+        "record": {
+            "win": 1304,
+            "loss": 739,
+            "draw": 199
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3622,
+            "date": 1672795419
+        },
+        "lowest": {
+            "rating": 2200,
+            "date": 1663255510
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

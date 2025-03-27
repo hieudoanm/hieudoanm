@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64039288.6c163cb0.200x200o.60c7f702db33.jpeg",
+    "player_id": 64039288,
+    "@id": "https://api.chess.com/pub/player/david_george21",
+    "url": "https://www.chess.com/member/David_George21",
+    "name": "David George Samir",
+    "username": "david_george21",
+    "title": "FM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/EG",
+    "last_online": 1741627190,
+    "joined": 1565128839,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1707478159,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 62142,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2097,
+            "date": 1688464898,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1688464898,
+            "game": "https://www.chess.com/game/live/82203638337"
+        },
+        "record": {
+            "win": 132,
+            "loss": 87,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2607,
+            "date": 1740569895,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1736533046,
+            "game": "https://www.chess.com/game/live/127766410055"
+        },
+        "record": {
+            "win": 1353,
+            "loss": 1044,
+            "draw": 153
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2671,
+            "date": 1741632940,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2623,
+            "date": 1740505836,
+            "game": "https://www.chess.com/game/live/128191266047"
+        },
+        "record": {
+            "win": 694,
+            "loss": 550,
+            "draw": 74
+        }
+    },
+    "fide": 2090,
+    "tactics": {
+        "highest": {
+            "rating": 3582,
+            "date": 1718968586
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1565788042
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

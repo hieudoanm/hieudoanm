@@ -1,0 +1,69 @@
+{
+    "player_id": 53422682,
+    "@id": "https://api.chess.com/pub/player/delfin000",
+    "url": "https://www.chess.com/member/Delfin000",
+    "name": "Isabella Lopez Rayo",
+    "username": "delfin000",
+    "title": "WCM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Cali",
+    "last_online": 1741117637,
+    "joined": 1545154256,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1639,
+            "date": 1619919909,
+            "rd": 94
+        },
+        "best": {
+            "rating": 1733,
+            "date": 1619307251,
+            "game": "https://www.chess.com/game/live/11996655669"
+        },
+        "record": {
+            "win": 9,
+            "loss": 13,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2404,
+            "date": 1741111634,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2450,
+            "date": 1739901686,
+            "game": "https://www.chess.com/game/live/133633156955"
+        },
+        "record": {
+            "win": 128,
+            "loss": 115,
+            "draw": 14
+        }
+    },
+    "fide": 1709,
+    "tactics": {
+        "highest": {
+            "rating": 2458,
+            "date": 1621385900
+        },
+        "lowest": {
+            "rating": 1396,
+            "date": 1609874703
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

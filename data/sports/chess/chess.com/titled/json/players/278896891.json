@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/278896891.14b0325b.200x200o.c038ecd42706.jpg",
+    "player_id": 278896891,
+    "@id": "https://api.chess.com/pub/player/gao",
+    "url": "https://www.chess.com/member/GAO",
+    "name": "Raymond Gao",
+    "username": "gao",
+    "title": "NM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741677086,
+    "joined": 1682380750,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2083,
+            "date": 1738285188,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2133,
+            "date": 1689036927,
+            "game": "https://www.chess.com/game/live/122501668295"
+        },
+        "record": {
+            "win": 50,
+            "loss": 11,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2468,
+            "date": 1740987131,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2520,
+            "date": 1738528241,
+            "game": "https://www.chess.com/game/live/133160958547"
+        },
+        "record": {
+            "win": 495,
+            "loss": 415,
+            "draw": 55
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2472,
+            "date": 1741678320,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1735103944,
+            "game": "https://www.chess.com/game/live/114297644525"
+        },
+        "record": {
+            "win": 1929,
+            "loss": 1716,
+            "draw": 372
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3559,
+            "date": 1734720601
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1682380750
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

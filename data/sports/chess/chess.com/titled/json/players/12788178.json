@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12788178.f6b7634a.200x200o.1c1f28fff27b.jpeg",
+    "player_id": 12788178,
+    "@id": "https://api.chess.com/pub/player/fischerev7",
+    "url": "https://www.chess.com/member/Fischerev7",
+    "name": "Emerson Veiga",
+    "username": "fischerev7",
+    "title": "NM",
+    "followers": 195,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Castanhal - PA",
+    "last_online": 1741650964,
+    "joined": 1374332597,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1900,
+            "date": 1732010334,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2018,
+            "date": 1628763620,
+            "game": "https://www.chess.com/game/daily/287849430"
+        },
+        "record": {
+            "win": 78,
+            "loss": 7,
+            "draw": 7,
+            "time_per_move": 6193,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2217,
+            "date": 1655684604,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2247,
+            "date": 1641062909,
+            "game": "https://www.chess.com/game/live/34800684829"
+        },
+        "record": {
+            "win": 10,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2183,
+            "date": 1741623701,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1673028665,
+            "game": "https://www.chess.com/game/live/5543807076"
+        },
+        "record": {
+            "win": 977,
+            "loss": 658,
+            "draw": 60
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1741660893,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2560,
+            "date": 1637599489,
+            "game": "https://www.chess.com/game/live/30385776999"
+        },
+        "record": {
+            "win": 8676,
+            "loss": 9409,
+            "draw": 1133
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3053,
+            "date": 1631115869
+        },
+        "lowest": {
+            "rating": 1371,
+            "date": 1473906730
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

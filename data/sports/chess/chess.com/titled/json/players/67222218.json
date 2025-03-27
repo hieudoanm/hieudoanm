@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67222218.51d7c985.200x200o.3fc76d788462.jpeg",
+    "player_id": 67222218,
+    "@id": "https://api.chess.com/pub/player/chessdragon7161",
+    "url": "https://www.chess.com/member/chessdragon7161",
+    "name": "Garv Gaur",
+    "username": "chessdragon7161",
+    "title": "FM",
+    "followers": 416,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741598273,
+    "joined": 1572248561,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1294,
+            "date": 1719589440,
+            "rd": 179
+        },
+        "best": {
+            "rating": 1924,
+            "date": 1578459603,
+            "game": "https://www.chess.com/game/daily/246842350"
+        },
+        "record": {
+            "win": 17,
+            "loss": 5,
+            "draw": 1,
+            "time_per_move": 17731,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1706287637,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2309,
+            "date": 1666273065,
+            "game": "https://www.chess.com/game/live/21567000611"
+        },
+        "record": {
+            "win": 55,
+            "loss": 37,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2415,
+            "date": 1737561045,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1737560749,
+            "game": "https://www.chess.com/game/live/131299765731"
+        },
+        "record": {
+            "win": 203,
+            "loss": 227,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2633,
+            "date": 1740719347
+        },
+        "best": {
+            "rating": 2697,
+            "date": 1736359201,
+            "game": "https://www.chess.com/game/live/68919958891"
+        },
+        "record": {
+            "win": 1614,
+            "loss": 1711,
+            "draw": 350
+        }
+    },
+    "fide": 2388,
+    "tactics": {
+        "highest": {
+            "rating": 3011,
+            "date": 1605102058
+        },
+        "lowest": {
+            "rating": 1194,
+            "date": 1572257872
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

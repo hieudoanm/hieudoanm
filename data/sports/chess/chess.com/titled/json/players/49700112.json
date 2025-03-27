@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49700112.6baa0e68.200x200o.3d315b9e60e3.jpg",
+    "player_id": 49700112,
+    "@id": "https://api.chess.com/pub/player/sofiia_hryzlova",
+    "url": "https://www.chess.com/member/Sofiia_Hryzlova",
+    "name": "Sofiia Hryzlova",
+    "username": "sofiia_hryzlova",
+    "title": "WIM",
+    "followers": 91,
+    "country": "https://api.chess.com/pub/country/CH",
+    "location": "Lugano",
+    "last_online": 1741362621,
+    "joined": 1536831116,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1622,
+            "date": 1660742643,
+            "rd": 122
+        },
+        "best": {
+            "rating": 1622,
+            "date": 1572675003,
+            "game": "https://www.chess.com/game/daily/229612142"
+        },
+        "record": {
+            "win": 13,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 157960,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1950,
+            "date": 1740669420,
+            "rd": 136
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1631198266,
+            "game": "https://www.chess.com/game/live/4897258644"
+        },
+        "record": {
+            "win": 14,
+            "loss": 10,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2409,
+            "date": 1696607950,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2409,
+            "date": 1696607950,
+            "game": "https://www.chess.com/game/live/90325123607"
+        },
+        "record": {
+            "win": 96,
+            "loss": 75,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2532,
+            "date": 1740665214,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1709662245,
+            "game": "https://www.chess.com/game/live/61687837457"
+        },
+        "record": {
+            "win": 897,
+            "loss": 970,
+            "draw": 83
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2652,
+            "date": 1578500219
+        },
+        "lowest": {
+            "rating": 813,
+            "date": 1536837051
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

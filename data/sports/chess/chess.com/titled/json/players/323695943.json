@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/323695943.af6f7a6d.200x200o.689808a675f5.jpg",
+    "player_id": 323695943,
+    "@id": "https://api.chess.com/pub/player/rodokininev",
+    "url": "https://www.chess.com/member/RodokininEV",
+    "name": "Rodrigo Espinoza Villanueva",
+    "username": "rodokininev",
+    "title": "NM",
+    "followers": 388,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1737927477,
+    "joined": 1699044429,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1644,
+            "date": 1738671619,
+            "rd": 219
+        },
+        "best": {
+            "rating": 1644,
+            "date": 1738531589,
+            "game": "https://www.chess.com/game/daily/716324621"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 49660,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2631,
+            "date": 1728773489,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2631,
+            "date": 1699556291,
+            "game": "https://www.chess.com/game/live/93292943549"
+        },
+        "record": {
+            "win": 13,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2366,
+            "date": 1737928228
+        },
+        "best": {
+            "rating": 2715,
+            "date": 1699221725,
+            "game": "https://www.chess.com/game/live/105075670029"
+        },
+        "record": {
+            "win": 3942,
+            "loss": 4834,
+            "draw": 702
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2654,
+            "date": 1736718705,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1712095424,
+            "game": "https://www.chess.com/game/live/97972305819"
+        },
+        "record": {
+            "win": 605,
+            "loss": 502,
+            "draw": 116
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3226,
+            "date": 1712628880
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1699044429
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

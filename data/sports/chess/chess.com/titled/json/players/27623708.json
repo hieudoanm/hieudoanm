@@ -1,0 +1,53 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27623708.af3eee66.200x200o.9b123bf23a84.jpg",
+    "player_id": 27623708,
+    "@id": "https://api.chess.com/pub/player/gatoleonidas",
+    "url": "https://www.chess.com/member/GatoLeonidas",
+    "name": "Andres Gallardo Garcia",
+    "username": "gatoleonidas",
+    "title": "IM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Madrid",
+    "last_online": 1741638286,
+    "joined": 1459970597,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 1976,
+            "date": 1709664068,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1574882302,
+            "game": "https://www.chess.com/game/live/8093089113"
+        },
+        "record": {
+            "win": 159,
+            "loss": 104,
+            "draw": 15
+        }
+    },
+    "fide": 2322,
+    "tactics": {
+        "highest": {
+            "rating": 3143,
+            "date": 1711740129
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1460068411
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

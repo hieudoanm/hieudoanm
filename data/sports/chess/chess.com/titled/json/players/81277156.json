@@ -1,0 +1,51 @@
+{
+    "player_id": 81277156,
+    "@id": "https://api.chess.com/pub/player/drzee3",
+    "url": "https://www.chess.com/member/DrZee3",
+    "name": "Aaron Guthrie",
+    "username": "drzee3",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741680546,
+    "joined": 1591126804,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2317,
+            "date": 1732583801,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2402,
+            "date": 1723854956,
+            "game": "https://www.chess.com/game/live/117910795763"
+        },
+        "record": {
+            "win": 39,
+            "loss": 32,
+            "draw": 3
+        }
+    },
+    "fide": 2140,
+    "tactics": {
+        "highest": {
+            "rating": 2711,
+            "date": 1726687598
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1591126804
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

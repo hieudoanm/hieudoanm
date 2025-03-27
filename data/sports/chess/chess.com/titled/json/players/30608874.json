@@ -1,0 +1,61 @@
+{
+    "player_id": 30608874,
+    "@id": "https://api.chess.com/pub/player/poeticpetals",
+    "url": "https://www.chess.com/member/poeticpetals",
+    "username": "poeticpetals",
+    "title": "WIM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741700639,
+    "joined": 1477555254,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1662,
+            "date": 1478671787,
+            "rd": 291
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2433,
+            "date": 1740559235,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1738901054,
+            "game": "https://www.chess.com/game/live/132639631773"
+        },
+        "record": {
+            "win": 89,
+            "loss": 69,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3201,
+            "date": 1736334644
+        },
+        "lowest": {
+            "rating": 1958,
+            "date": 1477558788
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 42
+        }
+    }
+}

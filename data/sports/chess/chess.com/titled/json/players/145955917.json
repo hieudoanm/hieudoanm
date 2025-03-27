@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/145955917.8b517aad.200x200o.1fc3178e84cb.jpeg",
+    "player_id": 145955917,
+    "@id": "https://api.chess.com/pub/player/honestjoe1",
+    "url": "https://www.chess.com/member/HonestJoe1",
+    "name": "Chris J Gant",
+    "username": "honestjoe1",
+    "title": "FM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Devon",
+    "last_online": 1741643683,
+    "joined": 1624715493,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2209,
+            "date": 1729287530,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2219,
+            "date": 1664308927,
+            "game": "https://www.chess.com/game/live/55746865525"
+        },
+        "record": {
+            "win": 61,
+            "loss": 25,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1848,
+            "date": 1741678162,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2062,
+            "date": 1651511612,
+            "game": "https://www.chess.com/game/live/44837387635"
+        },
+        "record": {
+            "win": 4281,
+            "loss": 5469,
+            "draw": 539
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2221,
+            "date": 1741385663,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2314,
+            "date": 1653570753,
+            "game": "https://www.chess.com/game/live/133633156939"
+        },
+        "record": {
+            "win": 1126,
+            "loss": 1282,
+            "draw": 156
+        }
+    },
+    "fide": 2056,
+    "tactics": {
+        "highest": {
+            "rating": 3132,
+            "date": 1737893645
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1625481651
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 23,
+            "score": 21
+        }
+    }
+}

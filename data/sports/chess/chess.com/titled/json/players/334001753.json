@@ -1,0 +1,50 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/334001753.3b24cf56.200x200o.308f2ec49182.jpg",
+    "player_id": 334001753,
+    "@id": "https://api.chess.com/pub/player/alieraiseafireoozeuh",
+    "url": "https://www.chess.com/member/ALieRaiseAFireOozeUh",
+    "username": "alieraiseafireoozeuh",
+    "title": "GM",
+    "followers": 230,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1733759271,
+    "joined": 1703281429,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 3108,
+            "date": 1733614710,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3177,
+            "date": 1727298641,
+            "game": "https://www.chess.com/game/live/98128834139"
+        },
+        "record": {
+            "win": 448,
+            "loss": 462,
+            "draw": 149
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2655,
+            "date": 1708121213
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1703281429
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "player_id": 67995914,
+    "@id": "https://api.chess.com/pub/player/nuestro64",
+    "url": "https://www.chess.com/member/NUESTRO64",
+    "name": "NATALIA SILVA",
+    "username": "nuestro64",
+    "title": "WCM",
+    "followers": 377,
+    "country": "https://api.chess.com/pub/country/UY",
+    "last_online": 1740611645,
+    "joined": 1573777203,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1200,
+            "date": 1687315093,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 27,
+            "draw": 0,
+            "time_per_move": 87914,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1530,
+            "date": 1694397752,
+            "rd": 114
+        },
+        "best": {
+            "rating": 1802,
+            "date": 1612924350,
+            "game": "https://www.chess.com/game/live/51279649059"
+        },
+        "record": {
+            "win": 57,
+            "loss": 62,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 701,
+            "date": 1734682607,
+            "rd": 30
+        },
+        "best": {
+            "rating": 1896,
+            "date": 1600221059,
+            "game": "https://www.chess.com/game/live/49602001503"
+        },
+        "record": {
+            "win": 3267,
+            "loss": 3424,
+            "draw": 124
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1353,
+            "date": 1740612882,
+            "rd": 33
+        },
+        "best": {
+            "rating": 1789,
+            "date": 1573788288,
+            "game": "https://www.chess.com/game/live/4606438546"
+        },
+        "record": {
+            "win": 4169,
+            "loss": 3063,
+            "draw": 298
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1866,
+            "date": 1640854882
+        },
+        "lowest": {
+            "rating": 814,
+            "date": 1576496776
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 27
+        }
+    }
+}

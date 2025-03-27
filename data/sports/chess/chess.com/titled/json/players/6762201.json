@@ -1,0 +1,124 @@
+{
+    "player_id": 6762201,
+    "@id": "https://api.chess.com/pub/player/vrekhson",
+    "url": "https://www.chess.com/member/vrekhson",
+    "name": "Vladislav Rekhson",
+    "username": "vrekhson",
+    "title": "NM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Calgary",
+    "last_online": 1741122335,
+    "joined": 1330139849,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1816,
+            "date": 1705612752,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1866,
+            "date": 1468180655,
+            "game": "https://www.chess.com/game/daily/56405460"
+        },
+        "record": {
+            "win": 62,
+            "loss": 19,
+            "draw": 7,
+            "time_per_move": 23779,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1398,
+            "date": 1434144010,
+            "rd": 258
+        },
+        "best": {
+            "rating": 1398,
+            "date": 1434144010,
+            "game": "https://www.chess.com/game/daily/106959136"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23779,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2104,
+            "date": 1613144463,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2104,
+            "date": 1613144463,
+            "game": "https://www.chess.com/game/live/6523727600"
+        },
+        "record": {
+            "win": 273,
+            "loss": 171,
+            "draw": 41
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2097,
+            "date": 1615818236,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2157,
+            "date": 1537074402,
+            "game": "https://www.chess.com/game/live/472634977"
+        },
+        "record": {
+            "win": 2473,
+            "loss": 1525,
+            "draw": 161
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2363,
+            "date": 1708471626,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2363,
+            "date": 1708471616,
+            "game": "https://www.chess.com/game/live/102208427639"
+        },
+        "record": {
+            "win": 3302,
+            "loss": 2617,
+            "draw": 350
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3264,
+            "date": 1737560400
+        },
+        "lowest": {
+            "rating": 1379,
+            "date": 1361666965
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

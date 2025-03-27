@@ -1,0 +1,86 @@
+{
+    "player_id": 11011994,
+    "@id": "https://api.chess.com/pub/player/queenzlander60",
+    "url": "https://www.chess.com/member/Queenzlander60",
+    "name": "Tony Dowden",
+    "username": "queenzlander60",
+    "title": "CM",
+    "followers": 608,
+    "country": "https://api.chess.com/pub/country/NZ",
+    "location": "Brisbane",
+    "last_online": 1741685525,
+    "joined": 1362281918,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2001,
+            "date": 1739687959,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2246,
+            "date": 1646552061,
+            "game": "https://www.chess.com/game/live/11420612753"
+        },
+        "record": {
+            "win": 105,
+            "loss": 30,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2066,
+            "date": 1741686124,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2182,
+            "date": 1646047394,
+            "game": "https://www.chess.com/game/live/10584960005"
+        },
+        "record": {
+            "win": 4068,
+            "loss": 2430,
+            "draw": 299
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2306,
+            "date": 1723347710,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1723347710,
+            "game": "https://www.chess.com/game/live/117086376653"
+        },
+        "record": {
+            "win": 14138,
+            "loss": 8748,
+            "draw": 980
+        }
+    },
+    "fide": 1942,
+    "tactics": {
+        "highest": {
+            "rating": 3458,
+            "date": 1741691193
+        },
+        "lowest": {
+            "rating": 1833,
+            "date": 1365943860
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

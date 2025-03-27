@@ -1,0 +1,87 @@
+{
+    "player_id": 9016166,
+    "@id": "https://api.chess.com/pub/player/narutosmith",
+    "url": "https://www.chess.com/member/narutosmith",
+    "name": "Ricando Smith",
+    "username": "narutosmith",
+    "title": "CM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1683038216,
+    "joined": 1348434796,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1106,
+            "date": 1653400773,
+            "rd": 266
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1348434796,
+            "game": "https://www.chess.com/game/daily/59242034"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 43432,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2057,
+            "date": 1479266168,
+            "rd": 171
+        },
+        "best": {
+            "rating": 2057,
+            "date": 1357110856,
+            "game": "https://www.chess.com/game/live/426700913"
+        },
+        "record": {
+            "win": 6,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2243,
+            "date": 1681610273,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2343,
+            "date": 1618941917,
+            "game": "https://www.chess.com/game/live/4376241347"
+        },
+        "record": {
+            "win": 2827,
+            "loss": 2898,
+            "draw": 271
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3180,
+            "date": 1568607737
+        },
+        "lowest": {
+            "rating": 1368,
+            "date": 1348447944
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

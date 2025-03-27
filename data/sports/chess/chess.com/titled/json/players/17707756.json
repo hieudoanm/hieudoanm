@@ -1,0 +1,104 @@
+{
+    "player_id": 17707756,
+    "@id": "https://api.chess.com/pub/player/melicg25",
+    "url": "https://www.chess.com/member/melicg25",
+    "name": "Melissa Castrillon Gomez",
+    "username": "melicg25",
+    "title": "WIM",
+    "followers": 134,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Envigado",
+    "last_online": 1741683573,
+    "joined": 1402877512,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1482,
+            "date": 1734512220,
+            "rd": 144
+        },
+        "best": {
+            "rating": 1482,
+            "date": 1734508458,
+            "game": "https://www.chess.com/game/daily/701971021"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 68885,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2137,
+            "date": 1728474165,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2376,
+            "date": 1600307400,
+            "game": "https://www.chess.com/game/live/5306925670"
+        },
+        "record": {
+            "win": 22,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2052,
+            "date": 1741106131,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2344,
+            "date": 1602620994,
+            "game": "https://www.chess.com/game/live/5564779432"
+        },
+        "record": {
+            "win": 1591,
+            "loss": 1393,
+            "draw": 180
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2367,
+            "date": 1741534262,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2364,
+            "date": 1737603652,
+            "game": "https://www.chess.com/game/live/126982140411"
+        },
+        "record": {
+            "win": 579,
+            "loss": 470,
+            "draw": 95
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3258,
+            "date": 1730626874
+        },
+        "lowest": {
+            "rating": 1333,
+            "date": 1403028614
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

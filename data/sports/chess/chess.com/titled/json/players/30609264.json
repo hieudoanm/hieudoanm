@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30609264.47f11327.200x200o.3dabc46bf935.jpeg",
+    "player_id": 30609264,
+    "@id": "https://api.chess.com/pub/player/korkmaz16",
+    "url": "https://www.chess.com/member/korkmaz16",
+    "name": "Necmettin KORKMAZ",
+    "username": "korkmaz16",
+    "title": "CM",
+    "followers": 136,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "BURSA",
+    "last_online": 1741432249,
+    "joined": 1477557979,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1451,
+            "date": 1718267323,
+            "rd": 134
+        },
+        "best": {
+            "rating": 1801,
+            "date": 1512769803,
+            "game": "https://www.chess.com/game/daily/251062786"
+        },
+        "record": {
+            "win": 5,
+            "loss": 11,
+            "draw": 0,
+            "time_per_move": 122702,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2292,
+            "date": 1714066399,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2292,
+            "date": 1669542195,
+            "game": "https://www.chess.com/game/live/20888485021"
+        },
+        "record": {
+            "win": 46,
+            "loss": 15,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2375,
+            "date": 1700660913,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1665495365,
+            "game": "https://www.chess.com/game/live/69857034201"
+        },
+        "record": {
+            "win": 2207,
+            "loss": 2482,
+            "draw": 203
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2465,
+            "date": 1740829158,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1644250149,
+            "game": "https://www.chess.com/game/live/70057377325"
+        },
+        "record": {
+            "win": 6335,
+            "loss": 6728,
+            "draw": 836
+        }
+    },
+    "fide": 2112,
+    "tactics": {
+        "highest": {
+            "rating": 3460,
+            "date": 1727523174
+        },
+        "lowest": {
+            "rating": 1801,
+            "date": 1477558407
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

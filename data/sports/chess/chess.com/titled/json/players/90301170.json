@@ -1,0 +1,66 @@
+{
+    "player_id": 90301170,
+    "@id": "https://api.chess.com/pub/player/lordchaos21",
+    "url": "https://www.chess.com/member/LordChaos21",
+    "username": "lordchaos21",
+    "title": "GM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1707958215,
+    "joined": 1598938343,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2839,
+            "date": 1692566675,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2867,
+            "date": 1692566611,
+            "game": "https://www.chess.com/game/live/23970425087"
+        },
+        "record": {
+            "win": 107,
+            "loss": 44,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2752,
+            "date": 1683379998,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2827,
+            "date": 1640753111,
+            "game": "https://www.chess.com/game/live/41608857051"
+        },
+        "record": {
+            "win": 164,
+            "loss": 87,
+            "draw": 31
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3413,
+            "date": 1692116996
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1631089792
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

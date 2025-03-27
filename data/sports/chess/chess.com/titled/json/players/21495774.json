@@ -1,0 +1,105 @@
+{
+    "player_id": 21495774,
+    "@id": "https://api.chess.com/pub/player/llambipasku",
+    "url": "https://www.chess.com/member/LlambiPasku",
+    "name": "Llambi Pasko",
+    "username": "llambipasku",
+    "title": "IM",
+    "followers": 458,
+    "country": "https://api.chess.com/pub/country/AL",
+    "location": "Tirane",
+    "last_online": 1738525956,
+    "joined": 1426246364,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1206,
+            "date": 1739303420,
+            "rd": 236
+        },
+        "best": {
+            "rating": 1206,
+            "date": 1730053689,
+            "game": "https://www.chess.com/game/daily/581672357"
+        },
+        "record": {
+            "win": 7,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 6796,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2539,
+            "date": 1736028502,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1724758082,
+            "game": "https://www.chess.com/game/live/119359175513"
+        },
+        "record": {
+            "win": 208,
+            "loss": 131,
+            "draw": 36
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2708,
+            "date": 1725519166,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2712,
+            "date": 1725519005,
+            "game": "https://www.chess.com/game/live/81531176361"
+        },
+        "record": {
+            "win": 246,
+            "loss": 294,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2804,
+            "date": 1741466524,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2815,
+            "date": 1735154186,
+            "game": "https://www.chess.com/game/live/128211631195"
+        },
+        "record": {
+            "win": 1750,
+            "loss": 1679,
+            "draw": 291
+        }
+    },
+    "fide": 2413,
+    "tactics": {
+        "highest": {
+            "rating": 3246,
+            "date": 1717623599
+        },
+        "lowest": {
+            "rating": 2411,
+            "date": 1586711048
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 29
+        }
+    }
+}

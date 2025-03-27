@@ -1,0 +1,73 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76588350.cd0f07cf.200x200o.31b211c57ac7.jpg",
+    "player_id": 76588350,
+    "@id": "https://api.chess.com/pub/player/zuzannaklara",
+    "url": "https://www.chess.com/member/zuzannaklara",
+    "name": "Zuzanna Sieka\u0144ska",
+    "username": "zuzannaklara",
+    "title": "WCM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741639771,
+    "joined": 1586792203,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1944,
+            "date": 1739665621,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2044,
+            "date": 1728561265,
+            "game": "https://www.chess.com/game/live/126041401945"
+        },
+        "record": {
+            "win": 150,
+            "loss": 127,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1976,
+            "date": 1741128078,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2013,
+            "date": 1738106907,
+            "game": "https://www.chess.com/game/live/134260152193"
+        },
+        "record": {
+            "win": 77,
+            "loss": 100,
+            "draw": 6
+        }
+    },
+    "fide": 1881,
+    "tactics": {
+        "highest": {
+            "rating": 1936,
+            "date": 1740486461
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1634555233
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        },
+        "daily": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

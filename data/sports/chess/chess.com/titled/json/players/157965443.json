@@ -1,0 +1,84 @@
+{
+    "player_id": 157965443,
+    "@id": "https://api.chess.com/pub/player/wilsonpalencia21",
+    "url": "https://www.chess.com/member/WilsonPalencia21",
+    "name": "Wilson Morales",
+    "username": "wilsonpalencia21",
+    "title": "IM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/VE",
+    "last_online": 1741661556,
+    "joined": 1634183759,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2364,
+            "date": 1738286230,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1642962153,
+            "game": "https://www.chess.com/game/live/36700802825"
+        },
+        "record": {
+            "win": 15,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2566,
+            "date": 1738936156,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2569,
+            "date": 1738896649,
+            "game": "https://www.chess.com/game/live/105853783945"
+        },
+        "record": {
+            "win": 24,
+            "loss": 14,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2599,
+            "date": 1741399046,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1737481939,
+            "game": "https://www.chess.com/game/live/116112667781"
+        },
+        "record": {
+            "win": 609,
+            "loss": 451,
+            "draw": 93
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2759,
+            "date": 1678312362
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1634743619
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67352512.91ea4e60.200x200o.ac1831014762.jpeg",
+    "player_id": 67352512,
+    "@id": "https://api.chess.com/pub/player/gm_waskiri",
+    "url": "https://www.chess.com/member/GM_Waskiri",
+    "username": "gm_waskiri",
+    "title": "CM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741559777,
+    "joined": 1572520065,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2199,
+            "date": 1731334142,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2224,
+            "date": 1673972364,
+            "game": "https://www.chess.com/game/live/40674673295"
+        },
+        "record": {
+            "win": 200,
+            "loss": 151,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2070,
+            "date": 1739134791,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2382,
+            "date": 1666727208,
+            "game": "https://www.chess.com/game/live/59268572067"
+        },
+        "record": {
+            "win": 655,
+            "loss": 675,
+            "draw": 78
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2306,
+            "date": 1740785886,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1710200660,
+            "game": "https://www.chess.com/game/live/103685959805"
+        },
+        "record": {
+            "win": 660,
+            "loss": 512,
+            "draw": 60
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3364,
+            "date": 1674667131
+        },
+        "lowest": {
+            "rating": 417,
+            "date": 1572520493
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

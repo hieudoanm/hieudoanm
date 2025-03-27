@@ -1,0 +1,45 @@
+{
+    "player_id": 418573687,
+    "@id": "https://api.chess.com/pub/player/kaasboeropwielen",
+    "url": "https://www.chess.com/member/kaasboeropwielen",
+    "username": "kaasboeropwielen",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1740364258,
+    "joined": 1737136665,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2646,
+            "date": 1740366592,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1739236616,
+            "game": "https://www.chess.com/game/live/130980010161"
+        },
+        "record": {
+            "win": 17,
+            "loss": 2,
+            "draw": 4
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1737136665
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1737136665
+        }
+    },
+    "puzzle_rush": {}
+}

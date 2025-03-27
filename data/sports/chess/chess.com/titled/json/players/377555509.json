@@ -1,0 +1,55 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/377555509.f942e6b0.200x200o.a2425736b555.webp",
+    "player_id": 377555509,
+    "@id": "https://api.chess.com/pub/player/superpeach1234",
+    "url": "https://www.chess.com/member/SuperPeach1234",
+    "name": "Luna Yuexiu Xu",
+    "username": "superpeach1234",
+    "title": "WCM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/NZ",
+    "last_online": 1741682247,
+    "joined": 1722034477,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 1732,
+            "date": 1735024290,
+            "rd": 125
+        },
+        "best": {
+            "rating": 1830,
+            "date": 1735023381,
+            "game": "https://www.chess.com/game/live/128761975493"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3209,
+            "date": 1739593294
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1722034477
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        },
+        "daily": {
+            "total_attempts": 31,
+            "score": 28
+        }
+    }
+}

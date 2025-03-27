@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15945636.eb865532.200x200o.38b6645f59c1.jpeg",
+    "player_id": 15945636,
+    "@id": "https://api.chess.com/pub/player/gmelviro",
+    "url": "https://www.chess.com/member/gmelviro",
+    "name": "Emilio Viera",
+    "username": "gmelviro",
+    "title": "CM",
+    "followers": 171,
+    "country": "https://api.chess.com/pub/country/UY",
+    "location": "Maldonado",
+    "last_online": 1741127736,
+    "joined": 1391785658,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1692,
+            "date": 1715243306,
+            "rd": 51
+        },
+        "best": {
+            "rating": 1692,
+            "date": 1683690973,
+            "game": "https://www.chess.com/game/daily/510432451"
+        },
+        "record": {
+            "win": 59,
+            "loss": 13,
+            "draw": 5,
+            "time_per_move": 7373,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2204,
+            "date": 1739362430,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1723134461,
+            "game": "https://www.chess.com/game/live/116872776869"
+        },
+        "record": {
+            "win": 608,
+            "loss": 601,
+            "draw": 36
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2374,
+            "date": 1741695469,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1722965448,
+            "game": "https://www.chess.com/game/live/100738370847"
+        },
+        "record": {
+            "win": 10534,
+            "loss": 11637,
+            "draw": 1848
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3285,
+            "date": 1693847795
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1553738834
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

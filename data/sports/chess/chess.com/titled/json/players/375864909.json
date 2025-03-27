@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/375864909.8573521e.200x200o.2f03f677ab23.png",
+    "player_id": 375864909,
+    "@id": "https://api.chess.com/pub/player/monster-ratata",
+    "url": "https://www.chess.com/member/Monster-Ratata",
+    "username": "monster-ratata",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/BG",
+    "last_online": 1737264044,
+    "joined": 1721229030,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2305,
+            "date": 1736996128,
+            "rd": 165
+        },
+        "best": {
+            "rating": 2479,
+            "date": 1728331062,
+            "game": "https://www.chess.com/game/live/122069963109"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2137,
+            "date": 1733277967,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2232,
+            "date": 1725072252,
+            "game": "https://www.chess.com/game/live/118810223117"
+        },
+        "record": {
+            "win": 7,
+            "loss": 6,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1721229030
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1721229030
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

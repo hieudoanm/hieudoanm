@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15583262.cb972680.200x200o.3e0076d0d8de.png",
+    "player_id": 15583262,
+    "@id": "https://api.chess.com/pub/player/jyliu",
+    "url": "https://www.chess.com/member/jyliu",
+    "name": "Joanna Liu",
+    "username": "jyliu",
+    "title": "WIM",
+    "followers": 68,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1737926365,
+    "joined": 1389760780,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1929,
+            "date": 1717683138,
+            "rd": 132
+        },
+        "best": {
+            "rating": 1929,
+            "date": 1531002484,
+            "game": "https://www.chess.com/game/daily/196751758"
+        },
+        "record": {
+            "win": 19,
+            "loss": 4,
+            "draw": 3,
+            "time_per_move": 70224,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1781,
+            "date": 1692845093,
+            "rd": 164
+        },
+        "best": {
+            "rating": 1804,
+            "date": 1592080919,
+            "game": "https://www.chess.com/game/live/4997284350"
+        },
+        "record": {
+            "win": 8,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2068,
+            "date": 1739057790,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2255,
+            "date": 1731633581,
+            "game": "https://www.chess.com/game/live/67554286845"
+        },
+        "record": {
+            "win": 905,
+            "loss": 777,
+            "draw": 113
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2116,
+            "date": 1706309333,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2149,
+            "date": 1681393256,
+            "game": "https://www.chess.com/game/live/3751120810"
+        },
+        "record": {
+            "win": 150,
+            "loss": 86,
+            "draw": 23
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2797,
+            "date": 1560016500
+        },
+        "lowest": {
+            "rating": 1363,
+            "date": 1412874574
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 35
+        }
+    }
+}

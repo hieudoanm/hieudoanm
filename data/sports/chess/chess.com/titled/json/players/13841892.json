@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13841892.ef5a3e9f.200x200o.9be7d08d9073.jpg",
+    "player_id": 13841892,
+    "@id": "https://api.chess.com/pub/player/kleinebeer98",
+    "url": "https://www.chess.com/member/kleinebeer98",
+    "name": "Thomas Beerdsen",
+    "username": "kleinebeer98",
+    "title": "GM",
+    "followers": 254,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "Apeldoorn",
+    "last_online": 1741698701,
+    "joined": 1381387479,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2044,
+            "date": 1726999850,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1461130204,
+            "game": "https://www.chess.com/game/daily/241175082"
+        },
+        "record": {
+            "win": 487,
+            "loss": 298,
+            "draw": 86,
+            "time_per_move": 22608,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1540,
+            "date": 1713139135,
+            "rd": 64
+        },
+        "best": {
+            "rating": 1876,
+            "date": 1561833107,
+            "game": "https://www.chess.com/game/daily/204817872"
+        },
+        "record": {
+            "win": 67,
+            "loss": 44,
+            "draw": 2,
+            "time_per_move": 22608,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2550,
+            "date": 1727366843,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1585411244,
+            "game": "https://www.chess.com/game/live/114974338687"
+        },
+        "record": {
+            "win": 54,
+            "loss": 31,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3006,
+            "date": 1739268046,
+            "rd": 41
+        },
+        "best": {
+            "rating": 3025,
+            "date": 1717110533,
+            "game": "https://www.chess.com/game/live/131564433157"
+        },
+        "record": {
+            "win": 3519,
+            "loss": 2310,
+            "draw": 303
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2821,
+            "date": 1739293860,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2993,
+            "date": 1715279469,
+            "game": "https://www.chess.com/game/live/126984646245"
+        },
+        "record": {
+            "win": 1558,
+            "loss": 906,
+            "draw": 209
+        }
+    },
+    "fide": 2524,
+    "tactics": {
+        "highest": {
+            "rating": 3210,
+            "date": 1714745062
+        },
+        "lowest": {
+            "rating": 1430,
+            "date": 1383719843
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1891325.1b8126b6.200x200o.b0986152e8ce.jpg",
+    "player_id": 1891325,
+    "@id": "https://api.chess.com/pub/player/simplydevina",
+    "url": "https://www.chess.com/member/SimplyDevina",
+    "name": "Devina Devagharan",
+    "username": "simplydevina",
+    "title": "WFM",
+    "followers": 1269,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741702465,
+    "joined": 1240753160,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/simplydevina",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/simplydevina"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1713961753,
+            "rd": 221
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1406564704,
+            "game": "https://www.chess.com/game/daily/92842748"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 62558,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2288,
+            "date": 1741316572,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1693869613,
+            "game": "https://www.chess.com/game/live/103485245693"
+        },
+        "record": {
+            "win": 151,
+            "loss": 142,
+            "draw": 45
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2487,
+            "date": 1741647237,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1728438791,
+            "game": "https://www.chess.com/game/live/97704558957"
+        },
+        "record": {
+            "win": 5939,
+            "loss": 6011,
+            "draw": 1239
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1741659738,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2616,
+            "date": 1737505917,
+            "game": "https://www.chess.com/game/live/96762078067"
+        },
+        "record": {
+            "win": 2028,
+            "loss": 1963,
+            "draw": 456
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3291,
+            "date": 1702934066
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1424640324
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

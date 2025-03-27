@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/345053363.960c9fb8.200x200o.6b9869204a11.jpg",
+    "player_id": 345053363,
+    "@id": "https://api.chess.com/pub/player/mrpedegru25",
+    "url": "https://www.chess.com/member/MRPedegru25",
+    "name": "Alisher Abdsattar",
+    "username": "mrpedegru25",
+    "title": "CM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "location": "Astana",
+    "last_online": 1741253859,
+    "joined": 1707826575,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2320,
+            "date": 1731530654,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2386,
+            "date": 1727111827,
+            "game": "https://www.chess.com/game/live/120849653027"
+        },
+        "record": {
+            "win": 15,
+            "loss": 11,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2576,
+            "date": 1740994454,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1731434329,
+            "game": "https://www.chess.com/game/live/123952866543"
+        },
+        "record": {
+            "win": 129,
+            "loss": 94,
+            "draw": 18
+        }
+    },
+    "fide": 2025,
+    "tactics": {
+        "highest": {
+            "rating": 2066,
+            "date": 1732524429
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1707826575
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 36
+        }
+    }
+}

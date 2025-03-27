@@ -1,0 +1,103 @@
+{
+    "player_id": 35801208,
+    "@id": "https://api.chess.com/pub/player/caracternin123",
+    "url": "https://www.chess.com/member/Caracternin123",
+    "name": "Santiago Avila Pavas",
+    "username": "caracternin123",
+    "title": "GM",
+    "followers": 447,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1733929996,
+    "joined": 1495713540,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1540,
+            "date": 1688547311,
+            "rd": 281
+        },
+        "best": {
+            "rating": 1540,
+            "date": 1580219404,
+            "game": "https://www.chess.com/game/daily/243419472"
+        },
+        "record": {
+            "win": 3,
+            "loss": 18,
+            "draw": 0,
+            "time_per_move": 101171,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2427,
+            "date": 1679337917,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2716,
+            "date": 1600212229,
+            "game": "https://www.chess.com/game/live/73071549083"
+        },
+        "record": {
+            "win": 19,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2836,
+            "date": 1733606773,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2952,
+            "date": 1718855457,
+            "game": "https://www.chess.com/game/live/113625011133"
+        },
+        "record": {
+            "win": 642,
+            "loss": 540,
+            "draw": 73
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2810,
+            "date": 1732829671,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2857,
+            "date": 1684108513,
+            "game": "https://www.chess.com/game/live/66505818011"
+        },
+        "record": {
+            "win": 2588,
+            "loss": 2403,
+            "draw": 439
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3911,
+            "date": 1694747838
+        },
+        "lowest": {
+            "rating": 418,
+            "date": 1544057637
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

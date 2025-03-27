@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25882398.42c7fabe.200x200o.e766568e4f53.jpeg",
+    "player_id": 25882398,
+    "@id": "https://api.chess.com/pub/player/wnstop",
+    "url": "https://www.chess.com/member/wnstop",
+    "name": "Zaur Tekeyev",
+    "username": "wnstop",
+    "title": "IM",
+    "followers": 409,
+    "country": "https://api.chess.com/pub/country/MV",
+    "location": "Stavropol",
+    "last_online": 1741279799,
+    "joined": 1451648901,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2270,
+            "date": 1735841683,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2468,
+            "date": 1590769467,
+            "game": "https://www.chess.com/game/live/4929140162"
+        },
+        "record": {
+            "win": 15,
+            "loss": 6,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2762,
+            "date": 1737077110,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2871,
+            "date": 1705354023,
+            "game": "https://www.chess.com/game/live/99102259915"
+        },
+        "record": {
+            "win": 603,
+            "loss": 278,
+            "draw": 63
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2805,
+            "date": 1740177025,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2868,
+            "date": 1711072502,
+            "game": "https://www.chess.com/game/live/124218558481"
+        },
+        "record": {
+            "win": 6791,
+            "loss": 5122,
+            "draw": 1014
+        }
+    },
+    "fide": 2420,
+    "tactics": {
+        "highest": {
+            "rating": 2826,
+            "date": 1569091525
+        },
+        "lowest": {
+            "rating": 1366,
+            "date": 1478984095
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 86,
+            "score": 83
+        }
+    }
+}

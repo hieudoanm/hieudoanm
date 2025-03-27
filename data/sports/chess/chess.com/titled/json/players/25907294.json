@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25907294.dfac24c9.200x200o.ed4f525e7795.jpeg",
+    "player_id": 25907294,
+    "@id": "https://api.chess.com/pub/player/pouya21",
+    "url": "https://www.chess.com/member/pouya21",
+    "name": "Pouya Idani",
+    "username": "pouya21",
+    "title": "GM",
+    "followers": 453,
+    "country": "https://api.chess.com/pub/country/IR",
+    "location": "Ahvaz",
+    "last_online": 1740748917,
+    "joined": 1451756714,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2564,
+            "date": 1727292508,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1586112953,
+            "game": "https://www.chess.com/game/live/88800226453"
+        },
+        "record": {
+            "win": 24,
+            "loss": 18,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2886,
+            "date": 1728236939,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2886,
+            "date": 1728236939,
+            "game": "https://www.chess.com/game/live/7829692471"
+        },
+        "record": {
+            "win": 77,
+            "loss": 66,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2930,
+            "date": 1731456216,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2931,
+            "date": 1716047472,
+            "game": "https://www.chess.com/game/live/124585113865"
+        },
+        "record": {
+            "win": 531,
+            "loss": 319,
+            "draw": 101
+        }
+    },
+    "fide": 2588,
+    "tactics": {
+        "highest": {
+            "rating": 3148,
+            "date": 1697114109
+        },
+        "lowest": {
+            "rating": 1204,
+            "date": 1519649021
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 91,
+            "score": 88
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/209384933.6ff9a947.200x200o.4d9abaaba654.jpg",
+    "player_id": 209384933,
+    "@id": "https://api.chess.com/pub/player/mklose11",
+    "url": "https://www.chess.com/member/MKlose11",
+    "name": "Alberto Martin Fuentes",
+    "username": "mklose11",
+    "title": "FM",
+    "followers": 89,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741625573,
+    "joined": 1669760274,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2225,
+            "date": 1684167085,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2558,
+            "date": 1677517862,
+            "game": "https://www.chess.com/game/live/71255799447"
+        },
+        "record": {
+            "win": 6,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2492,
+            "date": 1700333523,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2620,
+            "date": 1675846536,
+            "game": "https://www.chess.com/game/live/81970160479"
+        },
+        "record": {
+            "win": 55,
+            "loss": 65,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2705,
+            "date": 1741367743,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2829,
+            "date": 1734976581,
+            "game": "https://www.chess.com/game/live/127936812085"
+        },
+        "record": {
+            "win": 1893,
+            "loss": 1948,
+            "draw": 472
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2464,
+            "date": 1675598994
+        },
+        "lowest": {
+            "rating": 2205,
+            "date": 1673861496
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

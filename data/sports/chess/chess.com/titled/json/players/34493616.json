@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34493616.3fd976d8.200x200o.259d0bda56c5.jpeg",
+    "player_id": 34493616,
+    "@id": "https://api.chess.com/pub/player/blackmind96",
+    "url": "https://www.chess.com/member/Blackmind96",
+    "name": "Amir Mohammad Hamidi",
+    "username": "blackmind96",
+    "title": "FM",
+    "followers": 4363,
+    "country": "https://api.chess.com/pub/country/IR",
+    "location": "Arak",
+    "last_online": 1741652074,
+    "joined": 1491242669,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2006,
+            "date": 1736328528,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1539127160,
+            "game": "https://www.chess.com/game/daily/206246462"
+        },
+        "record": {
+            "win": 87,
+            "loss": 23,
+            "draw": 9,
+            "time_per_move": 14556,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1131,
+            "date": 1509829214,
+            "rd": 213
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 14556,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2136,
+            "date": 1736019544,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2136,
+            "date": 1713472478,
+            "game": "https://www.chess.com/game/live/5936163512"
+        },
+        "record": {
+            "win": 28,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3204,
+            "date": 1741653087,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3204,
+            "date": 1740868451,
+            "game": "https://www.chess.com/game/live/80457676603"
+        },
+        "record": {
+            "win": 12790,
+            "loss": 12158,
+            "draw": 1942
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2913,
+            "date": 1741651197,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2944,
+            "date": 1728051890,
+            "game": "https://www.chess.com/game/live/77463672289"
+        },
+        "record": {
+            "win": 2147,
+            "loss": 1609,
+            "draw": 485
+        }
+    },
+    "fide": 2299,
+    "tactics": {
+        "highest": {
+            "rating": 2911,
+            "date": 1561117852
+        },
+        "lowest": {
+            "rating": 0,
+            "date": 1496394642
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2894210.9a7456c0.200x200o.7f45771120e2.png",
+    "player_id": 2894210,
+    "@id": "https://api.chess.com/pub/player/ryan_young",
+    "url": "https://www.chess.com/member/Ryan_Young",
+    "name": "Ryan Young",
+    "username": "ryan_young",
+    "title": "NM",
+    "followers": 226,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Boston, MA",
+    "last_online": 1741701431,
+    "joined": 1275930072,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2060,
+            "date": 1734817302,
+            "rd": 206
+        },
+        "best": {
+            "rating": 2060,
+            "date": 1730550356,
+            "game": "https://www.chess.com/game/daily/342734247"
+        },
+        "record": {
+            "win": 87,
+            "loss": 8,
+            "draw": 3,
+            "time_per_move": 19440,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1485922805,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 19440,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2161,
+            "date": 1735840560,
+            "rd": 162
+        },
+        "best": {
+            "rating": 2244,
+            "date": 1600021920,
+            "game": "https://www.chess.com/game/live/5670504491"
+        },
+        "record": {
+            "win": 80,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2253,
+            "date": 1737763294,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2422,
+            "date": 1616777914,
+            "game": "https://www.chess.com/game/live/20203275169"
+        },
+        "record": {
+            "win": 730,
+            "loss": 549,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2444,
+            "date": 1741701846,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2559,
+            "date": 1737840444,
+            "game": "https://www.chess.com/game/live/65313114939"
+        },
+        "record": {
+            "win": 11418,
+            "loss": 10316,
+            "draw": 1800
+        }
+    },
+    "fide": 2212,
+    "tactics": {
+        "highest": {
+            "rating": 3409,
+            "date": 1728843225
+        },
+        "lowest": {
+            "rating": 1382,
+            "date": 1354831971
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

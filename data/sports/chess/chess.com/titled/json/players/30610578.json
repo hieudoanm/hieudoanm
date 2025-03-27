@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30610578.e05f2196.200x200o.3948baec540a.jpeg",
+    "player_id": 30610578,
+    "@id": "https://api.chess.com/pub/player/1977ivan",
+    "url": "https://www.chess.com/member/1977Ivan",
+    "name": "Ivan Ivanisevic",
+    "username": "1977ivan",
+    "title": "GM",
+    "followers": 243,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Belgrade",
+    "last_online": 1733674364,
+    "joined": 1477565847,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2372,
+            "date": 1727292201,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1597419135,
+            "game": "https://www.chess.com/game/live/69022308373"
+        },
+        "record": {
+            "win": 14,
+            "loss": 18,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2650,
+            "date": 1597410578,
+            "rd": 209
+        },
+        "best": {
+            "rating": 2075,
+            "date": 1587319601,
+            "game": "https://www.chess.com/game/live/4743965043"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2800,
+            "date": 1733675358,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2875,
+            "date": 1713368101,
+            "game": "https://www.chess.com/game/live/56222072419"
+        },
+        "record": {
+            "win": 1201,
+            "loss": 703,
+            "draw": 163
+        }
+    },
+    "fide": 2641,
+    "tactics": {
+        "highest": {
+            "rating": 2713,
+            "date": 1595628420
+        },
+        "lowest": {
+            "rating": 1812,
+            "date": 1595623512
+        }
+    },
+    "puzzle_rush": {}
+}

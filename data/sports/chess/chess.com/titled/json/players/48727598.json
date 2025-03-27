@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48727598.03cbd48a.200x200o.be1d771307df.png",
+    "player_id": 48727598,
+    "@id": "https://api.chess.com/pub/player/theknightofbosnia",
+    "url": "https://www.chess.com/member/TheKnightOfBosnia",
+    "name": "Samuel Zenelaj",
+    "username": "theknightofbosnia",
+    "title": "FM",
+    "followers": 56,
+    "country": "https://api.chess.com/pub/country/BA",
+    "last_online": 1741618994,
+    "joined": 1534156750,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1681932737,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2330,
+            "date": 1649089116,
+            "game": "https://www.chess.com/game/live/34278686591"
+        },
+        "record": {
+            "win": 44,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1741621026,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2584,
+            "date": 1674260523,
+            "game": "https://www.chess.com/game/live/118254547379"
+        },
+        "record": {
+            "win": 554,
+            "loss": 351,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2545,
+            "date": 1741552802,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2656,
+            "date": 1676981297,
+            "game": "https://www.chess.com/game/live/94343557431"
+        },
+        "record": {
+            "win": 1164,
+            "loss": 1009,
+            "draw": 225
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3361,
+            "date": 1741005323
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1536488513
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "player_id": 206158327,
+    "@id": "https://api.chess.com/pub/player/sicilianpanzer",
+    "url": "https://www.chess.com/member/SicilianPanzer",
+    "name": "Vittorio Cin\u00e0",
+    "username": "sicilianpanzer",
+    "title": "NM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741124768,
+    "joined": 1668336119,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2054,
+            "date": 1690521740,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2288,
+            "date": 1689593565,
+            "game": "https://www.chess.com/game/live/83331449151"
+        },
+        "record": {
+            "win": 4,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2469,
+            "date": 1740243993,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2493,
+            "date": 1737828173,
+            "game": "https://www.chess.com/game/live/68668375061"
+        },
+        "record": {
+            "win": 134,
+            "loss": 162,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2482,
+            "date": 1741125681,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1739718135,
+            "game": "https://www.chess.com/game/live/132424291027"
+        },
+        "record": {
+            "win": 222,
+            "loss": 261,
+            "draw": 39
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2847,
+            "date": 1736513466
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1668336119
+        }
+    },
+    "puzzle_rush": {}
+}

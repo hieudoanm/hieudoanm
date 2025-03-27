@@ -1,0 +1,48 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/300667375.026444bb.200x200o.78bbc6c83006.jpg",
+    "player_id": 300667375,
+    "@id": "https://api.chess.com/pub/player/homayooont",
+    "url": "https://www.chess.com/member/HomayooonT",
+    "name": "Homayoon Toufighi",
+    "username": "homayooont",
+    "title": "GM",
+    "followers": 248,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "Antalya",
+    "last_online": 1741687855,
+    "joined": 1689702124,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3002,
+            "date": 1741216740,
+            "rd": 39
+        },
+        "best": {
+            "rating": 3023,
+            "date": 1740953178,
+            "game": "https://www.chess.com/game/live/96204180151"
+        },
+        "record": {
+            "win": 533,
+            "loss": 298,
+            "draw": 32
+        }
+    },
+    "fide": 3000,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1689702124
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1689702124
+        }
+    },
+    "puzzle_rush": {}
+}

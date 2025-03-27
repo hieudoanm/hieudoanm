@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73587162.fcba9e04.200x200o.42a867ced0f8.jpg",
+    "player_id": 73587162,
+    "@id": "https://api.chess.com/pub/player/wilhelm_steinitz86",
+    "url": "https://www.chess.com/member/Wilhelm_Steinitz86",
+    "name": "Alman Durakovic",
+    "username": "wilhelm_steinitz86",
+    "title": "FM",
+    "followers": 84,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1741686942,
+    "joined": 1584299185,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2239,
+            "date": 1738434147,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2482,
+            "date": 1625682849,
+            "game": "https://www.chess.com/game/live/132170439067"
+        },
+        "record": {
+            "win": 26,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2608,
+            "date": 1740496395,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1738756500,
+            "game": "https://www.chess.com/game/live/112135248503"
+        },
+        "record": {
+            "win": 518,
+            "loss": 475,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1739996981,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1739385794,
+            "game": "https://www.chess.com/game/live/97509701619"
+        },
+        "record": {
+            "win": 592,
+            "loss": 530,
+            "draw": 86
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 2374,
+            "date": 1684928740
+        },
+        "lowest": {
+            "rating": 2275,
+            "date": 1595598299
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 55
+        },
+        "daily": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

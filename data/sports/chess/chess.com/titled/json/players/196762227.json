@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/196762227.5a690426.200x200o.052ef824c2cd.jpg",
+    "player_id": 196762227,
+    "@id": "https://api.chess.com/pub/player/newchess1213",
+    "url": "https://www.chess.com/member/newChess1213",
+    "name": "Peter Williams",
+    "username": "newchess1213",
+    "title": "CM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "UK",
+    "last_online": 1741696321,
+    "joined": 1662877263,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2279,
+            "date": 1741189275,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2348,
+            "date": 1733414593,
+            "game": "https://www.chess.com/game/live/128864561639"
+        },
+        "record": {
+            "win": 161,
+            "loss": 128,
+            "draw": 28
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2537,
+            "date": 1741702103,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2624,
+            "date": 1739733008,
+            "game": "https://www.chess.com/game/live/133457348121"
+        },
+        "record": {
+            "win": 2435,
+            "loss": 2647,
+            "draw": 433
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2356,
+            "date": 1741625620,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2494,
+            "date": 1741125988,
+            "game": "https://www.chess.com/game/live/134864351539"
+        },
+        "record": {
+            "win": 526,
+            "loss": 533,
+            "draw": 93
+        }
+    },
+    "fide": 2238,
+    "tactics": {
+        "highest": {
+            "rating": 2840,
+            "date": 1734092175
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1662877263
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 20,
+            "score": 17
+        }
+    }
+}

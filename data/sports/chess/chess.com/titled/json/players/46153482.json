@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46153482.18ab46bd.200x200o.696cc72fe1a8.jpeg",
+    "player_id": 46153482,
+    "@id": "https://api.chess.com/pub/player/nenad2911",
+    "url": "https://www.chess.com/member/Nenad2911",
+    "name": "Nenad Dimitrijevic",
+    "username": "nenad2911",
+    "title": "FM",
+    "followers": 288,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Novi Sad",
+    "last_online": 1741684568,
+    "joined": 1526237806,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 872,
+            "date": 1738674414,
+            "rd": 150
+        },
+        "best": {
+            "rating": 1148,
+            "date": 1736967942,
+            "game": "https://www.chess.com/game/daily/691341645"
+        },
+        "record": {
+            "win": 5,
+            "loss": 11,
+            "draw": 0,
+            "time_per_move": 135884,
+            "timeout_percent": 71
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2182,
+            "date": 1741637004,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2461,
+            "date": 1658161311,
+            "game": "https://www.chess.com/game/live/114647872895"
+        },
+        "record": {
+            "win": 612,
+            "loss": 349,
+            "draw": 145
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2350,
+            "date": 1653768297,
+            "rd": 204
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1653768297,
+            "game": "https://www.chess.com/game/live/3714125504"
+        },
+        "record": {
+            "win": 12,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2405,
+            "date": 1741012772,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1625392818,
+            "game": "https://www.chess.com/game/live/4641368788"
+        },
+        "record": {
+            "win": 4211,
+            "loss": 3466,
+            "draw": 1006
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2497,
+            "date": 1682622626
+        },
+        "lowest": {
+            "rating": 2190,
+            "date": 1617388273
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

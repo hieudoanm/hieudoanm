@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/203264829.54463a6e.200x200o.220dd7a1a0c1.jpeg",
+    "player_id": 203264829,
+    "@id": "https://api.chess.com/pub/player/garayevkanan",
+    "url": "https://www.chess.com/member/GarayevKanan",
+    "name": "Kanan Garayev",
+    "username": "garayevkanan",
+    "title": "IM",
+    "followers": 124,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741701275,
+    "joined": 1666712639,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1646,
+            "date": 1737704803,
+            "rd": 320
+        },
+        "best": {
+            "rating": 1646,
+            "date": 1737704803,
+            "game": "https://www.chess.com/game/daily/610841791"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 381366,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2446,
+            "date": 1740510588,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2508,
+            "date": 1695054450,
+            "game": "https://www.chess.com/game/live/88788157853"
+        },
+        "record": {
+            "win": 23,
+            "loss": 13,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2866,
+            "date": 1741608334,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3037,
+            "date": 1729279277,
+            "game": "https://www.chess.com/game/live/111758580137"
+        },
+        "record": {
+            "win": 1518,
+            "loss": 1252,
+            "draw": 245
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2816,
+            "date": 1741382577,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2875,
+            "date": 1724401203,
+            "game": "https://www.chess.com/game/live/134243344775"
+        },
+        "record": {
+            "win": 528,
+            "loss": 375,
+            "draw": 87
+        }
+    },
+    "fide": 2344,
+    "tactics": {
+        "highest": {
+            "rating": 3339,
+            "date": 1709913227
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1666719145
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

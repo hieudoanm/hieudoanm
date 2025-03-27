@@ -1,0 +1,85 @@
+{
+    "player_id": 63630244,
+    "@id": "https://api.chess.com/pub/player/ppupkin",
+    "url": "https://www.chess.com/member/Ppupkin",
+    "name": "Pavel Kolar",
+    "username": "ppupkin",
+    "title": "CM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "location": "Lys\u00e1 nad Labem",
+    "last_online": 1741459565,
+    "joined": 1564038376,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2192,
+            "date": 1613927044,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1613760809,
+            "game": "https://www.chess.com/game/live/5506138871"
+        },
+        "record": {
+            "win": 16,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1841,
+            "date": 1741459877,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2040,
+            "date": 1656844826,
+            "game": "https://www.chess.com/game/live/5537298615"
+        },
+        "record": {
+            "win": 680,
+            "loss": 471,
+            "draw": 46
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2081,
+            "date": 1741636974,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1707421911,
+            "game": "https://www.chess.com/game/live/5630506412"
+        },
+        "record": {
+            "win": 1296,
+            "loss": 876,
+            "draw": 194
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3558,
+            "date": 1718262023
+        },
+        "lowest": {
+            "rating": 415,
+            "date": 1564038562
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

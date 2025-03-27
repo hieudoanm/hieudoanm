@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18592316.289a0acd.200x200o.d0d0968a9aab.jpg",
+    "player_id": 18592316,
+    "@id": "https://api.chess.com/pub/player/mariaa2",
+    "url": "https://www.chess.com/member/mariaa2",
+    "name": "Maria Leks",
+    "username": "mariaa2",
+    "title": "WFM",
+    "followers": 950,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741360875,
+    "joined": 1408655989,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2146,
+            "date": 1740033524,
+            "rd": 149
+        },
+        "best": {
+            "rating": 2288,
+            "date": 1590253345,
+            "game": "https://www.chess.com/game/live/4896942116"
+        },
+        "record": {
+            "win": 17,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2237,
+            "date": 1740590023,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2274,
+            "date": 1728061266,
+            "game": "https://www.chess.com/game/live/3036674823"
+        },
+        "record": {
+            "win": 621,
+            "loss": 477,
+            "draw": 75
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2389,
+            "date": 1728477387
+        },
+        "lowest": {
+            "rating": 1189,
+            "date": 1506352704
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

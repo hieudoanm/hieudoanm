@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/78047672.23bf2770.200x200o.710f57e65d52.jpeg",
+    "player_id": 78047672,
+    "@id": "https://api.chess.com/pub/player/arya1009",
+    "url": "https://www.chess.com/member/Arya1009",
+    "name": "Wish Big",
+    "username": "arya1009",
+    "title": "WCM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/AE",
+    "last_online": 1740908033,
+    "joined": 1588087620,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1080,
+            "date": 1739673680,
+            "rd": 86
+        },
+        "best": {
+            "rating": 1399,
+            "date": 1596714018,
+            "game": "https://www.chess.com/game/live/5158042426"
+        },
+        "record": {
+            "win": 49,
+            "loss": 33,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1104,
+            "date": 1724225156,
+            "rd": 150
+        },
+        "best": {
+            "rating": 1494,
+            "date": 1607069004,
+            "game": "https://www.chess.com/game/live/12404264071"
+        },
+        "record": {
+            "win": 16,
+            "loss": 18,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1222,
+            "date": 1741632283,
+            "rd": 44
+        },
+        "best": {
+            "rating": 1652,
+            "date": 1588171327,
+            "game": "https://www.chess.com/game/live/13282406411"
+        },
+        "record": {
+            "win": 174,
+            "loss": 155,
+            "draw": 17
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2241,
+            "date": 1740465789
+        },
+        "lowest": {
+            "rating": 818,
+            "date": 1594543288
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

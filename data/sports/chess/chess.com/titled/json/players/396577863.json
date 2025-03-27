@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/396577863.061a407f.200x200o.f6268ce1d742.jpg",
+    "player_id": 396577863,
+    "@id": "https://api.chess.com/pub/player/wintun1979",
+    "url": "https://www.chess.com/member/WinTun1979",
+    "name": "Win Tun",
+    "username": "wintun1979",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/MM",
+    "last_online": 1741234999,
+    "joined": 1729235675,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2230,
+            "date": 1740999921,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2222,
+            "date": 1741683310,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2247,
+            "date": 1732948601,
+            "game": "https://www.chess.com/game/live/132569386069"
+        },
+        "record": {
+            "win": 186,
+            "loss": 103,
+            "draw": 16
+        }
+    },
+    "fide": 2233,
+    "tactics": {
+        "highest": {
+            "rating": 2608,
+            "date": 1736161086
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1729235675
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        },
+        "daily": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

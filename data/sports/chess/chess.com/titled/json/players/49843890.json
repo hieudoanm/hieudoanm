@@ -1,0 +1,83 @@
+{
+    "player_id": 49843890,
+    "@id": "https://api.chess.com/pub/player/bratkoo",
+    "url": "https://www.chess.com/member/bratkoo",
+    "username": "bratkoo",
+    "title": "IM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1740413082,
+    "joined": 1537213040,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2209,
+            "date": 1622819827,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2326,
+            "date": 1590769080,
+            "game": "https://www.chess.com/game/live/4924544364"
+        },
+        "record": {
+            "win": 7,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2314,
+            "date": 1740158498,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2343,
+            "date": 1725613479,
+            "game": "https://www.chess.com/game/live/119352045905"
+        },
+        "record": {
+            "win": 13,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2565,
+            "date": 1687004489,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1660064195,
+            "game": "https://www.chess.com/game/live/28402884007"
+        },
+        "record": {
+            "win": 478,
+            "loss": 396,
+            "draw": 63
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3516,
+            "date": 1730479427
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1537213224
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 82,
+            "score": 79
+        }
+    }
+}

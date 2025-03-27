@@ -1,0 +1,103 @@
+{
+    "player_id": 74825592,
+    "@id": "https://api.chess.com/pub/player/zezacarias",
+    "url": "https://www.chess.com/member/ZeZacarias",
+    "name": "Afonso Rodrigues",
+    "username": "zezacarias",
+    "title": "NM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/PT",
+    "last_online": 1740240982,
+    "joined": 1585411650,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2211,
+            "date": 1710491391,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2211,
+            "date": 1678880197,
+            "game": "https://www.chess.com/game/daily/486490179"
+        },
+        "record": {
+            "win": 15,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 3953,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2178,
+            "date": 1679504178,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2353,
+            "date": 1589570340,
+            "game": "https://www.chess.com/game/live/72471204133"
+        },
+        "record": {
+            "win": 21,
+            "loss": 18,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2005,
+            "date": 1740243731,
+            "rd": 156
+        },
+        "best": {
+            "rating": 2104,
+            "date": 1677913921,
+            "game": "https://www.chess.com/game/live/71652714957"
+        },
+        "record": {
+            "win": 9,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2197,
+            "date": 1741645195,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2268,
+            "date": 1709759534,
+            "game": "https://www.chess.com/game/live/104499655225"
+        },
+        "record": {
+            "win": 885,
+            "loss": 907,
+            "draw": 90
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3080,
+            "date": 1722898960
+        },
+        "lowest": {
+            "rating": 818,
+            "date": 1586878390
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

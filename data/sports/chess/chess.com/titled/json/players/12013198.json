@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12013198.863e1adc.200x200o.c5bbcd2ac249.gif",
+    "player_id": 12013198,
+    "@id": "https://api.chess.com/pub/player/chessnsk",
+    "url": "https://www.chess.com/member/chessnsk",
+    "username": "chessnsk",
+    "title": "IM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Novosibirsk",
+    "last_online": 1734085055,
+    "joined": 1369452146,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2113,
+            "date": 1551926023,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2124,
+            "date": 1547001570,
+            "game": "https://www.chess.com/game/live/2887341803"
+        },
+        "record": {
+            "win": 73,
+            "loss": 24,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2536,
+            "date": 1738309830,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2566,
+            "date": 1645846838,
+            "game": "https://www.chess.com/game/live/39193839893"
+        },
+        "record": {
+            "win": 274,
+            "loss": 210,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2546,
+            "date": 1637550439,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1637550071,
+            "game": "https://www.chess.com/game/live/30188948405"
+        },
+        "record": {
+            "win": 127,
+            "loss": 61,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3028,
+            "date": 1542607240
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1520330977
+        }
+    },
+    "puzzle_rush": {}
+}

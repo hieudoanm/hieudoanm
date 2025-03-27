@@ -1,0 +1,67 @@
+{
+    "player_id": 72716848,
+    "@id": "https://api.chess.com/pub/player/superchthonic",
+    "url": "https://www.chess.com/member/superchthonic",
+    "name": "Alfonso Jose Alfaro Rojas",
+    "username": "superchthonic",
+    "title": "FM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/CR",
+    "last_online": 1741599061,
+    "joined": 1582726459,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2802,
+            "date": 1739527505,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2832,
+            "date": 1739477556,
+            "game": "https://www.chess.com/game/live/133053555045"
+        },
+        "record": {
+            "win": 2427,
+            "loss": 3256,
+            "draw": 377
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2704,
+            "date": 1741637519,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2776,
+            "date": 1685369123,
+            "game": "https://www.chess.com/game/live/106423071403"
+        },
+        "record": {
+            "win": 4124,
+            "loss": 5085,
+            "draw": 867
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3102,
+            "date": 1685438355
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1582726459
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "player_id": 78733330,
+    "@id": "https://api.chess.com/pub/player/n18player",
+    "url": "https://www.chess.com/member/N18player",
+    "name": "Nikolas Koutlas",
+    "username": "n18player",
+    "title": "FM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1741295290,
+    "joined": 1588767311,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1375,
+            "date": 1664699355,
+            "rd": 255
+        },
+        "record": {
+            "win": 2,
+            "loss": 16,
+            "draw": 0,
+            "time_per_move": 69023,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2054,
+            "date": 1734563002,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2054,
+            "date": 1641125217,
+            "game": "https://www.chess.com/game/live/34862395191"
+        },
+        "record": {
+            "win": 44,
+            "loss": 19,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2297,
+            "date": 1664642900,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2297,
+            "date": 1664642900,
+            "game": "https://www.chess.com/game/live/58381820475"
+        },
+        "record": {
+            "win": 42,
+            "loss": 18,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2626,
+            "date": 1741299545,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1725809927,
+            "game": "https://www.chess.com/game/live/62288450939"
+        },
+        "record": {
+            "win": 1084,
+            "loss": 1060,
+            "draw": 134
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3410,
+            "date": 1647374289
+        },
+        "lowest": {
+            "rating": 1018,
+            "date": 1588782389
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

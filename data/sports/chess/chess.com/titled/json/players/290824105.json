@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/290824105.d8cc7150.200x200o.3b838945195d.jpg",
+    "player_id": 290824105,
+    "@id": "https://api.chess.com/pub/player/gretercr006",
+    "url": "https://www.chess.com/member/GreterCR006",
+    "name": "Greter Caballero Ramos",
+    "username": "gretercr006",
+    "title": "WFM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "Mayabeque",
+    "last_online": 1741545321,
+    "joined": 1685800008,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2221,
+            "date": 1738540745,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1738010263,
+            "game": "https://www.chess.com/game/live/131747391429"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2071,
+            "date": 1736894872,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2153,
+            "date": 1736894472,
+            "game": "https://www.chess.com/game/live/130165819751"
+        },
+        "record": {
+            "win": 4,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2253,
+            "date": 1738005808,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1738005808,
+            "game": "https://www.chess.com/game/live/131744357411"
+        },
+        "record": {
+            "win": 27,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "fide": 2211,
+    "tactics": {
+        "highest": {
+            "rating": 519,
+            "date": 1724871558
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1685800008
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 23,
+            "score": 22
+        }
+    }
+}

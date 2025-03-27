@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/384504217.a64d00c1.200x200o.ca562a3267a7.png",
+    "player_id": 384504217,
+    "@id": "https://api.chess.com/pub/player/arun-kataria",
+    "url": "https://www.chess.com/member/Arun-kataria",
+    "name": "Arun Kataria",
+    "username": "arun-kataria",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Udaipur",
+    "last_online": 1741691024,
+    "joined": 1725147730,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2376,
+            "date": 1740190804,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2376,
+            "date": 1726072025,
+            "game": "https://www.chess.com/game/live/133928943563"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2249,
+            "date": 1741455275,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1726136760,
+            "game": "https://www.chess.com/game/live/134587760421"
+        },
+        "record": {
+            "win": 107,
+            "loss": 79,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2574,
+            "date": 1741368978,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2595,
+            "date": 1741106252,
+            "game": "https://www.chess.com/game/live/132423681383"
+        },
+        "record": {
+            "win": 72,
+            "loss": 73,
+            "draw": 16
+        }
+    },
+    "fide": 2384,
+    "tactics": {
+        "highest": {
+            "rating": 2460,
+            "date": 1739644664
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1725147730
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 24,
+            "score": 21
+        }
+    }
+}

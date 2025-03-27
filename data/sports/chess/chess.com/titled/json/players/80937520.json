@@ -1,0 +1,86 @@
+{
+    "player_id": 80937520,
+    "@id": "https://api.chess.com/pub/player/pangtao",
+    "url": "https://www.chess.com/member/pangtao",
+    "name": "Tao Pang",
+    "username": "pangtao",
+    "title": "IM",
+    "followers": 37,
+    "country": "https://api.chess.com/pub/country/CN",
+    "location": "China",
+    "last_online": 1741160675,
+    "joined": 1590827509,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2430,
+            "date": 1711185809,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2430,
+            "date": 1711179647,
+            "game": "https://www.chess.com/game/live/24756741843"
+        },
+        "record": {
+            "win": 42,
+            "loss": 13,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2571,
+            "date": 1722290322,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2682,
+            "date": 1718048632,
+            "game": "https://www.chess.com/game/live/111787405751"
+        },
+        "record": {
+            "win": 168,
+            "loss": 95,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2808,
+            "date": 1730117180,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2808,
+            "date": 1730117180,
+            "game": "https://www.chess.com/game/live/40270233183"
+        },
+        "record": {
+            "win": 1292,
+            "loss": 838,
+            "draw": 227
+        }
+    },
+    "fide": 2430,
+    "tactics": {
+        "highest": {
+            "rating": 4093,
+            "date": 1711523744
+        },
+        "lowest": {
+            "rating": 421,
+            "date": 1590833275
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/177665855.c4e8fbbc.200x200o.4cf5ef41602a.png",
+    "player_id": 177665855,
+    "@id": "https://api.chess.com/pub/player/lord4hire",
+    "url": "https://www.chess.com/member/Lord4hire",
+    "name": "Sarvadh Sathiaram",
+    "username": "lord4hire",
+    "title": "CM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Chennai",
+    "last_online": 1739522267,
+    "joined": 1648042787,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1734172467,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2391,
+            "date": 1681991959,
+            "game": "https://www.chess.com/game/live/102206170159"
+        },
+        "record": {
+            "win": 13,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2127,
+            "date": 1736281027,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1735964535,
+            "game": "https://www.chess.com/game/live/74356923745"
+        },
+        "record": {
+            "win": 405,
+            "loss": 393,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2069,
+            "date": 1739522856,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2259,
+            "date": 1648208691,
+            "game": "https://www.chess.com/game/live/53604045067"
+        },
+        "record": {
+            "win": 228,
+            "loss": 218,
+            "draw": 56
+        }
+    },
+    "fide": 2199,
+    "tactics": {
+        "highest": {
+            "rating": 3079,
+            "date": 1739227227
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1650596753
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "player_id": 85977932,
+    "@id": "https://api.chess.com/pub/player/waterisgood1",
+    "url": "https://www.chess.com/member/waterisgood1",
+    "name": "Maximillian Lu",
+    "username": "waterisgood1",
+    "title": "IM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741496972,
+    "joined": 1594073800,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1691,
+            "date": 1741568932,
+            "rd": 167
+        },
+        "best": {
+            "rating": 2007,
+            "date": 1729350642,
+            "game": "https://www.chess.com/game/daily/726054727"
+        },
+        "record": {
+            "win": 10,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 19957,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2404,
+            "date": 1733762066,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2081,
+            "date": 1596421658,
+            "game": "https://www.chess.com/game/live/5242661257"
+        },
+        "record": {
+            "win": 4,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2677,
+            "date": 1741498319,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1734845849,
+            "game": "https://www.chess.com/game/live/128494372633"
+        },
+        "record": {
+            "win": 130,
+            "loss": 46,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2677,
+            "date": 1741318156,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1731784962,
+            "game": "https://www.chess.com/game/live/131649566491"
+        },
+        "record": {
+            "win": 51,
+            "loss": 40,
+            "draw": 6
+        }
+    },
+    "fide": 2404,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1594073800
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1594073800
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/53515684.f8747a23.200x200o.21b08e48340c.jpeg",
+    "player_id": 53515684,
+    "@id": "https://api.chess.com/pub/player/fm_magua",
+    "url": "https://www.chess.com/member/fm_magua",
+    "name": "Jan Havl\u00edk",
+    "username": "fm_magua",
+    "title": "FM",
+    "followers": 45,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741361855,
+    "joined": 1545323603,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 977,
+            "date": 1734601986,
+            "rd": 343
+        },
+        "best": {
+            "rating": 977,
+            "date": 1734209198,
+            "game": "https://www.chess.com/game/daily/741458771"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 454,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2333,
+            "date": 1721507789,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2339,
+            "date": 1664738945,
+            "game": "https://www.chess.com/game/live/40251598069"
+        },
+        "record": {
+            "win": 72,
+            "loss": 19,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2431,
+            "date": 1693126673,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2589,
+            "date": 1603652999,
+            "game": "https://www.chess.com/game/live/3590590743"
+        },
+        "record": {
+            "win": 274,
+            "loss": 165,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2625,
+            "date": 1741640184,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1648882504,
+            "game": "https://www.chess.com/game/live/5135634988"
+        },
+        "record": {
+            "win": 5011,
+            "loss": 4272,
+            "draw": 1314
+        }
+    },
+    "fide": 2388,
+    "tactics": {
+        "highest": {
+            "rating": 3702,
+            "date": 1720586312
+        },
+        "lowest": {
+            "rating": 419,
+            "date": 1548790044
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

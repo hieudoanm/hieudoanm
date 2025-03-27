@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47485766.de241c41.200x200o.7b706ebf58e7.jpeg",
+    "player_id": 47485766,
+    "@id": "https://api.chess.com/pub/player/polish_fighter3000",
+    "url": "https://www.chess.com/member/Polish_fighter3000",
+    "name": "Jan-Krzysztof Duda",
+    "username": "polish_fighter3000",
+    "title": "GM",
+    "followers": 8131,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Krak\u00f3w",
+    "last_online": 1741125539,
+    "joined": 1530287021,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2778,
+            "date": 1740073012,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2997,
+            "date": 1598121334,
+            "game": "https://www.chess.com/game/live/133807144763"
+        },
+        "record": {
+            "win": 71,
+            "loss": 36,
+            "draw": 44
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3094,
+            "date": 1737921583,
+            "rd": 39
+        },
+        "best": {
+            "rating": 3248,
+            "date": 1605267081,
+            "game": "https://www.chess.com/game/live/4269572840"
+        },
+        "record": {
+            "win": 3671,
+            "loss": 2485,
+            "draw": 383
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3200,
+            "date": 1741133125,
+            "rd": 36
+        },
+        "best": {
+            "rating": 3210,
+            "date": 1741109227,
+            "game": "https://www.chess.com/game/live/125170731093"
+        },
+        "record": {
+            "win": 2793,
+            "loss": 1271,
+            "draw": 530
+        }
+    },
+    "fide": 2731,
+    "tactics": {
+        "highest": {
+            "rating": 3988,
+            "date": 1719998329
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1530287325
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 54
+        }
+    }
+}

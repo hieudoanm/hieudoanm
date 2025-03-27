@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23518938.8e4ef3cc.200x200o.f8e6f2a0dcb8.jpeg",
+    "player_id": 23518938,
+    "@id": "https://api.chess.com/pub/player/saikrishnareturns",
+    "url": "https://www.chess.com/member/saikrishnaReturns",
+    "name": "Sai Krishna G V",
+    "username": "saikrishnareturns",
+    "title": "IM",
+    "followers": 109,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Montreal",
+    "last_online": 1741125463,
+    "joined": 1438626741,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1179,
+            "date": 1614571413,
+            "rd": 327
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 45367,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2339,
+            "date": 1735029621,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2577,
+            "date": 1613796828,
+            "game": "https://www.chess.com/game/live/7534337021"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2667,
+            "date": 1729025505,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2821,
+            "date": 1613522860,
+            "game": "https://www.chess.com/game/live/102539456445"
+        },
+        "record": {
+            "win": 1736,
+            "loss": 1269,
+            "draw": 225
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2820,
+            "date": 1741130887,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2872,
+            "date": 1737703917,
+            "game": "https://www.chess.com/game/live/96158623453"
+        },
+        "record": {
+            "win": 2764,
+            "loss": 1985,
+            "draw": 446
+        }
+    },
+    "fide": 2409,
+    "tactics": {
+        "highest": {
+            "rating": 3514,
+            "date": 1734771569
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1510199711
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/413541001.48119a59.200x200o.73a7504eaf0a.webp",
+    "player_id": 413541001,
+    "@id": "https://api.chess.com/pub/player/xswayzxc",
+    "url": "https://www.chess.com/member/xswayzxc",
+    "username": "xswayzxc",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741671853,
+    "joined": 1735487095,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2466,
+            "date": 1741415364,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2252,
+            "date": 1737583330,
+            "game": "https://www.chess.com/game/live/131322023985"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2587,
+            "date": 1741416497,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2579,
+            "date": 1739356680,
+            "game": "https://www.chess.com/game/live/131976596259"
+        },
+        "record": {
+            "win": 264,
+            "loss": 156,
+            "draw": 27
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1735487095
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1735487095
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 37
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16696380.16ba2415.200x200o.6bbab0a4aae0.jpeg",
+    "player_id": 16696380,
+    "@id": "https://api.chess.com/pub/player/horsesgalore",
+    "url": "https://www.chess.com/member/HorsesGalore",
+    "name": "Laurence Epstein",
+    "username": "horsesgalore",
+    "title": "NM",
+    "followers": 51,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New Jersey",
+    "last_online": 1741702301,
+    "joined": 1396286534,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2091,
+            "date": 1741702376,
+            "rd": 183
+        },
+        "best": {
+            "rating": 2109,
+            "date": 1577532865,
+            "game": "https://www.chess.com/game/daily/128753778"
+        },
+        "record": {
+            "win": 1378,
+            "loss": 93,
+            "draw": 83,
+            "time_per_move": 3132,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1716,
+            "date": 1592352857,
+            "rd": 140
+        },
+        "best": {
+            "rating": 1716,
+            "date": 1592352856,
+            "game": "https://www.chess.com/game/daily/222114020"
+        },
+        "record": {
+            "win": 95,
+            "loss": 16,
+            "draw": 5,
+            "time_per_move": 3132,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1987,
+            "date": 1740495584,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1987,
+            "date": 1698581458,
+            "game": "https://www.chess.com/game/live/16062242413"
+        },
+        "record": {
+            "win": 663,
+            "loss": 95,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1760,
+            "date": 1741615710,
+            "rd": 53
+        },
+        "best": {
+            "rating": 1851,
+            "date": 1658436072,
+            "game": "https://www.chess.com/game/live/49835426831"
+        },
+        "record": {
+            "win": 8249,
+            "loss": 6020,
+            "draw": 713
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1982,
+            "date": 1741625262,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2014,
+            "date": 1677859240,
+            "game": "https://www.chess.com/game/live/5561725469"
+        },
+        "record": {
+            "win": 6241,
+            "loss": 3702,
+            "draw": 567
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2003,
+            "date": 1411247621
+        },
+        "lowest": {
+            "rating": 1101,
+            "date": 1399311867
+        }
+    },
+    "puzzle_rush": {}
+}

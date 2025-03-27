@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/388039945.0164d2b3.200x200o.1e9a2bccb759.jpg",
+    "player_id": 388039945,
+    "@id": "https://api.chess.com/pub/player/fernandoacevedo21",
+    "url": "https://www.chess.com/member/FernandoAcevedo21",
+    "name": "Carlos Fernando Rodriguez Acevedo",
+    "username": "fernandoacevedo21",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741575439,
+    "joined": 1726179009,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2239,
+            "date": 1738722526,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2283,
+            "date": 1734321976,
+            "game": "https://www.chess.com/game/live/121132237369"
+        },
+        "record": {
+            "win": 454,
+            "loss": 391,
+            "draw": 24
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2334,
+            "date": 1739061569,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1727570299,
+            "game": "https://www.chess.com/game/live/121309185237"
+        },
+        "record": {
+            "win": 65,
+            "loss": 95,
+            "draw": 13
+        }
+    },
+    "fide": 2025,
+    "tactics": {
+        "highest": {
+            "rating": 2517,
+            "date": 1738554601
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1726179009
+        }
+    },
+    "puzzle_rush": {}
+}

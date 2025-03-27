@@ -1,0 +1,68 @@
+{
+    "player_id": 307500153,
+    "@id": "https://api.chess.com/pub/player/jackleterrible",
+    "url": "https://www.chess.com/member/Jackleterrible",
+    "name": "Jacques Elbilia",
+    "username": "jackleterrible",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/MA",
+    "last_online": 1728250580,
+    "joined": 1692715424,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2481,
+            "date": 1727560295,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2623,
+            "date": 1717087233,
+            "game": "https://www.chess.com/game/live/101406178615"
+        },
+        "record": {
+            "win": 423,
+            "loss": 531,
+            "draw": 56
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2498,
+            "date": 1727704913,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1716752981,
+            "game": "https://www.chess.com/game/live/110478684443"
+        },
+        "record": {
+            "win": 362,
+            "loss": 408,
+            "draw": 70
+        }
+    },
+    "fide": 2370,
+    "tactics": {
+        "highest": {
+            "rating": 3567,
+            "date": 1724243626
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1692715424
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 43
+        }
+    }
+}

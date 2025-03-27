@@ -1,0 +1,51 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72018808.0c95605e.200x200o.be216843c73b.jpeg",
+    "player_id": 72018808,
+    "@id": "https://api.chess.com/pub/player/skembris_spyridon",
+    "url": "https://www.chess.com/member/Skembris_Spyridon",
+    "name": "Spyridon Skembris",
+    "username": "skembris_spyridon",
+    "title": "GM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1737302814,
+    "joined": 1581384201,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1715966337,
+            "rd": 252
+        },
+        "best": {
+            "rating": 1929,
+            "date": 1602325993,
+            "game": "https://www.chess.com/game/live/5563500726"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "fide": 2302,
+    "tactics": {
+        "highest": {
+            "rating": 2329,
+            "date": 1716705093
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1581384201
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 33
+        }
+    }
+}

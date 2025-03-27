@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/373757507.b2717d22.200x200o.7464f2b2c2d7.jpg",
+    "player_id": 373757507,
+    "@id": "https://api.chess.com/pub/player/davechessmate",
+    "url": "https://www.chess.com/member/DaveChessMate",
+    "name": "Davit Davtyan",
+    "username": "davechessmate",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Valencia, Spain",
+    "last_online": 1741573377,
+    "joined": 1720247820,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2447,
+            "date": 1741574084,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1738942995,
+            "game": "https://www.chess.com/game/live/116078988277"
+        },
+        "record": {
+            "win": 39,
+            "loss": 19,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2505,
+            "date": 1735314876,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2508,
+            "date": 1721578564,
+            "game": "https://www.chess.com/game/live/116767789313"
+        },
+        "record": {
+            "win": 80,
+            "loss": 36,
+            "draw": 7
+        }
+    },
+    "fide": 2284,
+    "tactics": {
+        "highest": {
+            "rating": 3104,
+            "date": 1721573677
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1720247820
+        }
+    },
+    "puzzle_rush": {}
+}

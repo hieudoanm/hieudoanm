@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56954094.a7fe3183.200x200o.ee89503a636d.jpeg",
+    "player_id": 56954094,
+    "@id": "https://api.chess.com/pub/player/redwolf03",
+    "url": "https://www.chess.com/member/RedWolf03",
+    "name": "Daniel Tobing",
+    "username": "redwolf03",
+    "title": "FM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/ID",
+    "last_online": 1740647728,
+    "joined": 1549333692,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1779,
+            "date": 1601462887,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1902,
+            "date": 1601454559,
+            "game": "https://www.chess.com/game/live/5517566122"
+        },
+        "record": {
+            "win": 4,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2525,
+            "date": 1735108599,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2613,
+            "date": 1661296908,
+            "game": "https://www.chess.com/game/live/5539368278"
+        },
+        "record": {
+            "win": 173,
+            "loss": 95,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2647,
+            "date": 1732637916,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2727,
+            "date": 1677771285,
+            "game": "https://www.chess.com/game/live/124562321861"
+        },
+        "record": {
+            "win": 334,
+            "loss": 242,
+            "draw": 44
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3535,
+            "date": 1718012879
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1570579220
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

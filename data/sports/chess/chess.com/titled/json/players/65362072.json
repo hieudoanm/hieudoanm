@@ -1,0 +1,129 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/65362072.fa650f9a.200x200o.e621fe53ef0e.webp",
+    "player_id": 65362072,
+    "@id": "https://api.chess.com/pub/player/mars520",
+    "url": "https://www.chess.com/member/Mars520",
+    "name": "William Ge",
+    "username": "mars520",
+    "title": "CM",
+    "followers": 50,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Atlantis",
+    "last_online": 1741633015,
+    "joined": 1568171104,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1169,
+            "date": 1737390364,
+            "rd": 128
+        },
+        "best": {
+            "rating": 1169,
+            "date": 1705608181,
+            "game": "https://www.chess.com/game/daily/353741811"
+        },
+        "record": {
+            "win": 47,
+            "loss": 35,
+            "draw": 3,
+            "time_per_move": 32213,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 570,
+            "date": 1633828803,
+            "rd": 275
+        },
+        "best": {
+            "rating": 800,
+            "date": 1568171104,
+            "game": "https://www.chess.com/game/daily/353741863"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 32213,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2210,
+            "date": 1731968391,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2259,
+            "date": 1731562486,
+            "game": "https://www.chess.com/game/live/104811044689"
+        },
+        "record": {
+            "win": 991,
+            "loss": 801,
+            "draw": 100
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2213,
+            "date": 1740250759,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1740248914,
+            "game": "https://www.chess.com/game/live/133985955561"
+        },
+        "record": {
+            "win": 521,
+            "loss": 564,
+            "draw": 51
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2124,
+            "date": 1741111687,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2218,
+            "date": 1739899851,
+            "game": "https://www.chess.com/game/live/133028386905"
+        },
+        "record": {
+            "win": 1198,
+            "loss": 1213,
+            "draw": 163
+        }
+    },
+    "fide": 2205,
+    "tactics": {
+        "highest": {
+            "rating": 4118,
+            "date": 1682474888
+        },
+        "lowest": {
+            "rating": 396,
+            "date": 1568519097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        },
+        "daily": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

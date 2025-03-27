@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17010500.f92b1820.200x200o.001278ba3915.jpeg",
+    "player_id": 17010500,
+    "@id": "https://api.chess.com/pub/player/asmp",
+    "url": "https://www.chess.com/member/asmp",
+    "name": "asmp asmp",
+    "username": "asmp",
+    "title": "CM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/AT",
+    "location": "Vienna",
+    "last_online": 1734801983,
+    "joined": 1398176798,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2244,
+            "date": 1707840954,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2263,
+            "date": 1449992958,
+            "game": "https://www.chess.com/game/daily/119619064"
+        },
+        "record": {
+            "win": 110,
+            "loss": 31,
+            "draw": 16,
+            "time_per_move": 7775,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1583,
+            "date": 1708543348,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1413529200,
+            "game": "https://www.chess.com/game/live/102281087991"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2187,
+            "date": 1733854308,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2254,
+            "date": 1620317117,
+            "game": "https://www.chess.com/game/live/14229179811"
+        },
+        "record": {
+            "win": 2833,
+            "loss": 2464,
+            "draw": 217
+        }
+    },
+    "fide": 2260,
+    "tactics": {
+        "highest": {
+            "rating": 3498,
+            "date": 1726152470
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1398177002
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 40
+        }
+    }
+}

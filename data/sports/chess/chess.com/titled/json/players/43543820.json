@@ -1,0 +1,111 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43543820.eaac88e3.200x200o.27e9ba3490c2.jpg",
+    "player_id": 43543820,
+    "@id": "https://api.chess.com/pub/player/cha_charealsmooth",
+    "url": "https://www.chess.com/member/Cha_ChaRealSmooth",
+    "name": "Vahan Nalbandyan",
+    "username": "cha_charealsmooth",
+    "title": "CM",
+    "followers": 1429,
+    "country": "https://api.chess.com/pub/country/AM",
+    "last_online": 1741675381,
+    "joined": 1519163771,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/chachachess",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/chachachess"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1366,
+            "date": 1739973795,
+            "rd": 87
+        },
+        "best": {
+            "rating": 1737,
+            "date": 1625425983,
+            "game": "https://www.chess.com/game/daily/331797900"
+        },
+        "record": {
+            "win": 25,
+            "loss": 17,
+            "draw": 5,
+            "time_per_move": 24823,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2388,
+            "date": 1740519913,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1730146440,
+            "game": "https://www.chess.com/game/live/133399156217"
+        },
+        "record": {
+            "win": 144,
+            "loss": 48,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2698,
+            "date": 1741465298,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2814,
+            "date": 1736204911,
+            "game": "https://www.chess.com/game/live/110850148491"
+        },
+        "record": {
+            "win": 3576,
+            "loss": 2259,
+            "draw": 286
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2539,
+            "date": 1741370161,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1644428588,
+            "game": "https://www.chess.com/game/live/60543699653"
+        },
+        "record": {
+            "win": 3462,
+            "loss": 2604,
+            "draw": 397
+        }
+    },
+    "fide": 2270,
+    "tactics": {
+        "highest": {
+            "rating": 3371,
+            "date": 1740084747
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1520597032
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

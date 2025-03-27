@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27453068.bae72858.200x200o.d9db93a510be.jpeg",
+    "player_id": 27453068,
+    "@id": "https://api.chess.com/pub/player/putra48",
+    "url": "https://www.chess.com/member/putra48",
+    "name": "Ivan Maxmillian Putra",
+    "username": "putra48",
+    "title": "FM",
+    "followers": 297,
+    "country": "https://api.chess.com/pub/country/ID",
+    "last_online": 1740996705,
+    "joined": 1459057038,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1957,
+            "date": 1714638523,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2101,
+            "date": 1467659605,
+            "game": "https://www.chess.com/game/daily/395039035"
+        },
+        "record": {
+            "win": 29,
+            "loss": 12,
+            "draw": 5,
+            "time_per_move": 94764,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1760,
+            "date": 1578474602,
+            "rd": 340
+        },
+        "best": {
+            "rating": 1760,
+            "date": 1578474602,
+            "game": "https://www.chess.com/game/daily/242982216"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 94764,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1822,
+            "date": 1730740949,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2032,
+            "date": 1616608172,
+            "game": "https://www.chess.com/game/live/100619629009"
+        },
+        "record": {
+            "win": 42,
+            "loss": 7,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2679,
+            "date": 1741699282,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2726,
+            "date": 1601458857,
+            "game": "https://www.chess.com/game/live/38576710387"
+        },
+        "record": {
+            "win": 931,
+            "loss": 795,
+            "draw": 101
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2603,
+            "date": 1741671770,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2684,
+            "date": 1575683919,
+            "game": "https://www.chess.com/game/live/4273803687"
+        },
+        "record": {
+            "win": 1383,
+            "loss": 1189,
+            "draw": 213
+        }
+    },
+    "fide": 2229,
+    "tactics": {
+        "highest": {
+            "rating": 3334,
+            "date": 1689053016
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1459331912
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

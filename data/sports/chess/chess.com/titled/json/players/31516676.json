@@ -1,0 +1,114 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31516676.5a085e0e.200x200o.a05752f019b9.jpeg",
+    "player_id": 31516676,
+    "@id": "https://api.chess.com/pub/player/sahajgrover",
+    "url": "https://www.chess.com/member/SahajGrover",
+    "name": "Sahaj Grover",
+    "username": "sahajgrover",
+    "title": "GM",
+    "followers": 563,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741697644,
+    "joined": 1481349818,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "youtube",
+            "channel_url": "https://youtube.com/@sahajgrover"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1853,
+            "date": 1704528366,
+            "rd": 315
+        },
+        "best": {
+            "rating": 1853,
+            "date": 1549554005,
+            "game": "https://www.chess.com/game/daily/204350854"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 102382,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2375,
+            "date": 1741456992,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2681,
+            "date": 1586803364,
+            "game": "https://www.chess.com/game/live/69184021569"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2760,
+            "date": 1741616505,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2803,
+            "date": 1721944990,
+            "game": "https://www.chess.com/game/live/115684073281"
+        },
+        "record": {
+            "win": 1548,
+            "loss": 1386,
+            "draw": 135
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2811,
+            "date": 1741279746,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2874,
+            "date": 1736641900,
+            "game": "https://www.chess.com/game/live/127586476843"
+        },
+        "record": {
+            "win": 664,
+            "loss": 434,
+            "draw": 88
+        }
+    },
+    "fide": 2515,
+    "tactics": {
+        "highest": {
+            "rating": 3780,
+            "date": 1724193076
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1516891414
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        },
+        "daily": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

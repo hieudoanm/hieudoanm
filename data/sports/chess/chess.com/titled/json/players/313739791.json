@@ -1,0 +1,84 @@
+{
+    "player_id": 313739791,
+    "@id": "https://api.chess.com/pub/player/mystery2007",
+    "url": "https://www.chess.com/member/Mystery2007",
+    "name": "Bertalan Szikszai",
+    "username": "mystery2007",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1741692740,
+    "joined": 1695054562,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2276,
+            "date": 1734434410,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2284,
+            "date": 1703771415,
+            "game": "https://www.chess.com/game/live/97509581809"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2354,
+            "date": 1701418735,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2370,
+            "date": 1701274783,
+            "game": "https://www.chess.com/game/live/95013517903"
+        },
+        "record": {
+            "win": 63,
+            "loss": 41,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2493,
+            "date": 1741693184,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2697,
+            "date": 1695137875,
+            "game": "https://www.chess.com/game/live/89479299319"
+        },
+        "record": {
+            "win": 329,
+            "loss": 340,
+            "draw": 53
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1695054562
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1695054562
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

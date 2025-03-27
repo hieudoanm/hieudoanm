@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4700300.6f2ec9ee.200x200o.43134bbea3ec.jpeg",
+    "player_id": 4700300,
+    "@id": "https://api.chess.com/pub/player/pomberito2",
+    "url": "https://www.chess.com/member/Pomberito2",
+    "name": "Joaquin Rodrigo Jimenez",
+    "username": "pomberito2",
+    "title": "CM",
+    "followers": 148,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741558892,
+    "joined": 1297510438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2100,
+            "date": 1694118989,
+            "rd": 253
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1297510438,
+            "game": "https://www.chess.com/game/daily/180753304"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 3684,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1676314468,
+            "rd": 143
+        },
+        "best": {
+            "rating": 2169,
+            "date": 1676313308,
+            "game": "https://www.chess.com/game/live/70046286569"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1965,
+            "date": 1693593663,
+            "rd": 142
+        },
+        "best": {
+            "rating": 1965,
+            "date": 1693593663,
+            "game": "https://www.chess.com/game/live/4848498879"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2465,
+            "date": 1741657405,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1734884601,
+            "game": "https://www.chess.com/game/live/90105642211"
+        },
+        "record": {
+            "win": 5431,
+            "loss": 4760,
+            "draw": 909
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3261,
+            "date": 1674038361
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1487209285
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

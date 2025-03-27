@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/401187651.a8d386f6.200x200o.ad26aa74173b.png",
+    "player_id": 401187651,
+    "@id": "https://api.chess.com/pub/player/emil-zander",
+    "url": "https://www.chess.com/member/Emil-Zander",
+    "name": "Emil Zander",
+    "username": "emil-zander",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/DK",
+    "location": "On a tree",
+    "last_online": 1741677662,
+    "joined": 1731067387,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 813,
+            "date": 1741620493,
+            "rd": 346
+        },
+        "best": {
+            "rating": 813,
+            "date": 1741536312,
+            "game": "https://www.chess.com/game/daily/754078855"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 161715,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2395,
+            "date": 1738242295,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1732735304,
+            "game": "https://www.chess.com/game/live/126299994881"
+        },
+        "record": {
+            "win": 56,
+            "loss": 45,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2480,
+            "date": 1741690142,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2376,
+            "date": 1735384683,
+            "game": "https://www.chess.com/game/live/128796831495"
+        },
+        "record": {
+            "win": 32,
+            "loss": 12,
+            "draw": 3
+        }
+    },
+    "fide": 2262,
+    "tactics": {
+        "highest": {
+            "rating": 3329,
+            "date": 1740394841
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1731067387
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

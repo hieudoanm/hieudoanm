@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5287275.b62e8bc3.200x200o.b5ecd0072c07.jpg",
+    "player_id": 5287275,
+    "@id": "https://api.chess.com/pub/player/griffinmac",
+    "url": "https://www.chess.com/member/GriffinMac",
+    "name": "Griffin McConnell",
+    "username": "griffinmac",
+    "title": "NM",
+    "followers": 140,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Grand Junction",
+    "last_online": 1741223863,
+    "joined": 1308252251,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2352,
+            "date": 1707698966,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2352,
+            "date": 1684769138,
+            "game": "https://www.chess.com/game/live/21247260893"
+        },
+        "record": {
+            "win": 230,
+            "loss": 151,
+            "draw": 39
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2501,
+            "date": 1741194735,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2558,
+            "date": 1725813839,
+            "game": "https://www.chess.com/game/live/118614530051"
+        },
+        "record": {
+            "win": 2760,
+            "loss": 2774,
+            "draw": 498
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1739295071,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1739294617,
+            "game": "https://www.chess.com/game/live/56820680853"
+        },
+        "record": {
+            "win": 1620,
+            "loss": 1525,
+            "draw": 299
+        }
+    },
+    "fide": 2051,
+    "tactics": {
+        "highest": {
+            "rating": 3412,
+            "date": 1705591655
+        },
+        "lowest": {
+            "rating": 892,
+            "date": 1460745986
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

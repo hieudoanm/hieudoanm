@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39736464.b456dc12.200x200o.1f2fd1024713.jpg",
+    "player_id": 39736464,
+    "@id": "https://api.chess.com/pub/player/koshkamatrioshka",
+    "url": "https://www.chess.com/member/KoshkaMatrioshka",
+    "name": "Svyatoslav Korneev Leskova",
+    "username": "koshkamatrioshka",
+    "title": "CM",
+    "followers": 266,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741549823,
+    "joined": 1508876599,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/ajedrezkorneevjr",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/ajedrezkorneevjr"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2395,
+            "date": 1732294564,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2395,
+            "date": 1732294564,
+            "game": "https://www.chess.com/game/live/14587016613"
+        },
+        "record": {
+            "win": 91,
+            "loss": 36,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2622,
+            "date": 1735413077,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2647,
+            "date": 1715444763,
+            "game": "https://www.chess.com/game/live/129151945007"
+        },
+        "record": {
+            "win": 774,
+            "loss": 326,
+            "draw": 75
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1741111693,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2737,
+            "date": 1682936889,
+            "game": "https://www.chess.com/game/live/6210226294"
+        },
+        "record": {
+            "win": 3857,
+            "loss": 2607,
+            "draw": 610
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3733,
+            "date": 1721067281
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1508876800
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17541940.ad6faa2d.200x200o.15e6287a8eb3.jpeg",
+    "player_id": 17541940,
+    "@id": "https://api.chess.com/pub/player/macdaddymac",
+    "url": "https://www.chess.com/member/MacDaddyMac",
+    "name": "Sully McConnell",
+    "username": "macdaddymac",
+    "title": "NM",
+    "followers": 256,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Denver",
+    "last_online": 1741632181,
+    "joined": 1401746360,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1213,
+            "date": 1718812013,
+            "rd": 304
+        },
+        "best": {
+            "rating": 1213,
+            "date": 1712552418,
+            "game": "https://www.chess.com/game/daily/611280459"
+        },
+        "record": {
+            "win": 4,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 46173,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2303,
+            "date": 1701656194,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1701656194,
+            "game": "https://www.chess.com/game/live/6517622271"
+        },
+        "record": {
+            "win": 174,
+            "loss": 138,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2800,
+            "date": 1741105933,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2806,
+            "date": 1737826649,
+            "game": "https://www.chess.com/game/live/125360310913"
+        },
+        "record": {
+            "win": 5745,
+            "loss": 5509,
+            "draw": 980
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2623,
+            "date": 1741638406,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2744,
+            "date": 1718929041,
+            "game": "https://www.chess.com/game/live/41726445895"
+        },
+        "record": {
+            "win": 4348,
+            "loss": 4129,
+            "draw": 820
+        }
+    },
+    "fide": 2306,
+    "tactics": {
+        "highest": {
+            "rating": 3666,
+            "date": 1734369343
+        },
+        "lowest": {
+            "rating": 939,
+            "date": 1410292392
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

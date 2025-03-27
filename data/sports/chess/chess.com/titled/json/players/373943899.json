@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/373943899.11471618.200x200o.25a827f9a592.jpg",
+    "player_id": 373943899,
+    "@id": "https://api.chess.com/pub/player/oratoricalgenius",
+    "url": "https://www.chess.com/member/OratoricalGenius",
+    "username": "oratoricalgenius",
+    "title": "NM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741576491,
+    "joined": 1720326406,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2713,
+            "date": 1741231687,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1740900048,
+            "game": "https://www.chess.com/game/live/134638141069"
+        },
+        "record": {
+            "win": 182,
+            "loss": 143,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2612,
+            "date": 1741577999,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2803,
+            "date": 1725677255,
+            "game": "https://www.chess.com/game/live/119851810259"
+        },
+        "record": {
+            "win": 491,
+            "loss": 410,
+            "draw": 88
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1088,
+            "date": 1737066347
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1720326406
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

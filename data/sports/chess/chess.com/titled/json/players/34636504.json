@@ -1,0 +1,109 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34636504.dea01309.200x200o.e769878979c7.jpeg",
+    "player_id": 34636504,
+    "@id": "https://api.chess.com/pub/player/nj123456",
+    "url": "https://www.chess.com/member/nj123456",
+    "name": "Edward Jackson",
+    "username": "nj123456",
+    "title": "CM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1740693605,
+    "joined": 1491717910,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1487,
+            "date": 1707820654,
+            "rd": 269
+        },
+        "best": {
+            "rating": 1487,
+            "date": 1517687984,
+            "game": "https://www.chess.com/game/daily/169810396"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 329913,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2218,
+            "date": 1686173676,
+            "rd": 192
+        },
+        "best": {
+            "rating": 2218,
+            "date": 1638828268,
+            "game": "https://www.chess.com/game/live/32566798151"
+        },
+        "record": {
+            "win": 20,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2254,
+            "date": 1726610005,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2325,
+            "date": 1726609756,
+            "game": "https://www.chess.com/game/live/58468180453"
+        },
+        "record": {
+            "win": 613,
+            "loss": 381,
+            "draw": 39
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2456,
+            "date": 1738102329,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1720542008,
+            "game": "https://www.chess.com/game/live/114279075811"
+        },
+        "record": {
+            "win": 777,
+            "loss": 612,
+            "draw": 84
+        }
+    },
+    "fide": 2156,
+    "tactics": {
+        "highest": {
+            "rating": 3266,
+            "date": 1734627706
+        },
+        "lowest": {
+            "rating": 791,
+            "date": 1498289088
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        },
+        "daily": {
+            "total_attempts": 31,
+            "score": 30
+        }
+    }
+}

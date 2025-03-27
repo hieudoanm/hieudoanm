@@ -1,0 +1,112 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18583442.957630d7.200x200o.6f4444d1be7a.jpg",
+    "player_id": 18583442,
+    "@id": "https://api.chess.com/pub/player/abfchess",
+    "url": "https://www.chess.com/member/abfchess",
+    "name": "Gabriela Vargas",
+    "username": "abfchess",
+    "title": "WIM",
+    "followers": 1236,
+    "country": "https://api.chess.com/pub/country/PY",
+    "location": "Asunci\u00f3n",
+    "last_online": 1741300908,
+    "joined": 1408597035,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/abfchess",
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/abfchess"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1565,
+            "date": 1704313339,
+            "rd": 124
+        },
+        "best": {
+            "rating": 1922,
+            "date": 1502117398,
+            "game": "https://www.chess.com/game/daily/131490992"
+        },
+        "record": {
+            "win": 139,
+            "loss": 75,
+            "draw": 26,
+            "time_per_move": 75913,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2267,
+            "date": 1720648700,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2270,
+            "date": 1713579251,
+            "game": "https://www.chess.com/game/live/35785621303"
+        },
+        "record": {
+            "win": 125,
+            "loss": 38,
+            "draw": 30
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2302,
+            "date": 1737222225,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1640545185,
+            "game": "https://www.chess.com/game/live/129150157747"
+        },
+        "record": {
+            "win": 500,
+            "loss": 380,
+            "draw": 83
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2319,
+            "date": 1735326675,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2427,
+            "date": 1638301931,
+            "game": "https://www.chess.com/game/live/31429260099"
+        },
+        "record": {
+            "win": 899,
+            "loss": 458,
+            "draw": 123
+        }
+    },
+    "fide": 2196,
+    "tactics": {
+        "highest": {
+            "rating": 3040,
+            "date": 1711658689
+        },
+        "lowest": {
+            "rating": 1336,
+            "date": 1424993231
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "player_id": 180849309,
+    "@id": "https://api.chess.com/pub/player/leroideschampions",
+    "url": "https://www.chess.com/member/LeRoidesChampions",
+    "name": "Akshay Borgaonkar",
+    "username": "leroideschampions",
+    "title": "FM",
+    "followers": 87,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741697695,
+    "joined": 1650300350,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2170,
+            "date": 1707904269,
+            "rd": 227
+        },
+        "best": {
+            "rating": 2170,
+            "date": 1684944348,
+            "game": "https://www.chess.com/game/daily/518814403"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 4233,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2193,
+            "date": 1684171616,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1675686461,
+            "game": "https://www.chess.com/game/live/70043102207"
+        },
+        "record": {
+            "win": 12,
+            "loss": 14,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2661,
+            "date": 1741688797,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2798,
+            "date": 1729151660,
+            "game": "https://www.chess.com/game/live/119469607355"
+        },
+        "record": {
+            "win": 1042,
+            "loss": 1135,
+            "draw": 143
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2835,
+            "date": 1741688583,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2859,
+            "date": 1738058911,
+            "game": "https://www.chess.com/game/live/112462294535"
+        },
+        "record": {
+            "win": 1579,
+            "loss": 1666,
+            "draw": 307
+        }
+    },
+    "fide": 2424,
+    "tactics": {
+        "highest": {
+            "rating": 3779,
+            "date": 1734167355
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1650525674
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

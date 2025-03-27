@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39421944.b1661e11.200x200o.93a67de181aa.jpeg",
+    "player_id": 39421944,
+    "@id": "https://api.chess.com/pub/player/manukyan_artak",
+    "url": "https://www.chess.com/member/Manukyan_Artak",
+    "name": "Artak Manukyan",
+    "username": "manukyan_artak",
+    "title": "NM",
+    "followers": 178,
+    "country": "https://api.chess.com/pub/country/AM",
+    "location": "Yerevan",
+    "last_online": 1741703391,
+    "joined": 1507921093,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2319,
+            "date": 1739733104,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2429,
+            "date": 1676909050,
+            "game": "https://www.chess.com/game/live/70048426989"
+        },
+        "record": {
+            "win": 127,
+            "loss": 76,
+            "draw": 63
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2320,
+            "date": 1741164545,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1689446825,
+            "game": "https://www.chess.com/game/live/3886178520"
+        },
+        "record": {
+            "win": 1118,
+            "loss": 930,
+            "draw": 112
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2562,
+            "date": 1741370407,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2646,
+            "date": 1707030297,
+            "game": "https://www.chess.com/game/live/64686205065"
+        },
+        "record": {
+            "win": 12692,
+            "loss": 13060,
+            "draw": 3168
+        }
+    },
+    "fide": 2196,
+    "tactics": {
+        "highest": {
+            "rating": 3237,
+            "date": 1734197187
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1512473666
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

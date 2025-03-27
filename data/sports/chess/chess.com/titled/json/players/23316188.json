@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23316188.867aedd2.200x200o.5913b11d9af3.jpeg",
+    "player_id": 23316188,
+    "@id": "https://api.chess.com/pub/player/radzio1987",
+    "url": "https://www.chess.com/member/Radzio1987",
+    "name": "Radoslaw Wojtaszek",
+    "username": "radzio1987",
+    "title": "GM",
+    "followers": 333,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Warszawa",
+    "last_online": 1737767709,
+    "joined": 1437382558,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2575,
+            "date": 1631528939,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2749,
+            "date": 1598034510,
+            "game": "https://www.chess.com/game/live/5363741961"
+        },
+        "record": {
+            "win": 12,
+            "loss": 4,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2842,
+            "date": 1623173843,
+            "rd": 145
+        },
+        "best": {
+            "rating": 2842,
+            "date": 1623173626,
+            "game": "https://www.chess.com/game/live/3588094001"
+        },
+        "record": {
+            "win": 38,
+            "loss": 21,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2898,
+            "date": 1712075774,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2951,
+            "date": 1704822579,
+            "game": "https://www.chess.com/game/live/101583245527"
+        },
+        "record": {
+            "win": 307,
+            "loss": 127,
+            "draw": 75
+        }
+    },
+    "fide": 2733,
+    "tactics": {
+        "highest": {
+            "rating": 3499,
+            "date": 1526026587
+        },
+        "lowest": {
+            "rating": 1361,
+            "date": 1437385461
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 51
+        }
+    }
+}

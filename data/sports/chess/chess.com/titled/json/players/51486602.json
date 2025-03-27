@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51486602.d2ed5b4f.200x200o.704e24ba1dc5.jpg",
+    "player_id": 51486602,
+    "@id": "https://api.chess.com/pub/player/pupilomito",
+    "url": "https://www.chess.com/member/PupiloMito",
+    "name": "Everson de Moura Araujo",
+    "username": "pupilomito",
+    "title": "NM",
+    "followers": 119,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Rond\u00f4nia",
+    "last_online": 1741498230,
+    "joined": 1541389186,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2027,
+            "date": 1731026496,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2070,
+            "date": 1632757646,
+            "game": "https://www.chess.com/game/live/116135378077"
+        },
+        "record": {
+            "win": 43,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2329,
+            "date": 1739654802,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2497,
+            "date": 1718504211,
+            "game": "https://www.chess.com/game/live/129144227659"
+        },
+        "record": {
+            "win": 695,
+            "loss": 660,
+            "draw": 76
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2233,
+            "date": 1741390971,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2402,
+            "date": 1570073092,
+            "game": "https://www.chess.com/game/live/3200069267"
+        },
+        "record": {
+            "win": 2125,
+            "loss": 2198,
+            "draw": 286
+        }
+    },
+    "fide": 1960,
+    "tactics": {
+        "highest": {
+            "rating": 3299,
+            "date": 1708225047
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1543177156
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 79,
+            "score": 76
+        }
+    }
+}

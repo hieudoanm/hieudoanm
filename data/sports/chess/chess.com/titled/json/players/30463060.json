@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30463060.f6edec46.200x200o.21f0ba4dfff1.jpeg",
+    "player_id": 30463060,
+    "@id": "https://api.chess.com/pub/player/ornulfo",
+    "url": "https://www.chess.com/member/Ornulfo",
+    "name": "Markus Kiili",
+    "username": "ornulfo",
+    "title": "NM",
+    "followers": 127,
+    "country": "https://api.chess.com/pub/country/FI",
+    "last_online": 1741678660,
+    "joined": 1476812748,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2173,
+            "date": 1718965485,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2176,
+            "date": 1663489997,
+            "game": "https://www.chess.com/game/live/57228491977"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2026,
+            "date": 1741697184,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2160,
+            "date": 1739271871,
+            "game": "https://www.chess.com/game/live/133009764235"
+        },
+        "record": {
+            "win": 463,
+            "loss": 313,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2176,
+            "date": 1737389611,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1697877948,
+            "game": "https://www.chess.com/game/live/124650603607"
+        },
+        "record": {
+            "win": 7517,
+            "loss": 5233,
+            "draw": 1473
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 5459,
+            "date": 1483696313
+        },
+        "lowest": {
+            "rating": 1559,
+            "date": 1476863430
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

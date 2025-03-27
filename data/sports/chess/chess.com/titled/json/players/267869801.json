@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/267869801.c44aee06.200x200o.3de9ae635a0c.jpg",
+    "player_id": 267869801,
+    "@id": "https://api.chess.com/pub/player/morphozis",
+    "url": "https://www.chess.com/member/Morphozis",
+    "name": "Artem Pingin",
+    "username": "morphozis",
+    "title": "IM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/MG",
+    "last_online": 1741532922,
+    "joined": 1680010991,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2693,
+            "date": 1733666231,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1731165994,
+            "game": "https://www.chess.com/game/live/123774676825"
+        },
+        "record": {
+            "win": 24,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2791,
+            "date": 1738080485,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2791,
+            "date": 1738080456,
+            "game": "https://www.chess.com/game/live/127298365249"
+        },
+        "record": {
+            "win": 127,
+            "loss": 51,
+            "draw": 14
+        }
+    },
+    "fide": 2438,
+    "tactics": {
+        "highest": {
+            "rating": 3208,
+            "date": 1730555544
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680010991
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "player_id": 75116004,
+    "@id": "https://api.chess.com/pub/player/chrissuleman",
+    "url": "https://www.chess.com/member/ChrisSuleman",
+    "name": "Felix Guo",
+    "username": "chrissuleman",
+    "title": "NM",
+    "followers": 227,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741695847,
+    "joined": 1585599950,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1618,
+            "date": 1739283128,
+            "rd": 93
+        },
+        "best": {
+            "rating": 1749,
+            "date": 1719038935,
+            "game": "https://www.chess.com/game/daily/634662301"
+        },
+        "record": {
+            "win": 195,
+            "loss": 82,
+            "draw": 9,
+            "time_per_move": 47523,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 732,
+            "date": 1620365950,
+            "rd": 261
+        },
+        "best": {
+            "rating": 1236,
+            "date": 1599183732,
+            "game": "https://www.chess.com/game/daily/274312186"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 47523,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2123,
+            "date": 1736815225,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2123,
+            "date": 1736814585,
+            "game": "https://www.chess.com/game/live/126319171293"
+        },
+        "record": {
+            "win": 663,
+            "loss": 360,
+            "draw": 51
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2074,
+            "date": 1692985477
+        },
+        "best": {
+            "rating": 1752,
+            "date": 1600052694,
+            "game": "https://www.chess.com/game/live/5402972521"
+        },
+        "record": {
+            "win": 667,
+            "loss": 528,
+            "draw": 78
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2533,
+            "date": 1741385864,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1739923493,
+            "game": "https://www.chess.com/game/live/133655951565"
+        },
+        "record": {
+            "win": 1109,
+            "loss": 753,
+            "draw": 138
+        }
+    },
+    "fide": 2251,
+    "tactics": {
+        "highest": {
+            "rating": 4075,
+            "date": 1708451715
+        },
+        "lowest": {
+            "rating": 772,
+            "date": 1585849797
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

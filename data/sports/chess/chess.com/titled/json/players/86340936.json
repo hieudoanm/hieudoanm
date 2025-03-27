@@ -1,0 +1,83 @@
+{
+    "player_id": 86340936,
+    "@id": "https://api.chess.com/pub/player/oganromchess",
+    "url": "https://www.chess.com/member/oganromchess",
+    "name": "Roman Oganisian",
+    "username": "oganromchess",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741216943,
+    "joined": 1594394793,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2482,
+            "date": 1625047897,
+            "rd": 198
+        },
+        "best": {
+            "rating": 2482,
+            "date": 1614834015,
+            "game": "https://www.chess.com/game/live/6031554998"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2405,
+            "date": 1610006195,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1609997947,
+            "game": "https://www.chess.com/game/live/6165795098"
+        },
+        "record": {
+            "win": 16,
+            "loss": 19,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2533,
+            "date": 1741671591,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1736468600,
+            "game": "https://www.chess.com/game/live/97292980351"
+        },
+        "record": {
+            "win": 11676,
+            "loss": 12599,
+            "draw": 1583
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3708,
+            "date": 1741517297
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1594396328
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

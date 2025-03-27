@@ -1,0 +1,84 @@
+{
+    "player_id": 48863130,
+    "@id": "https://api.chess.com/pub/player/capkrnch",
+    "url": "https://www.chess.com/member/capkrnch",
+    "username": "capkrnch",
+    "title": "FM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741231232,
+    "joined": 1534529303,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2578,
+            "date": 1613363578,
+            "rd": 209
+        },
+        "best": {
+            "rating": 2578,
+            "date": 1600056804,
+            "game": "https://www.chess.com/game/live/5442545931"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2102,
+            "date": 1738852314,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1597433195,
+            "game": "https://www.chess.com/game/live/110312539477"
+        },
+        "record": {
+            "win": 3400,
+            "loss": 2527,
+            "draw": 473
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2308,
+            "date": 1711484768,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1597346904,
+            "game": "https://www.chess.com/game/live/75403403539"
+        },
+        "record": {
+            "win": 5725,
+            "loss": 4242,
+            "draw": 1240
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2771,
+            "date": 1654539434
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1534534106
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15863364.f0e6de32.200x200o.28b4e3c7f2b2.jpeg",
+    "player_id": 15863364,
+    "@id": "https://api.chess.com/pub/player/anijak",
+    "url": "https://www.chess.com/member/AniJak",
+    "name": "Anna Jakubowska",
+    "username": "anijak",
+    "title": "WIM",
+    "followers": 72,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741106397,
+    "joined": 1391298786,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2281,
+            "date": 1706029185,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1692722773,
+            "game": "https://www.chess.com/game/live/86460659021"
+        },
+        "record": {
+            "win": 14,
+            "loss": 7,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2314,
+            "date": 1738700517,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2446,
+            "date": 1675194294,
+            "game": "https://www.chess.com/game/live/39562848243"
+        },
+        "record": {
+            "win": 621,
+            "loss": 449,
+            "draw": 102
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2446,
+            "date": 1739102025,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2446,
+            "date": 1739102025,
+            "game": "https://www.chess.com/game/live/5501665865"
+        },
+        "record": {
+            "win": 1404,
+            "loss": 1256,
+            "draw": 298
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2870,
+            "date": 1609069034
+        },
+        "lowest": {
+            "rating": 2076,
+            "date": 1588340975
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

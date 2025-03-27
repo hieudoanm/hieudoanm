@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/63528926.49135932.200x200o.4f9cf9d6a7bf.gif",
+    "player_id": 63528926,
+    "@id": "https://api.chess.com/pub/player/gwkayser",
+    "url": "https://www.chess.com/member/GWKayser",
+    "name": "Gustavo Warmling Kayser",
+    "username": "gwkayser",
+    "title": "NM",
+    "followers": 129,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741549354,
+    "joined": 1563762910,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1372,
+            "date": 1741444556,
+            "rd": 93
+        },
+        "best": {
+            "rating": 1372,
+            "date": 1725821256,
+            "game": "https://www.chess.com/game/daily/665911611"
+        },
+        "record": {
+            "win": 37,
+            "loss": 8,
+            "draw": 2,
+            "time_per_move": 23642,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 717,
+            "date": 1617939163,
+            "rd": 314
+        },
+        "best": {
+            "rating": 800,
+            "date": 1563762910,
+            "game": "https://www.chess.com/game/daily/324341384"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23642,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2372,
+            "date": 1734884918,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2380,
+            "date": 1734884918,
+            "game": "https://www.chess.com/game/live/111111075641"
+        },
+        "record": {
+            "win": 353,
+            "loss": 175,
+            "draw": 36
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1713804639,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1713804639,
+            "game": "https://www.chess.com/game/live/93130412647"
+        },
+        "record": {
+            "win": 6418,
+            "loss": 4162,
+            "draw": 520
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2602,
+            "date": 1740608884,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1722805485,
+            "game": "https://www.chess.com/game/live/59686895651"
+        },
+        "record": {
+            "win": 3553,
+            "loss": 3237,
+            "draw": 388
+        }
+    },
+    "fide": 2037,
+    "tactics": {
+        "highest": {
+            "rating": 3569,
+            "date": 1728670792
+        },
+        "lowest": {
+            "rating": 375,
+            "date": 1566233702
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

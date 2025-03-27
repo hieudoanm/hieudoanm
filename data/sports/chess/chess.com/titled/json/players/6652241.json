@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6652241.293ed720.200x200o.2e3525c17ce4.png",
+    "player_id": 6652241,
+    "@id": "https://api.chess.com/pub/player/aplommb",
+    "url": "https://www.chess.com/member/Aplommb",
+    "username": "aplommb",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Mumbai",
+    "last_online": 1741699990,
+    "joined": 1328950928,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 572,
+            "date": 1691924559,
+            "rd": 341
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1593770349,
+            "game": "https://www.chess.com/game/live/5093607367"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2473,
+            "date": 1741267659,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2472,
+            "date": 1655048911,
+            "game": "https://www.chess.com/game/live/49055943557"
+        },
+        "record": {
+            "win": 102,
+            "loss": 62,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2658,
+            "date": 1741257623,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1655224830,
+            "game": "https://www.chess.com/game/live/48963541439"
+        },
+        "record": {
+            "win": 29,
+            "loss": 15,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2836,
+            "date": 1645538304
+        },
+        "lowest": {
+            "rating": 1187,
+            "date": 1579367252
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

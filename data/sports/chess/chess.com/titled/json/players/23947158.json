@@ -1,0 +1,102 @@
+{
+    "player_id": 23947158,
+    "@id": "https://api.chess.com/pub/player/ethylalcohol",
+    "url": "https://www.chess.com/member/ethylalcohol",
+    "name": "Beverly Mendoza",
+    "username": "ethylalcohol",
+    "title": "WIM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1741691955,
+    "joined": 1441283785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1139,
+            "date": 1711125489,
+            "rd": 287
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 240820,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1895,
+            "date": 1740793617,
+            "rd": 65
+        },
+        "best": {
+            "rating": 2237,
+            "date": 1609691802,
+            "game": "https://www.chess.com/game/live/47481665555"
+        },
+        "record": {
+            "win": 139,
+            "loss": 135,
+            "draw": 25
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1974,
+            "date": 1597173764,
+            "rd": 93
+        },
+        "best": {
+            "rating": 1840,
+            "date": 1594838055,
+            "game": "https://www.chess.com/game/live/2252195709"
+        },
+        "record": {
+            "win": 40,
+            "loss": 26,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2081,
+            "date": 1741603063,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2234,
+            "date": 1554461219,
+            "game": "https://www.chess.com/game/live/3831879651"
+        },
+        "record": {
+            "win": 1171,
+            "loss": 1067,
+            "draw": 99
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2758,
+            "date": 1471638887
+        },
+        "lowest": {
+            "rating": 1336,
+            "date": 1441283894
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        },
+        "daily": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "player_id": 16309826,
+    "@id": "https://api.chess.com/pub/player/mnuwan",
+    "url": "https://www.chess.com/member/mnuwan",
+    "name": "Missaka Warusawitharana",
+    "username": "mnuwan",
+    "title": "NM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1739742871,
+    "joined": 1393931073,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1644,
+            "date": 1714650204,
+            "rd": 86
+        },
+        "best": {
+            "rating": 1705,
+            "date": 1515549055,
+            "game": "https://www.chess.com/game/daily/183298620"
+        },
+        "record": {
+            "win": 25,
+            "loss": 7,
+            "draw": 2,
+            "time_per_move": 19468,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2271,
+            "date": 1721492875,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2292,
+            "date": 1617675722,
+            "game": "https://www.chess.com/game/live/115230590677"
+        },
+        "record": {
+            "win": 55,
+            "loss": 36,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2029,
+            "date": 1741646735,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2195,
+            "date": 1727567428,
+            "game": "https://www.chess.com/game/live/133142951687"
+        },
+        "record": {
+            "win": 229,
+            "loss": 177,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2350,
+            "date": 1741703484,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2435,
+            "date": 1729884227,
+            "game": "https://www.chess.com/game/live/121832955419"
+        },
+        "record": {
+            "win": 10966,
+            "loss": 8431,
+            "draw": 2104
+        }
+    },
+    "fide": 2225,
+    "tactics": {
+        "highest": {
+            "rating": 3492,
+            "date": 1734646134
+        },
+        "lowest": {
+            "rating": 695,
+            "date": 1439725941
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

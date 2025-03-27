@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20881010.7f0d1ae6.200x200o.528f1dd60d1d.jpeg",
+    "player_id": 20881010,
+    "@id": "https://api.chess.com/pub/player/pavelvavric",
+    "url": "https://www.chess.com/member/pavelvavric",
+    "name": "Pavel Vavric",
+    "username": "pavelvavric",
+    "title": "FM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/MD",
+    "location": "Chisinau, Moldova",
+    "last_online": 1741688209,
+    "joined": 1422735008,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2180,
+            "date": 1712580618,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2191,
+            "date": 1697467491,
+            "game": "https://www.chess.com/game/live/91205398447"
+        },
+        "record": {
+            "win": 50,
+            "loss": 20,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2361,
+            "date": 1730376186,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1728739432,
+            "game": "https://www.chess.com/game/live/116628017181"
+        },
+        "record": {
+            "win": 189,
+            "loss": 134,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2387,
+            "date": 1740937498,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1644178162,
+            "game": "https://www.chess.com/game/live/38105339609"
+        },
+        "record": {
+            "win": 2476,
+            "loss": 2150,
+            "draw": 324
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3621,
+            "date": 1727026099
+        },
+        "lowest": {
+            "rating": 1075,
+            "date": 1477931667
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66657052.30805cd9.200x200o.29171d4bd76f.jpg",
+    "player_id": 66657052,
+    "@id": "https://api.chess.com/pub/player/bardiya_daneshvar",
+    "url": "https://www.chess.com/member/bardiya_Daneshvar",
+    "name": "Bardiya Daneshvar",
+    "username": "bardiya_daneshvar",
+    "title": "GM",
+    "followers": 343,
+    "country": "https://api.chess.com/pub/country/IR",
+    "location": "Tehran",
+    "last_online": 1733665124,
+    "joined": 1571038320,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1704274156,
+            "rd": 350
+        },
+        "record": {
+            "win": 4,
+            "loss": 19,
+            "draw": 0,
+            "time_per_move": 46049,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2674,
+            "date": 1727628755,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2685,
+            "date": 1727537393,
+            "game": "https://www.chess.com/game/live/100458888687"
+        },
+        "record": {
+            "win": 63,
+            "loss": 32,
+            "draw": 44
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2852,
+            "date": 1724496779,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2894,
+            "date": 1699118899,
+            "game": "https://www.chess.com/game/live/92857299223"
+        },
+        "record": {
+            "win": 159,
+            "loss": 113,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3014,
+            "date": 1732642308,
+            "rd": 44
+        },
+        "best": {
+            "rating": 3071,
+            "date": 1713023858,
+            "game": "https://www.chess.com/game/live/68106822243"
+        },
+        "record": {
+            "win": 587,
+            "loss": 303,
+            "draw": 116
+        }
+    },
+    "fide": 2577,
+    "tactics": {
+        "highest": {
+            "rating": 3874,
+            "date": 1714920044
+        },
+        "lowest": {
+            "rating": 2200,
+            "date": 1571164387
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 77,
+            "score": 74
+        }
+    }
+}

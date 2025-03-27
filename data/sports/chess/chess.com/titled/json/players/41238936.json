@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41238936.6a096ebd.200x200o.d7da1963caae.png",
+    "player_id": 41238936,
+    "@id": "https://api.chess.com/pub/player/smabye",
+    "url": "https://www.chess.com/member/Smabye",
+    "name": "Edward Song",
+    "username": "smabye",
+    "title": "IM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740338725,
+    "joined": 1513031724,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2421,
+            "date": 1685587294,
+            "rd": 296
+        },
+        "best": {
+            "rating": 2421,
+            "date": 1606189253,
+            "game": "https://www.chess.com/game/live/5808709232"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2761,
+            "date": 1671167504,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2782,
+            "date": 1671166874,
+            "game": "https://www.chess.com/game/live/5151454501"
+        },
+        "record": {
+            "win": 54,
+            "loss": 46,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2794,
+            "date": 1730333357,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1730253811,
+            "game": "https://www.chess.com/game/live/116298016419"
+        },
+        "record": {
+            "win": 322,
+            "loss": 181,
+            "draw": 94
+        }
+    },
+    "fide": 2401,
+    "tactics": {
+        "highest": {
+            "rating": 1217,
+            "date": 1649552115
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1514078778
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

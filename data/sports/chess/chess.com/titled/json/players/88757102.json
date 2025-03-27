@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/88757102.836096cf.200x200o.f437fb9b715b.jpeg",
+    "player_id": 88757102,
+    "@id": "https://api.chess.com/pub/player/honestgames",
+    "url": "https://www.chess.com/member/honestgames",
+    "name": "Egor Lashkin",
+    "username": "honestgames",
+    "title": "FM",
+    "followers": 123,
+    "country": "https://api.chess.com/pub/country/MD",
+    "location": "Tiraspol",
+    "last_online": 1740691837,
+    "joined": 1597066776,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2525,
+            "date": 1722803072,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2525,
+            "date": 1706482456,
+            "game": "https://www.chess.com/game/live/53445044097"
+        },
+        "record": {
+            "win": 37,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2771,
+            "date": 1733268903,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2885,
+            "date": 1665862453,
+            "game": "https://www.chess.com/game/live/59601064043"
+        },
+        "record": {
+            "win": 131,
+            "loss": 100,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2799,
+            "date": 1740505030,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2961,
+            "date": 1734282267,
+            "game": "https://www.chess.com/game/live/97972925673"
+        },
+        "record": {
+            "win": 1400,
+            "loss": 1104,
+            "draw": 261
+        }
+    },
+    "fide": 2517,
+    "tactics": {
+        "highest": {
+            "rating": 3952,
+            "date": 1612826462
+        },
+        "lowest": {
+            "rating": 1225,
+            "date": 1597167519
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

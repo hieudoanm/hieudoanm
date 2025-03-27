@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5780639.a3d800d0.200x200o.9eb21e61f665.jpeg",
+    "player_id": 5780639,
+    "@id": "https://api.chess.com/pub/player/nyameba",
+    "url": "https://www.chess.com/member/Nyameba",
+    "name": "Bernard Anhwere",
+    "username": "nyameba",
+    "title": "CM",
+    "followers": 350,
+    "country": "https://api.chess.com/pub/country/GH",
+    "location": "Tema",
+    "last_online": 1741691858,
+    "joined": 1315904850,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1732,
+            "date": 1741670626,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1434956955,
+            "game": "https://www.chess.com/game/daily/102169318"
+        },
+        "record": {
+            "win": 2822,
+            "loss": 1666,
+            "draw": 543,
+            "time_per_move": 72232,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1696,
+            "date": 1737661513,
+            "rd": 110
+        },
+        "best": {
+            "rating": 1867,
+            "date": 1577992810,
+            "game": "https://www.chess.com/game/daily/238411200"
+        },
+        "record": {
+            "win": 112,
+            "loss": 66,
+            "draw": 12,
+            "time_per_move": 72232,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2052,
+            "date": 1734497795,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2156,
+            "date": 1606473705,
+            "game": "https://www.chess.com/game/live/35723779405"
+        },
+        "record": {
+            "win": 1305,
+            "loss": 1297,
+            "draw": 201
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2165,
+            "date": 1740721714,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2208,
+            "date": 1679609956,
+            "game": "https://www.chess.com/game/live/73348435563"
+        },
+        "record": {
+            "win": 4017,
+            "loss": 4082,
+            "draw": 224
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2233,
+            "date": 1741069873,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2262,
+            "date": 1735684842,
+            "game": "https://www.chess.com/game/live/128190039745"
+        },
+        "record": {
+            "win": 6679,
+            "loss": 6156,
+            "draw": 638
+        }
+    },
+    "fide": 1892,
+    "tactics": {
+        "highest": {
+            "rating": 3007,
+            "date": 1734025622
+        },
+        "lowest": {
+            "rating": 415,
+            "date": 1566389561
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

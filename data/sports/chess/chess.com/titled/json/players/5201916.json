@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5201916.b668c9f4.200x200o.d471fed4d2b6.jpg",
+    "player_id": 5201916,
+    "@id": "https://api.chess.com/pub/player/mylenefarmer",
+    "url": "https://www.chess.com/member/MyleneFarmer",
+    "name": "Wojtek Sochacki",
+    "username": "mylenefarmer",
+    "title": "IM",
+    "followers": 100,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Villejuif",
+    "last_online": 1741446948,
+    "joined": 1306791757,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1673087106,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 740584,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2445,
+            "date": 1703314760,
+            "rd": 190
+        },
+        "best": {
+            "rating": 2445,
+            "date": 1703314760,
+            "game": "https://www.chess.com/game/live/97053051561"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2533,
+            "date": 1702307934,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2656,
+            "date": 1530087005,
+            "game": "https://www.chess.com/game/live/10630031829"
+        },
+        "record": {
+            "win": 379,
+            "loss": 243,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2545,
+            "date": 1741478366,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1614110593,
+            "game": "https://www.chess.com/game/live/76517421145"
+        },
+        "record": {
+            "win": 1706,
+            "loss": 1397,
+            "draw": 218
+        }
+    },
+    "fide": 2320,
+    "tactics": {
+        "highest": {
+            "rating": 3247,
+            "date": 1741475851
+        },
+        "lowest": {
+            "rating": 746,
+            "date": 1306792070
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

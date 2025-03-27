@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56120444.b88eb2d7.200x200o.3f241119c6c0.jpeg",
+    "player_id": 56120444,
+    "@id": "https://api.chess.com/pub/player/sam1189",
+    "url": "https://www.chess.com/member/sam1189",
+    "username": "sam1189",
+    "title": "FM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741691661,
+    "joined": 1547701307,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2124,
+            "date": 1741611481,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2137,
+            "date": 1738845569,
+            "game": "https://www.chess.com/game/live/95408350733"
+        },
+        "record": {
+            "win": 16,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2496,
+            "date": 1694414426,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2562,
+            "date": 1694357411,
+            "game": "https://www.chess.com/game/live/88096246407"
+        },
+        "record": {
+            "win": 22,
+            "loss": 8,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2860,
+            "date": 1741623823,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2905,
+            "date": 1697369154,
+            "game": "https://www.chess.com/game/live/87640867609"
+        },
+        "record": {
+            "win": 323,
+            "loss": 212,
+            "draw": 49
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3803,
+            "date": 1694025615
+        },
+        "lowest": {
+            "rating": 416,
+            "date": 1555499042
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

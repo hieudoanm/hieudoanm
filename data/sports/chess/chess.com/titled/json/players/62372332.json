@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62372332.ba9b5c30.200x200o.c12a3a7adb95.jpeg",
+    "player_id": 62372332,
+    "@id": "https://api.chess.com/pub/player/chessdreamer2001",
+    "url": "https://www.chess.com/member/Chessdreamer2001",
+    "name": "Arpita Mukherjee",
+    "username": "chessdreamer2001",
+    "title": "WIM",
+    "followers": 94,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741674097,
+    "joined": 1560762234,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2061,
+            "date": 1634489722,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1591077404,
+            "game": "https://www.chess.com/game/live/5205429823"
+        },
+        "record": {
+            "win": 12,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2476,
+            "date": 1730019010,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2491,
+            "date": 1729672493,
+            "game": "https://www.chess.com/game/live/105554453443"
+        },
+        "record": {
+            "win": 470,
+            "loss": 357,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2559,
+            "date": 1739985336,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2663,
+            "date": 1717568537,
+            "game": "https://www.chess.com/game/live/103393379507"
+        },
+        "record": {
+            "win": 1317,
+            "loss": 1068,
+            "draw": 168
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3618,
+            "date": 1719581959
+        },
+        "lowest": {
+            "rating": 986,
+            "date": 1561386078
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

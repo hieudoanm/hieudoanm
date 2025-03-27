@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59172664.be47a1f8.200x200o.a326b910acad.png",
+    "player_id": 59172664,
+    "@id": "https://api.chess.com/pub/player/spartantiger2025",
+    "url": "https://www.chess.com/member/spartantiger2025",
+    "name": "Daniel Yang",
+    "username": "spartantiger2025",
+    "title": "NM",
+    "followers": 85,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741701599,
+    "joined": 1553903899,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1555,
+            "date": 1740751989,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1834,
+            "date": 1615115308,
+            "game": "https://www.chess.com/game/daily/312312800"
+        },
+        "record": {
+            "win": 52,
+            "loss": 39,
+            "draw": 8,
+            "time_per_move": 45068,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2194,
+            "date": 1741650071,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2221,
+            "date": 1740858783,
+            "game": "https://www.chess.com/game/live/99602602353"
+        },
+        "record": {
+            "win": 640,
+            "loss": 270,
+            "draw": 52
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2483,
+            "date": 1741626187,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2490,
+            "date": 1740244760,
+            "game": "https://www.chess.com/game/live/115859425007"
+        },
+        "record": {
+            "win": 812,
+            "loss": 494,
+            "draw": 89
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2223,
+            "date": 1741703214,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2310,
+            "date": 1722464279,
+            "game": "https://www.chess.com/game/live/111979358089"
+        },
+        "record": {
+            "win": 494,
+            "loss": 282,
+            "draw": 63
+        }
+    },
+    "fide": 2201,
+    "tactics": {
+        "highest": {
+            "rating": 3095,
+            "date": 1673646652
+        },
+        "lowest": {
+            "rating": 415,
+            "date": 1553906258
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

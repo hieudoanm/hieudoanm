@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4548635.50296b2d.200x200o.6bff8e8317cb.jpeg",
+    "player_id": 4548635,
+    "@id": "https://api.chess.com/pub/player/beletko",
+    "url": "https://www.chess.com/member/Beletko",
+    "name": "Daniel Beletic",
+    "username": "beletko",
+    "title": "FM",
+    "followers": 74,
+    "country": "https://api.chess.com/pub/country/SI",
+    "location": "ilirska bistrica",
+    "last_online": 1741696167,
+    "joined": 1294928526,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1952,
+            "date": 1685539168,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1485362092,
+            "game": "https://www.chess.com/game/live/76267306913"
+        },
+        "record": {
+            "win": 3,
+            "loss": 11,
+            "draw": 52
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2220,
+            "date": 1735435650,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2298,
+            "date": 1731923028,
+            "game": "https://www.chess.com/game/live/125330999587"
+        },
+        "record": {
+            "win": 160,
+            "loss": 137,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2366,
+            "date": 1741700909,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2648,
+            "date": 1727955583,
+            "game": "https://www.chess.com/game/live/122061645079"
+        },
+        "record": {
+            "win": 1840,
+            "loss": 1729,
+            "draw": 257
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3072,
+            "date": 1730968321
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1508266646
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

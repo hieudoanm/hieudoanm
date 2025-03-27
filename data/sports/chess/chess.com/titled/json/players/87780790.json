@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/87780790.d4d86411.200x200o.ff451c8fabb8.png",
+    "player_id": 87780790,
+    "@id": "https://api.chess.com/pub/player/icedkings",
+    "url": "https://www.chess.com/member/icedkings",
+    "name": "Larry Sivitz",
+    "username": "icedkings",
+    "title": "NM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Puget Sound",
+    "last_online": 1741663059,
+    "joined": 1595960150,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2354,
+            "date": 1684981109,
+            "rd": 268
+        },
+        "best": {
+            "rating": 2354,
+            "date": 1656638163,
+            "game": "https://www.chess.com/game/live/50375994469"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1854,
+            "date": 1741663588,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2196,
+            "date": 1669338231,
+            "game": "https://www.chess.com/game/live/5262887851"
+        },
+        "record": {
+            "win": 7610,
+            "loss": 6930,
+            "draw": 563
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 2943,
+            "date": 1722976327
+        },
+        "lowest": {
+            "rating": 2200,
+            "date": 1620267423
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

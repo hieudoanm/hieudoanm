@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71996242.19ce474a.200x200o.3097326fccef.jpeg",
+    "player_id": 71996242,
+    "@id": "https://api.chess.com/pub/player/drragnar1",
+    "url": "https://www.chess.com/member/drragnar1",
+    "name": "Batuhan \u00d6zen",
+    "username": "drragnar1",
+    "title": "CM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "\u0130zmir",
+    "last_online": 1741365574,
+    "joined": 1581348815,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2313,
+            "date": 1684353766,
+            "rd": 175
+        },
+        "best": {
+            "rating": 2313,
+            "date": 1651566205,
+            "game": "https://www.chess.com/game/live/45304166333"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2464,
+            "date": 1739640539,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1667204462,
+            "game": "https://www.chess.com/game/live/129150264811"
+        },
+        "record": {
+            "win": 109,
+            "loss": 109,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2433,
+            "date": 1741620371,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2497,
+            "date": 1736548179,
+            "game": "https://www.chess.com/game/live/6090686190"
+        },
+        "record": {
+            "win": 773,
+            "loss": 678,
+            "draw": 110
+        }
+    },
+    "fide": 2128,
+    "tactics": {
+        "highest": {
+            "rating": 2341,
+            "date": 1589795566
+        },
+        "lowest": {
+            "rating": 1016,
+            "date": 1586623350
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

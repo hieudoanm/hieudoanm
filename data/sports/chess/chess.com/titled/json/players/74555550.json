@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74555550.e54ba991.200x200o.a7d0c3a3cf5e.jpg",
+    "player_id": 74555550,
+    "@id": "https://api.chess.com/pub/player/arysya",
+    "url": "https://www.chess.com/member/Arysya",
+    "name": "Arystan Isanzhulov",
+    "username": "arysya",
+    "title": "IM",
+    "followers": 458,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741537395,
+    "joined": 1585211750,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2505,
+            "date": 1675776477,
+            "rd": 264
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1622541618,
+            "game": "https://www.chess.com/game/live/16280078447"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2995,
+            "date": 1736295111,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3142,
+            "date": 1721593316,
+            "game": "https://www.chess.com/game/live/82578034443"
+        },
+        "record": {
+            "win": 5673,
+            "loss": 3038,
+            "draw": 442
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2900,
+            "date": 1736287767,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2920,
+            "date": 1720562715,
+            "game": "https://www.chess.com/game/live/114277897267"
+        },
+        "record": {
+            "win": 616,
+            "loss": 450,
+            "draw": 90
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3830,
+            "date": 1707660806
+        },
+        "lowest": {
+            "rating": 2216,
+            "date": 1585402413
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "player_id": 55647606,
+    "@id": "https://api.chess.com/pub/player/warerman",
+    "url": "https://www.chess.com/member/Warerman",
+    "name": "Rosen Yordanov Rusev",
+    "username": "warerman",
+    "title": "FM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/BG",
+    "last_online": 1741687746,
+    "joined": 1546877447,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2116,
+            "date": 1590771326,
+            "rd": 264
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2564,
+            "date": 1741599238,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2635,
+            "date": 1739442897,
+            "game": "https://www.chess.com/game/live/133180748879"
+        },
+        "record": {
+            "win": 294,
+            "loss": 203,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2436,
+            "date": 1741702243,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2577,
+            "date": 1583434649,
+            "game": "https://www.chess.com/game/live/122117360415"
+        },
+        "record": {
+            "win": 1254,
+            "loss": 1055,
+            "draw": 191
+        }
+    },
+    "fide": 2366,
+    "tactics": {
+        "highest": {
+            "rating": 2822,
+            "date": 1738753566
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1546877612
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

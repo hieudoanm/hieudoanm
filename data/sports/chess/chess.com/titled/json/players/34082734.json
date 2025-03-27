@@ -1,0 +1,105 @@
+{
+    "player_id": 34082734,
+    "@id": "https://api.chess.com/pub/player/gympod",
+    "url": "https://www.chess.com/member/gympod",
+    "name": "Bradley Sawyer",
+    "username": "gympod",
+    "title": "NM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Texas",
+    "last_online": 1739747401,
+    "joined": 1489904093,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1998,
+            "date": 1702674132,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1515338862,
+            "game": "https://www.chess.com/game/daily/194364848"
+        },
+        "record": {
+            "win": 22,
+            "loss": 4,
+            "draw": 3,
+            "time_per_move": 26117,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2075,
+            "date": 1739747886,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2175,
+            "date": 1617580498,
+            "game": "https://www.chess.com/game/live/11318580445"
+        },
+        "record": {
+            "win": 11,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2496,
+            "date": 1660661754,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2496,
+            "date": 1660661754,
+            "game": "https://www.chess.com/game/live/3727188832"
+        },
+        "record": {
+            "win": 709,
+            "loss": 605,
+            "draw": 58
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2455,
+            "date": 1715150901,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2455,
+            "date": 1555758130,
+            "game": "https://www.chess.com/game/live/19935146537"
+        },
+        "record": {
+            "win": 1881,
+            "loss": 1626,
+            "draw": 150
+        }
+    },
+    "fide": 2172,
+    "tactics": {
+        "highest": {
+            "rating": 3259,
+            "date": 1716234745
+        },
+        "lowest": {
+            "rating": 1251,
+            "date": 1490072405
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 40
+        }
+    }
+}

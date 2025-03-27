@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16881716.38568b0d.200x200o.d561c9bea179.jpg",
+    "player_id": 16881716,
+    "@id": "https://api.chess.com/pub/player/adar_07",
+    "url": "https://www.chess.com/member/Adar_07",
+    "name": "Adar TARHAN",
+    "username": "adar_07",
+    "title": "IM",
+    "followers": 104,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "\u0130stanbul",
+    "last_online": 1741562241,
+    "joined": 1397382996,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1915,
+            "date": 1737560094,
+            "rd": 60
+        },
+        "best": {
+            "rating": 1931,
+            "date": 1719136150,
+            "game": "https://www.chess.com/game/daily/391174409"
+        },
+        "record": {
+            "win": 108,
+            "loss": 22,
+            "draw": 10,
+            "time_per_move": 9343,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2502,
+            "date": 1714749314,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2502,
+            "date": 1704637231,
+            "game": "https://www.chess.com/game/live/37537752229"
+        },
+        "record": {
+            "win": 467,
+            "loss": 176,
+            "draw": 51
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2787,
+            "date": 1740250765,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2802,
+            "date": 1736618465,
+            "game": "https://www.chess.com/game/live/118864868993"
+        },
+        "record": {
+            "win": 1294,
+            "loss": 797,
+            "draw": 110
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2788,
+            "date": 1740244343,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1725224232,
+            "game": "https://www.chess.com/game/live/131826064675"
+        },
+        "record": {
+            "win": 2670,
+            "loss": 2617,
+            "draw": 448
+        }
+    },
+    "fide": 2481,
+    "tactics": {
+        "highest": {
+            "rating": 3749,
+            "date": 1696447981
+        },
+        "lowest": {
+            "rating": 1313,
+            "date": 1430846517
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

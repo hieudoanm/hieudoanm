@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20358558.e2c889bc.200x200o.ac207ddfbb92.png",
+    "player_id": 20358558,
+    "@id": "https://api.chess.com/pub/player/polemistis",
+    "url": "https://www.chess.com/member/Polemistis",
+    "name": "Karthik Kumar Pradeep",
+    "username": "polemistis",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1732623079,
+    "joined": 1419697677,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1275,
+            "date": 1727201831,
+            "rd": 303
+        },
+        "best": {
+            "rating": 1752,
+            "date": 1690365593,
+            "game": "https://www.chess.com/game/live/84104394273"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2362,
+            "date": 1678380269,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1672752450,
+            "game": "https://www.chess.com/game/live/66491015577"
+        },
+        "record": {
+            "win": 9,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2375,
+            "date": 1730047108,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1687096210,
+            "game": "https://www.chess.com/game/live/80835026569"
+        },
+        "record": {
+            "win": 190,
+            "loss": 172,
+            "draw": 31
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2845,
+            "date": 1529242561
+        },
+        "lowest": {
+            "rating": 1334,
+            "date": 1420471046
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

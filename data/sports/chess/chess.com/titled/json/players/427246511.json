@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/427246511.8cc0aa33.200x200o.e18d6c544d93.jpg",
+    "player_id": 427246511,
+    "@id": "https://api.chess.com/pub/player/cryptic_warrior",
+    "url": "https://www.chess.com/member/Cryptic_Warrior",
+    "name": "Yaroslav Demchenko",
+    "username": "cryptic_warrior",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741702404,
+    "joined": 1738942234,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2500,
+            "date": 1739465267,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1739465092,
+            "game": "https://www.chess.com/game/live/133204145003"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1741695277,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2571,
+            "date": 1740499426,
+            "game": "https://www.chess.com/game/live/134867349223"
+        },
+        "record": {
+            "win": 91,
+            "loss": 60,
+            "draw": 14
+        }
+    },
+    "fide": 2201,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1738942234
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1738942234
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 37
+        }
+    }
+}

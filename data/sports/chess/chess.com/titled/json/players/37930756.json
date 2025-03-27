@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37930756.0ef4dcbf.200x200o.746e8fed8496.jpeg",
+    "player_id": 37930756,
+    "@id": "https://api.chess.com/pub/player/potosino1970",
+    "url": "https://www.chess.com/member/Potosino1970",
+    "name": "GILBERTO HERNANDEZ",
+    "username": "potosino1970",
+    "title": "GM",
+    "followers": 274,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "San Luis, Argentina",
+    "last_online": 1741703418,
+    "joined": 1503100320,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2467,
+            "date": 1709002119,
+            "rd": 179
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1601159749,
+            "game": "https://www.chess.com/game/live/5502002901"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2685,
+            "date": 1740767407,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2759,
+            "date": 1600731643,
+            "game": "https://www.chess.com/game/live/5479174443"
+        },
+        "record": {
+            "win": 6,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2709,
+            "date": 1732495773,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2859,
+            "date": 1682994729,
+            "game": "https://www.chess.com/game/live/114277897329"
+        },
+        "record": {
+            "win": 618,
+            "loss": 488,
+            "draw": 87
+        }
+    },
+    "fide": 2525,
+    "tactics": {
+        "highest": {
+            "rating": 3649,
+            "date": 1732136937
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1532836142
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46890044.6459c2ed.200x200o.9df647912ffa.jpg",
+    "player_id": 46890044,
+    "@id": "https://api.chess.com/pub/player/conscientiousconscious",
+    "url": "https://www.chess.com/member/conscientiousconscious",
+    "name": "Zofia \u0141a\u017aniewska",
+    "username": "conscientiousconscious",
+    "title": "WFM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Polska",
+    "last_online": 1733906410,
+    "joined": 1528383108,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 795,
+            "date": 1733838663,
+            "rd": 344
+        },
+        "record": {
+            "win": 1,
+            "loss": 7,
+            "draw": 0,
+            "time_per_move": 45979,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1923,
+            "date": 1733838664,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1541,
+            "date": 1686648925,
+            "game": "https://www.chess.com/game/live/80387506317"
+        },
+        "record": {
+            "win": 13,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1923,
+            "date": 1733838664,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1370,
+            "date": 1582384193,
+            "game": "https://www.chess.com/game/live/4500452812"
+        },
+        "record": {
+            "win": 78,
+            "loss": 46,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1923,
+            "date": 1733838664,
+            "rd": 78
+        },
+        "best": {
+            "rating": 1498,
+            "date": 1686338338,
+            "game": "https://www.chess.com/game/live/3849319352"
+        },
+        "record": {
+            "win": 116,
+            "loss": 91,
+            "draw": 7
+        }
+    },
+    "fide": 1923,
+    "tactics": {
+        "highest": {
+            "rating": 924,
+            "date": 1686494411
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1533922080
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 15,
+            "score": 12
+        }
+    }
+}

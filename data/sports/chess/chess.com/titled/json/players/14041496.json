@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14041496.d01604ac.200x200o.ac1d96b42bb8.jpeg",
+    "player_id": 14041496,
+    "@id": "https://api.chess.com/pub/player/siansell",
+    "url": "https://www.chess.com/member/siansell",
+    "name": "Simon Ansell",
+    "username": "siansell",
+    "title": "IM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "York",
+    "last_online": 1741699574,
+    "joined": 1382656829,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1389,
+            "date": 1516119743,
+            "rd": 268
+        },
+        "best": {
+            "rating": 1389,
+            "date": 1463134387,
+            "game": "https://www.chess.com/game/daily/135124396"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 35132,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2341,
+            "date": 1590268610,
+            "rd": 319
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1484165785,
+            "game": "https://www.chess.com/game/live/4897992474"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2511,
+            "date": 1730931744,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1716883030,
+            "game": "https://www.chess.com/game/live/107099515699"
+        },
+        "record": {
+            "win": 1223,
+            "loss": 1042,
+            "draw": 129
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2611,
+            "date": 1741641983,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1727636612,
+            "game": "https://www.chess.com/game/live/33702582853"
+        },
+        "record": {
+            "win": 10566,
+            "loss": 9029,
+            "draw": 2041
+        }
+    },
+    "fide": 2400,
+    "tactics": {
+        "highest": {
+            "rating": 2883,
+            "date": 1718267179
+        },
+        "lowest": {
+            "rating": 1390,
+            "date": 1457477556
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

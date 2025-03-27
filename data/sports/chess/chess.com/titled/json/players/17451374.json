@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17451374.04c47c30.200x200o.f682d31f7ad0.jpeg",
+    "player_id": 17451374,
+    "@id": "https://api.chess.com/pub/player/pepecuenca",
+    "url": "https://www.chess.com/member/PepeCuenca",
+    "name": "Jose Fernando Cuenca",
+    "username": "pepecuenca",
+    "title": "GM",
+    "followers": 1818,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Granada",
+    "last_online": 1741650686,
+    "joined": 1401137186,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2323,
+            "date": 1739820098,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2645,
+            "date": 1678237439,
+            "game": "https://www.chess.com/game/live/133548539259"
+        },
+        "record": {
+            "win": 7,
+            "loss": 22,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2692,
+            "date": 1730831159,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2771,
+            "date": 1707585071,
+            "game": "https://www.chess.com/game/live/101930203579"
+        },
+        "record": {
+            "win": 305,
+            "loss": 275,
+            "draw": 39
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2756,
+            "date": 1741574131,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2833,
+            "date": 1712940557,
+            "game": "https://www.chess.com/game/live/102820274549"
+        },
+        "record": {
+            "win": 1546,
+            "loss": 1293,
+            "draw": 359
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1189,
+            "date": 1591459899
+        },
+        "lowest": {
+            "rating": 1189,
+            "date": 1578436388
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 51
+        },
+        "daily": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44360156.0ec97aaf.200x200o.7e936c7472a1.jpeg",
+    "player_id": 44360156,
+    "@id": "https://api.chess.com/pub/player/nicki2013",
+    "url": "https://www.chess.com/member/Nicki2013",
+    "name": "Nikolay Kleimenov",
+    "username": "nicki2013",
+    "title": "CM",
+    "followers": 131,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Moscow",
+    "last_online": 1741434587,
+    "joined": 1521284448,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1885,
+            "date": 1741442877,
+            "rd": 147
+        },
+        "best": {
+            "rating": 1951,
+            "date": 1728071736,
+            "game": "https://www.chess.com/game/daily/341331061"
+        },
+        "record": {
+            "win": 171,
+            "loss": 61,
+            "draw": 12,
+            "time_per_move": 31136,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1154,
+            "date": 1584213529,
+            "rd": 254
+        },
+        "best": {
+            "rating": 1154,
+            "date": 1584213529,
+            "game": "https://www.chess.com/game/daily/251617984"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 31136,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2235,
+            "date": 1733580388,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2235,
+            "date": 1733580388,
+            "game": "https://www.chess.com/game/live/127233612365"
+        },
+        "record": {
+            "win": 561,
+            "loss": 309,
+            "draw": 52
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2741,
+            "date": 1741455494,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2831,
+            "date": 1739639534,
+            "game": "https://www.chess.com/game/live/120673860767"
+        },
+        "record": {
+            "win": 467,
+            "loss": 298,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2825,
+            "date": 1741111659,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2828,
+            "date": 1741110887,
+            "game": "https://www.chess.com/game/live/134331550227"
+        },
+        "record": {
+            "win": 571,
+            "loss": 359,
+            "draw": 60
+        }
+    },
+    "fide": 2127,
+    "tactics": {
+        "highest": {
+            "rating": 3694,
+            "date": 1729000077
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1521399438
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

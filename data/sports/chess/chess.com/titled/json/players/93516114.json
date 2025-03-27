@@ -1,0 +1,84 @@
+{
+    "player_id": 93516114,
+    "@id": "https://api.chess.com/pub/player/josey_wales2020",
+    "url": "https://www.chess.com/member/Josey_Wales2020",
+    "username": "josey_wales2020",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1741542558,
+    "joined": 1603201451,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2387,
+            "date": 1739307093,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1686338046,
+            "game": "https://www.chess.com/game/live/101596387715"
+        },
+        "record": {
+            "win": 25,
+            "loss": 18,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2300,
+            "date": 1712249441,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2043,
+            "date": 1618071030,
+            "game": "https://www.chess.com/game/live/11809988423"
+        },
+        "record": {
+            "win": 10,
+            "loss": 10,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2092,
+            "date": 1741545698,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1712327577,
+            "game": "https://www.chess.com/game/live/108655772889"
+        },
+        "record": {
+            "win": 1143,
+            "loss": 1027,
+            "draw": 55
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3398,
+            "date": 1739307331
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1603212283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

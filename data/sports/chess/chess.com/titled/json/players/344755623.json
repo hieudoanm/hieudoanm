@@ -1,0 +1,65 @@
+{
+    "player_id": 344755623,
+    "@id": "https://api.chess.com/pub/player/fever_code",
+    "url": "https://www.chess.com/member/Fever_Code",
+    "username": "fever_code",
+    "title": "NM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741547003,
+    "joined": 1707681455,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2777,
+            "date": 1737579218,
+            "rd": 18
+        },
+        "best": {
+            "rating": 3003,
+            "date": 1710197610,
+            "game": "https://www.chess.com/game/live/129585824185"
+        },
+        "record": {
+            "win": 1235,
+            "loss": 1678,
+            "draw": 242
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2741,
+            "date": 1737938798
+        },
+        "best": {
+            "rating": 2855,
+            "date": 1709072890,
+            "game": "https://www.chess.com/game/live/122332134165"
+        },
+        "record": {
+            "win": 1013,
+            "loss": 1271,
+            "draw": 246
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2005,
+            "date": 1708828879
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1707681455
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16656734.b4fad6aa.200x200o.f7bab47daf23.jpg",
+    "player_id": 16656734,
+    "@id": "https://api.chess.com/pub/player/milchone1",
+    "url": "https://www.chess.com/member/Milchone1",
+    "name": "Nikolay Milchev",
+    "username": "milchone1",
+    "title": "IM",
+    "followers": 1116,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Stoke on Trent",
+    "last_online": 1741700606,
+    "joined": 1396038017,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2334,
+            "date": 1741700667,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1678132269,
+            "game": "https://www.chess.com/game/daily/374440933"
+        },
+        "record": {
+            "win": 390,
+            "loss": 11,
+            "draw": 28,
+            "time_per_move": 19494,
+            "timeout_percent": 5
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1649407050,
+            "rd": 349
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 19494,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2513,
+            "date": 1724366754,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1615206064,
+            "game": "https://www.chess.com/game/live/16928811565"
+        },
+        "record": {
+            "win": 170,
+            "loss": 17,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2501,
+            "date": 1615212954,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2564,
+            "date": 1615212126,
+            "game": "https://www.chess.com/game/live/8950684545"
+        },
+        "record": {
+            "win": 36,
+            "loss": 23,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2633,
+            "date": 1741133110,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2633,
+            "date": 1741133110,
+            "game": "https://www.chess.com/game/live/120952256165"
+        },
+        "record": {
+            "win": 4777,
+            "loss": 3375,
+            "draw": 844
+        }
+    },
+    "fide": 2417,
+    "tactics": {
+        "highest": {
+            "rating": 3361,
+            "date": 1717612655
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1629369132
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

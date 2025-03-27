@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59398724.18d203d6.200x200o.07c224b6a9e8.jpg",
+    "player_id": 59398724,
+    "@id": "https://api.chess.com/pub/player/eragon02",
+    "url": "https://www.chess.com/member/eragon02",
+    "name": "Edoardo Di Benedetto",
+    "username": "eragon02",
+    "title": "IM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741689230,
+    "joined": 1554392704,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2204,
+            "date": 1740428625,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1740428625,
+            "game": "https://www.chess.com/game/live/133467540977"
+        },
+        "record": {
+            "win": 13,
+            "loss": 1,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2925,
+            "date": 1741625480,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2923,
+            "date": 1739659392,
+            "game": "https://www.chess.com/game/live/110048413507"
+        },
+        "record": {
+            "win": 1556,
+            "loss": 1212,
+            "draw": 259
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2880,
+            "date": 1741696653,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2923,
+            "date": 1737634998,
+            "game": "https://www.chess.com/game/live/131216347559"
+        },
+        "record": {
+            "win": 608,
+            "loss": 438,
+            "draw": 134
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2208,
+            "date": 1739092823
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1555234772
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

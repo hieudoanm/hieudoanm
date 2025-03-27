@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29980036.fc3d8af8.200x200o.97ae32031b62.jpeg",
+    "player_id": 29980036,
+    "@id": "https://api.chess.com/pub/player/yashami",
+    "url": "https://www.chess.com/member/yashami",
+    "name": "Monalisha khamboo",
+    "username": "yashami",
+    "title": "WCM",
+    "followers": 76,
+    "country": "https://api.chess.com/pub/country/NP",
+    "location": "Kathmandu",
+    "last_online": 1737984676,
+    "joined": 1474135436,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1552,
+            "date": 1689537626,
+            "rd": 204
+        },
+        "best": {
+            "rating": 1637,
+            "date": 1590141034,
+            "game": "https://www.chess.com/game/live/83275605093"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 774,
+            "date": 1732947400,
+            "rd": 87
+        },
+        "best": {
+            "rating": 1548,
+            "date": 1585571799,
+            "game": "https://www.chess.com/game/live/108837596181"
+        },
+        "record": {
+            "win": 41,
+            "loss": 75,
+            "draw": 0
+        }
+    },
+    "fide": 1660,
+    "tactics": {
+        "highest": {
+            "rating": 2219,
+            "date": 1719498859
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1474135436
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

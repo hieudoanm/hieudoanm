@@ -1,0 +1,111 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/50198948.2d42362e.200x200o.2ea557007d0a.jpg",
+    "player_id": 50198948,
+    "@id": "https://api.chess.com/pub/player/notfmjoshyet",
+    "url": "https://www.chess.com/member/NotFMJoshYet",
+    "name": "Joshua Medina",
+    "username": "notfmjoshyet",
+    "title": "CM",
+    "followers": 139,
+    "country": "https://api.chess.com/pub/country/TT",
+    "last_online": 1741698383,
+    "joined": 1538142675,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1661,
+            "date": 1741694408,
+            "rd": 72
+        },
+        "best": {
+            "rating": 1716,
+            "date": 1699658593,
+            "game": "https://www.chess.com/game/daily/717986165"
+        },
+        "record": {
+            "win": 670,
+            "loss": 250,
+            "draw": 39,
+            "time_per_move": 6799,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 115,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 12
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2145,
+            "date": 1741398746,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2187,
+            "date": 1734055434,
+            "game": "https://www.chess.com/game/live/127791630623"
+        },
+        "record": {
+            "win": 811,
+            "loss": 523,
+            "draw": 71
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1956,
+            "date": 1736110990,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2042,
+            "date": 1735406792,
+            "game": "https://www.chess.com/game/live/129145459789"
+        },
+        "record": {
+            "win": 1378,
+            "loss": 1228,
+            "draw": 99
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1978,
+            "date": 1741400402,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2078,
+            "date": 1734560695,
+            "game": "https://www.chess.com/game/live/131217082351"
+        },
+        "record": {
+            "win": 2624,
+            "loss": 2425,
+            "draw": 255
+        }
+    },
+    "fide": 2003,
+    "tactics": {
+        "highest": {
+            "rating": 3082,
+            "date": 1721261992
+        },
+        "lowest": {
+            "rating": 404,
+            "date": 1548201458
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

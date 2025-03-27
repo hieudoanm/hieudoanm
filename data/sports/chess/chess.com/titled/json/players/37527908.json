@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37527908.c6ab3018.200x200o.df8b4fe9ce29.jpeg",
+    "player_id": 37527908,
+    "@id": "https://api.chess.com/pub/player/nadiss",
+    "url": "https://www.chess.com/member/nadiss",
+    "name": "Nadiia Shpanko",
+    "username": "nadiss",
+    "title": "WIM",
+    "followers": 54,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741608628,
+    "joined": 1501779342,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2183,
+            "date": 1598636204,
+            "rd": 156
+        },
+        "best": {
+            "rating": 2246,
+            "date": 1598182722,
+            "game": "https://www.chess.com/game/live/5329212757"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2277,
+            "date": 1671922918,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2293,
+            "date": 1663779567,
+            "game": "https://www.chess.com/game/live/57518325187"
+        },
+        "record": {
+            "win": 43,
+            "loss": 43,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2487,
+            "date": 1701285315,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2677,
+            "date": 1652286503,
+            "game": "https://www.chess.com/game/live/46024211327"
+        },
+        "record": {
+            "win": 207,
+            "loss": 168,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3663,
+            "date": 1695558476
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1501782217
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

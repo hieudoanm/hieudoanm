@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9482140.d5df6e11.200x200o.f89ad059577a.jpg",
+    "player_id": 9482140,
+    "@id": "https://api.chess.com/pub/player/elchacal664",
+    "url": "https://www.chess.com/member/elchacal664",
+    "name": "Christian Silvestre",
+    "username": "elchacal664",
+    "title": "NM",
+    "followers": 544,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741589941,
+    "joined": 1351805166,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1534,
+            "date": 1735833926,
+            "rd": 145
+        },
+        "best": {
+            "rating": 1877,
+            "date": 1651600905,
+            "game": "https://www.chess.com/game/daily/381179453"
+        },
+        "record": {
+            "win": 69,
+            "loss": 66,
+            "draw": 23,
+            "time_per_move": 26535,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2408,
+            "date": 1735267002,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1701231871,
+            "game": "https://www.chess.com/game/live/121975803325"
+        },
+        "record": {
+            "win": 79,
+            "loss": 46,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2254,
+            "date": 1740767508,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2557,
+            "date": 1621306408,
+            "game": "https://www.chess.com/game/live/2916602249"
+        },
+        "record": {
+            "win": 2222,
+            "loss": 2288,
+            "draw": 302
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2359,
+            "date": 1741692459,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2693,
+            "date": 1543307334,
+            "game": "https://www.chess.com/game/live/97371071041"
+        },
+        "record": {
+            "win": 15575,
+            "loss": 15675,
+            "draw": 2807
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3293,
+            "date": 1707333552
+        },
+        "lowest": {
+            "rating": 1021,
+            "date": 1382860288
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

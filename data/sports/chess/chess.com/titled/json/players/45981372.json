@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45981372.00257a3b.200x200o.6ba82934a92b.png",
+    "player_id": 45981372,
+    "@id": "https://api.chess.com/pub/player/michal_fiedorek",
+    "url": "https://www.chess.com/member/Michal_Fiedorek",
+    "name": "Michal Fiedorek",
+    "username": "michal_fiedorek",
+    "title": "FM",
+    "followers": 73,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741017072,
+    "joined": 1525722100,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1822,
+            "date": 1714408721,
+            "rd": 108
+        },
+        "best": {
+            "rating": 1822,
+            "date": 1630821445,
+            "game": "https://www.chess.com/game/daily/310273780"
+        },
+        "record": {
+            "win": 30,
+            "loss": 3,
+            "draw": 3,
+            "time_per_move": 39570,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1382,
+            "date": 1612706762,
+            "rd": 243
+        },
+        "best": {
+            "rating": 1382,
+            "date": 1612706762,
+            "game": "https://www.chess.com/game/daily/307344508"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 39570,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2748,
+            "date": 1681372496,
+            "rd": 222
+        },
+        "best": {
+            "rating": 2748,
+            "date": 1585998216,
+            "game": "https://www.chess.com/game/live/4676757180"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2439,
+            "date": 1740953531,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1688471616,
+            "game": "https://www.chess.com/game/live/68772281689"
+        },
+        "record": {
+            "win": 655,
+            "loss": 625,
+            "draw": 79
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2566,
+            "date": 1737225418
+        },
+        "best": {
+            "rating": 2698,
+            "date": 1643120184,
+            "game": "https://www.chess.com/game/live/32037039165"
+        },
+        "record": {
+            "win": 1998,
+            "loss": 2014,
+            "draw": 448
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3617,
+            "date": 1740318364
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1545662545
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

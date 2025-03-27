@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22682694.611c464d.200x200o.ed07de1f79c7.jpg",
+    "player_id": 22682694,
+    "@id": "https://api.chess.com/pub/player/mikerahal",
+    "url": "https://www.chess.com/member/mikerahal",
+    "name": "Michael Rahal",
+    "username": "mikerahal",
+    "title": "IM",
+    "followers": 548,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Barcelona",
+    "last_online": 1741629103,
+    "joined": 1433444084,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2361,
+            "date": 1610651459,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2372,
+            "date": 1606775591,
+            "game": "https://www.chess.com/game/live/5786199297"
+        },
+        "record": {
+            "win": 17,
+            "loss": 5,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2200,
+            "date": 1731240040,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1729002281,
+            "game": "https://www.chess.com/game/live/124805949899"
+        },
+        "record": {
+            "win": 92,
+            "loss": 60,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2325,
+            "date": 1735595134,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2358,
+            "date": 1588440423,
+            "game": "https://www.chess.com/game/live/87060694907"
+        },
+        "record": {
+            "win": 174,
+            "loss": 98,
+            "draw": 33
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3484,
+            "date": 1736554546
+        },
+        "lowest": {
+            "rating": 2131,
+            "date": 1441658183
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 41
+        }
+    }
+}

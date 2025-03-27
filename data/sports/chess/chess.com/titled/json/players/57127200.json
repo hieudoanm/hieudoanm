@@ -1,0 +1,122 @@
+{
+    "player_id": 57127200,
+    "@id": "https://api.chess.com/pub/player/herzog2012",
+    "url": "https://www.chess.com/member/Herzog2012",
+    "name": "Mark Smirnov",
+    "username": "herzog2012",
+    "title": "FM",
+    "followers": 88,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741697597,
+    "joined": 1549678111,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1763,
+            "date": 1741671686,
+            "rd": 155
+        },
+        "best": {
+            "rating": 1818,
+            "date": 1692867122,
+            "game": "https://www.chess.com/game/daily/266494328"
+        },
+        "record": {
+            "win": 40,
+            "loss": 25,
+            "draw": 1,
+            "time_per_move": 93584,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1369,
+            "date": 1595141403,
+            "rd": 168
+        },
+        "best": {
+            "rating": 1432,
+            "date": 1592921401,
+            "game": "https://www.chess.com/game/daily/265843004"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 93584,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2283,
+            "date": 1734258795,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2293,
+            "date": 1674746594,
+            "game": "https://www.chess.com/game/live/120588581233"
+        },
+        "record": {
+            "win": 342,
+            "loss": 215,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2709,
+            "date": 1741333185,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2821,
+            "date": 1736619281,
+            "game": "https://www.chess.com/game/live/106765891061"
+        },
+        "record": {
+            "win": 1435,
+            "loss": 976,
+            "draw": 99
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2694,
+            "date": 1741674485,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2841,
+            "date": 1736413466,
+            "game": "https://www.chess.com/game/live/123954098413"
+        },
+        "record": {
+            "win": 2086,
+            "loss": 1405,
+            "draw": 276
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3704,
+            "date": 1725264121
+        },
+        "lowest": {
+            "rating": 418,
+            "date": 1549678165
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 86,
+            "score": 83
+        }
+    }
+}

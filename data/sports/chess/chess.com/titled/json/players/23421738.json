@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23421738.573daf26.200x200o.2a41d5406d1b.jpg",
+    "player_id": 23421738,
+    "@id": "https://api.chess.com/pub/player/no-regret",
+    "url": "https://www.chess.com/member/NO-REGRET",
+    "name": "Nguyen Hoang Nam",
+    "username": "no-regret",
+    "title": "FM",
+    "followers": 225,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1741681845,
+    "joined": 1438022358,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1919,
+            "date": 1689157463,
+            "rd": 155
+        },
+        "best": {
+            "rating": 1919,
+            "date": 1689157463,
+            "game": "https://www.chess.com/game/live/2300174564"
+        },
+        "record": {
+            "win": 9,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2640,
+            "date": 1684257912,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1662517920,
+            "game": "https://www.chess.com/game/live/74189564257"
+        },
+        "record": {
+            "win": 25687,
+            "loss": 18007,
+            "draw": 2510
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2660,
+            "date": 1698371144,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2660,
+            "date": 1698371144,
+            "game": "https://www.chess.com/game/live/5435992093"
+        },
+        "record": {
+            "win": 2257,
+            "loss": 1744,
+            "draw": 187
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3402,
+            "date": 1690811440
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1438051228
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 42
+        }
+    }
+}

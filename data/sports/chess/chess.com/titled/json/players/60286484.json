@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60286484.190dbdcb.200x200o.a70ce41464b1.png",
+    "player_id": 60286484,
+    "@id": "https://api.chess.com/pub/player/burgersarebetter",
+    "url": "https://www.chess.com/member/BurgersAreBetter",
+    "name": "Jason Hu",
+    "username": "burgersarebetter",
+    "title": "FM",
+    "followers": 92,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741684358,
+    "joined": 1556325307,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2256,
+            "date": 1717684963,
+            "rd": 220
+        },
+        "best": {
+            "rating": 2256,
+            "date": 1642344617,
+            "game": "https://www.chess.com/game/daily/375768337"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 20115,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2354,
+            "date": 1740663045,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1696350456,
+            "game": "https://www.chess.com/game/live/35719639797"
+        },
+        "record": {
+            "win": 177,
+            "loss": 49,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2701,
+            "date": 1741677086,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1741139775,
+            "game": "https://www.chess.com/game/live/10378592157"
+        },
+        "record": {
+            "win": 958,
+            "loss": 830,
+            "draw": 104
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2515,
+            "date": 1741690394,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2643,
+            "date": 1716021636,
+            "game": "https://www.chess.com/game/live/38054425523"
+        },
+        "record": {
+            "win": 5853,
+            "loss": 4177,
+            "draw": 844
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3212,
+            "date": 1730804183
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1574674552
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

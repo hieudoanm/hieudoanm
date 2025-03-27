@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8007678.5d424f71.200x200o.eb91492a5add.jpeg",
+    "player_id": 8007678,
+    "@id": "https://api.chess.com/pub/player/gmmoskalenko",
+    "url": "https://www.chess.com/member/gmMOSKALENKO",
+    "name": "Viktor Moskalenko",
+    "username": "gmmoskalenko",
+    "title": "GM",
+    "followers": 174,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Barcelona",
+    "last_online": 1733932415,
+    "joined": 1340664395,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2433,
+            "date": 1730893372,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2433,
+            "date": 1730552458,
+            "game": "https://www.chess.com/game/live/50245264083"
+        },
+        "record": {
+            "win": 111,
+            "loss": 31,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2173,
+            "date": 1702077090,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2278,
+            "date": 1666047068,
+            "game": "https://www.chess.com/game/live/59783990269"
+        },
+        "record": {
+            "win": 18,
+            "loss": 13,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2587,
+            "date": 1731067442,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2692,
+            "date": 1695821429,
+            "game": "https://www.chess.com/game/live/50848839829"
+        },
+        "record": {
+            "win": 169,
+            "loss": 68,
+            "draw": 49
+        }
+    },
+    "fide": 2532,
+    "tactics": {
+        "highest": {
+            "rating": 3242,
+            "date": 1696086284
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1588149818
+        }
+    },
+    "puzzle_rush": {}
+}

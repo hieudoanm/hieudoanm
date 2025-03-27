@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31621768.2eec1ae9.200x200o.8407c3e96a5d.jpg",
+    "player_id": 31621768,
+    "@id": "https://api.chess.com/pub/player/nurgyulsalimova",
+    "url": "https://www.chess.com/member/nurgyulsalimova",
+    "name": "Nurgyul Salimova",
+    "username": "nurgyulsalimova",
+    "title": "IM",
+    "followers": 2143,
+    "country": "https://api.chess.com/pub/country/BG",
+    "last_online": 1741700072,
+    "joined": 1481749130,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1898,
+            "date": 1571101606,
+            "rd": 110
+        },
+        "best": {
+            "rating": 1898,
+            "date": 1525699801,
+            "game": "https://www.chess.com/game/daily/182046028"
+        },
+        "record": {
+            "win": 24,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 22341,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2317,
+            "date": 1616749805,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1590512078,
+            "game": "https://www.chess.com/game/live/5304951113"
+        },
+        "record": {
+            "win": 21,
+            "loss": 9,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2812,
+            "date": 1739314492,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2915,
+            "date": 1736368656,
+            "game": "https://www.chess.com/game/live/81970182899"
+        },
+        "record": {
+            "win": 1968,
+            "loss": 1593,
+            "draw": 301
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2759,
+            "date": 1741685700,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1631477513,
+            "game": "https://www.chess.com/game/live/84060627583"
+        },
+        "record": {
+            "win": 2704,
+            "loss": 2739,
+            "draw": 657
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3725,
+            "date": 1739406370
+        },
+        "lowest": {
+            "rating": 1044,
+            "date": 1481749167
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 82,
+            "score": 79
+        }
+    }
+}

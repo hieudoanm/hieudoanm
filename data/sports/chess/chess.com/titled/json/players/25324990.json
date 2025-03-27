@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25324990.6fef85f8.200x200o.88a00d2c454c.jpeg",
+    "player_id": 25324990,
+    "@id": "https://api.chess.com/pub/player/filpo413",
+    "url": "https://www.chess.com/member/filpo413",
+    "name": "Jose Lisandro Munoz Santana",
+    "username": "filpo413",
+    "title": "IM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/DO",
+    "location": "Santo Domingo",
+    "last_online": 1740982161,
+    "joined": 1448825225,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1617,
+            "date": 1711652947,
+            "rd": 184
+        },
+        "best": {
+            "rating": 1617,
+            "date": 1520198173,
+            "game": "https://www.chess.com/game/daily/185381072"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 54883,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2189,
+            "date": 1708487786,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2189,
+            "date": 1708487786,
+            "game": "https://www.chess.com/game/live/102225805115"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2667,
+            "date": 1740616814,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2540,
+            "date": 1581824083,
+            "game": "https://www.chess.com/game/live/2324830232"
+        },
+        "record": {
+            "win": 99,
+            "loss": 78,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2717,
+            "date": 1676535549,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1581826516,
+            "game": "https://www.chess.com/game/live/4503022280"
+        },
+        "record": {
+            "win": 196,
+            "loss": 115,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2826,
+            "date": 1581210728
+        },
+        "lowest": {
+            "rating": 1354,
+            "date": 1449716782
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

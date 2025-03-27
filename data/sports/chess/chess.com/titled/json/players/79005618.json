@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79005618.7592510e.200x200o.e8ca37d39337.jpg",
+    "player_id": 79005618,
+    "@id": "https://api.chess.com/pub/player/edgarhay012",
+    "url": "https://www.chess.com/member/edgarhay012",
+    "name": "Edgar Hayrapetyan",
+    "username": "edgarhay012",
+    "title": "FM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/AM",
+    "last_online": 1741703138,
+    "joined": 1589026826,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2327,
+            "date": 1739727703,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1739722476,
+            "game": "https://www.chess.com/game/live/37830592495"
+        },
+        "record": {
+            "win": 28,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2805,
+            "date": 1741516233,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2878,
+            "date": 1732989808,
+            "game": "https://www.chess.com/game/live/111606726767"
+        },
+        "record": {
+            "win": 371,
+            "loss": 231,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2756,
+            "date": 1741368202,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2767,
+            "date": 1741107971,
+            "game": "https://www.chess.com/game/live/111879172365"
+        },
+        "record": {
+            "win": 589,
+            "loss": 411,
+            "draw": 86
+        }
+    },
+    "fide": 2137,
+    "tactics": {
+        "highest": {
+            "rating": 2784,
+            "date": 1738323378
+        },
+        "lowest": {
+            "rating": 816,
+            "date": 1594034649
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

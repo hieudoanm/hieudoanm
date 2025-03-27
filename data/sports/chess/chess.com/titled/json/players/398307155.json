@@ -1,0 +1,99 @@
+{
+    "player_id": 398307155,
+    "@id": "https://api.chess.com/pub/player/cpor3",
+    "url": "https://www.chess.com/member/CPOR3",
+    "name": "Ren\u00e9 Antonio Pilarte Tijerino",
+    "username": "cpor3",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/NI",
+    "last_online": 1741092078,
+    "joined": 1729881355,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1863,
+            "date": 1732643663,
+            "rd": 210
+        },
+        "best": {
+            "rating": 1863,
+            "date": 1732643663,
+            "game": "https://www.chess.com/game/daily/729644549"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 9782,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2092,
+            "date": 1741181662,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2095,
+            "date": 1741092835,
+            "game": "https://www.chess.com/game/live/126154721495"
+        },
+        "record": {
+            "win": 15,
+            "loss": 5,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1816,
+            "date": 1741179978,
+            "rd": 81
+        },
+        "best": {
+            "rating": 1949,
+            "date": 1735092009,
+            "game": "https://www.chess.com/game/live/128886196643"
+        },
+        "record": {
+            "win": 9,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2099,
+            "date": 1741699785,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1735436835,
+            "game": "https://www.chess.com/game/live/129172978781"
+        },
+        "record": {
+            "win": 609,
+            "loss": 512,
+            "draw": 148
+        }
+    },
+    "fide": 2042,
+    "tactics": {
+        "highest": {
+            "rating": 2965,
+            "date": 1741530081
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1729881355
+        }
+    },
+    "puzzle_rush": {}
+}

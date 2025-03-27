@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20423710.a6b1793b.200x200o.018c2b4547b8.png",
+    "player_id": 20423710,
+    "@id": "https://api.chess.com/pub/player/joao_dianda",
+    "url": "https://www.chess.com/member/Joao_Dianda",
+    "name": "Jo\u00e3o Dianda",
+    "username": "joao_dianda",
+    "title": "NM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741561756,
+    "joined": 1420062911,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1677906231,
+            "rd": 216
+        },
+        "best": {
+            "rating": 1161,
+            "date": 1641762436,
+            "game": "https://www.chess.com/game/live/35501235539"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2140,
+            "date": 1741656764,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2358,
+            "date": 1647639880,
+            "game": "https://www.chess.com/game/live/42764435039"
+        },
+        "record": {
+            "win": 10859,
+            "loss": 9327,
+            "draw": 843
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2228,
+            "date": 1719696218,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1615831875,
+            "game": "https://www.chess.com/game/live/11491979273"
+        },
+        "record": {
+            "win": 2733,
+            "loss": 2331,
+            "draw": 250
+        }
+    },
+    "fide": 2000,
+    "tactics": {
+        "highest": {
+            "rating": 3013,
+            "date": 1697377440
+        },
+        "lowest": {
+            "rating": 1250,
+            "date": 1420435409
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

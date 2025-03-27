@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71227286.9606a787.200x200o.2f0e75557c35.jpeg",
+    "player_id": 71227286,
+    "@id": "https://api.chess.com/pub/player/jeloma",
+    "url": "https://www.chess.com/member/jeloma",
+    "name": "Marckens Jean Louis",
+    "username": "jeloma",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/HT",
+    "location": "saint marc",
+    "last_online": 1740620945,
+    "joined": 1579890346,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1096,
+            "date": 1740303016,
+            "rd": 262
+        },
+        "record": {
+            "win": 2,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 312831,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1801,
+            "date": 1688363406,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2082,
+            "date": 1595706377,
+            "game": "https://www.chess.com/game/live/5240801811"
+        },
+        "record": {
+            "win": 11,
+            "loss": 14,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2303,
+            "date": 1684785155,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2418,
+            "date": 1664225133,
+            "game": "https://www.chess.com/game/live/57964168395"
+        },
+        "record": {
+            "win": 85,
+            "loss": 49,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1945,
+            "date": 1728687102,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1667927135,
+            "game": "https://www.chess.com/game/live/61057887129"
+        },
+        "record": {
+            "win": 356,
+            "loss": 266,
+            "draw": 48
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3122,
+            "date": 1697421309
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1579890542
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

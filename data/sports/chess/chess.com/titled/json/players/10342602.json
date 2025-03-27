@@ -1,0 +1,105 @@
+{
+    "player_id": 10342602,
+    "@id": "https://api.chess.com/pub/player/cansun",
+    "url": "https://www.chess.com/member/cansun",
+    "name": "Can Alp Cansun",
+    "username": "cansun",
+    "title": "NM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "bursa",
+    "last_online": 1741431765,
+    "joined": 1357630465,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1234,
+            "date": 1591011480,
+            "rd": 229
+        },
+        "best": {
+            "rating": 1234,
+            "date": 1448296362,
+            "game": "https://www.chess.com/game/daily/122813166"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 25,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2475,
+            "date": 1722603767,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2491,
+            "date": 1705950086,
+            "game": "https://www.chess.com/game/live/99687101609"
+        },
+        "record": {
+            "win": 29,
+            "loss": 17,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2657,
+            "date": 1736784957,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2711,
+            "date": 1729375197,
+            "game": "https://www.chess.com/game/live/123115258259"
+        },
+        "record": {
+            "win": 161,
+            "loss": 152,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2580,
+            "date": 1741482091,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2651,
+            "date": 1726084609,
+            "game": "https://www.chess.com/game/live/128769208415"
+        },
+        "record": {
+            "win": 6487,
+            "loss": 6189,
+            "draw": 724
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3140,
+            "date": 1691053690
+        },
+        "lowest": {
+            "rating": 1353,
+            "date": 1406986478
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

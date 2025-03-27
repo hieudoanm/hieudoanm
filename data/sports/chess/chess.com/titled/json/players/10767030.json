@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10767030.b20746db.200x200o.6172f1b0095c.jpg",
+    "player_id": 10767030,
+    "@id": "https://api.chess.com/pub/player/andreikka",
+    "url": "https://www.chess.com/member/Andreikka",
+    "name": "Andrey Esipenko",
+    "username": "andreikka",
+    "title": "GM",
+    "followers": 3225,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1734115668,
+    "joined": 1360502176,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 668,
+            "date": 1726993706,
+            "rd": 213
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1360502176,
+            "game": "https://www.chess.com/game/daily/343579327"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 231812,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2677,
+            "date": 1727459519,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2878,
+            "date": 1597516603,
+            "game": "https://www.chess.com/game/live/44562066741"
+        },
+        "record": {
+            "win": 120,
+            "loss": 56,
+            "draw": 76
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2910,
+            "date": 1717966764,
+            "rd": 121
+        },
+        "best": {
+            "rating": 3144,
+            "date": 1600639740,
+            "game": "https://www.chess.com/game/live/3247168264"
+        },
+        "record": {
+            "win": 885,
+            "loss": 765,
+            "draw": 113
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3116,
+            "date": 1732665239,
+            "rd": 33
+        },
+        "best": {
+            "rating": 3151,
+            "date": 1731453888,
+            "game": "https://www.chess.com/game/live/126401970683"
+        },
+        "record": {
+            "win": 1810,
+            "loss": 1226,
+            "draw": 406
+        }
+    },
+    "fide": 2683,
+    "tactics": {
+        "highest": {
+            "rating": 3411,
+            "date": 1585815809
+        },
+        "lowest": {
+            "rating": 1148,
+            "date": 1360525400
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

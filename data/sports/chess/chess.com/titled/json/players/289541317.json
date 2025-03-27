@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/289541317.0e2be1fc.200x200o.f8f3141dc642.jpg",
+    "player_id": 289541317,
+    "@id": "https://api.chess.com/pub/player/ilqar_74",
+    "url": "https://www.chess.com/member/ilqar_74",
+    "name": "Rustam Rustamov",
+    "username": "ilqar_74",
+    "title": "FM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741642678,
+    "joined": 1685356016,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2831,
+            "date": 1726852596,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2883,
+            "date": 1691237987,
+            "game": "https://www.chess.com/game/live/84975143301"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2938,
+            "date": 1741524614,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2952,
+            "date": 1739037144,
+            "game": "https://www.chess.com/game/live/134588362155"
+        },
+        "record": {
+            "win": 430,
+            "loss": 251,
+            "draw": 72
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2858,
+            "date": 1741531279,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2981,
+            "date": 1733741325,
+            "game": "https://www.chess.com/game/live/117908401249"
+        },
+        "record": {
+            "win": 2166,
+            "loss": 1318,
+            "draw": 583
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1222,
+            "date": 1693280363
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1685356016
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

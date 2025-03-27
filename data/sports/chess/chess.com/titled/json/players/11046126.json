@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11046126.d133e307.200x200o.891d6aa0f6ab.jpeg",
+    "player_id": 11046126,
+    "@id": "https://api.chess.com/pub/player/bobbyfm",
+    "url": "https://www.chess.com/member/BobbyFM",
+    "name": "Robert Smith",
+    "username": "bobbyfm",
+    "title": "FM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/NZ",
+    "location": "Tauranga",
+    "last_online": 1738065488,
+    "joined": 1362549121,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2150,
+            "date": 1590057687,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2060,
+            "date": 1585792392,
+            "game": "https://www.chess.com/game/live/4638827956"
+        },
+        "record": {
+            "win": 37,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2153,
+            "date": 1737281197,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2287,
+            "date": 1600427447,
+            "game": "https://www.chess.com/game/live/113393988137"
+        },
+        "record": {
+            "win": 11311,
+            "loss": 8511,
+            "draw": 1705
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2152,
+            "date": 1441795023
+        },
+        "lowest": {
+            "rating": 996,
+            "date": 1428133974
+        }
+    },
+    "puzzle_rush": {}
+}

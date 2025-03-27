@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39319304.d490d9e9.200x200o.ba5ad3a7e571.jpeg",
+    "player_id": 39319304,
+    "@id": "https://api.chess.com/pub/player/nightlord1",
+    "url": "https://www.chess.com/member/Nightlord1",
+    "name": "Ilya Serpik",
+    "username": "nightlord1",
+    "title": "NM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1739558607,
+    "joined": 1507596649,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1493,
+            "date": 1740358614,
+            "rd": 195
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 53881,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1724,
+            "date": 1701489768,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1699112441,
+            "game": "https://www.chess.com/game/live/89850536061"
+        },
+        "record": {
+            "win": 17,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2240,
+            "date": 1600746436,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2555,
+            "date": 1507606439,
+            "game": "https://www.chess.com/game/live/2804591473"
+        },
+        "record": {
+            "win": 2287,
+            "loss": 2037,
+            "draw": 284
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2277,
+            "date": 1740710922,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2433,
+            "date": 1654206792,
+            "game": "https://www.chess.com/game/live/3831879574"
+        },
+        "record": {
+            "win": 1225,
+            "loss": 1086,
+            "draw": 174
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1579,
+            "date": 1601133197
+        },
+        "lowest": {
+            "rating": 1205,
+            "date": 1508392953
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17023504.05727321.200x200o.f63eca284f55.jpeg",
+    "player_id": 17023504,
+    "@id": "https://api.chess.com/pub/player/lakofdawalapment",
+    "url": "https://www.chess.com/member/Lakofdawalapment",
+    "name": "Cyrus Lakdawala",
+    "username": "lakofdawalapment",
+    "title": "IM",
+    "followers": 241,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "San Diego California",
+    "last_online": 1739887860,
+    "joined": 1398261677,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2311,
+            "date": 1709598350,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2332,
+            "date": 1709594118,
+            "game": "https://www.chess.com/game/live/103332100831"
+        },
+        "record": {
+            "win": 56,
+            "loss": 13,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2555,
+            "date": 1712074147,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1672506839,
+            "game": "https://www.chess.com/game/live/4816476386"
+        },
+        "record": {
+            "win": 736,
+            "loss": 430,
+            "draw": 242
+        }
+    },
+    "fide": 2526,
+    "tactics": {
+        "highest": {
+            "rating": 3429,
+            "date": 1695075671
+        },
+        "lowest": {
+            "rating": 1052,
+            "date": 1398271051
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 38
+        }
+    }
+}

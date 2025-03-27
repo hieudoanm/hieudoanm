@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/135459632.f2c4e9b6.200x200o.5865a153f75d.png",
+    "player_id": 135459632,
+    "@id": "https://api.chess.com/pub/player/google0109",
+    "url": "https://www.chess.com/member/google0109",
+    "name": "Mathias Philipp",
+    "username": "google0109",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741691688,
+    "joined": 1618497438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1687,
+            "date": 1741691762,
+            "rd": 278
+        },
+        "best": {
+            "rating": 1687,
+            "date": 1731017381,
+            "game": "https://www.chess.com/game/daily/636112577"
+        },
+        "record": {
+            "win": 9,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 7544,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2197,
+            "date": 1741101935
+        },
+        "best": {
+            "rating": 2192,
+            "date": 1715632242,
+            "game": "https://www.chess.com/game/live/108316788093"
+        },
+        "record": {
+            "win": 26,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2220,
+            "date": 1741278835,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2206,
+            "date": 1708815134,
+            "game": "https://www.chess.com/game/live/102555651337"
+        },
+        "record": {
+            "win": 46,
+            "loss": 35,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2376,
+            "date": 1741695509,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2382,
+            "date": 1739299569,
+            "game": "https://www.chess.com/game/live/134934562189"
+        },
+        "record": {
+            "win": 161,
+            "loss": 98,
+            "draw": 20
+        }
+    },
+    "fide": 2197,
+    "tactics": {
+        "highest": {
+            "rating": 3272,
+            "date": 1741124349
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1618497438
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

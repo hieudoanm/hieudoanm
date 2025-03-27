@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2003967.3e39c924.200x200o.22881b86c498.jpeg",
+    "player_id": 2003967,
+    "@id": "https://api.chess.com/pub/player/chopotin",
+    "url": "https://www.chess.com/member/chopotin",
+    "username": "chopotin",
+    "title": "NM",
+    "followers": 111,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Boston",
+    "last_online": 1741540408,
+    "joined": 1246375278,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1777,
+            "date": 1701971487,
+            "rd": 131
+        },
+        "best": {
+            "rating": 1977,
+            "date": 1350084630,
+            "game": "https://www.chess.com/game/daily/52152171"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 21700,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2451,
+            "date": 1724620885,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2462,
+            "date": 1704690912,
+            "game": "https://www.chess.com/game/live/118358317721"
+        },
+        "record": {
+            "win": 35,
+            "loss": 14,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2438,
+            "date": 1650889139,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1612717894,
+            "game": "https://www.chess.com/game/live/37571489705"
+        },
+        "record": {
+            "win": 2023,
+            "loss": 1783,
+            "draw": 157
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2463,
+            "date": 1741567383,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1733101616,
+            "game": "https://www.chess.com/game/live/123903032831"
+        },
+        "record": {
+            "win": 2809,
+            "loss": 2467,
+            "draw": 349
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3425,
+            "date": 1681566061
+        },
+        "lowest": {
+            "rating": 1399,
+            "date": 1286309365
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "player_id": 281702919,
+    "@id": "https://api.chess.com/pub/player/blackwhite017",
+    "url": "https://www.chess.com/member/Blackwhite017",
+    "name": "Lianet Diaz Garcia",
+    "username": "blackwhite017",
+    "title": "WFM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1740519241,
+    "joined": 1683076412,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 562,
+            "date": 1737560350,
+            "rd": 161
+        },
+        "best": {
+            "rating": 1602,
+            "date": 1704493967,
+            "game": "https://www.chess.com/game/daily/603540897"
+        },
+        "record": {
+            "win": 14,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 12788,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2287,
+            "date": 1740259027,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2381,
+            "date": 1698583345,
+            "game": "https://www.chess.com/game/live/104059866149"
+        },
+        "record": {
+            "win": 22,
+            "loss": 32,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1963,
+            "date": 1739656496,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2018,
+            "date": 1688674670,
+            "game": "https://www.chess.com/game/live/125577507719"
+        },
+        "record": {
+            "win": 54,
+            "loss": 42,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2002,
+            "date": 1740569065,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2145,
+            "date": 1686673696,
+            "game": "https://www.chess.com/game/live/80407363543"
+        },
+        "record": {
+            "win": 189,
+            "loss": 395,
+            "draw": 49
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3399,
+            "date": 1740498361
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1683076412
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

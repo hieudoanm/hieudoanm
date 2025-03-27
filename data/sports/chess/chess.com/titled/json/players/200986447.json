@@ -1,0 +1,56 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/200986447.e16c9312.200x200o.ca1e71f6a9fb.png",
+    "player_id": 200986447,
+    "@id": "https://api.chess.com/pub/player/htopia",
+    "url": "https://www.chess.com/member/htopia",
+    "name": "Tuna Tuncer",
+    "username": "htopia",
+    "title": "FM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741516785,
+    "joined": 1665349648,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2670,
+            "date": 1705541693,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2670,
+            "date": 1705541693,
+            "game": "https://www.chess.com/game/live/98561805111"
+        },
+        "record": {
+            "win": 238,
+            "loss": 144,
+            "draw": 33
+        }
+    },
+    "fide": 2328,
+    "tactics": {
+        "highest": {
+            "rating": 3446,
+            "date": 1740912584
+        },
+        "lowest": {
+            "rating": 2411,
+            "date": 1665613702
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        },
+        "daily": {
+            "total_attempts": 47,
+            "score": 45
+        }
+    }
+}

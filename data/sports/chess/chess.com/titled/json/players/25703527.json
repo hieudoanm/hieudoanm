@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25703527.109e7be1.200x200o.2d380606dd04.jpeg",
+    "player_id": 25703527,
+    "@id": "https://api.chess.com/pub/player/tristancalistri",
+    "url": "https://www.chess.com/member/TristanCalistri",
+    "name": "Romain Picard",
+    "username": "tristancalistri",
+    "title": "IM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Paris",
+    "last_online": 1741649939,
+    "joined": 1450802472,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2232,
+            "date": 1614695730,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2251,
+            "date": 1614650474,
+            "game": "https://www.chess.com/game/live/8434508503"
+        },
+        "record": {
+            "win": 184,
+            "loss": 142,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2270,
+            "date": 1703444181,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1561032271,
+            "game": "https://www.chess.com/game/live/4466788111"
+        },
+        "record": {
+            "win": 1139,
+            "loss": 1011,
+            "draw": 96
+        }
+    },
+    "fide": 2321,
+    "tactics": {
+        "highest": {
+            "rating": 2400,
+            "date": 1590141404
+        },
+        "lowest": {
+            "rating": 2400,
+            "date": 1555896240
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

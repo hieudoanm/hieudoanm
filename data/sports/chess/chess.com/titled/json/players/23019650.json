@@ -1,0 +1,84 @@
+{
+    "player_id": 23019650,
+    "@id": "https://api.chess.com/pub/player/barmen_ev",
+    "url": "https://www.chess.com/member/Barmen_EV",
+    "name": "Timofey Iljin",
+    "username": "barmen_ev",
+    "title": "IM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741598780,
+    "joined": 1435526683,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 696,
+            "date": 1711309027,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2289,
+            "date": 1590771332,
+            "game": "https://www.chess.com/game/live/4929772445"
+        },
+        "record": {
+            "win": 128,
+            "loss": 41,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2512,
+            "date": 1724867619,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2660,
+            "date": 1676353429,
+            "game": "https://www.chess.com/game/live/36919198289"
+        },
+        "record": {
+            "win": 153,
+            "loss": 57,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2615,
+            "date": 1741128929,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1740499719,
+            "game": "https://www.chess.com/game/live/92503342507"
+        },
+        "record": {
+            "win": 1179,
+            "loss": 660,
+            "draw": 159
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3024,
+            "date": 1724944337
+        },
+        "lowest": {
+            "rating": 2297,
+            "date": 1595760337
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

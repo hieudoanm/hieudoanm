@@ -1,0 +1,103 @@
+{
+    "player_id": 36652868,
+    "@id": "https://api.chess.com/pub/player/too_stupid_to_play",
+    "url": "https://www.chess.com/member/Too_Stupid_To_Play",
+    "name": "Gary Ng",
+    "username": "too_stupid_to_play",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741493690,
+    "joined": 1498674511,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1818,
+            "date": 1741639201,
+            "rd": 228
+        },
+        "best": {
+            "rating": 1871,
+            "date": 1527435031,
+            "game": "https://www.chess.com/game/daily/318701634"
+        },
+        "record": {
+            "win": 53,
+            "loss": 22,
+            "draw": 2,
+            "time_per_move": 11369,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2349,
+            "date": 1725292841,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1724639761,
+            "game": "https://www.chess.com/game/live/110515896149"
+        },
+        "record": {
+            "win": 257,
+            "loss": 123,
+            "draw": 48
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2076,
+            "date": 1714357247,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1608347712,
+            "game": "https://www.chess.com/game/live/6045803696"
+        },
+        "record": {
+            "win": 96,
+            "loss": 83,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2315,
+            "date": 1739918399,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1668405997,
+            "game": "https://www.chess.com/game/live/63788420389"
+        },
+        "record": {
+            "win": 3165,
+            "loss": 2447,
+            "draw": 413
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3525,
+            "date": 1713251235
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1504290363
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

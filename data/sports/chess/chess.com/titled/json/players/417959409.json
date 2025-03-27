@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/417959409.32afe18f.200x200o.e8c4ea9024b4.jpg",
+    "player_id": 417959409,
+    "@id": "https://api.chess.com/pub/player/batko_2010",
+    "url": "https://www.chess.com/member/Batko_2010",
+    "name": "Gleb Scheglov",
+    "username": "batko_2010",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741439668,
+    "joined": 1736950440,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2762,
+            "date": 1740327008,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2779,
+            "date": 1739639736,
+            "game": "https://www.chess.com/game/live/133377574613"
+        },
+        "record": {
+            "win": 68,
+            "loss": 30,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2817,
+            "date": 1741416383,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2928,
+            "date": 1739541932,
+            "game": "https://www.chess.com/game/live/133057159451"
+        },
+        "record": {
+            "win": 132,
+            "loss": 69,
+            "draw": 11
+        }
+    },
+    "fide": 2306,
+    "tactics": {
+        "highest": {
+            "rating": 2343,
+            "date": 1739351895
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1736950440
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

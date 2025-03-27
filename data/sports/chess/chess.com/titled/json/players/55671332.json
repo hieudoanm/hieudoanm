@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55671332.86c10f37.200x200o.d56f8bf61b39.png",
+    "player_id": 55671332,
+    "@id": "https://api.chess.com/pub/player/3ke31-0",
+    "url": "https://www.chess.com/member/3Ke31-0",
+    "name": "Vishva Nanugonda",
+    "username": "3ke31-0",
+    "title": "NM",
+    "followers": 120,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741625851,
+    "joined": 1546920128,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1749,
+            "date": 1737560110,
+            "rd": 110
+        },
+        "best": {
+            "rating": 1831,
+            "date": 1712163330,
+            "game": "https://www.chess.com/game/daily/342412633"
+        },
+        "record": {
+            "win": 89,
+            "loss": 19,
+            "draw": 12,
+            "time_per_move": 10834,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2326,
+            "date": 1729475771,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2326,
+            "date": 1722624316,
+            "game": "https://www.chess.com/game/live/83278568069"
+        },
+        "record": {
+            "win": 500,
+            "loss": 349,
+            "draw": 103
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2669,
+            "date": 1740766013,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1730347088,
+            "game": "https://www.chess.com/game/live/127334483637"
+        },
+        "record": {
+            "win": 3916,
+            "loss": 2793,
+            "draw": 416
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2459,
+            "date": 1741548621,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2606,
+            "date": 1727313228,
+            "game": "https://www.chess.com/game/live/129677971007"
+        },
+        "record": {
+            "win": 1984,
+            "loss": 1377,
+            "draw": 327
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3681,
+            "date": 1734488863
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1546994693
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_id": 9651504,
+    "@id": "https://api.chess.com/pub/player/chanchakman",
+    "url": "https://www.chess.com/member/chanchakman",
+    "name": "chak man chan",
+    "username": "chanchakman",
+    "title": "CM",
+    "followers": 228,
+    "country": "https://api.chess.com/pub/country/HK",
+    "location": "hong kong",
+    "last_online": 1741621820,
+    "joined": 1353002080,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1233,
+            "date": 1740271232,
+            "rd": 148
+        },
+        "best": {
+            "rating": 1393,
+            "date": 1527152436,
+            "game": "https://www.chess.com/game/daily/180467058"
+        },
+        "record": {
+            "win": 24,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 63765,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2361,
+            "date": 1706352181,
+            "rd": 252
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1687520804,
+            "game": "https://www.chess.com/game/live/81258744521"
+        },
+        "record": {
+            "win": 20,
+            "loss": 22,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2007,
+            "date": 1741616339,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2111,
+            "date": 1708031779,
+            "game": "https://www.chess.com/game/live/3817924277"
+        },
+        "record": {
+            "win": 1392,
+            "loss": 1128,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2251,
+            "date": 1737646990,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1719030311,
+            "game": "https://www.chess.com/game/live/86450475049"
+        },
+        "record": {
+            "win": 12123,
+            "loss": 11026,
+            "draw": 871
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3162,
+            "date": 1733498774
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1354013658
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

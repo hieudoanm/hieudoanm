@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/314473605.e5eb05af.200x200o.2ee4ebe15744.jpg",
+    "player_id": 314473605,
+    "@id": "https://api.chess.com/pub/player/hakiki_satranc",
+    "url": "https://www.chess.com/member/Hakiki_satranc",
+    "name": "Elnur Aliyev",
+    "username": "hakiki_satranc",
+    "title": "CM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741468550,
+    "joined": 1695326171,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2060,
+            "date": 1739918661,
+            "rd": 49
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2409,
+            "date": 1741557187,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2614,
+            "date": 1697748548,
+            "game": "https://www.chess.com/game/live/118531072593"
+        },
+        "record": {
+            "win": 240,
+            "loss": 287,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2483,
+            "date": 1741305172,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1729029394,
+            "game": "https://www.chess.com/game/live/112387840763"
+        },
+        "record": {
+            "win": 465,
+            "loss": 542,
+            "draw": 97
+        }
+    },
+    "fide": 2074,
+    "tactics": {
+        "highest": {
+            "rating": 2780,
+            "date": 1735499767
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1695326171
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 27
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 70191262,
+    "@id": "https://api.chess.com/pub/player/mikayel99",
+    "url": "https://www.chess.com/member/Mikayel99",
+    "name": "Mikayel Mkrtchyan",
+    "username": "mikayel99",
+    "title": "NM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/AM",
+    "last_online": 1741098159,
+    "joined": 1577956631,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2348,
+            "date": 1678122144,
+            "rd": 170
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1678121176,
+            "game": "https://www.chess.com/game/live/71857495865"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2665,
+            "date": 1727707720,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2751,
+            "date": 1707579743,
+            "game": "https://www.chess.com/game/live/97098068357"
+        },
+        "record": {
+            "win": 4639,
+            "loss": 3733,
+            "draw": 343
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2600,
+            "date": 1729633046,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2679,
+            "date": 1718752055,
+            "game": "https://www.chess.com/game/live/104086883463"
+        },
+        "record": {
+            "win": 1987,
+            "loss": 1581,
+            "draw": 222
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3550,
+            "date": 1704502100
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1656095174
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

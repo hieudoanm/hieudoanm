@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26824392.45f76f42.200x200o.2bca585e3e36.jpeg",
+    "player_id": 26824392,
+    "@id": "https://api.chess.com/pub/player/gutovandrey",
+    "url": "https://www.chess.com/member/GutovAndrey",
+    "name": "Andrey Gutov",
+    "username": "gutovandrey",
+    "title": "GM",
+    "followers": 16591,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Miami",
+    "last_online": 1734158038,
+    "joined": 1455957001,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2214,
+            "date": 1663843204,
+            "rd": 173
+        },
+        "best": {
+            "rating": 2214,
+            "date": 1609959249,
+            "game": "https://www.chess.com/game/daily/232093382"
+        },
+        "record": {
+            "win": 20,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 19601,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2936,
+            "date": 1732566985,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2944,
+            "date": 1701163624,
+            "game": "https://www.chess.com/game/live/73920241425"
+        },
+        "record": {
+            "win": 107,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2221,
+            "date": 1671084060,
+            "rd": 173
+        },
+        "best": {
+            "rating": 2258,
+            "date": 1634082142,
+            "game": "https://www.chess.com/game/live/37585176029"
+        },
+        "record": {
+            "win": 31,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2514,
+            "date": 1653975506,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2514,
+            "date": 1645277621,
+            "game": "https://www.chess.com/game/live/2871683781"
+        },
+        "record": {
+            "win": 98,
+            "loss": 17,
+            "draw": 6
+        }
+    },
+    "fide": 2501,
+    "tactics": {
+        "highest": {
+            "rating": 4015,
+            "date": 1674917984
+        },
+        "lowest": {
+            "rating": 2319,
+            "date": 1457270032
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

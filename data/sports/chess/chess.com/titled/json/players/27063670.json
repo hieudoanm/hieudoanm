@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27063670.d6a22cbf.200x200o.2e8e70011daf.jpeg",
+    "player_id": 27063670,
+    "@id": "https://api.chess.com/pub/player/shirovin",
+    "url": "https://www.chess.com/member/shirovin",
+    "name": "Marcel Winkels",
+    "username": "shirovin",
+    "title": "CM",
+    "followers": 82,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "Heerlen",
+    "last_online": 1741469343,
+    "joined": 1457104121,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2003,
+            "date": 1739733087,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1684175407,
+            "game": "https://www.chess.com/game/live/108489007897"
+        },
+        "record": {
+            "win": 54,
+            "loss": 92,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1865,
+            "date": 1740855600,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2024,
+            "date": 1736619339,
+            "game": "https://www.chess.com/game/live/107374987487"
+        },
+        "record": {
+            "win": 488,
+            "loss": 2479,
+            "draw": 46
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1997,
+            "date": 1741133033,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2245,
+            "date": 1733268333,
+            "game": "https://www.chess.com/game/live/125770798413"
+        },
+        "record": {
+            "win": 2085,
+            "loss": 3233,
+            "draw": 289
+        }
+    },
+    "fide": 1992,
+    "tactics": {
+        "highest": {
+            "rating": 2374,
+            "date": 1723633120
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1457104121
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 28,
+            "score": 25
+        }
+    }
+}

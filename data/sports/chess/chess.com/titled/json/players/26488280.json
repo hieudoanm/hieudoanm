@@ -1,0 +1,47 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26488280.45e2a365.200x200o.ca857dd726d2.jpg",
+    "player_id": 26488280,
+    "@id": "https://api.chess.com/pub/player/chessonthemat007",
+    "url": "https://www.chess.com/member/ChessOnTheMat007",
+    "name": "Ibro Saric",
+    "username": "chessonthemat007",
+    "title": "GM",
+    "followers": 416,
+    "country": "https://api.chess.com/pub/country/BA",
+    "last_online": 1734129690,
+    "joined": 1454478554,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2858,
+            "date": 1733760188,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2877,
+            "date": 1733451172,
+            "game": "https://www.chess.com/game/live/114656909035"
+        },
+        "record": {
+            "win": 1605,
+            "loss": 1839,
+            "draw": 406
+        }
+    },
+    "fide": 2574,
+    "tactics": {
+        "highest": {
+            "rating": 2363,
+            "date": 1725200818
+        },
+        "lowest": {
+            "rating": 2005,
+            "date": 1512762378
+        }
+    },
+    "puzzle_rush": {}
+}

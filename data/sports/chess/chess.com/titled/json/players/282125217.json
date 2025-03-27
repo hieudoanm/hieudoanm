@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/282125217.7bb79b54.200x200o.07ef119f6de3.jpg",
+    "player_id": 282125217,
+    "@id": "https://api.chess.com/pub/player/minhquang_chesscoach",
+    "url": "https://www.chess.com/member/minhquang_chesscoach",
+    "name": "Dang Minh Quang Tran",
+    "username": "minhquang_chesscoach",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741679840,
+    "joined": 1683179845,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1788,
+            "date": 1738767797,
+            "rd": 186
+        },
+        "best": {
+            "rating": 2248,
+            "date": 1727963628,
+            "game": "https://www.chess.com/game/live/87889218227"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2727,
+            "date": 1741695522,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2849,
+            "date": 1738865681,
+            "game": "https://www.chess.com/game/live/115983658407"
+        },
+        "record": {
+            "win": 684,
+            "loss": 438,
+            "draw": 79
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2687,
+            "date": 1740043484,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2718,
+            "date": 1738406312,
+            "game": "https://www.chess.com/game/live/132145843169"
+        },
+        "record": {
+            "win": 234,
+            "loss": 99,
+            "draw": 24
+        }
+    },
+    "fide": 2248,
+    "tactics": {
+        "highest": {
+            "rating": 2869,
+            "date": 1723202537
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1683179845
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

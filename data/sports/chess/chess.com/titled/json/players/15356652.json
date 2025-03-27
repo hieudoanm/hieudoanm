@@ -1,0 +1,84 @@
+{
+    "player_id": 15356652,
+    "@id": "https://api.chess.com/pub/player/hurricane7791",
+    "url": "https://www.chess.com/member/hurricane7791",
+    "name": "Pere Garriga Cazorla",
+    "username": "hurricane7791",
+    "title": "GM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741693057,
+    "joined": 1388598078,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1706,
+            "date": 1713982971,
+            "rd": 246
+        },
+        "best": {
+            "rating": 1828,
+            "date": 1605280708,
+            "game": "https://www.chess.com/game/live/5737953212"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2738,
+            "date": 1729091221,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1663487979,
+            "game": "https://www.chess.com/game/live/57190043597"
+        },
+        "record": {
+            "win": 1936,
+            "loss": 1144,
+            "draw": 125
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2801,
+            "date": 1741553599,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2826,
+            "date": 1660061755,
+            "game": "https://www.chess.com/game/live/42913198111"
+        },
+        "record": {
+            "win": 1031,
+            "loss": 697,
+            "draw": 114
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3432,
+            "date": 1676971905
+        },
+        "lowest": {
+            "rating": 1470,
+            "date": 1388607971
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

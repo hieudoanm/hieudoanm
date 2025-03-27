@@ -1,0 +1,103 @@
+{
+    "player_id": 16724140,
+    "@id": "https://api.chess.com/pub/player/christov91",
+    "url": "https://www.chess.com/member/Christov91",
+    "name": "Christov Kleijn",
+    "username": "christov91",
+    "title": "IM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741265341,
+    "joined": 1396448599,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1984,
+            "date": 1573464499,
+            "rd": 136
+        },
+        "best": {
+            "rating": 1984,
+            "date": 1541187010,
+            "game": "https://www.chess.com/game/daily/157514451"
+        },
+        "record": {
+            "win": 64,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 7511,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2540,
+            "date": 1613231077,
+            "rd": 140
+        },
+        "best": {
+            "rating": 2622,
+            "date": 1608391263,
+            "game": "https://www.chess.com/game/live/6545170987"
+        },
+        "record": {
+            "win": 8,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2696,
+            "date": 1728053382,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2789,
+            "date": 1608117887,
+            "game": "https://www.chess.com/game/live/48336562173"
+        },
+        "record": {
+            "win": 3335,
+            "loss": 2467,
+            "draw": 453
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2790,
+            "date": 1741635164,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2839,
+            "date": 1729571969,
+            "game": "https://www.chess.com/game/live/129062602011"
+        },
+        "record": {
+            "win": 8215,
+            "loss": 6057,
+            "draw": 1427
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3379,
+            "date": 1728751071
+        },
+        "lowest": {
+            "rating": 901,
+            "date": 1431556962
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 42
+        }
+    }
+}

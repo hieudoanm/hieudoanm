@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/195763461.04d367c2.200x200o.79ed1a1924b2.jpeg",
+    "player_id": 195763461,
+    "@id": "https://api.chess.com/pub/player/ll220284ll",
+    "url": "https://www.chess.com/member/LL220284LL",
+    "name": "Luke (Lut Yin) Lau",
+    "username": "ll220284ll",
+    "title": "CM",
+    "followers": 145,
+    "country": "https://api.chess.com/pub/country/HK",
+    "location": "Hong Kong",
+    "last_online": 1741677262,
+    "joined": 1662192199,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1738,
+            "date": 1741556893,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1738,
+            "date": 1737423754,
+            "game": "https://www.chess.com/game/daily/739328051"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 38616,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2401,
+            "date": 1689522531,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1676472236,
+            "game": "https://www.chess.com/game/live/70211001127"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2740,
+            "date": 1740211695,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2755,
+            "date": 1738430292,
+            "game": "https://www.chess.com/game/live/127938654275"
+        },
+        "record": {
+            "win": 922,
+            "loss": 799,
+            "draw": 102
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2421,
+            "date": 1741117448,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1717258194,
+            "game": "https://www.chess.com/game/live/78360112403"
+        },
+        "record": {
+            "win": 584,
+            "loss": 291,
+            "draw": 66
+        }
+    },
+    "fide": 2239,
+    "tactics": {
+        "highest": {
+            "rating": 3637,
+            "date": 1740927929
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1663931629
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

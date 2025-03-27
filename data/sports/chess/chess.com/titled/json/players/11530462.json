@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11530462.39a1c068.200x200o.ad7b5b213dea.jpg",
+    "player_id": 11530462,
+    "@id": "https://api.chess.com/pub/player/charne",
+    "url": "https://www.chess.com/member/Charne",
+    "name": "Charne Woolf",
+    "username": "charne",
+    "title": "WFM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "location": "Cape Town",
+    "last_online": 1741204203,
+    "joined": 1366033374,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1382,
+            "date": 1728974206,
+            "rd": 67
+        },
+        "best": {
+            "rating": 1538,
+            "date": 1510835044,
+            "game": "https://www.chess.com/game/daily/167486730"
+        },
+        "record": {
+            "win": 64,
+            "loss": 65,
+            "draw": 6,
+            "time_per_move": 18558,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1710,
+            "date": 1739438568,
+            "rd": 54
+        },
+        "best": {
+            "rating": 1860,
+            "date": 1642147385,
+            "game": "https://www.chess.com/game/live/50837423663"
+        },
+        "record": {
+            "win": 571,
+            "loss": 571,
+            "draw": 53
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1594,
+            "date": 1588973905,
+            "rd": 66
+        },
+        "best": {
+            "rating": 1500,
+            "date": 1586526532,
+            "game": "https://www.chess.com/game/live/4707121401"
+        },
+        "record": {
+            "win": 72,
+            "loss": 65,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1549,
+            "date": 1741206980,
+            "rd": 47
+        },
+        "best": {
+            "rating": 1888,
+            "date": 1720694036,
+            "game": "https://www.chess.com/game/live/4738658096"
+        },
+        "record": {
+            "win": 4942,
+            "loss": 5006,
+            "draw": 293
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2637,
+            "date": 1724015034
+        },
+        "lowest": {
+            "rating": 1039,
+            "date": 1465300971
+        }
+    },
+    "puzzle_rush": {}
+}

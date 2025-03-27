@@ -1,0 +1,72 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/87838302.1083a2ae.200x200o.2876add78a71.jpeg",
+    "player_id": 87838302,
+    "@id": "https://api.chess.com/pub/player/aliso4ka_pirozhok",
+    "url": "https://www.chess.com/member/Aliso4ka_pirozhok",
+    "name": "Alisa Nur-Mukhametova",
+    "username": "aliso4ka_pirozhok",
+    "title": "WIM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1739299971,
+    "joined": 1596031747,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1792,
+            "date": 1600950366,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1850,
+            "date": 1600948196,
+            "game": "https://www.chess.com/game/live/5490604153"
+        },
+        "record": {
+            "win": 8,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2494,
+            "date": 1740524095,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1675072653,
+            "game": "https://www.chess.com/game/live/39285060325"
+        },
+        "record": {
+            "win": 119,
+            "loss": 104,
+            "draw": 29
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1682,
+            "date": 1739876433
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1596373806
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        },
+        "daily": {
+            "total_attempts": 35,
+            "score": 33
+        }
+    }
+}

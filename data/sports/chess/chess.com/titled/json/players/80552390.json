@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80552390.28cc8be2.200x200o.4f09f24c5a9c.jpeg",
+    "player_id": 80552390,
+    "@id": "https://api.chess.com/pub/player/khvicha_supatashvili",
+    "url": "https://www.chess.com/member/Khvicha_Supatashvili",
+    "name": "Khvicha Supatashvili",
+    "username": "khvicha_supatashvili",
+    "title": "IM",
+    "followers": 1292,
+    "country": "https://api.chess.com/pub/country/GE",
+    "location": "Tbilisi",
+    "last_online": 1741696766,
+    "joined": 1590491723,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2636,
+            "date": 1741703018,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2763,
+            "date": 1668104664,
+            "game": "https://www.chess.com/game/live/57179327283"
+        },
+        "record": {
+            "win": 179,
+            "loss": 60,
+            "draw": 52
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2761,
+            "date": 1741555951,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2804,
+            "date": 1730047421,
+            "game": "https://www.chess.com/game/live/54565176697"
+        },
+        "record": {
+            "win": 4077,
+            "loss": 1300,
+            "draw": 468
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2813,
+            "date": 1741535134,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2811,
+            "date": 1731859998,
+            "game": "https://www.chess.com/game/live/4943323327"
+        },
+        "record": {
+            "win": 3156,
+            "loss": 2418,
+            "draw": 735
+        }
+    },
+    "fide": 2456,
+    "tactics": {
+        "highest": {
+            "rating": 1228,
+            "date": 1590597327
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1590597307
+        }
+    },
+    "puzzle_rush": {}
+}

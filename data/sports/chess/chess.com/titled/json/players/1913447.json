@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1913447.5e59e29a.200x200o.4e159b593d80.jpeg",
+    "player_id": 1913447,
+    "@id": "https://api.chess.com/pub/player/vlad_akselrod",
+    "url": "https://www.chess.com/member/Vlad_Akselrod",
+    "name": "Vladislav Akselrod",
+    "username": "vlad_akselrod",
+    "title": "IM",
+    "followers": 80,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Novosibirsk",
+    "last_online": 1715430192,
+    "joined": 1241990742,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2556,
+            "date": 1702989717,
+            "rd": 144
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1283140142,
+            "game": "https://www.chess.com/game/daily/31524367"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 43688,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2517,
+            "date": 1715430708,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2650,
+            "date": 1710940633,
+            "game": "https://www.chess.com/game/live/97867190711"
+        },
+        "record": {
+            "win": 400,
+            "loss": 237,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1980,
+            "date": 1703845476,
+            "rd": 85
+        },
+        "best": {
+            "rating": 1990,
+            "date": 1703842784,
+            "game": "https://www.chess.com/game/live/97581088571"
+        },
+        "record": {
+            "win": 15,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "fide": 2413,
+    "tactics": {
+        "highest": {
+            "rating": 3632,
+            "date": 1709533509
+        },
+        "lowest": {
+            "rating": 1288,
+            "date": 1243617394
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

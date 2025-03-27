@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30494226.99d3ab53.200x200o.59863e92ff4b.jpg",
+    "player_id": 30494226,
+    "@id": "https://api.chess.com/pub/player/amintabatabaei",
+    "url": "https://www.chess.com/member/amintabatabaei",
+    "name": "Amin Tabatabaei",
+    "username": "amintabatabaei",
+    "title": "GM",
+    "followers": 1493,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1734009265,
+    "joined": 1476970017,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1644278867,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 1829,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2700,
+            "date": 1721229914,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2775,
+            "date": 1690218769,
+            "game": "https://www.chess.com/game/live/52938547627"
+        },
+        "record": {
+            "win": 130,
+            "loss": 76,
+            "draw": 103
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3047,
+            "date": 1731447657,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3184,
+            "date": 1603901754,
+            "game": "https://www.chess.com/game/live/11034223387"
+        },
+        "record": {
+            "win": 2829,
+            "loss": 2868,
+            "draw": 451
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3083,
+            "date": 1731854271,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3154,
+            "date": 1730473556,
+            "game": "https://www.chess.com/game/live/124129251509"
+        },
+        "record": {
+            "win": 4984,
+            "loss": 4744,
+            "draw": 1230
+        }
+    },
+    "fide": 2675,
+    "tactics": {
+        "highest": {
+            "rating": 4015,
+            "date": 1664107657
+        },
+        "lowest": {
+            "rating": 1199,
+            "date": 1513855632
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 96,
+            "score": 93
+        }
+    }
+}

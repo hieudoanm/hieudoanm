@@ -1,0 +1,31 @@
+{
+    "player_id": 74549748,
+    "@id": "https://api.chess.com/pub/player/profi64",
+    "url": "https://www.chess.com/member/Profi64",
+    "username": "profi64",
+    "title": "FM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741577744,
+    "joined": 1585205090,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 3078,
+            "date": 1734214033
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1585768902
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

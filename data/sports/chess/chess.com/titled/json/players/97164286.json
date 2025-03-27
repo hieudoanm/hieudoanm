@@ -1,0 +1,83 @@
+{
+    "player_id": 97164286,
+    "@id": "https://api.chess.com/pub/player/kaponerde",
+    "url": "https://www.chess.com/member/kaponerde",
+    "username": "kaponerde",
+    "title": "WCM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1740762052,
+    "joined": 1605521711,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2202,
+            "date": 1674563081,
+            "rd": 139
+        },
+        "best": {
+            "rating": 2271,
+            "date": 1625340962,
+            "game": "https://www.chess.com/game/live/19079124795"
+        },
+        "record": {
+            "win": 23,
+            "loss": 12,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2160,
+            "date": 1740762263,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1673407144,
+            "game": "https://www.chess.com/game/live/6131130149"
+        },
+        "record": {
+            "win": 120,
+            "loss": 131,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2217,
+            "date": 1726005488,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2277,
+            "date": 1694554037,
+            "game": "https://www.chess.com/game/live/10261922753"
+        },
+        "record": {
+            "win": 119,
+            "loss": 142,
+            "draw": 13
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3002,
+            "date": 1707516399
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1605599867
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

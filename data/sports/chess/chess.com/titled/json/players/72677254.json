@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72677254.8a9aa09a.200x200o.c2479745488b.jpeg",
+    "player_id": 72677254,
+    "@id": "https://api.chess.com/pub/player/jdpachess",
+    "url": "https://www.chess.com/member/JDPAchess",
+    "name": "Jesse Davidson",
+    "username": "jdpachess",
+    "title": "NM",
+    "followers": 219,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741693709,
+    "joined": 1582648411,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1796,
+            "date": 1728801580,
+            "rd": 99
+        },
+        "best": {
+            "rating": 1929,
+            "date": 1666532182,
+            "game": "https://www.chess.com/game/daily/571483737"
+        },
+        "record": {
+            "win": 21,
+            "loss": 7,
+            "draw": 2,
+            "time_per_move": 17960,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1992,
+            "date": 1720189630,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2330,
+            "date": 1741699704,
+            "rd": 14
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1723949721,
+            "game": "https://www.chess.com/game/live/117834035715"
+        },
+        "record": {
+            "win": 39286,
+            "loss": 32735,
+            "draw": 3362
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2535,
+            "date": 1732466190,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1724265296,
+            "game": "https://www.chess.com/game/live/118003815333"
+        },
+        "record": {
+            "win": 69,
+            "loss": 37,
+            "draw": 6
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3002,
+            "date": 1682645559
+        },
+        "lowest": {
+            "rating": 1216,
+            "date": 1582664374
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

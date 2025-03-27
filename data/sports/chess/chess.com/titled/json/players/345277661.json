@@ -1,0 +1,79 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/345277661.bd9bef15.200x200o.1df6df845be9.png",
+    "player_id": 345277661,
+    "@id": "https://api.chess.com/pub/player/prochessbr",
+    "url": "https://www.chess.com/member/ProChessBr",
+    "username": "prochessbr",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1738088095,
+    "joined": 1707924528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2365,
+            "date": 1736133300,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1736132730,
+            "game": "https://www.chess.com/game/live/109544380565"
+        },
+        "record": {
+            "win": 50,
+            "loss": 13,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2243,
+            "date": 1735477718,
+            "rd": 124
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1735477458,
+            "game": "https://www.chess.com/game/live/129216228171"
+        },
+        "record": {
+            "win": 4,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2488,
+            "date": 1738030988,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2644,
+            "date": 1718060726,
+            "game": "https://www.chess.com/game/live/111712981733"
+        },
+        "record": {
+            "win": 805,
+            "loss": 597,
+            "draw": 121
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1707924528
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1707924528
+        }
+    },
+    "puzzle_rush": {}
+}

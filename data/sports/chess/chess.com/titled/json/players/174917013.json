@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/174917013.2c6ca252.200x200o.718a2c965b00.jpg",
+    "player_id": 174917013,
+    "@id": "https://api.chess.com/pub/player/jafartheparrot",
+    "url": "https://www.chess.com/member/JafarTheParrot",
+    "username": "jafartheparrot",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741178660,
+    "joined": 1646085647,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1739910120,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1692386584,
+            "game": "https://www.chess.com/game/live/133648153435"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2600,
+            "date": 1736185243,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1736185243,
+            "game": "https://www.chess.com/game/live/42118789483"
+        },
+        "record": {
+            "win": 123,
+            "loss": 58,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2524,
+            "date": 1741683695,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1678309371,
+            "game": "https://www.chess.com/game/live/74964252995"
+        },
+        "record": {
+            "win": 773,
+            "loss": 598,
+            "draw": 73
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3255,
+            "date": 1692325535
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1646251597
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

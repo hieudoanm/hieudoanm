@@ -1,0 +1,109 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19508028.1fad2f85.200x200o.6b0e8c7d9ce5.jpeg",
+    "player_id": 19508028,
+    "@id": "https://api.chess.com/pub/player/iball95",
+    "url": "https://www.chess.com/member/Iball95",
+    "name": "Igor L. Vakhlamov",
+    "username": "iball95",
+    "title": "FM",
+    "followers": 621,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "last_online": 1740814896,
+    "joined": 1414664995,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2031,
+            "date": 1730353566,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2259,
+            "date": 1520541303,
+            "game": "https://www.chess.com/game/daily/257159054"
+        },
+        "record": {
+            "win": 265,
+            "loss": 36,
+            "draw": 32,
+            "time_per_move": 27467,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2356,
+            "date": 1739730324,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1682353972,
+            "game": "https://www.chess.com/game/live/133462782077"
+        },
+        "record": {
+            "win": 38,
+            "loss": 25,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2832,
+            "date": 1740247307,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2917,
+            "date": 1645467238,
+            "game": "https://www.chess.com/game/live/39213084313"
+        },
+        "record": {
+            "win": 1015,
+            "loss": 606,
+            "draw": 116
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2875,
+            "date": 1741702006,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2986,
+            "date": 1739221978,
+            "game": "https://www.chess.com/game/live/118001385669"
+        },
+        "record": {
+            "win": 5357,
+            "loss": 3504,
+            "draw": 1278
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3493,
+            "date": 1726685813
+        },
+        "lowest": {
+            "rating": 1352,
+            "date": 1437119293
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 54
+        },
+        "daily": {
+            "total_attempts": 45,
+            "score": 41
+        }
+    }
+}

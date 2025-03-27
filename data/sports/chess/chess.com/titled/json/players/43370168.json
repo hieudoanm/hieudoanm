@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43370168.416f032e.200x200o.d8b5f5f35a5b.jpeg",
+    "player_id": 43370168,
+    "@id": "https://api.chess.com/pub/player/j-isaac",
+    "url": "https://www.chess.com/member/J-Isaac",
+    "name": "Jonathan Montevilla",
+    "username": "j-isaac",
+    "title": "CM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/BO",
+    "last_online": 1741459693,
+    "joined": 1518710720,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1500,
+            "date": 1732631808,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1627,
+            "date": 1642892334,
+            "game": "https://www.chess.com/game/daily/355409747"
+        },
+        "record": {
+            "win": 16,
+            "loss": 15,
+            "draw": 0,
+            "time_per_move": 35956,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2089,
+            "date": 1732631809,
+            "rd": 112
+        },
+        "best": {
+            "rating": 1727,
+            "date": 1653594002,
+            "game": "https://www.chess.com/game/live/47332773579"
+        },
+        "record": {
+            "win": 29,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2379,
+            "date": 1741460396,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2396,
+            "date": 1739132991,
+            "game": "https://www.chess.com/game/live/132871798937"
+        },
+        "record": {
+            "win": 612,
+            "loss": 405,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2324,
+            "date": 1735319440,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1735317897,
+            "game": "https://www.chess.com/game/live/126377338073"
+        },
+        "record": {
+            "win": 190,
+            "loss": 132,
+            "draw": 20
+        }
+    },
+    "fide": 2089,
+    "tactics": {
+        "highest": {
+            "rating": 3164,
+            "date": 1633523467
+        },
+        "lowest": {
+            "rating": 784,
+            "date": 1519570526
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

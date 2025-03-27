@@ -1,0 +1,111 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32324700.c44e23e3.200x200o.014935106a3c.png",
+    "player_id": 32324700,
+    "@id": "https://api.chess.com/pub/player/birdmaster3000",
+    "url": "https://www.chess.com/member/BirdMaster3000",
+    "name": "Raven Sturt",
+    "username": "birdmaster3000",
+    "title": "GM",
+    "followers": 636,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Joinville",
+    "last_online": 1734019914,
+    "joined": 1484193021,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmraven_",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmraven_"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1133,
+            "date": 1729801292,
+            "rd": 197
+        },
+        "best": {
+            "rating": 1297,
+            "date": 1725055477,
+            "game": "https://www.chess.com/game/daily/689830763"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 18361,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2245,
+            "date": 1730155773,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2561,
+            "date": 1696035839,
+            "game": "https://www.chess.com/game/live/89772545977"
+        },
+        "record": {
+            "win": 44,
+            "loss": 9,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2211,
+            "date": 1724882611,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2315,
+            "date": 1492033895,
+            "game": "https://www.chess.com/game/live/2045136750"
+        },
+        "record": {
+            "win": 169,
+            "loss": 90,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2665,
+            "date": 1733780896,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2895,
+            "date": 1718025166,
+            "game": "https://www.chess.com/game/live/112466520461"
+        },
+        "record": {
+            "win": 1715,
+            "loss": 1370,
+            "draw": 146
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1822,
+            "date": 1576185099
+        },
+        "lowest": {
+            "rating": 1802,
+            "date": 1519549294
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

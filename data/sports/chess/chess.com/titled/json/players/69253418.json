@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69253418.7d0c1863.200x200o.dd3a871955b2.jpg",
+    "player_id": 69253418,
+    "@id": "https://api.chess.com/pub/player/graflermontov",
+    "url": "https://www.chess.com/member/GrafLermontov",
+    "name": "Rostyslav Malynovskyi",
+    "username": "graflermontov",
+    "title": "FM",
+    "followers": 117,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Kyiv | Kaunas",
+    "last_online": 1741636229,
+    "joined": 1576180795,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1827,
+            "date": 1622545292,
+            "rd": 144
+        },
+        "best": {
+            "rating": 2115,
+            "date": 1585495471,
+            "game": "https://www.chess.com/game/live/4906288443"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2677,
+            "date": 1741637184,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2739,
+            "date": 1735766683,
+            "game": "https://www.chess.com/game/live/33993037579"
+        },
+        "record": {
+            "win": 1351,
+            "loss": 1195,
+            "draw": 199
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2604,
+            "date": 1741441674,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2837,
+            "date": 1735929819,
+            "game": "https://www.chess.com/game/live/114358189257"
+        },
+        "record": {
+            "win": 5999,
+            "loss": 5235,
+            "draw": 1164
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3406,
+            "date": 1738950825
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1577206563
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48758988.57e4156c.200x200o.0cf4198e589a.png",
+    "player_id": 48758988,
+    "@id": "https://api.chess.com/pub/player/brapa",
+    "url": "https://www.chess.com/member/Brapa",
+    "name": "Paul Brasser",
+    "username": "brapa",
+    "title": "CM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1740664549,
+    "joined": 1534246041,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1702,
+            "date": 1619869506,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2176,
+            "date": 1610804934,
+            "game": "https://www.chess.com/game/live/12396371527"
+        },
+        "record": {
+            "win": 5,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2005,
+            "date": 1740257168,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1597859422,
+            "game": "https://www.chess.com/game/live/106579648501"
+        },
+        "record": {
+            "win": 6214,
+            "loss": 5673,
+            "draw": 344
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3451,
+            "date": 1726589455
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1535535869
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

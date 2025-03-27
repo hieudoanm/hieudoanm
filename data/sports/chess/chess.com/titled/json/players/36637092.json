@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36637092.3366e886.200x200o.d50fcd08141d.jpeg",
+    "player_id": 36637092,
+    "@id": "https://api.chess.com/pub/player/winningbutnotreally",
+    "url": "https://www.chess.com/member/WinningButNotReally",
+    "name": "Brandon Wu",
+    "username": "winningbutnotreally",
+    "title": "NM",
+    "followers": 52,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741475505,
+    "joined": 1498618416,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1836,
+            "date": 1741702983,
+            "rd": 149
+        },
+        "best": {
+            "rating": 2042,
+            "date": 1546036468,
+            "game": "https://www.chess.com/game/daily/476029681"
+        },
+        "record": {
+            "win": 68,
+            "loss": 31,
+            "draw": 5,
+            "time_per_move": 32401,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2001,
+            "date": 1741282951,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1741282951,
+            "game": "https://www.chess.com/game/daily/779429437"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 32401,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2149,
+            "date": 1738906337,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2182,
+            "date": 1668884872,
+            "game": "https://www.chess.com/game/live/60808180061"
+        },
+        "record": {
+            "win": 46,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2507,
+            "date": 1741222721,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2658,
+            "date": 1686701773,
+            "game": "https://www.chess.com/game/live/65652790171"
+        },
+        "record": {
+            "win": 4275,
+            "loss": 4355,
+            "draw": 346
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2567,
+            "date": 1741480156,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1740675539,
+            "game": "https://www.chess.com/game/live/5010796210"
+        },
+        "record": {
+            "win": 627,
+            "loss": 457,
+            "draw": 77
+        }
+    },
+    "fide": 2281,
+    "tactics": {
+        "highest": {
+            "rating": 3562,
+            "date": 1733157956
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1498688963
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

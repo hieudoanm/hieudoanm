@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31471438.24c2d20d.200x200o.9bf6d397e1bf.jpg",
+    "player_id": 31471438,
+    "@id": "https://api.chess.com/pub/player/afterbite",
+    "url": "https://www.chess.com/member/afterbite",
+    "name": "Chuong Pham",
+    "username": "afterbite",
+    "title": "IM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1739599174,
+    "joined": 1481190442,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2342,
+            "date": 1670662094,
+            "rd": 147
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1626875419,
+            "game": "https://www.chess.com/game/live/33227991241"
+        },
+        "record": {
+            "win": 9,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2323,
+            "date": 1628998035,
+            "rd": 167
+        },
+        "best": {
+            "rating": 2323,
+            "date": 1628998035,
+            "game": "https://www.chess.com/game/live/22736995245"
+        },
+        "record": {
+            "win": 47,
+            "loss": 23,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2607,
+            "date": 1700364309,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2632,
+            "date": 1633182161,
+            "game": "https://www.chess.com/game/live/26978468453"
+        },
+        "record": {
+            "win": 335,
+            "loss": 213,
+            "draw": 34
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2464,
+            "date": 1670499136
+        },
+        "lowest": {
+            "rating": 1137,
+            "date": 1481191306
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/58142156.2118e56e.200x200o.7b5bf9121670.jpg",
+    "player_id": 58142156,
+    "@id": "https://api.chess.com/pub/player/asadlivugar",
+    "url": "https://www.chess.com/member/AsadliVugar",
+    "name": "Vugar Asadli",
+    "username": "asadlivugar",
+    "title": "GM",
+    "followers": 1162,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "location": "Baku",
+    "last_online": 1734171512,
+    "joined": 1551825545,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2564,
+            "date": 1719226661,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2771,
+            "date": 1600173585,
+            "game": "https://www.chess.com/game/live/4929140115"
+        },
+        "record": {
+            "win": 46,
+            "loss": 38,
+            "draw": 35
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2888,
+            "date": 1701037734,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2918,
+            "date": 1672013620,
+            "game": "https://www.chess.com/game/live/65751796217"
+        },
+        "record": {
+            "win": 30,
+            "loss": 12,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2966,
+            "date": 1734173017,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2974,
+            "date": 1622720444,
+            "game": "https://www.chess.com/game/live/124462112945"
+        },
+        "record": {
+            "win": 3507,
+            "loss": 2315,
+            "draw": 695
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2919,
+            "date": 1641990827
+        },
+        "lowest": {
+            "rating": 2215,
+            "date": 1578136729
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27511468.12cfc20f.200x200o.9463eb4dd926.jpg",
+    "player_id": 27511468,
+    "@id": "https://api.chess.com/pub/player/morphy1984",
+    "url": "https://www.chess.com/member/morphy1984",
+    "name": "Georgi Filev",
+    "username": "morphy1984",
+    "title": "FM",
+    "followers": 1888,
+    "country": "https://api.chess.com/pub/country/BG",
+    "location": "Sofia",
+    "last_online": 1741691589,
+    "joined": 1459353742,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2333,
+            "date": 1654179568,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1654179568,
+            "game": "https://www.chess.com/game/live/45591051461"
+        },
+        "record": {
+            "win": 40,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2725,
+            "date": 1722879577,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1694709855,
+            "game": "https://www.chess.com/game/live/116618435413"
+        },
+        "record": {
+            "win": 925,
+            "loss": 813,
+            "draw": 138
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2754,
+            "date": 1741540470,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2801,
+            "date": 1709582228,
+            "game": "https://www.chess.com/game/live/62107221525"
+        },
+        "record": {
+            "win": 2488,
+            "loss": 2612,
+            "draw": 654
+        }
+    },
+    "fide": 2189,
+    "tactics": {
+        "highest": {
+            "rating": 5536,
+            "date": 1725385376
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1459353742
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 106,
+            "score": 103
+        }
+    }
+}

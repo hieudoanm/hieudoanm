@@ -1,0 +1,77 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77104070.14494cc2.200x200o.95e78cfa3c58.jpg",
+    "player_id": 77104070,
+    "@id": "https://api.chess.com/pub/player/tuzibaba",
+    "url": "https://www.chess.com/member/tuzibaba",
+    "username": "tuzibaba",
+    "title": "IM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1741645276,
+    "joined": 1587226425,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1740761745
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1740759363,
+            "game": "https://www.chess.com/game/live/122997040985"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2300,
+            "date": 1588154255
+        },
+        "best": {
+            "rating": 1928,
+            "date": 1587664021,
+            "game": "https://www.chess.com/game/live/4759022812"
+        },
+        "record": {
+            "win": 133,
+            "loss": 49,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2510,
+            "date": 1741701351,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2611,
+            "date": 1739307961,
+            "game": "https://www.chess.com/game/live/132782328045"
+        },
+        "record": {
+            "win": 1088,
+            "loss": 778,
+            "draw": 79
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3053,
+            "date": 1740766962
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1587374250
+        }
+    },
+    "puzzle_rush": {}
+}

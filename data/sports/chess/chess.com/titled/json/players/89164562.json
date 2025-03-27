@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/89164562.99725753.200x200o.405488719fd8.jpg",
+    "player_id": 89164562,
+    "@id": "https://api.chess.com/pub/player/indian_tactician",
+    "url": "https://www.chess.com/member/Indian_Tactician",
+    "username": "indian_tactician",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1736500752,
+    "joined": 1597560661,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2404,
+            "date": 1717610357,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1717610357,
+            "game": "https://www.chess.com/game/live/111348121797"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2748,
+            "date": 1736505328,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2761,
+            "date": 1736501625,
+            "game": "https://www.chess.com/game/live/129905415769"
+        },
+        "record": {
+            "win": 92,
+            "loss": 62,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2600,
+            "date": 1731927366,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1727509272,
+            "game": "https://www.chess.com/game/live/100546900795"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2746,
+            "date": 1706796323
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1597560661
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4627056.8157307f.200x200o.7cb91223e9a1.jpg",
+    "player_id": 4627056,
+    "@id": "https://api.chess.com/pub/player/ushalnotpass",
+    "url": "https://www.chess.com/member/Ushalnotpass",
+    "name": "Louie Jiang",
+    "username": "ushalnotpass",
+    "title": "FM",
+    "followers": 134,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Montreal",
+    "last_online": 1741541524,
+    "joined": 1296262171,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1296,
+            "date": 1684884806,
+            "rd": 247
+        },
+        "best": {
+            "rating": 1459,
+            "date": 1519348990,
+            "game": "https://www.chess.com/game/live/2634491664"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2151,
+            "date": 1684964649,
+            "rd": 157
+        },
+        "best": {
+            "rating": 2684,
+            "date": 1304222543,
+            "game": "https://www.chess.com/game/live/107383533"
+        },
+        "record": {
+            "win": 456,
+            "loss": 443,
+            "draw": 43
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2383,
+            "date": 1726874511,
+            "rd": 178
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1585555341,
+            "game": "https://www.chess.com/game/live/305520147"
+        },
+        "record": {
+            "win": 313,
+            "loss": 277,
+            "draw": 27
+        }
+    },
+    "fide": 2326,
+    "tactics": {
+        "highest": {
+            "rating": 3285,
+            "date": 1728425866
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1330450659
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 55
+        }
+    }
+}

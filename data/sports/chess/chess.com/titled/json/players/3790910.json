@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3790910.a2bbc0f0.200x200o.b57e6260ea14.png",
+    "player_id": 3790910,
+    "@id": "https://api.chess.com/pub/player/coachjkane",
+    "url": "https://www.chess.com/member/CoachJKane",
+    "name": "Jeremy Kane",
+    "username": "coachjkane",
+    "title": "NM",
+    "followers": 1104,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Hyattsville, MD",
+    "last_online": 1741693484,
+    "joined": 1280977105,
+    "status": "staff",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2299,
+            "date": 1703458130,
+            "rd": 225
+        },
+        "best": {
+            "rating": 2299,
+            "date": 1535415939,
+            "game": "https://www.chess.com/game/daily/201285720"
+        },
+        "record": {
+            "win": 15,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 9640,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2481,
+            "date": 1679850841,
+            "rd": 138
+        },
+        "best": {
+            "rating": 2516,
+            "date": 1629232817,
+            "game": "https://www.chess.com/game/live/5435975045"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2703,
+            "date": 1646443870,
+            "rd": 16
+        },
+        "best": {
+            "rating": 2821,
+            "date": 1643987606,
+            "game": "https://www.chess.com/game/live/5482996624"
+        },
+        "record": {
+            "win": 21288,
+            "loss": 19117,
+            "draw": 3089
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2701,
+            "date": 1646837438,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2764,
+            "date": 1586286049,
+            "game": "https://www.chess.com/game/live/9313465359"
+        },
+        "record": {
+            "win": 10175,
+            "loss": 8985,
+            "draw": 2028
+        }
+    },
+    "fide": 2378,
+    "tactics": {
+        "highest": {
+            "rating": 2489,
+            "date": 1389596578
+        },
+        "lowest": {
+            "rating": 2140,
+            "date": 1362162626
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

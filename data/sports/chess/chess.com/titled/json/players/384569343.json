@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/384569343.d44a078d.200x200o.a26081cebec8.jpg",
+    "player_id": 384569343,
+    "@id": "https://api.chess.com/pub/player/ctrlaltdelprtsc",
+    "url": "https://www.chess.com/member/ctrlaltdelprtsc",
+    "username": "ctrlaltdelprtsc",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1741508040,
+    "joined": 1725180923,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2362,
+            "date": 1729814970,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2362,
+            "date": 1729814970,
+            "game": "https://www.chess.com/game/live/123547856263"
+        },
+        "record": {
+            "win": 9,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2509,
+            "date": 1741363828,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2702,
+            "date": 1725381860,
+            "game": "https://www.chess.com/game/live/120928891273"
+        },
+        "record": {
+            "win": 139,
+            "loss": 117,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2513,
+            "date": 1741361671,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2619,
+            "date": 1725443517,
+            "game": "https://www.chess.com/game/live/119172013317"
+        },
+        "record": {
+            "win": 44,
+            "loss": 40,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2312,
+            "date": 1729806837
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1725180923
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

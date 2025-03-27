@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10527570.1b2345b0.200x200o.eb5675480a67.jpg",
+    "player_id": 10527570,
+    "@id": "https://api.chess.com/pub/player/dziththaulydcc",
+    "url": "https://www.chess.com/member/dziththaulydcc",
+    "name": "Dziththauly Ramadhan",
+    "username": "dziththaulydcc",
+    "title": "NM",
+    "followers": 80,
+    "country": "https://api.chess.com/pub/country/ID",
+    "location": "Sidoarjo",
+    "last_online": 1741671262,
+    "joined": 1358865181,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2120,
+            "date": 1686925389,
+            "rd": 197
+        },
+        "best": {
+            "rating": 2120,
+            "date": 1663911058,
+            "game": "https://www.chess.com/game/live/57649237687"
+        },
+        "record": {
+            "win": 10,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2691,
+            "date": 1741191881,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1739430024,
+            "game": "https://www.chess.com/game/live/124277935043"
+        },
+        "record": {
+            "win": 266,
+            "loss": 220,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2776,
+            "date": 1741700659,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2820,
+            "date": 1690553317,
+            "game": "https://www.chess.com/game/live/119025680967"
+        },
+        "record": {
+            "win": 415,
+            "loss": 338,
+            "draw": 57
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3638,
+            "date": 1725354084
+        },
+        "lowest": {
+            "rating": 1365,
+            "date": 1358865296
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

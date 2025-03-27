@@ -1,0 +1,98 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26097422.5106ff3c.200x200o.edaf77a6b87e.jpg",
+    "player_id": 26097422,
+    "@id": "https://api.chess.com/pub/player/wzawzdb-afca1900",
+    "url": "https://www.chess.com/member/WZAWZDB-AFCA1900",
+    "name": "Lars Vereggen",
+    "username": "wzawzdb-afca1900",
+    "title": "FM",
+    "followers": 56,
+    "country": "https://api.chess.com/pub/country/BE",
+    "location": "Hoogstraten",
+    "last_online": 1741564061,
+    "joined": 1452622972,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1877,
+            "date": 1738369185,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1499170332,
+            "game": "https://www.chess.com/game/daily/147733078"
+        },
+        "record": {
+            "win": 75,
+            "loss": 22,
+            "draw": 7,
+            "time_per_move": 13766,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1468921512,
+            "rd": 350
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 13766,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2669,
+            "date": 1707864660,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2669,
+            "date": 1707864660,
+            "game": "https://www.chess.com/game/live/1584253688"
+        },
+        "record": {
+            "win": 33,
+            "loss": 29,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2684,
+            "date": 1741565993,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2780,
+            "date": 1712594089,
+            "game": "https://www.chess.com/game/live/134238558685"
+        },
+        "record": {
+            "win": 3202,
+            "loss": 2409,
+            "draw": 442
+        }
+    },
+    "fide": 2344,
+    "tactics": {
+        "highest": {
+            "rating": 2916,
+            "date": 1737414092
+        },
+        "lowest": {
+            "rating": 1403,
+            "date": 1463177167
+        }
+    },
+    "puzzle_rush": {}
+}

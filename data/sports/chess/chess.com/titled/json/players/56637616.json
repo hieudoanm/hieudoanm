@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56637616.e7b9c051.200x200o.0be6e4c31355.jpeg",
+    "player_id": 56637616,
+    "@id": "https://api.chess.com/pub/player/radical_3dward",
+    "url": "https://www.chess.com/member/Radical_3dward",
+    "username": "radical_3dward",
+    "title": "IM",
+    "followers": 1310,
+    "country": "https://api.chess.com/pub/country/BM",
+    "last_online": 1741701275,
+    "joined": 1548688696,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2697,
+            "date": 1706500659,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2773,
+            "date": 1650848717,
+            "game": "https://www.chess.com/game/live/30337756289"
+        },
+        "record": {
+            "win": 226,
+            "loss": 107,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2720,
+            "date": 1741703844,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2987,
+            "date": 1718279583,
+            "game": "https://www.chess.com/game/live/109620630535"
+        },
+        "record": {
+            "win": 6842,
+            "loss": 6129,
+            "draw": 918
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1591474612
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1591474594
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 49
+        }
+    }
+}

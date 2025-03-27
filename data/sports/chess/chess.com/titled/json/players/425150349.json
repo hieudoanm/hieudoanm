@@ -1,0 +1,56 @@
+{
+    "player_id": 425150349,
+    "@id": "https://api.chess.com/pub/player/quirkyquokka6969",
+    "url": "https://www.chess.com/member/QuirkyQuokka6969",
+    "username": "quirkyquokka6969",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/MO",
+    "last_online": 1740435689,
+    "joined": 1738268823,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2213,
+            "date": 1740267993,
+            "rd": 49
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2662,
+            "date": 1740176790,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2757,
+            "date": 1738864400,
+            "game": "https://www.chess.com/game/live/133403957181"
+        },
+        "record": {
+            "win": 103,
+            "loss": 64,
+            "draw": 14
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1738268823
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738268823
+        }
+    },
+    "puzzle_rush": {}
+}

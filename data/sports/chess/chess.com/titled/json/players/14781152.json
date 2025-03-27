@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14781152.aaef52f5.200x200o.41f1b4662131.jpeg",
+    "player_id": 14781152,
+    "@id": "https://api.chess.com/pub/player/mikkokivistoe",
+    "url": "https://www.chess.com/member/mikkokivistoe",
+    "name": "Mikko Kivisto",
+    "username": "mikkokivistoe",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/FI",
+    "location": "Helsinki, Finland",
+    "last_online": 1740076923,
+    "joined": 1385848760,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1008,
+            "date": 1631957169,
+            "rd": 296
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1385848760,
+            "game": "https://www.chess.com/game/daily/176543654"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 4999,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2269,
+            "date": 1719754196,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2298,
+            "date": 1620037775,
+            "game": "https://www.chess.com/game/live/13951397489"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2077,
+            "date": 1713790736,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1645616295,
+            "game": "https://www.chess.com/game/live/14383581197"
+        },
+        "record": {
+            "win": 5102,
+            "loss": 4444,
+            "draw": 296
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2346,
+            "date": 1691044828,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1691044828,
+            "game": "https://www.chess.com/game/live/62843950461"
+        },
+        "record": {
+            "win": 845,
+            "loss": 599,
+            "draw": 85
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3287,
+            "date": 1684125363
+        },
+        "lowest": {
+            "rating": 1189,
+            "date": 1505056148
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 36
+        }
+    }
+}

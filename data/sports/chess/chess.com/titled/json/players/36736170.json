@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36736170.73910956.200x200o.bafa0b93568d.jpeg",
+    "player_id": 36736170,
+    "@id": "https://api.chess.com/pub/player/gogieff",
+    "url": "https://www.chess.com/member/GOGIEFF",
+    "name": "Anton Korobov",
+    "username": "gogieff",
+    "title": "GM",
+    "followers": 741,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1734024891,
+    "joined": 1498985166,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2539,
+            "date": 1727710099,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2876,
+            "date": 1598185702,
+            "game": "https://www.chess.com/game/live/121026092683"
+        },
+        "record": {
+            "win": 19,
+            "loss": 14,
+            "draw": 21
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2896,
+            "date": 1719154388,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2940,
+            "date": 1711994943,
+            "game": "https://www.chess.com/game/live/105733842023"
+        },
+        "record": {
+            "win": 183,
+            "loss": 132,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3026,
+            "date": 1732643464,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3059,
+            "date": 1666733273,
+            "game": "https://www.chess.com/game/live/121536654279"
+        },
+        "record": {
+            "win": 1002,
+            "loss": 465,
+            "draw": 179
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1191,
+            "date": 1642950813
+        },
+        "lowest": {
+            "rating": 985,
+            "date": 1586284568
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 82,
+            "score": 79
+        }
+    }
+}

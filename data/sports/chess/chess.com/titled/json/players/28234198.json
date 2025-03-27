@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28234198.2be8ab34.200x200o.3b8860366115.jpg",
+    "player_id": 28234198,
+    "@id": "https://api.chess.com/pub/player/sargsyan_shant",
+    "url": "https://www.chess.com/member/Sargsyan_Shant",
+    "name": "Shant Sargsyan",
+    "username": "sargsyan_shant",
+    "title": "GM",
+    "followers": 98,
+    "country": "https://api.chess.com/pub/country/AM",
+    "last_online": 1741102493,
+    "joined": 1463515341,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2674,
+            "date": 1739819678,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2737,
+            "date": 1668843726,
+            "game": "https://www.chess.com/game/live/121188635009"
+        },
+        "record": {
+            "win": 44,
+            "loss": 27,
+            "draw": 48
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3034,
+            "date": 1740783987,
+            "rd": 38
+        },
+        "best": {
+            "rating": 3123,
+            "date": 1737542626,
+            "game": "https://www.chess.com/game/live/123097872941"
+        },
+        "record": {
+            "win": 674,
+            "loss": 351,
+            "draw": 92
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3070,
+            "date": 1741370422,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3111,
+            "date": 1741105690,
+            "game": "https://www.chess.com/game/live/81643468291"
+        },
+        "record": {
+            "win": 326,
+            "loss": 118,
+            "draw": 71
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2539,
+            "date": 1671458003
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1646174515
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/374562077.91346b42.200x200o.ae65f17d574a.png",
+    "player_id": 374562077,
+    "@id": "https://api.chess.com/pub/player/azizanaa",
+    "url": "https://www.chess.com/member/Azizanaa",
+    "name": "Charlotte Sanati",
+    "username": "azizanaa",
+    "title": "WFM",
+    "followers": 527,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741678637,
+    "joined": 1720610393,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/azizana",
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/azizana"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2112,
+            "date": 1741681826,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2112,
+            "date": 1737398974,
+            "game": "https://www.chess.com/game/live/127683627567"
+        },
+        "record": {
+            "win": 168,
+            "loss": 34,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1986,
+            "date": 1741625712,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1994,
+            "date": 1738609575,
+            "game": "https://www.chess.com/game/live/132348582615"
+        },
+        "record": {
+            "win": 63,
+            "loss": 67,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1985,
+            "date": 1741685216,
+            "rd": 40
+        },
+        "best": {
+            "rating": 1999,
+            "date": 1738954719,
+            "game": "https://www.chess.com/game/live/131221187859"
+        },
+        "record": {
+            "win": 84,
+            "loss": 68,
+            "draw": 17
+        }
+    },
+    "fide": 1989,
+    "tactics": {
+        "highest": {
+            "rating": 3025,
+            "date": 1736968128
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1720610393
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        },
+        "daily": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

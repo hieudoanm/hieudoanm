@@ -1,0 +1,85 @@
+{
+    "player_id": 50702734,
+    "@id": "https://api.chess.com/pub/player/dynamikus",
+    "url": "https://www.chess.com/member/Dynamikus",
+    "name": "Sebastian Bogner",
+    "username": "dynamikus",
+    "title": "GM",
+    "followers": 157,
+    "country": "https://api.chess.com/pub/country/CH",
+    "location": "Zurich",
+    "last_online": 1733236528,
+    "joined": 1539421122,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2345,
+            "date": 1733237297,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1609012463,
+            "game": "https://www.chess.com/game/live/24405710399"
+        },
+        "record": {
+            "win": 130,
+            "loss": 36,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2790,
+            "date": 1722809330,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2792,
+            "date": 1722808692,
+            "game": "https://www.chess.com/game/live/101130747987"
+        },
+        "record": {
+            "win": 89,
+            "loss": 53,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2756,
+            "date": 1727290469,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2882,
+            "date": 1635503230,
+            "game": "https://www.chess.com/game/live/105284982265"
+        },
+        "record": {
+            "win": 930,
+            "loss": 675,
+            "draw": 201
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3552,
+            "date": 1730922459
+        },
+        "lowest": {
+            "rating": 2385,
+            "date": 1544177067
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

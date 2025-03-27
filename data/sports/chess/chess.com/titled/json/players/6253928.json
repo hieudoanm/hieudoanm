@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6253928.c5cbb2b1.200x200o.f73923bf9e73.png",
+    "player_id": 6253928,
+    "@id": "https://api.chess.com/pub/player/isaks",
+    "url": "https://www.chess.com/member/isaks",
+    "name": "Isak Sjoberg",
+    "username": "isaks",
+    "title": "FM",
+    "followers": 156,
+    "country": "https://api.chess.com/pub/country/NO",
+    "location": "Oslo",
+    "last_online": 1741623150,
+    "joined": 1323094889,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1649,
+            "date": 1713035560,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1666,
+            "date": 1579362091,
+            "game": "https://www.chess.com/game/daily/247485948"
+        },
+        "record": {
+            "win": 54,
+            "loss": 34,
+            "draw": 8,
+            "time_per_move": 25563,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1934,
+            "date": 1701021216,
+            "rd": 212
+        },
+        "best": {
+            "rating": 2193,
+            "date": 1561987010,
+            "game": "https://www.chess.com/game/live/4911485193"
+        },
+        "record": {
+            "win": 80,
+            "loss": 62,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2501,
+            "date": 1740995076,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1660321426,
+            "game": "https://www.chess.com/game/live/6493488676"
+        },
+        "record": {
+            "win": 1097,
+            "loss": 940,
+            "draw": 103
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2575,
+            "date": 1741628614,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1732804939,
+            "game": "https://www.chess.com/game/live/108500967817"
+        },
+        "record": {
+            "win": 4268,
+            "loss": 3857,
+            "draw": 507
+        }
+    },
+    "fide": 2342,
+    "tactics": {
+        "highest": {
+            "rating": 3601,
+            "date": 1738784865
+        },
+        "lowest": {
+            "rating": 1105,
+            "date": 1334131486
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

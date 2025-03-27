@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/203311761.061d9433.200x200o.e372f73fb082.jpg",
+    "player_id": 203311761,
+    "@id": "https://api.chess.com/pub/player/saliheke",
+    "url": "https://www.chess.com/member/SalihEke",
+    "name": "Salih Eke",
+    "username": "saliheke",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741627653,
+    "joined": 1666732810,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2654,
+            "date": 1728681508,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2716,
+            "date": 1726325248,
+            "game": "https://www.chess.com/game/live/119912455819"
+        },
+        "record": {
+            "win": 165,
+            "loss": 103,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2645,
+            "date": 1738706937,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2645,
+            "date": 1738706929,
+            "game": "https://www.chess.com/game/live/123376207485"
+        },
+        "record": {
+            "win": 60,
+            "loss": 42,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1666732810
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1666732810
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

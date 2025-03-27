@@ -1,0 +1,129 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12283908.09db767a.200x200o.9d44456fee76.png",
+    "player_id": 12283908,
+    "@id": "https://api.chess.com/pub/player/maziarbagheri",
+    "url": "https://www.chess.com/member/maziarbagheri",
+    "name": "Maziar Bagheri",
+    "username": "maziarbagheri",
+    "title": "FM",
+    "followers": 102,
+    "country": "https://api.chess.com/pub/country/IR",
+    "location": "Shirvan, Khorasan, Iran",
+    "last_online": 1741699082,
+    "joined": 1371044412,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1993,
+            "date": 1713357663,
+            "rd": 156
+        },
+        "best": {
+            "rating": 1993,
+            "date": 1664279173,
+            "game": "https://www.chess.com/game/daily/258453462"
+        },
+        "record": {
+            "win": 60,
+            "loss": 41,
+            "draw": 8,
+            "time_per_move": 37050,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1409,
+            "date": 1567281014,
+            "rd": 242
+        },
+        "best": {
+            "rating": 1409,
+            "date": 1566035143,
+            "game": "https://www.chess.com/game/daily/233354304"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 37050,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2009,
+            "date": 1721034714,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2342,
+            "date": 1615825557,
+            "game": "https://www.chess.com/game/live/9558261445"
+        },
+        "record": {
+            "win": 10,
+            "loss": 10,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2157,
+            "date": 1725974825,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2230,
+            "date": 1535185999,
+            "game": "https://www.chess.com/game/live/3838591929"
+        },
+        "record": {
+            "win": 827,
+            "loss": 727,
+            "draw": 59
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2464,
+            "date": 1739578634,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1516883167,
+            "game": "https://www.chess.com/game/live/3110064855"
+        },
+        "record": {
+            "win": 3316,
+            "loss": 3217,
+            "draw": 499
+        }
+    },
+    "fide": 2297,
+    "tactics": {
+        "highest": {
+            "rating": 3106,
+            "date": 1741515205
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1371044412
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        },
+        "daily": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

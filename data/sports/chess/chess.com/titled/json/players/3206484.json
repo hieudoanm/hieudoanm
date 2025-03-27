@@ -1,0 +1,97 @@
+{
+    "player_id": 3206484,
+    "@id": "https://api.chess.com/pub/player/trollthunder",
+    "url": "https://www.chess.com/member/TrollThunder",
+    "name": "Victor Nithander",
+    "username": "trollthunder",
+    "title": "IM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1681490908,
+    "joined": 1236336095,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1757,
+            "date": 1376904276,
+            "rd": 160
+        },
+        "best": {
+            "rating": 1757,
+            "date": 1376904276,
+            "game": "https://www.chess.com/game/daily/66566628"
+        },
+        "record": {
+            "win": 15,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 13935,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1427149959,
+            "rd": 304
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1310659148,
+            "game": "https://www.chess.com/game/live/152018689"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1427149959,
+            "rd": 156
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1326116981,
+            "game": "https://www.chess.com/game/live/223420030"
+        },
+        "record": {
+            "win": 16,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2428,
+            "date": 1474719592,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2471,
+            "date": 1456873953,
+            "game": "https://www.chess.com/game/live/1498287498"
+        },
+        "record": {
+            "win": 1295,
+            "loss": 451,
+            "draw": 52
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2579,
+            "date": 1513975852
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1513890649
+        }
+    },
+    "puzzle_rush": {}
+}

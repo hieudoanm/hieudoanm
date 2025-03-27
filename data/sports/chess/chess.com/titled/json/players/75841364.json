@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75841364.9f013874.200x200o.d881b1b55ab6.jpg",
+    "player_id": 75841364,
+    "@id": "https://api.chess.com/pub/player/asatryangor",
+    "url": "https://www.chess.com/member/AsatryanGor",
+    "name": "Gor Asatryan",
+    "username": "asatryangor",
+    "title": "CM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1740663370,
+    "joined": 1586170460,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1978,
+            "date": 1733401777,
+            "rd": 102
+        },
+        "best": {
+            "rating": 1969,
+            "date": 1697183751,
+            "game": "https://www.chess.com/game/live/4897137749"
+        },
+        "record": {
+            "win": 8,
+            "loss": 7,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2674,
+            "date": 1739690796,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1738180907,
+            "game": "https://www.chess.com/game/live/131926794675"
+        },
+        "record": {
+            "win": 228,
+            "loss": 173,
+            "draw": 36
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2479,
+            "date": 1740663511,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2528,
+            "date": 1735180497,
+            "game": "https://www.chess.com/game/live/128919146021"
+        },
+        "record": {
+            "win": 191,
+            "loss": 133,
+            "draw": 23
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3395,
+            "date": 1738172756
+        },
+        "lowest": {
+            "rating": 993,
+            "date": 1586380674
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

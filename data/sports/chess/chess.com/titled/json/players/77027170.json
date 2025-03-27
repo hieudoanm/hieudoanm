@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77027170.7eab7ed9.200x200o.dbb85ce46855.jpeg",
+    "player_id": 77027170,
+    "@id": "https://api.chess.com/pub/player/beltraxtor",
+    "url": "https://www.chess.com/member/Beltraxtor",
+    "name": "Viachaslau Zarubitski",
+    "username": "beltraxtor",
+    "title": "IM",
+    "followers": 66,
+    "country": "https://api.chess.com/pub/country/BY",
+    "last_online": 1741673281,
+    "joined": 1587155241,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2074,
+            "date": 1738256648,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2143,
+            "date": 1597327688,
+            "game": "https://www.chess.com/game/live/5498652645"
+        },
+        "record": {
+            "win": 35,
+            "loss": 15,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2551,
+            "date": 1726669779,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1617303851,
+            "game": "https://www.chess.com/game/live/11039048815"
+        },
+        "record": {
+            "win": 142,
+            "loss": 54,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2749,
+            "date": 1741615353,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2956,
+            "date": 1643306026,
+            "game": "https://www.chess.com/game/live/36957598453"
+        },
+        "record": {
+            "win": 890,
+            "loss": 642,
+            "draw": 166
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4138,
+            "date": 1673117511
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1595927981
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

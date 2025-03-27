@@ -1,0 +1,143 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1355607.267b4f2b.200x200o.4cb2d1952100.jpeg",
+    "player_id": 1355607,
+    "@id": "https://api.chess.com/pub/player/gmkrikor",
+    "url": "https://www.chess.com/member/GMKrikor",
+    "name": "Krikor Sevag Mekhitarian",
+    "username": "gmkrikor",
+    "title": "GM",
+    "followers": 36493,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Sao Paulo",
+    "last_online": 1734174045,
+    "joined": 1207980653,
+    "status": "staff",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmkrikor",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmkrikor"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1782,
+            "date": 1734127311,
+            "rd": 156
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1207980653,
+            "game": "https://www.chess.com/game/daily/293767492"
+        },
+        "record": {
+            "win": 153,
+            "loss": 34,
+            "draw": 15,
+            "time_per_move": 30555,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 3
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1785,
+            "date": 1674697470,
+            "rd": 102
+        },
+        "best": {
+            "rating": 1894,
+            "date": 1630399836,
+            "game": "https://www.chess.com/game/daily/335866087"
+        },
+        "record": {
+            "win": 25,
+            "loss": 8,
+            "draw": 3,
+            "time_per_move": 30555,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 3
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2515,
+            "date": 1731368107,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2630,
+            "date": 1645229156,
+            "game": "https://www.chess.com/game/live/3994068077"
+        },
+        "record": {
+            "win": 245,
+            "loss": 108,
+            "draw": 49
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2703,
+            "date": 1717109306,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2888,
+            "date": 1604362717,
+            "game": "https://www.chess.com/game/live/86205630657"
+        },
+        "record": {
+            "win": 4614,
+            "loss": 1812,
+            "draw": 327
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2751,
+            "date": 1733875613,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2974,
+            "date": 1582746987,
+            "game": "https://www.chess.com/game/live/105300122575"
+        },
+        "record": {
+            "win": 14099,
+            "loss": 7111,
+            "draw": 2564
+        }
+    },
+    "fide": 2554,
+    "tactics": {
+        "highest": {
+            "rating": 3789,
+            "date": 1727487176
+        },
+        "lowest": {
+            "rating": 1467,
+            "date": 1366560726
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 88,
+            "score": 85
+        }
+    }
+}

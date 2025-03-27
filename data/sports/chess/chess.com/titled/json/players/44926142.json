@@ -1,0 +1,51 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44926142.263a2109.200x200o.d1cf1c28e8a9.jpg",
+    "player_id": 44926142,
+    "@id": "https://api.chess.com/pub/player/a_morgunov",
+    "url": "https://www.chess.com/member/A_Morgunov",
+    "username": "a_morgunov",
+    "title": "FM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741701895,
+    "joined": 1522742247,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2499,
+            "date": 1737132506,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2597,
+            "date": 1693068529,
+            "game": "https://www.chess.com/game/live/53099470677"
+        },
+        "record": {
+            "win": 5997,
+            "loss": 6113,
+            "draw": 1650
+        }
+    },
+    "fide": 2336,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1522742247
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1522742247
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

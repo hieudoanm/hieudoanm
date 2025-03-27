@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/360193915.23832766.200x200o.2a8785a958b5.jpg",
+    "player_id": 360193915,
+    "@id": "https://api.chess.com/pub/player/gangster-accountant01",
+    "url": "https://www.chess.com/member/Gangster-accountant01",
+    "name": "Barad Yeganegi",
+    "username": "gangster-accountant01",
+    "title": "FM",
+    "followers": 104,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741702696,
+    "joined": 1714412270,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2812,
+            "date": 1740737222,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2876,
+            "date": 1736241863,
+            "game": "https://www.chess.com/game/live/123664217245"
+        },
+        "record": {
+            "win": 335,
+            "loss": 385,
+            "draw": 66
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2861,
+            "date": 1741703740,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2963,
+            "date": 1740509141,
+            "game": "https://www.chess.com/game/live/119722255033"
+        },
+        "record": {
+            "win": 1991,
+            "loss": 2296,
+            "draw": 400
+        }
+    },
+    "fide": 2355,
+    "tactics": {
+        "highest": {
+            "rating": 2914,
+            "date": 1739279353
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1714412270
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

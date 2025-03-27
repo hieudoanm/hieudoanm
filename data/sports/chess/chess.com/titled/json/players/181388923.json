@@ -1,0 +1,68 @@
+{
+    "player_id": 181388923,
+    "@id": "https://api.chess.com/pub/player/kyuotbi",
+    "url": "https://www.chess.com/member/kyuotbi",
+    "name": "Enkhrii Enkh-Amgalan",
+    "username": "kyuotbi",
+    "title": "WCM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/MN",
+    "last_online": 1741588459,
+    "joined": 1650704966,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2145,
+            "date": 1741166529,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2241,
+            "date": 1728030833,
+            "game": "https://www.chess.com/game/live/121952923047"
+        },
+        "record": {
+            "win": 155,
+            "loss": 133,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2375,
+            "date": 1741589134,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2508,
+            "date": 1728400639,
+            "game": "https://www.chess.com/game/live/127585258549"
+        },
+        "record": {
+            "win": 610,
+            "loss": 417,
+            "draw": 65
+        }
+    },
+    "fide": 1844,
+    "tactics": {
+        "highest": {
+            "rating": 3434,
+            "date": 1713498508
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1650704966
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

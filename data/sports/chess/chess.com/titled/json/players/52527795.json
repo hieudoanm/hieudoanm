@@ -1,0 +1,86 @@
+{
+    "player_id": 52527795,
+    "@id": "https://api.chess.com/pub/player/anuprita19",
+    "url": "https://www.chess.com/member/anuprita19",
+    "name": "Anuprita Patil",
+    "username": "anuprita19",
+    "title": "WFM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Apex, North Carolina",
+    "last_online": 1721154255,
+    "joined": 1543511941,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1222,
+            "date": 1644368885,
+            "rd": 257
+        },
+        "best": {
+            "rating": 1904,
+            "date": 1545276281,
+            "game": "https://www.chess.com/game/live/12793451149"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1797,
+            "date": 1598320991,
+            "rd": 100
+        },
+        "best": {
+            "rating": 1903,
+            "date": 1594177618,
+            "game": "https://www.chess.com/game/live/5117014888"
+        },
+        "record": {
+            "win": 3,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2038,
+            "date": 1721156013,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2220,
+            "date": 1700940619,
+            "game": "https://www.chess.com/game/live/5584730350"
+        },
+        "record": {
+            "win": 692,
+            "loss": 765,
+            "draw": 99
+        }
+    },
+    "fide": 2074,
+    "tactics": {
+        "highest": {
+            "rating": 2101,
+            "date": 1708436680
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1543807997
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

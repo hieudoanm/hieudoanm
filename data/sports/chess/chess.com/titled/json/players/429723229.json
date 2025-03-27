@@ -1,0 +1,58 @@
+{
+    "player_id": 429723229,
+    "@id": "https://api.chess.com/pub/player/luiztfelizola",
+    "url": "https://www.chess.com/member/LuizTFelizola",
+    "name": "Luiz Felizola Lima Pontes",
+    "username": "luiztfelizola",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741222275,
+    "joined": 1739708692,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2098,
+            "date": 1740676587,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1903,
+            "date": 1741106306,
+            "rd": 198
+        },
+        "record": {
+            "win": 0,
+            "loss": 7,
+            "draw": 0
+        }
+    },
+    "fide": 2105,
+    "tactics": {
+        "highest": {
+            "rating": 2388,
+            "date": 1741102734
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1739708692
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 32
+        }
+    }
+}

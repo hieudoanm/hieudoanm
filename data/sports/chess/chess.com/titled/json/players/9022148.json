@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9022148.bb8251a7.200x200o.2c21a96bab12.jpeg",
+    "player_id": 9022148,
+    "@id": "https://api.chess.com/pub/player/maddog94",
+    "url": "https://www.chess.com/member/MadDog94",
+    "name": "MadDog94",
+    "username": "maddog94",
+    "title": "IM",
+    "followers": 89,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741299426,
+    "joined": 1348487654,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1722,
+            "date": 1741701304,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2100,
+            "date": 1734122204,
+            "game": "https://www.chess.com/game/daily/717005333"
+        },
+        "record": {
+            "win": 55,
+            "loss": 7,
+            "draw": 4,
+            "time_per_move": 10925,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2385,
+            "date": 1657801322,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1610804849,
+            "game": "https://www.chess.com/game/live/13616564455"
+        },
+        "record": {
+            "win": 16,
+            "loss": 1,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2293,
+            "date": 1741701625,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2615,
+            "date": 1558818834,
+            "game": "https://www.chess.com/game/live/3587924285"
+        },
+        "record": {
+            "win": 7767,
+            "loss": 6219,
+            "draw": 728
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2481,
+            "date": 1737656459,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1545588755,
+            "game": "https://www.chess.com/game/live/4309098756"
+        },
+        "record": {
+            "win": 2007,
+            "loss": 1605,
+            "draw": 285
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3343,
+            "date": 1722927314
+        },
+        "lowest": {
+            "rating": 1395,
+            "date": 1471256819
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

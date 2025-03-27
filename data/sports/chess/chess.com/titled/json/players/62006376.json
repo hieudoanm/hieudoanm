@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62006376.76494ce8.200x200o.1dc0fbab9a91.jpeg",
+    "player_id": 62006376,
+    "@id": "https://api.chess.com/pub/player/lucky_puncher",
+    "url": "https://www.chess.com/member/Lucky_Puncher",
+    "name": "Roman Ganzhurov",
+    "username": "lucky_puncher",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Yakutsk",
+    "last_online": 1738930136,
+    "joined": 1559887707,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2250,
+            "date": 1581478007,
+            "rd": 60
+        },
+        "best": {
+            "rating": 1805,
+            "date": 1580912280,
+            "game": "https://www.chess.com/game/live/4468518192"
+        },
+        "record": {
+            "win": 23,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2606,
+            "date": 1725383418,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1719937791,
+            "game": "https://www.chess.com/game/live/117322246711"
+        },
+        "record": {
+            "win": 497,
+            "loss": 443,
+            "draw": 49
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2620,
+            "date": 1717522227
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1559887756
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

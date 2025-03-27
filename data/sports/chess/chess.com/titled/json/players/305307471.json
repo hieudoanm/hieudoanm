@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/305307471.37cbb3e1.200x200o.b71d3840b1b0.png",
+    "player_id": 305307471,
+    "@id": "https://api.chess.com/pub/player/rrainlessbobot",
+    "url": "https://www.chess.com/member/RrainlessBobot",
+    "username": "rrainlessbobot",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "last_online": 1741118261,
+    "joined": 1691749446,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2803,
+            "date": 1735777476,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2968,
+            "date": 1734981668,
+            "game": "https://www.chess.com/game/live/128720011537"
+        },
+        "record": {
+            "win": 294,
+            "loss": 191,
+            "draw": 41
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2825,
+            "date": 1735168782,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2933,
+            "date": 1715550494,
+            "game": "https://www.chess.com/game/live/94437723249"
+        },
+        "record": {
+            "win": 456,
+            "loss": 483,
+            "draw": 89
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3471,
+            "date": 1727305085
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1691749446
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

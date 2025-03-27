@@ -1,0 +1,26 @@
+{
+    "player_id": 413195995,
+    "@id": "https://api.chess.com/pub/player/nami120923",
+    "url": "https://www.chess.com/member/Nami120923",
+    "username": "nami120923",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1739181295,
+    "joined": 1735382226,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1735382226
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1735382226
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51652142.d088dee5.200x200o.fcfee8dc2822.jpeg",
+    "player_id": 51652142,
+    "@id": "https://api.chess.com/pub/player/playgood28",
+    "url": "https://www.chess.com/member/Playgood28",
+    "name": "Paul Makarov",
+    "username": "playgood28",
+    "title": "NM",
+    "followers": 105,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Odessa",
+    "last_online": 1741598375,
+    "joined": 1541787903,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2203,
+            "date": 1621272993,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1621272993,
+            "game": "https://www.chess.com/game/live/3319422308"
+        },
+        "record": {
+            "win": 31,
+            "loss": 15,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2166,
+            "date": 1545676487,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2136,
+            "date": 1543512258,
+            "game": "https://www.chess.com/game/live/3318890369"
+        },
+        "record": {
+            "win": 30,
+            "loss": 11,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2193,
+            "date": 1696175370,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1659366282,
+            "game": "https://www.chess.com/game/live/4943102720"
+        },
+        "record": {
+            "win": 462,
+            "loss": 371,
+            "draw": 173
+        }
+    },
+    "fide": 2212,
+    "tactics": {
+        "highest": {
+            "rating": 2769,
+            "date": 1739450138
+        },
+        "lowest": {
+            "rating": 1991,
+            "date": 1544646294
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47430642.ac2b1b69.200x200o.083c75169d8f.jpeg",
+    "player_id": 47430642,
+    "@id": "https://api.chess.com/pub/player/renansoares1972",
+    "url": "https://www.chess.com/member/RenanSoares1972",
+    "name": "Renan Soares",
+    "username": "renansoares1972",
+    "title": "CM",
+    "followers": 142,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Brasilia-DF",
+    "last_online": 1741688910,
+    "joined": 1530107737,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1964,
+            "date": 1692088128,
+            "rd": 252
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1595765583,
+            "game": "https://www.chess.com/game/daily/418170623"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 40346,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2209,
+            "date": 1726772567,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2251,
+            "date": 1696987080,
+            "game": "https://www.chess.com/game/live/6023939133"
+        },
+        "record": {
+            "win": 368,
+            "loss": 291,
+            "draw": 38
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2006,
+            "date": 1653265430,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2125,
+            "date": 1600633407,
+            "game": "https://www.chess.com/game/live/22999800189"
+        },
+        "record": {
+            "win": 156,
+            "loss": 159,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2061,
+            "date": 1741689482,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2251,
+            "date": 1608918341,
+            "game": "https://www.chess.com/game/live/6053854676"
+        },
+        "record": {
+            "win": 9037,
+            "loss": 8186,
+            "draw": 918
+        }
+    },
+    "fide": 1953,
+    "tactics": {
+        "highest": {
+            "rating": 2748,
+            "date": 1739723393
+        },
+        "lowest": {
+            "rating": 1205,
+            "date": 1530761494
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 20,
+            "score": 17
+        }
+    }
+}

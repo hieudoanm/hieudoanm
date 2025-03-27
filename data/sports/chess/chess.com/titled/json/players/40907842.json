@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40907842.11224998.200x200o.b105374c5b0c.png",
+    "player_id": 40907842,
+    "@id": "https://api.chess.com/pub/player/apoiogia",
+    "url": "https://www.chess.com/member/ApoIogiA",
+    "name": "Apolo de Souza S\u00e1",
+    "username": "apoiogia",
+    "title": "NM",
+    "followers": 258,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741700759,
+    "joined": 1512149718,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1690,
+            "date": 1737747477,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1889,
+            "date": 1547309516,
+            "game": "https://www.chess.com/game/daily/471335909"
+        },
+        "record": {
+            "win": 193,
+            "loss": 100,
+            "draw": 11,
+            "time_per_move": 62319,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2431,
+            "date": 1717974518,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2431,
+            "date": 1717974518,
+            "game": "https://www.chess.com/game/live/98801051123"
+        },
+        "record": {
+            "win": 146,
+            "loss": 87,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2255,
+            "date": 1741567830,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2370,
+            "date": 1522932365,
+            "game": "https://www.chess.com/game/live/6171424832"
+        },
+        "record": {
+            "win": 661,
+            "loss": 716,
+            "draw": 67
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2386,
+            "date": 1741701274,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1692884034,
+            "game": "https://www.chess.com/game/live/62445000359"
+        },
+        "record": {
+            "win": 4833,
+            "loss": 5172,
+            "draw": 576
+        }
+    },
+    "fide": 2005,
+    "tactics": {
+        "highest": {
+            "rating": 3648,
+            "date": 1680024541
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1512488192
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

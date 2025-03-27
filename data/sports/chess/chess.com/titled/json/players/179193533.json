@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/179193533.dbce97a8.200x200o.23bb521e83ab.png",
+    "player_id": 179193533,
+    "@id": "https://api.chess.com/pub/player/mindhunter247",
+    "url": "https://www.chess.com/member/Mindhunter247",
+    "username": "mindhunter247",
+    "title": "WGM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/ET",
+    "last_online": 1741703256,
+    "joined": 1649084096,
+    "status": "basic",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2323,
+            "date": 1710186726,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2593,
+            "date": 1677258231,
+            "game": "https://www.chess.com/game/live/70997716993"
+        },
+        "record": {
+            "win": 9,
+            "loss": 15,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1741653665,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2557,
+            "date": 1710359015,
+            "game": "https://www.chess.com/game/live/104097583331"
+        },
+        "record": {
+            "win": 433,
+            "loss": 444,
+            "draw": 85
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3117,
+            "date": 1728094871
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1649168480
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

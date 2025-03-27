@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4596638.a0d8fd2e.200x200o.36597d8fb115.jpeg",
+    "player_id": 4596638,
+    "@id": "https://api.chess.com/pub/player/manitodeplomo",
+    "url": "https://www.chess.com/member/manitodeplomo",
+    "name": "Daniel Barria",
+    "username": "manitodeplomo",
+    "title": "IM",
+    "followers": 735,
+    "country": "https://api.chess.com/pub/country/CL",
+    "location": "santiago",
+    "last_online": 1741678305,
+    "joined": 1295733314,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2362,
+            "date": 1664445297,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1658004273,
+            "game": "https://www.chess.com/game/live/49447199553"
+        },
+        "record": {
+            "win": 132,
+            "loss": 73,
+            "draw": 32
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2792,
+            "date": 1731796044,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2792,
+            "date": 1731796044,
+            "game": "https://www.chess.com/game/live/103144333557"
+        },
+        "record": {
+            "win": 10130,
+            "loss": 10704,
+            "draw": 1051
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2576,
+            "date": 1741683484,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2742,
+            "date": 1574671489,
+            "game": "https://www.chess.com/game/live/46560636961"
+        },
+        "record": {
+            "win": 4354,
+            "loss": 3753,
+            "draw": 819
+        }
+    },
+    "fide": 2452,
+    "tactics": {
+        "highest": {
+            "rating": 2248,
+            "date": 1582622032
+        },
+        "lowest": {
+            "rating": 2000,
+            "date": 1559254369
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

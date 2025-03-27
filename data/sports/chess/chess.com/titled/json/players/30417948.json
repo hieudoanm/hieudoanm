@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30417948.90c1591c.200x200o.5f1384d198d6.png",
+    "player_id": 30417948,
+    "@id": "https://api.chess.com/pub/player/j_coca",
+    "url": "https://www.chess.com/member/j_coca",
+    "name": "Jes\u00fas Alberto Coca Cubillos",
+    "username": "j_coca",
+    "title": "FM",
+    "followers": 172,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1741528725,
+    "joined": 1476583459,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1588,
+            "date": 1662994241,
+            "rd": 216
+        },
+        "best": {
+            "rating": 1588,
+            "date": 1560125718,
+            "game": "https://www.chess.com/game/daily/228740100"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 6020,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2033,
+            "date": 1726859152,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2088,
+            "date": 1643763170,
+            "game": "https://www.chess.com/game/live/37077633749"
+        },
+        "record": {
+            "win": 349,
+            "loss": 139,
+            "draw": 26
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2264,
+            "date": 1741491917,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1705173079,
+            "game": "https://www.chess.com/game/live/102537723621"
+        },
+        "record": {
+            "win": 913,
+            "loss": 464,
+            "draw": 40
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2417,
+            "date": 1720541849,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2635,
+            "date": 1704218978,
+            "game": "https://www.chess.com/game/live/36016104753"
+        },
+        "record": {
+            "win": 3679,
+            "loss": 1299,
+            "draw": 310
+        }
+    },
+    "fide": 2060,
+    "tactics": {
+        "highest": {
+            "rating": 2154,
+            "date": 1560101749
+        },
+        "lowest": {
+            "rating": 2117,
+            "date": 1560084122
+        }
+    },
+    "puzzle_rush": {}
+}

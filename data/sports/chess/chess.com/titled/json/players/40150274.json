@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40150274.469bae25.200x200o.4f6940386e9c.jpg",
+    "player_id": 40150274,
+    "@id": "https://api.chess.com/pub/player/andrew-blr",
+    "url": "https://www.chess.com/member/andrew-blr",
+    "name": "Andrei Olhovik",
+    "username": "andrew-blr",
+    "title": "FM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/BY",
+    "location": "Grodno",
+    "last_online": 1741679529,
+    "joined": 1510088201,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 712,
+            "date": 1741109921,
+            "rd": 83
+        },
+        "best": {
+            "rating": 1131,
+            "date": 1721063114,
+            "game": "https://www.chess.com/game/live/120247794769"
+        },
+        "record": {
+            "win": 16,
+            "loss": 5,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2329,
+            "date": 1732783407,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2412,
+            "date": 1711303150,
+            "game": "https://www.chess.com/game/live/104404825639"
+        },
+        "record": {
+            "win": 120,
+            "loss": 109,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2609,
+            "date": 1741684398,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2685,
+            "date": 1735576857,
+            "game": "https://www.chess.com/game/live/123954098601"
+        },
+        "record": {
+            "win": 2403,
+            "loss": 2287,
+            "draw": 455
+        }
+    },
+    "fide": 2325,
+    "tactics": {
+        "highest": {
+            "rating": 3559,
+            "date": 1710654624
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1537544641
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        },
+        "daily": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/284559615.07dfb0bb.200x200o.94c0a3307162.jpg",
+    "player_id": 284559615,
+    "@id": "https://api.chess.com/pub/player/gyro-zepeli",
+    "url": "https://www.chess.com/member/Gyro-Zepeli",
+    "username": "gyro-zepeli",
+    "title": "GM",
+    "followers": 169,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1733515040,
+    "joined": 1683838068,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2898,
+            "date": 1733516200,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2971,
+            "date": 1729041848,
+            "game": "https://www.chess.com/game/live/108439244261"
+        },
+        "record": {
+            "win": 248,
+            "loss": 161,
+            "draw": 42
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1683838068
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1683838068
+        }
+    },
+    "puzzle_rush": {}
+}

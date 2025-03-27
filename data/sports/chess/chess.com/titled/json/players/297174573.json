@@ -1,0 +1,105 @@
+{
+    "player_id": 297174573,
+    "@id": "https://api.chess.com/pub/player/yan_dyomin2010",
+    "url": "https://www.chess.com/member/Yan_Dyomin2010",
+    "name": "\u042f\u043d \u0414\u044c\u043e\u043c\u0456\u043d",
+    "username": "yan_dyomin2010",
+    "title": "CM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Kyiv",
+    "last_online": 1741681857,
+    "joined": 1688219685,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1840,
+            "date": 1741516878,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1920,
+            "date": 1734113230,
+            "game": "https://www.chess.com/game/daily/738262293"
+        },
+        "record": {
+            "win": 11,
+            "loss": 6,
+            "draw": 6,
+            "time_per_move": 22470,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2308,
+            "date": 1740594467,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1692981806,
+            "game": "https://www.chess.com/game/live/123945022721"
+        },
+        "record": {
+            "win": 40,
+            "loss": 11,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2677,
+            "date": 1741521554,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2755,
+            "date": 1735741730,
+            "game": "https://www.chess.com/game/live/129144793793"
+        },
+        "record": {
+            "win": 272,
+            "loss": 242,
+            "draw": 36
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2830,
+            "date": 1741349901,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2909,
+            "date": 1730822818,
+            "game": "https://www.chess.com/game/live/119724646771"
+        },
+        "record": {
+            "win": 2542,
+            "loss": 2316,
+            "draw": 512
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3859,
+            "date": 1716800421
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1688219685
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

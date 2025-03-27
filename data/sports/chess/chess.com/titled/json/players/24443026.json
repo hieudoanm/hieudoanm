@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24443026.bfa140a2.200x200o.b5aeef4af05b.jpg",
+    "player_id": 24443026,
+    "@id": "https://api.chess.com/pub/player/pitopisback",
+    "url": "https://www.chess.com/member/pitopisback",
+    "name": "Gian Carlo Arvelo Leo",
+    "username": "pitopisback",
+    "title": "FM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/DO",
+    "location": "La Romana",
+    "last_online": 1738589151,
+    "joined": 1444097604,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1415,
+            "date": 1609879590,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2354,
+            "date": 1735870907,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1726342952,
+            "game": "https://www.chess.com/game/live/5944125923"
+        },
+        "record": {
+            "win": 1506,
+            "loss": 1554,
+            "draw": 185
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3058,
+            "date": 1736725063
+        },
+        "lowest": {
+            "rating": 1181,
+            "date": 1541017928
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/383243787.312adf6f.200x200o.b662ef6c7241.png",
+    "player_id": 383243787,
+    "@id": "https://api.chess.com/pub/player/berserkwerewolf",
+    "url": "https://www.chess.com/member/BerserkWerewolf",
+    "username": "berserkwerewolf",
+    "title": "GM",
+    "followers": 124,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1734177231,
+    "joined": 1724607706,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3105,
+            "date": 1730313707,
+            "rd": 38
+        },
+        "best": {
+            "rating": 3105,
+            "date": 1730313707,
+            "game": "https://www.chess.com/game/live/122061533497"
+        },
+        "record": {
+            "win": 163,
+            "loss": 28,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3158,
+            "date": 1734179609,
+            "rd": 44
+        },
+        "best": {
+            "rating": 3158,
+            "date": 1734179609,
+            "game": "https://www.chess.com/game/live/122742264459"
+        },
+        "record": {
+            "win": 269,
+            "loss": 106,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1724607706
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1724607706
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

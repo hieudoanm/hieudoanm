@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30372216.4baf4259.200x200o.60c4966c40f3.png",
+    "player_id": 30372216,
+    "@id": "https://api.chess.com/pub/player/7hanat",
+    "url": "https://www.chess.com/member/7hanat",
+    "name": "Zhanat Saiyn",
+    "username": "7hanat",
+    "title": "IM",
+    "followers": 1295,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Universe",
+    "last_online": 1722525929,
+    "joined": 1476360999,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2286,
+            "date": 1705581405,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2393,
+            "date": 1637596803,
+            "game": "https://www.chess.com/game/daily/364043273"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 9,
+            "time_per_move": 104637,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2281,
+            "date": 1682577808,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1657904812,
+            "game": "https://www.chess.com/game/live/34626689055"
+        },
+        "record": {
+            "win": 141,
+            "loss": 15,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2495,
+            "date": 1722527048,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2877,
+            "date": 1654006963,
+            "game": "https://www.chess.com/game/live/45605393217"
+        },
+        "record": {
+            "win": 8434,
+            "loss": 4522,
+            "draw": 879
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2988,
+            "date": 1659040706,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2988,
+            "date": 1658169100,
+            "game": "https://www.chess.com/game/live/42736278901"
+        },
+        "record": {
+            "win": 552,
+            "loss": 410,
+            "draw": 159
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3103,
+            "date": 1647375100
+        },
+        "lowest": {
+            "rating": 1958,
+            "date": 1476361094
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

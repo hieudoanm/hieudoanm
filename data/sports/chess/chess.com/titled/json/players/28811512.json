@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28811512.64487b1d.200x200o.eba470c2c586.png",
+    "player_id": 28811512,
+    "@id": "https://api.chess.com/pub/player/cobysters",
+    "url": "https://www.chess.com/member/Cobysters",
+    "name": "Jacob Chiang",
+    "username": "cobysters",
+    "title": "NM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Climbing gyms",
+    "last_online": 1741215612,
+    "joined": 1466991329,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1499,
+            "date": 1731028730,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1596556140,
+            "game": "https://www.chess.com/game/daily/267560266"
+        },
+        "record": {
+            "win": 969,
+            "loss": 410,
+            "draw": 111,
+            "time_per_move": 50705,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1683,
+            "date": 1635515423,
+            "rd": 107
+        },
+        "best": {
+            "rating": 1862,
+            "date": 1603333203,
+            "game": "https://www.chess.com/game/daily/266272578"
+        },
+        "record": {
+            "win": 97,
+            "loss": 20,
+            "draw": 5,
+            "time_per_move": 50705,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2423,
+            "date": 1740421185,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2437,
+            "date": 1706809509,
+            "game": "https://www.chess.com/game/live/100547545901"
+        },
+        "record": {
+            "win": 284,
+            "loss": 217,
+            "draw": 63
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2564,
+            "date": 1740421605,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1696691890,
+            "game": "https://www.chess.com/game/live/89919079207"
+        },
+        "record": {
+            "win": 2117,
+            "loss": 2117,
+            "draw": 352
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2578,
+            "date": 1740421551,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1711471359,
+            "game": "https://www.chess.com/game/live/105210036361"
+        },
+        "record": {
+            "win": 710,
+            "loss": 514,
+            "draw": 108
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1466991329
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1466991329
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

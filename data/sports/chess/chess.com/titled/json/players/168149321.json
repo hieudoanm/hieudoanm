@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/168149321.0df9b336.200x200o.7ca87879a388.jpeg",
+    "player_id": 168149321,
+    "@id": "https://api.chess.com/pub/player/jashariardian",
+    "url": "https://www.chess.com/member/JashariArdian",
+    "name": "Ardian Jashari",
+    "username": "jashariardian",
+    "title": "FM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/XK",
+    "location": "Prishtine",
+    "last_online": 1739748856,
+    "joined": 1641688015,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2528,
+            "date": 1730331041,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2540,
+            "date": 1730317271,
+            "game": "https://www.chess.com/game/live/120941396941"
+        },
+        "record": {
+            "win": 7,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2459,
+            "date": 1741611356,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1732274254,
+            "game": "https://www.chess.com/game/live/128741544299"
+        },
+        "record": {
+            "win": 278,
+            "loss": 294,
+            "draw": 48
+        }
+    },
+    "fide": 2089,
+    "tactics": {
+        "highest": {
+            "rating": 3278,
+            "date": 1715261133
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1641693070
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

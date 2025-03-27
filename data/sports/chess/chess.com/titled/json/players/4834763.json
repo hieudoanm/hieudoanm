@@ -1,0 +1,68 @@
+{
+    "player_id": 4834763,
+    "@id": "https://api.chess.com/pub/player/ninodg",
+    "url": "https://www.chess.com/member/ninodg",
+    "name": "Nino Di Giannantonio",
+    "username": "ninodg",
+    "title": "FM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Rosario",
+    "last_online": 1740971441,
+    "joined": 1299793039,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2517,
+            "date": 1713630118,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2517,
+            "date": 1713630118,
+            "game": "https://www.chess.com/game/live/107368997969"
+        },
+        "record": {
+            "win": 13,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2529,
+            "date": 1741010822,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1676243194,
+            "game": "https://www.chess.com/game/live/59689886707"
+        },
+        "record": {
+            "win": 192,
+            "loss": 143,
+            "draw": 18
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2417,
+            "date": 1591618748
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1528060735
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

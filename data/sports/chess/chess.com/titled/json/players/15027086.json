@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15027086.54e9c777.200x200o.4ef42e2da349.jpeg",
+    "player_id": 15027086,
+    "@id": "https://api.chess.com/pub/player/aygehovit1992",
+    "url": "https://www.chess.com/member/Aygehovit1992",
+    "name": "Nikita Matinian",
+    "username": "aygehovit1992",
+    "title": "GM",
+    "followers": 721,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1734112468,
+    "joined": 1387029616,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2146,
+            "date": 1723064567,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2146,
+            "date": 1627900202,
+            "game": "https://www.chess.com/game/daily/309131734"
+        },
+        "record": {
+            "win": 54,
+            "loss": 9,
+            "draw": 8,
+            "time_per_move": 37400,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2446,
+            "date": 1727292341,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1519838903,
+            "game": "https://www.chess.com/game/live/54148151405"
+        },
+        "record": {
+            "win": 109,
+            "loss": 123,
+            "draw": 45
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2781,
+            "date": 1718538950,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2808,
+            "date": 1718538479,
+            "game": "https://www.chess.com/game/live/71091378247"
+        },
+        "record": {
+            "win": 1281,
+            "loss": 1239,
+            "draw": 176
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2738,
+            "date": 1733854035,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2898,
+            "date": 1715330800,
+            "game": "https://www.chess.com/game/live/5546672281"
+        },
+        "record": {
+            "win": 3271,
+            "loss": 2816,
+            "draw": 626
+        }
+    },
+    "fide": 2453,
+    "tactics": {
+        "highest": {
+            "rating": 3050,
+            "date": 1555137432
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1628258602
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

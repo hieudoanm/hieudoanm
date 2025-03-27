@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32729812.d8f1810f.200x200o.a584fc47f1c7.png",
+    "player_id": 32729812,
+    "@id": "https://api.chess.com/pub/player/grammnik",
+    "url": "https://www.chess.com/member/Grammnik",
+    "name": "Dmitrij Skurikhin",
+    "username": "grammnik",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Orel",
+    "last_online": 1725840987,
+    "joined": 1485577163,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1969,
+            "date": 1737797324,
+            "rd": 237
+        },
+        "best": {
+            "rating": 1969,
+            "date": 1705066272,
+            "game": "https://www.chess.com/game/daily/247531504"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 32929,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1595,
+            "date": 1663578251,
+            "rd": 183
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1485577163,
+            "game": "https://www.chess.com/game/live/57316648889"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2014,
+            "date": 1734098298,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2216,
+            "date": 1663761479,
+            "game": "https://www.chess.com/game/live/6147895651"
+        },
+        "record": {
+            "win": 352,
+            "loss": 142,
+            "draw": 22
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2370,
+            "date": 1735668706,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2496,
+            "date": 1734459137,
+            "game": "https://www.chess.com/game/live/129399802329"
+        },
+        "record": {
+            "win": 389,
+            "loss": 268,
+            "draw": 72
+        }
+    },
+    "fide": 2297,
+    "tactics": {
+        "highest": {
+            "rating": 3310,
+            "date": 1739770617
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1549479914
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

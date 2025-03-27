@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75235300.feedadce.200x200o.f2f22c5efc55.png",
+    "player_id": 75235300,
+    "@id": "https://api.chess.com/pub/player/cristhiancruzsanchez",
+    "url": "https://www.chess.com/member/cristhiancruzsanchez",
+    "name": "Cristhian Cruz Sanchez",
+    "username": "cristhiancruzsanchez",
+    "title": "GM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/PE",
+    "last_online": 1734127246,
+    "joined": 1585688133,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2293,
+            "date": 1644142667,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2620,
+            "date": 1598204396,
+            "game": "https://www.chess.com/game/live/5339724083"
+        },
+        "record": {
+            "win": 20,
+            "loss": 9,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2623,
+            "date": 1719210411,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2738,
+            "date": 1623622696,
+            "game": "https://www.chess.com/game/live/62297934781"
+        },
+        "record": {
+            "win": 38,
+            "loss": 17,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2701,
+            "date": 1709651325,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2733,
+            "date": 1640143390,
+            "game": "https://www.chess.com/game/live/31268413903"
+        },
+        "record": {
+            "win": 100,
+            "loss": 57,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2662,
+            "date": 1668559897
+        },
+        "lowest": {
+            "rating": 2550,
+            "date": 1600749121
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

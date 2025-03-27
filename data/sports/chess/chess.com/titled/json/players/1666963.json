@@ -1,0 +1,137 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1666963.f2cda275.200x200o.ec2dea92c58b.png",
+    "player_id": 1666963,
+    "@id": "https://api.chess.com/pub/player/danielrensch",
+    "url": "https://www.chess.com/member/DanielRensch",
+    "name": "Daniel Rensch",
+    "username": "danielrensch",
+    "title": "IM",
+    "followers": 434973,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "@danielrensch Twitter/Facebook/YouTube",
+    "last_online": 1741632944,
+    "joined": 1229802308,
+    "status": "staff",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1824,
+            "date": 1741699390,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1266689122,
+            "game": "https://www.chess.com/game/daily/59394794"
+        },
+        "record": {
+            "win": 566,
+            "loss": 196,
+            "draw": 97,
+            "time_per_move": 19306,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1815,
+            "date": 1703013026,
+            "rd": 182
+        },
+        "best": {
+            "rating": 1815,
+            "date": 1581100203,
+            "game": "https://www.chess.com/game/daily/110602210"
+        },
+        "record": {
+            "win": 30,
+            "loss": 11,
+            "draw": 4,
+            "time_per_move": 19306,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2541,
+            "date": 1728497718,
+            "rd": 225
+        },
+        "best": {
+            "rating": 2541,
+            "date": 1606339461,
+            "game": "https://www.chess.com/game/live/955086241"
+        },
+        "record": {
+            "win": 446,
+            "loss": 132,
+            "draw": 55
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2652,
+            "date": 1741666492,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2855,
+            "date": 1303413210,
+            "game": "https://www.chess.com/game/live/1404704407"
+        },
+        "record": {
+            "win": 5144,
+            "loss": 3390,
+            "draw": 567
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2631,
+            "date": 1741660257,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2654,
+            "date": 1704688018,
+            "game": "https://www.chess.com/game/live/4874260958"
+        },
+        "record": {
+            "win": 2186,
+            "loss": 1460,
+            "draw": 248
+        }
+    },
+    "fide": 2416,
+    "tactics": {
+        "highest": {
+            "rating": 3382,
+            "date": 1732268945
+        },
+        "lowest": {
+            "rating": 1349,
+            "date": 1275015173
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

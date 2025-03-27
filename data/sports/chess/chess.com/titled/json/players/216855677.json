@@ -1,0 +1,105 @@
+{
+    "player_id": 216855677,
+    "@id": "https://api.chess.com/pub/player/kev4444444444",
+    "url": "https://www.chess.com/member/Kev4444444444",
+    "name": "Kevin Haack",
+    "username": "kev4444444444",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Frankfurt",
+    "last_online": 1741459635,
+    "joined": 1672047555,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2004,
+            "date": 1727353953,
+            "rd": 304
+        },
+        "best": {
+            "rating": 2004,
+            "date": 1716096039,
+            "game": "https://www.chess.com/game/daily/646134045"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 41823,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2240,
+            "date": 1726507346,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2249,
+            "date": 1706954549,
+            "game": "https://www.chess.com/game/live/74009073927"
+        },
+        "record": {
+            "win": 21,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2117,
+            "date": 1727693336,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2135,
+            "date": 1727620885,
+            "game": "https://www.chess.com/game/live/121359642659"
+        },
+        "record": {
+            "win": 41,
+            "loss": 12,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2499,
+            "date": 1733136940,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1721772585,
+            "game": "https://www.chess.com/game/live/115487273525"
+        },
+        "record": {
+            "win": 153,
+            "loss": 80,
+            "draw": 7
+        }
+    },
+    "fide": 2311,
+    "tactics": {
+        "highest": {
+            "rating": 3632,
+            "date": 1734880211
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1672047625
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

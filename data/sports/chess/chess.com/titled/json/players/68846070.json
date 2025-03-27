@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/68846070.a8315cbd.200x200o.1d8af9ee79e2.jpeg",
+    "player_id": 68846070,
+    "@id": "https://api.chess.com/pub/player/24pablo209",
+    "url": "https://www.chess.com/member/24pablo209",
+    "name": "Adriano Gaspar de Lima Salguero",
+    "username": "24pablo209",
+    "title": "NM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741702079,
+    "joined": 1575462421,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2182,
+            "date": 1739468414,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2211,
+            "date": 1709209932,
+            "game": "https://www.chess.com/game/live/97183352359"
+        },
+        "record": {
+            "win": 119,
+            "loss": 59,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2316,
+            "date": 1740245716,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1737682162,
+            "game": "https://www.chess.com/game/live/133378156999"
+        },
+        "record": {
+            "win": 960,
+            "loss": 705,
+            "draw": 101
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2366,
+            "date": 1741703377,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1739396871,
+            "game": "https://www.chess.com/game/live/128197753633"
+        },
+        "record": {
+            "win": 1277,
+            "loss": 1092,
+            "draw": 176
+        }
+    },
+    "fide": 2073,
+    "tactics": {
+        "highest": {
+            "rating": 3441,
+            "date": 1737575467
+        },
+        "lowest": {
+            "rating": 762,
+            "date": 1575497493
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

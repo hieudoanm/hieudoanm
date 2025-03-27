@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79567326.3053fd12.200x200o.d0d47f4dbb4b.png",
+    "player_id": 79567326,
+    "@id": "https://api.chess.com/pub/player/awayceiling",
+    "url": "https://www.chess.com/member/awayceiling",
+    "username": "awayceiling",
+    "title": "CM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1721743658,
+    "joined": 1589546829,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1548,
+            "date": 1689246592,
+            "rd": 59
+        },
+        "best": {
+            "rating": 1647,
+            "date": 1674400417,
+            "game": "https://www.chess.com/game/live/77714520647"
+        },
+        "record": {
+            "win": 81,
+            "loss": 79,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1191,
+            "date": 1708500987,
+            "rd": 84
+        },
+        "best": {
+            "rating": 1407,
+            "date": 1681406504,
+            "game": "https://www.chess.com/game/live/74800534825"
+        },
+        "record": {
+            "win": 1146,
+            "loss": 1118,
+            "draw": 71
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1403,
+            "date": 1703066990,
+            "rd": 77
+        },
+        "best": {
+            "rating": 1453,
+            "date": 1690288476,
+            "game": "https://www.chess.com/game/live/82427487687"
+        },
+        "record": {
+            "win": 288,
+            "loss": 249,
+            "draw": 19
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2773,
+            "date": 1689350685
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1656584142
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

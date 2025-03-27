@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6591295.54a73ebf.200x200o.3dcf78dc2ec5.jpeg",
+    "player_id": 6591295,
+    "@id": "https://api.chess.com/pub/player/selapegoacualquiera",
+    "url": "https://www.chess.com/member/SeLaPegoACualquiera",
+    "name": "N\u00f3bel Oscar Del Rosario",
+    "username": "selapegoacualquiera",
+    "title": "CM",
+    "followers": 503,
+    "country": "https://api.chess.com/pub/country/DO",
+    "location": "La Romana, La Romana",
+    "last_online": 1741652258,
+    "joined": 1328060980,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1582,
+            "date": 1714073377,
+            "rd": 65
+        },
+        "best": {
+            "rating": 1936,
+            "date": 1547220625,
+            "game": "https://www.chess.com/game/daily/189040284"
+        },
+        "record": {
+            "win": 182,
+            "loss": 129,
+            "draw": 28,
+            "time_per_move": 29257,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1575,
+            "date": 1528425882,
+            "rd": 256
+        },
+        "best": {
+            "rating": 1575,
+            "date": 1528425882,
+            "game": "https://www.chess.com/game/daily/195601632"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 29257,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2115,
+            "date": 1721759677,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2157,
+            "date": 1708692946,
+            "game": "https://www.chess.com/game/live/115492087239"
+        },
+        "record": {
+            "win": 35,
+            "loss": 14,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1871,
+            "date": 1741652539,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2261,
+            "date": 1621783327,
+            "game": "https://www.chess.com/game/live/2858537214"
+        },
+        "record": {
+            "win": 2263,
+            "loss": 2308,
+            "draw": 139
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2143,
+            "date": 1741644719,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1725849564,
+            "game": "https://www.chess.com/game/live/81373966841"
+        },
+        "record": {
+            "win": 3179,
+            "loss": 3267,
+            "draw": 300
+        }
+    },
+    "fide": 1920,
+    "tactics": {
+        "highest": {
+            "rating": 2946,
+            "date": 1719966520
+        },
+        "lowest": {
+            "rating": 1351,
+            "date": 1402715439
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

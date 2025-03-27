@@ -1,0 +1,66 @@
+{
+    "player_id": 170033843,
+    "@id": "https://api.chess.com/pub/player/lukamodric1902",
+    "url": "https://www.chess.com/member/LukaModric1902",
+    "username": "lukamodric1902",
+    "title": "IM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741637763,
+    "joined": 1642926185,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2846,
+            "date": 1726309566,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2874,
+            "date": 1696537084,
+            "game": "https://www.chess.com/game/live/82987897101"
+        },
+        "record": {
+            "win": 117,
+            "loss": 92,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2784,
+            "date": 1741637946,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2893,
+            "date": 1727291090,
+            "game": "https://www.chess.com/game/live/115810795631"
+        },
+        "record": {
+            "win": 1499,
+            "loss": 1196,
+            "draw": 254
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3024,
+            "date": 1740724912
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1642926185
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

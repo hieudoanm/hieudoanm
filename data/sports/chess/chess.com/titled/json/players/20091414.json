@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20091414.a216160e.200x200o.8f643ae4c740.jpeg",
+    "player_id": 20091414,
+    "@id": "https://api.chess.com/pub/player/joselito22",
+    "url": "https://www.chess.com/member/joselito22",
+    "name": "Agustin Bonaveri",
+    "username": "joselito22",
+    "title": "FM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/AR",
+    "last_online": 1741128250,
+    "joined": 1418081658,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2161,
+            "date": 1733591770,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1733591467,
+            "game": "https://www.chess.com/game/live/127330191547"
+        },
+        "record": {
+            "win": 43,
+            "loss": 30,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2272,
+            "date": 1741133171,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2365,
+            "date": 1712098790,
+            "game": "https://www.chess.com/game/live/134237956823"
+        },
+        "record": {
+            "win": 2810,
+            "loss": 1986,
+            "draw": 407
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2631,
+            "date": 1738692768
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1437781684
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

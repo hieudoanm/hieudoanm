@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48732514.e89bc058.200x200o.b72080195dcd.jpg",
+    "player_id": 48732514,
+    "@id": "https://api.chess.com/pub/player/brahmashira2010",
+    "url": "https://www.chess.com/member/Brahmashira2010",
+    "name": "Ajay Santhosh Parvathareddy",
+    "username": "brahmashira2010",
+    "title": "FM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "NOIDA",
+    "last_online": 1741340806,
+    "joined": 1534169973,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1277,
+            "date": 1738316664,
+            "rd": 323
+        },
+        "best": {
+            "rating": 1277,
+            "date": 1585834387,
+            "game": "https://www.chess.com/game/daily/257006220"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 63,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2374,
+            "date": 1739539260,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2380,
+            "date": 1688626698,
+            "game": "https://www.chess.com/game/live/72365493003"
+        },
+        "record": {
+            "win": 90,
+            "loss": 38,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2392,
+            "date": 1740834836,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2348,
+            "date": 1740161085,
+            "game": "https://www.chess.com/game/live/133899563573"
+        },
+        "record": {
+            "win": 117,
+            "loss": 73,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2757,
+            "date": 1740839457,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2740,
+            "date": 1740501084,
+            "game": "https://www.chess.com/game/live/132424914047"
+        },
+        "record": {
+            "win": 448,
+            "loss": 294,
+            "draw": 73
+        }
+    },
+    "fide": 2303,
+    "tactics": {
+        "highest": {
+            "rating": 4578,
+            "date": 1714757609
+        },
+        "lowest": {
+            "rating": 367,
+            "date": 1534683035
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60757182.a9a12b68.200x200o.1f7784d0175d.jpeg",
+    "player_id": 60757182,
+    "@id": "https://api.chess.com/pub/player/pawnstorn",
+    "url": "https://www.chess.com/member/PawnStorn",
+    "name": "Justin Storm",
+    "username": "pawnstorn",
+    "title": "NM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741467808,
+    "joined": 1557353074,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2447,
+            "date": 1725594109,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2447,
+            "date": 1725594109,
+            "game": "https://www.chess.com/game/live/73796398793"
+        },
+        "record": {
+            "win": 22,
+            "loss": 11,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2368,
+            "date": 1729734253,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1691288711,
+            "game": "https://www.chess.com/game/live/98303824593"
+        },
+        "record": {
+            "win": 380,
+            "loss": 341,
+            "draw": 50
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2377,
+            "date": 1741655622,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2463,
+            "date": 1724678297,
+            "game": "https://www.chess.com/game/live/120950454111"
+        },
+        "record": {
+            "win": 274,
+            "loss": 242,
+            "draw": 40
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2089,
+            "date": 1557507495
+        },
+        "lowest": {
+            "rating": 1499,
+            "date": 1674230507
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

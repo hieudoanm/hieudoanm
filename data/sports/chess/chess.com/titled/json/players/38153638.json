@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38153638.fd36eb38.200x200o.e56b328cfa30.jpg",
+    "player_id": 38153638,
+    "@id": "https://api.chess.com/pub/player/tikoberidzee",
+    "url": "https://www.chess.com/member/Tikoberidzee",
+    "name": "Tinatin Beridze",
+    "username": "tikoberidzee",
+    "title": "WCM",
+    "followers": 719,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1739774054,
+    "joined": 1503838649,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1411,
+            "date": 1741284086,
+            "rd": 138
+        },
+        "best": {
+            "rating": 1590,
+            "date": 1590296515,
+            "game": "https://www.chess.com/game/daily/220505550"
+        },
+        "record": {
+            "win": 24,
+            "loss": 46,
+            "draw": 1,
+            "time_per_move": 20500,
+            "timeout_percent": 80
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2107,
+            "date": 1737718659,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2133,
+            "date": 1708804362,
+            "game": "https://www.chess.com/game/live/102534633587"
+        },
+        "record": {
+            "win": 121,
+            "loss": 74,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1787,
+            "date": 1741027998,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2135,
+            "date": 1708291883,
+            "game": "https://www.chess.com/game/live/102029123283"
+        },
+        "record": {
+            "win": 1024,
+            "loss": 1001,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1875,
+            "date": 1741685985,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2089,
+            "date": 1587745887,
+            "game": "https://www.chess.com/game/live/2808516564"
+        },
+        "record": {
+            "win": 597,
+            "loss": 634,
+            "draw": 55
+        }
+    },
+    "fide": 1982,
+    "tactics": {
+        "highest": {
+            "rating": 2676,
+            "date": 1708170543
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1526295716
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

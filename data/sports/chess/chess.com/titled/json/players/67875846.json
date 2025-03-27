@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67875846.50190d6e.200x200o.8843fbe5e3b6.png",
+    "player_id": 67875846,
+    "@id": "https://api.chess.com/pub/player/pg6player",
+    "url": "https://www.chess.com/member/Pg6player",
+    "name": "Sota Alexander Gloessl",
+    "username": "pg6player",
+    "title": "CM",
+    "followers": 119,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1741691792,
+    "joined": 1573556759,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1826,
+            "date": 1741675475,
+            "rd": 84
+        },
+        "best": {
+            "rating": 1876,
+            "date": 1735971393,
+            "game": "https://www.chess.com/game/daily/582602441"
+        },
+        "record": {
+            "win": 252,
+            "loss": 49,
+            "draw": 16,
+            "time_per_move": 8948,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1677,
+            "date": 1739216699,
+            "rd": 215
+        },
+        "best": {
+            "rating": 1757,
+            "date": 1736715911,
+            "game": "https://www.chess.com/game/daily/747027931"
+        },
+        "record": {
+            "win": 16,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 8948,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2222,
+            "date": 1726596916,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2222,
+            "date": 1720961661,
+            "game": "https://www.chess.com/game/live/113226628621"
+        },
+        "record": {
+            "win": 118,
+            "loss": 61,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2604,
+            "date": 1741531777,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2667,
+            "date": 1718738904,
+            "game": "https://www.chess.com/game/live/98206524869"
+        },
+        "record": {
+            "win": 878,
+            "loss": 576,
+            "draw": 81
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2507,
+            "date": 1739344950,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2511,
+            "date": 1739344187,
+            "game": "https://www.chess.com/game/live/133029530115"
+        },
+        "record": {
+            "win": 784,
+            "loss": 544,
+            "draw": 87
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3357,
+            "date": 1710879131
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1576325394
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

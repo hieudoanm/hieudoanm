@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46938634.efd4f229.200x200o.dbce5b55a1b3.png",
+    "player_id": 46938634,
+    "@id": "https://api.chess.com/pub/player/oglazaoskar2005",
+    "url": "https://www.chess.com/member/OglazaOskar2005",
+    "name": "Oskar Og\u0142aza",
+    "username": "oglazaoskar2005",
+    "title": "FM",
+    "followers": 149,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Opole",
+    "last_online": 1741620407,
+    "joined": 1528526855,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1613,
+            "date": 1740302967,
+            "rd": 177
+        },
+        "best": {
+            "rating": 1972,
+            "date": 1530351269,
+            "game": "https://www.chess.com/game/daily/196930298"
+        },
+        "record": {
+            "win": 1,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 43050,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1831,
+            "date": 1696941715,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2323,
+            "date": 1596477403,
+            "game": "https://www.chess.com/game/live/75834044513"
+        },
+        "record": {
+            "win": 28,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2574,
+            "date": 1741621156,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1698255006,
+            "game": "https://www.chess.com/game/live/84995498887"
+        },
+        "record": {
+            "win": 1299,
+            "loss": 1556,
+            "draw": 197
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2490,
+            "date": 1741553752,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2731,
+            "date": 1704290762,
+            "game": "https://www.chess.com/game/live/113524188813"
+        },
+        "record": {
+            "win": 1616,
+            "loss": 1913,
+            "draw": 336
+        }
+    },
+    "fide": 2322,
+    "tactics": {
+        "highest": {
+            "rating": 3585,
+            "date": 1739569078
+        },
+        "lowest": {
+            "rating": 2289,
+            "date": 1529043521
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

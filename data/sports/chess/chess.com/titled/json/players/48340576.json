@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48340576.36368d0d.200x200o.12c254f789c9.jpeg",
+    "player_id": 48340576,
+    "@id": "https://api.chess.com/pub/player/alekroth65",
+    "url": "https://www.chess.com/member/alekroth65",
+    "name": "Aleksander Czerwo\u0144ski",
+    "username": "alekroth65",
+    "title": "IM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/PL",
+    "location": "Gorz\u00f3w Wielkopolski",
+    "last_online": 1740555575,
+    "joined": 1533025670,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2507,
+            "date": 1707672041,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2493,
+            "date": 1704479824,
+            "game": "https://www.chess.com/game/live/98094635733"
+        },
+        "record": {
+            "win": 51,
+            "loss": 13,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2495,
+            "date": 1739897261,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1739475499,
+            "game": "https://www.chess.com/game/live/126983418915"
+        },
+        "record": {
+            "win": 97,
+            "loss": 82,
+            "draw": 15
+        }
+    },
+    "fide": 2299,
+    "tactics": {
+        "highest": {
+            "rating": 3646,
+            "date": 1733209818
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1533035374
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

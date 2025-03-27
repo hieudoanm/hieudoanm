@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17250582.646ef6b4.200x200o.7c9363cdb2ec.jpeg",
+    "player_id": 17250582,
+    "@id": "https://api.chess.com/pub/player/will_graham",
+    "url": "https://www.chess.com/member/will_graham",
+    "name": "Ali Syed Ahmad",
+    "username": "will_graham",
+    "title": "FM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741419206,
+    "joined": 1399748337,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1746,
+            "date": 1726730193,
+            "rd": 281
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1628192064,
+            "game": "https://www.chess.com/game/live/852573747"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2113,
+            "date": 1741703659,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1733480093,
+            "game": "https://www.chess.com/game/live/84968518019"
+        },
+        "record": {
+            "win": 5047,
+            "loss": 5392,
+            "draw": 551
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2421,
+            "date": 1709223918,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2455,
+            "date": 1649074449,
+            "game": "https://www.chess.com/game/live/4520294960"
+        },
+        "record": {
+            "win": 8087,
+            "loss": 8899,
+            "draw": 996
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2069,
+            "date": 1635625990
+        },
+        "lowest": {
+            "rating": 1969,
+            "date": 1631971002
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "player_id": 314959501,
+    "@id": "https://api.chess.com/pub/player/anonymouscupiddust",
+    "url": "https://www.chess.com/member/AnonymousCupidDust",
+    "username": "anonymouscupiddust",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1737499268,
+    "joined": 1695506966,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2463,
+            "date": 1732823740,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2520,
+            "date": 1703158016,
+            "game": "https://www.chess.com/game/live/119450441029"
+        },
+        "record": {
+            "win": 19,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2161,
+            "date": 1727565641,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2314,
+            "date": 1699824751,
+            "game": "https://www.chess.com/game/live/120835194601"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1737502514,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1732040597,
+            "game": "https://www.chess.com/game/live/93471509751"
+        },
+        "record": {
+            "win": 758,
+            "loss": 679,
+            "draw": 75
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3296,
+            "date": 1732819265
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1695506966
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

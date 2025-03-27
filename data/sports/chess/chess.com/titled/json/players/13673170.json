@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13673170.0b75ccb0.200x200o.a7ef2f0ad59d.jpg",
+    "player_id": 13673170,
+    "@id": "https://api.chess.com/pub/player/improvidence",
+    "url": "https://www.chess.com/member/IMprovidence",
+    "name": "Providence Oatlhotse",
+    "username": "improvidence",
+    "title": "IM",
+    "followers": 236,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "location": "Johannesburg",
+    "last_online": 1741606695,
+    "joined": 1380207864,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 621,
+            "date": 1741267885,
+            "rd": 268
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1380207864,
+            "game": "https://www.chess.com/game/daily/724971649"
+        },
+        "record": {
+            "win": 1,
+            "loss": 20,
+            "draw": 0,
+            "time_per_move": 314240,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2101,
+            "date": 1630247789,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1603891257,
+            "game": "https://www.chess.com/game/live/5268188243"
+        },
+        "record": {
+            "win": 19,
+            "loss": 10,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2413,
+            "date": 1741274308,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2445,
+            "date": 1730837146,
+            "game": "https://www.chess.com/game/live/122708073767"
+        },
+        "record": {
+            "win": 279,
+            "loss": 254,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2514,
+            "date": 1677698889,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2591,
+            "date": 1666637441,
+            "game": "https://www.chess.com/game/live/40978716199"
+        },
+        "record": {
+            "win": 5026,
+            "loss": 5379,
+            "draw": 683
+        }
+    },
+    "fide": 2326,
+    "tactics": {
+        "highest": {
+            "rating": 3423,
+            "date": 1741294478
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1445741125
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

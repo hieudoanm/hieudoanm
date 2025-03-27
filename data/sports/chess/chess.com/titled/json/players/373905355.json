@@ -1,0 +1,62 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/373905355.b763c235.200x200o.a11870fbb2ec.gif",
+    "player_id": 373905355,
+    "@id": "https://api.chess.com/pub/player/trig_king",
+    "url": "https://www.chess.com/member/Trig_King",
+    "username": "trig_king",
+    "title": "GM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "last_online": 1741510387,
+    "joined": 1720305185,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2530,
+            "date": 1737170642,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2530,
+            "date": 1737170563,
+            "game": "https://www.chess.com/game/live/126247783529"
+        },
+        "record": {
+            "win": 17,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3001,
+            "date": 1739479830,
+            "rd": 29
+        },
+        "best": {
+            "rating": 3001,
+            "date": 1739479830,
+            "game": "https://www.chess.com/game/live/133209542287"
+        },
+        "record": {
+            "win": 247,
+            "loss": 157,
+            "draw": 65
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1720305185
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1720305185
+        }
+    },
+    "puzzle_rush": {}
+}

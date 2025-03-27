@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79857090.c795ddf8.200x200o.2c94d33d6d73.jpeg",
+    "player_id": 79857090,
+    "@id": "https://api.chess.com/pub/player/sarochachuemsakul",
+    "url": "https://www.chess.com/member/SarochaChuemsakul",
+    "name": "Sarocha Chuemsakul",
+    "username": "sarochachuemsakul",
+    "title": "WFM",
+    "followers": 45,
+    "country": "https://api.chess.com/pub/country/TH",
+    "last_online": 1741172654,
+    "joined": 1589813509,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1747,
+            "date": 1740894223,
+            "rd": 167
+        },
+        "best": {
+            "rating": 1830,
+            "date": 1630056940,
+            "game": "https://www.chess.com/game/live/46098559517"
+        },
+        "record": {
+            "win": 48,
+            "loss": 14,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2162,
+            "date": 1714481824,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2162,
+            "date": 1703243780,
+            "game": "https://www.chess.com/game/live/96982775139"
+        },
+        "record": {
+            "win": 43,
+            "loss": 12,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2443,
+            "date": 1740660908,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1705426453,
+            "game": "https://www.chess.com/game/live/48352846759"
+        },
+        "record": {
+            "win": 739,
+            "loss": 905,
+            "draw": 112
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3184,
+            "date": 1708331525
+        },
+        "lowest": {
+            "rating": 824,
+            "date": 1590713509
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

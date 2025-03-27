@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29689718.8a7bec64.200x200o.a4b4167d531a.jpeg",
+    "player_id": 29689718,
+    "@id": "https://api.chess.com/pub/player/gordima",
+    "url": "https://www.chess.com/member/Gordima",
+    "name": "Dmitry Gordievsky",
+    "username": "gordima",
+    "title": "GM",
+    "followers": 817,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Buenos Aires",
+    "last_online": 1734107894,
+    "joined": 1472471546,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2478,
+            "date": 1686597162,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1659360227,
+            "game": "https://www.chess.com/game/live/52494678713"
+        },
+        "record": {
+            "win": 35,
+            "loss": 19,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3001,
+            "date": 1710542433,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3001,
+            "date": 1710542433,
+            "game": "https://www.chess.com/game/live/99519726219"
+        },
+        "record": {
+            "win": 1150,
+            "loss": 940,
+            "draw": 154
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3029,
+            "date": 1727968419,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3036,
+            "date": 1727968035,
+            "game": "https://www.chess.com/game/live/82142494323"
+        },
+        "record": {
+            "win": 1652,
+            "loss": 1158,
+            "draw": 315
+        }
+    },
+    "fide": 2522,
+    "tactics": {
+        "highest": {
+            "rating": 3237,
+            "date": 1482940557
+        },
+        "lowest": {
+            "rating": 1984,
+            "date": 1472475143
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 47
+        }
+    }
+}

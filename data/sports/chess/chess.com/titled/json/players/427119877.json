@@ -1,0 +1,50 @@
+{
+    "player_id": 427119877,
+    "@id": "https://api.chess.com/pub/player/rook_solid2002",
+    "url": "https://www.chess.com/member/Rook_Solid2002",
+    "username": "rook_solid2002",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741698658,
+    "joined": 1738908034,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2507,
+            "date": 1741700594,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2264,
+            "date": 1739729322,
+            "game": "https://www.chess.com/game/live/133468141887"
+        },
+        "record": {
+            "win": 73,
+            "loss": 31,
+            "draw": 3
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2440,
+            "date": 1739427317
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738908034
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "player_id": 73348382,
+    "@id": "https://api.chess.com/pub/player/chachere",
+    "url": "https://www.chess.com/member/Chachere",
+    "name": "Lawrence Chachere",
+    "username": "chachere",
+    "title": "FM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York",
+    "last_online": 1741696750,
+    "joined": 1583935476,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "fide": 2305,
+    "tactics": {
+        "highest": {
+            "rating": 3836,
+            "date": 1702696035
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1583935580
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

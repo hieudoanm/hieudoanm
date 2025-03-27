@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/124769712.93a2d4ad.200x200o.f092e2f6ab2a.png",
+    "player_id": 124769712,
+    "@id": "https://api.chess.com/pub/player/rolandonolte_pcap",
+    "url": "https://www.chess.com/member/RolandoNolte_PCAP",
+    "name": "Rolando Nolte",
+    "username": "rolandonolte_pcap",
+    "title": "IM",
+    "followers": 81,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1734710136,
+    "joined": 1614576380,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2229,
+            "date": 1730893454,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2419,
+            "date": 1618551175,
+            "game": "https://www.chess.com/game/live/123075650347"
+        },
+        "record": {
+            "win": 87,
+            "loss": 57,
+            "draw": 77
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2411,
+            "date": 1639668726,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1622295436,
+            "game": "https://www.chess.com/game/live/33406741809"
+        },
+        "record": {
+            "win": 48,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2620,
+            "date": 1730891309,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2652,
+            "date": 1713352429,
+            "game": "https://www.chess.com/game/live/25443619121"
+        },
+        "record": {
+            "win": 187,
+            "loss": 81,
+            "draw": 96
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3205,
+            "date": 1728730106
+        },
+        "lowest": {
+            "rating": 2412,
+            "date": 1656499639
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

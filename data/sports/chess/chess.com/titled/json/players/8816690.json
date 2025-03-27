@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8816690.602e110e.200x200o.446e5a458f9d.jpeg",
+    "player_id": 8816690,
+    "@id": "https://api.chess.com/pub/player/chennaibond",
+    "url": "https://www.chess.com/member/CHENNAIBOND",
+    "name": "Poobesh Anand",
+    "username": "chennaibond",
+    "title": "IM",
+    "followers": 81,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "chennai",
+    "last_online": 1741535916,
+    "joined": 1346988496,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1426,
+            "date": 1705414408,
+            "rd": 200
+        },
+        "record": {
+            "win": 3,
+            "loss": 46,
+            "draw": 0,
+            "time_per_move": 31688,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2389,
+            "date": 1731432416,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2389,
+            "date": 1731432416,
+            "game": "https://www.chess.com/game/live/2883628762"
+        },
+        "record": {
+            "win": 14,
+            "loss": 26,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2389,
+            "date": 1705414408,
+            "rd": 105
+        },
+        "best": {
+            "rating": 1838,
+            "date": 1426176402,
+            "game": "https://www.chess.com/game/live/2877005578"
+        },
+        "record": {
+            "win": 53,
+            "loss": 65,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2389,
+            "date": 1705414408,
+            "rd": 20
+        },
+        "best": {
+            "rating": 1966,
+            "date": 1623183080,
+            "game": "https://www.chess.com/game/live/15701003871"
+        },
+        "record": {
+            "win": 708,
+            "loss": 1168,
+            "draw": 28
+        }
+    },
+    "fide": 2389,
+    "tactics": {
+        "highest": {
+            "rating": 2985,
+            "date": 1696106574
+        },
+        "lowest": {
+            "rating": 927,
+            "date": 1473827111
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

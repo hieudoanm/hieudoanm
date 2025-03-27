@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29598758.051b03bc.200x200o.da58b52b5e4b.jpeg",
+    "player_id": 29598758,
+    "@id": "https://api.chess.com/pub/player/megazz",
+    "url": "https://www.chess.com/member/Megazz",
+    "name": "Zong-Yuan Zhao",
+    "username": "megazz",
+    "title": "GM",
+    "followers": 898,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1741604532,
+    "joined": 1471936279,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1985,
+            "date": 1731662921,
+            "rd": 227
+        },
+        "best": {
+            "rating": 1985,
+            "date": 1700122694,
+            "game": "https://www.chess.com/game/daily/428332151"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 73274,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2487,
+            "date": 1703284684,
+            "rd": 158
+        },
+        "best": {
+            "rating": 2544,
+            "date": 1626605689,
+            "game": "https://www.chess.com/game/live/25003301391"
+        },
+        "record": {
+            "win": 66,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2506,
+            "date": 1711724762,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1606464775,
+            "game": "https://www.chess.com/game/live/5830919746"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2864,
+            "date": 1737976121
+        },
+        "best": {
+            "rating": 2907,
+            "date": 1736070598,
+            "game": "https://www.chess.com/game/live/114679684241"
+        },
+        "record": {
+            "win": 4397,
+            "loss": 3278,
+            "draw": 757
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3112,
+            "date": 1660400720
+        },
+        "lowest": {
+            "rating": 1953,
+            "date": 1483676544
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

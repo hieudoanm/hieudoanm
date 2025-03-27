@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9313844.8d7edb8a.200x200o.34132ec3cade.png",
+    "player_id": 9313844,
+    "@id": "https://api.chess.com/pub/player/jaskol95",
+    "url": "https://www.chess.com/member/jaskol95",
+    "name": "Tomasz Jaskolka",
+    "username": "jaskol95",
+    "title": "CM",
+    "followers": 1100,
+    "country": "https://api.chess.com/pub/country/UG",
+    "location": "Brzoz&oacute;w",
+    "last_online": 1741701104,
+    "joined": 1350669541,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1989,
+            "date": 1733477301,
+            "rd": 149
+        },
+        "best": {
+            "rating": 2132,
+            "date": 1438446211,
+            "game": "https://www.chess.com/game/daily/115265294"
+        },
+        "record": {
+            "win": 14,
+            "loss": 5,
+            "draw": 1,
+            "time_per_move": 23465,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2325,
+            "date": 1740835627,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2482,
+            "date": 1615479865,
+            "game": "https://www.chess.com/game/live/70890099289"
+        },
+        "record": {
+            "win": 104,
+            "loss": 48,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2821,
+            "date": 1741638918,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2800,
+            "date": 1739217619,
+            "game": "https://www.chess.com/game/live/124305569497"
+        },
+        "record": {
+            "win": 3945,
+            "loss": 3081,
+            "draw": 507
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2631,
+            "date": 1741192217,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2737,
+            "date": 1727119299,
+            "game": "https://www.chess.com/game/live/71339125969"
+        },
+        "record": {
+            "win": 4167,
+            "loss": 2575,
+            "draw": 560
+        }
+    },
+    "fide": 2213,
+    "tactics": {
+        "highest": {
+            "rating": 3728,
+            "date": 1720266807
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1437817011
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 82,
+            "score": 79
+        },
+        "daily": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

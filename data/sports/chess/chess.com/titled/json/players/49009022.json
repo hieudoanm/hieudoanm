@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49009022.20469284.200x200o.f98cf57bfbb3.png",
+    "player_id": 49009022,
+    "@id": "https://api.chess.com/pub/player/funo09",
+    "url": "https://www.chess.com/member/Funo09",
+    "name": "Viktor Gazik",
+    "username": "funo09",
+    "title": "GM",
+    "followers": 171,
+    "country": "https://api.chess.com/pub/country/SK",
+    "last_online": 1734157949,
+    "joined": 1534947905,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2154,
+            "date": 1698156828,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2190,
+            "date": 1621247226,
+            "game": "https://www.chess.com/game/daily/277630702"
+        },
+        "record": {
+            "win": 80,
+            "loss": 11,
+            "draw": 8,
+            "time_per_move": 29950,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2062,
+            "date": 1618482202,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2198,
+            "date": 1597891052,
+            "game": "https://www.chess.com/game/daily/271937164"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 29950,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2493,
+            "date": 1698620207,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1590863283,
+            "game": "https://www.chess.com/game/live/4929646700"
+        },
+        "record": {
+            "win": 96,
+            "loss": 23,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2897,
+            "date": 1732396773,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2931,
+            "date": 1706857502,
+            "game": "https://www.chess.com/game/live/4874512701"
+        },
+        "record": {
+            "win": 388,
+            "loss": 172,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2906,
+            "date": 1732928820,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2931,
+            "date": 1698520265,
+            "game": "https://www.chess.com/game/live/3783406288"
+        },
+        "record": {
+            "win": 1450,
+            "loss": 502,
+            "draw": 114
+        }
+    },
+    "fide": 2500,
+    "tactics": {
+        "highest": {
+            "rating": 3001,
+            "date": 1621244300
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1535464581
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

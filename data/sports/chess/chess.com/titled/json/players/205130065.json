@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/205130065.ff3cd180.200x200o.25bfad7b3e6c.jpg",
+    "player_id": 205130065,
+    "@id": "https://api.chess.com/pub/player/glucolisis04",
+    "url": "https://www.chess.com/member/glucolisis04",
+    "name": "Franco Manteiga",
+    "username": "glucolisis04",
+    "title": "CM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/UY",
+    "last_online": 1741549660,
+    "joined": 1667797872,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1564,
+            "date": 1718050276,
+            "rd": 271
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 16320,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2008,
+            "date": 1734730722,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2022,
+            "date": 1734729393,
+            "game": "https://www.chess.com/game/live/128467344395"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1959,
+            "date": 1739891265,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2032,
+            "date": 1715868486,
+            "game": "https://www.chess.com/game/live/88305619967"
+        },
+        "record": {
+            "win": 135,
+            "loss": 130,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2294,
+            "date": 1741560048,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1736870947,
+            "game": "https://www.chess.com/game/live/113067065227"
+        },
+        "record": {
+            "win": 974,
+            "loss": 1132,
+            "draw": 138
+        }
+    },
+    "fide": 2029,
+    "tactics": {
+        "highest": {
+            "rating": 3047,
+            "date": 1735452570
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1667797872
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

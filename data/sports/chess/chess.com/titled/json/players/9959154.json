@@ -1,0 +1,74 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9959154.2bdb1b02.200x200o.a73805df3bb0.jpeg",
+    "player_id": 9959154,
+    "@id": "https://api.chess.com/pub/player/fywong2",
+    "url": "https://www.chess.com/member/fywong2",
+    "name": "Foong Yin Wong",
+    "username": "fywong2",
+    "title": "FM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Derwood, MD",
+    "last_online": 1741664196,
+    "joined": 1355103164,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1546373067,
+            "rd": 190
+        },
+        "best": {
+            "rating": 1616,
+            "date": 1405746186,
+            "game": "https://www.chess.com/game/live/864070585"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2381,
+            "date": 1726719816,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1709451550,
+            "game": "https://www.chess.com/game/live/103193442563"
+        },
+        "record": {
+            "win": 8610,
+            "loss": 6094,
+            "draw": 676
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2402,
+            "date": 1739294454
+        },
+        "lowest": {
+            "rating": 2002,
+            "date": 1574543428
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 37
+        },
+        "daily": {
+            "total_attempts": 11,
+            "score": 8
+        }
+    }
+}

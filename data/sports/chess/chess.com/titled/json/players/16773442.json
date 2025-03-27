@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16773442.e0076f74.200x200o.63422e450671.jpg",
+    "player_id": 16773442,
+    "@id": "https://api.chess.com/pub/player/nathan_filgueiras",
+    "url": "https://www.chess.com/member/Nathan_Filgueiras",
+    "name": "Nathan Felipe Filgueiras",
+    "username": "nathan_filgueiras",
+    "title": "IM",
+    "followers": 1016,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Blumenau",
+    "last_online": 1741702954,
+    "joined": 1396727118,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1681,
+            "date": 1711420693,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1687,
+            "date": 1694614966,
+            "game": "https://www.chess.com/game/daily/363544099"
+        },
+        "record": {
+            "win": 53,
+            "loss": 11,
+            "draw": 2,
+            "time_per_move": 17477,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2249,
+            "date": 1741307064,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2345,
+            "date": 1618727475,
+            "game": "https://www.chess.com/game/live/12160056141"
+        },
+        "record": {
+            "win": 39,
+            "loss": 32,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2569,
+            "date": 1741572536,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2694,
+            "date": 1737507236,
+            "game": "https://www.chess.com/game/live/78946224523"
+        },
+        "record": {
+            "win": 3204,
+            "loss": 3307,
+            "draw": 451
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2498,
+            "date": 1740623301,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2585,
+            "date": 1703629699,
+            "game": "https://www.chess.com/game/live/73415628483"
+        },
+        "record": {
+            "win": 4300,
+            "loss": 4087,
+            "draw": 658
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3559,
+            "date": 1686170806
+        },
+        "lowest": {
+            "rating": 1051,
+            "date": 1398477997
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

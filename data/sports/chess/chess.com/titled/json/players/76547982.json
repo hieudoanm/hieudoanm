@@ -1,0 +1,84 @@
+{
+    "player_id": 76547982,
+    "@id": "https://api.chess.com/pub/player/frank_ocean2",
+    "url": "https://www.chess.com/member/Frank_Ocean2",
+    "name": "Bobo Bobo",
+    "username": "frank_ocean2",
+    "title": "WCM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740727974,
+    "joined": 1586758819,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1653,
+            "date": 1733312669,
+            "rd": 195
+        },
+        "best": {
+            "rating": 1726,
+            "date": 1712252380,
+            "game": "https://www.chess.com/game/live/37028496043"
+        },
+        "record": {
+            "win": 16,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1894,
+            "date": 1733314255,
+            "rd": 152
+        },
+        "best": {
+            "rating": 1913,
+            "date": 1680950508,
+            "game": "https://www.chess.com/game/live/74689268603"
+        },
+        "record": {
+            "win": 39,
+            "loss": 13,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2064,
+            "date": 1736858194,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2167,
+            "date": 1726922579,
+            "game": "https://www.chess.com/game/live/37194598253"
+        },
+        "record": {
+            "win": 145,
+            "loss": 94,
+            "draw": 10
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3209,
+            "date": 1726579919
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1591342078
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

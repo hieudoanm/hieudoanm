@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66175696.4686c7cc.200x200o.438a10cb5d88.jpeg",
+    "player_id": 66175696,
+    "@id": "https://api.chess.com/pub/player/arnash_bauyrzhan",
+    "url": "https://www.chess.com/member/arnash_bauyrzhan",
+    "name": "Arnash Bauyrzhan",
+    "username": "arnash_bauyrzhan",
+    "title": "WFM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1740410812,
+    "joined": 1569986179,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2029,
+            "date": 1702308778,
+            "rd": 135
+        },
+        "best": {
+            "rating": 1841,
+            "date": 1586106958,
+            "game": "https://www.chess.com/game/live/4682744091"
+        },
+        "record": {
+            "win": 11,
+            "loss": 7,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2192,
+            "date": 1727114975,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2286,
+            "date": 1707559246,
+            "game": "https://www.chess.com/game/live/4689317082"
+        },
+        "record": {
+            "win": 335,
+            "loss": 334,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2291,
+            "date": 1730315661,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1710865196,
+            "game": "https://www.chess.com/game/live/4651633920"
+        },
+        "record": {
+            "win": 1177,
+            "loss": 1203,
+            "draw": 191
+        }
+    },
+    "fide": 2029,
+    "tactics": {
+        "highest": {
+            "rating": 3076,
+            "date": 1705471672
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1570007559
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

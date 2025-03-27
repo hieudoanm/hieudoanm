@@ -1,0 +1,62 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79418018.f16300af.200x200o.2754df11adb9.png",
+    "player_id": 79418018,
+    "@id": "https://api.chess.com/pub/player/dontstopmemeowth",
+    "url": "https://www.chess.com/member/DontStopMeMeowth",
+    "username": "dontstopmemeowth",
+    "title": "GM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1716817166,
+    "joined": 1589402637,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2812,
+            "date": 1716818163,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2824,
+            "date": 1716559570,
+            "game": "https://www.chess.com/game/live/110298199423"
+        },
+        "record": {
+            "win": 59,
+            "loss": 31,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2784,
+            "date": 1711623453,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2816,
+            "date": 1694946691,
+            "game": "https://www.chess.com/game/live/88685503903"
+        },
+        "record": {
+            "win": 31,
+            "loss": 14,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1589402637
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1589402637
+        }
+    },
+    "puzzle_rush": {}
+}

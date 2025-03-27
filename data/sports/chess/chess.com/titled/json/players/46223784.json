@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46223784.da261984.200x200o.7fe69682f0c8.jpeg",
+    "player_id": 46223784,
+    "@id": "https://api.chess.com/pub/player/dr_mortimer",
+    "url": "https://www.chess.com/member/Dr_Mortimer",
+    "name": "James Mortimer",
+    "username": "dr_mortimer",
+    "title": "GM",
+    "followers": 1970,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Devonshire",
+    "last_online": 1733895595,
+    "joined": 1526452216,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2395,
+            "date": 1681131825,
+            "rd": 262
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2835,
+            "date": 1732797324,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2954,
+            "date": 1640297033,
+            "game": "https://www.chess.com/game/live/33990549935"
+        },
+        "record": {
+            "win": 206,
+            "loss": 142,
+            "draw": 29
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3052,
+            "date": 1733330567,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3058,
+            "date": 1732726185,
+            "game": "https://www.chess.com/game/live/31684294061"
+        },
+        "record": {
+            "win": 2504,
+            "loss": 2378,
+            "draw": 677
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2219,
+            "date": 1724931072
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1558848667
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

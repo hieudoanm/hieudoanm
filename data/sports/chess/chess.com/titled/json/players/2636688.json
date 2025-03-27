@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2636688.68fd1a97.200x200o.758c7fbf0941.jpeg",
+    "player_id": 2636688,
+    "@id": "https://api.chess.com/pub/player/16wise",
+    "url": "https://www.chess.com/member/16wise",
+    "name": "Ali Morshedi",
+    "username": "16wise",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741069501,
+    "joined": 1268573375,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1716333107,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1716333107,
+            "game": "https://www.chess.com/game/live/110071863739"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1944,
+            "date": 1737161266,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2016,
+            "date": 1737161129,
+            "game": "https://www.chess.com/game/live/130900150699"
+        },
+        "record": {
+            "win": 5,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2279,
+            "date": 1741697859,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1535821637,
+            "game": "https://www.chess.com/game/live/19146334033"
+        },
+        "record": {
+            "win": 2323,
+            "loss": 2000,
+            "draw": 124
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3556,
+            "date": 1719066928
+        },
+        "lowest": {
+            "rating": 1328,
+            "date": 1268756795
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72819324.d31dab87.200x200o.d211d942bfe9.jpg",
+    "player_id": 72819324,
+    "@id": "https://api.chess.com/pub/player/fm-brilliant",
+    "url": "https://www.chess.com/member/FM-BRILLIANT",
+    "name": "Rose Berline Seine",
+    "username": "fm-brilliant",
+    "title": "WCM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/HT",
+    "last_online": 1741225978,
+    "joined": 1582912066,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1134,
+            "date": 1732806886,
+            "rd": 281
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 255764,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2065,
+            "date": 1733012797,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2090,
+            "date": 1733003535,
+            "game": "https://www.chess.com/game/live/117478819849"
+        },
+        "record": {
+            "win": 111,
+            "loss": 64,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1804,
+            "date": 1732806887,
+            "rd": 158
+        },
+        "best": {
+            "rating": 1446,
+            "date": 1720374988,
+            "game": "https://www.chess.com/game/live/114113977991"
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1804,
+            "date": 1732806887,
+            "rd": 65
+        },
+        "best": {
+            "rating": 1663,
+            "date": 1704480525,
+            "game": "https://www.chess.com/game/live/113439596965"
+        },
+        "record": {
+            "win": 154,
+            "loss": 115,
+            "draw": 13
+        }
+    },
+    "fide": 1804,
+    "tactics": {
+        "highest": {
+            "rating": 4139,
+            "date": 1721360946
+        },
+        "lowest": {
+            "rating": 788,
+            "date": 1592445919
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

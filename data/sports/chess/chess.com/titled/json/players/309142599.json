@@ -1,0 +1,86 @@
+{
+    "player_id": 309142599,
+    "@id": "https://api.chess.com/pub/player/miguelbestard1981",
+    "url": "https://www.chess.com/member/MiguelBestard1981",
+    "name": "Miguel Bestard Borras",
+    "username": "miguelbestard1981",
+    "title": "CM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Palma",
+    "last_online": 1741304151,
+    "joined": 1693346690,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2095,
+            "date": 1715808508,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2215,
+            "date": 1696669079,
+            "game": "https://www.chess.com/game/live/107715846231"
+        },
+        "record": {
+            "win": 39,
+            "loss": 6,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2101,
+            "date": 1737801033,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2101,
+            "date": 1724925196,
+            "game": "https://www.chess.com/game/live/118664265887"
+        },
+        "record": {
+            "win": 149,
+            "loss": 168,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2224,
+            "date": 1741525718,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1716136186,
+            "game": "https://www.chess.com/game/live/117476995113"
+        },
+        "record": {
+            "win": 1440,
+            "loss": 1483,
+            "draw": 365
+        }
+    },
+    "fide": 2107,
+    "tactics": {
+        "highest": {
+            "rating": 3280,
+            "date": 1717380467
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1693346690
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

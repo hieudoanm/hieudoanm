@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39167806.194d272f.200x200o.1e4add4797d2.jpeg",
+    "player_id": 39167806,
+    "@id": "https://api.chess.com/pub/player/korbacik",
+    "url": "https://www.chess.com/member/korbacik",
+    "name": "Magdalena Miturova",
+    "username": "korbacik",
+    "title": "WIM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1740730834,
+    "joined": 1507121311,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1938,
+            "date": 1731442320,
+            "rd": 210
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1731442320,
+            "game": "https://www.chess.com/game/daily/405634613"
+        },
+        "record": {
+            "win": 1,
+            "loss": 3,
+            "draw": 2,
+            "time_per_move": 19655,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2228,
+            "date": 1613749101,
+            "rd": 326
+        },
+        "best": {
+            "rating": 2228,
+            "date": 1613749101,
+            "game": "https://www.chess.com/game/live/7487032703"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2159,
+            "date": 1737487746,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2210,
+            "date": 1726300748,
+            "game": "https://www.chess.com/game/live/88542745485"
+        },
+        "record": {
+            "win": 715,
+            "loss": 630,
+            "draw": 91
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3008,
+            "date": 1650544567
+        },
+        "lowest": {
+            "rating": 1198,
+            "date": 1507121382
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

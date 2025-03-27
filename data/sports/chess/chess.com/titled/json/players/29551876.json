@@ -1,0 +1,85 @@
+{
+    "player_id": 29551876,
+    "@id": "https://api.chess.com/pub/player/chessmon527",
+    "url": "https://www.chess.com/member/chessmon527",
+    "name": "Maria Jose Rosado Perez",
+    "username": "chessmon527",
+    "title": "WCM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Liga de Bolivar",
+    "last_online": 1741387333,
+    "joined": 1471638157,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2010,
+            "date": 1735319644,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2288,
+            "date": 1600307507,
+            "game": "https://www.chess.com/game/live/5456403166"
+        },
+        "record": {
+            "win": 14,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1846,
+            "date": 1737269754,
+            "rd": 135
+        },
+        "best": {
+            "rating": 1893,
+            "date": 1737268770,
+            "game": "https://www.chess.com/game/live/131007578827"
+        },
+        "record": {
+            "win": 17,
+            "loss": 35,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1506,
+            "date": 1676617270,
+            "rd": 67
+        },
+        "best": {
+            "rating": 1806,
+            "date": 1549424504,
+            "game": "https://www.chess.com/game/live/3436090340"
+        },
+        "record": {
+            "win": 47,
+            "loss": 56,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2891,
+            "date": 1678754117
+        },
+        "lowest": {
+            "rating": 419,
+            "date": 1552956106
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

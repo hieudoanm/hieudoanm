@@ -1,0 +1,68 @@
+{
+    "player_id": 364385833,
+    "@id": "https://api.chess.com/pub/player/jeppesen08",
+    "url": "https://www.chess.com/member/Jeppesen08",
+    "name": "Jeppe Hald Falkesgaard",
+    "username": "jeppesen08",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/DK",
+    "last_online": 1741426426,
+    "joined": 1716220722,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2551,
+            "date": 1739553343,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1734449937,
+            "game": "https://www.chess.com/game/live/128125172313"
+        },
+        "record": {
+            "win": 246,
+            "loss": 207,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2532,
+            "date": 1731065343,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2575,
+            "date": 1730404993,
+            "game": "https://www.chess.com/game/live/119118068905"
+        },
+        "record": {
+            "win": 275,
+            "loss": 205,
+            "draw": 24
+        }
+    },
+    "fide": 2353,
+    "tactics": {
+        "highest": {
+            "rating": 3743,
+            "date": 1734806612
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1716220722
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

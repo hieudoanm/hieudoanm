@@ -1,0 +1,69 @@
+{
+    "player_id": 13319488,
+    "@id": "https://api.chess.com/pub/player/rpcousins",
+    "url": "https://www.chess.com/member/rpcousins",
+    "name": "Robert Cousins",
+    "username": "rpcousins",
+    "title": "NM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New Hampshire",
+    "last_online": 1741639100,
+    "joined": 1377742065,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2194,
+            "date": 1739586131,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2239,
+            "date": 1734057004,
+            "game": "https://www.chess.com/game/live/127590665127"
+        },
+        "record": {
+            "win": 25,
+            "loss": 14,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2296,
+            "date": 1741695866,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2398,
+            "date": 1725676056,
+            "game": "https://www.chess.com/game/live/122141923249"
+        },
+        "record": {
+            "win": 1120,
+            "loss": 835,
+            "draw": 204
+        }
+    },
+    "fide": 2090,
+    "tactics": {
+        "highest": {
+            "rating": 3272,
+            "date": 1728272039
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1377742065
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

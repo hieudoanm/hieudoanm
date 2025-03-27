@@ -1,0 +1,85 @@
+{
+    "player_id": 27362260,
+    "@id": "https://api.chess.com/pub/player/bui2512",
+    "url": "https://www.chess.com/member/Bui2512",
+    "name": "Bui Vinh",
+    "username": "bui2512",
+    "title": "GM",
+    "followers": 74,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "HA NOI",
+    "last_online": 1732527172,
+    "joined": 1458610556,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1999,
+            "date": 1653106425,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2392,
+            "date": 1576061220,
+            "game": "https://www.chess.com/game/live/5443569843"
+        },
+        "record": {
+            "win": 178,
+            "loss": 112,
+            "draw": 105
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2550,
+            "date": 1575910717,
+            "rd": 117
+        },
+        "best": {
+            "rating": 1470,
+            "date": 1574762291,
+            "game": "https://www.chess.com/game/live/4244209778"
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2315,
+            "date": 1704807045,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1622535741,
+            "game": "https://www.chess.com/game/live/4317772723"
+        },
+        "record": {
+            "win": 338,
+            "loss": 247,
+            "draw": 86
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1302,
+            "date": 1475725374
+        },
+        "lowest": {
+            "rating": 1002,
+            "date": 1475725240
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

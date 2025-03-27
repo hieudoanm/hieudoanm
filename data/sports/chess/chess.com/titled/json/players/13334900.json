@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13334900.df2768b1.200x200o.69e8d8d02903.jpeg",
+    "player_id": 13334900,
+    "@id": "https://api.chess.com/pub/player/rockstar0902",
+    "url": "https://www.chess.com/member/rockstar0902",
+    "name": "Raahul V S",
+    "username": "rockstar0902",
+    "title": "IM",
+    "followers": 121,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "chennai",
+    "last_online": 1741598486,
+    "joined": 1377856742,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1184,
+            "date": 1741511894,
+            "rd": 342
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1377856742,
+            "game": "https://www.chess.com/game/daily/88671026"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 56061,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2224,
+            "date": 1740430533,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2224,
+            "date": 1616072128,
+            "game": "https://www.chess.com/game/live/6225514683"
+        },
+        "record": {
+            "win": 14,
+            "loss": 14,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2483,
+            "date": 1741328857,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1733594330,
+            "game": "https://www.chess.com/game/live/127331997677"
+        },
+        "record": {
+            "win": 431,
+            "loss": 326,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2687,
+            "date": 1740769356,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1739647638,
+            "game": "https://www.chess.com/game/live/61662098119"
+        },
+        "record": {
+            "win": 263,
+            "loss": 210,
+            "draw": 29
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3538,
+            "date": 1676287404
+        },
+        "lowest": {
+            "rating": 1335,
+            "date": 1377857116
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

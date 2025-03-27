@@ -1,0 +1,66 @@
+{
+    "player_id": 21377866,
+    "@id": "https://api.chess.com/pub/player/ispanec",
+    "url": "https://www.chess.com/member/Ispanec",
+    "username": "ispanec",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741680761,
+    "joined": 1425541689,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2083,
+            "date": 1734439032,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2083,
+            "date": 1734439032,
+            "game": "https://www.chess.com/game/live/128177960475"
+        },
+        "record": {
+            "win": 21,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2527,
+            "date": 1741681192,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2566,
+            "date": 1738615968,
+            "game": "https://www.chess.com/game/live/132346853155"
+        },
+        "record": {
+            "win": 126,
+            "loss": 121,
+            "draw": 21
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1262,
+            "date": 1732963739
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1425541689
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23207914.5d1cc41d.200x200o.885486a88491.jpeg",
+    "player_id": 23207914,
+    "@id": "https://api.chess.com/pub/player/vladgoncharov",
+    "url": "https://www.chess.com/member/vladgoncharov",
+    "name": "Vladislav Gontcharov",
+    "username": "vladgoncharov",
+    "title": "NM",
+    "followers": 72,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Kemerovo",
+    "last_online": 1741664000,
+    "joined": 1436715293,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2086,
+            "date": 1676746455,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1613796756,
+            "game": "https://www.chess.com/game/live/7534324511"
+        },
+        "record": {
+            "win": 7,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2621,
+            "date": 1690401275,
+            "rd": 202
+        },
+        "best": {
+            "rating": 2621,
+            "date": 1690401209,
+            "game": "https://www.chess.com/game/live/3368368883"
+        },
+        "record": {
+            "win": 102,
+            "loss": 41,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2685,
+            "date": 1741111950,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1740502707,
+            "game": "https://www.chess.com/game/live/128193041267"
+        },
+        "record": {
+            "win": 3131,
+            "loss": 2255,
+            "draw": 578
+        }
+    },
+    "fide": 2427,
+    "tactics": {
+        "highest": {
+            "rating": 3304,
+            "date": 1649264585
+        },
+        "lowest": {
+            "rating": 1361,
+            "date": 1436726041
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        },
+        "daily": {
+            "total_attempts": 48,
+            "score": 46
+        }
+    }
+}

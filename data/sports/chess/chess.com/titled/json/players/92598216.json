@@ -1,0 +1,67 @@
+{
+    "player_id": 92598216,
+    "@id": "https://api.chess.com/pub/player/handszar",
+    "url": "https://www.chess.com/member/Handszar",
+    "name": "Handszar Odeev",
+    "username": "handszar",
+    "title": "GM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1733719004,
+    "joined": 1601998982,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2233,
+            "date": 1709060013,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1664290723,
+            "game": "https://www.chess.com/game/live/36005891731"
+        },
+        "record": {
+            "win": 832,
+            "loss": 804,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2499,
+            "date": 1658258869,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1658002480,
+            "game": "https://www.chess.com/game/live/9051970295"
+        },
+        "record": {
+            "win": 193,
+            "loss": 143,
+            "draw": 15
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3272,
+            "date": 1716922370
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1603406223
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 86,
+            "score": 83
+        }
+    }
+}

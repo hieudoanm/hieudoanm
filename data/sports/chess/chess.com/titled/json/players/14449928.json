@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14449928.9e557992.200x200o.6e2e8d39d2cf.jpg",
+    "player_id": 14449928,
+    "@id": "https://api.chess.com/pub/player/bugcrusher",
+    "url": "https://www.chess.com/member/Bugcrusher",
+    "name": "Aleksandras Jegorovas",
+    "username": "bugcrusher",
+    "title": "FM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/LT",
+    "last_online": 1741552604,
+    "joined": 1384709781,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1863,
+            "date": 1734519184,
+            "rd": 319
+        },
+        "best": {
+            "rating": 2266,
+            "date": 1492630479,
+            "game": "https://www.chess.com/game/daily/156411684"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 1,
+            "time_per_move": 29420,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1940,
+            "date": 1728497741,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2488,
+            "date": 1675632809,
+            "game": "https://www.chess.com/game/live/122232645093"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2309,
+            "date": 1734201816,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2338,
+            "date": 1733592268,
+            "game": "https://www.chess.com/game/live/127940365433"
+        },
+        "record": {
+            "win": 58,
+            "loss": 29,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2474,
+            "date": 1741691172,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1709078102,
+            "game": "https://www.chess.com/game/live/107649810593"
+        },
+        "record": {
+            "win": 2006,
+            "loss": 1510,
+            "draw": 522
+        }
+    },
+    "fide": 2270,
+    "tactics": {
+        "highest": {
+            "rating": 3396,
+            "date": 1690791507
+        },
+        "lowest": {
+            "rating": 1373,
+            "date": 1468993752
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

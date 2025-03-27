@@ -1,0 +1,83 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3305062.d2cbf720.200x200o.3619b46c6a71.jpeg",
+    "player_id": 3305062,
+    "@id": "https://api.chess.com/pub/player/ibutterurbread",
+    "url": "https://www.chess.com/member/ibutterurbread",
+    "name": "jack black",
+    "username": "ibutterurbread",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "anywhere",
+    "last_online": 1462973944,
+    "joined": 1255314832,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2042,
+            "date": 1275674400,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2042,
+            "date": 1265335619,
+            "game": "https://www.chess.com/game/daily/37001091"
+        },
+        "record": {
+            "win": 29,
+            "loss": 11,
+            "draw": 3,
+            "time_per_move": 4381,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2388,
+            "date": 1435703242,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2534,
+            "date": 1431162030,
+            "game": "https://www.chess.com/game/live/261974857"
+        },
+        "record": {
+            "win": 685,
+            "loss": 583,
+            "draw": 79
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2336,
+            "date": 1433791872,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1431035293,
+            "game": "https://www.chess.com/game/live/1152689395"
+        },
+        "record": {
+            "win": 109,
+            "loss": 98,
+            "draw": 16
+        }
+    },
+    "fide": 2337,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1255314832
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1255314832
+        }
+    },
+    "puzzle_rush": {}
+}

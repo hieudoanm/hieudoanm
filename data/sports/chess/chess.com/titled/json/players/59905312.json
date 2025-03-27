@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59905312.e87edb7a.200x200o.a89b1a0f7546.jpeg",
+    "player_id": 59905312,
+    "@id": "https://api.chess.com/pub/player/i_gold",
+    "url": "https://www.chess.com/member/I_Gold",
+    "name": "Igor Goldenberg",
+    "username": "i_gold",
+    "title": "IM",
+    "followers": 64,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Melbourne",
+    "last_online": 1741680259,
+    "joined": 1555456575,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2338,
+            "date": 1735979099,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1609938210,
+            "game": "https://www.chess.com/game/live/23109029337"
+        },
+        "record": {
+            "win": 27,
+            "loss": 16,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2536,
+            "date": 1735279048,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1735279048,
+            "game": "https://www.chess.com/game/live/5034292628"
+        },
+        "record": {
+            "win": 387,
+            "loss": 245,
+            "draw": 93
+        }
+    },
+    "fide": 2333,
+    "tactics": {
+        "highest": {
+            "rating": 3264,
+            "date": 1722750102
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1555457454
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

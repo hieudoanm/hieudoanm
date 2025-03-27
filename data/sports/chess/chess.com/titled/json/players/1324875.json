@@ -1,0 +1,74 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1324875.eeb90563.200x200o.c0a33c1f3c23.jpeg",
+    "player_id": 1324875,
+    "@id": "https://api.chess.com/pub/player/goldihouse",
+    "url": "https://www.chess.com/member/goldihouse",
+    "name": "Lars Stark",
+    "username": "goldihouse",
+    "title": "IM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741544724,
+    "joined": 1204818770,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2027,
+            "date": 1741700654,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2037,
+            "date": 1741457931,
+            "game": "https://www.chess.com/game/daily/763180689"
+        },
+        "record": {
+            "win": 181,
+            "loss": 51,
+            "draw": 25,
+            "time_per_move": 8114,
+            "timeout_percent": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2800,
+            "date": 1741108505,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2802,
+            "date": 1739468557,
+            "game": "https://www.chess.com/game/live/9059219471"
+        },
+        "record": {
+            "win": 599,
+            "loss": 388,
+            "draw": 99
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3539,
+            "date": 1730627057
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1556143127
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        },
+        "daily": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

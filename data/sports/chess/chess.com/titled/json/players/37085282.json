@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37085282.12998eea.200x200o.6cf11d1f78ef.png",
+    "player_id": 37085282,
+    "@id": "https://api.chess.com/pub/player/limarr",
+    "url": "https://www.chess.com/member/LimaRR",
+    "name": "Endson Lima",
+    "username": "limarr",
+    "title": "CM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Boa vista (RR)",
+    "last_online": 1741355579,
+    "joined": 1500241368,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1893,
+            "date": 1735151174,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2165,
+            "date": 1611630776,
+            "game": "https://www.chess.com/game/live/6539591184"
+        },
+        "record": {
+            "win": 385,
+            "loss": 347,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2084,
+            "date": 1741360382,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2247,
+            "date": 1655159928,
+            "game": "https://www.chess.com/game/live/59872264445"
+        },
+        "record": {
+            "win": 1491,
+            "loss": 1514,
+            "draw": 138
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2662,
+            "date": 1734617116
+        },
+        "lowest": {
+            "rating": 2107,
+            "date": 1594401213
+        }
+    },
+    "puzzle_rush": {}
+}

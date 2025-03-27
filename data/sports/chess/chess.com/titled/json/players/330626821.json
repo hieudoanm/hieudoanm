@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/330626821.34010909.200x200o.84e11f78293b.jpg",
+    "player_id": 330626821,
+    "@id": "https://api.chess.com/pub/player/masterofmasters2006",
+    "url": "https://www.chess.com/member/MasterofMasters2006",
+    "name": "Henrique Barbosa Veloso",
+    "username": "masterofmasters2006",
+    "title": "NM",
+    "followers": 118,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1740073353,
+    "joined": 1701833537,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1729,
+            "date": 1723573488,
+            "rd": 254
+        },
+        "best": {
+            "rating": 1729,
+            "date": 1723573488,
+            "game": "https://www.chess.com/game/daily/680924795"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 31513,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2212,
+            "date": 1740013497,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2260,
+            "date": 1718667860,
+            "game": "https://www.chess.com/game/live/103340460989"
+        },
+        "record": {
+            "win": 49,
+            "loss": 33,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2074,
+            "date": 1739999605,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1703355244,
+            "game": "https://www.chess.com/game/live/97094368109"
+        },
+        "record": {
+            "win": 75,
+            "loss": 102,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2262,
+            "date": 1738692756,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1732285606,
+            "game": "https://www.chess.com/game/live/124652317199"
+        },
+        "record": {
+            "win": 542,
+            "loss": 588,
+            "draw": 79
+        }
+    },
+    "fide": 2141,
+    "tactics": {
+        "highest": {
+            "rating": 3222,
+            "date": 1734005896
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1701833537
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 42
+        }
+    }
+}

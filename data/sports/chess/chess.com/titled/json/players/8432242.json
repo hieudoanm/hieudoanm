@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8432242.c8277843.200x200o.770889ed5f0c.jpeg",
+    "player_id": 8432242,
+    "@id": "https://api.chess.com/pub/player/angry_twin",
+    "url": "https://www.chess.com/member/Angry_Twin",
+    "name": "Andrey Drygalov",
+    "username": "angry_twin",
+    "title": "GM",
+    "followers": 657,
+    "country": "https://api.chess.com/pub/country/JP",
+    "location": "\u041a\u0443\u0440\u0433\u0430\u043d",
+    "last_online": 1734169501,
+    "joined": 1344091910,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 768,
+            "date": 1653382257,
+            "rd": 295
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1344091910,
+            "game": "https://www.chess.com/game/daily/369411485"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 28148,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2520,
+            "date": 1729443814,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1590769206,
+            "game": "https://www.chess.com/game/live/100455805203"
+        },
+        "record": {
+            "win": 13,
+            "loss": 9,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2866,
+            "date": 1731268774,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2917,
+            "date": 1649887517,
+            "game": "https://www.chess.com/game/live/3587940340"
+        },
+        "record": {
+            "win": 812,
+            "loss": 502,
+            "draw": 95
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3011,
+            "date": 1734168479,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3104,
+            "date": 1707257211,
+            "game": "https://www.chess.com/game/live/100903933147"
+        },
+        "record": {
+            "win": 3658,
+            "loss": 2476,
+            "draw": 726
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3264,
+            "date": 1677433740
+        },
+        "lowest": {
+            "rating": 1334,
+            "date": 1344091943
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

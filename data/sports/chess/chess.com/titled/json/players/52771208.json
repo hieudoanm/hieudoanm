@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52771208.1434fa22.200x200o.96247aac452f.jpeg",
+    "player_id": 52771208,
+    "@id": "https://api.chess.com/pub/player/crasyhealer",
+    "url": "https://www.chess.com/member/Crasyhealer",
+    "name": "Vitalii Gryshko",
+    "username": "crasyhealer",
+    "title": "FM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Nancy",
+    "last_online": 1741702468,
+    "joined": 1543939081,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2272,
+            "date": 1702555441,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2265,
+            "date": 1669113852,
+            "game": "https://www.chess.com/game/live/49652478217"
+        },
+        "record": {
+            "win": 32,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2543,
+            "date": 1722516226,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2550,
+            "date": 1700214327,
+            "game": "https://www.chess.com/game/live/20344831779"
+        },
+        "record": {
+            "win": 209,
+            "loss": 137,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2542,
+            "date": 1741119441,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2605,
+            "date": 1734478248,
+            "game": "https://www.chess.com/game/live/115485588611"
+        },
+        "record": {
+            "win": 317,
+            "loss": 237,
+            "draw": 40
+        }
+    },
+    "fide": 2272,
+    "tactics": {
+        "highest": {
+            "rating": 3324,
+            "date": 1711548767
+        },
+        "lowest": {
+            "rating": 401,
+            "date": 1546622513
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

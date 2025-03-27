@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8274880.3a32ae84.200x200o.19ad09b0249c.jpeg",
+    "player_id": 8274880,
+    "@id": "https://api.chess.com/pub/player/slavenpastar",
+    "url": "https://www.chess.com/member/SlavenPastar",
+    "name": "Slaven Pastar",
+    "username": "slavenpastar",
+    "title": "IM",
+    "followers": 313,
+    "country": "https://api.chess.com/pub/country/BA",
+    "location": "Mrkonji\u0107 Grad",
+    "last_online": 1741693147,
+    "joined": 1342896238,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1096,
+            "date": 1731662900,
+            "rd": 316
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1342896238,
+            "game": "https://www.chess.com/game/daily/422195897"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 1588,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2265,
+            "date": 1741153443,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1581439944,
+            "game": "https://www.chess.com/game/live/120585017897"
+        },
+        "record": {
+            "win": 113,
+            "loss": 13,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2627,
+            "date": 1741344300,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1698351357,
+            "game": "https://www.chess.com/game/live/97098097925"
+        },
+        "record": {
+            "win": 1474,
+            "loss": 1383,
+            "draw": 221
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2706,
+            "date": 1741155281,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1741155281,
+            "game": "https://www.chess.com/game/live/106510057487"
+        },
+        "record": {
+            "win": 2804,
+            "loss": 2837,
+            "draw": 483
+        }
+    },
+    "fide": 2365,
+    "tactics": {
+        "highest": {
+            "rating": 3714,
+            "date": 1680425650
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1514382799
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25365210.fe989a35.200x200o.4a3b3ecaf9a0.jpeg",
+    "player_id": 25365210,
+    "@id": "https://api.chess.com/pub/player/gm_rashid",
+    "url": "https://www.chess.com/member/gm_rashid",
+    "name": "Raset Ziatdinov",
+    "username": "gm_rashid",
+    "title": "GM",
+    "followers": 103,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "location": "Tashkent",
+    "last_online": 1734157870,
+    "joined": 1449036658,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2097,
+            "date": 1727278286,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1629293059,
+            "game": "https://www.chess.com/game/live/49625404229"
+        },
+        "record": {
+            "win": 72,
+            "loss": 30,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2542,
+            "date": 1732989280,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2709,
+            "date": 1725125859,
+            "game": "https://www.chess.com/game/live/116440186409"
+        },
+        "record": {
+            "win": 1215,
+            "loss": 1058,
+            "draw": 128
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2429,
+            "date": 1734158584,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2608,
+            "date": 1722840424,
+            "game": "https://www.chess.com/game/live/93111758929"
+        },
+        "record": {
+            "win": 1525,
+            "loss": 1005,
+            "draw": 172
+        }
+    },
+    "fide": 2605,
+    "tactics": {
+        "highest": {
+            "rating": 3421,
+            "date": 1725091897
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1546421790
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

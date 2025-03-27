@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66629166.8a80fe8e.200x200o.9e2ca480b67d.jpg",
+    "player_id": 66629166,
+    "@id": "https://api.chess.com/pub/player/fearless_king2",
+    "url": "https://www.chess.com/member/fearless_king2",
+    "name": "Yousuf Azeem Makhdoomi",
+    "username": "fearless_king2",
+    "title": "NM",
+    "followers": 11140,
+    "country": "https://api.chess.com/pub/country/PK",
+    "location": "Faisalabad",
+    "last_online": 1741703535,
+    "joined": 1570973623,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1964,
+            "date": 1712723237,
+            "rd": 80
+        },
+        "best": {
+            "rating": 1964,
+            "date": 1618245297,
+            "game": "https://www.chess.com/game/live/6330398692"
+        },
+        "record": {
+            "win": 51,
+            "loss": 15,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2002,
+            "date": 1713597206,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1634444968,
+            "game": "https://www.chess.com/game/live/5979952980"
+        },
+        "record": {
+            "win": 1192,
+            "loss": 695,
+            "draw": 56
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2350,
+            "date": 1682396527,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1578498600,
+            "game": "https://www.chess.com/game/live/4301680544"
+        },
+        "record": {
+            "win": 421,
+            "loss": 385,
+            "draw": 45
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3018,
+            "date": 1618408417
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1592506283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

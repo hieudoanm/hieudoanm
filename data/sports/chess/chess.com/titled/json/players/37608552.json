@@ -1,0 +1,66 @@
+{
+    "player_id": 37608552,
+    "@id": "https://api.chess.com/pub/player/schmetterlingd",
+    "url": "https://www.chess.com/member/SchmetterlingD",
+    "username": "schmetterlingd",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1726346428,
+    "joined": 1502042094,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2426,
+            "date": 1649228345,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2502,
+            "date": 1643059135,
+            "game": "https://www.chess.com/game/live/36884450065"
+        },
+        "record": {
+            "win": 235,
+            "loss": 168,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1878,
+            "date": 1694025697,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2198,
+            "date": 1638907717,
+            "game": "https://www.chess.com/game/live/32643669991"
+        },
+        "record": {
+            "win": 363,
+            "loss": 347,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3204,
+            "date": 1727682163
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1502043575
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "player_id": 75512960,
+    "@id": "https://api.chess.com/pub/player/barskenstam",
+    "url": "https://www.chess.com/member/Barskenstam",
+    "username": "barskenstam",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1710795647,
+    "joined": 1585913394,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1585913394
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1585913394
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

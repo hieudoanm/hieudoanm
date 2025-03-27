@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26638268.7a4ce434.200x200o.31fb89ea3d15.jpg",
+    "player_id": 26638268,
+    "@id": "https://api.chess.com/pub/player/deutschekaros",
+    "url": "https://www.chess.com/member/deutschekaros",
+    "name": "Karin N\u011bmcov\u00e1",
+    "username": "deutschekaros",
+    "title": "WFM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "location": "Praha",
+    "last_online": 1736442062,
+    "joined": 1455131363,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2048,
+            "date": 1730732137,
+            "rd": 336
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2048,
+            "date": 1730732137,
+            "rd": 126
+        },
+        "best": {
+            "rating": 1611,
+            "date": 1674844333,
+            "game": "https://www.chess.com/game/live/68583870061"
+        },
+        "record": {
+            "win": 3,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2048,
+            "date": 1730732137,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2052,
+            "date": 1650887615,
+            "game": "https://www.chess.com/game/live/5675893676"
+        },
+        "record": {
+            "win": 48,
+            "loss": 40,
+            "draw": 8
+        }
+    },
+    "fide": 2048,
+    "tactics": {
+        "highest": {
+            "rating": 3290,
+            "date": 1740260890
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1510305345
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

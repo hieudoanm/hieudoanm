@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21366684.1a45db28.200x200o.46071344224e.jpeg",
+    "player_id": 21366684,
+    "@id": "https://api.chess.com/pub/player/hoosierdadi",
+    "url": "https://www.chess.com/member/HoosierDadi",
+    "name": "Can Ertan",
+    "username": "hoosierdadi",
+    "title": "IM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Hamburg",
+    "last_online": 1735704187,
+    "joined": 1425481163,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1460497009,
+            "rd": 252
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1425484772,
+            "game": "https://www.chess.com/game/live/1078223826"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2604,
+            "date": 1587269892,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1565822020,
+            "game": "https://www.chess.com/game/live/3948767696"
+        },
+        "record": {
+            "win": 1880,
+            "loss": 1430,
+            "draw": 171
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2602,
+            "date": 1658330676,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1658330676,
+            "game": "https://www.chess.com/game/live/3725941339"
+        },
+        "record": {
+            "win": 2026,
+            "loss": 1560,
+            "draw": 191
+        }
+    },
+    "fide": 2396,
+    "tactics": {
+        "highest": {
+            "rating": 2560,
+            "date": 1575511082
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1525289551
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

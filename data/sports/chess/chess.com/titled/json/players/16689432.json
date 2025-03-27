@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16689432.7f4397fe.200x200o.c6074ba14ceb.jpg",
+    "player_id": 16689432,
+    "@id": "https://api.chess.com/pub/player/juanchesst",
+    "url": "https://www.chess.com/member/juanchesst",
+    "name": "Juan Camilo Torres",
+    "username": "juanchesst",
+    "title": "IM",
+    "followers": 67,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Colombia",
+    "last_online": 1736875871,
+    "joined": 1396236650,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2706,
+            "date": 1715775952,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1715772643,
+            "game": "https://www.chess.com/game/live/108750695715"
+        },
+        "record": {
+            "win": 540,
+            "loss": 379,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2669,
+            "date": 1734219996,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2723,
+            "date": 1715220720,
+            "game": "https://www.chess.com/game/live/108840009905"
+        },
+        "record": {
+            "win": 1895,
+            "loss": 1490,
+            "draw": 219
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2819,
+            "date": 1713913468
+        },
+        "lowest": {
+            "rating": 1258,
+            "date": 1396985358
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9025544.e74bd29a.200x200o.01aaa25f8761.jpg",
+    "player_id": 9025544,
+    "@id": "https://api.chess.com/pub/player/joeassaad",
+    "url": "https://www.chess.com/member/JoeAssaad",
+    "name": "Joe Assaad",
+    "username": "joeassaad",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/LB",
+    "last_online": 1741699009,
+    "joined": 1348511204,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2391,
+            "date": 1643918453,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2389,
+            "date": 1641244161,
+            "game": "https://www.chess.com/game/live/36158354023"
+        },
+        "record": {
+            "win": 1418,
+            "loss": 688,
+            "draw": 175
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2822,
+            "date": 1740512385,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2853,
+            "date": 1728691075,
+            "game": "https://www.chess.com/game/live/66339770051"
+        },
+        "record": {
+            "win": 16643,
+            "loss": 15722,
+            "draw": 1234
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2855,
+            "date": 1740512643,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2859,
+            "date": 1735610764,
+            "game": "https://www.chess.com/game/live/122657040275"
+        },
+        "record": {
+            "win": 4474,
+            "loss": 4010,
+            "draw": 453
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3101,
+            "date": 1654157009
+        },
+        "lowest": {
+            "rating": 1026,
+            "date": 1360416077
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 52
+        },
+        "daily": {
+            "total_attempts": 6,
+            "score": 5
+        }
+    }
+}

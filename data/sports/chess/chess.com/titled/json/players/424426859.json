@@ -1,0 +1,85 @@
+{
+    "player_id": 424426859,
+    "@id": "https://api.chess.com/pub/player/gm_path",
+    "url": "https://www.chess.com/member/GM_path",
+    "name": "Aldiyar Zhauynbay",
+    "username": "gm_path",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741582516,
+    "joined": 1738052815,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2140,
+            "date": 1739733104,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2140,
+            "date": 1739730596,
+            "game": "https://www.chess.com/game/live/133468182125"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2465,
+            "date": 1739039323,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2527,
+            "date": 1739037238,
+            "game": "https://www.chess.com/game/live/132168630665"
+        },
+        "record": {
+            "win": 18,
+            "loss": 19,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2637,
+            "date": 1740507168,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1740506515,
+            "game": "https://www.chess.com/game/live/134240956619"
+        },
+        "record": {
+            "win": 70,
+            "loss": 36,
+            "draw": 9
+        }
+    },
+    "fide": 2109,
+    "tactics": {
+        "highest": {
+            "rating": 3600,
+            "date": 1739356117
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738052815
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

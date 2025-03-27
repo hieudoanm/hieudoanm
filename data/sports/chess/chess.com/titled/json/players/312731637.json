@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/312731637.00e7637e.200x200o.284ffe56605b.png",
+    "player_id": 312731637,
+    "@id": "https://api.chess.com/pub/player/ridnani1",
+    "url": "https://www.chess.com/member/ridnani1",
+    "name": "Roshan Idnani",
+    "username": "ridnani1",
+    "title": "CM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741700887,
+    "joined": 1694699240,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1741493307,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1709309080,
+            "game": "https://www.chess.com/game/live/108919811553"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2509,
+            "date": 1741702000,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1710875420,
+            "game": "https://www.chess.com/game/live/105226318477"
+        },
+        "record": {
+            "win": 192,
+            "loss": 230,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2492,
+            "date": 1741703105,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2524,
+            "date": 1741104274,
+            "game": "https://www.chess.com/game/live/134237956259"
+        },
+        "record": {
+            "win": 206,
+            "loss": 220,
+            "draw": 52
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3142,
+            "date": 1738079656
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1694699240
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 32
+        }
+    }
+}

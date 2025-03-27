@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/81192692.ceac0894.200x200o.7e57fc2180c4.png",
+    "player_id": 81192692,
+    "@id": "https://api.chess.com/pub/player/adrianonunesfx",
+    "url": "https://www.chess.com/member/AdrianoNunesFX",
+    "name": "Adriano Nunes Cavalcante",
+    "username": "adrianonunesfx",
+    "title": "NM",
+    "followers": 150,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Caucaia, Cear\u00e1",
+    "last_online": 1741640508,
+    "joined": 1591050184,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1861,
+            "date": 1740756368,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2181,
+            "date": 1597863603,
+            "game": "https://www.chess.com/game/daily/275674424"
+        },
+        "record": {
+            "win": 10,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 14528,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2355,
+            "date": 1741439776,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2378,
+            "date": 1702986911,
+            "game": "https://www.chess.com/game/live/110506289123"
+        },
+        "record": {
+            "win": 55,
+            "loss": 63,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2315,
+            "date": 1741187394,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1719783818,
+            "game": "https://www.chess.com/game/live/106921904149"
+        },
+        "record": {
+            "win": 469,
+            "loss": 427,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2407,
+            "date": 1741641953,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2412,
+            "date": 1741104483,
+            "game": "https://www.chess.com/game/live/107749325871"
+        },
+        "record": {
+            "win": 2316,
+            "loss": 2371,
+            "draw": 380
+        }
+    },
+    "fide": 2002,
+    "tactics": {
+        "highest": {
+            "rating": 3157,
+            "date": 1740771594
+        },
+        "lowest": {
+            "rating": 1199,
+            "date": 1716741101
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

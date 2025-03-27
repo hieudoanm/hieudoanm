@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/161714025.5baaf9cd.200x200o.9f64a896a2e0.png",
+    "player_id": 161714025,
+    "@id": "https://api.chess.com/pub/player/sayonaraponytail",
+    "url": "https://www.chess.com/member/SayonaraPonytail",
+    "name": "Qianyun Gong",
+    "username": "sayonaraponytail",
+    "title": "WGM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741502501,
+    "joined": 1637196508,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2508,
+            "date": 1728901377,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1653667361,
+            "game": "https://www.chess.com/game/live/47406060337"
+        },
+        "record": {
+            "win": 93,
+            "loss": 96,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2595,
+            "date": 1735059329,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2625,
+            "date": 1734459088,
+            "game": "https://www.chess.com/game/live/122746470951"
+        },
+        "record": {
+            "win": 254,
+            "loss": 240,
+            "draw": 26
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3456,
+            "date": 1738022511
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1637200519
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

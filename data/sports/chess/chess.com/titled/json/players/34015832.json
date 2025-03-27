@@ -1,0 +1,50 @@
+{
+    "player_id": 34015832,
+    "@id": "https://api.chess.com/pub/player/tolgademirel1",
+    "url": "https://www.chess.com/member/TolgaDemirel1",
+    "name": "Tolga Demirel",
+    "username": "tolgademirel1",
+    "title": "FM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741481558,
+    "joined": 1489686393,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2096,
+            "date": 1699790431,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2230,
+            "date": 1617220338,
+            "game": "https://www.chess.com/game/live/78717617979"
+        },
+        "record": {
+            "win": 1077,
+            "loss": 1323,
+            "draw": 119
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3242,
+            "date": 1679176482
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1561641608
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

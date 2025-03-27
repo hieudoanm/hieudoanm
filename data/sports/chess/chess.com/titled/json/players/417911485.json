@@ -1,0 +1,62 @@
+{
+    "player_id": 417911485,
+    "@id": "https://api.chess.com/pub/player/kick-start-the-rhythm",
+    "url": "https://www.chess.com/member/kick-start-the-rhythm",
+    "name": "Lasya G",
+    "username": "kick-start-the-rhythm",
+    "title": "WFM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1740498207,
+    "joined": 1736937988,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2165,
+            "date": 1739641637,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2311,
+            "date": 1739639497,
+            "game": "https://www.chess.com/game/live/133378162585"
+        },
+        "record": {
+            "win": 6,
+            "loss": 18,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2550,
+            "date": 1740507137,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2618,
+            "date": 1738085342,
+            "game": "https://www.chess.com/game/live/131823681941"
+        },
+        "record": {
+            "win": 15,
+            "loss": 20,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1736937988
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1736937988
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,64 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/257060207.2b712cd6.200x200o.03374600dddc.jpg",
+    "player_id": 257060207,
+    "@id": "https://api.chess.com/pub/player/ol3ks2",
+    "url": "https://www.chess.com/member/Ol3ks2",
+    "name": "Oleksii Molchanov",
+    "username": "ol3ks2",
+    "title": "IM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741436784,
+    "joined": 1678032454,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2545,
+            "date": 1740607716,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1739625978,
+            "game": "https://www.chess.com/game/live/116897375265"
+        },
+        "record": {
+            "win": 102,
+            "loss": 28,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2537,
+            "date": 1717514963,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2537,
+            "date": 1717514939,
+            "game": "https://www.chess.com/game/live/71774723025"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "fide": 2402,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1678032454
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1678032454
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,39 @@
+{
+    "player_id": 432938881,
+    "@id": "https://api.chess.com/pub/player/theloyalwolf",
+    "url": "https://www.chess.com/member/theloyalwolf",
+    "username": "theloyalwolf",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741626425,
+    "joined": 1740677908,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2681,
+            "date": 1741643950,
+            "rd": 37
+        },
+        "record": {
+            "win": 29,
+            "loss": 18,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1740677908
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1740677908
+        }
+    },
+    "puzzle_rush": {}
+}

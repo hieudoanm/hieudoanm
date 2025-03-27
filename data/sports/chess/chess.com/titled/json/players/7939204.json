@@ -1,0 +1,88 @@
+{
+    "player_id": 7939204,
+    "@id": "https://api.chess.com/pub/player/elmirhuseynov",
+    "url": "https://www.chess.com/member/ElmirHuseynov",
+    "name": "Elmir Huseynov",
+    "username": "elmirhuseynov",
+    "title": "IM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Washington DC",
+    "last_online": 1741666183,
+    "joined": 1340083400,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1578,
+            "date": 1740155350,
+            "rd": 272
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1340083400,
+            "game": "https://www.chess.com/game/daily/138634568"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 42811,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2505,
+            "date": 1741633533,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2713,
+            "date": 1680591913,
+            "game": "https://www.chess.com/game/live/100964628593"
+        },
+        "record": {
+            "win": 1433,
+            "loss": 1173,
+            "draw": 84
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2504,
+            "date": 1730579709,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1694551348,
+            "game": "https://www.chess.com/game/live/86159893505"
+        },
+        "record": {
+            "win": 120,
+            "loss": 74,
+            "draw": 12
+        }
+    },
+    "fide": 2429,
+    "tactics": {
+        "highest": {
+            "rating": 1303,
+            "date": 1731224949
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1493824947
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

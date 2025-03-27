@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44976942.1aa1ab7b.200x200o.41f05b0c3172.jpeg",
+    "player_id": 44976942,
+    "@id": "https://api.chess.com/pub/player/jovana51796",
+    "url": "https://www.chess.com/member/jovana51796",
+    "name": "Jovana Milosevic",
+    "username": "jovana51796",
+    "title": "WFM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741517676,
+    "joined": 1522868445,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1578,
+            "date": 1623092109,
+            "rd": 327
+        },
+        "record": {
+            "win": 0,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2401,
+            "date": 1701542844,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1701542844,
+            "game": "https://www.chess.com/game/live/95281741759"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2020,
+            "date": 1586711257,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1550815882,
+            "game": "https://www.chess.com/game/live/4322156240"
+        },
+        "record": {
+            "win": 151,
+            "loss": 143,
+            "draw": 13
+        }
+    },
+    "fide": 2097,
+    "tactics": {
+        "highest": {
+            "rating": 1610,
+            "date": 1609898575
+        },
+        "lowest": {
+            "rating": 1008,
+            "date": 1555255147
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

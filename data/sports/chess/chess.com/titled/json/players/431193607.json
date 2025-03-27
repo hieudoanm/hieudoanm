@@ -1,0 +1,28 @@
+{
+    "player_id": 431193607,
+    "@id": "https://api.chess.com/pub/player/andrei_nosov",
+    "url": "https://www.chess.com/member/Andrei_Nosov",
+    "name": "Andrey Nosov",
+    "username": "andrei_nosov",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741352733,
+    "joined": 1740165206,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 2244,
+    "tactics": {
+        "highest": {
+            "rating": 2714,
+            "date": 1741110804
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1740165206
+        }
+    },
+    "puzzle_rush": {}
+}

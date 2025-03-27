@@ -1,0 +1,62 @@
+{
+    "player_id": 27255182,
+    "@id": "https://api.chess.com/pub/player/copperbrain",
+    "url": "https://www.chess.com/member/CopperBrain",
+    "name": "Alexander Areshchenko",
+    "username": "copperbrain",
+    "title": "GM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1734015511,
+    "joined": 1458074802,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2234,
+            "date": 1458581046,
+            "rd": 294
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2687,
+            "date": 1714134407,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2866,
+            "date": 1661332612,
+            "game": "https://www.chess.com/game/live/55551667851"
+        },
+        "record": {
+            "win": 1389,
+            "loss": 915,
+            "draw": 190
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3870,
+            "date": 1690024493
+        },
+        "lowest": {
+            "rating": 2005,
+            "date": 1660422403
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 20,
+            "score": 17
+        }
+    }
+}

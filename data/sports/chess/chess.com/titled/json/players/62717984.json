@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62717984.47b5014f.200x200o.5e78075fbee2.jpeg",
+    "player_id": 62717984,
+    "@id": "https://api.chess.com/pub/player/yaleikachung",
+    "url": "https://www.chess.com/member/yaleikachung",
+    "name": "Yaleika Chung Hurtado",
+    "username": "yaleikachung",
+    "title": "WFM",
+    "followers": 65,
+    "country": "https://api.chess.com/pub/country/PA",
+    "last_online": 1737240301,
+    "joined": 1561585603,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1184,
+            "date": 1734082165,
+            "rd": 138
+        },
+        "best": {
+            "rating": 1184,
+            "date": 1702515112,
+            "game": "https://www.chess.com/game/daily/586278599"
+        },
+        "record": {
+            "win": 10,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 3025,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1394,
+            "date": 1740334086,
+            "rd": 221
+        },
+        "best": {
+            "rating": 1743,
+            "date": 1630258627,
+            "game": "https://www.chess.com/game/live/23822824679"
+        },
+        "record": {
+            "win": 26,
+            "loss": 13,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1950,
+            "date": 1590428314,
+            "rd": 158
+        },
+        "best": {
+            "rating": 1874,
+            "date": 1590428118,
+            "game": "https://www.chess.com/game/live/4906415234"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1943,
+            "date": 1741296880,
+            "rd": 132
+        },
+        "best": {
+            "rating": 1988,
+            "date": 1700331477,
+            "game": "https://www.chess.com/game/live/14776653077"
+        },
+        "record": {
+            "win": 50,
+            "loss": 17,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2464,
+            "date": 1737842163
+        },
+        "lowest": {
+            "rating": 1680,
+            "date": 1694281532
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

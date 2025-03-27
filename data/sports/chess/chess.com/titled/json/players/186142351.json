@@ -1,0 +1,72 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/186142351.6d2755cf.200x200o.3f86c1e79bfe.jpeg",
+    "player_id": 186142351,
+    "@id": "https://api.chess.com/pub/player/ga_r",
+    "url": "https://www.chess.com/member/Ga_R",
+    "name": "Ruslan Gadzhiev",
+    "username": "ga_r",
+    "title": "CM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741689046,
+    "joined": 1654610077,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2553,
+            "date": 1688344523,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2548,
+            "date": 1684503540,
+            "game": "https://www.chess.com/game/live/76857625805"
+        },
+        "record": {
+            "win": 381,
+            "loss": 554,
+            "draw": 135
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2844,
+            "date": 1741618448,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2944,
+            "date": 1733291327,
+            "game": "https://www.chess.com/game/live/124390188589"
+        },
+        "record": {
+            "win": 2227,
+            "loss": 2190,
+            "draw": 364
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3843,
+            "date": 1739519746
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1654613850
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 58
+        },
+        "daily": {
+            "total_attempts": 52,
+            "score": 48
+        }
+    }
+}

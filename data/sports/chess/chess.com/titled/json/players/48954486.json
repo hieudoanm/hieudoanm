@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48954486.156258df.200x200o.107884c5f54c.jpg",
+    "player_id": 48954486,
+    "@id": "https://api.chess.com/pub/player/uggm_manuel",
+    "url": "https://www.chess.com/member/UGgm_Manuel",
+    "name": "Musasizi Emmanuel",
+    "username": "uggm_manuel",
+    "title": "CM",
+    "followers": 70,
+    "country": "https://api.chess.com/pub/country/UG",
+    "location": "Kampala",
+    "last_online": 1741642075,
+    "joined": 1534792456,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1306,
+            "date": 1712136669,
+            "rd": 206
+        },
+        "best": {
+            "rating": 1306,
+            "date": 1712136668,
+            "game": "https://www.chess.com/game/daily/555475165"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 9647,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2280,
+            "date": 1741554093,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1696451354,
+            "game": "https://www.chess.com/game/live/90189584267"
+        },
+        "record": {
+            "win": 114,
+            "loss": 38,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2074,
+            "date": 1723562188,
+            "rd": 126
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1693328513,
+            "game": "https://www.chess.com/game/live/87067232433"
+        },
+        "record": {
+            "win": 45,
+            "loss": 32,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2314,
+            "date": 1738354405,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2365,
+            "date": 1648475463,
+            "game": "https://www.chess.com/game/live/88899067939"
+        },
+        "record": {
+            "win": 159,
+            "loss": 70,
+            "draw": 9
+        }
+    },
+    "fide": 2010,
+    "tactics": {
+        "highest": {
+            "rating": 3393,
+            "date": 1723474612
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1535207058
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

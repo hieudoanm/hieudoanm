@@ -1,0 +1,99 @@
+{
+    "player_id": 31085754,
+    "@id": "https://api.chess.com/pub/player/stayflow",
+    "url": "https://www.chess.com/member/STAYFlow",
+    "name": "Florian Daeschler",
+    "username": "stayflow",
+    "title": "FM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1739289103,
+    "joined": 1479839072,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 641,
+            "date": 1708522093,
+            "rd": 216
+        },
+        "record": {
+            "win": 0,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 35055,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1176,
+            "date": 1613755033,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2013,
+            "date": 1606324126,
+            "game": "https://www.chess.com/game/live/6234302416"
+        },
+        "record": {
+            "win": 3,
+            "loss": 21,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2228,
+            "date": 1609603060,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1609446603,
+            "game": "https://www.chess.com/game/live/3587984087"
+        },
+        "record": {
+            "win": 113,
+            "loss": 88,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2421,
+            "date": 1739291481,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1656454112,
+            "game": "https://www.chess.com/game/live/50188846343"
+        },
+        "record": {
+            "win": 895,
+            "loss": 655,
+            "draw": 129
+        }
+    },
+    "fide": 2305,
+    "tactics": {
+        "highest": {
+            "rating": 2293,
+            "date": 1610719091
+        },
+        "lowest": {
+            "rating": 2171,
+            "date": 1610718207
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

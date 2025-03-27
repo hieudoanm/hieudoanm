@@ -1,0 +1,103 @@
+{
+    "player_id": 44426692,
+    "@id": "https://api.chess.com/pub/player/iwkooo",
+    "url": "https://www.chess.com/member/IwkooO",
+    "name": "Iwo Godzwon",
+    "username": "iwkooo",
+    "title": "FM",
+    "followers": 72,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741684073,
+    "joined": 1521461063,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1959,
+            "date": 1604219310,
+            "rd": 147
+        },
+        "best": {
+            "rating": 1959,
+            "date": 1572681604,
+            "game": "https://www.chess.com/game/daily/238758996"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 7271,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2348,
+            "date": 1737662744,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2464,
+            "date": 1590435057,
+            "game": "https://www.chess.com/game/live/4906833120"
+        },
+        "record": {
+            "win": 19,
+            "loss": 5,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2753,
+            "date": 1740246297,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1713689904,
+            "game": "https://www.chess.com/game/live/107451287513"
+        },
+        "record": {
+            "win": 1883,
+            "loss": 1432,
+            "draw": 267
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2697,
+            "date": 1741684450,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2866,
+            "date": 1736376480,
+            "game": "https://www.chess.com/game/live/75321167667"
+        },
+        "record": {
+            "win": 4888,
+            "loss": 3902,
+            "draw": 1026
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3242,
+            "date": 1708534331
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1545597622
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

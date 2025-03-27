@@ -1,0 +1,129 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/58973556.43e11c10.200x200o.3190cba6a36b.jpeg",
+    "player_id": 58973556,
+    "@id": "https://api.chess.com/pub/player/sissahungrychess",
+    "url": "https://www.chess.com/member/sissahungrychess",
+    "name": "Raphael Nunez",
+    "username": "sissahungrychess",
+    "title": "NM",
+    "followers": 300,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Montreal",
+    "last_online": 1741622944,
+    "joined": 1553521609,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2160,
+            "date": 1738251206,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2228,
+            "date": 1597119150,
+            "game": "https://www.chess.com/game/daily/334911845"
+        },
+        "record": {
+            "win": 53,
+            "loss": 6,
+            "draw": 12,
+            "time_per_move": 22345,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2003,
+            "date": 1738251206,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1738251206,
+            "game": "https://www.chess.com/game/daily/762174121"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 22345,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2527,
+            "date": 1731983838,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1729382837,
+            "game": "https://www.chess.com/game/live/123031234477"
+        },
+        "record": {
+            "win": 35,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2400,
+            "date": 1741625045,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2588,
+            "date": 1649684408,
+            "game": "https://www.chess.com/game/live/34715986941"
+        },
+        "record": {
+            "win": 1980,
+            "loss": 1662,
+            "draw": 221
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2363,
+            "date": 1740522585,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2547,
+            "date": 1652665720,
+            "game": "https://www.chess.com/game/live/41875850333"
+        },
+        "record": {
+            "win": 2480,
+            "loss": 2059,
+            "draw": 354
+        }
+    },
+    "fide": 2291,
+    "tactics": {
+        "highest": {
+            "rating": 3727,
+            "date": 1706328299
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1554225601
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        },
+        "daily": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

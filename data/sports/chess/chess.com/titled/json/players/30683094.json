@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30683094.c1708ab3.200x200o.45cf80977f5f.jpg",
+    "player_id": 30683094,
+    "@id": "https://api.chess.com/pub/player/terrortoast",
+    "url": "https://www.chess.com/member/terrortoast",
+    "name": "Enis Zuferi",
+    "username": "terrortoast",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741637776,
+    "joined": 1477940902,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2208,
+            "date": 1608509974,
+            "rd": 343
+        },
+        "best": {
+            "rating": 2208,
+            "date": 1608509974,
+            "game": "https://www.chess.com/game/live/6017953217"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2560,
+            "date": 1721861942,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2693,
+            "date": 1716277295,
+            "game": "https://www.chess.com/game/live/110589119751"
+        },
+        "record": {
+            "win": 542,
+            "loss": 376,
+            "draw": 73
+        }
+    },
+    "fide": 2375,
+    "tactics": {
+        "highest": {
+            "rating": 3759,
+            "date": 1738582412
+        },
+        "lowest": {
+            "rating": 1556,
+            "date": 1477941711
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 52
+        }
+    }
+}

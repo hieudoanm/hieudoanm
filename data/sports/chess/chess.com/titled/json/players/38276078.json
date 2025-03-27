@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38276078.832a206f.200x200o.8d5623b8ffea.jpg",
+    "player_id": 38276078,
+    "@id": "https://api.chess.com/pub/player/matheusmdr2005",
+    "url": "https://www.chess.com/member/Matheusmdr2005",
+    "name": "Ribeiro Domingues Ribeiro",
+    "username": "matheusmdr2005",
+    "title": "CM",
+    "followers": 585,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1740520429,
+    "joined": 1504230699,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1510,
+            "date": 1734859732,
+            "rd": 140
+        },
+        "best": {
+            "rating": 1777,
+            "date": 1540146694,
+            "game": "https://www.chess.com/game/daily/276147326"
+        },
+        "record": {
+            "win": 22,
+            "loss": 26,
+            "draw": 1,
+            "time_per_move": 94079,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2234,
+            "date": 1728067521,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2332,
+            "date": 1606587587,
+            "game": "https://www.chess.com/game/live/8262847917"
+        },
+        "record": {
+            "win": 71,
+            "loss": 26,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2618,
+            "date": 1740493336,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2741,
+            "date": 1645222628,
+            "game": "https://www.chess.com/game/live/84504208323"
+        },
+        "record": {
+            "win": 8524,
+            "loss": 6794,
+            "draw": 1071
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2496,
+            "date": 1736263031,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1692979370,
+            "game": "https://www.chess.com/game/live/75438707721"
+        },
+        "record": {
+            "win": 8989,
+            "loss": 7227,
+            "draw": 1619
+        }
+    },
+    "fide": 2234,
+    "tactics": {
+        "highest": {
+            "rating": 3046,
+            "date": 1646605498
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1504233257
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

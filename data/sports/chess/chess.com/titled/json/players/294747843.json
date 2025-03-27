@@ -1,0 +1,66 @@
+{
+    "player_id": 294747843,
+    "@id": "https://api.chess.com/pub/player/neferpitou27",
+    "url": "https://www.chess.com/member/Neferpitou27",
+    "username": "neferpitou27",
+    "title": "GM",
+    "followers": 538,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741691569,
+    "joined": 1687210380,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2973,
+            "date": 1741522952,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2961,
+            "date": 1720010822,
+            "game": "https://www.chess.com/game/live/105732055995"
+        },
+        "record": {
+            "win": 78,
+            "loss": 44,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3041,
+            "date": 1741527011,
+            "rd": 32
+        },
+        "best": {
+            "rating": 3103,
+            "date": 1734259616,
+            "game": "https://www.chess.com/game/live/131312957479"
+        },
+        "record": {
+            "win": 663,
+            "loss": 559,
+            "draw": 157
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1687210380
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1687210380
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 79,
+            "score": 76
+        }
+    }
+}

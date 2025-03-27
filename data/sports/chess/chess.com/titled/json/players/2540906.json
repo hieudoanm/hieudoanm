@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2540906.06d74d52.200x200o.dbf8e6f10bd2.jpeg",
+    "player_id": 2540906,
+    "@id": "https://api.chess.com/pub/player/vitorbronson",
+    "url": "https://www.chess.com/member/VitorBronson",
+    "name": "Vitor Ferreira",
+    "username": "vitorbronson",
+    "title": "NM",
+    "followers": 86,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741145412,
+    "joined": 1265835805,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2265,
+            "date": 1730674907,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2265,
+            "date": 1730674907,
+            "game": "https://www.chess.com/game/live/124320580055"
+        },
+        "record": {
+            "win": 41,
+            "loss": 14,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2503,
+            "date": 1639777693,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1639777693,
+            "game": "https://www.chess.com/game/live/25303342917"
+        },
+        "record": {
+            "win": 215,
+            "loss": 212,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2603,
+            "date": 1741147705,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1741125930,
+            "game": "https://www.chess.com/game/live/61683681627"
+        },
+        "record": {
+            "win": 2046,
+            "loss": 2162,
+            "draw": 369
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1265835805
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1265835805
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

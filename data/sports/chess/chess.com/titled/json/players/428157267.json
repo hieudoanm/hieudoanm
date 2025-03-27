@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/428157267.fde716ae.200x200o.1b906be1809e.jpg",
+    "player_id": 428157267,
+    "@id": "https://api.chess.com/pub/player/literally_i_drive",
+    "url": "https://www.chess.com/member/Literally_I_Drive",
+    "name": "Vladyslav Khil",
+    "username": "literally_i_drive",
+    "title": "NM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Michigan",
+    "last_online": 1741695758,
+    "joined": 1739216134,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 821,
+            "date": 1741695805,
+            "rd": 304
+        },
+        "best": {
+            "rating": 821,
+            "date": 1741027054,
+            "game": "https://www.chess.com/game/daily/775978093"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 3244,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2021,
+            "date": 1741223743,
+            "rd": 49
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2726,
+            "date": 1741633468,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2512,
+            "date": 1741115836,
+            "game": "https://www.chess.com/game/live/134854747005"
+        },
+        "record": {
+            "win": 289,
+            "loss": 86,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2607,
+            "date": 1741628180,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2600,
+            "date": 1739728627,
+            "game": "https://www.chess.com/game/live/133151946257"
+        },
+        "record": {
+            "win": 187,
+            "loss": 99,
+            "draw": 34
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3425,
+            "date": 1740867128
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1739216134
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        },
+        "daily": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

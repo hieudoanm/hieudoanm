@@ -1,0 +1,32 @@
+{
+    "player_id": 76568072,
+    "@id": "https://api.chess.com/pub/player/oldturkishboy",
+    "url": "https://www.chess.com/member/OldTurkishBoy",
+    "name": "Can \u0130nce",
+    "username": "oldturkishboy",
+    "title": "NM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741386074,
+    "joined": 1586778526,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "tactics": {
+        "highest": {
+            "rating": 2591,
+            "date": 1588131615
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1587794643
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 33
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43168214.30568c09.200x200o.17194458465c.jpg",
+    "player_id": 43168214,
+    "@id": "https://api.chess.com/pub/player/vazabanga",
+    "url": "https://www.chess.com/member/Vazabanga",
+    "name": "Oleg Yaksin",
+    "username": "vazabanga",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741634895,
+    "joined": 1518192849,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2567,
+            "date": 1733697923,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2832,
+            "date": 1653953344,
+            "game": "https://www.chess.com/game/live/47569178581"
+        },
+        "record": {
+            "win": 5669,
+            "loss": 6441,
+            "draw": 782
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2731,
+            "date": 1741635261,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2779,
+            "date": 1737065054,
+            "game": "https://www.chess.com/game/live/109586480667"
+        },
+        "record": {
+            "win": 2424,
+            "loss": 2397,
+            "draw": 395
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3026,
+            "date": 1576662059
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1546021110
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 47
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9391960.c7595548.200x200o.68f864fe6c81.jpeg",
+    "player_id": 9391960,
+    "@id": "https://api.chess.com/pub/player/michkoo",
+    "url": "https://www.chess.com/member/michkoo",
+    "name": "Michel B&eacute;dos",
+    "username": "michkoo",
+    "title": "FM",
+    "followers": 296,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Torreilles",
+    "last_online": 1741542882,
+    "joined": 1351173830,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2157,
+            "date": 1741622250,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2343,
+            "date": 1723369506,
+            "game": "https://www.chess.com/game/live/117649247117"
+        },
+        "record": {
+            "win": 24987,
+            "loss": 19013,
+            "draw": 4838
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2355,
+            "date": 1644879059
+        },
+        "lowest": {
+            "rating": 1982,
+            "date": 1546059235
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,86 @@
+{
+    "player_id": 87080114,
+    "@id": "https://api.chess.com/pub/player/munduyungi",
+    "url": "https://www.chess.com/member/MunduYungi",
+    "name": "Gaspard Mashala",
+    "username": "munduyungi",
+    "title": "FM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/CD",
+    "location": "Lubumbashi",
+    "last_online": 1741000514,
+    "joined": 1595171956,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2262,
+            "date": 1740601906,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2246,
+            "date": 1740598990,
+            "game": "https://www.chess.com/game/live/108632354289"
+        },
+        "record": {
+            "win": 421,
+            "loss": 43,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1570,
+            "date": 1740311744,
+            "rd": 75
+        },
+        "best": {
+            "rating": 1658,
+            "date": 1729881224,
+            "game": "https://www.chess.com/game/live/106217865429"
+        },
+        "record": {
+            "win": 313,
+            "loss": 119,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2095,
+            "date": 1741007202,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1738685893,
+            "game": "https://www.chess.com/game/live/131214048347"
+        },
+        "record": {
+            "win": 1237,
+            "loss": 533,
+            "draw": 53
+        }
+    },
+    "fide": 1856,
+    "tactics": {
+        "highest": {
+            "rating": 3436,
+            "date": 1736700336
+        },
+        "lowest": {
+            "rating": 809,
+            "date": 1595233428
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 16,
+            "score": 15
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74007084.fd0ebc5d.200x200o.178c258e33a4.jpg",
+    "player_id": 74007084,
+    "@id": "https://api.chess.com/pub/player/theblindman1980",
+    "url": "https://www.chess.com/member/theblindman1980",
+    "name": "Diego Calens",
+    "username": "theblindman1980",
+    "title": "NM",
+    "followers": 74,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "Buenos Aires",
+    "last_online": 1741701946,
+    "joined": 1584756495,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2175,
+            "date": 1735768536,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1690341174,
+            "game": "https://www.chess.com/game/live/73191932485"
+        },
+        "record": {
+            "win": 114,
+            "loss": 65,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1872,
+            "date": 1741702617,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2143,
+            "date": 1731617748,
+            "game": "https://www.chess.com/game/live/125276354019"
+        },
+        "record": {
+            "win": 5928,
+            "loss": 5384,
+            "draw": 897
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2237,
+            "date": 1739914670,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2299,
+            "date": 1724942251,
+            "game": "https://www.chess.com/game/live/132429725191"
+        },
+        "record": {
+            "win": 2250,
+            "loss": 2084,
+            "draw": 562
+        }
+    },
+    "fide": 2007,
+    "tactics": {
+        "highest": {
+            "rating": 2884,
+            "date": 1740411307
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1612405633
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 40
+        }
+    }
+}

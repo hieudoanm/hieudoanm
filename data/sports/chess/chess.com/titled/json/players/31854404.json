@@ -1,0 +1,136 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31854404.5eeee996.200x200o.2080fd7b4b23.jpg",
+    "player_id": 31854404,
+    "@id": "https://api.chess.com/pub/player/sesleria",
+    "url": "https://www.chess.com/member/Sesleria",
+    "name": "James Marshall",
+    "username": "sesleria",
+    "title": "NM",
+    "followers": 143,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "GLEN ELLYN",
+    "last_online": 1740873105,
+    "joined": 1482619196,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1899,
+            "date": 1740270292,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1990,
+            "date": 1651772897,
+            "game": "https://www.chess.com/game/daily/224762066"
+        },
+        "record": {
+            "win": 971,
+            "loss": 515,
+            "draw": 91,
+            "time_per_move": 17394,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 32,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1817,
+            "date": 1739578217,
+            "rd": 94
+        },
+        "best": {
+            "rating": 1840,
+            "date": 1674167471,
+            "game": "https://www.chess.com/game/daily/420885131"
+        },
+        "record": {
+            "win": 82,
+            "loss": 21,
+            "draw": 12,
+            "time_per_move": 17394,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 32,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1995,
+            "date": 1629371322,
+            "rd": 247
+        },
+        "best": {
+            "rating": 1995,
+            "date": 1629371322,
+            "game": "https://www.chess.com/game/live/23109686537"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2031,
+            "date": 1741703339,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1604180022,
+            "game": "https://www.chess.com/game/live/16260858831"
+        },
+        "record": {
+            "win": 27716,
+            "loss": 21983,
+            "draw": 1195
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2150,
+            "date": 1741465086,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1711590634,
+            "game": "https://www.chess.com/game/live/5546627566"
+        },
+        "record": {
+            "win": 1967,
+            "loss": 1592,
+            "draw": 144
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3076,
+            "date": 1721015378
+        },
+        "lowest": {
+            "rating": 1259,
+            "date": 1482668378
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

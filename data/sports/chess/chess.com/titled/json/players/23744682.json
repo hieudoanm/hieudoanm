@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23744682.cec44043.200x200o.fabc5300d091.jpeg",
+    "player_id": 23744682,
+    "@id": "https://api.chess.com/pub/player/georgescu_tiberiu",
+    "url": "https://www.chess.com/member/Georgescu_Tiberiu",
+    "name": "Tiberiu-Marian Georgescu",
+    "username": "georgescu_tiberiu",
+    "title": "GM",
+    "followers": 239,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Bucharest",
+    "last_online": 1734135966,
+    "joined": 1440047529,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2219,
+            "date": 1711056706,
+            "rd": 210
+        },
+        "best": {
+            "rating": 2219,
+            "date": 1455143410,
+            "game": "https://www.chess.com/game/daily/121845296"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 80602,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2003,
+            "date": 1637442900,
+            "rd": 347
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1611252740,
+            "game": "https://www.chess.com/game/live/6303848451"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2755,
+            "date": 1716852241,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2755,
+            "date": 1716852241,
+            "game": "https://www.chess.com/game/live/110589128831"
+        },
+        "record": {
+            "win": 2316,
+            "loss": 2086,
+            "draw": 377
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2571,
+            "date": 1734136739,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1688411029,
+            "game": "https://www.chess.com/game/live/124934932553"
+        },
+        "record": {
+            "win": 1165,
+            "loss": 1001,
+            "draw": 240
+        }
+    },
+    "fide": 2505,
+    "tactics": {
+        "highest": {
+            "rating": 2590,
+            "date": 1667776948
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1440049292
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

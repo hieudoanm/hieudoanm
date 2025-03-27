@@ -1,0 +1,118 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/200683687.53ffdb1f.200x200o.978bb3aa43bc.jpg",
+    "player_id": 200683687,
+    "@id": "https://api.chess.com/pub/player/naaats888",
+    "url": "https://www.chess.com/member/naaats888",
+    "name": "Andrey Ubushiev",
+    "username": "naaats888",
+    "title": "CM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741627605,
+    "joined": 1665167032,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 911,
+            "date": 1741019820,
+            "rd": 85
+        },
+        "best": {
+            "rating": 1103,
+            "date": 1717058309,
+            "game": "https://www.chess.com/game/daily/643296789"
+        },
+        "record": {
+            "win": 13,
+            "loss": 17,
+            "draw": 3,
+            "time_per_move": 10505,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1330,
+            "date": 1731438392,
+            "rd": 281
+        },
+        "best": {
+            "rating": 1330,
+            "date": 1731438376,
+            "game": "https://www.chess.com/game/daily/724634231"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 10505,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2042,
+            "date": 1741019820
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2042,
+            "date": 1741019820,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2566,
+            "date": 1730144984,
+            "game": "https://www.chess.com/game/live/124006843813"
+        },
+        "record": {
+            "win": 461,
+            "loss": 502,
+            "draw": 43
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2250,
+            "date": 1741660219,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2418,
+            "date": 1736626334,
+            "game": "https://www.chess.com/game/live/93892254207"
+        },
+        "record": {
+            "win": 2604,
+            "loss": 2191,
+            "draw": 216
+        }
+    },
+    "fide": 2042,
+    "tactics": {
+        "highest": {
+            "rating": 3392,
+            "date": 1737047993
+        },
+        "lowest": {
+            "rating": 409,
+            "date": 1665402418
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 32
+        }
+    }
+}

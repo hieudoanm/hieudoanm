@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71585674.5026c7c1.200x200o.212578048d90.jpeg",
+    "player_id": 71585674,
+    "@id": "https://api.chess.com/pub/player/enriquack",
+    "url": "https://www.chess.com/member/Enriquack",
+    "name": "Enrique Fonseca Manrique",
+    "username": "enriquack",
+    "title": "NM",
+    "followers": 113,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741637413,
+    "joined": 1580576152,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2457,
+            "date": 1679339064,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1679324976,
+            "game": "https://www.chess.com/game/live/73071549089"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2551,
+            "date": 1739118065,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2632,
+            "date": 1604186782,
+            "game": "https://www.chess.com/game/live/81370865989"
+        },
+        "record": {
+            "win": 1406,
+            "loss": 1813,
+            "draw": 159
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2546,
+            "date": 1741640169,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2659,
+            "date": 1629568511,
+            "game": "https://www.chess.com/game/live/23301724175"
+        },
+        "record": {
+            "win": 4574,
+            "loss": 5404,
+            "draw": 636
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3108,
+            "date": 1657847667
+        },
+        "lowest": {
+            "rating": 1194,
+            "date": 1580580623
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

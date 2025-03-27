@@ -1,0 +1,103 @@
+{
+    "player_id": 5521083,
+    "@id": "https://api.chess.com/pub/player/marabu44",
+    "url": "https://www.chess.com/member/marabu44",
+    "username": "marabu44",
+    "title": "NM",
+    "followers": 63,
+    "country": "https://api.chess.com/pub/country/AD",
+    "last_online": 1741630253,
+    "joined": 1311913571,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1702992283,
+            "rd": 350
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1311913571,
+            "game": "https://www.chess.com/game/daily/51001209"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 224065,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2227,
+            "date": 1702337532,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2528,
+            "date": 1586114669,
+            "game": "https://www.chess.com/game/live/20961106485"
+        },
+        "record": {
+            "win": 71,
+            "loss": 23,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2316,
+            "date": 1707666293,
+            "rd": 191
+        },
+        "best": {
+            "rating": 2403,
+            "date": 1389202595,
+            "game": "https://www.chess.com/game/live/694138783"
+        },
+        "record": {
+            "win": 333,
+            "loss": 261,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2441,
+            "date": 1741633415,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2530,
+            "date": 1666621032,
+            "game": "https://www.chess.com/game/live/20539882147"
+        },
+        "record": {
+            "win": 6368,
+            "loss": 6480,
+            "draw": 1653
+        }
+    },
+    "fide": 2108,
+    "tactics": {
+        "highest": {
+            "rating": 3112,
+            "date": 1720078274
+        },
+        "lowest": {
+            "rating": 1429,
+            "date": 1311913622
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

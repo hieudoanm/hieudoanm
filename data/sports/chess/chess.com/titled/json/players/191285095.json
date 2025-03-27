@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/191285095.36c89c63.200x200o.1c80cdd2515d.jpeg",
+    "player_id": 191285095,
+    "@id": "https://api.chess.com/pub/player/particle-accelerator",
+    "url": "https://www.chess.com/member/Particle-Accelerator",
+    "username": "particle-accelerator",
+    "title": "GM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741597626,
+    "joined": 1658869474,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2920,
+            "date": 1731876895,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2924,
+            "date": 1731874588,
+            "game": "https://www.chess.com/game/live/125156940583"
+        },
+        "record": {
+            "win": 229,
+            "loss": 169,
+            "draw": 37
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3003,
+            "date": 1731773309,
+            "rd": 32
+        },
+        "best": {
+            "rating": 3003,
+            "date": 1731773309,
+            "game": "https://www.chess.com/game/live/125441292925"
+        },
+        "record": {
+            "win": 528,
+            "loss": 472,
+            "draw": 116
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2837,
+            "date": 1736326884
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1658954175
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 77,
+            "score": 74
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "player_id": 406416025,
+    "@id": "https://api.chess.com/pub/player/matilandi84",
+    "url": "https://www.chess.com/member/MatiLandi84",
+    "name": "Matias Landivar",
+    "username": "matilandi84",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "ENTRE RIOS",
+    "last_online": 1741639200,
+    "joined": 1733115598,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2168,
+            "date": 1741656668,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1734640741,
+            "game": "https://www.chess.com/game/live/134847559583"
+        },
+        "record": {
+            "win": 273,
+            "loss": 239,
+            "draw": 16
+        }
+    },
+    "fide": 2014,
+    "tactics": {
+        "highest": {
+            "rating": 3102,
+            "date": 1741443242
+        },
+        "lowest": {
+            "rating": 799,
+            "date": 1733345857
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

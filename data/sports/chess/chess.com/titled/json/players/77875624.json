@@ -1,0 +1,75 @@
+{
+    "player_id": 77875624,
+    "@id": "https://api.chess.com/pub/player/delpi2003",
+    "url": "https://www.chess.com/member/delpi2003",
+    "name": "Andrea Drei",
+    "username": "delpi2003",
+    "title": "FM",
+    "followers": 101,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741692564,
+    "joined": 1587920518,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1070,
+            "date": 1635783386,
+            "rd": 231
+        },
+        "best": {
+            "rating": 1346,
+            "date": 1611997355,
+            "game": "https://www.chess.com/game/live/6392993512"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 800,
+            "date": 1642210300,
+            "rd": 349
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2314,
+            "date": 1741693929,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1735916129,
+            "game": "https://www.chess.com/game/live/5593165905"
+        },
+        "record": {
+            "win": 8919,
+            "loss": 9193,
+            "draw": 1374
+        }
+    },
+    "fide": 2259,
+    "tactics": {
+        "highest": {
+            "rating": 431,
+            "date": 1628166685
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1589982889
+        }
+    },
+    "puzzle_rush": {}
+}

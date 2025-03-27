@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37901772.a9d87e85.200x200o.57e22a7029fc.jpg",
+    "player_id": 37901772,
+    "@id": "https://api.chess.com/pub/player/cambek64",
+    "url": "https://www.chess.com/member/Cambek64",
+    "name": "Grigory Seletsky",
+    "username": "cambek64",
+    "title": "FM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741627174,
+    "joined": 1503006936,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2316,
+            "date": 1723909318,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2316,
+            "date": 1723909318,
+            "game": "https://www.chess.com/game/live/113872825203"
+        },
+        "record": {
+            "win": 51,
+            "loss": 13,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2340,
+            "date": 1723909736,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1723909736,
+            "game": "https://www.chess.com/game/live/45355250809"
+        },
+        "record": {
+            "win": 790,
+            "loss": 587,
+            "draw": 61
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2480,
+            "date": 1741023212,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2568,
+            "date": 1664996040,
+            "game": "https://www.chess.com/game/live/88269702369"
+        },
+        "record": {
+            "win": 5508,
+            "loss": 4492,
+            "draw": 1061
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3523,
+            "date": 1725296229
+        },
+        "lowest": {
+            "rating": 2216,
+            "date": 1590606997
+        }
+    },
+    "puzzle_rush": {}
+}

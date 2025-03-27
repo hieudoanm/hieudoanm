@@ -1,0 +1,80 @@
+{
+    "player_id": 215270439,
+    "@id": "https://api.chess.com/pub/player/gurudub",
+    "url": "https://www.chess.com/member/gurudub",
+    "name": "Ganesh Manugappan",
+    "username": "gurudub",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741495792,
+    "joined": 1671652841,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2143,
+            "date": 1709061686,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2329,
+            "date": 1673563419,
+            "game": "https://www.chess.com/game/live/96937880009"
+        },
+        "record": {
+            "win": 54,
+            "loss": 43,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2043,
+            "date": 1741499079,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2321,
+            "date": 1700273625,
+            "game": "https://www.chess.com/game/live/86811014061"
+        },
+        "record": {
+            "win": 944,
+            "loss": 816,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2076,
+            "date": 1740538855,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1721616623,
+            "game": "https://www.chess.com/game/live/100995803423"
+        },
+        "record": {
+            "win": 362,
+            "loss": 292,
+            "draw": 37
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3448,
+            "date": 1721696577
+        },
+        "lowest": {
+            "rating": 3233,
+            "date": 1682619512
+        }
+    },
+    "puzzle_rush": {}
+}

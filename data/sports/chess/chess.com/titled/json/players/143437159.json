@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/143437159.b3f384dd.200x200o.81774f34cfc2.jpeg",
+    "player_id": 143437159,
+    "@id": "https://api.chess.com/pub/player/teba49",
+    "url": "https://www.chess.com/member/Teba49",
+    "name": "Esteban Murillo",
+    "username": "teba49",
+    "title": "FM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/CR",
+    "last_online": 1741336132,
+    "joined": 1622969284,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2239,
+            "date": 1741441145,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2431,
+            "date": 1651707480,
+            "game": "https://www.chess.com/game/live/38430872225"
+        },
+        "record": {
+            "win": 552,
+            "loss": 370,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2085,
+            "date": 1740760119,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1636878874,
+            "game": "https://www.chess.com/game/live/30320911963"
+        },
+        "record": {
+            "win": 392,
+            "loss": 294,
+            "draw": 37
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 452,
+            "date": 1680220443
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1637205175
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

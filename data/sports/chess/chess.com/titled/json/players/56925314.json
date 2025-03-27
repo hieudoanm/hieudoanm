@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56925314.9ee9302a.200x200o.138de23af1e3.jpeg",
+    "player_id": 56925314,
+    "@id": "https://api.chess.com/pub/player/vaibhavraut99",
+    "url": "https://www.chess.com/member/Vaibhavraut99",
+    "name": "Vaibhav Raut",
+    "username": "vaibhavraut99",
+    "title": "CM",
+    "followers": 448,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741697872,
+    "joined": 1549281402,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2203,
+            "date": 1734024431,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2352,
+            "date": 1610531308,
+            "game": "https://www.chess.com/game/live/6184852604"
+        },
+        "record": {
+            "win": 17,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2783,
+            "date": 1734691881,
+            "rd": 32
+        },
+        "best": {
+            "rating": 3033,
+            "date": 1617533668,
+            "game": "https://www.chess.com/game/live/14315798741"
+        },
+        "record": {
+            "win": 6168,
+            "loss": 4956,
+            "draw": 638
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1739289983,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2854,
+            "date": 1628305551,
+            "game": "https://www.chess.com/game/live/60934772475"
+        },
+        "record": {
+            "win": 1872,
+            "loss": 1851,
+            "draw": 375
+        }
+    },
+    "fide": 2327,
+    "tactics": {
+        "highest": {
+            "rating": 3529,
+            "date": 1693542413
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1549533194
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 90,
+            "score": 87
+        }
+    }
+}

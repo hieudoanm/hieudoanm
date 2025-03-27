@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1904931.5f6a0a8c.200x200o.00a43557b2eb.jpg",
+    "player_id": 1904931,
+    "@id": "https://api.chess.com/pub/player/tiltfishnr1",
+    "url": "https://www.chess.com/member/TiltFishNr1",
+    "name": "John Arni Nilssen",
+    "username": "tiltfishnr1",
+    "title": "IM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/KY",
+    "location": "C I",
+    "last_online": 1741369971,
+    "joined": 1241527111,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2035,
+            "date": 1701971685,
+            "rd": 239
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1352296671,
+            "game": "https://www.chess.com/game/daily/27751764"
+        },
+        "record": {
+            "win": 11,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 49976,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2385,
+            "date": 1731193420,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2497,
+            "date": 1729890685,
+            "game": "https://www.chess.com/game/live/124151385125"
+        },
+        "record": {
+            "win": 459,
+            "loss": 257,
+            "draw": 44
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2420,
+            "date": 1736283686,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1690130408,
+            "game": "https://www.chess.com/game/live/3463963620"
+        },
+        "record": {
+            "win": 3222,
+            "loss": 2707,
+            "draw": 394
+        }
+    },
+    "fide": 2501,
+    "tactics": {
+        "highest": {
+            "rating": 2256,
+            "date": 1674277683
+        },
+        "lowest": {
+            "rating": 1388,
+            "date": 1349287930
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

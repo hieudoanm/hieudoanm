@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/204653705.f2b5adf9.200x200o.99f2b4a9727b.jpg",
+    "player_id": 204653705,
+    "@id": "https://api.chess.com/pub/player/tomboov247",
+    "url": "https://www.chess.com/member/Tomboov247",
+    "username": "tomboov247",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1741683353,
+    "joined": 1667532027,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2016,
+            "date": 1741685629,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2237,
+            "date": 1701054031,
+            "game": "https://www.chess.com/game/live/91504191703"
+        },
+        "record": {
+            "win": 970,
+            "loss": 813,
+            "draw": 228
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1673,
+            "date": 1734057400,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1860,
+            "date": 1696206684,
+            "game": "https://www.chess.com/game/live/89945385571"
+        },
+        "record": {
+            "win": 18,
+            "loss": 20,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1716,
+            "date": 1735731060,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2034,
+            "date": 1691679323,
+            "game": "https://www.chess.com/game/live/67912940063"
+        },
+        "record": {
+            "win": 299,
+            "loss": 285,
+            "draw": 49
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2864,
+            "date": 1731711946
+        },
+        "lowest": {
+            "rating": 2011,
+            "date": 1668826562
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

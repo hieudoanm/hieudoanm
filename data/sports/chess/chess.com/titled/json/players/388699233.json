@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/388699233.1dde1f13.200x200o.5c7a57ba10b9.jpg",
+    "player_id": 388699233,
+    "@id": "https://api.chess.com/pub/player/albadelomass",
+    "url": "https://www.chess.com/member/albadelomass",
+    "name": "Alba De Lomas Busquets",
+    "username": "albadelomass",
+    "title": "WCM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741693233,
+    "joined": 1726422737,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 398,
+            "date": 1739985024,
+            "rd": 347
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 11054,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2008,
+            "date": 1741288790,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2032,
+            "date": 1739268549,
+            "game": "https://www.chess.com/game/live/131803837767"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2452,
+            "date": 1741637545,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2461,
+            "date": 1739749305,
+            "game": "https://www.chess.com/game/live/132758993553"
+        },
+        "record": {
+            "win": 1285,
+            "loss": 1064,
+            "draw": 162
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2322,
+            "date": 1741644343,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1738176903,
+            "game": "https://www.chess.com/game/live/120953418165"
+        },
+        "record": {
+            "win": 346,
+            "loss": 330,
+            "draw": 72
+        }
+    },
+    "fide": 2026,
+    "tactics": {
+        "highest": {
+            "rating": 3229,
+            "date": 1738407673
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1726422737
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        },
+        "daily": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

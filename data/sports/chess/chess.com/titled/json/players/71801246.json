@@ -1,0 +1,79 @@
+{
+    "player_id": 71801246,
+    "@id": "https://api.chess.com/pub/player/botvinnak",
+    "url": "https://www.chess.com/member/Botvinnak",
+    "name": "Emma",
+    "username": "botvinnak",
+    "title": "WIM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1713724385,
+    "joined": 1580992996,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1295,
+            "date": 1687804970,
+            "rd": 276
+        },
+        "record": {
+            "win": 0,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2282,
+            "date": 1696173059,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2458,
+            "date": 1685640743,
+            "game": "https://www.chess.com/game/live/83005915137"
+        },
+        "record": {
+            "win": 2601,
+            "loss": 2224,
+            "draw": 156
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2360,
+            "date": 1697814782,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1696439462,
+            "game": "https://www.chess.com/game/live/82243928819"
+        },
+        "record": {
+            "win": 281,
+            "loss": 198,
+            "draw": 32
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3533,
+            "date": 1696657853
+        },
+        "lowest": {
+            "rating": 793,
+            "date": 1581008751
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

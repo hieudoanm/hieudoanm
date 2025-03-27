@@ -1,0 +1,84 @@
+{
+    "player_id": 23789696,
+    "@id": "https://api.chess.com/pub/player/bafmas",
+    "url": "https://www.chess.com/member/bafmas",
+    "name": "Malcolm Stephens",
+    "username": "bafmas",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/AU",
+    "last_online": 1740729407,
+    "joined": 1440324642,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2246,
+            "date": 1715398062,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2327,
+            "date": 1651274149,
+            "game": "https://www.chess.com/game/live/87358835439"
+        },
+        "record": {
+            "win": 104,
+            "loss": 60,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2036,
+            "date": 1741078933,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2274,
+            "date": 1675156222,
+            "game": "https://www.chess.com/game/live/68895811379"
+        },
+        "record": {
+            "win": 444,
+            "loss": 344,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2228,
+            "date": 1741682605,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1686653334,
+            "game": "https://www.chess.com/game/live/49192150163"
+        },
+        "record": {
+            "win": 1247,
+            "loss": 912,
+            "draw": 202
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2988,
+            "date": 1739785167
+        },
+        "lowest": {
+            "rating": 1933,
+            "date": 1440324744
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

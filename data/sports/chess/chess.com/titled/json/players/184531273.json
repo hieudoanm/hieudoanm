@@ -1,0 +1,45 @@
+{
+    "player_id": 184531273,
+    "@id": "https://api.chess.com/pub/player/armgdnn",
+    "url": "https://www.chess.com/member/Armgdnn",
+    "name": "Renee Blandy T. Brambilla",
+    "username": "armgdnn",
+    "title": "WNM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741529361,
+    "joined": 1653240629,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 1446,
+            "date": 1740776668,
+            "rd": 36
+        },
+        "best": {
+            "rating": 1688,
+            "date": 1738965539,
+            "game": "https://www.chess.com/game/live/132703818369"
+        },
+        "record": {
+            "win": 104,
+            "loss": 96,
+            "draw": 8
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1705,
+            "date": 1739921739
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1653240629
+        }
+    },
+    "puzzle_rush": {}
+}

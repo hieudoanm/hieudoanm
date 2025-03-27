@@ -1,0 +1,44 @@
+{
+    "player_id": 297822841,
+    "@id": "https://api.chess.com/pub/player/kidstandingattheboard",
+    "url": "https://www.chess.com/member/KidStandingattheBoard",
+    "username": "kidstandingattheboard",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1713171929,
+    "joined": 1688479212,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2518,
+            "date": 1707835643,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2564,
+            "date": 1705789274,
+            "game": "https://www.chess.com/game/live/99528095163"
+        },
+        "record": {
+            "win": 14,
+            "loss": 11,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1688479212
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1688479212
+        }
+    },
+    "puzzle_rush": {}
+}

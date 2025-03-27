@@ -1,0 +1,62 @@
+{
+    "player_id": 197650193,
+    "@id": "https://api.chess.com/pub/player/nomyas41",
+    "url": "https://www.chess.com/member/nomyas41",
+    "username": "nomyas41",
+    "title": "IM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/GR",
+    "last_online": 1680698255,
+    "joined": 1663429521,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2492,
+            "date": 1666561632,
+            "rd": 278
+        },
+        "best": {
+            "rating": 2492,
+            "date": 1666561632,
+            "game": "https://www.chess.com/game/live/60300633925"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2625,
+            "date": 1675178018,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2650,
+            "date": 1675176750,
+            "game": "https://www.chess.com/game/live/68912701455"
+        },
+        "record": {
+            "win": 14,
+            "loss": 7,
+            "draw": 0
+        }
+    },
+    "fide": 2415,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1663429521
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1663429521
+        }
+    },
+    "puzzle_rush": {}
+}

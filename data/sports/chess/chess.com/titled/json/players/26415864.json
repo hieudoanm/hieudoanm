@@ -1,0 +1,103 @@
+{
+    "player_id": 26415864,
+    "@id": "https://api.chess.com/pub/player/blank0923",
+    "url": "https://www.chess.com/member/blank0923",
+    "name": "Justin Chen",
+    "username": "blank0923",
+    "title": "FM",
+    "followers": 122,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741666699,
+    "joined": 1454120773,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2008,
+            "date": 1739698125,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2048,
+            "date": 1687918584,
+            "game": "https://www.chess.com/game/daily/528440807"
+        },
+        "record": {
+            "win": 117,
+            "loss": 15,
+            "draw": 9,
+            "time_per_move": 32165,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2478,
+            "date": 1739215893,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1607207237,
+            "game": "https://www.chess.com/game/live/5850502222"
+        },
+        "record": {
+            "win": 269,
+            "loss": 48,
+            "draw": 42
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2856,
+            "date": 1740864243,
+            "rd": 43
+        },
+        "best": {
+            "rating": 3007,
+            "date": 1660523256,
+            "game": "https://www.chess.com/game/live/52025418969"
+        },
+        "record": {
+            "win": 6150,
+            "loss": 2440,
+            "draw": 487
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2720,
+            "date": 1740879479,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2860,
+            "date": 1714326581,
+            "game": "https://www.chess.com/game/live/62527218595"
+        },
+        "record": {
+            "win": 3615,
+            "loss": 1987,
+            "draw": 491
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3866,
+            "date": 1711906207
+        },
+        "lowest": {
+            "rating": 1353,
+            "date": 1473208275
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29574626.08d59f37.200x200o.cf06f3ba73db.png",
+    "player_id": 29574626,
+    "@id": "https://api.chess.com/pub/player/agw2016",
+    "url": "https://www.chess.com/member/AGW2016",
+    "name": "Terry Luo",
+    "username": "agw2016",
+    "title": "IM",
+    "followers": 325,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741647174,
+    "joined": 1471788521,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1675,
+            "date": 1738431549,
+            "rd": 105
+        },
+        "best": {
+            "rating": 1987,
+            "date": 1579327810,
+            "game": "https://www.chess.com/game/daily/244856744"
+        },
+        "record": {
+            "win": 398,
+            "loss": 135,
+            "draw": 48,
+            "time_per_move": 28009,
+            "timeout_percent": 5
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1535,
+            "date": 1611241362,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1777,
+            "date": 1560996390,
+            "game": "https://www.chess.com/game/daily/211274996"
+        },
+        "record": {
+            "win": 22,
+            "loss": 10,
+            "draw": 2,
+            "time_per_move": 28009,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2365,
+            "date": 1725502087,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1712949915,
+            "game": "https://www.chess.com/game/live/51888087677"
+        },
+        "record": {
+            "win": 184,
+            "loss": 79,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2732,
+            "date": 1741576770,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2911,
+            "date": 1737679534,
+            "game": "https://www.chess.com/game/live/123109184467"
+        },
+        "record": {
+            "win": 6165,
+            "loss": 4859,
+            "draw": 773
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2714,
+            "date": 1741404279,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1732847545,
+            "game": "https://www.chess.com/game/live/131214679017"
+        },
+        "record": {
+            "win": 7416,
+            "loss": 6207,
+            "draw": 1268
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3451,
+            "date": 1717381242
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1472426725
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

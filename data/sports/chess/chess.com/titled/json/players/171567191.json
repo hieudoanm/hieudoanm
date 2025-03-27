@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/171567191.c54ae08c.200x200o.8be0ef6e924d.jpg",
+    "player_id": 171567191,
+    "@id": "https://api.chess.com/pub/player/aquarium76",
+    "url": "https://www.chess.com/member/aquarium76",
+    "name": "Nodirbek Yakubboev",
+    "username": "aquarium76",
+    "title": "GM",
+    "followers": 63,
+    "country": "https://api.chess.com/pub/country/UZ",
+    "last_online": 1733903934,
+    "joined": 1643984926,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2657,
+            "date": 1727538972,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2784,
+            "date": 1675787916,
+            "game": "https://www.chess.com/game/live/121189862399"
+        },
+        "record": {
+            "win": 45,
+            "loss": 30,
+            "draw": 43
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2774,
+            "date": 1722065993,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2883,
+            "date": 1672677856,
+            "game": "https://www.chess.com/game/live/114239971895"
+        },
+        "record": {
+            "win": 39,
+            "loss": 13,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2962,
+            "date": 1724264769,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3020,
+            "date": 1720538311,
+            "game": "https://www.chess.com/game/live/113384348465"
+        },
+        "record": {
+            "win": 159,
+            "loss": 84,
+            "draw": 27
+        }
+    },
+    "fide": 2665,
+    "tactics": {
+        "highest": {
+            "rating": 3039,
+            "date": 1703863434
+        },
+        "lowest": {
+            "rating": 2400,
+            "date": 1663609705
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 77,
+            "score": 74
+        }
+    }
+}

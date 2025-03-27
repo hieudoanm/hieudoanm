@@ -1,0 +1,80 @@
+{
+    "player_id": 108361598,
+    "@id": "https://api.chess.com/pub/player/miguelho67",
+    "url": "https://www.chess.com/member/miguelho67",
+    "name": "Miguel Herrera",
+    "username": "miguelho67",
+    "title": "IM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "Ciudad de Mexico",
+    "last_online": 1741488316,
+    "joined": 1609347461,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2317,
+            "date": 1677128834,
+            "rd": 191
+        },
+        "best": {
+            "rating": 2317,
+            "date": 1677128834,
+            "game": "https://www.chess.com/game/live/70866791557"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2462,
+            "date": 1741055750,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2575,
+            "date": 1648611168,
+            "game": "https://www.chess.com/game/live/60928729643"
+        },
+        "record": {
+            "win": 518,
+            "loss": 407,
+            "draw": 43
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2603,
+            "date": 1741494709,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2701,
+            "date": 1738207475,
+            "game": "https://www.chess.com/game/live/65085659441"
+        },
+        "record": {
+            "win": 3993,
+            "loss": 2864,
+            "draw": 728
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1609347461
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1609347461
+        }
+    },
+    "puzzle_rush": {}
+}

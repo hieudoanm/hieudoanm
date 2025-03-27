@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28243446.686bc5d0.200x200o.565495623437.jpg",
+    "player_id": 28243446,
+    "@id": "https://api.chess.com/pub/player/bilelou",
+    "url": "https://www.chess.com/member/bilelou",
+    "name": "Bilel Bellahcene",
+    "username": "bilelou",
+    "title": "GM",
+    "followers": 817,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Strasbourg",
+    "last_online": 1734179730,
+    "joined": 1463576323,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2531,
+            "date": 1728507369,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1725704885,
+            "game": "https://www.chess.com/game/live/90178793619"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2610,
+            "date": 1734180552,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2764,
+            "date": 1704756356,
+            "game": "https://www.chess.com/game/live/74899846695"
+        },
+        "record": {
+            "win": 413,
+            "loss": 242,
+            "draw": 52
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2591,
+            "date": 1734049655,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2769,
+            "date": 1707313515,
+            "game": "https://www.chess.com/game/live/101002939957"
+        },
+        "record": {
+            "win": 1252,
+            "loss": 864,
+            "draw": 179
+        }
+    },
+    "fide": 2495,
+    "tactics": {
+        "highest": {
+            "rating": 3514,
+            "date": 1724430937
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1532802732
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

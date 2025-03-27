@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57721396.a8d3ef5d.200x200o.399bd8399155.png",
+    "player_id": 57721396,
+    "@id": "https://api.chess.com/pub/player/gmedina2000",
+    "url": "https://www.chess.com/member/GMedina2000",
+    "name": "Rafael Alejandro Medina Diaz",
+    "username": "gmedina2000",
+    "title": "FM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "Cuba",
+    "last_online": 1679623603,
+    "joined": 1550943129,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2408,
+            "date": 1623303453,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2413,
+            "date": 1622466135,
+            "game": "https://www.chess.com/game/live/17041405625"
+        },
+        "record": {
+            "win": 62,
+            "loss": 48,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1945,
+            "date": 1660691981,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1562535411,
+            "game": "https://www.chess.com/game/live/3846579813"
+        },
+        "record": {
+            "win": 71,
+            "loss": 56,
+            "draw": 8
+        }
+    },
+    "fide": 2369,
+    "tactics": {
+        "highest": {
+            "rating": 1380,
+            "date": 1562604254
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1562603957
+        }
+    },
+    "puzzle_rush": {}
+}

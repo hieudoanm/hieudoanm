@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6740915.eb089feb.200x200o.85560fec6089.jpeg",
+    "player_id": 6740915,
+    "@id": "https://api.chess.com/pub/player/merryram",
+    "url": "https://www.chess.com/member/MerryRam",
+    "name": "Maria Jose Ramirez Gonzalez",
+    "username": "merryram",
+    "title": "WFM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/CR",
+    "last_online": 1741548321,
+    "joined": 1329963672,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1698697186,
+            "rd": 350
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1329963672,
+            "game": "https://www.chess.com/game/daily/58701310"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 21980,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1935,
+            "date": 1741409458,
+            "rd": 204
+        },
+        "best": {
+            "rating": 1935,
+            "date": 1730867870,
+            "game": "https://www.chess.com/game/live/124606708903"
+        },
+        "record": {
+            "win": 12,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1652,
+            "date": 1741548896,
+            "rd": 49
+        },
+        "best": {
+            "rating": 1862,
+            "date": 1579159183,
+            "game": "https://www.chess.com/game/live/5517385272"
+        },
+        "record": {
+            "win": 212,
+            "loss": 214,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1928,
+            "date": 1739902097,
+            "rd": 162
+        },
+        "best": {
+            "rating": 1928,
+            "date": 1739902097,
+            "game": "https://www.chess.com/game/live/133636760647"
+        },
+        "record": {
+            "win": 380,
+            "loss": 330,
+            "draw": 17
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2861,
+            "date": 1741400670
+        },
+        "lowest": {
+            "rating": 1036,
+            "date": 1348205485
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 33
+        }
+    }
+}

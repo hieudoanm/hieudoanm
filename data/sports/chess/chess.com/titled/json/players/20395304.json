@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20395304.52a338d2.200x200o.3bedb7deea21.jpeg",
+    "player_id": 20395304,
+    "@id": "https://api.chess.com/pub/player/birdsopening",
+    "url": "https://www.chess.com/member/birdsopening",
+    "name": "Joseph Han",
+    "username": "birdsopening",
+    "title": "NM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1740576993,
+    "joined": 1419892329,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1957,
+            "date": 1710444857,
+            "rd": 159
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1419892329,
+            "game": "https://www.chess.com/game/daily/211121070"
+        },
+        "record": {
+            "win": 30,
+            "loss": 5,
+            "draw": 2,
+            "time_per_move": 22103,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2276,
+            "date": 1632099473,
+            "rd": 261
+        },
+        "best": {
+            "rating": 2276,
+            "date": 1632099473,
+            "game": "https://www.chess.com/game/live/25837748867"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2354,
+            "date": 1689171393,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2590,
+            "date": 1685664332,
+            "game": "https://www.chess.com/game/live/3955025420"
+        },
+        "record": {
+            "win": 3543,
+            "loss": 2667,
+            "draw": 270
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2269,
+            "date": 1693072629,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2409,
+            "date": 1551978275,
+            "game": "https://www.chess.com/game/live/3515584981"
+        },
+        "record": {
+            "win": 1472,
+            "loss": 1139,
+            "draw": 181
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2499,
+            "date": 1675360513
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1531121247
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

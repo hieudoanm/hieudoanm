@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/103733296.4c66919b.200x200o.bdddf1c926c0.jpeg",
+    "player_id": 103733296,
+    "@id": "https://api.chess.com/pub/player/blue_ratatoeskr",
+    "url": "https://www.chess.com/member/Blue_Ratatoeskr",
+    "name": "Welf Aumann",
+    "username": "blue_ratatoeskr",
+    "title": "FM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741701987,
+    "joined": 1607766403,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2304,
+            "date": 1738949582,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2363,
+            "date": 1638051203,
+            "game": "https://www.chess.com/game/live/31874465123"
+        },
+        "record": {
+            "win": 1518,
+            "loss": 1683,
+            "draw": 98
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2517,
+            "date": 1739727703
+        },
+        "best": {
+            "rating": 2538,
+            "date": 1608838494,
+            "game": "https://www.chess.com/game/live/62453922923"
+        },
+        "record": {
+            "win": 7384,
+            "loss": 8105,
+            "draw": 671
+        }
+    },
+    "fide": 2316,
+    "tactics": {
+        "highest": {
+            "rating": 3484,
+            "date": 1693208067
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1608364805
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

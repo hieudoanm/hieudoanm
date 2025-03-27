@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35984306.95f4af73.200x200o.871cb99b4dd4.jpeg",
+    "player_id": 35984306,
+    "@id": "https://api.chess.com/pub/player/chess_coach_2024",
+    "url": "https://www.chess.com/member/Chess_Coach_2024",
+    "name": "Oleg Orlov",
+    "username": "chess_coach_2024",
+    "title": "FM",
+    "followers": 99,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Saint-Petersburg, Russia",
+    "last_online": 1741441097,
+    "joined": 1496334097,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 886,
+            "date": 1731317330,
+            "rd": 260
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1691733750,
+            "game": "https://www.chess.com/game/daily/540152379"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 118419,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2017,
+            "date": 1706982453,
+            "rd": 337
+        },
+        "best": {
+            "rating": 2017,
+            "date": 1706982453,
+            "game": "https://www.chess.com/game/daily/595944379"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 118419,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2379,
+            "date": 1741441005,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1690816650,
+            "game": "https://www.chess.com/game/live/29010616249"
+        },
+        "record": {
+            "win": 181,
+            "loss": 104,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2612,
+            "date": 1741439662,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2840,
+            "date": 1645122275,
+            "game": "https://www.chess.com/game/live/38862664869"
+        },
+        "record": {
+            "win": 568,
+            "loss": 435,
+            "draw": 69
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2582,
+            "date": 1741439951,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2649,
+            "date": 1653045961,
+            "game": "https://www.chess.com/game/live/87668531149"
+        },
+        "record": {
+            "win": 208,
+            "loss": 138,
+            "draw": 28
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3257,
+            "date": 1654253331
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1496339184
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

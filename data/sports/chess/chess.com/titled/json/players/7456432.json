@@ -1,0 +1,104 @@
+{
+    "player_id": 7456432,
+    "@id": "https://api.chess.com/pub/player/cabila",
+    "url": "https://www.chess.com/member/CABILA",
+    "name": "S\u00e9rgio Miguel",
+    "username": "cabila",
+    "title": "FM",
+    "followers": 162,
+    "country": "https://api.chess.com/pub/country/AO",
+    "location": "Cazenga, Luanda, Angola",
+    "last_online": 1741619428,
+    "joined": 1335879689,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2110,
+            "date": 1741546199,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2110,
+            "date": 1736667367,
+            "game": "https://www.chess.com/game/daily/92710804"
+        },
+        "record": {
+            "win": 73,
+            "loss": 43,
+            "draw": 9,
+            "time_per_move": 43903,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2410,
+            "date": 1741034328,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1686763010,
+            "game": "https://www.chess.com/game/live/110656330551"
+        },
+        "record": {
+            "win": 187,
+            "loss": 133,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2410,
+            "date": 1730567578,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2514,
+            "date": 1601434533,
+            "game": "https://www.chess.com/game/live/5600189880"
+        },
+        "record": {
+            "win": 73,
+            "loss": 69,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2365,
+            "date": 1740686103,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1696028869,
+            "game": "https://www.chess.com/game/live/110495572349"
+        },
+        "record": {
+            "win": 889,
+            "loss": 818,
+            "draw": 72
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3590,
+            "date": 1724439152
+        },
+        "lowest": {
+            "rating": 1376,
+            "date": 1391415035
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

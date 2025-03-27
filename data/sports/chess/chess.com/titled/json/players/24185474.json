@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24185474.737dba2a.200x200o.ed3482e89523.jpeg",
+    "player_id": 24185474,
+    "@id": "https://api.chess.com/pub/player/yobdc",
+    "url": "https://www.chess.com/member/yobdc",
+    "name": "Yang, Kaiqi",
+    "username": "yobdc",
+    "title": "GM",
+    "followers": 453,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741703411,
+    "joined": 1442670717,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2128,
+            "date": 1728894515,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2145,
+            "date": 1616189492,
+            "game": "https://www.chess.com/game/daily/318706534"
+        },
+        "record": {
+            "win": 56,
+            "loss": 6,
+            "draw": 0,
+            "time_per_move": 23652,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2272,
+            "date": 1741308696,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2396,
+            "date": 1580685266,
+            "game": "https://www.chess.com/game/live/108924684615"
+        },
+        "record": {
+            "win": 218,
+            "loss": 103,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2709,
+            "date": 1741112307,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2755,
+            "date": 1724195915,
+            "game": "https://www.chess.com/game/live/118858866165"
+        },
+        "record": {
+            "win": 800,
+            "loss": 655,
+            "draw": 97
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2608,
+            "date": 1741221624,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1620752689,
+            "game": "https://www.chess.com/game/live/112483266603"
+        },
+        "record": {
+            "win": 1388,
+            "loss": 790,
+            "draw": 176
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2988,
+            "date": 1637794278
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1635884398
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 51
+        }
+    }
+}

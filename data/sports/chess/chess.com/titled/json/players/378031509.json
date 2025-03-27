@@ -1,0 +1,63 @@
+{
+    "player_id": 378031509,
+    "@id": "https://api.chess.com/pub/player/mr-uteligger",
+    "url": "https://www.chess.com/member/Mr-Uteligger",
+    "name": "Martin Holten Fiskaaen",
+    "username": "mr-uteligger",
+    "title": "CM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/GH",
+    "last_online": 1741103575,
+    "joined": 1722264577,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2235,
+            "date": 1734792898,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2264,
+            "date": 1726048416,
+            "game": "https://www.chess.com/game/live/119787023689"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2426,
+            "date": 1741111004,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1729616454,
+            "game": "https://www.chess.com/game/live/123349780263"
+        },
+        "record": {
+            "win": 69,
+            "loss": 67,
+            "draw": 10
+        }
+    },
+    "fide": 2264,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1722264577
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1722264577
+        }
+    },
+    "puzzle_rush": {}
+}

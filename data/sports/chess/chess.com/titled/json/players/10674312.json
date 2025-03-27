@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10674312.a918c413.200x200o.94fa683f3237.jpg",
+    "player_id": 10674312,
+    "@id": "https://api.chess.com/pub/player/gmvladko",
+    "url": "https://www.chess.com/member/gmvladko",
+    "name": "Vladimir Georgiev",
+    "username": "gmvladko",
+    "title": "GM",
+    "followers": 341,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Venice",
+    "last_online": 1733924813,
+    "joined": 1359833540,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1562,
+            "date": 1717392572,
+            "rd": 330
+        },
+        "best": {
+            "rating": 2341,
+            "date": 1682554126,
+            "game": "https://www.chess.com/game/daily/101945266"
+        },
+        "record": {
+            "win": 7,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 51650,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2506,
+            "date": 1730993660,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2636,
+            "date": 1567194337,
+            "game": "https://www.chess.com/game/live/3991843375"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1933,
+            "date": 1726177932,
+            "rd": 211
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1359964800,
+            "game": "https://www.chess.com/game/live/4646191838"
+        },
+        "record": {
+            "win": 38,
+            "loss": 3,
+            "draw": 3
+        }
+    },
+    "fide": 2552,
+    "tactics": {
+        "highest": {
+            "rating": 2403,
+            "date": 1643685091
+        },
+        "lowest": {
+            "rating": 1348,
+            "date": 1373083195
+        }
+    },
+    "puzzle_rush": {}
+}

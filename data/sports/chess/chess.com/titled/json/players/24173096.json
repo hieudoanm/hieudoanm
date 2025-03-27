@@ -1,0 +1,128 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24173096.a9fc0fd6.200x200o.f10f276648f1.jpeg",
+    "player_id": 24173096,
+    "@id": "https://api.chess.com/pub/player/c63_amg",
+    "url": "https://www.chess.com/member/c63_amg",
+    "name": "Artiom Samsonkin",
+    "username": "c63_amg",
+    "title": "IM",
+    "followers": 802,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "toronto",
+    "last_online": 1741703344,
+    "joined": 1442599751,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1079,
+            "date": 1741687641,
+            "rd": 54
+        },
+        "best": {
+            "rating": 1899,
+            "date": 1587697221,
+            "game": "https://www.chess.com/game/daily/252920638"
+        },
+        "record": {
+            "win": 615,
+            "loss": 461,
+            "draw": 69,
+            "time_per_move": 129143,
+            "timeout_percent": 43
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1118,
+            "date": 1522301561,
+            "rd": 257
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1442599751,
+            "game": "https://www.chess.com/game/daily/187029752"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 129143,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2484,
+            "date": 1741698578
+        },
+        "best": {
+            "rating": 2742,
+            "date": 1600721688,
+            "game": "https://www.chess.com/game/live/112827594269"
+        },
+        "record": {
+            "win": 74,
+            "loss": 46,
+            "draw": 67
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2907,
+            "date": 1739582335,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2930,
+            "date": 1712605130,
+            "game": "https://www.chess.com/game/live/93468020293"
+        },
+        "record": {
+            "win": 5094,
+            "loss": 4449,
+            "draw": 659
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2851,
+            "date": 1741688852,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2915,
+            "date": 1727045050,
+            "game": "https://www.chess.com/game/live/93503967513"
+        },
+        "record": {
+            "win": 10508,
+            "loss": 9704,
+            "draw": 1625
+        }
+    },
+    "fide": 2564,
+    "tactics": {
+        "highest": {
+            "rating": 4073,
+            "date": 1729534705
+        },
+        "lowest": {
+            "rating": 1349,
+            "date": 1447614499
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        },
+        "daily": {
+            "total_attempts": 48,
+            "score": 46
+        }
+    }
+}

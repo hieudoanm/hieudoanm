@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44629086.18a299eb.200x200o.41e140ad6097.jpeg",
+    "player_id": 44629086,
+    "@id": "https://api.chess.com/pub/player/gigaquparadze",
+    "url": "https://www.chess.com/member/GigaQuparadze",
+    "name": "Giga Quparadze",
+    "username": "gigaquparadze",
+    "title": "GM",
+    "followers": 1679,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1734175982,
+    "joined": 1521971630,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2798,
+            "date": 1676053860,
+            "rd": 147
+        },
+        "best": {
+            "rating": 2940,
+            "date": 1602416293,
+            "game": "https://www.chess.com/game/live/5309918751"
+        },
+        "record": {
+            "win": 22,
+            "loss": 1,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2674,
+            "date": 1700244298,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2877,
+            "date": 1601276760,
+            "game": "https://www.chess.com/game/live/5307463834"
+        },
+        "record": {
+            "win": 354,
+            "loss": 214,
+            "draw": 62
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3004,
+            "date": 1708371306,
+            "rd": 44
+        },
+        "best": {
+            "rating": 3077,
+            "date": 1581018945,
+            "game": "https://www.chess.com/game/live/4478783344"
+        },
+        "record": {
+            "win": 7704,
+            "loss": 5148,
+            "draw": 1884
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2401,
+            "date": 1564754518
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1545653416
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

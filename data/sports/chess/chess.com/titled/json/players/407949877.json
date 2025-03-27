@@ -1,0 +1,50 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/407949877.e85b9647.200x200o.5709fbeb1066.jpg",
+    "player_id": 407949877,
+    "@id": "https://api.chess.com/pub/player/kenzo-xarod2500",
+    "url": "https://www.chess.com/member/Kenzo-Xarod2500",
+    "username": "kenzo-xarod2500",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741353418,
+    "joined": 1733711527,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2801,
+            "date": 1741289733,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1739471924,
+            "game": "https://www.chess.com/game/live/132421316315"
+        },
+        "record": {
+            "win": 152,
+            "loss": 153,
+            "draw": 54
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1733711527
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1733711527
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 33
+        }
+    }
+}

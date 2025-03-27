@@ -1,0 +1,47 @@
+{
+    "player_id": 9792158,
+    "@id": "https://api.chess.com/pub/player/gloti",
+    "url": "https://www.chess.com/member/gloti",
+    "name": "Pablo Daniel Siccardi",
+    "username": "gloti",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "mendoza",
+    "last_online": 1741090478,
+    "joined": 1353956825,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2109,
+            "date": 1741094171,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1738101236,
+            "game": "https://www.chess.com/game/live/131839824253"
+        },
+        "record": {
+            "win": 69,
+            "loss": 58,
+            "draw": 5
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1353956825
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1353956825
+        }
+    },
+    "puzzle_rush": {}
+}

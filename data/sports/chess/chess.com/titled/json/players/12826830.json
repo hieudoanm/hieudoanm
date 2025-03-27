@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12826830.f4ae6fc9.200x200o.7f0b7ea26d94.jpeg",
+    "player_id": 12826830,
+    "@id": "https://api.chess.com/pub/player/raskolnikov6",
+    "url": "https://www.chess.com/member/Raskolnikov6",
+    "name": "Ivan Ramirez Martin",
+    "username": "raskolnikov6",
+    "title": "CM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "Germany",
+    "last_online": 1741701126,
+    "joined": 1374539500,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1125,
+            "date": 1715021017,
+            "rd": 215
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1374539500,
+            "game": "https://www.chess.com/game/daily/635563025"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 26207,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2201,
+            "date": 1710453395,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2201,
+            "date": 1710453395,
+            "game": "https://www.chess.com/game/live/51399021737"
+        },
+        "record": {
+            "win": 1,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2493,
+            "date": 1733122161,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1732652692,
+            "game": "https://www.chess.com/game/live/126218348239"
+        },
+        "record": {
+            "win": 553,
+            "loss": 453,
+            "draw": 58
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2455,
+            "date": 1741701369,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2588,
+            "date": 1738152466,
+            "game": "https://www.chess.com/game/live/109438318145"
+        },
+        "record": {
+            "win": 7774,
+            "loss": 6840,
+            "draw": 817
+        }
+    },
+    "fide": 2207,
+    "tactics": {
+        "highest": {
+            "rating": 2772,
+            "date": 1681545880
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1471300265
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

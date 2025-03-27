@@ -1,0 +1,110 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20718020.b93b0dad.200x200o.ce63c2b5ea24.jpeg",
+    "player_id": 20718020,
+    "@id": "https://api.chess.com/pub/player/ghandeevam2003",
+    "url": "https://www.chess.com/member/GHANDEEVAM2003",
+    "name": "Arjun Erigaisi",
+    "username": "ghandeevam2003",
+    "title": "GM",
+    "followers": 4134,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Warangal",
+    "last_online": 1734166808,
+    "joined": 1421783344,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1187,
+            "date": 1679993876,
+            "rd": 240
+        },
+        "best": {
+            "rating": 1309,
+            "date": 1558414292,
+            "game": "https://www.chess.com/game/daily/223064386"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 25576,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2719,
+            "date": 1727539840,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2829,
+            "date": 1677181576,
+            "game": "https://www.chess.com/game/live/69537408203"
+        },
+        "record": {
+            "win": 144,
+            "loss": 62,
+            "draw": 71
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3091,
+            "date": 1732187378,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3244,
+            "date": 1720890264,
+            "game": "https://www.chess.com/game/live/11481176613"
+        },
+        "record": {
+            "win": 8572,
+            "loss": 5826,
+            "draw": 1222
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3022,
+            "date": 1732558912,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3192,
+            "date": 1720806914,
+            "game": "https://www.chess.com/game/live/116873438195"
+        },
+        "record": {
+            "win": 4323,
+            "loss": 2814,
+            "draw": 952
+        }
+    },
+    "fide": 2778,
+    "tactics": {
+        "highest": {
+            "rating": 4006,
+            "date": 1733987339
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1423625442
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 96,
+            "score": 93
+        },
+        "daily": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

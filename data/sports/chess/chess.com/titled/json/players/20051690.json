@@ -1,0 +1,122 @@
+{
+    "player_id": 20051690,
+    "@id": "https://api.chess.com/pub/player/subham777",
+    "url": "https://www.chess.com/member/subham777",
+    "name": "Asish Panda",
+    "username": "subham777",
+    "title": "NM",
+    "followers": 384,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741582272,
+    "joined": 1417847563,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1370,
+            "date": 1735934655,
+            "rd": 212
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1735699095,
+            "game": "https://www.chess.com/game/daily/127693796"
+        },
+        "record": {
+            "win": 253,
+            "loss": 256,
+            "draw": 18,
+            "time_per_move": 52881,
+            "timeout_percent": 20
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1283,
+            "date": 1518752630,
+            "rd": 203
+        },
+        "best": {
+            "rating": 1360,
+            "date": 1445086733,
+            "game": "https://www.chess.com/game/daily/186710626"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 52881,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2459,
+            "date": 1737695131,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1734405953,
+            "game": "https://www.chess.com/game/live/128144342265"
+        },
+        "record": {
+            "win": 307,
+            "loss": 303,
+            "draw": 38
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2585,
+            "date": 1741455339,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2788,
+            "date": 1624740274,
+            "game": "https://www.chess.com/game/live/95821989193"
+        },
+        "record": {
+            "win": 5985,
+            "loss": 5354,
+            "draw": 504
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2632,
+            "date": 1741543673,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2768,
+            "date": 1731210460,
+            "game": "https://www.chess.com/game/live/113692829567"
+        },
+        "record": {
+            "win": 4399,
+            "loss": 3522,
+            "draw": 572
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3465,
+            "date": 1715536998
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1536359094
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

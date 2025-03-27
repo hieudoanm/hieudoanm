@@ -1,0 +1,84 @@
+{
+    "player_id": 16074964,
+    "@id": "https://api.chess.com/pub/player/flubs",
+    "url": "https://www.chess.com/member/flubs",
+    "name": "Patrick Lacey",
+    "username": "flubs",
+    "title": "NM",
+    "followers": 31,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741621386,
+    "joined": 1392514830,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2422,
+            "date": 1698627381,
+            "rd": 313
+        },
+        "best": {
+            "rating": 2422,
+            "date": 1698627381,
+            "game": "https://www.chess.com/game/live/92365888131"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2395,
+            "date": 1741637808,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1732933808,
+            "game": "https://www.chess.com/game/live/126880188807"
+        },
+        "record": {
+            "win": 11757,
+            "loss": 9297,
+            "draw": 1129
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1741623183,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2586,
+            "date": 1638416949,
+            "game": "https://www.chess.com/game/live/64823586515"
+        },
+        "record": {
+            "win": 20585,
+            "loss": 15998,
+            "draw": 2544
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3530,
+            "date": 1727645761
+        },
+        "lowest": {
+            "rating": 1343,
+            "date": 1424813506
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

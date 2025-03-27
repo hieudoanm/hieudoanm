@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16824794.3e31c63c.200x200o.766537849c0e.jpeg",
+    "player_id": 16824794,
+    "@id": "https://api.chess.com/pub/player/chesseducation4u",
+    "url": "https://www.chess.com/member/Chesseducation4u",
+    "name": "Gerhard Schebler",
+    "username": "chesseducation4u",
+    "title": "GM",
+    "followers": 388,
+    "country": "https://api.chess.com/pub/country/TH",
+    "location": "Pattaya",
+    "last_online": 1734151716,
+    "joined": 1397042097,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1994,
+            "date": 1710408566,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1708523944,
+            "game": "https://www.chess.com/game/daily/579764373"
+        },
+        "record": {
+            "win": 31,
+            "loss": 11,
+            "draw": 3,
+            "time_per_move": 22320,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2244,
+            "date": 1733500945,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2415,
+            "date": 1663762768,
+            "game": "https://www.chess.com/game/live/48105013071"
+        },
+        "record": {
+            "win": 798,
+            "loss": 272,
+            "draw": 175
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2203,
+            "date": 1508661011,
+            "rd": 169
+        },
+        "best": {
+            "rating": 2333,
+            "date": 1432494898,
+            "game": "https://www.chess.com/game/live/1163241244"
+        },
+        "record": {
+            "win": 298,
+            "loss": 183,
+            "draw": 21
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2141,
+            "date": 1718176995,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2571,
+            "date": 1536914898,
+            "game": "https://www.chess.com/game/live/1237218387"
+        },
+        "record": {
+            "win": 2143,
+            "loss": 1215,
+            "draw": 207
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1397042097
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1397042097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

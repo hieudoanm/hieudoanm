@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8711986.4f1601b8.200x200o.2dd9f37338bc.jpeg",
+    "player_id": 8711986,
+    "@id": "https://api.chess.com/pub/player/chakraborty-arz",
+    "url": "https://www.chess.com/member/Chakraborty-ARZ",
+    "name": "Dipro Chakraborty",
+    "username": "chakraborty-arz",
+    "title": "NM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "California",
+    "last_online": 1741664188,
+    "joined": 1346213673,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1761,
+            "date": 1462745371,
+            "rd": 191
+        },
+        "best": {
+            "rating": 2117,
+            "date": 1422738456,
+            "game": "https://www.chess.com/game/daily/102375370"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 112684,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2281,
+            "date": 1718955477,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1549331324,
+            "game": "https://www.chess.com/game/live/96593312395"
+        },
+        "record": {
+            "win": 11,
+            "loss": 4,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2755,
+            "date": 1690335566,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2755,
+            "date": 1690332117,
+            "game": "https://www.chess.com/game/live/4483165457"
+        },
+        "record": {
+            "win": 288,
+            "loss": 128,
+            "draw": 18
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2702,
+            "date": 1719467178,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2702,
+            "date": 1719467178,
+            "game": "https://www.chess.com/game/live/30258514073"
+        },
+        "record": {
+            "win": 462,
+            "loss": 270,
+            "draw": 78
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3128,
+            "date": 1737437444
+        },
+        "lowest": {
+            "rating": 2183,
+            "date": 1371780281
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "player_id": 185414807,
+    "@id": "https://api.chess.com/pub/player/chess_diligent",
+    "url": "https://www.chess.com/member/Chess_Diligent",
+    "name": "Setu Madhav Yellumahanthi",
+    "username": "chess_diligent",
+    "title": "FM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741531720,
+    "joined": 1653993078,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1852,
+            "date": 1733450635,
+            "rd": 199
+        },
+        "best": {
+            "rating": 1852,
+            "date": 1733450635,
+            "game": "https://www.chess.com/game/daily/714367465"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 63053,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2430,
+            "date": 1728452198,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2471,
+            "date": 1728452029,
+            "game": "https://www.chess.com/game/live/122190584149"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2625,
+            "date": 1740414132,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1728194559,
+            "game": "https://www.chess.com/game/live/122744689579"
+        },
+        "record": {
+            "win": 544,
+            "loss": 615,
+            "draw": 73
+        }
+    },
+    "fide": 2344,
+    "tactics": {
+        "highest": {
+            "rating": 3800,
+            "date": 1741138812
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1653993078
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 55
+        }
+    }
+}

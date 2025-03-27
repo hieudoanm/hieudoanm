@@ -1,0 +1,109 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27407310.665acbf0.200x200o.39edf25dab35.jpg",
+    "player_id": 27407310,
+    "@id": "https://api.chess.com/pub/player/rabbinicalwarrior",
+    "url": "https://www.chess.com/member/rabbinicalwarrior",
+    "name": "Caleb Klenoff",
+    "username": "rabbinicalwarrior",
+    "title": "NM",
+    "followers": 60,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "United States",
+    "last_online": 1741649268,
+    "joined": 1458837462,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 798,
+            "date": 1737560307,
+            "rd": 196
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1458837462,
+            "game": "https://www.chess.com/game/daily/506387319"
+        },
+        "record": {
+            "win": 19,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 121435,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2420,
+            "date": 1734710625,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1728264499,
+            "game": "https://www.chess.com/game/live/99412967433"
+        },
+        "record": {
+            "win": 180,
+            "loss": 58,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2296,
+            "date": 1727225868,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1726507107,
+            "game": "https://www.chess.com/game/live/120246015881"
+        },
+        "record": {
+            "win": 563,
+            "loss": 493,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2555,
+            "date": 1741124818,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2673,
+            "date": 1731542689,
+            "game": "https://www.chess.com/game/live/124507150419"
+        },
+        "record": {
+            "win": 1948,
+            "loss": 1706,
+            "draw": 294
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3511,
+            "date": 1733253092
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1638052331
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        },
+        "daily": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

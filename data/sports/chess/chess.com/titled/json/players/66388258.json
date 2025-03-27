@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66388258.068657dc.200x200o.d8394dd9b900.png",
+    "player_id": 66388258,
+    "@id": "https://api.chess.com/pub/player/brainbuzz08",
+    "url": "https://www.chess.com/member/brainbuzz08",
+    "name": "Shreyas Seshadri Nallore",
+    "username": "brainbuzz08",
+    "title": "FM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741702952,
+    "joined": 1570457311,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1730971774,
+            "rd": 120
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1570457311,
+            "game": "https://www.chess.com/game/daily/300732542"
+        },
+        "record": {
+            "win": 37,
+            "loss": 8,
+            "draw": 2,
+            "time_per_move": 19149,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2115,
+            "date": 1738735754,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1733768421,
+            "game": "https://www.chess.com/game/live/61991946411"
+        },
+        "record": {
+            "win": 107,
+            "loss": 47,
+            "draw": 25
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2602,
+            "date": 1739173582
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1738833207,
+            "game": "https://www.chess.com/game/live/132444690607"
+        },
+        "record": {
+            "win": 1240,
+            "loss": 1584,
+            "draw": 212
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2365,
+            "date": 1741386588,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2512,
+            "date": 1721586429,
+            "game": "https://www.chess.com/game/live/30458311665"
+        },
+        "record": {
+            "win": 2345,
+            "loss": 2533,
+            "draw": 451
+        }
+    },
+    "fide": 2303,
+    "tactics": {
+        "highest": {
+            "rating": 7310,
+            "date": 1741158619
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1570610254
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

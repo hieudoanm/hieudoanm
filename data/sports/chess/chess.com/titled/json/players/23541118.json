@@ -1,0 +1,112 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23541118.57c2c358.200x200o.7deadaed86cb.jpg",
+    "player_id": 23541118,
+    "@id": "https://api.chess.com/pub/player/ketitsatsalashvili",
+    "url": "https://www.chess.com/member/KetiTsatsalashvili",
+    "name": "Keti Tsatsalashvili",
+    "username": "ketitsatsalashvili",
+    "title": "WGM",
+    "followers": 5012,
+    "country": "https://api.chess.com/pub/country/GE",
+    "location": "Poland, Georgia",
+    "last_online": 1741691175,
+    "joined": 1438773639,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/ketitsatsalashvili",
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/ketitsatsalashvili"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1802,
+            "date": 1738186534,
+            "rd": 326
+        },
+        "best": {
+            "rating": 1802,
+            "date": 1494796806,
+            "game": "https://www.chess.com/game/daily/155994602"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 108399,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1425,
+            "date": 1727426482,
+            "rd": 314
+        },
+        "best": {
+            "rating": 1433,
+            "date": 1623071058,
+            "game": "https://www.chess.com/game/live/16807572717"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2455,
+            "date": 1719428129,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1619470334,
+            "game": "https://www.chess.com/game/live/105557433447"
+        },
+        "record": {
+            "win": 1597,
+            "loss": 1570,
+            "draw": 179
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2351,
+            "date": 1740528275,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1709745634,
+            "game": "https://www.chess.com/game/live/101578975775"
+        },
+        "record": {
+            "win": 728,
+            "loss": 674,
+            "draw": 165
+        }
+    },
+    "fide": 2365,
+    "tactics": {
+        "highest": {
+            "rating": 3202,
+            "date": 1673813989
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1610722499
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

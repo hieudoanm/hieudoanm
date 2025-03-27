@@ -1,0 +1,99 @@
+{
+    "player_id": 6578983,
+    "@id": "https://api.chess.com/pub/player/soloctavian",
+    "url": "https://www.chess.com/member/Soloctavian",
+    "name": "Stein Aarland",
+    "username": "soloctavian",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/NO",
+    "location": "Oslo",
+    "last_online": 1741671154,
+    "joined": 1327862528,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 823,
+            "date": 1729073550,
+            "rd": 254
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1327862528,
+            "game": "https://www.chess.com/game/daily/432255157"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 1716,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2527,
+            "date": 1723102468,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2551,
+            "date": 1710447194,
+            "game": "https://www.chess.com/game/live/110706113487"
+        },
+        "record": {
+            "win": 410,
+            "loss": 384,
+            "draw": 75
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2492,
+            "date": 1739948423,
+            "rd": 13
+        },
+        "best": {
+            "rating": 2674,
+            "date": 1723080676,
+            "game": "https://www.chess.com/game/live/116854795867"
+        },
+        "record": {
+            "win": 4385,
+            "loss": 4511,
+            "draw": 424
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2619,
+            "date": 1741672844
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1663085593,
+            "game": "https://www.chess.com/game/live/85574376193"
+        },
+        "record": {
+            "win": 19698,
+            "loss": 20010,
+            "draw": 2971
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3558,
+            "date": 1722967456
+        },
+        "lowest": {
+            "rating": 1186,
+            "date": 1658479426
+        }
+    },
+    "puzzle_rush": {}
+}

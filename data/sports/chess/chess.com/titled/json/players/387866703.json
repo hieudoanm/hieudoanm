@@ -1,0 +1,61 @@
+{
+    "player_id": 387866703,
+    "@id": "https://api.chess.com/pub/player/chessmatic_weapon",
+    "url": "https://www.chess.com/member/ChessMatic_Weapon",
+    "username": "chessmatic_weapon",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741700094,
+    "joined": 1726133158,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2143,
+            "date": 1729659430,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2563,
+            "date": 1741351723,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2680,
+            "date": 1731949027,
+            "game": "https://www.chess.com/game/live/125808540849"
+        },
+        "record": {
+            "win": 152,
+            "loss": 150,
+            "draw": 17
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3503,
+            "date": 1739236201
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1726133158
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

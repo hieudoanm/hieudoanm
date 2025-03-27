@@ -1,0 +1,48 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1934119.ce3760e6.200x200o.d8bd7265f0f4.jpeg",
+    "player_id": 1934119,
+    "@id": "https://api.chess.com/pub/player/miamichess",
+    "url": "https://www.chess.com/member/Miamichess",
+    "name": "Blas Lugo",
+    "username": "miamichess",
+    "title": "IM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Miami",
+    "last_online": 1741322885,
+    "joined": 1243112080,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2055,
+            "date": 1721169593,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2294,
+            "date": 1484108679,
+            "game": "https://www.chess.com/game/live/114905950745"
+        },
+        "record": {
+            "win": 35,
+            "loss": 13,
+            "draw": 1
+        }
+    },
+    "fide": 2400,
+    "tactics": {
+        "highest": {
+            "rating": 2297,
+            "date": 1389481097
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1389478080
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 58990936,
+    "@id": "https://api.chess.com/pub/player/kopfverletzung",
+    "url": "https://www.chess.com/member/Kopfverletzung",
+    "name": "Paul Hinrichs",
+    "username": "kopfverletzung",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741445692,
+    "joined": 1553545698,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2232,
+            "date": 1734364927,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2232,
+            "date": 1734364927,
+            "game": "https://www.chess.com/game/live/71928823961"
+        },
+        "record": {
+            "win": 26,
+            "loss": 15,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2407,
+            "date": 1739462987,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1739462931,
+            "game": "https://www.chess.com/game/live/133201751367"
+        },
+        "record": {
+            "win": 115,
+            "loss": 88,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2523,
+            "date": 1741446491,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1738102074,
+            "game": "https://www.chess.com/game/live/35656621857"
+        },
+        "record": {
+            "win": 976,
+            "loss": 754,
+            "draw": 85
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3113,
+            "date": 1708005470
+        },
+        "lowest": {
+            "rating": 427,
+            "date": 1553617299
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

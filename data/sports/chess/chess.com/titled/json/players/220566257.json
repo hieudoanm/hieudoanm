@@ -1,0 +1,97 @@
+{
+    "player_id": 220566257,
+    "@id": "https://api.chess.com/pub/player/ivn_2001",
+    "url": "https://www.chess.com/member/Ivn_2001",
+    "username": "ivn_2001",
+    "title": "CM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741667354,
+    "joined": 1672922580,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1659,
+            "date": 1696827813,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1659,
+            "date": 1696827813,
+            "game": "https://www.chess.com/game/daily/568564907"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 17,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2402,
+            "date": 1679091777,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2402,
+            "date": 1679091777,
+            "game": "https://www.chess.com/game/live/69816201353"
+        },
+        "record": {
+            "win": 57,
+            "loss": 25,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2303,
+            "date": 1673645306,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1673645306,
+            "game": "https://www.chess.com/game/live/67374835881"
+        },
+        "record": {
+            "win": 41,
+            "loss": 28,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2500,
+            "date": 1690499412,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2539,
+            "date": 1683173652,
+            "game": "https://www.chess.com/game/live/67208633611"
+        },
+        "record": {
+            "win": 393,
+            "loss": 448,
+            "draw": 60
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2223,
+            "date": 1729804346
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1672922580
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1453909.87f8f193.200x200o.5673ffed1afd.jpg",
+    "player_id": 1453909,
+    "@id": "https://api.chess.com/pub/player/charlie101",
+    "url": "https://www.chess.com/member/Charlie101",
+    "name": "Charles Galofre",
+    "username": "charlie101",
+    "title": "FM",
+    "followers": 407,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Miami",
+    "last_online": 1741643580,
+    "joined": 1217307197,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1973,
+            "date": 1726388894,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1247426225,
+            "game": "https://www.chess.com/game/daily/25760990"
+        },
+        "record": {
+            "win": 60,
+            "loss": 61,
+            "draw": 13,
+            "time_per_move": 48335,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2124,
+            "date": 1738789864,
+            "rd": 169
+        },
+        "best": {
+            "rating": 2124,
+            "date": 1650579757,
+            "game": "https://www.chess.com/game/live/39994260041"
+        },
+        "record": {
+            "win": 21,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2424,
+            "date": 1736555790,
+            "rd": 124
+        },
+        "best": {
+            "rating": 2493,
+            "date": 1698976982,
+            "game": "https://www.chess.com/game/live/266071625"
+        },
+        "record": {
+            "win": 1480,
+            "loss": 1213,
+            "draw": 49
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2370,
+            "date": 1701216159,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2416,
+            "date": 1699065296,
+            "game": "https://www.chess.com/game/live/88438211867"
+        },
+        "record": {
+            "win": 331,
+            "loss": 261,
+            "draw": 49
+        }
+    },
+    "fide": 2320,
+    "tactics": {
+        "highest": {
+            "rating": 3462,
+            "date": 1736200170
+        },
+        "lowest": {
+            "rating": 1102,
+            "date": 1235083785
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

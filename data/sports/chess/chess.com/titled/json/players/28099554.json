@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28099554.fd64a67b.200x200o.0ffd42de4da1.jpeg",
+    "player_id": 28099554,
+    "@id": "https://api.chess.com/pub/player/savethach",
+    "url": "https://www.chess.com/member/savethach",
+    "name": "Savetha CH",
+    "username": "savethach",
+    "title": "WCM",
+    "followers": 54,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "New Jersey",
+    "last_online": 1741647887,
+    "joined": 1462726513,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1155,
+            "date": 1720686523,
+            "rd": 226
+        },
+        "best": {
+            "rating": 1436,
+            "date": 1463169919,
+            "game": "https://www.chess.com/game/daily/135258676"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 0,
+            "time_per_move": 10398,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2059,
+            "date": 1738029782,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1738029782,
+            "game": "https://www.chess.com/game/live/131767780939"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1738638564,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2150,
+            "date": 1738638564,
+            "game": "https://www.chess.com/game/live/129952123927"
+        },
+        "record": {
+            "win": 225,
+            "loss": 244,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2047,
+            "date": 1739147108,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2072,
+            "date": 1695688687,
+            "game": "https://www.chess.com/game/live/3748727284"
+        },
+        "record": {
+            "win": 199,
+            "loss": 181,
+            "draw": 25
+        }
+    },
+    "fide": 2129,
+    "tactics": {
+        "highest": {
+            "rating": 3079,
+            "date": 1738684185
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1556089951
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

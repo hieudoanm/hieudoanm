@@ -1,0 +1,100 @@
+{
+    "player_id": 105138738,
+    "@id": "https://api.chess.com/pub/player/arnaldofdelavaramulet",
+    "url": "https://www.chess.com/member/Arnaldofdelavaramulet",
+    "name": "Arnaldo Jesus Fernandez De La Vara Mulet",
+    "username": "arnaldofdelavaramulet",
+    "title": "IM",
+    "followers": 117,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "United States",
+    "last_online": 1741683144,
+    "joined": 1608241375,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1615,
+            "date": 1711441850,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2133,
+            "date": 1679237894,
+            "game": "https://www.chess.com/game/daily/453189249"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 0,
+            "time_per_move": 68311,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2374,
+            "date": 1675908162,
+            "rd": 181
+        },
+        "best": {
+            "rating": 2374,
+            "date": 1675908162,
+            "game": "https://www.chess.com/game/live/24949353453"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2871,
+            "date": 1741659906,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2903,
+            "date": 1671820713,
+            "game": "https://www.chess.com/game/live/111007278647"
+        },
+        "record": {
+            "win": 746,
+            "loss": 285,
+            "draw": 76
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2658,
+            "date": 1684001013,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2757,
+            "date": 1668544366,
+            "game": "https://www.chess.com/game/live/59239876017"
+        },
+        "record": {
+            "win": 421,
+            "loss": 234,
+            "draw": 40
+        }
+    },
+    "fide": 2501,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1608241375
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1608241375
+        }
+    },
+    "puzzle_rush": {}
+}

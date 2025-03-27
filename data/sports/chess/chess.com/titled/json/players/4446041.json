@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4446041.276f5a05.200x200o.44cce7e5a30f.jpeg",
+    "player_id": 4446041,
+    "@id": "https://api.chess.com/pub/player/sippp",
+    "url": "https://www.chess.com/member/Sippp",
+    "name": "Muhammad Lutfi Ali",
+    "username": "sippp",
+    "title": "IM",
+    "followers": 169,
+    "country": "https://api.chess.com/pub/country/ID",
+    "location": "Purbalingga",
+    "last_online": 1740926380,
+    "joined": 1293247640,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1918,
+            "date": 1713971380,
+            "rd": 234
+        },
+        "best": {
+            "rating": 1918,
+            "date": 1465915540,
+            "game": "https://www.chess.com/game/daily/40409979"
+        },
+        "record": {
+            "win": 54,
+            "loss": 52,
+            "draw": 1,
+            "time_per_move": 13275,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2348,
+            "date": 1730041434,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1657548637,
+            "game": "https://www.chess.com/game/live/6086820774"
+        },
+        "record": {
+            "win": 20,
+            "loss": 7,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2731,
+            "date": 1741664590,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2976,
+            "date": 1713061974,
+            "game": "https://www.chess.com/game/live/105379353403"
+        },
+        "record": {
+            "win": 4190,
+            "loss": 2997,
+            "draw": 455
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2773,
+            "date": 1737468792,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2912,
+            "date": 1703665745,
+            "game": "https://www.chess.com/game/live/106377994599"
+        },
+        "record": {
+            "win": 1704,
+            "loss": 1298,
+            "draw": 257
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3788,
+            "date": 1727685919
+        },
+        "lowest": {
+            "rating": 1269,
+            "date": 1436259380
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

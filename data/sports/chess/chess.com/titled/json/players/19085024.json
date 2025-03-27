@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19085024.9726eace.200x200o.0567490b58c3.jpg",
+    "player_id": 19085024,
+    "@id": "https://api.chess.com/pub/player/kakarot_001",
+    "url": "https://www.chess.com/member/kakarot_001",
+    "name": "Harikrishnan A Ra",
+    "username": "kakarot_001",
+    "title": "IM",
+    "followers": 83,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Chennai",
+    "last_online": 1741530691,
+    "joined": 1411918703,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2235,
+            "date": 1732332457,
+            "rd": 173
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1609047589,
+            "game": "https://www.chess.com/game/live/28021176859"
+        },
+        "record": {
+            "win": 16,
+            "loss": 12,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2656,
+            "date": 1730396866,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2704,
+            "date": 1718473319,
+            "game": "https://www.chess.com/game/live/112213208707"
+        },
+        "record": {
+            "win": 126,
+            "loss": 97,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2807,
+            "date": 1740676007
+        },
+        "best": {
+            "rating": 2884,
+            "date": 1596574738,
+            "game": "https://www.chess.com/game/live/75391286359"
+        },
+        "record": {
+            "win": 224,
+            "loss": 98,
+            "draw": 37
+        }
+    },
+    "fide": 2502,
+    "tactics": {
+        "highest": {
+            "rating": 3806,
+            "date": 1727324273
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1558328943
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 72,
+            "score": 69
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21960352.8767c7dc.200x200o.d97442232079.jpeg",
+    "player_id": 21960352,
+    "@id": "https://api.chess.com/pub/player/gatocorbis",
+    "url": "https://www.chess.com/member/gatocorbis",
+    "name": "Sebastian Granara Barreto",
+    "username": "gatocorbis",
+    "title": "FM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/UY",
+    "location": "Montevideo",
+    "last_online": 1741004765,
+    "joined": 1428972436,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2131,
+            "date": 1722714044,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2131,
+            "date": 1695597322,
+            "game": "https://www.chess.com/game/live/41475021951"
+        },
+        "record": {
+            "win": 40,
+            "loss": 20,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1866,
+            "date": 1664147326,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1962,
+            "date": 1663376706,
+            "game": "https://www.chess.com/game/live/5451740787"
+        },
+        "record": {
+            "win": 24,
+            "loss": 12,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2327,
+            "date": 1738692667,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2328,
+            "date": 1738689709,
+            "game": "https://www.chess.com/game/live/132427317933"
+        },
+        "record": {
+            "win": 181,
+            "loss": 146,
+            "draw": 66
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1227,
+            "date": 1520211341
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1520211249
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 31
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "player_id": 58740684,
+    "@id": "https://api.chess.com/pub/player/chessadvanceusa",
+    "url": "https://www.chess.com/member/ChessAdvanceUSA",
+    "name": "Bahadur Khodzhamkuliev",
+    "username": "chessadvanceusa",
+    "title": "NM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/TM",
+    "last_online": 1741629259,
+    "joined": 1553043585,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1560,
+            "date": 1715116502,
+            "rd": 102
+        },
+        "best": {
+            "rating": 1665,
+            "date": 1672488870,
+            "game": "https://www.chess.com/game/daily/455545281"
+        },
+        "record": {
+            "win": 13,
+            "loss": 6,
+            "draw": 4,
+            "time_per_move": 10875,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1383,
+            "date": 1695909325,
+            "rd": 224
+        },
+        "best": {
+            "rating": 1973,
+            "date": 1599847708,
+            "game": "https://www.chess.com/game/live/26015973719"
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2509,
+            "date": 1737081977,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1737081977,
+            "game": "https://www.chess.com/game/live/53097581941"
+        },
+        "record": {
+            "win": 2599,
+            "loss": 2365,
+            "draw": 425
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2535,
+            "date": 1741109266,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2545,
+            "date": 1741107395,
+            "game": "https://www.chess.com/game/live/23563293945"
+        },
+        "record": {
+            "win": 1224,
+            "loss": 1041,
+            "draw": 422
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3255,
+            "date": 1740958217
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1555028781
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

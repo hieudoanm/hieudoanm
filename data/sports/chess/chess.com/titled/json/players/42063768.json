@@ -1,0 +1,67 @@
+{
+    "player_id": 42063768,
+    "@id": "https://api.chess.com/pub/player/tylityli",
+    "url": "https://www.chess.com/member/tylityli",
+    "name": "Svetlana Vifleemskaia",
+    "username": "tylityli",
+    "title": "WFM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741366213,
+    "joined": 1515262450,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2301,
+            "date": 1716659992,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1699120022,
+            "game": "https://www.chess.com/game/live/98306777359"
+        },
+        "record": {
+            "win": 444,
+            "loss": 707,
+            "draw": 104
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2331,
+            "date": 1741370433,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2442,
+            "date": 1657640305,
+            "game": "https://www.chess.com/game/live/49585246473"
+        },
+        "record": {
+            "win": 2412,
+            "loss": 2009,
+            "draw": 560
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2295,
+            "date": 1612724357
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1516868072
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 32
+        }
+    }
+}

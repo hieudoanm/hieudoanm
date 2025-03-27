@@ -1,0 +1,67 @@
+{
+    "player_id": 30859242,
+    "@id": "https://api.chess.com/pub/player/gmyarick",
+    "url": "https://www.chess.com/member/gmyarick",
+    "username": "gmyarick",
+    "title": "GM",
+    "followers": 131,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1715949017,
+    "joined": 1478891775,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2656,
+            "date": 1733776932,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2850,
+            "date": 1604508121,
+            "game": "https://www.chess.com/game/live/5771123443"
+        },
+        "record": {
+            "win": 526,
+            "loss": 420,
+            "draw": 46
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2806,
+            "date": 1734181759,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2857,
+            "date": 1732089415,
+            "game": "https://www.chess.com/game/live/125231332555"
+        },
+        "record": {
+            "win": 3962,
+            "loss": 2943,
+            "draw": 492
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3351,
+            "date": 1726194605
+        },
+        "lowest": {
+            "rating": 1811,
+            "date": 1495997115
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

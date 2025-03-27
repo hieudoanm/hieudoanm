@@ -1,0 +1,91 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35895346.3571bef9.200x200o.a1ca3885e2f9.png",
+    "player_id": 35895346,
+    "@id": "https://api.chess.com/pub/player/mykola-bortnyk",
+    "url": "https://www.chess.com/member/Mykola-Bortnyk",
+    "name": "Mykola Bortnyk",
+    "username": "mykola-bortnyk",
+    "title": "IM",
+    "followers": 2126,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York",
+    "last_online": 1741661291,
+    "joined": 1496033802,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2602,
+            "date": 1706294155,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3004,
+            "date": 1640310930,
+            "game": "https://www.chess.com/game/live/71512439297"
+        },
+        "record": {
+            "win": 100,
+            "loss": 13,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2982,
+            "date": 1740461634,
+            "rd": 26
+        },
+        "best": {
+            "rating": 3250,
+            "date": 1632104015,
+            "game": "https://www.chess.com/game/live/6007429486"
+        },
+        "record": {
+            "win": 5922,
+            "loss": 4968,
+            "draw": 867
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3055,
+            "date": 1741674792,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3147,
+            "date": 1738295137,
+            "game": "https://www.chess.com/game/live/94348380945"
+        },
+        "record": {
+            "win": 7149,
+            "loss": 5740,
+            "draw": 1679
+        }
+    },
+    "fide": 2482,
+    "tactics": {
+        "highest": {
+            "rating": 2500,
+            "date": 1724722176
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1496033802
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        },
+        "daily": {
+            "total_attempts": 2,
+            "score": 0
+        }
+    }
+}

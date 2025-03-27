@@ -1,0 +1,49 @@
+{
+    "player_id": 300974789,
+    "@id": "https://api.chess.com/pub/player/soloadelante",
+    "url": "https://www.chess.com/member/soloadelante",
+    "username": "soloadelante",
+    "title": "GM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741683044,
+    "joined": 1689849792,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2970,
+            "date": 1741688435,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3002,
+            "date": 1736589990,
+            "game": "https://www.chess.com/game/live/130459193623"
+        },
+        "record": {
+            "win": 1377,
+            "loss": 1010,
+            "draw": 346
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3059,
+            "date": 1702664766
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1689849792
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24626192.a0d8f757.200x200o.168c23e91d23.jpeg",
+    "player_id": 24626192,
+    "@id": "https://api.chess.com/pub/player/tocras",
+    "url": "https://www.chess.com/member/Tocras",
+    "name": "Matthieu Cornette",
+    "username": "tocras",
+    "title": "GM",
+    "followers": 347,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741544846,
+    "joined": 1445116508,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2592,
+            "date": 1689322113,
+            "rd": 267
+        },
+        "best": {
+            "rating": 2602,
+            "date": 1516305630,
+            "game": "https://www.chess.com/game/live/13810287295"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2809,
+            "date": 1740661336,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2845,
+            "date": 1734007669,
+            "game": "https://www.chess.com/game/live/127218626379"
+        },
+        "record": {
+            "win": 895,
+            "loss": 606,
+            "draw": 117
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2819,
+            "date": 1740740536,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2871,
+            "date": 1739279542,
+            "game": "https://www.chess.com/game/live/92674989133"
+        },
+        "record": {
+            "win": 2354,
+            "loss": 1642,
+            "draw": 396
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2290,
+            "date": 1464261266
+        },
+        "lowest": {
+            "rating": 1364,
+            "date": 1464184083
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

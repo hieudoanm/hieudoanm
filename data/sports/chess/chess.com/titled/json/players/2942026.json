@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2942026.e3b9428f.200x200o.60e3196db504.png",
+    "player_id": 2942026,
+    "@id": "https://api.chess.com/pub/player/nmchesstoimpress",
+    "url": "https://www.chess.com/member/NMChessToImpress",
+    "name": "Craig Clawitter",
+    "username": "nmchesstoimpress",
+    "title": "NM",
+    "followers": 1466,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Orange County, CA",
+    "last_online": 1741676150,
+    "joined": 1211782069,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1978,
+            "date": 1741673859,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2270,
+            "date": 1368943321,
+            "game": "https://www.chess.com/game/daily/66024352"
+        },
+        "record": {
+            "win": 287,
+            "loss": 67,
+            "draw": 64,
+            "time_per_move": 65922,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1786,
+            "date": 1693665969,
+            "rd": 147
+        },
+        "best": {
+            "rating": 1904,
+            "date": 1610754033,
+            "game": "https://www.chess.com/game/daily/146791361"
+        },
+        "record": {
+            "win": 29,
+            "loss": 5,
+            "draw": 4,
+            "time_per_move": 65922,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2224,
+            "date": 1715043863,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2411,
+            "date": 1606691823,
+            "game": "https://www.chess.com/game/live/5850177946"
+        },
+        "record": {
+            "win": 63,
+            "loss": 22,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2088,
+            "date": 1741661760,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2240,
+            "date": 1700957180,
+            "game": "https://www.chess.com/game/live/112812005715"
+        },
+        "record": {
+            "win": 4093,
+            "loss": 3044,
+            "draw": 323
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2230,
+            "date": 1741492593,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1721164760,
+            "game": "https://www.chess.com/game/live/110670149657"
+        },
+        "record": {
+            "win": 13093,
+            "loss": 11083,
+            "draw": 1803
+        }
+    },
+    "fide": 2202,
+    "tactics": {
+        "highest": {
+            "rating": 3406,
+            "date": 1739342776
+        },
+        "lowest": {
+            "rating": 1369,
+            "date": 1338777339
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

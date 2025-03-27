@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27588618.93684026.200x200o.83622a4c9930.png",
+    "player_id": 27588618,
+    "@id": "https://api.chess.com/pub/player/myleoclub",
+    "url": "https://www.chess.com/member/myleoclub",
+    "name": "Chaoruo Cai",
+    "username": "myleoclub",
+    "title": "CM",
+    "followers": 36,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741152179,
+    "joined": 1459777521,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2163,
+            "date": 1733732833,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1614018062,
+            "game": "https://www.chess.com/game/live/7754528747"
+        },
+        "record": {
+            "win": 31,
+            "loss": 20,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2517,
+            "date": 1660185289,
+            "rd": 187
+        },
+        "best": {
+            "rating": 2552,
+            "date": 1604219093,
+            "game": "https://www.chess.com/game/live/5668067182"
+        },
+        "record": {
+            "win": 16,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2220,
+            "date": 1734181526,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1614015272,
+            "game": "https://www.chess.com/game/live/7752746591"
+        },
+        "record": {
+            "win": 165,
+            "loss": 60,
+            "draw": 12
+        }
+    },
+    "fide": 2258,
+    "tactics": {
+        "highest": {
+            "rating": 3358,
+            "date": 1685473364
+        },
+        "lowest": {
+            "rating": 2165,
+            "date": 1577677556
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

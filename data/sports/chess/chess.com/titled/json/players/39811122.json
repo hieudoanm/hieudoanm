@@ -1,0 +1,28 @@
+{
+    "player_id": 39811122,
+    "@id": "https://api.chess.com/pub/player/dorian2017",
+    "url": "https://www.chess.com/member/dorian2017",
+    "name": "Dorian Rogozenco",
+    "username": "dorian2017",
+    "title": "GM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1695239864,
+    "joined": 1509104942,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1508,
+            "date": 1516958762
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1509105011
+        }
+    },
+    "puzzle_rush": {}
+}

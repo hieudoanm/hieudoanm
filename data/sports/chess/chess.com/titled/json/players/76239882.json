@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76239882.1e91133e.200x200o.304051c8783b.jpeg",
+    "player_id": 76239882,
+    "@id": "https://api.chess.com/pub/player/den_kuzo",
+    "url": "https://www.chess.com/member/Den_Kuzo",
+    "username": "den_kuzo",
+    "title": "GM",
+    "followers": 68,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1726607954,
+    "joined": 1586511643,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3209,
+            "date": 1694629982,
+            "rd": 83
+        },
+        "best": {
+            "rating": 3209,
+            "date": 1694629982,
+            "game": "https://www.chess.com/game/live/55792408729"
+        },
+        "record": {
+            "win": 197,
+            "loss": 138,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3001,
+            "date": 1726608314,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3029,
+            "date": 1632306653,
+            "game": "https://www.chess.com/game/live/55232383953"
+        },
+        "record": {
+            "win": 275,
+            "loss": 171,
+            "draw": 46
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2407,
+            "date": 1705483799
+        },
+        "lowest": {
+            "rating": 2400,
+            "date": 1587375132
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/393292501.8f325193.200x200o.9796591d01d5.jpg",
+    "player_id": 393292501,
+    "@id": "https://api.chess.com/pub/player/helllborg",
+    "url": "https://www.chess.com/member/HelllBorg",
+    "name": "Mark Helbig",
+    "username": "helllborg",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741463009,
+    "joined": 1727938930,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2208,
+            "date": 1736184894,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2208,
+            "date": 1736184894,
+            "game": "https://www.chess.com/game/live/129922815771"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2329,
+            "date": 1738763918,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1736207989,
+            "game": "https://www.chess.com/game/live/131117417551"
+        },
+        "record": {
+            "win": 317,
+            "loss": 240,
+            "draw": 30
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2420,
+            "date": 1741649317,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2542,
+            "date": 1733259339,
+            "game": "https://www.chess.com/game/live/127136981049"
+        },
+        "record": {
+            "win": 1443,
+            "loss": 980,
+            "draw": 248
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3346,
+            "date": 1735244344
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1727938930
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

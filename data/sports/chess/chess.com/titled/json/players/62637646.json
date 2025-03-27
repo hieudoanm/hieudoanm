@@ -1,0 +1,66 @@
+{
+    "player_id": 62637646,
+    "@id": "https://api.chess.com/pub/player/tribaldancer",
+    "url": "https://www.chess.com/member/TribalDancer",
+    "username": "tribaldancer",
+    "title": "GM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/GH",
+    "last_online": 1741351284,
+    "joined": 1561388873,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2823,
+            "date": 1601203495,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2901,
+            "date": 1584509793,
+            "game": "https://www.chess.com/game/live/5504249717"
+        },
+        "record": {
+            "win": 6,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2999,
+            "date": 1733249430,
+            "rd": 160
+        },
+        "best": {
+            "rating": 2999,
+            "date": 1677438832,
+            "game": "https://www.chess.com/game/live/5333398207"
+        },
+        "record": {
+            "win": 213,
+            "loss": 141,
+            "draw": 37
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4212,
+            "date": 1585324490
+        },
+        "lowest": {
+            "rating": 2680,
+            "date": 1567776234
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

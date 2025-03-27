@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76839876.6cbeab04.200x200o.95269baf2296.png",
+    "player_id": 76839876,
+    "@id": "https://api.chess.com/pub/player/christophermunoz",
+    "url": "https://www.chess.com/member/ChristopherMunoz",
+    "name": "Christopher Mu\u00f1oz Ramos",
+    "username": "christophermunoz",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/CL",
+    "location": "Santiago",
+    "last_online": 1736444121,
+    "joined": 1587003507,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1966,
+            "date": 1611954437,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2032,
+            "date": 1597672367,
+            "game": "https://www.chess.com/game/live/6315688987"
+        },
+        "record": {
+            "win": 39,
+            "loss": 23,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2319,
+            "date": 1721088004,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2367,
+            "date": 1721063383,
+            "game": "https://www.chess.com/game/live/114801570849"
+        },
+        "record": {
+            "win": 69,
+            "loss": 47,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3627,
+            "date": 1733525740
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1587003507
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

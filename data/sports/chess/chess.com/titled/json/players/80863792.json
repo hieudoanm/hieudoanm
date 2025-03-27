@@ -1,0 +1,43 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80863792.a2ca257e.200x200o.146cafb5e488.jpg",
+    "player_id": 80863792,
+    "@id": "https://api.chess.com/pub/player/mane_moran8",
+    "url": "https://www.chess.com/member/Mane_Moran8",
+    "name": "Mar\u00eda In\u00e9s Mor\u00e1n Reyes",
+    "username": "mane_moran8",
+    "title": "WFM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/CL",
+    "location": "Santiago",
+    "last_online": 1740600955,
+    "joined": 1590767519,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1247,
+            "date": 1741638750,
+            "rd": 59
+        },
+        "record": {
+            "win": 18,
+            "loss": 17,
+            "draw": 0
+        }
+    },
+    "fide": 1667,
+    "tactics": {
+        "highest": {
+            "rating": 2088,
+            "date": 1741700070
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1590767519
+        }
+    },
+    "puzzle_rush": {}
+}

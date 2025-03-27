@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66170648.f3763f9c.200x200o.c3a296f9366e.jpeg",
+    "player_id": 66170648,
+    "@id": "https://api.chess.com/pub/player/probablybad04",
+    "url": "https://www.chess.com/member/probablybad04",
+    "name": "Aidan Odenthal",
+    "username": "probablybad04",
+    "title": "CM",
+    "followers": 153,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Sydney",
+    "last_online": 1741670429,
+    "joined": 1569971260,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1946,
+            "date": 1724053898,
+            "rd": 143
+        },
+        "best": {
+            "rating": 1946,
+            "date": 1724053898,
+            "game": "https://www.chess.com/game/daily/668875621"
+        },
+        "record": {
+            "win": 32,
+            "loss": 12,
+            "draw": 1,
+            "time_per_move": 23935,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2455,
+            "date": 1741677263,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2423,
+            "date": 1715133835,
+            "game": "https://www.chess.com/game/live/101346759335"
+        },
+        "record": {
+            "win": 982,
+            "loss": 671,
+            "draw": 153
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2494,
+            "date": 1741258233,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2611,
+            "date": 1670385933,
+            "game": "https://www.chess.com/game/live/72516108653"
+        },
+        "record": {
+            "win": 5117,
+            "loss": 4099,
+            "draw": 596
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2401,
+            "date": 1741684562,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2581,
+            "date": 1727411224,
+            "game": "https://www.chess.com/game/live/123814804447"
+        },
+        "record": {
+            "win": 9485,
+            "loss": 7646,
+            "draw": 1298
+        }
+    },
+    "fide": 2049,
+    "tactics": {
+        "highest": {
+            "rating": 3079,
+            "date": 1728698658
+        },
+        "lowest": {
+            "rating": 1015,
+            "date": 1590720200
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

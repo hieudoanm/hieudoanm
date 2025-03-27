@@ -1,0 +1,129 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2362236.d6cc3e6b.200x200o.61179f777b96.jpeg",
+    "player_id": 2362236,
+    "@id": "https://api.chess.com/pub/player/aguiar94",
+    "url": "https://www.chess.com/member/Aguiar94",
+    "name": "Lucas Aguiar Cunha",
+    "username": "aguiar94",
+    "title": "FM",
+    "followers": 745,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Bras\u00edlia",
+    "last_online": 1741701592,
+    "joined": 1260328865,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1852,
+            "date": 1681028892,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1501057740,
+            "game": "https://www.chess.com/game/daily/165540208"
+        },
+        "record": {
+            "win": 128,
+            "loss": 32,
+            "draw": 14,
+            "time_per_move": 35942,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1785,
+            "date": 1492188010,
+            "rd": 131
+        },
+        "best": {
+            "rating": 1785,
+            "date": 1492188010,
+            "game": "https://www.chess.com/game/daily/153728104"
+        },
+        "record": {
+            "win": 8,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 35942,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2313,
+            "date": 1628698835,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2313,
+            "date": 1628698835,
+            "game": "https://www.chess.com/game/live/22435844299"
+        },
+        "record": {
+            "win": 25,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2540,
+            "date": 1716522973,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2624,
+            "date": 1651973567,
+            "game": "https://www.chess.com/game/live/45711620875"
+        },
+        "record": {
+            "win": 454,
+            "loss": 440,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2586,
+            "date": 1741635823,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2765,
+            "date": 1716779262,
+            "game": "https://www.chess.com/game/live/25475531817"
+        },
+        "record": {
+            "win": 11177,
+            "loss": 11138,
+            "draw": 1243
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3627,
+            "date": 1699493947
+        },
+        "lowest": {
+            "rating": 1244,
+            "date": 1484152283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        },
+        "daily": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

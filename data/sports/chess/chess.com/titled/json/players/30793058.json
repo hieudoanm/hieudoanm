@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30793058.c32b4003.200x200o.fb48bc9fddd3.jpg",
+    "player_id": 30793058,
+    "@id": "https://api.chess.com/pub/player/mnikolov",
+    "url": "https://www.chess.com/member/MNikolov",
+    "name": "Momchil Nikolov",
+    "username": "mnikolov",
+    "title": "GM",
+    "followers": 500,
+    "country": "https://api.chess.com/pub/country/BG",
+    "location": "Dobrich",
+    "last_online": 1741557981,
+    "joined": 1478537740,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1638,
+            "date": 1642845171,
+            "rd": 271
+        },
+        "best": {
+            "rating": 1892,
+            "date": 1577407345,
+            "game": "https://www.chess.com/game/live/4337691239"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2576,
+            "date": 1741542914,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2683,
+            "date": 1731622849,
+            "game": "https://www.chess.com/game/live/125613587263"
+        },
+        "record": {
+            "win": 4399,
+            "loss": 3164,
+            "draw": 273
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2663,
+            "date": 1739455149,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2728,
+            "date": 1720437359,
+            "game": "https://www.chess.com/game/live/58221636407"
+        },
+        "record": {
+            "win": 5015,
+            "loss": 3674,
+            "draw": 664
+        }
+    },
+    "fide": 2549,
+    "tactics": {
+        "highest": {
+            "rating": 3507,
+            "date": 1697635378
+        },
+        "lowest": {
+            "rating": 1793,
+            "date": 1512083182
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

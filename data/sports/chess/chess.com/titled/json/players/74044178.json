@@ -1,0 +1,104 @@
+{
+    "player_id": 74044178,
+    "@id": "https://api.chess.com/pub/player/trompeterimether",
+    "url": "https://www.chess.com/member/TrompeterImEther",
+    "name": "P\u00e9ter B\u00e1lint",
+    "username": "trompeterimether",
+    "title": "FM",
+    "followers": 118,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1741526307,
+    "joined": 1584800104,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1822,
+            "date": 1740310730,
+            "rd": 137
+        },
+        "best": {
+            "rating": 2053,
+            "date": 1687454071,
+            "game": "https://www.chess.com/game/daily/506264195"
+        },
+        "record": {
+            "win": 59,
+            "loss": 30,
+            "draw": 7,
+            "time_per_move": 111126,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1830,
+            "date": 1711801058,
+            "rd": 254
+        },
+        "best": {
+            "rating": 2083,
+            "date": 1605116704,
+            "game": "https://www.chess.com/game/live/5726511576"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2758,
+            "date": 1741545664,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1730196492,
+            "game": "https://www.chess.com/game/live/123096623251"
+        },
+        "record": {
+            "win": 547,
+            "loss": 427,
+            "draw": 73
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2742,
+            "date": 1741350738,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2742,
+            "date": 1738136033,
+            "game": "https://www.chess.com/game/live/132424914087"
+        },
+        "record": {
+            "win": 257,
+            "loss": 149,
+            "draw": 26
+        }
+    },
+    "fide": 2348,
+    "tactics": {
+        "highest": {
+            "rating": 3843,
+            "date": 1684943182
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1584800288
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

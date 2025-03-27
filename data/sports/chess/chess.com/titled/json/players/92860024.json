@@ -1,0 +1,85 @@
+{
+    "player_id": 92860024,
+    "@id": "https://api.chess.com/pub/player/pryhodko_olexander",
+    "url": "https://www.chess.com/member/Pryhodko_Olexander",
+    "name": "Alexander Prihodko",
+    "username": "pryhodko_olexander",
+    "title": "FM",
+    "followers": 171,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Kyiv",
+    "last_online": 1741618314,
+    "joined": 1602358028,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2511,
+            "date": 1684087203,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2544,
+            "date": 1606070169,
+            "game": "https://www.chess.com/game/live/5792736860"
+        },
+        "record": {
+            "win": 178,
+            "loss": 6,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2224,
+            "date": 1739269068,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1607882626,
+            "game": "https://www.chess.com/game/live/5792402424"
+        },
+        "record": {
+            "win": 237,
+            "loss": 86,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2430,
+            "date": 1734710389,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1734709745,
+            "game": "https://www.chess.com/game/live/128445862881"
+        },
+        "record": {
+            "win": 137,
+            "loss": 43,
+            "draw": 20
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3041,
+            "date": 1674402901
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1602444711
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 90,
+            "score": 87
+        }
+    }
+}

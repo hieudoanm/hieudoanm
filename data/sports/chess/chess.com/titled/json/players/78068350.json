@@ -1,0 +1,63 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/78068350.1983ca12.200x200o.eb5ec314b687.jpeg",
+    "player_id": 78068350,
+    "@id": "https://api.chess.com/pub/player/atom596",
+    "url": "https://www.chess.com/member/Atom596",
+    "name": "Carlos Felipe Squella Lavin",
+    "username": "atom596",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/CL",
+    "last_online": 1593292444,
+    "joined": 1588101785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2450,
+            "date": 1591013361,
+            "rd": 130
+        },
+        "best": {
+            "rating": 2026,
+            "date": 1588113694,
+            "game": "https://www.chess.com/game/live/4785146336"
+        },
+        "record": {
+            "win": 7,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2029,
+            "date": 1593295006,
+            "rd": 113
+        },
+        "best": {
+            "rating": 2304,
+            "date": 1593292338,
+            "game": "https://www.chess.com/game/live/4785423688"
+        },
+        "record": {
+            "win": 13,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1588101785
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1588101785
+        }
+    },
+    "puzzle_rush": {}
+}

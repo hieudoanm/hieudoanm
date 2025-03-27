@@ -1,0 +1,85 @@
+{
+    "player_id": 55625190,
+    "@id": "https://api.chess.com/pub/player/haotang007",
+    "url": "https://www.chess.com/member/haoTang007",
+    "username": "haotang007",
+    "title": "CM",
+    "followers": 95,
+    "country": "https://api.chess.com/pub/country/MY",
+    "last_online": 1741571041,
+    "joined": 1546824480,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1311,
+            "date": 1710232712,
+            "rd": 112
+        },
+        "best": {
+            "rating": 1725,
+            "date": 1588462014,
+            "game": "https://www.chess.com/game/daily/260575784"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 0,
+            "time_per_move": 23477,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2225,
+            "date": 1740810473,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2265,
+            "date": 1737698049,
+            "game": "https://www.chess.com/game/live/132144048903"
+        },
+        "record": {
+            "win": 1189,
+            "loss": 819,
+            "draw": 163
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1869,
+            "date": 1738714578,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2050,
+            "date": 1699953082,
+            "game": "https://www.chess.com/game/live/96116598857"
+        },
+        "record": {
+            "win": 1025,
+            "loss": 909,
+            "draw": 85
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2871,
+            "date": 1640167426
+        },
+        "lowest": {
+            "rating": 805,
+            "date": 1564261701
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

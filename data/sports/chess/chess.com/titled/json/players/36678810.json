@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36678810.2231543e.200x200o.28802771fc33.jpg",
+    "player_id": 36678810,
+    "@id": "https://api.chess.com/pub/player/babyboss31",
+    "url": "https://www.chess.com/member/BabyBoss31",
+    "name": "Rohun Trakru",
+    "username": "babyboss31",
+    "title": "CM",
+    "followers": 206,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Texas",
+    "last_online": 1739937249,
+    "joined": 1498766164,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1971,
+            "date": 1739937272,
+            "rd": 182
+        },
+        "best": {
+            "rating": 1971,
+            "date": 1667758804,
+            "game": "https://www.chess.com/game/daily/261494260"
+        },
+        "record": {
+            "win": 19,
+            "loss": 5,
+            "draw": 3,
+            "time_per_move": 80616,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1098,
+            "date": 1580339355,
+            "rd": 271
+        },
+        "best": {
+            "rating": 1400,
+            "date": 1498766164,
+            "game": "https://www.chess.com/game/daily/245532964"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 80616,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2341,
+            "date": 1725867923,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2384,
+            "date": 1654360038,
+            "game": "https://www.chess.com/game/live/17256192839"
+        },
+        "record": {
+            "win": 49,
+            "loss": 20,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2793,
+            "date": 1735533868,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2822,
+            "date": 1711415125,
+            "game": "https://www.chess.com/game/live/128738606369"
+        },
+        "record": {
+            "win": 1545,
+            "loss": 1239,
+            "draw": 299
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2561,
+            "date": 1738685836,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2639,
+            "date": 1663549242,
+            "game": "https://www.chess.com/game/live/20539881879"
+        },
+        "record": {
+            "win": 1473,
+            "loss": 1198,
+            "draw": 288
+        }
+    },
+    "fide": 2157,
+    "tactics": {
+        "highest": {
+            "rating": 3124,
+            "date": 1725556175
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1499745887
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/191700637.ba57498e.200x200o.261c4efd139e.jpg",
+    "player_id": 191700637,
+    "@id": "https://api.chess.com/pub/player/chxss_khxsbu",
+    "url": "https://www.chess.com/member/Chxss_Khxsbu",
+    "name": "Warsia Khusbu",
+    "username": "chxss_khxsbu",
+    "title": "WCM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/BD",
+    "location": "Dhaka",
+    "last_online": 1741691258,
+    "joined": 1659200309,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1229,
+            "date": 1740411575,
+            "rd": 71
+        },
+        "best": {
+            "rating": 1231,
+            "date": 1701882741,
+            "game": "https://www.chess.com/game/daily/543742705"
+        },
+        "record": {
+            "win": 39,
+            "loss": 13,
+            "draw": 1,
+            "time_per_move": 41214,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1596,
+            "date": 1720298022,
+            "rd": 129
+        },
+        "best": {
+            "rating": 1744,
+            "date": 1659355440,
+            "game": "https://www.chess.com/game/live/53093368303"
+        },
+        "record": {
+            "win": 31,
+            "loss": 25,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1470,
+            "date": 1741672481,
+            "rd": 55
+        },
+        "best": {
+            "rating": 1851,
+            "date": 1687886566,
+            "game": "https://www.chess.com/game/live/81629207413"
+        },
+        "record": {
+            "win": 303,
+            "loss": 278,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1968,
+            "date": 1741595601,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2022,
+            "date": 1732900256,
+            "game": "https://www.chess.com/game/live/116695258937"
+        },
+        "record": {
+            "win": 425,
+            "loss": 405,
+            "draw": 47
+        }
+    },
+    "fide": 1959,
+    "tactics": {
+        "highest": {
+            "rating": 3138,
+            "date": 1693915719
+        },
+        "lowest": {
+            "rating": 810,
+            "date": 1659200345
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

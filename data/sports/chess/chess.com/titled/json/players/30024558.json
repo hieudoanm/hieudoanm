@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30024558.e6d23004.200x200o.06b7b7765b85.jpeg",
+    "player_id": 30024558,
+    "@id": "https://api.chess.com/pub/player/blagorod",
+    "url": "https://www.chess.com/member/Blagorod",
+    "name": "Anatoly Borodavkin",
+    "username": "blagorod",
+    "title": "CM",
+    "followers": 71,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "odessa",
+    "last_online": 1741679219,
+    "joined": 1474393041,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1714858730,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 58974,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2389,
+            "date": 1741679811,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1711191007,
+            "game": "https://www.chess.com/game/live/114512878803"
+        },
+        "record": {
+            "win": 853,
+            "loss": 513,
+            "draw": 212
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1858,
+            "date": 1605987384,
+            "rd": 95
+        },
+        "best": {
+            "rating": 1858,
+            "date": 1605987384,
+            "game": "https://www.chess.com/game/live/2241784553"
+        },
+        "record": {
+            "win": 84,
+            "loss": 44,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2286,
+            "date": 1740761240,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2324,
+            "date": 1739052606,
+            "game": "https://www.chess.com/game/live/5546627544"
+        },
+        "record": {
+            "win": 936,
+            "loss": 657,
+            "draw": 164
+        }
+    },
+    "fide": 2035,
+    "tactics": {
+        "highest": {
+            "rating": 3382,
+            "date": 1740649580
+        },
+        "lowest": {
+            "rating": 1088,
+            "date": 1497170609
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

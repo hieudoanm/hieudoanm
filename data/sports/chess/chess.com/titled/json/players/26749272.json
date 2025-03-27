@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26749272.b6ae2e0a.200x200o.391a8964f58e.jpeg",
+    "player_id": 26749272,
+    "@id": "https://api.chess.com/pub/player/davidstevanic",
+    "url": "https://www.chess.com/member/DavidStevanic",
+    "name": "David Stevani\u0107",
+    "username": "davidstevanic",
+    "title": "FM",
+    "followers": 51,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1741344460,
+    "joined": 1455631321,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 987,
+            "date": 1732286297,
+            "rd": 125
+        },
+        "best": {
+            "rating": 1313,
+            "date": 1456149975,
+            "game": "https://www.chess.com/game/daily/129110604"
+        },
+        "record": {
+            "win": 1,
+            "loss": 14,
+            "draw": 0,
+            "time_per_move": 65222,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1229,
+            "date": 1456542605,
+            "rd": 226
+        },
+        "best": {
+            "rating": 1341,
+            "date": 1455910720,
+            "game": "https://www.chess.com/game/daily/129110900"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 65222,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2062,
+            "date": 1734853862,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2281,
+            "date": 1547147204,
+            "game": "https://www.chess.com/game/live/122855079045"
+        },
+        "record": {
+            "win": 10,
+            "loss": 6,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2473,
+            "date": 1738109534,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1730836474,
+            "game": "https://www.chess.com/game/live/124743598781"
+        },
+        "record": {
+            "win": 994,
+            "loss": 861,
+            "draw": 114
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2363,
+            "date": 1739048737,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2500,
+            "date": 1730748477,
+            "game": "https://www.chess.com/game/live/124582785507"
+        },
+        "record": {
+            "win": 340,
+            "loss": 271,
+            "draw": 38
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3932,
+            "date": 1566932642
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1455631610
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 75,
+            "score": 72
+        }
+    }
+}

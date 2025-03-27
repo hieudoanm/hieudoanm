@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29821564.57385f13.200x200o.6b99b7e3d198.gif",
+    "player_id": 29821564,
+    "@id": "https://api.chess.com/pub/player/grebeniuk-s",
+    "url": "https://www.chess.com/member/Grebeniuk-S",
+    "name": "Semen Grebeniuk",
+    "username": "grebeniuk-s",
+    "title": "NM",
+    "followers": 177,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Brovary",
+    "last_online": 1741593958,
+    "joined": 1473246537,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1529,
+            "date": 1703496512,
+            "rd": 149
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1589572424,
+            "game": "https://www.chess.com/game/daily/263047012"
+        },
+        "record": {
+            "win": 21,
+            "loss": 6,
+            "draw": 1,
+            "time_per_move": 16432,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2293,
+            "date": 1739455835,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2335,
+            "date": 1634300970,
+            "game": "https://www.chess.com/game/live/133193936725"
+        },
+        "record": {
+            "win": 33,
+            "loss": 3,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2707,
+            "date": 1727613672,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2772,
+            "date": 1701102373,
+            "game": "https://www.chess.com/game/live/29900318767"
+        },
+        "record": {
+            "win": 5018,
+            "loss": 4067,
+            "draw": 434
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2573,
+            "date": 1740650985,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2670,
+            "date": 1734633945,
+            "game": "https://www.chess.com/game/live/86217041673"
+        },
+        "record": {
+            "win": 1970,
+            "loss": 1705,
+            "draw": 270
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3506,
+            "date": 1713212678
+        },
+        "lowest": {
+            "rating": 1374,
+            "date": 1473274283
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 85,
+            "score": 82
+        }
+    }
+}

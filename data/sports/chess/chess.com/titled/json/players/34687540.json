@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34687540.cd9e8ba4.200x200o.6f72aac449f1.jpg",
+    "player_id": 34687540,
+    "@id": "https://api.chess.com/pub/player/im_alex_ivanov",
+    "url": "https://www.chess.com/member/IM_Alex_Ivanov",
+    "name": "Alex Ivanov",
+    "username": "im_alex_ivanov",
+    "title": "IM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "Antalya",
+    "last_online": 1741463420,
+    "joined": 1491897612,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2003,
+            "date": 1738151852,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1738151852,
+            "game": "https://www.chess.com/game/daily/764797281"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 814,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2582,
+            "date": 1740825312,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2658,
+            "date": 1692714971,
+            "game": "https://www.chess.com/game/live/86453946861"
+        },
+        "record": {
+            "win": 117,
+            "loss": 104,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2403,
+            "date": 1717426854,
+            "rd": 134
+        },
+        "best": {
+            "rating": 2403,
+            "date": 1717426854,
+            "game": "https://www.chess.com/game/live/111165120273"
+        },
+        "record": {
+            "win": 13,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "fide": 2415,
+    "tactics": {
+        "highest": {
+            "rating": 1641,
+            "date": 1493976318
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1493975440
+        }
+    },
+    "puzzle_rush": {}
+}

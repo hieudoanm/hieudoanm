@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/63997150.aa1302f3.200x200o.300e87b493a8.png",
+    "player_id": 63997150,
+    "@id": "https://api.chess.com/pub/player/mgh1380",
+    "url": "https://www.chess.com/member/mgh1380",
+    "username": "mgh1380",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/IR",
+    "last_online": 1741605523,
+    "joined": 1565023095,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2329,
+            "date": 1604742826,
+            "rd": 119
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1604604373,
+            "game": "https://www.chess.com/game/live/5673889196"
+        },
+        "record": {
+            "win": 8,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2231,
+            "date": 1737042588,
+            "rd": 150
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1636842960,
+            "game": "https://www.chess.com/game/live/64031989535"
+        },
+        "record": {
+            "win": 125,
+            "loss": 97,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1935,
+            "date": 1737043097,
+            "rd": 176
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1636842771,
+            "game": "https://www.chess.com/game/live/31150252987"
+        },
+        "record": {
+            "win": 88,
+            "loss": 73,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3369,
+            "date": 1741575922
+        },
+        "lowest": {
+            "rating": 1016,
+            "date": 1583154362
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

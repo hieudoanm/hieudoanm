@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47195930.2da42f36.200x200o.a8897c8e3665.jpg",
+    "player_id": 47195930,
+    "@id": "https://api.chess.com/pub/player/schachmatttv_tobi",
+    "url": "https://www.chess.com/member/SchachmattTV_Tobi",
+    "name": "Tobias Kolb",
+    "username": "schachmatttv_tobi",
+    "title": "FM",
+    "followers": 156,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741698072,
+    "joined": 1529329269,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1363,
+            "date": 1730646459,
+            "rd": 290
+        },
+        "best": {
+            "rating": 1363,
+            "date": 1726943974,
+            "game": "https://www.chess.com/game/daily/681139881"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 7569,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2406,
+            "date": 1740584488,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2388,
+            "date": 1738594967,
+            "game": "https://www.chess.com/game/live/131296226011"
+        },
+        "record": {
+            "win": 109,
+            "loss": 20,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2406,
+            "date": 1714817764,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1714817764,
+            "game": "https://www.chess.com/game/live/108556778741"
+        },
+        "record": {
+            "win": 45,
+            "loss": 13,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2764,
+            "date": 1737137350,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2764,
+            "date": 1737137350,
+            "game": "https://www.chess.com/game/live/83522228083"
+        },
+        "record": {
+            "win": 1343,
+            "loss": 968,
+            "draw": 197
+        }
+    },
+    "fide": 2410,
+    "tactics": {
+        "highest": {
+            "rating": 3511,
+            "date": 1738100401
+        },
+        "lowest": {
+            "rating": 809,
+            "date": 1529737177
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30204534.e8f893bf.200x200o.de2aa3f434d5.jpeg",
+    "player_id": 30204534,
+    "@id": "https://api.chess.com/pub/player/erikblomqvist",
+    "url": "https://www.chess.com/member/ErikBlomqvist",
+    "name": "Erik Blomqvist",
+    "username": "erikblomqvist",
+    "title": "GM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1733762473,
+    "joined": 1475433765,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2359,
+            "date": 1727286929,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2711,
+            "date": 1564514313,
+            "game": "https://www.chess.com/game/live/69184021653"
+        },
+        "record": {
+            "win": 19,
+            "loss": 23,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2488,
+            "date": 1570391227,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2403,
+            "date": 1570387818,
+            "game": "https://www.chess.com/game/live/4095710120"
+        },
+        "record": {
+            "win": 18,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2548,
+            "date": 1718123189,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2646,
+            "date": 1675206926,
+            "game": "https://www.chess.com/game/live/6354639798"
+        },
+        "record": {
+            "win": 205,
+            "loss": 156,
+            "draw": 28
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2863,
+            "date": 1591438447
+        },
+        "lowest": {
+            "rating": 1341,
+            "date": 1484136047
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

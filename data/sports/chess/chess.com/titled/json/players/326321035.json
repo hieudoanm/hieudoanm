@@ -1,0 +1,62 @@
+{
+    "player_id": 326321035,
+    "@id": "https://api.chess.com/pub/player/chesssplayer21",
+    "url": "https://www.chess.com/member/Chesssplayer21",
+    "name": "Platon Galperin",
+    "username": "chesssplayer21",
+    "title": "GM",
+    "followers": 352,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1733783168,
+    "joined": 1700111871,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2999,
+            "date": 1725938693,
+            "rd": 39
+        },
+        "best": {
+            "rating": 3033,
+            "date": 1725384337,
+            "game": "https://www.chess.com/game/live/97485034303"
+        },
+        "record": {
+            "win": 85,
+            "loss": 46,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2851,
+            "date": 1733783517,
+            "rd": 40
+        },
+        "best": {
+            "rating": 3049,
+            "date": 1703904952,
+            "game": "https://www.chess.com/game/live/119382570811"
+        },
+        "record": {
+            "win": 973,
+            "loss": 706,
+            "draw": 232
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3446,
+            "date": 1730821864
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1700111871
+        }
+    },
+    "puzzle_rush": {}
+}

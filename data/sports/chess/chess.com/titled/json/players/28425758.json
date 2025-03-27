@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28425758.a169a694.200x200o.ac0175cd2094.jpg",
+    "player_id": 28425758,
+    "@id": "https://api.chess.com/pub/player/superetual",
+    "url": "https://www.chess.com/member/Superetual",
+    "name": "Andrea Stella",
+    "username": "superetual",
+    "title": "GM",
+    "followers": 413,
+    "country": "https://api.chess.com/pub/country/IT",
+    "location": "Milan",
+    "last_online": 1739039882,
+    "joined": 1464645314,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2347,
+            "date": 1615066993,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1606425884,
+            "game": "https://www.chess.com/game/live/5828122441"
+        },
+        "record": {
+            "win": 4,
+            "loss": 5,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2657,
+            "date": 1597098924,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1592006684,
+            "game": "https://www.chess.com/game/live/2971050277"
+        },
+        "record": {
+            "win": 356,
+            "loss": 243,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2505,
+            "date": 1583160674,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1583160674,
+            "game": "https://www.chess.com/game/live/3424270971"
+        },
+        "record": {
+            "win": 92,
+            "loss": 45,
+            "draw": 9
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2990,
+            "date": 1551265115
+        },
+        "lowest": {
+            "rating": 2207,
+            "date": 1532040844
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

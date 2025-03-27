@@ -1,0 +1,84 @@
+{
+    "player_id": 4042329,
+    "@id": "https://api.chess.com/pub/player/zq1",
+    "url": "https://www.chess.com/member/Zq1",
+    "name": "Dmitry Gurevich",
+    "username": "zq1",
+    "title": "GM",
+    "followers": 163,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741538907,
+    "joined": 1285678506,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2353,
+            "date": 1740945088,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2555,
+            "date": 1606698231,
+            "game": "https://www.chess.com/game/live/5850879207"
+        },
+        "record": {
+            "win": 11,
+            "loss": 14,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1986,
+            "date": 1741468390,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1554318142,
+            "game": "https://www.chess.com/game/live/127940999859"
+        },
+        "record": {
+            "win": 603,
+            "loss": 633,
+            "draw": 56
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2510,
+            "date": 1741471063,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1642010314,
+            "game": "https://www.chess.com/game/live/104621514221"
+        },
+        "record": {
+            "win": 5020,
+            "loss": 4007,
+            "draw": 828
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3443,
+            "date": 1740613324
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1530486445
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

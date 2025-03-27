@@ -1,0 +1,55 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/432297389.e1e2f80f.200x200o.aa350840da9f.jpg",
+    "player_id": 432297389,
+    "@id": "https://api.chess.com/pub/player/yakokiller",
+    "url": "https://www.chess.com/member/yakokiller",
+    "name": "Jos\u00e9 Ignacio Ferrreiro Montoya",
+    "username": "yakokiller",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Gipuzkoa",
+    "last_online": 1741305369,
+    "joined": 1740493531,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1786,
+            "date": 1741320398,
+            "rd": 46
+        },
+        "record": {
+            "win": 23,
+            "loss": 30,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1924,
+            "date": 1741330394,
+            "rd": 31
+        },
+        "record": {
+            "win": 57,
+            "loss": 62,
+            "draw": 3
+        }
+    },
+    "fide": 1997,
+    "tactics": {
+        "highest": {
+            "rating": 2618,
+            "date": 1741293999
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1740493531
+        }
+    },
+    "puzzle_rush": {}
+}

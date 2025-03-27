@@ -1,0 +1,109 @@
+{
+    "player_id": 4083186,
+    "@id": "https://api.chess.com/pub/player/cluepon",
+    "url": "https://www.chess.com/member/cluepon",
+    "name": "Mark Huizer",
+    "username": "cluepon",
+    "title": "CM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "Duckstad",
+    "last_online": 1740686966,
+    "joined": 1286371515,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2235,
+            "date": 1714325132,
+            "rd": 320
+        },
+        "best": {
+            "rating": 2332,
+            "date": 1330341894,
+            "game": "https://www.chess.com/game/daily/44943127"
+        },
+        "record": {
+            "win": 352,
+            "loss": 45,
+            "draw": 28,
+            "time_per_move": 31157,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1763,
+            "date": 1625989528,
+            "rd": 133
+        },
+        "best": {
+            "rating": 1763,
+            "date": 1625989528,
+            "game": "https://www.chess.com/game/live/19728051993"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1655,
+            "date": 1739890486,
+            "rd": 106
+        },
+        "best": {
+            "rating": 1850,
+            "date": 1385305865,
+            "game": "https://www.chess.com/game/live/63320323107"
+        },
+        "record": {
+            "win": 45,
+            "loss": 16,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1991,
+            "date": 1719240313,
+            "rd": 130
+        },
+        "best": {
+            "rating": 1991,
+            "date": 1719240313,
+            "game": "https://www.chess.com/game/live/66436259733"
+        },
+        "record": {
+            "win": 66,
+            "loss": 15,
+            "draw": 5
+        }
+    },
+    "fide": 2129,
+    "tactics": {
+        "highest": {
+            "rating": 3498,
+            "date": 1724574254
+        },
+        "lowest": {
+            "rating": 1041,
+            "date": 1286372056
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        },
+        "daily": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "player_id": 312945877,
+    "@id": "https://api.chess.com/pub/player/fm_vs_noob2008",
+    "url": "https://www.chess.com/member/FM_vs_noob2008",
+    "username": "fm_vs_noob2008",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741702960,
+    "joined": 1694774895,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1728027134,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 58550,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2380,
+            "date": 1741004745
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1716674282,
+            "game": "https://www.chess.com/game/live/104948386775"
+        },
+        "record": {
+            "win": 282,
+            "loss": 235,
+            "draw": 47
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2189,
+            "date": 1741547830,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2194,
+            "date": 1730926605,
+            "game": "https://www.chess.com/game/live/124665543183"
+        },
+        "record": {
+            "win": 47,
+            "loss": 39,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2547,
+            "date": 1741703669,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2567,
+            "date": 1733865997,
+            "game": "https://www.chess.com/game/live/120570677499"
+        },
+        "record": {
+            "win": 928,
+            "loss": 829,
+            "draw": 121
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3414,
+            "date": 1738510954
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1694774895
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

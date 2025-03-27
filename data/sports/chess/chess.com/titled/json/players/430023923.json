@@ -1,0 +1,46 @@
+{
+    "player_id": 430023923,
+    "@id": "https://api.chess.com/pub/player/dlbdlbdl",
+    "url": "https://www.chess.com/member/dlbdlbdl",
+    "name": "Stanislau Biazliudau",
+    "username": "dlbdlbdl",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/BY",
+    "last_online": 1741632121,
+    "joined": 1739804734,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2555,
+            "date": 1740911259,
+            "rd": 48
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "fide": 2150,
+    "tactics": {
+        "highest": {
+            "rating": 2167,
+            "date": 1740922995
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1739804734
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

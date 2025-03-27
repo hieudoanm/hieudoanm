@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/115845378.460a4686.200x200o.f0572fbf14c9.jpeg",
+    "player_id": 115845378,
+    "@id": "https://api.chess.com/pub/player/legendisback1",
+    "url": "https://www.chess.com/member/legendisback1",
+    "name": "Yagiz Kaan Erdogmus",
+    "username": "legendisback1",
+    "title": "GM",
+    "followers": 1322,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741701574,
+    "joined": 1611647701,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2132,
+            "date": 1738520682,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2132,
+            "date": 1675287564,
+            "game": "https://www.chess.com/game/live/69022287853"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3149,
+            "date": 1741460382,
+            "rd": 27
+        },
+        "best": {
+            "rating": 3310,
+            "date": 1735843667,
+            "game": "https://www.chess.com/game/live/129398586817"
+        },
+        "record": {
+            "win": 1899,
+            "loss": 1010,
+            "draw": 150
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3089,
+            "date": 1741702783,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3212,
+            "date": 1739301114,
+            "game": "https://www.chess.com/game/live/93993685799"
+        },
+        "record": {
+            "win": 2882,
+            "loss": 2269,
+            "draw": 508
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 8803,
+            "date": 1688391295
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1623593541
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

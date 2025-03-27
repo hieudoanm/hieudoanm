@@ -1,0 +1,137 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1609399.c1a20ed6.200x200o.bcf5db724535.jpeg",
+    "player_id": 1609399,
+    "@id": "https://api.chess.com/pub/player/dj_haubi",
+    "url": "https://www.chess.com/member/DJ_Haubi",
+    "name": "Thorsten Michael Haub",
+    "username": "dj_haubi",
+    "title": "GM",
+    "followers": 1598,
+    "country": "https://api.chess.com/pub/country/DE",
+    "location": "Siegen",
+    "last_online": 1734163431,
+    "joined": 1227287746,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2068,
+            "date": 1734163669,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1611250247,
+            "game": "https://www.chess.com/game/daily/108786258"
+        },
+        "record": {
+            "win": 2785,
+            "loss": 1337,
+            "draw": 1657,
+            "time_per_move": 10297,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 7,
+            "withdraw": 1,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2017,
+            "date": 1733212343,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2099,
+            "date": 1531849340,
+            "game": "https://www.chess.com/game/daily/303908816"
+        },
+        "record": {
+            "win": 874,
+            "loss": 415,
+            "draw": 511,
+            "time_per_move": 10297,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 7,
+            "withdraw": 1,
+            "count": 1,
+            "highest_finish": 1
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2239,
+            "date": 1723709226,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2537,
+            "date": 1600459649,
+            "game": "https://www.chess.com/game/live/69196174859"
+        },
+        "record": {
+            "win": 200,
+            "loss": 21,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2022,
+            "date": 1683190439,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2632,
+            "date": 1663352481,
+            "game": "https://www.chess.com/game/live/883237025"
+        },
+        "record": {
+            "win": 1090,
+            "loss": 111,
+            "draw": 26
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2374,
+            "date": 1729494845,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2584,
+            "date": 1573417296,
+            "game": "https://www.chess.com/game/live/74965495107"
+        },
+        "record": {
+            "win": 1889,
+            "loss": 429,
+            "draw": 182
+        }
+    },
+    "fide": 2333,
+    "tactics": {
+        "highest": {
+            "rating": 2707,
+            "date": 1432051786
+        },
+        "lowest": {
+            "rating": 1938,
+            "date": 1405082851
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 35,
+            "score": 35
+        }
+    }
+}

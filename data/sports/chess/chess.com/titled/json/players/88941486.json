@@ -1,0 +1,87 @@
+{
+    "player_id": 88941486,
+    "@id": "https://api.chess.com/pub/player/aufeve",
+    "url": "https://www.chess.com/member/aufeve",
+    "name": "Aurora Edith Felix Vega",
+    "username": "aufeve",
+    "title": "WFM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/PE",
+    "last_online": 1741280149,
+    "joined": 1597281124,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1316,
+            "date": 1707624606,
+            "rd": 264
+        },
+        "best": {
+            "rating": 1316,
+            "date": 1707624606,
+            "game": "https://www.chess.com/game/daily/607196427"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 95954,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1906,
+            "date": 1729063401,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2366,
+            "date": 1605423200,
+            "game": "https://www.chess.com/game/live/5748213619"
+        },
+        "record": {
+            "win": 780,
+            "loss": 715,
+            "draw": 55
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2022,
+            "date": 1735619103,
+            "rd": 108
+        },
+        "best": {
+            "rating": 2336,
+            "date": 1609105007,
+            "game": "https://www.chess.com/game/live/9492404541"
+        },
+        "record": {
+            "win": 188,
+            "loss": 136,
+            "draw": 14
+        }
+    },
+    "fide": 1922,
+    "tactics": {
+        "highest": {
+            "rating": 2736,
+            "date": 1721269583
+        },
+        "lowest": {
+            "rating": 818,
+            "date": 1599655392
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

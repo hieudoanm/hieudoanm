@@ -1,0 +1,98 @@
+{
+    "player_id": 12054424,
+    "@id": "https://api.chess.com/pub/player/lukianoo",
+    "url": "https://www.chess.com/member/Lukianoo",
+    "name": "Luka Paichadze",
+    "username": "lukianoo",
+    "title": "GM",
+    "followers": 690,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1741615390,
+    "joined": 1369734093,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1101,
+            "date": 1546974857,
+            "rd": 259
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 14142,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2484,
+            "date": 1727286441,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2746,
+            "date": 1590772722,
+            "game": "https://www.chess.com/game/live/121019402867"
+        },
+        "record": {
+            "win": 17,
+            "loss": 18,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2732,
+            "date": 1712955493,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2769,
+            "date": 1464636196,
+            "game": "https://www.chess.com/game/live/1629095841"
+        },
+        "record": {
+            "win": 362,
+            "loss": 292,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2947,
+            "date": 1741698123,
+            "rd": 37
+        },
+        "best": {
+            "rating": 3004,
+            "date": 1735284100,
+            "game": "https://www.chess.com/game/live/130509049197"
+        },
+        "record": {
+            "win": 1874,
+            "loss": 1747,
+            "draw": 323
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3680,
+            "date": 1738090330
+        },
+        "lowest": {
+            "rating": 1362,
+            "date": 1456735163
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

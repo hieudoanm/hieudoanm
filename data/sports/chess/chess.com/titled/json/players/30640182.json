@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30640182.41d7b7ff.200x200o.f9173453f5ea.jpeg",
+    "player_id": 30640182,
+    "@id": "https://api.chess.com/pub/player/k_a_s_t_o_r",
+    "url": "https://www.chess.com/member/K_A_S_T_O_R",
+    "name": "Rodrigo Vasquez",
+    "username": "k_a_s_t_o_r",
+    "title": "GM",
+    "followers": 1700,
+    "country": "https://api.chess.com/pub/country/CL",
+    "location": "santiago",
+    "last_online": 1741636564,
+    "joined": 1477701741,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2131,
+            "date": 1658046505,
+            "rd": 204
+        },
+        "best": {
+            "rating": 2131,
+            "date": 1626463802,
+            "game": "https://www.chess.com/game/daily/319655826"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 36602,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2460,
+            "date": 1727290074,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2700,
+            "date": 1597415878,
+            "game": "https://www.chess.com/game/live/69182174897"
+        },
+        "record": {
+            "win": 84,
+            "loss": 70,
+            "draw": 28
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2893,
+            "date": 1741184085,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2959,
+            "date": 1721794818,
+            "game": "https://www.chess.com/game/live/126730839927"
+        },
+        "record": {
+            "win": 2911,
+            "loss": 1832,
+            "draw": 216
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2804,
+            "date": 1741182959,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2986,
+            "date": 1692714030,
+            "game": "https://www.chess.com/game/live/114904681873"
+        },
+        "record": {
+            "win": 4955,
+            "loss": 3010,
+            "draw": 878
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3174,
+            "date": 1563811683
+        },
+        "lowest": {
+            "rating": 1826,
+            "date": 1487581378
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 121,
+            "score": 118
+        }
+    }
+}

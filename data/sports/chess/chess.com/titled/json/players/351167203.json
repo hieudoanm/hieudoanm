@@ -1,0 +1,45 @@
+{
+    "player_id": 351167203,
+    "@id": "https://api.chess.com/pub/player/lordsacalot",
+    "url": "https://www.chess.com/member/LordSacALot",
+    "name": "Dr. Christian Luncescu",
+    "username": "lordsacalot",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1739283855,
+    "joined": 1710570522,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2531,
+            "date": 1741330452,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2559,
+            "date": 1738699158,
+            "game": "https://www.chess.com/game/live/119960450059"
+        },
+        "record": {
+            "win": 672,
+            "loss": 482,
+            "draw": 138
+        }
+    },
+    "fide": 2110,
+    "tactics": {
+        "highest": {
+            "rating": 3460,
+            "date": 1711698183
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1710570522
+        }
+    },
+    "puzzle_rush": {}
+}

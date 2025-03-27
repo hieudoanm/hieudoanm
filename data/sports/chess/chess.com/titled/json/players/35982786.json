@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35982786.ba1b2cfc.200x200o.ffaa0f6252f2.jpg",
+    "player_id": 35982786,
+    "@id": "https://api.chess.com/pub/player/sergoy",
+    "url": "https://www.chess.com/member/sergoy",
+    "name": "Sergey Drygalov",
+    "username": "sergoy",
+    "title": "GM",
+    "followers": 419,
+    "country": "https://api.chess.com/pub/country/KR",
+    "last_online": 1741700280,
+    "joined": 1496330268,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 240,
+            "date": 1691707085,
+            "rd": 251
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 1897,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2571,
+            "date": 1739954022,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2624,
+            "date": 1675462019,
+            "game": "https://www.chess.com/game/live/100462500901"
+        },
+        "record": {
+            "win": 51,
+            "loss": 31,
+            "draw": 24
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2892,
+            "date": 1724003168,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2956,
+            "date": 1687626665,
+            "game": "https://www.chess.com/game/live/3007865728"
+        },
+        "record": {
+            "win": 1417,
+            "loss": 927,
+            "draw": 151
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3031,
+            "date": 1741608735,
+            "rd": 41
+        },
+        "best": {
+            "rating": 3104,
+            "date": 1739291434,
+            "game": "https://www.chess.com/game/live/102727841521"
+        },
+        "record": {
+            "win": 4013,
+            "loss": 2539,
+            "draw": 708
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3325,
+            "date": 1729947643
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1500418468
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

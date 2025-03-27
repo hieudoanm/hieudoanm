@@ -1,0 +1,93 @@
+{
+    "player_id": 17449766,
+    "@id": "https://api.chess.com/pub/player/lipauska3",
+    "url": "https://www.chess.com/member/lipauska3",
+    "name": "lipauska3",
+    "username": "lipauska3",
+    "title": "IM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/HR",
+    "last_online": 1741637665,
+    "joined": 1401128915,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1737480216,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 177138,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1046,
+            "date": 1716910587,
+            "rd": 253
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2441,
+            "date": 1740919654,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2465,
+            "date": 1715108697,
+            "game": "https://www.chess.com/game/live/128457787185"
+        },
+        "record": {
+            "win": 1257,
+            "loss": 832,
+            "draw": 74
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2702,
+            "date": 1741638541,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2794,
+            "date": 1712755750,
+            "game": "https://www.chess.com/game/live/106499867859"
+        },
+        "record": {
+            "win": 8157,
+            "loss": 6194,
+            "draw": 1566
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1658,
+            "date": 1698957901
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1401128915
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

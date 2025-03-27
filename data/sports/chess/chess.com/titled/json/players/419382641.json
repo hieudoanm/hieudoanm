@@ -1,0 +1,46 @@
+{
+    "player_id": 419382641,
+    "@id": "https://api.chess.com/pub/player/petztante",
+    "url": "https://www.chess.com/member/Petztante",
+    "name": "Aco Alvir",
+    "username": "petztante",
+    "title": "IM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/AT",
+    "last_online": 1740424167,
+    "joined": 1737399879,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2434,
+            "date": 1740424834,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2572,
+            "date": 1739917690,
+            "game": "https://www.chess.com/game/live/133655951733"
+        },
+        "record": {
+            "win": 22,
+            "loss": 35,
+            "draw": 1
+        }
+    },
+    "fide": 2256,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1737399879
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1737399879
+        }
+    },
+    "puzzle_rush": {}
+}

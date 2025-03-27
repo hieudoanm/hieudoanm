@@ -1,0 +1,68 @@
+{
+    "player_id": 163794567,
+    "@id": "https://api.chess.com/pub/player/iljiushenok_ilya",
+    "url": "https://www.chess.com/member/Iljiushenok_Ilya",
+    "name": "Ilia Iljiushenok",
+    "username": "iljiushenok_ilya",
+    "title": "GM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1741350206,
+    "joined": 1638808485,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2695,
+            "date": 1722317451,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2699,
+            "date": 1714794423,
+            "game": "https://www.chess.com/game/live/108533366637"
+        },
+        "record": {
+            "win": 25,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2776,
+            "date": 1710281870,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2848,
+            "date": 1700561247,
+            "game": "https://www.chess.com/game/live/76444972005"
+        },
+        "record": {
+            "win": 68,
+            "loss": 29,
+            "draw": 9
+        }
+    },
+    "fide": 2547,
+    "tactics": {
+        "highest": {
+            "rating": 3657,
+            "date": 1661035392
+        },
+        "lowest": {
+            "rating": 1229,
+            "date": 1640332891
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

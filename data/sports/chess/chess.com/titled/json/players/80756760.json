@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80756760.5733bb0d.200x200o.bd5924ba9ce2.jpg",
+    "player_id": 80756760,
+    "@id": "https://api.chess.com/pub/player/alexei_gubajdullin",
+    "url": "https://www.chess.com/member/Alexei_Gubajdullin",
+    "name": "Alexei Gubajdullin",
+    "username": "alexei_gubajdullin",
+    "title": "FM",
+    "followers": 50,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741457772,
+    "joined": 1590671497,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2548,
+            "date": 1741458177,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2575,
+            "date": 1591283923,
+            "game": "https://www.chess.com/game/live/132169798083"
+        },
+        "record": {
+            "win": 110,
+            "loss": 67,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2682,
+            "date": 1741132996,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2765,
+            "date": 1696369150,
+            "game": "https://www.chess.com/game/live/89504405103"
+        },
+        "record": {
+            "win": 1453,
+            "loss": 1125,
+            "draw": 247
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2407,
+            "date": 1681846764
+        },
+        "lowest": {
+            "rating": 2400,
+            "date": 1605949738
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34454714.2df2b2c6.200x200o.fa0485cd8dec.png",
+    "player_id": 34454714,
+    "@id": "https://api.chess.com/pub/player/kiaanagrawal",
+    "url": "https://www.chess.com/member/Kiaanagrawal",
+    "name": "Kiaan``` Agrawal",
+    "username": "kiaanagrawal",
+    "title": "CM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Raipur",
+    "last_online": 1709710913,
+    "joined": 1491107279,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1081,
+            "date": 1681713008,
+            "rd": 254
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 1347640,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1783,
+            "date": 1709379343,
+            "rd": 97
+        },
+        "best": {
+            "rating": 1931,
+            "date": 1539757600,
+            "game": "https://www.chess.com/game/live/2859251157"
+        },
+        "record": {
+            "win": 46,
+            "loss": 22,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1438,
+            "date": 1709452303,
+            "rd": 77
+        },
+        "best": {
+            "rating": 1815,
+            "date": 1538223795,
+            "game": "https://www.chess.com/game/live/2527996274"
+        },
+        "record": {
+            "win": 210,
+            "loss": 142,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1729,
+            "date": 1709649684,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2319,
+            "date": 1520074706,
+            "game": "https://www.chess.com/game/live/2830894897"
+        },
+        "record": {
+            "win": 304,
+            "loss": 157,
+            "draw": 19
+        }
+    },
+    "fide": 1323,
+    "tactics": {
+        "highest": {
+            "rating": 2705,
+            "date": 1683293268
+        },
+        "lowest": {
+            "rating": 734,
+            "date": 1491107337
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 36
+        }
+    }
+}

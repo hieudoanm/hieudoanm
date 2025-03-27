@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/336817175.a1112f98.200x200o.414cbfd00651.jpg",
+    "player_id": 336817175,
+    "@id": "https://api.chess.com/pub/player/gryffindorac8",
+    "url": "https://www.chess.com/member/Gryffindorac8",
+    "name": "Erik Golubovic",
+    "username": "gryffindorac8",
+    "title": "CM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/EU",
+    "last_online": 1741630228,
+    "joined": 1704402608,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2031,
+            "date": 1715940487,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2031,
+            "date": 1714120363,
+            "game": "https://www.chess.com/game/live/107858370089"
+        },
+        "record": {
+            "win": 6,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2462,
+            "date": 1733597963,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2490,
+            "date": 1712426077,
+            "game": "https://www.chess.com/game/live/106160517531"
+        },
+        "record": {
+            "win": 175,
+            "loss": 217,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2460,
+            "date": 1741111759,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2562,
+            "date": 1730826549,
+            "game": "https://www.chess.com/game/live/104604149037"
+        },
+        "record": {
+            "win": 240,
+            "loss": 227,
+            "draw": 45
+        }
+    },
+    "fide": 2025,
+    "tactics": {
+        "highest": {
+            "rating": 3166,
+            "date": 1727015272
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1704402608
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

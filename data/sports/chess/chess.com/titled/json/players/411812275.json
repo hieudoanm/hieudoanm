@@ -1,0 +1,75 @@
+{
+    "player_id": 411812275,
+    "@id": "https://api.chess.com/pub/player/televisionishere",
+    "url": "https://www.chess.com/member/TelevisionIsHere",
+    "name": "Le Vy Tran",
+    "username": "televisionishere",
+    "title": "WFM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/VN",
+    "last_online": 1741173489,
+    "joined": 1734955563,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2004,
+            "date": 1740409591,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2007,
+            "date": 1739631611,
+            "game": "https://www.chess.com/game/live/133282138605"
+        },
+        "record": {
+            "win": 17,
+            "loss": 7,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1926,
+            "date": 1741441903,
+            "rd": 144
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2273,
+            "date": 1741420181,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1737498187,
+            "game": "https://www.chess.com/game/live/131823064233"
+        },
+        "record": {
+            "win": 21,
+            "loss": 23,
+            "draw": 3
+        }
+    },
+    "fide": 1900,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1734955563
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1734955563
+        }
+    },
+    "puzzle_rush": {}
+}

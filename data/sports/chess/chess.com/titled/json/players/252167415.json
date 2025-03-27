@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/252167415.aaa72eb6.200x200o.447c26f5b61d.jpg",
+    "player_id": 252167415,
+    "@id": "https://api.chess.com/pub/player/crobliterator",
+    "url": "https://www.chess.com/member/CRObliterator",
+    "name": "Matej Jusup",
+    "username": "crobliterator",
+    "title": "CM",
+    "followers": 58,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1738522507,
+    "joined": 1677256961,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2367,
+            "date": 1732569213,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1699313617,
+            "game": "https://www.chess.com/game/live/93052283603"
+        },
+        "record": {
+            "win": 41,
+            "loss": 38,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2411,
+            "date": 1736794721,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2585,
+            "date": 1728855602,
+            "game": "https://www.chess.com/game/live/123594655687"
+        },
+        "record": {
+            "win": 2006,
+            "loss": 2133,
+            "draw": 371
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2707,
+            "date": 1703366833
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1677256961
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

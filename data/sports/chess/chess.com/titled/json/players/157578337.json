@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/157578337.cd453459.200x200o.1f5db9dbfc02.jpg",
+    "player_id": 157578337,
+    "@id": "https://api.chess.com/pub/player/klendi",
+    "url": "https://www.chess.com/member/Klendi",
+    "name": "Klendi Zeneli",
+    "username": "klendi",
+    "title": "CM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/AL",
+    "last_online": 1741384911,
+    "joined": 1633878964,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2155,
+            "date": 1711203683,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2157,
+            "date": 1705858667,
+            "game": "https://www.chess.com/game/live/99597104477"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2418,
+            "date": 1734197968,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2450,
+            "date": 1699117600,
+            "game": "https://www.chess.com/game/live/105553811927"
+        },
+        "record": {
+            "win": 180,
+            "loss": 409,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2577,
+            "date": 1741130776,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2688,
+            "date": 1736209800,
+            "game": "https://www.chess.com/game/live/99181478299"
+        },
+        "record": {
+            "win": 1371,
+            "loss": 1594,
+            "draw": 174
+        }
+    },
+    "fide": 2231,
+    "tactics": {
+        "highest": {
+            "rating": 3140,
+            "date": 1736415527
+        },
+        "lowest": {
+            "rating": 1008,
+            "date": 1633894661
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 31
+        }
+    }
+}

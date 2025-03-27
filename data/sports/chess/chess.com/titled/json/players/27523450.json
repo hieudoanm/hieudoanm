@@ -1,0 +1,84 @@
+{
+    "player_id": 27523450,
+    "@id": "https://api.chess.com/pub/player/nbk90",
+    "url": "https://www.chess.com/member/Nbk90",
+    "name": "Bakhtiyar Nugumanov",
+    "username": "nbk90",
+    "title": "IM",
+    "followers": 56,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1740588684,
+    "joined": 1459421925,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2182,
+            "date": 1725550336,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2436,
+            "date": 1584899134,
+            "game": "https://www.chess.com/game/live/5925562696"
+        },
+        "record": {
+            "win": 20,
+            "loss": 6,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2369,
+            "date": 1737210964,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2663,
+            "date": 1651515141,
+            "game": "https://www.chess.com/game/live/45067771053"
+        },
+        "record": {
+            "win": 119,
+            "loss": 153,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2463,
+            "date": 1740503149,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2673,
+            "date": 1585591366,
+            "game": "https://www.chess.com/game/live/85851092225"
+        },
+        "record": {
+            "win": 1916,
+            "loss": 2193,
+            "draw": 380
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3360,
+            "date": 1715016332
+        },
+        "lowest": {
+            "rating": 1228,
+            "date": 1459422231
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

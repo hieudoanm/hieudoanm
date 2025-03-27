@@ -1,0 +1,123 @@
+{
+    "player_id": 62749124,
+    "@id": "https://api.chess.com/pub/player/wiktorgolis",
+    "url": "https://www.chess.com/member/WiktorGolis",
+    "name": "Wiktor Golis",
+    "username": "wiktorgolis",
+    "title": "FM",
+    "followers": 126,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741376553,
+    "joined": 1561667787,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1732398403,
+            "rd": 82
+        },
+        "best": {
+            "rating": 1644,
+            "date": 1658035286,
+            "game": "https://www.chess.com/game/daily/326776588"
+        },
+        "record": {
+            "win": 157,
+            "loss": 80,
+            "draw": 15,
+            "time_per_move": 34293,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1001,
+            "date": 1605606706,
+            "rd": 346
+        },
+        "best": {
+            "rating": 1001,
+            "date": 1605606706,
+            "game": "https://www.chess.com/game/daily/281092646"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 34293,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1923,
+            "date": 1687727610,
+            "rd": 110
+        },
+        "best": {
+            "rating": 1938,
+            "date": 1632055797,
+            "game": "https://www.chess.com/game/live/5988232904"
+        },
+        "record": {
+            "win": 135,
+            "loss": 75,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2390,
+            "date": 1739915742,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1708891179,
+            "game": "https://www.chess.com/game/live/43058938495"
+        },
+        "record": {
+            "win": 1177,
+            "loss": 805,
+            "draw": 83
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2694,
+            "date": 1740528180,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2694,
+            "date": 1740528180,
+            "game": "https://www.chess.com/game/live/120930074387"
+        },
+        "record": {
+            "win": 1212,
+            "loss": 920,
+            "draw": 95
+        }
+    },
+    "fide": 2302,
+    "tactics": {
+        "highest": {
+            "rating": 3513,
+            "date": 1699103663
+        },
+        "lowest": {
+            "rating": 379,
+            "date": 1577951992
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/70328076.40aed1c9.200x200o.515542376ca3.png",
+    "player_id": 70328076,
+    "@id": "https://api.chess.com/pub/player/mightygmpretender",
+    "url": "https://www.chess.com/member/MightyGMpretender",
+    "name": "Antoni Kozak",
+    "username": "mightygmpretender",
+    "title": "NM",
+    "followers": 155,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741696486,
+    "joined": 1578212113,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1723,
+            "date": 1731432210,
+            "rd": 311
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 122044,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2607,
+            "date": 1739995468,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1711050976,
+            "game": "https://www.chess.com/game/live/74193818091"
+        },
+        "record": {
+            "win": 73,
+            "loss": 6,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2923,
+            "date": 1741258952,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2988,
+            "date": 1721636948,
+            "game": "https://www.chess.com/game/live/115427337973"
+        },
+        "record": {
+            "win": 2177,
+            "loss": 1545,
+            "draw": 261
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2803,
+            "date": 1741622729,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3011,
+            "date": 1723562125,
+            "game": "https://www.chess.com/game/live/102789731401"
+        },
+        "record": {
+            "win": 5912,
+            "loss": 4359,
+            "draw": 962
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3539,
+            "date": 1724654000
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1578213562
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

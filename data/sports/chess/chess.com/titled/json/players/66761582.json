@@ -1,0 +1,72 @@
+{
+    "player_id": 66761582,
+    "@id": "https://api.chess.com/pub/player/maus7",
+    "url": "https://www.chess.com/member/Maus7",
+    "name": "Matthias Dann",
+    "username": "maus7",
+    "title": "IM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741702462,
+    "joined": 1571261063,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2572,
+            "date": 1699732718,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2771,
+            "date": 1699726698,
+            "game": "https://www.chess.com/game/live/93470329529"
+        },
+        "record": {
+            "win": 26,
+            "loss": 42,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2678,
+            "date": 1736895360,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1721166986,
+            "game": "https://www.chess.com/game/live/114904074063"
+        },
+        "record": {
+            "win": 288,
+            "loss": 138,
+            "draw": 35
+        }
+    },
+    "fide": 2477,
+    "tactics": {
+        "highest": {
+            "rating": 3469,
+            "date": 1713095868
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1573763744
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        },
+        "daily": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

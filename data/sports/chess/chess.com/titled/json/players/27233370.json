@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27233370.a771335a.200x200o.efa96bf65e1e.jpeg",
+    "player_id": 27233370,
+    "@id": "https://api.chess.com/pub/player/finally_i_won",
+    "url": "https://www.chess.com/member/Finally_I_Won",
+    "name": "Sariatullah Md",
+    "username": "finally_i_won",
+    "title": "CM",
+    "followers": 290,
+    "country": "https://api.chess.com/pub/country/BD",
+    "location": "Dhaka",
+    "last_online": 1741646149,
+    "joined": 1457970386,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1776,
+            "date": 1721636922,
+            "rd": 162
+        },
+        "best": {
+            "rating": 1857,
+            "date": 1686143950,
+            "game": "https://www.chess.com/game/daily/522898255"
+        },
+        "record": {
+            "win": 6,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 17347,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2036,
+            "date": 1702831886,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2036,
+            "date": 1629563283,
+            "game": "https://www.chess.com/game/live/5134082119"
+        },
+        "record": {
+            "win": 84,
+            "loss": 37,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2018,
+            "date": 1726599044,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2424,
+            "date": 1617394724,
+            "game": "https://www.chess.com/game/live/4916137765"
+        },
+        "record": {
+            "win": 4000,
+            "loss": 3395,
+            "draw": 348
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2207,
+            "date": 1736266147,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2446,
+            "date": 1630013416,
+            "game": "https://www.chess.com/game/live/6375298455"
+        },
+        "record": {
+            "win": 9401,
+            "loss": 7889,
+            "draw": 830
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3298,
+            "date": 1705094562
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1590273784
+        }
+    },
+    "puzzle_rush": {}
+}

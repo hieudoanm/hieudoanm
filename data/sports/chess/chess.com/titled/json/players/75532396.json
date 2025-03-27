@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75532396.dda701d5.200x200o.2783f6d4a186.jpg",
+    "player_id": 75532396,
+    "@id": "https://api.chess.com/pub/player/talibovv06",
+    "url": "https://www.chess.com/member/Talibovv06",
+    "name": "Talibov Shiroghlan",
+    "username": "talibovv06",
+    "title": "IM",
+    "followers": 128,
+    "country": "https://api.chess.com/pub/country/AZ",
+    "location": "Baku,Azerbaijan",
+    "last_online": 1741540502,
+    "joined": 1585926908,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1458,
+            "date": 1733507948,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2073,
+            "date": 1593620390,
+            "game": "https://www.chess.com/game/daily/272059776"
+        },
+        "record": {
+            "win": 30,
+            "loss": 15,
+            "draw": 1,
+            "time_per_move": 23289,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2380,
+            "date": 1698780111,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2489,
+            "date": 1677527050,
+            "game": "https://www.chess.com/game/live/71264297315"
+        },
+        "record": {
+            "win": 22,
+            "loss": 24,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2722,
+            "date": 1734386695,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2782,
+            "date": 1685212567,
+            "game": "https://www.chess.com/game/live/39550847227"
+        },
+        "record": {
+            "win": 1264,
+            "loss": 939,
+            "draw": 117
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2855,
+            "date": 1741549023,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3009,
+            "date": 1727191721,
+            "game": "https://www.chess.com/game/live/111275490037"
+        },
+        "record": {
+            "win": 3179,
+            "loss": 3006,
+            "draw": 844
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1263,
+            "date": 1672586274
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1590330470
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

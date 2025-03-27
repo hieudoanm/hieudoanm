@@ -1,0 +1,68 @@
+{
+    "player_id": 18237668,
+    "@id": "https://api.chess.com/pub/player/rooke6",
+    "url": "https://www.chess.com/member/RookE6",
+    "name": "Andrew W Whatley",
+    "username": "rooke6",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741659873,
+    "joined": 1406415416,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1623612267,
+            "rd": 250
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1623612267,
+            "game": "https://www.chess.com/game/live/17350410335"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2283,
+            "date": 1741668530,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2302,
+            "date": 1716847108,
+            "game": "https://www.chess.com/game/live/110585557927"
+        },
+        "record": {
+            "win": 103,
+            "loss": 70,
+            "draw": 15
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3457,
+            "date": 1689035390
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1415589226
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

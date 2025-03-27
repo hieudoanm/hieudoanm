@@ -1,0 +1,112 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17609626.49bea7d1.200x200o.d2380d79650c.jpeg",
+    "player_id": 17609626,
+    "@id": "https://api.chess.com/pub/player/gmcorrales",
+    "url": "https://www.chess.com/member/gmcorrales",
+    "name": "Fidel Corrales Jimenez",
+    "username": "gmcorrales",
+    "title": "GM",
+    "followers": 5568,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "San Francisco, CA",
+    "last_online": 1734102261,
+    "joined": 1402206204,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmcorrales",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmcorrales"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1385,
+            "date": 1727275849,
+            "rd": 226
+        },
+        "best": {
+            "rating": 1385,
+            "date": 1570358538,
+            "game": "https://www.chess.com/game/daily/194922436"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 11498,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2506,
+            "date": 1727290807,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2539,
+            "date": 1547002905,
+            "game": "https://www.chess.com/game/live/121015266263"
+        },
+        "record": {
+            "win": 16,
+            "loss": 14,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2830,
+            "date": 1732571142,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2880,
+            "date": 1652714664,
+            "game": "https://www.chess.com/game/live/97096816763"
+        },
+        "record": {
+            "win": 1715,
+            "loss": 1781,
+            "draw": 157
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2892,
+            "date": 1733842264,
+            "rd": 34
+        },
+        "best": {
+            "rating": 3001,
+            "date": 1727990996,
+            "game": "https://www.chess.com/game/live/81108815847"
+        },
+        "record": {
+            "win": 9791,
+            "loss": 9451,
+            "draw": 1595
+        }
+    },
+    "fide": 2674,
+    "tactics": {
+        "highest": {
+            "rating": 3879,
+            "date": 1692337803
+        },
+        "lowest": {
+            "rating": 738,
+            "date": 1489023726
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

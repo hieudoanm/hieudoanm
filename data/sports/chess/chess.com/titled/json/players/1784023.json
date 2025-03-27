@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1784023.7763d589.200x200o.5bc4233aef8a.jpeg",
+    "player_id": 1784023,
+    "@id": "https://api.chess.com/pub/player/kacparov",
+    "url": "https://www.chess.com/member/Kacparov",
+    "name": "Kacper Drozdowski",
+    "username": "kacparov",
+    "title": "IM",
+    "followers": 4904,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741689900,
+    "joined": 1235389071,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2113,
+            "date": 1741697145,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1312990166,
+            "game": "https://www.chess.com/game/daily/42479277"
+        },
+        "record": {
+            "win": 6814,
+            "loss": 3125,
+            "draw": 1526,
+            "time_per_move": 77771,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 2050,
+            "date": 1739010973,
+            "rd": 98
+        },
+        "best": {
+            "rating": 2093,
+            "date": 1666452603,
+            "game": "https://www.chess.com/game/daily/434664157"
+        },
+        "record": {
+            "win": 677,
+            "loss": 292,
+            "draw": 137,
+            "time_per_move": 77771,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2700,
+            "date": 1740171877,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2700,
+            "date": 1738620386,
+            "game": "https://www.chess.com/game/live/76695598721"
+        },
+        "record": {
+            "win": 1325,
+            "loss": 131,
+            "draw": 151
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3000,
+            "date": 1741552781,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3099,
+            "date": 1739038665,
+            "game": "https://www.chess.com/game/live/123099588545"
+        },
+        "record": {
+            "win": 7999,
+            "loss": 2154,
+            "draw": 882
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3000,
+            "date": 1741248156,
+            "rd": 33
+        },
+        "best": {
+            "rating": 3042,
+            "date": 1733265618,
+            "game": "https://www.chess.com/game/live/123351086885"
+        },
+        "record": {
+            "win": 1600,
+            "loss": 775,
+            "draw": 510
+        }
+    },
+    "fide": 2450,
+    "tactics": {
+        "highest": {
+            "rating": 3825,
+            "date": 1704117678
+        },
+        "lowest": {
+            "rating": 1341,
+            "date": 1235408124
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 75,
+            "score": 72
+        }
+    }
+}

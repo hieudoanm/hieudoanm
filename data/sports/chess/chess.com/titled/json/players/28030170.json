@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28030170.df5f1e03.200x200o.5dd5b1b512ed.jpg",
+    "player_id": 28030170,
+    "@id": "https://api.chess.com/pub/player/rsnr",
+    "url": "https://www.chess.com/member/Rsnr",
+    "name": "Arsene Kukhmazov",
+    "username": "rsnr",
+    "title": "IM",
+    "followers": 178,
+    "country": "https://api.chess.com/pub/country/SY",
+    "last_online": 1741639699,
+    "joined": 1462299835,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1235,
+            "date": 1629033603,
+            "rd": 314
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1462299835,
+            "game": "https://www.chess.com/game/daily/186970624"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 7360,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2139,
+            "date": 1706299919,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1463209200,
+            "game": "https://www.chess.com/game/live/100032203267"
+        },
+        "record": {
+            "win": 10,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2919,
+            "date": 1631042904,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1602187462,
+            "game": "https://www.chess.com/game/live/5556663585"
+        },
+        "record": {
+            "win": 3608,
+            "loss": 2383,
+            "draw": 465
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2972,
+            "date": 1741641524,
+            "rd": 27
+        },
+        "best": {
+            "rating": 3007,
+            "date": 1734783886,
+            "game": "https://www.chess.com/game/live/112485599343"
+        },
+        "record": {
+            "win": 4997,
+            "loss": 3664,
+            "draw": 1273
+        }
+    },
+    "fide": 2504,
+    "tactics": {
+        "highest": {
+            "rating": 3805,
+            "date": 1700605396
+        },
+        "lowest": {
+            "rating": 2169,
+            "date": 1463343208
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

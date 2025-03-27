@@ -1,0 +1,95 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/54746638.0924fd0c.200x200o.0c19ffdd17b6.jpeg",
+    "player_id": 54746638,
+    "@id": "https://api.chess.com/pub/player/marcocortesrodriguez",
+    "url": "https://www.chess.com/member/marcocortesrodriguez",
+    "name": "Marco Cort\u00e9s",
+    "username": "marcocortesrodriguez",
+    "title": "NM",
+    "followers": 39,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "CDMX",
+    "last_online": 1737052782,
+    "joined": 1545576581,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1699349847,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1621,
+            "date": 1652460200,
+            "rd": 144
+        },
+        "best": {
+            "rating": 1980,
+            "date": 1615160533,
+            "game": "https://www.chess.com/game/live/8898363601"
+        },
+        "record": {
+            "win": 6,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1891,
+            "date": 1699377412,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1609046083,
+            "game": "https://www.chess.com/game/live/60193786363"
+        },
+        "record": {
+            "win": 81,
+            "loss": 47,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2061,
+            "date": 1686097916,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1634516053,
+            "game": "https://www.chess.com/game/live/6210909614"
+        },
+        "record": {
+            "win": 3752,
+            "loss": 3312,
+            "draw": 246
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1425,
+            "date": 1675745576
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1549677535
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11177810.9dfc8d31.200x200o.9a9eccebc07c.png",
+    "player_id": 11177810,
+    "@id": "https://api.chess.com/pub/player/fabianocaruana",
+    "url": "https://www.chess.com/member/FabianoCaruana",
+    "name": "Fabiano Caruana",
+    "username": "fabianocaruana",
+    "title": "GM",
+    "followers": 19697,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1734021533,
+    "joined": 1363533272,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2823,
+            "date": 1727799848,
+            "rd": 42
+        },
+        "best": {
+            "rating": 3045,
+            "date": 1567282891,
+            "game": "https://www.chess.com/game/live/87247703041"
+        },
+        "record": {
+            "win": 186,
+            "loss": 74,
+            "draw": 139
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3152,
+            "date": 1722977255,
+            "rd": 34
+        },
+        "best": {
+            "rating": 3152,
+            "date": 1722977255,
+            "game": "https://www.chess.com/game/live/88461616105"
+        },
+        "record": {
+            "win": 954,
+            "loss": 321,
+            "draw": 100
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3098,
+            "date": 1733875819,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3207,
+            "date": 1716676009,
+            "game": "https://www.chess.com/game/live/78621077395"
+        },
+        "record": {
+            "win": 1932,
+            "loss": 577,
+            "draw": 361
+        }
+    },
+    "fide": 2835,
+    "tactics": {
+        "highest": {
+            "rating": 3519,
+            "date": 1686676974
+        },
+        "lowest": {
+            "rating": 1354,
+            "date": 1363907400
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

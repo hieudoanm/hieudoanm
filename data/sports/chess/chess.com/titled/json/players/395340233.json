@@ -1,0 +1,44 @@
+{
+    "player_id": 395340233,
+    "@id": "https://api.chess.com/pub/player/the1catalan",
+    "url": "https://www.chess.com/member/The1Catalan",
+    "username": "the1catalan",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1737695659,
+    "joined": 1728729032,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2168,
+            "date": 1737630621,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2289,
+            "date": 1735853886,
+            "game": "https://www.chess.com/game/live/129677323073"
+        },
+        "record": {
+            "win": 14,
+            "loss": 10,
+            "draw": 2
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1728729032
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728729032
+        }
+    },
+    "puzzle_rush": {}
+}

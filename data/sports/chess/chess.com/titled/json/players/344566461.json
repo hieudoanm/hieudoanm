@@ -1,0 +1,85 @@
+{
+    "player_id": 344566461,
+    "@id": "https://api.chess.com/pub/player/train_your_dragon",
+    "url": "https://www.chess.com/member/Train_Your_Dragon",
+    "name": "Rishabh Chandrashekhar Gokhale",
+    "username": "train_your_dragon",
+    "title": "NM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1741027674,
+    "joined": 1707598204,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2064,
+            "date": 1737147909,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2159,
+            "date": 1713727526,
+            "game": "https://www.chess.com/game/live/107071296361"
+        },
+        "record": {
+            "win": 81,
+            "loss": 17,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2641,
+            "date": 1740980647,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2682,
+            "date": 1715454056,
+            "game": "https://www.chess.com/game/live/108931196071"
+        },
+        "record": {
+            "win": 238,
+            "loss": 251,
+            "draw": 42
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1740714323,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2673,
+            "date": 1713887869,
+            "game": "https://www.chess.com/game/live/107624017197"
+        },
+        "record": {
+            "win": 197,
+            "loss": 204,
+            "draw": 44
+        }
+    },
+    "fide": 2205,
+    "tactics": {
+        "highest": {
+            "rating": 3563,
+            "date": 1723181968
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1707598204
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        }
+    }
+}

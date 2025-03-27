@@ -1,0 +1,85 @@
+{
+    "player_id": 121130114,
+    "@id": "https://api.chess.com/pub/player/tusplingher",
+    "url": "https://www.chess.com/member/tusplingher",
+    "name": "Dumitru-Daniel Dinu",
+    "username": "tusplingher",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/RO",
+    "last_online": 1741687400,
+    "joined": 1613329587,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1732123827,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1727177064,
+            "game": "https://www.chess.com/game/live/121690198813"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2490,
+            "date": 1736127667,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2522,
+            "date": 1731418423,
+            "game": "https://www.chess.com/game/live/114021033635"
+        },
+        "record": {
+            "win": 51,
+            "loss": 50,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2721,
+            "date": 1741636189,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2860,
+            "date": 1738947165,
+            "game": "https://www.chess.com/game/live/117927620165"
+        },
+        "record": {
+            "win": 1440,
+            "loss": 1725,
+            "draw": 463
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3673,
+            "date": 1701527731
+        },
+        "lowest": {
+            "rating": 2205,
+            "date": 1613635369
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

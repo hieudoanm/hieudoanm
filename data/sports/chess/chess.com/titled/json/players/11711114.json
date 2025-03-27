@@ -1,0 +1,108 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11711114.0b9025b0.200x200o.358ba54f84a3.png",
+    "player_id": 11711114,
+    "@id": "https://api.chess.com/pub/player/crosky",
+    "url": "https://www.chess.com/member/crosky",
+    "name": "Brett Passen",
+    "username": "crosky",
+    "title": "NM",
+    "followers": 235,
+    "country": "https://api.chess.com/pub/country/PM",
+    "last_online": 1741702094,
+    "joined": 1367335494,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1859,
+            "date": 1704817539,
+            "rd": 138
+        },
+        "best": {
+            "rating": 1911,
+            "date": 1461357320,
+            "game": "https://www.chess.com/game/daily/125789128"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 24306,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2029,
+            "date": 1672095314,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2135,
+            "date": 1670720789,
+            "game": "https://www.chess.com/game/live/64429908919"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2366,
+            "date": 1633037735,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1617222631,
+            "game": "https://www.chess.com/game/live/9311712215"
+        },
+        "record": {
+            "win": 610,
+            "loss": 453,
+            "draw": 49
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2411,
+            "date": 1738256799
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1669302311,
+            "game": "https://www.chess.com/game/live/113671245529"
+        },
+        "record": {
+            "win": 6585,
+            "loss": 6741,
+            "draw": 1021
+        }
+    },
+    "fide": 2202,
+    "tactics": {
+        "highest": {
+            "rating": 3169,
+            "date": 1698952244
+        },
+        "lowest": {
+            "rating": 1221,
+            "date": 1448469625
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 49
+        },
+        "daily": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

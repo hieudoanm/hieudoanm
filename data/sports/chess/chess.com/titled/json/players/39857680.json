@@ -1,0 +1,60 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39857680.926dafed.200x200o.15cb7039107e.png",
+    "player_id": 39857680,
+    "@id": "https://api.chess.com/pub/player/fmcmt",
+    "url": "https://www.chess.com/member/fMCMT",
+    "name": "Vlad-Victor Barnaure",
+    "username": "fmcmt",
+    "title": "IM",
+    "followers": 37,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "London",
+    "last_online": 1741676217,
+    "joined": 1509231365,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1648157318,
+            "rd": 264
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2543,
+            "date": 1741685137,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2696,
+            "date": 1732717118,
+            "game": "https://www.chess.com/game/live/45752393601"
+        },
+        "record": {
+            "win": 10634,
+            "loss": 11767,
+            "draw": 1732
+        }
+    },
+    "fide": 2480,
+    "tactics": {
+        "highest": {
+            "rating": 2702,
+            "date": 1707721383
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1509232858
+        }
+    },
+    "puzzle_rush": {}
+}

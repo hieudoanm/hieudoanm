@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17534752.eadf1d19.200x200o.3b0e1d95735a.jpeg",
+    "player_id": 17534752,
+    "@id": "https://api.chess.com/pub/player/antonsmirnov",
+    "url": "https://www.chess.com/member/AntonSmirnov",
+    "name": "Anton Smirnov",
+    "username": "antonsmirnov",
+    "title": "GM",
+    "followers": 1179,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Sydney",
+    "last_online": 1733300611,
+    "joined": 1401705438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2427,
+            "date": 1708425542,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2637,
+            "date": 1520933879,
+            "game": "https://www.chess.com/game/live/51626461591"
+        },
+        "record": {
+            "win": 41,
+            "loss": 22,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2855,
+            "date": 1733300909,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2962,
+            "date": 1601581691,
+            "game": "https://www.chess.com/game/live/5524607063"
+        },
+        "record": {
+            "win": 623,
+            "loss": 430,
+            "draw": 83
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3104,
+            "date": 1720943360,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3127,
+            "date": 1715418523,
+            "game": "https://www.chess.com/game/live/82993353123"
+        },
+        "record": {
+            "win": 5529,
+            "loss": 4652,
+            "draw": 1272
+        }
+    },
+    "fide": 2586,
+    "tactics": {
+        "highest": {
+            "rating": 3778,
+            "date": 1721470364
+        },
+        "lowest": {
+            "rating": 1334,
+            "date": 1405689848
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

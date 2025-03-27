@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/331227881.30a95d8b.200x200o.9d6e824f2f89.png",
+    "player_id": 331227881,
+    "@id": "https://api.chess.com/pub/player/shadhur_chess",
+    "url": "https://www.chess.com/member/Shadhur_Chess",
+    "name": "Shadhursshaan Ramar",
+    "username": "shadhur_chess",
+    "title": "CM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741611986,
+    "joined": 1702091114,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2401,
+            "date": 1729604397,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1702905318,
+            "game": "https://www.chess.com/game/live/96644232111"
+        },
+        "record": {
+            "win": 3,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2523,
+            "date": 1729603815,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2714,
+            "date": 1702907808,
+            "game": "https://www.chess.com/game/live/96646160145"
+        },
+        "record": {
+            "win": 37,
+            "loss": 33,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2618,
+            "date": 1736587323,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2728,
+            "date": 1723476360,
+            "game": "https://www.chess.com/game/live/115960186991"
+        },
+        "record": {
+            "win": 352,
+            "loss": 391,
+            "draw": 45
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3679,
+            "date": 1729878986
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1702091114
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

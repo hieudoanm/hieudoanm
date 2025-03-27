@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74213910.b682152c.200x200o.6618014ad493.jpg",
+    "player_id": 74213910,
+    "@id": "https://api.chess.com/pub/player/javylavilla",
+    "url": "https://www.chess.com/member/Javylavilla",
+    "name": "Marlon Javier La Villa Rivas",
+    "username": "javylavilla",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1741101493,
+    "joined": 1584924268,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1077,
+            "date": 1726372157,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1077,
+            "date": 1726372157,
+            "game": "https://www.chess.com/game/daily/701834105"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 1093,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2232,
+            "date": 1741039726,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2364,
+            "date": 1605129059,
+            "game": "https://www.chess.com/game/live/105991311653"
+        },
+        "record": {
+            "win": 55,
+            "loss": 47,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2454,
+            "date": 1740506864,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1740506493,
+            "game": "https://www.chess.com/game/live/110739199055"
+        },
+        "record": {
+            "win": 284,
+            "loss": 314,
+            "draw": 26
+        }
+    },
+    "fide": 2246,
+    "tactics": {
+        "highest": {
+            "rating": 3056,
+            "date": 1727187325
+        },
+        "lowest": {
+            "rating": 1976,
+            "date": 1592410146
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

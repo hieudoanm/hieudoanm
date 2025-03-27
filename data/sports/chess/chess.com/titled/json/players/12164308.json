@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12164308.49e1bcae.200x200o.b943915ea982.jpeg",
+    "player_id": 12164308,
+    "@id": "https://api.chess.com/pub/player/argonvalerievich",
+    "url": "https://www.chess.com/member/ArgonValerievich",
+    "name": "Andrey Kvon",
+    "username": "argonvalerievich",
+    "title": "GM",
+    "followers": 84,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1733901132,
+    "joined": 1370365503,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1838,
+            "date": 1732094902,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1946,
+            "date": 1669535390,
+            "game": "https://www.chess.com/game/daily/365727482"
+        },
+        "record": {
+            "win": 25,
+            "loss": 9,
+            "draw": 2,
+            "time_per_move": 98334,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2490,
+            "date": 1663342243,
+            "rd": 167
+        },
+        "best": {
+            "rating": 2490,
+            "date": 1663342243,
+            "game": "https://www.chess.com/game/live/57080912149"
+        },
+        "record": {
+            "win": 42,
+            "loss": 25,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2704,
+            "date": 1727464893,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2810,
+            "date": 1695124499,
+            "game": "https://www.chess.com/game/live/22497601341"
+        },
+        "record": {
+            "win": 1075,
+            "loss": 688,
+            "draw": 70
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2761,
+            "date": 1730186145,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1605216408,
+            "game": "https://www.chess.com/game/live/5644323607"
+        },
+        "record": {
+            "win": 934,
+            "loss": 577,
+            "draw": 78
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3421,
+            "date": 1700219207
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1541168913
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 57
+        }
+    }
+}

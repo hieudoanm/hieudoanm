@@ -1,0 +1,86 @@
+{
+    "player_id": 11301268,
+    "@id": "https://api.chess.com/pub/player/allanstig",
+    "url": "https://www.chess.com/member/AllanStig",
+    "name": "Allan Stig Rasmussen",
+    "username": "allanstig",
+    "title": "GM",
+    "followers": 91,
+    "country": "https://api.chess.com/pub/country/DK",
+    "location": "Viborg",
+    "last_online": 1734012383,
+    "joined": 1364422646,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2495,
+            "date": 1721813059,
+            "rd": 214
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1639688080,
+            "game": "https://www.chess.com/game/live/4711583237"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2706,
+            "date": 1726009145,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2826,
+            "date": 1648380972,
+            "game": "https://www.chess.com/game/live/99879157045"
+        },
+        "record": {
+            "win": 1286,
+            "loss": 981,
+            "draw": 93
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2645,
+            "date": 1730029753,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1640140442,
+            "game": "https://www.chess.com/game/live/95292538935"
+        },
+        "record": {
+            "win": 760,
+            "loss": 597,
+            "draw": 72
+        }
+    },
+    "fide": 2550,
+    "tactics": {
+        "highest": {
+            "rating": 3447,
+            "date": 1733788872
+        },
+        "lowest": {
+            "rating": 1370,
+            "date": 1364422832
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

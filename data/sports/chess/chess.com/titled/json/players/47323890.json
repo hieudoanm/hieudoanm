@@ -1,0 +1,85 @@
+{
+    "player_id": 47323890,
+    "@id": "https://api.chess.com/pub/player/juleona",
+    "url": "https://www.chess.com/member/Juleona",
+    "name": "Yuliya Liavonava",
+    "username": "juleona",
+    "title": "WFM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/BY",
+    "last_online": 1740495394,
+    "joined": 1529750465,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2014,
+            "date": 1730812877,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1771,
+            "date": 1626383547,
+            "game": "https://www.chess.com/game/live/20121673311"
+        },
+        "record": {
+            "win": 21,
+            "loss": 11,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2400,
+            "date": 1740336795,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2346,
+            "date": 1713899814,
+            "game": "https://www.chess.com/game/live/107636028871"
+        },
+        "record": {
+            "win": 69,
+            "loss": 46,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2448,
+            "date": 1740507199,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2526,
+            "date": 1723232348,
+            "game": "https://www.chess.com/game/live/134238558981"
+        },
+        "record": {
+            "win": 506,
+            "loss": 483,
+            "draw": 72
+        }
+    },
+    "fide": 2014,
+    "tactics": {
+        "highest": {
+            "rating": 3637,
+            "date": 1729024993
+        },
+        "lowest": {
+            "rating": 808,
+            "date": 1534416906
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

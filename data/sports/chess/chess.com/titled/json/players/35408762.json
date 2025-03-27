@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35408762.d82de02d.200x200o.300db4568838.jpeg",
+    "player_id": 35408762,
+    "@id": "https://api.chess.com/pub/player/stefanamilutinovic",
+    "url": "https://www.chess.com/member/StefanaMilutinovic",
+    "name": "Stefana Milutinovic",
+    "username": "stefanamilutinovic",
+    "title": "WFM",
+    "followers": 1486,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Belgrade",
+    "last_online": 1741343618,
+    "joined": 1494373795,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2002,
+            "date": 1716289570,
+            "rd": 218
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1681332306,
+            "game": "https://www.chess.com/game/live/75071036539"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2342,
+            "date": 1741546084,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2397,
+            "date": 1725197966,
+            "game": "https://www.chess.com/game/live/97150907629"
+        },
+        "record": {
+            "win": 763,
+            "loss": 654,
+            "draw": 82
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2396,
+            "date": 1733477211,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2476,
+            "date": 1651784298,
+            "game": "https://www.chess.com/game/live/45523248249"
+        },
+        "record": {
+            "win": 162,
+            "loss": 106,
+            "draw": 15
+        }
+    },
+    "fide": 2140,
+    "tactics": {
+        "highest": {
+            "rating": 3083,
+            "date": 1715723530
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1586526343
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

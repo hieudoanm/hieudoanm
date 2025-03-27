@@ -1,0 +1,66 @@
+{
+    "player_id": 307081697,
+    "@id": "https://api.chess.com/pub/player/jacemalcom",
+    "url": "https://www.chess.com/member/JaceMalcom",
+    "username": "jacemalcom",
+    "title": "IM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741610025,
+    "joined": 1692526314,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3005,
+            "date": 1699560816,
+            "rd": 72
+        },
+        "best": {
+            "rating": 3005,
+            "date": 1699560816,
+            "game": "https://www.chess.com/game/live/93298998357"
+        },
+        "record": {
+            "win": 17,
+            "loss": 3,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2883,
+            "date": 1741632193,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2982,
+            "date": 1721487138,
+            "game": "https://www.chess.com/game/live/107188932405"
+        },
+        "record": {
+            "win": 205,
+            "loss": 103,
+            "draw": 23
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1692526314
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1692526314
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

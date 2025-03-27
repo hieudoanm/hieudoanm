@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30836974.73be56b8.200x200o.40c4c523ae13.jpg",
+    "player_id": 30836974,
+    "@id": "https://api.chess.com/pub/player/jumbo",
+    "url": "https://www.chess.com/member/Jumbo",
+    "name": "Rinat Jumabayev",
+    "username": "jumbo",
+    "title": "GM",
+    "followers": 794,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741702596,
+    "joined": 1478787065,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2481,
+            "date": 1739815395,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2730,
+            "date": 1598010053,
+            "game": "https://www.chess.com/game/live/5338709466"
+        },
+        "record": {
+            "win": 83,
+            "loss": 111,
+            "draw": 38
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2785,
+            "date": 1741687089,
+            "rd": 18
+        },
+        "best": {
+            "rating": 3003,
+            "date": 1706210118,
+            "game": "https://www.chess.com/game/live/99864785803"
+        },
+        "record": {
+            "win": 1905,
+            "loss": 1782,
+            "draw": 229
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2925,
+            "date": 1741540996,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2978,
+            "date": 1718032609,
+            "game": "https://www.chess.com/game/live/102792064925"
+        },
+        "record": {
+            "win": 3943,
+            "loss": 3141,
+            "draw": 689
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4907,
+            "date": 1717582488
+        },
+        "lowest": {
+            "rating": 1812,
+            "date": 1539542940
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

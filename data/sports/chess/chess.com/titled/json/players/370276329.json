@@ -1,0 +1,51 @@
+{
+    "player_id": 370276329,
+    "@id": "https://api.chess.com/pub/player/blunderstormm",
+    "url": "https://www.chess.com/member/Blunderstormm",
+    "name": "Aron Moritz",
+    "username": "blunderstormm",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1740224502,
+    "joined": 1718636892,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2560,
+            "date": 1721149537,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2570,
+            "date": 1721148227,
+            "game": "https://www.chess.com/game/live/114882466627"
+        },
+        "record": {
+            "win": 77,
+            "loss": 22,
+            "draw": 10
+        }
+    },
+    "fide": 2300,
+    "tactics": {
+        "highest": {
+            "rating": 3365,
+            "date": 1721332285
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1718636892
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

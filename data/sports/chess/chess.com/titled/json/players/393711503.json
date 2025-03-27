@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/393711503.047e9d47.200x200o.6b494d15cec0.jpg",
+    "player_id": 393711503,
+    "@id": "https://api.chess.com/pub/player/matthewchess268",
+    "url": "https://www.chess.com/member/MatthewChess268",
+    "name": "Matthew Bailey",
+    "username": "matthewchess268",
+    "title": "CM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/AG",
+    "last_online": 1737998338,
+    "joined": 1728079089,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1550,
+            "date": 1734520774,
+            "rd": 53
+        },
+        "best": {
+            "rating": 1923,
+            "date": 1729042261,
+            "game": "https://www.chess.com/game/live/122781271703"
+        },
+        "record": {
+            "win": 17,
+            "loss": 34,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2047,
+            "date": 1735662451,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2088,
+            "date": 1732937383,
+            "game": "https://www.chess.com/game/live/128190039847"
+        },
+        "record": {
+            "win": 62,
+            "loss": 102,
+            "draw": 10
+        }
+    },
+    "fide": 1608,
+    "tactics": {
+        "highest": {
+            "rating": 2561,
+            "date": 1733501609
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1728079089
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

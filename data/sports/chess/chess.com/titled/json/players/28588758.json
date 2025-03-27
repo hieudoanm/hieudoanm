@@ -1,0 +1,119 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28588758.0e9da11e.200x200o.54efa8b3b94a.png",
+    "player_id": 28588758,
+    "@id": "https://api.chess.com/pub/player/beccrajoy",
+    "url": "https://www.chess.com/member/beccrajoy",
+    "name": "Rebecca Selkirk",
+    "username": "beccrajoy",
+    "title": "WCM",
+    "followers": 6216,
+    "country": "https://api.chess.com/pub/country/ZA",
+    "last_online": 1741672429,
+    "joined": 1465656034,
+    "status": "premium",
+    "is_streamer": true,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1760,
+            "date": 1737560107,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1906,
+            "date": 1586442696,
+            "game": "https://www.chess.com/game/daily/253946582"
+        },
+        "record": {
+            "win": 485,
+            "loss": 201,
+            "draw": 50,
+            "time_per_move": 23100,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 918,
+            "date": 1486922325,
+            "rd": 235
+        },
+        "record": {
+            "win": 0,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 23100,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1917,
+            "date": 1706292898,
+            "rd": 81
+        },
+        "best": {
+            "rating": 1958,
+            "date": 1697992813,
+            "game": "https://www.chess.com/game/live/5338288238"
+        },
+        "record": {
+            "win": 74,
+            "loss": 76,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2001,
+            "date": 1712693233,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2001,
+            "date": 1671185020,
+            "game": "https://www.chess.com/game/live/34884096469"
+        },
+        "record": {
+            "win": 247,
+            "loss": 230,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1998,
+            "date": 1740942000,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2053,
+            "date": 1640170472,
+            "game": "https://www.chess.com/game/live/39892845525"
+        },
+        "record": {
+            "win": 620,
+            "loss": 557,
+            "draw": 49
+        }
+    },
+    "fide": 1825,
+    "tactics": {
+        "highest": {
+            "rating": 3012,
+            "date": 1730896841
+        },
+        "lowest": {
+            "rating": 1245,
+            "date": 1465672223
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/331751505.55bb34a3.200x200o.417b64b96b84.jpg",
+    "player_id": 331751505,
+    "@id": "https://api.chess.com/pub/player/calmdowncalabreso",
+    "url": "https://www.chess.com/member/CalmdownCalabreso",
+    "name": "Matheus Mendes Domingues Ribeiro",
+    "username": "calmdowncalabreso",
+    "title": "CM",
+    "followers": 45,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741701907,
+    "joined": 1702313442,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2389,
+            "date": 1716707108,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2750,
+            "date": 1704320840,
+            "game": "https://www.chess.com/game/live/104101789609"
+        },
+        "record": {
+            "win": 59,
+            "loss": 22,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2619,
+            "date": 1741575363,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2894,
+            "date": 1703530149,
+            "game": "https://www.chess.com/game/live/130307431419"
+        },
+        "record": {
+            "win": 1026,
+            "loss": 1041,
+            "draw": 176
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2692,
+            "date": 1741703477,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2805,
+            "date": 1704434638,
+            "game": "https://www.chess.com/game/live/130609278083"
+        },
+        "record": {
+            "win": 1698,
+            "loss": 1624,
+            "draw": 405
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2135,
+            "date": 1715483456
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1702313442
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43349734.452f442f.200x200o.7d507c9ece41.jpeg",
+    "player_id": 43349734,
+    "@id": "https://api.chess.com/pub/player/a-adly",
+    "url": "https://www.chess.com/member/A-Adly",
+    "name": "Ahmed Adly",
+    "username": "a-adly",
+    "title": "GM",
+    "followers": 592,
+    "country": "https://api.chess.com/pub/country/EG",
+    "last_online": 1734060861,
+    "joined": 1518647998,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2720,
+            "date": 1631281473,
+            "rd": 122
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1631281473,
+            "game": "https://www.chess.com/game/live/25014101385"
+        },
+        "record": {
+            "win": 10,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2889,
+            "date": 1734061067,
+            "rd": 45
+        },
+        "best": {
+            "rating": 3027,
+            "date": 1726104652,
+            "game": "https://www.chess.com/game/live/115715440877"
+        },
+        "record": {
+            "win": 1122,
+            "loss": 736,
+            "draw": 120
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2983,
+            "date": 1733368622,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3007,
+            "date": 1720831738,
+            "game": "https://www.chess.com/game/live/125126945519"
+        },
+        "record": {
+            "win": 571,
+            "loss": 334,
+            "draw": 80
+        }
+    },
+    "fide": 2643,
+    "tactics": {
+        "highest": {
+            "rating": 3599,
+            "date": 1705814840
+        },
+        "lowest": {
+            "rating": 2392,
+            "date": 1537037566
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_id": 12498206,
+    "@id": "https://api.chess.com/pub/player/champblair",
+    "url": "https://www.chess.com/member/ChampBlair",
+    "name": "Blair Mandla",
+    "username": "champblair",
+    "title": "CM",
+    "followers": 80,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Sydney",
+    "last_online": 1739189680,
+    "joined": 1372331931,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1912,
+            "date": 1640683215,
+            "rd": 125
+        },
+        "best": {
+            "rating": 2118,
+            "date": 1384492765,
+            "game": "https://www.chess.com/game/daily/73504300"
+        },
+        "record": {
+            "win": 29,
+            "loss": 6,
+            "draw": 3,
+            "time_per_move": 11422,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2177,
+            "date": 1672995736,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2277,
+            "date": 1641357303,
+            "game": "https://www.chess.com/game/live/66618165909"
+        },
+        "record": {
+            "win": 28,
+            "loss": 13,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2386,
+            "date": 1677412560,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2583,
+            "date": 1640245012,
+            "game": "https://www.chess.com/game/live/34301988215"
+        },
+        "record": {
+            "win": 1308,
+            "loss": 668,
+            "draw": 97
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2427,
+            "date": 1738389506,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1722149456,
+            "game": "https://www.chess.com/game/live/115879192059"
+        },
+        "record": {
+            "win": 1334,
+            "loss": 996,
+            "draw": 188
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3262,
+            "date": 1719489898
+        },
+        "lowest": {
+            "rating": 0,
+            "date": 1533393118
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

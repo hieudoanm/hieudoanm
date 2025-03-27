@@ -1,0 +1,120 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60177036.388fa33c.200x200o.171711c352a0.jpeg",
+    "player_id": 60177036,
+    "@id": "https://api.chess.com/pub/player/sharapovevgeny",
+    "url": "https://www.chess.com/member/SharapovEvgeny",
+    "name": "Sharapov Evgeny",
+    "username": "sharapovevgeny",
+    "title": "GM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Kyjv",
+    "last_online": 1741698692,
+    "joined": 1556087868,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1995,
+            "date": 1737560094,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2172,
+            "date": 1647194412,
+            "game": "https://www.chess.com/game/daily/299301770"
+        },
+        "record": {
+            "win": 377,
+            "loss": 41,
+            "draw": 107,
+            "time_per_move": 12648,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1948,
+            "date": 1688551431,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2071,
+            "date": 1599288014,
+            "game": "https://www.chess.com/game/daily/367855633"
+        },
+        "record": {
+            "win": 115,
+            "loss": 9,
+            "draw": 40,
+            "time_per_move": 12648,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2373,
+            "date": 1741591225,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2491,
+            "date": 1583089663,
+            "game": "https://www.chess.com/game/live/133548539155"
+        },
+        "record": {
+            "win": 29,
+            "loss": 39,
+            "draw": 22
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2216,
+            "date": 1687723241,
+            "rd": 176
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1566756257,
+            "game": "https://www.chess.com/game/live/3882648866"
+        },
+        "record": {
+            "win": 22,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2683,
+            "date": 1741111749,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2684,
+            "date": 1740500230,
+            "game": "https://www.chess.com/game/live/96740508731"
+        },
+        "record": {
+            "win": 994,
+            "loss": 713,
+            "draw": 463
+        }
+    },
+    "fide": 2375,
+    "tactics": {
+        "highest": {
+            "rating": 2484,
+            "date": 1739614790
+        },
+        "lowest": {
+            "rating": 2182,
+            "date": 1670860186
+        }
+    },
+    "puzzle_rush": {}
+}

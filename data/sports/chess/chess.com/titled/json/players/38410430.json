@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38410430.2bf6d3f9.200x200o.8071e03355e0.jpg",
+    "player_id": 38410430,
+    "@id": "https://api.chess.com/pub/player/hasangatin_ramil",
+    "url": "https://www.chess.com/member/Hasangatin_Ramil",
+    "name": "\u0420\u0430\u043c\u0438\u043b\u044c \u0425\u0430\u0441\u0430\u043d\u0433\u0430\u0442\u0438\u043d",
+    "username": "hasangatin_ramil",
+    "title": "GM",
+    "followers": 55,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "\u041a\u0430\u0437\u0430\u043d\u044c",
+    "last_online": 1731326985,
+    "joined": 1504651033,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1427,
+            "date": 1648712180,
+            "rd": 205
+        },
+        "best": {
+            "rating": 2502,
+            "date": 1516899261,
+            "game": "https://www.chess.com/game/live/4923140832"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2599,
+            "date": 1593109288,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1593107934,
+            "game": "https://www.chess.com/game/live/4761435727"
+        },
+        "record": {
+            "win": 177,
+            "loss": 43,
+            "draw": 35
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2704,
+            "date": 1720174378,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2772,
+            "date": 1684876076,
+            "game": "https://www.chess.com/game/live/111256912861"
+        },
+        "record": {
+            "win": 1286,
+            "loss": 949,
+            "draw": 300
+        }
+    },
+    "fide": 2479,
+    "tactics": {
+        "highest": {
+            "rating": 2596,
+            "date": 1640276020
+        },
+        "lowest": {
+            "rating": 2013,
+            "date": 1504910545
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34020624.0d691b98.200x200o.32c1cea8961b.jpeg",
+    "player_id": 34020624,
+    "@id": "https://api.chess.com/pub/player/bgabor91",
+    "url": "https://www.chess.com/member/Bgabor91",
+    "name": "Gabor Balazs",
+    "username": "bgabor91",
+    "title": "FM",
+    "followers": 2157,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Hungary",
+    "last_online": 1741676835,
+    "joined": 1489697998,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1820,
+            "date": 1741504383,
+            "rd": 134
+        },
+        "best": {
+            "rating": 1820,
+            "date": 1699730419,
+            "game": "https://www.chess.com/game/daily/267084488"
+        },
+        "record": {
+            "win": 9,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 16479,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1956,
+            "date": 1739625935,
+            "rd": 173
+        },
+        "best": {
+            "rating": 2050,
+            "date": 1590090235,
+            "game": "https://www.chess.com/game/live/4888449556"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2624,
+            "date": 1701543645,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2675,
+            "date": 1599734960,
+            "game": "https://www.chess.com/game/live/4712421407"
+        },
+        "record": {
+            "win": 311,
+            "loss": 275,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2632,
+            "date": 1741518152,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2749,
+            "date": 1738455628,
+            "game": "https://www.chess.com/game/live/132224983723"
+        },
+        "record": {
+            "win": 797,
+            "loss": 744,
+            "draw": 212
+        }
+    },
+    "fide": 2371,
+    "tactics": {
+        "highest": {
+            "rating": 3619,
+            "date": 1739916330
+        },
+        "lowest": {
+            "rating": 1001,
+            "date": 1553347788
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

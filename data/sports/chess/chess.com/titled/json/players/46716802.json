@@ -1,0 +1,89 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46716802.cd8bda32.200x200o.390681071ce3.png",
+    "player_id": 46716802,
+    "@id": "https://api.chess.com/pub/player/rimbaudarthur",
+    "url": "https://www.chess.com/member/Rimbaudarthur",
+    "name": "Akkha Vilaisarn",
+    "username": "rimbaudarthur",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/LA",
+    "location": "Bastia",
+    "last_online": 1740759222,
+    "joined": 1527871993,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2026,
+            "date": 1741582285,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2064,
+            "date": 1739254340,
+            "game": "https://www.chess.com/game/daily/714859365"
+        },
+        "record": {
+            "win": 145,
+            "loss": 14,
+            "draw": 16,
+            "time_per_move": 4185,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2245,
+            "date": 1738845003,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2245,
+            "date": 1738845003,
+            "game": "https://www.chess.com/game/live/132583837117"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1805,
+            "date": 1544000754,
+            "rd": 204
+        },
+        "best": {
+            "rating": 1948,
+            "date": 1542139770,
+            "game": "https://www.chess.com/game/live/3214216177"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2515,
+            "date": 1723189050
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1527872167
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 28
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48770146.93ddfec5.200x200o.a1463035624f.png",
+    "player_id": 48770146,
+    "@id": "https://api.chess.com/pub/player/almaj98",
+    "url": "https://www.chess.com/member/AlmaJ98",
+    "name": "Alma Jaqueline Mora Velasco",
+    "username": "almaj98",
+    "title": "WCM",
+    "followers": 167,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "CDMX",
+    "last_online": 1741687595,
+    "joined": 1534272165,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1437,
+            "date": 1741548918,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2018,
+            "date": 1572686321,
+            "game": "https://www.chess.com/game/daily/232470098"
+        },
+        "record": {
+            "win": 73,
+            "loss": 26,
+            "draw": 9,
+            "time_per_move": 62560,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1415,
+            "date": 1640264746,
+            "rd": 215
+        },
+        "best": {
+            "rating": 1817,
+            "date": 1551499447,
+            "game": "https://www.chess.com/game/daily/222564682"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 62560,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2239,
+            "date": 1729360350,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1707529731,
+            "game": "https://www.chess.com/game/live/85891170567"
+        },
+        "record": {
+            "win": 119,
+            "loss": 97,
+            "draw": 18
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2301,
+            "date": 1741394493,
+            "rd": 17
+        },
+        "best": {
+            "rating": 2452,
+            "date": 1740244514,
+            "game": "https://www.chess.com/game/live/11422973613"
+        },
+        "record": {
+            "win": 4407,
+            "loss": 4735,
+            "draw": 325
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2406,
+            "date": 1740530710,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1705975921,
+            "game": "https://www.chess.com/game/live/130008031309"
+        },
+        "record": {
+            "win": 2584,
+            "loss": 2892,
+            "draw": 331
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 5092,
+            "date": 1577594009
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1534280224
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

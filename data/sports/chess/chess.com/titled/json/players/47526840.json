@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47526840.d2f9838c.200x200o.f116413e69f7.jpeg",
+    "player_id": 47526840,
+    "@id": "https://api.chess.com/pub/player/aanshnerurkar",
+    "url": "https://www.chess.com/member/aanshnerurkar",
+    "name": "Aansh Nandan Nerurkar",
+    "username": "aanshnerurkar",
+    "title": "CM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "India",
+    "last_online": 1741537403,
+    "joined": 1530425968,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2238,
+            "date": 1714635310,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1714635310,
+            "game": "https://www.chess.com/game/live/4747141780"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2236,
+            "date": 1712913461,
+            "rd": 94
+        },
+        "best": {
+            "rating": 1035,
+            "date": 1567682184,
+            "game": "https://www.chess.com/game/live/4323019207"
+        },
+        "record": {
+            "win": 40,
+            "loss": 72,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2578,
+            "date": 1741370176,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2591,
+            "date": 1738084022,
+            "game": "https://www.chess.com/game/live/131818853993"
+        },
+        "record": {
+            "win": 189,
+            "loss": 163,
+            "draw": 19
+        }
+    },
+    "fide": 2236,
+    "tactics": {
+        "highest": {
+            "rating": 2323,
+            "date": 1729608849
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1566670767
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 19,
+            "score": 16
+        }
+    }
+}

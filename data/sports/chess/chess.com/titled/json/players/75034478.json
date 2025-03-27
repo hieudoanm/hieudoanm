@@ -1,0 +1,52 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75034478.216d2b75.200x200o.fa4b265feb7e.jpeg",
+    "player_id": 75034478,
+    "@id": "https://api.chess.com/pub/player/blagid",
+    "url": "https://www.chess.com/member/BlagiD",
+    "name": "Dragisa Blagojevic",
+    "username": "blagid",
+    "title": "GM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/ME",
+    "location": "Niksic",
+    "last_online": 1711439605,
+    "joined": 1585548316,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2515,
+            "date": 1593033108,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2515,
+            "date": 1590694937,
+            "game": "https://www.chess.com/game/live/4920823220"
+        },
+        "record": {
+            "win": 42,
+            "loss": 25,
+            "draw": 8
+        }
+    },
+    "fide": 2551,
+    "tactics": {
+        "highest": {
+            "rating": 2507,
+            "date": 1698762333
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1585548316
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 35
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52670632.0bd8202d.200x200o.9a28c4d6d384.jpeg",
+    "player_id": 52670632,
+    "@id": "https://api.chess.com/pub/player/user234564",
+    "url": "https://www.chess.com/member/User234564",
+    "name": "Ruslan Kavyev",
+    "username": "user234564",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741619011,
+    "joined": 1543757705,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1650,
+            "date": 1690745015,
+            "rd": 312
+        },
+        "best": {
+            "rating": 2719,
+            "date": 1681739692,
+            "game": "https://www.chess.com/game/live/79023664583"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2648,
+            "date": 1715363385,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1669495584,
+            "game": "https://www.chess.com/game/live/6007300348"
+        },
+        "record": {
+            "win": 88,
+            "loss": 58,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2689,
+            "date": 1741633953,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1645556483,
+            "game": "https://www.chess.com/game/live/8716066271"
+        },
+        "record": {
+            "win": 1437,
+            "loss": 1403,
+            "draw": 242
+        }
+    },
+    "fide": 2339,
+    "tactics": {
+        "highest": {
+            "rating": 3332,
+            "date": 1650638678
+        },
+        "lowest": {
+            "rating": 413,
+            "date": 1594057047
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

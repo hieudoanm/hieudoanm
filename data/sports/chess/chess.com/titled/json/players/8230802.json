@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8230802.6a9840eb.200x200o.90f1c3dc0dca.jpeg",
+    "player_id": 8230802,
+    "@id": "https://api.chess.com/pub/player/ajedrezhn",
+    "url": "https://www.chess.com/member/AjedrezHN",
+    "name": "Ricardo Urbina",
+    "username": "ajedrezhn",
+    "title": "IM",
+    "followers": 49,
+    "country": "https://api.chess.com/pub/country/HN",
+    "location": "Tegucigalpa",
+    "last_online": 1741699475,
+    "joined": 1342545289,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2225,
+            "date": 1596997233,
+            "rd": 111
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1416470400,
+            "game": "https://www.chess.com/game/live/5274342764"
+        },
+        "record": {
+            "win": 6,
+            "loss": 6,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2336,
+            "date": 1740850151,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1736010427,
+            "game": "https://www.chess.com/game/live/129750610867"
+        },
+        "record": {
+            "win": 883,
+            "loss": 705,
+            "draw": 50
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2414,
+            "date": 1634236963,
+            "rd": 99
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1629258830,
+            "game": "https://www.chess.com/game/live/2157120880"
+        },
+        "record": {
+            "win": 108,
+            "loss": 69,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3152,
+            "date": 1722704913
+        },
+        "lowest": {
+            "rating": 1223,
+            "date": 1410661038
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        },
+        "daily": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32314690.9e2656c9.200x200o.66767f521b22.jpeg",
+    "player_id": 32314690,
+    "@id": "https://api.chess.com/pub/player/grandelicious",
+    "url": "https://www.chess.com/member/Grandelicious",
+    "name": "Nils Grandelius",
+    "username": "grandelicious",
+    "title": "GM",
+    "followers": 649,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1734103847,
+    "joined": 1484159984,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2550,
+            "date": 1730840905,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2768,
+            "date": 1590773319,
+            "game": "https://www.chess.com/game/live/121024793835"
+        },
+        "record": {
+            "win": 55,
+            "loss": 50,
+            "draw": 40
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2830,
+            "date": 1716569956,
+            "rd": 39
+        },
+        "best": {
+            "rating": 3036,
+            "date": 1639327796,
+            "game": "https://www.chess.com/game/live/91028906429"
+        },
+        "record": {
+            "win": 216,
+            "loss": 120,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2990,
+            "date": 1733935812,
+            "rd": 30
+        },
+        "best": {
+            "rating": 3014,
+            "date": 1732544568,
+            "game": "https://www.chess.com/game/live/127665637175"
+        },
+        "record": {
+            "win": 961,
+            "loss": 427,
+            "draw": 192
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3989,
+            "date": 1675327242
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1509358550
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

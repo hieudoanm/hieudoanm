@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18858934.ac2c80c6.200x200o.51fe56ebe5a8.jpeg",
+    "player_id": 18858934,
+    "@id": "https://api.chess.com/pub/player/gmjankovic",
+    "url": "https://www.chess.com/member/GMJankovic",
+    "name": "CRO Alojzije Jankovic",
+    "username": "gmjankovic",
+    "title": "GM",
+    "followers": 1451,
+    "country": "https://api.chess.com/pub/country/HR",
+    "location": "Zagreb",
+    "last_online": 1734175636,
+    "joined": 1410453513,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2489,
+            "date": 1721288572,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1598110372,
+            "game": "https://www.chess.com/game/live/34617584869"
+        },
+        "record": {
+            "win": 108,
+            "loss": 64,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2159,
+            "date": 1733139288,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2279,
+            "date": 1651570729,
+            "game": "https://www.chess.com/game/live/58446060975"
+        },
+        "record": {
+            "win": 3,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2696,
+            "date": 1734177730,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2752,
+            "date": 1711450987,
+            "game": "https://www.chess.com/game/live/103365711301"
+        },
+        "record": {
+            "win": 1193,
+            "loss": 871,
+            "draw": 123
+        }
+    },
+    "fide": 2555,
+    "tactics": {
+        "highest": {
+            "rating": 2511,
+            "date": 1722717264
+        },
+        "lowest": {
+            "rating": 1204,
+            "date": 1558474084
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

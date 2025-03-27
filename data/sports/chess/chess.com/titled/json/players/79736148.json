@@ -1,0 +1,84 @@
+{
+    "player_id": 79736148,
+    "@id": "https://api.chess.com/pub/player/kasandra124",
+    "url": "https://www.chess.com/member/Kasandra124",
+    "name": "Kseniya Zeliantsova",
+    "username": "kasandra124",
+    "title": "WFM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/BY",
+    "last_online": 1741196527,
+    "joined": 1589699293,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1992,
+            "date": 1631277518,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2107,
+            "date": 1597401884,
+            "game": "https://www.chess.com/game/live/25010499699"
+        },
+        "record": {
+            "win": 39,
+            "loss": 13,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2250,
+            "date": 1593008446,
+            "rd": 117
+        },
+        "best": {
+            "rating": 2002,
+            "date": 1592926077,
+            "game": "https://www.chess.com/game/live/5045665042"
+        },
+        "record": {
+            "win": 8,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2237,
+            "date": 1632681746,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2255,
+            "date": 1632681321,
+            "game": "https://www.chess.com/game/live/5234499276"
+        },
+        "record": {
+            "win": 55,
+            "loss": 24,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2335,
+            "date": 1740571349
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1589699293
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

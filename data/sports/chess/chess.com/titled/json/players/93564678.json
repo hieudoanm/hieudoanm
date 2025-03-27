@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/93564678.cefde340.200x200o.9d0039c21b1e.jpeg",
+    "player_id": 93564678,
+    "@id": "https://api.chess.com/pub/player/makogon_natalya",
+    "url": "https://www.chess.com/member/Makogon_Natalya",
+    "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u041c\u0430\u043a\u043e\u0433\u043e\u043d",
+    "username": "makogon_natalya",
+    "title": "WFM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1729596601,
+    "joined": 1603263521,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1788,
+            "date": 1707210045,
+            "rd": 163
+        },
+        "best": {
+            "rating": 1788,
+            "date": 1707210045,
+            "game": "https://www.chess.com/game/live/73969861121"
+        },
+        "record": {
+            "win": 7,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1704,
+            "date": 1684380381,
+            "rd": 166
+        },
+        "best": {
+            "rating": 1923,
+            "date": 1614959878,
+            "game": "https://www.chess.com/game/live/6492525385"
+        },
+        "record": {
+            "win": 3,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1583,
+            "date": 1690656965,
+            "rd": 61
+        },
+        "best": {
+            "rating": 1766,
+            "date": 1605076646,
+            "game": "https://www.chess.com/game/live/49026621911"
+        },
+        "record": {
+            "win": 406,
+            "loss": 471,
+            "draw": 83
+        }
+    },
+    "fide": 2167,
+    "tactics": {
+        "highest": {
+            "rating": 2507,
+            "date": 1686779825
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1612715956
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

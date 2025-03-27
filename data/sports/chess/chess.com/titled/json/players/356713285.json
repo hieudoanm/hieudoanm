@@ -1,0 +1,46 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/356713285.8e3e7dbd.200x200o.c76cea4c8165.jpg",
+    "player_id": 356713285,
+    "@id": "https://api.chess.com/pub/player/omid-jarrahi2452",
+    "url": "https://www.chess.com/member/OMID-JARRAHI2452",
+    "name": "Omid Seyed Jarrahi",
+    "username": "omid-jarrahi2452",
+    "title": "IM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/ME",
+    "last_online": 1741698713,
+    "joined": 1712934369,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2239,
+            "date": 1728559257,
+            "rd": 247
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "fide": 2452,
+    "tactics": {
+        "highest": {
+            "rating": 3816,
+            "date": 1738984765
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1712934369
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

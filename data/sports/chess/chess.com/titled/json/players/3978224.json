@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3978224.bf373225.200x200o.138451b06615.jpeg",
+    "player_id": 3978224,
+    "@id": "https://api.chess.com/pub/player/zenzo",
+    "url": "https://www.chess.com/member/Zenzo",
+    "name": "Armen Proudian",
+    "username": "zenzo",
+    "title": "FM",
+    "followers": 589,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "S&atilde;o Paulo",
+    "last_online": 1740234181,
+    "joined": 1284491777,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2193,
+            "date": 1722120754,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2537,
+            "date": 1610588773,
+            "game": "https://www.chess.com/game/live/36457263449"
+        },
+        "record": {
+            "win": 90,
+            "loss": 32,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2657,
+            "date": 1740183527,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2706,
+            "date": 1718334213,
+            "game": "https://www.chess.com/game/live/34967988311"
+        },
+        "record": {
+            "win": 3059,
+            "loss": 2597,
+            "draw": 374
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2656,
+            "date": 1740195050,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2765,
+            "date": 1612233789,
+            "game": "https://www.chess.com/game/live/6421945228"
+        },
+        "record": {
+            "win": 6126,
+            "loss": 5483,
+            "draw": 1075
+        }
+    },
+    "fide": 2429,
+    "tactics": {
+        "highest": {
+            "rating": 3444,
+            "date": 1665327668
+        },
+        "lowest": {
+            "rating": 1371,
+            "date": 1306517406
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

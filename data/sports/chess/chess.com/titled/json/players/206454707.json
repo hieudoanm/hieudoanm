@@ -1,0 +1,52 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/206454707.59103764.200x200o.983d600ed23b.jpg",
+    "player_id": 206454707,
+    "@id": "https://api.chess.com/pub/player/ares30012",
+    "url": "https://www.chess.com/member/Ares30012",
+    "name": "Piero Lopez",
+    "username": "ares30012",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741701399,
+    "joined": 1668475398,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2266,
+            "date": 1740799453,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2215,
+            "date": 1737944365,
+            "game": "https://www.chess.com/game/live/131846399147"
+        },
+        "record": {
+            "win": 154,
+            "loss": 85,
+            "draw": 16
+        }
+    },
+    "fide": 1986,
+    "tactics": {
+        "highest": {
+            "rating": 2223,
+            "date": 1740376559
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1668475398
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

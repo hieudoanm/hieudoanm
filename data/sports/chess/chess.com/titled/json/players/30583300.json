@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30583300.f48700ef.200x200o.1741d319cc3f.jpeg",
+    "player_id": 30583300,
+    "@id": "https://api.chess.com/pub/player/k-nygren",
+    "url": "https://www.chess.com/member/K-Nygren",
+    "name": "Kim Nygren",
+    "username": "k-nygren",
+    "title": "CM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/SE",
+    "last_online": 1741454875,
+    "joined": 1477415864,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2331,
+            "date": 1737333335,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1650568545,
+            "game": "https://www.chess.com/game/live/45931889727"
+        },
+        "record": {
+            "win": 25,
+            "loss": 14,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2543,
+            "date": 1723388960,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2631,
+            "date": 1637856351,
+            "game": "https://www.chess.com/game/live/94928422107"
+        },
+        "record": {
+            "win": 86,
+            "loss": 86,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2631,
+            "date": 1740574508,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2644,
+            "date": 1738009751,
+            "game": "https://www.chess.com/game/live/58094370683"
+        },
+        "record": {
+            "win": 987,
+            "loss": 978,
+            "draw": 148
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3338,
+            "date": 1694106347
+        },
+        "lowest": {
+            "rating": 1786,
+            "date": 1547889088
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

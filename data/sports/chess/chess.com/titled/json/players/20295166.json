@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20295166.4b7e4e09.200x200o.e14fd78eecfc.jpg",
+    "player_id": 20295166,
+    "@id": "https://api.chess.com/pub/player/zhangbigpeng",
+    "url": "https://www.chess.com/member/Zhangbigpeng",
+    "name": "Xiaopeng Zhang",
+    "username": "zhangbigpeng",
+    "title": "FM",
+    "followers": 91,
+    "country": "https://api.chess.com/pub/country/CN",
+    "location": "Wuxi",
+    "last_online": 1741604380,
+    "joined": 1419340199,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1493,
+            "date": 1733740718,
+            "rd": 185
+        },
+        "best": {
+            "rating": 1802,
+            "date": 1673491521,
+            "game": "https://www.chess.com/game/daily/153189288"
+        },
+        "record": {
+            "win": 13,
+            "loss": 5,
+            "draw": 1,
+            "time_per_move": 77182,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1350,
+            "date": 1478395768,
+            "rd": 258
+        },
+        "best": {
+            "rating": 1350,
+            "date": 1478395768,
+            "game": "https://www.chess.com/game/daily/148053942"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 77182,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2387,
+            "date": 1740707698,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1667527768,
+            "game": "https://www.chess.com/game/live/43417152061"
+        },
+        "record": {
+            "win": 80,
+            "loss": 19,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2454,
+            "date": 1741498208,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2570,
+            "date": 1640608635,
+            "game": "https://www.chess.com/game/live/37966778401"
+        },
+        "record": {
+            "win": 1351,
+            "loss": 769,
+            "draw": 93
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2567,
+            "date": 1741498589,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2591,
+            "date": 1735348175,
+            "game": "https://www.chess.com/game/live/4795785673"
+        },
+        "record": {
+            "win": 2492,
+            "loss": 1865,
+            "draw": 258
+        }
+    },
+    "fide": 2360,
+    "tactics": {
+        "highest": {
+            "rating": 3529,
+            "date": 1486102275
+        },
+        "lowest": {
+            "rating": 1358,
+            "date": 1421041434
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

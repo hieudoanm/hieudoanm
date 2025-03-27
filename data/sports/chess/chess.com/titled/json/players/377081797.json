@@ -1,0 +1,66 @@
+{
+    "player_id": 377081797,
+    "@id": "https://api.chess.com/pub/player/dreamerdeceiver1",
+    "url": "https://www.chess.com/member/DreamerDeceiver1",
+    "username": "dreamerdeceiver1",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/KI",
+    "last_online": 1739716911,
+    "joined": 1721818703,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2484,
+            "date": 1738715292,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2621,
+            "date": 1736766875,
+            "game": "https://www.chess.com/game/live/125798291723"
+        },
+        "record": {
+            "win": 549,
+            "loss": 456,
+            "draw": 77
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2326,
+            "date": 1739709061,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2464,
+            "date": 1722287683,
+            "game": "https://www.chess.com/game/live/133434559665"
+        },
+        "record": {
+            "win": 33,
+            "loss": 20,
+            "draw": 2
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3419,
+            "date": 1736986400
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1721818703
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

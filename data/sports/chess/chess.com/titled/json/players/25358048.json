@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25358048.cbfd7f48.200x200o.6412220182e3.jpeg",
+    "player_id": 25358048,
+    "@id": "https://api.chess.com/pub/player/massakru",
+    "url": "https://www.chess.com/member/Massakru",
+    "name": "Jake Darmanin",
+    "username": "massakru",
+    "title": "CM",
+    "followers": 68,
+    "country": "https://api.chess.com/pub/country/MT",
+    "last_online": 1741332527,
+    "joined": 1448999021,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1752,
+            "date": 1714903617,
+            "rd": 208
+        },
+        "best": {
+            "rating": 2046,
+            "date": 1488277145,
+            "game": "https://www.chess.com/game/daily/157685923"
+        },
+        "record": {
+            "win": 14,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 19445,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2042,
+            "date": 1656251891,
+            "rd": 163
+        },
+        "best": {
+            "rating": 2124,
+            "date": 1596283713,
+            "game": "https://www.chess.com/game/live/6081540209"
+        },
+        "record": {
+            "win": 42,
+            "loss": 12,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2423,
+            "date": 1728307788,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2439,
+            "date": 1728307352,
+            "game": "https://www.chess.com/game/live/1631497664"
+        },
+        "record": {
+            "win": 1471,
+            "loss": 1045,
+            "draw": 104
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2478,
+            "date": 1741680602,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2616,
+            "date": 1733145882,
+            "game": "https://www.chess.com/game/live/126375623041"
+        },
+        "record": {
+            "win": 13308,
+            "loss": 11742,
+            "draw": 1344
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3148,
+            "date": 1694696089
+        },
+        "lowest": {
+            "rating": 1079,
+            "date": 1452532705
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

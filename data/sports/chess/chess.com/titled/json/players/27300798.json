@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27300798.d45796b6.200x200o.1368393c5c7f.jpeg",
+    "player_id": 27300798,
+    "@id": "https://api.chess.com/pub/player/lovevae",
+    "url": "https://www.chess.com/member/LOVEVAE",
+    "name": "Wei Yi",
+    "username": "lovevae",
+    "title": "GM",
+    "followers": 1591,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741662789,
+    "joined": 1458315576,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 370,
+            "date": 1732440526,
+            "rd": 185
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1458315576,
+            "game": "https://www.chess.com/game/daily/572197129"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 3,
+            "time_per_move": 18385,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2747,
+            "date": 1739985997,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2895,
+            "date": 1598093040,
+            "game": "https://www.chess.com/game/live/5906991671"
+        },
+        "record": {
+            "win": 58,
+            "loss": 25,
+            "draw": 51
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3047,
+            "date": 1739987478,
+            "rd": 38
+        },
+        "best": {
+            "rating": 3121,
+            "date": 1739719473,
+            "game": "https://www.chess.com/game/live/3901791328"
+        },
+        "record": {
+            "win": 1086,
+            "loss": 514,
+            "draw": 127
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3089,
+            "date": 1736878156,
+            "rd": 44
+        },
+        "best": {
+            "rating": 3129,
+            "date": 1671788460,
+            "game": "https://www.chess.com/game/live/65349586733"
+        },
+        "record": {
+            "win": 614,
+            "loss": 311,
+            "draw": 146
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 5655,
+            "date": 1710342306
+        },
+        "lowest": {
+            "rating": 1374,
+            "date": 1461983696
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

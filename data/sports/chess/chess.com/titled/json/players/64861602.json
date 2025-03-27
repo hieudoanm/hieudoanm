@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/64861602.491cd59b.200x200o.39329a1e79b5.jpeg",
+    "player_id": 64861602,
+    "@id": "https://api.chess.com/pub/player/colguamex",
+    "url": "https://www.chess.com/member/colguamex",
+    "name": "MI Rafael Araque",
+    "username": "colguamex",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Tunja",
+    "last_online": 1699007151,
+    "joined": 1567084901,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1610704183,
+            "rd": 78
+        },
+        "best": {
+            "rating": 2298,
+            "date": 1610049286,
+            "game": "https://www.chess.com/game/live/6165651480"
+        },
+        "record": {
+            "win": 20,
+            "loss": 9,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1904,
+            "date": 1610146079,
+            "rd": 28
+        },
+        "best": {
+            "rating": 1930,
+            "date": 1610144927,
+            "game": "https://www.chess.com/game/live/6174412970"
+        },
+        "record": {
+            "win": 98,
+            "loss": 66,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2161,
+            "date": 1688474010,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1605593589,
+            "game": "https://www.chess.com/game/live/6182863013"
+        },
+        "record": {
+            "win": 528,
+            "loss": 376,
+            "draw": 66
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 444,
+            "date": 1598969920
+        },
+        "lowest": {
+            "rating": 388,
+            "date": 1598969480
+        }
+    },
+    "puzzle_rush": {}
+}

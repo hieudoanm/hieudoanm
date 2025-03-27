@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27227376.44b76cd1.200x200o.010a168b4391.png",
+    "player_id": 27227376,
+    "@id": "https://api.chess.com/pub/player/pelusiansky",
+    "url": "https://www.chess.com/member/Pelusiansky",
+    "name": "Roberto Ignacio Alarcon Bahamondez",
+    "username": "pelusiansky",
+    "title": "FM",
+    "followers": 138,
+    "country": "https://api.chess.com/pub/country/CL",
+    "location": "Talca",
+    "last_online": 1738958915,
+    "joined": 1457934384,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 723,
+            "date": 1734997171,
+            "rd": 197
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1457934384,
+            "game": "https://www.chess.com/game/daily/495304755"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 581354,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1422,
+            "date": 1726182737,
+            "rd": 246
+        },
+        "best": {
+            "rating": 1422,
+            "date": 1674962703,
+            "game": "https://www.chess.com/game/live/6507020353"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2658,
+            "date": 1681233866,
+            "rd": 166
+        },
+        "best": {
+            "rating": 2764,
+            "date": 1608237832,
+            "game": "https://www.chess.com/game/live/5992117809"
+        },
+        "record": {
+            "win": 273,
+            "loss": 207,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2591,
+            "date": 1730085695,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2761,
+            "date": 1670200643,
+            "game": "https://www.chess.com/game/live/66697754091"
+        },
+        "record": {
+            "win": 960,
+            "loss": 914,
+            "draw": 146
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3077,
+            "date": 1704568369
+        },
+        "lowest": {
+            "rating": 1369,
+            "date": 1492820619
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

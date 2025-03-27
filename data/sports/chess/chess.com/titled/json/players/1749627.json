@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1749627.2c51717a.200x200o.4e778a31e1f1.jpeg",
+    "player_id": 1749627,
+    "@id": "https://api.chess.com/pub/player/drsmrt",
+    "url": "https://www.chess.com/member/drsmrt",
+    "name": "slaven",
+    "username": "drsmrt",
+    "title": "FM",
+    "followers": 201,
+    "country": "https://api.chess.com/pub/country/CD",
+    "location": "congo",
+    "last_online": 1741687270,
+    "joined": 1233847369,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1679498153,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 1994,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 998,
+            "date": 1715352176,
+            "rd": 98
+        },
+        "best": {
+            "rating": 1600,
+            "date": 1611145312,
+            "game": "https://www.chess.com/game/live/6291124312"
+        },
+        "record": {
+            "win": 19,
+            "loss": 13,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1915,
+            "date": 1741421057,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2178,
+            "date": 1544288326,
+            "game": "https://www.chess.com/game/live/103625428923"
+        },
+        "record": {
+            "win": 3459,
+            "loss": 625,
+            "draw": 110
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2302,
+            "date": 1741696678,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2505,
+            "date": 1582260840,
+            "game": "https://www.chess.com/game/live/37035595657"
+        },
+        "record": {
+            "win": 47930,
+            "loss": 18194,
+            "draw": 2622
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3557,
+            "date": 1685443034
+        },
+        "lowest": {
+            "rating": 1278,
+            "date": 1483620002
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

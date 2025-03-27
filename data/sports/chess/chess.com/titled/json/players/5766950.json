@@ -1,0 +1,100 @@
+{
+    "player_id": 5766950,
+    "@id": "https://api.chess.com/pub/player/lonestarpawn",
+    "url": "https://www.chess.com/member/Lonestarpawn",
+    "name": "Andrew Tang",
+    "username": "lonestarpawn",
+    "title": "CM",
+    "followers": 67,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Texas",
+    "last_online": 1737346359,
+    "joined": 1315691204,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1335,
+            "date": 1704280712,
+            "rd": 194
+        },
+        "record": {
+            "win": 0,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 49783,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1990,
+            "date": 1684167896,
+            "rd": 131
+        },
+        "best": {
+            "rating": 1990,
+            "date": 1682733604,
+            "game": "https://www.chess.com/game/live/973686649"
+        },
+        "record": {
+            "win": 155,
+            "loss": 122,
+            "draw": 15
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2111,
+            "date": 1736639751,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1728787940,
+            "game": "https://www.chess.com/game/live/116830202205"
+        },
+        "record": {
+            "win": 912,
+            "loss": 806,
+            "draw": 54
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2309,
+            "date": 1706374745,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2661,
+            "date": 1650211814,
+            "game": "https://www.chess.com/game/live/62617240293"
+        },
+        "record": {
+            "win": 795,
+            "loss": 616,
+            "draw": 81
+        }
+    },
+    "fide": 1200,
+    "tactics": {
+        "highest": {
+            "rating": 2662,
+            "date": 1737346523
+        },
+        "lowest": {
+            "rating": 1070,
+            "date": 1315691347
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

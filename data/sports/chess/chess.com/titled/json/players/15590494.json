@@ -1,0 +1,92 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15590494.d57a6ad9.200x200o.69398f46d34e.jpg",
+    "player_id": 15590494,
+    "@id": "https://api.chess.com/pub/player/bancsoo",
+    "url": "https://www.chess.com/member/bancsoo",
+    "name": "Tamas Banusz",
+    "username": "bancsoo",
+    "title": "GM",
+    "followers": 313,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Pecs",
+    "last_online": 1734130129,
+    "joined": 1389805356,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmbancsoo",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmbancsoo"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2590,
+            "date": 1721322278,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2695,
+            "date": 1597422870,
+            "game": "https://www.chess.com/game/live/5333765576"
+        },
+        "record": {
+            "win": 24,
+            "loss": 18,
+            "draw": 21
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2905,
+            "date": 1733499723,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2996,
+            "date": 1731786908,
+            "game": "https://www.chess.com/game/live/125515792305"
+        },
+        "record": {
+            "win": 955,
+            "loss": 677,
+            "draw": 151
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3004,
+            "date": 1734113008,
+            "rd": 22
+        },
+        "best": {
+            "rating": 3018,
+            "date": 1733849557,
+            "game": "https://www.chess.com/game/live/125579348469"
+        },
+        "record": {
+            "win": 3055,
+            "loss": 2527,
+            "draw": 731
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3615,
+            "date": 1731957666
+        },
+        "lowest": {
+            "rating": 1321,
+            "date": 1389805897
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

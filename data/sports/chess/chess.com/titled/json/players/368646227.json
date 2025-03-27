@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/368646227.c21cee19.200x200o.2c2f7c34e7a3.jpg",
+    "player_id": 368646227,
+    "@id": "https://api.chess.com/pub/player/abu-alhussein",
+    "url": "https://www.chess.com/member/Abu-AlHussein",
+    "name": "Sidi Boidiya",
+    "username": "abu-alhussein",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/MR",
+    "location": "New York",
+    "last_online": 1735675520,
+    "joined": 1717965144,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2104,
+            "date": 1727783403,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2104,
+            "date": 1724345525,
+            "game": "https://www.chess.com/game/live/121435783383"
+        },
+        "record": {
+            "win": 6,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2346,
+            "date": 1722619934,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2362,
+            "date": 1722553531,
+            "game": "https://www.chess.com/game/live/116282977831"
+        },
+        "record": {
+            "win": 22,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2406,
+            "date": 1728953461,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2416,
+            "date": 1728240445,
+            "game": "https://www.chess.com/game/live/114299467409"
+        },
+        "record": {
+            "win": 68,
+            "loss": 28,
+            "draw": 5
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3427,
+            "date": 1721441961
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1717965144
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/172438357.8654471d.200x200o.d6bd384fc47c.jpeg",
+    "player_id": 172438357,
+    "@id": "https://api.chess.com/pub/player/hypernova99",
+    "url": "https://www.chess.com/member/hypernova99",
+    "username": "hypernova99",
+    "title": "NM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741637753,
+    "joined": 1644275619,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2563,
+            "date": 1645601137,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2563,
+            "date": 1645601137,
+            "game": "https://www.chess.com/game/live/39339580103"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2548,
+            "date": 1711701942,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2727,
+            "date": 1646116076,
+            "game": "https://www.chess.com/game/live/58514424447"
+        },
+        "record": {
+            "win": 70,
+            "loss": 70,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2576,
+            "date": 1741336194,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2628,
+            "date": 1726620225,
+            "game": "https://www.chess.com/game/live/70701651579"
+        },
+        "record": {
+            "win": 2113,
+            "loss": 1787,
+            "draw": 476
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3010,
+            "date": 1645557439
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1644349198
+        }
+    },
+    "puzzle_rush": {}
+}

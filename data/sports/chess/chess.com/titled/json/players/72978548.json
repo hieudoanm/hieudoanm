@@ -1,0 +1,67 @@
+{
+    "player_id": 72978548,
+    "@id": "https://api.chess.com/pub/player/qwerasdf8008",
+    "url": "https://www.chess.com/member/qwerasdf8008",
+    "name": "Changhoon Kim",
+    "username": "qwerasdf8008",
+    "title": "CM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740814002,
+    "joined": 1583231724,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2007,
+            "date": 1733318334,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2007,
+            "date": 1733318334,
+            "game": "https://www.chess.com/game/live/127056558689"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2059,
+            "date": 1725905304,
+            "rd": 141
+        },
+        "best": {
+            "rating": 2203,
+            "date": 1583235543,
+            "game": "https://www.chess.com/game/live/4567280831"
+        },
+        "record": {
+            "win": 693,
+            "loss": 747,
+            "draw": 70
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2405,
+            "date": 1667045572
+        },
+        "lowest": {
+            "rating": 1887,
+            "date": 1584209457
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 39
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "player_id": 374557299,
+    "@id": "https://api.chess.com/pub/player/gangsterrito",
+    "url": "https://www.chess.com/member/Gangsterrito",
+    "name": "Yurii Khodko",
+    "username": "gangsterrito",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741702657,
+    "joined": 1720608322,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2399,
+            "date": 1721732401,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2399,
+            "date": 1721732401,
+            "game": "https://www.chess.com/game/live/115470539961"
+        },
+        "record": {
+            "win": 30,
+            "loss": 2,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2633,
+            "date": 1741129150,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2785,
+            "date": 1737482589,
+            "game": "https://www.chess.com/game/live/128817801091"
+        },
+        "record": {
+            "win": 204,
+            "loss": 130,
+            "draw": 23
+        }
+    },
+    "fide": 2248,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1720608322
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1720608322
+        }
+    },
+    "puzzle_rush": {}
+}

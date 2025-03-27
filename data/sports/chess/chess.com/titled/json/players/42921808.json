@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42921808.4622e325.200x200o.693d366f09b2.jpeg",
+    "player_id": 42921808,
+    "@id": "https://api.chess.com/pub/player/chesscoachtaipei",
+    "url": "https://www.chess.com/member/chesscoachtaipei",
+    "name": "Dr. Jeremy Mandelkern",
+    "username": "chesscoachtaipei",
+    "title": "CM",
+    "followers": 2952,
+    "country": "https://api.chess.com/pub/country/TW",
+    "location": "Taipei",
+    "last_online": 1741698883,
+    "joined": 1517544989,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2342,
+            "date": 1741689946,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2427,
+            "date": 1653573004,
+            "game": "https://www.chess.com/game/live/102187403479"
+        },
+        "record": {
+            "win": 1418,
+            "loss": 862,
+            "draw": 332
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2351,
+            "date": 1711625441,
+            "rd": 244
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1624975895,
+            "game": "https://www.chess.com/game/live/3330203732"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2350,
+            "date": 1741128545,
+            "rd": 126
+        },
+        "best": {
+            "rating": 2362,
+            "date": 1672822461,
+            "game": "https://www.chess.com/game/live/5823331269"
+        },
+        "record": {
+            "win": 2676,
+            "loss": 2291,
+            "draw": 400
+        }
+    },
+    "fide": 2187,
+    "tactics": {
+        "highest": {
+            "rating": 2472,
+            "date": 1612969758
+        },
+        "lowest": {
+            "rating": 1989,
+            "date": 1583318894
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 25,
+            "score": 23
+        }
+    }
+}

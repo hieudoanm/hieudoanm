@@ -1,0 +1,53 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29780016.4d500fd4.200x200o.d060818cf0f5.jpeg",
+    "player_id": 29780016,
+    "@id": "https://api.chess.com/pub/player/wrongking",
+    "url": "https://www.chess.com/member/wrongking",
+    "name": "Alexander Raetsky",
+    "username": "wrongking",
+    "title": "GM",
+    "followers": 37,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Voronezh",
+    "last_online": 1736986023,
+    "joined": 1473002047,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2418,
+            "date": 1709203467,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2453,
+            "date": 1702244502,
+            "game": "https://www.chess.com/game/live/6179875820"
+        },
+        "record": {
+            "win": 1109,
+            "loss": 1038,
+            "draw": 161
+        }
+    },
+    "fide": 2384,
+    "tactics": {
+        "highest": {
+            "rating": 3194,
+            "date": 1610123992
+        },
+        "lowest": {
+            "rating": 1363,
+            "date": 1475327784
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

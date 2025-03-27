@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8866378.8a686e6c.200x200o.e722861a7006.jpg",
+    "player_id": 8866378,
+    "@id": "https://api.chess.com/pub/player/chenrip",
+    "url": "https://www.chess.com/member/chenrip",
+    "name": "Roman Kozelov",
+    "username": "chenrip",
+    "title": "NM",
+    "followers": 91,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1741663726,
+    "joined": 1347364669,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1129,
+            "date": 1740786191,
+            "rd": 191
+        },
+        "best": {
+            "rating": 1330,
+            "date": 1365095082,
+            "game": "https://www.chess.com/game/daily/67908996"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 41591,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2327,
+            "date": 1703537364,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2327,
+            "date": 1697860449,
+            "game": "https://www.chess.com/game/live/91291735967"
+        },
+        "record": {
+            "win": 48,
+            "loss": 28,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1697825509,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2314,
+            "date": 1603649006,
+            "game": "https://www.chess.com/game/live/3590616585"
+        },
+        "record": {
+            "win": 25,
+            "loss": 26,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2442,
+            "date": 1741665167,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2589,
+            "date": 1721625437,
+            "game": "https://www.chess.com/game/live/121535498839"
+        },
+        "record": {
+            "win": 17435,
+            "loss": 16580,
+            "draw": 3122
+        }
+    },
+    "fide": 2360,
+    "tactics": {
+        "highest": {
+            "rating": 3212,
+            "date": 1737495377
+        },
+        "lowest": {
+            "rating": 1463,
+            "date": 1370546771
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

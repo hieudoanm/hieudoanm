@@ -1,0 +1,46 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/402899713.5f4b20ac.200x200o.148316bc20d9.jpg",
+    "player_id": 402899713,
+    "@id": "https://api.chess.com/pub/player/yashcore",
+    "url": "https://www.chess.com/member/yashcore",
+    "name": "Yash Laddha",
+    "username": "yashcore",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741692121,
+    "joined": 1731761931,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2420,
+            "date": 1739293155,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2470,
+            "date": 1738085014,
+            "game": "https://www.chess.com/game/live/131818855085"
+        },
+        "record": {
+            "win": 9,
+            "loss": 17,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1731761931
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1731761931
+        }
+    },
+    "puzzle_rush": {}
+}

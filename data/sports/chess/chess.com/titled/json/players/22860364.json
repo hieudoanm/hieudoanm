@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22860364.8a35c5b4.200x200o.afa5017f0e2e.jpg",
+    "player_id": 22860364,
+    "@id": "https://api.chess.com/pub/player/dj-shake",
+    "url": "https://www.chess.com/member/dj-shake",
+    "name": "Yuriy Shtompel",
+    "username": "dj-shake",
+    "title": "NM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741690864,
+    "joined": 1434547837,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2076,
+            "date": 1651425334,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1651424825,
+            "game": "https://www.chess.com/game/live/45163748549"
+        },
+        "record": {
+            "win": 194,
+            "loss": 131,
+            "draw": 28
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2605,
+            "date": 1741690489,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2535,
+            "date": 1729416000,
+            "game": "https://www.chess.com/game/live/76527081521"
+        },
+        "record": {
+            "win": 577,
+            "loss": 382,
+            "draw": 67
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2374,
+            "date": 1740040787,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2412,
+            "date": 1670768858,
+            "game": "https://www.chess.com/game/live/60449512193"
+        },
+        "record": {
+            "win": 1676,
+            "loss": 1038,
+            "draw": 181
+        }
+    },
+    "fide": 2333,
+    "tactics": {
+        "highest": {
+            "rating": 3260,
+            "date": 1689577198
+        },
+        "lowest": {
+            "rating": 1078,
+            "date": 1443021500
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

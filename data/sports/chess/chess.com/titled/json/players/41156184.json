@@ -1,0 +1,104 @@
+{
+    "player_id": 41156184,
+    "@id": "https://api.chess.com/pub/player/azn2002",
+    "url": "https://www.chess.com/member/azn2002",
+    "name": "Andre Nielsen",
+    "username": "azn2002",
+    "title": "FM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/NO",
+    "last_online": 1741454619,
+    "joined": 1512806581,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1754,
+            "date": 1741288296,
+            "rd": 116
+        },
+        "best": {
+            "rating": 1951,
+            "date": 1521308809,
+            "game": "https://www.chess.com/game/daily/255289394"
+        },
+        "record": {
+            "win": 41,
+            "loss": 16,
+            "draw": 2,
+            "time_per_move": 99021,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2268,
+            "date": 1713353120,
+            "rd": 140
+        },
+        "best": {
+            "rating": 2269,
+            "date": 1609756920,
+            "game": "https://www.chess.com/game/live/6139358243"
+        },
+        "record": {
+            "win": 6,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2311,
+            "date": 1650647854,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1565039893,
+            "game": "https://www.chess.com/game/live/3922532329"
+        },
+        "record": {
+            "win": 687,
+            "loss": 510,
+            "draw": 89
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2333,
+            "date": 1718122661,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2351,
+            "date": 1689852613,
+            "game": "https://www.chess.com/game/live/111859969797"
+        },
+        "record": {
+            "win": 203,
+            "loss": 122,
+            "draw": 27
+        }
+    },
+    "fide": 2268,
+    "tactics": {
+        "highest": {
+            "rating": 3644,
+            "date": 1741679880
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1512806630
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

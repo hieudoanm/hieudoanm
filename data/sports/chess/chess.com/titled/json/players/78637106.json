@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/78637106.2644c9c0.200x200o.4fc810a07536.jpeg",
+    "player_id": 78637106,
+    "@id": "https://api.chess.com/pub/player/andrey-ivanov2011",
+    "url": "https://www.chess.com/member/Andrey-Ivanov2011",
+    "name": "Andrey Ivanov",
+    "username": "andrey-ivanov2011",
+    "title": "CM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/IE",
+    "last_online": 1741624475,
+    "joined": 1588674734,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2012,
+            "date": 1718281430,
+            "rd": 79
+        },
+        "best": {
+            "rating": 1922,
+            "date": 1660322607,
+            "game": "https://www.chess.com/game/live/54041382469"
+        },
+        "record": {
+            "win": 103,
+            "loss": 47,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2349,
+            "date": 1740576354,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1738602199,
+            "game": "https://www.chess.com/game/live/125515784881"
+        },
+        "record": {
+            "win": 201,
+            "loss": 117,
+            "draw": 27
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2237,
+            "date": 1738506849,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2296,
+            "date": 1727295289,
+            "game": "https://www.chess.com/game/live/113671245847"
+        },
+        "record": {
+            "win": 177,
+            "loss": 152,
+            "draw": 20
+        }
+    },
+    "fide": 2012,
+    "tactics": {
+        "highest": {
+            "rating": 3581,
+            "date": 1734261408
+        },
+        "lowest": {
+            "rating": 813,
+            "date": 1589730078
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

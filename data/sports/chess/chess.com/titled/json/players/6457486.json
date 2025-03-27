@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6457486.3105829e.200x200o.b0d5ffdc4602.png",
+    "player_id": 6457486,
+    "@id": "https://api.chess.com/pub/player/elfranco",
+    "url": "https://www.chess.com/member/elfranco",
+    "name": "Franz Robert Grafil",
+    "username": "elfranco",
+    "title": "NM",
+    "followers": 59,
+    "country": "https://api.chess.com/pub/country/SG",
+    "last_online": 1741362661,
+    "joined": 1325950438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2459,
+            "date": 1697191688,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2459,
+            "date": 1697191688,
+            "game": "https://www.chess.com/game/live/62491148431"
+        },
+        "record": {
+            "win": 51,
+            "loss": 23,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2613,
+            "date": 1671838461,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1601722586,
+            "game": "https://www.chess.com/game/live/21372025515"
+        },
+        "record": {
+            "win": 3466,
+            "loss": 4172,
+            "draw": 204
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2696,
+            "date": 1689857099,
+            "rd": 79
+        },
+        "best": {
+            "rating": 2696,
+            "date": 1689857099,
+            "game": "https://www.chess.com/game/live/23566781945"
+        },
+        "record": {
+            "win": 1244,
+            "loss": 1271,
+            "draw": 149
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3541,
+            "date": 1677654583
+        },
+        "lowest": {
+            "rating": 1247,
+            "date": 1367336879
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

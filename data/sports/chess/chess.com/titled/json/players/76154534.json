@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76154534.c20dd19e.200x200o.0d3350a442bc.jpg",
+    "player_id": 76154534,
+    "@id": "https://api.chess.com/pub/player/yek94",
+    "url": "https://www.chess.com/member/YEK94",
+    "name": "Yekaterina Kusluvan",
+    "username": "yek94",
+    "title": "WFM",
+    "followers": 80,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "\u0421\u0442\u0430\u043c\u0431\u0443\u043b",
+    "last_online": 1741690908,
+    "joined": 1586440979,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 927,
+            "date": 1708669387,
+            "rd": 262
+        },
+        "best": {
+            "rating": 1000,
+            "date": 1586440979,
+            "game": "https://www.chess.com/game/daily/611250711"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 37845,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1889,
+            "date": 1730742195,
+            "rd": 343
+        },
+        "best": {
+            "rating": 1889,
+            "date": 1730742195,
+            "game": "https://www.chess.com/game/live/124480808171"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1906,
+            "date": 1734621366,
+            "rd": 70
+        },
+        "best": {
+            "rating": 1920,
+            "date": 1670410536,
+            "game": "https://www.chess.com/game/live/101055231167"
+        },
+        "record": {
+            "win": 345,
+            "loss": 163,
+            "draw": 19
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2059,
+            "date": 1720881043,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2104,
+            "date": 1706179602,
+            "game": "https://www.chess.com/game/live/33243653707"
+        },
+        "record": {
+            "win": 654,
+            "loss": 204,
+            "draw": 40
+        }
+    },
+    "fide": 2112,
+    "tactics": {
+        "highest": {
+            "rating": 3159,
+            "date": 1733493769
+        },
+        "lowest": {
+            "rating": 417,
+            "date": 1587829045
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

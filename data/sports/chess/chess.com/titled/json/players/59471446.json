@@ -1,0 +1,32 @@
+{
+    "player_id": 59471446,
+    "@id": "https://api.chess.com/pub/player/blackjack1953",
+    "url": "https://www.chess.com/member/blackjack1953",
+    "username": "blackjack1953",
+    "title": "IM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741638301,
+    "joined": 1554534715,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3730,
+            "date": 1728593523
+        },
+        "lowest": {
+            "rating": 2296,
+            "date": 1555526230
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 28
+        }
+    }
+}

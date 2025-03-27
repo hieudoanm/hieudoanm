@@ -1,0 +1,43 @@
+{
+    "player_id": 357183685,
+    "@id": "https://api.chess.com/pub/player/darkwingduck98",
+    "url": "https://www.chess.com/member/DarkwingDuck98",
+    "username": "darkwingduck98",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741644968,
+    "joined": 1713124954,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2800,
+            "date": 1741651071,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2846,
+            "date": 1718027020,
+            "game": "https://www.chess.com/game/live/124595960915"
+        },
+        "record": {
+            "win": 1003,
+            "loss": 799,
+            "draw": 168
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1713124954
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1713124954
+        }
+    },
+    "puzzle_rush": {}
+}

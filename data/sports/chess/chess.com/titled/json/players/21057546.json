@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21057546.e1bfd68e.200x200o.5c3eac763c5b.jpeg",
+    "player_id": 21057546,
+    "@id": "https://api.chess.com/pub/player/kash12345",
+    "url": "https://www.chess.com/member/KASH12345",
+    "name": "Ramkrishna Kashelkar",
+    "username": "kash12345",
+    "title": "FM",
+    "followers": 93,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741693986,
+    "joined": 1423763793,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2257,
+            "date": 1724754749,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1619369980,
+            "game": "https://www.chess.com/game/live/20867480587"
+        },
+        "record": {
+            "win": 52,
+            "loss": 15,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1999,
+            "date": 1729174155,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2154,
+            "date": 1692423056,
+            "game": "https://www.chess.com/game/live/79444860183"
+        },
+        "record": {
+            "win": 17,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2002,
+            "date": 1741695478,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2293,
+            "date": 1599410795,
+            "game": "https://www.chess.com/game/live/26981424129"
+        },
+        "record": {
+            "win": 1380,
+            "loss": 694,
+            "draw": 91
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3245,
+            "date": 1724073063
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1423764491
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

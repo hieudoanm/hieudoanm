@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8066598.8064ea07.200x200o.9a7e415551ab.jpeg",
+    "player_id": 8066598,
+    "@id": "https://api.chess.com/pub/player/robertris",
+    "url": "https://www.chess.com/member/RobertRis",
+    "name": "Robert Ris",
+    "username": "robertris",
+    "title": "IM",
+    "followers": 766,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "Amsterdam",
+    "last_online": 1741700204,
+    "joined": 1341190848,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2267,
+            "date": 1469209833,
+            "rd": 332
+        },
+        "best": {
+            "rating": 2267,
+            "date": 1469209833,
+            "game": "https://www.chess.com/game/daily/81867866"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 622,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1679,
+            "date": 1684339042,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2352,
+            "date": 1599984812,
+            "game": "https://www.chess.com/game/live/5550366885"
+        },
+        "record": {
+            "win": 48,
+            "loss": 16,
+            "draw": 28
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2223,
+            "date": 1676300658,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1450165415,
+            "game": "https://www.chess.com/game/live/2147273469"
+        },
+        "record": {
+            "win": 85,
+            "loss": 38,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2734,
+            "date": 1741700599,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2815,
+            "date": 1739541959,
+            "game": "https://www.chess.com/game/live/114885512323"
+        },
+        "record": {
+            "win": 4654,
+            "loss": 3034,
+            "draw": 855
+        }
+    },
+    "fide": 2464,
+    "tactics": {
+        "highest": {
+            "rating": 1629,
+            "date": 1541584484
+        },
+        "lowest": {
+            "rating": 1363,
+            "date": 1419805878
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42469586.961cbf2c.200x200o.a0a0b62e0e8c.jpeg",
+    "player_id": 42469586,
+    "@id": "https://api.chess.com/pub/player/dtchess",
+    "url": "https://www.chess.com/member/DTChess",
+    "name": "Dejan Tasev",
+    "username": "dtchess",
+    "title": "FM",
+    "followers": 2826,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Belgrade",
+    "last_online": 1741699355,
+    "joined": 1516363703,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2488,
+            "date": 1711143332,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1703795366,
+            "game": "https://www.chess.com/game/live/97540297763"
+        },
+        "record": {
+            "win": 344,
+            "loss": 188,
+            "draw": 85
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2668,
+            "date": 1740925536,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2732,
+            "date": 1607606541,
+            "game": "https://www.chess.com/game/live/36017371665"
+        },
+        "record": {
+            "win": 947,
+            "loss": 707,
+            "draw": 106
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2739,
+            "date": 1715440997,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2739,
+            "date": 1711143510,
+            "game": "https://www.chess.com/game/live/88874555233"
+        },
+        "record": {
+            "win": 5460,
+            "loss": 5263,
+            "draw": 989
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3354,
+            "date": 1712200653
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1604849999
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 77,
+            "score": 74
+        },
+        "daily": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

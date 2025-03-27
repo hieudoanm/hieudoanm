@@ -1,0 +1,99 @@
+{
+    "player_id": 162489015,
+    "@id": "https://api.chess.com/pub/player/kenreoo",
+    "url": "https://www.chess.com/member/Kenreoo",
+    "name": "Aarav Sinha",
+    "username": "kenreoo",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1735372759,
+    "joined": 1637818232,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1720204735,
+            "rd": 350
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 1888680,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1717174769,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1682093810,
+            "game": "https://www.chess.com/game/live/75832349461"
+        },
+        "record": {
+            "win": 92,
+            "loss": 73,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2370,
+            "date": 1731764548,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2480,
+            "date": 1729489768,
+            "game": "https://www.chess.com/game/live/123144630969"
+        },
+        "record": {
+            "win": 217,
+            "loss": 150,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2436,
+            "date": 1735373627,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2504,
+            "date": 1726855817,
+            "game": "https://www.chess.com/game/live/120593479187"
+        },
+        "record": {
+            "win": 1114,
+            "loss": 641,
+            "draw": 128
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3470,
+            "date": 1702376424
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1640073127
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

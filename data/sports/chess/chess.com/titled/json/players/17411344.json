@@ -1,0 +1,92 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17411344.835ac3fe.200x200o.5e4acd7111ce.jpeg",
+    "player_id": 17411344,
+    "@id": "https://api.chess.com/pub/player/eljanov",
+    "url": "https://www.chess.com/member/eljanov",
+    "name": "Pavel Eljanov",
+    "username": "eljanov",
+    "title": "GM",
+    "followers": 556,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Kharkov, Ukraine",
+    "last_online": 1734032895,
+    "joined": 1400865696,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/eljanovlive",
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/eljanovlive"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2648,
+            "date": 1715201187,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2718,
+            "date": 1590769434,
+            "game": "https://www.chess.com/game/live/83964045259"
+        },
+        "record": {
+            "win": 57,
+            "loss": 35,
+            "draw": 26
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1401,
+            "date": 1644782898,
+            "rd": 248
+        },
+        "best": {
+            "rating": 1401,
+            "date": 1644782898,
+            "game": "https://www.chess.com/game/live/38521533565"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2891,
+            "date": 1733943676,
+            "rd": 32
+        },
+        "best": {
+            "rating": 3045,
+            "date": 1731611666,
+            "game": "https://www.chess.com/game/live/114466791617"
+        },
+        "record": {
+            "win": 5561,
+            "loss": 5432,
+            "draw": 1885
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1568,
+            "date": 1612781258
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1522557725
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

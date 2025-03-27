@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28875508.cddd7381.200x200o.7ef5eccdc4c6.jpg",
+    "player_id": 28875508,
+    "@id": "https://api.chess.com/pub/player/berga1201",
+    "url": "https://www.chess.com/member/Berga1201",
+    "name": "Bernadette Galas",
+    "username": "berga1201",
+    "title": "WIM",
+    "followers": 395,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1741682223,
+    "joined": 1467385385,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2118,
+            "date": 1730893113,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1597483746,
+            "game": "https://www.chess.com/game/live/5604313615"
+        },
+        "record": {
+            "win": 174,
+            "loss": 41,
+            "draw": 59
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2275,
+            "date": 1741539344,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1732201902,
+            "game": "https://www.chess.com/game/live/95777628135"
+        },
+        "record": {
+            "win": 531,
+            "loss": 446,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2259,
+            "date": 1741540437,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2347,
+            "date": 1566977076,
+            "game": "https://www.chess.com/game/live/3654112557"
+        },
+        "record": {
+            "win": 352,
+            "loss": 209,
+            "draw": 79
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3373,
+            "date": 1704964472
+        },
+        "lowest": {
+            "rating": 1623,
+            "date": 1470497944
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

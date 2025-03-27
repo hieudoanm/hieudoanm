@@ -1,0 +1,61 @@
+{
+    "player_id": 37277108,
+    "@id": "https://api.chess.com/pub/player/adaro",
+    "url": "https://www.chess.com/member/Adaro",
+    "username": "adaro",
+    "title": "GM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1734184189,
+    "joined": 1500918534,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2844,
+            "date": 1586960896,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2893,
+            "date": 1584928108,
+            "game": "https://www.chess.com/game/live/4641455306"
+        },
+        "record": {
+            "win": 124,
+            "loss": 73,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2808,
+            "date": 1734184854,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2938,
+            "date": 1654958749,
+            "game": "https://www.chess.com/game/live/106452979681"
+        },
+        "record": {
+            "win": 1125,
+            "loss": 770,
+            "draw": 226
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1500918534
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1500918534
+        }
+    },
+    "puzzle_rush": {}
+}

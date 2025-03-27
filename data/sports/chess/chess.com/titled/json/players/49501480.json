@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49501480.0fd02586.200x200o.cfcad0e16024.jpeg",
+    "player_id": 49501480,
+    "@id": "https://api.chess.com/pub/player/i_like_explosions",
+    "url": "https://www.chess.com/member/i_like_explosions",
+    "name": "Sricharan Pullela",
+    "username": "i_like_explosions",
+    "title": "NM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Mountain House, California",
+    "last_online": 1741663150,
+    "joined": 1536286003,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1495,
+            "date": 1741548320,
+            "rd": 87
+        },
+        "best": {
+            "rating": 1870,
+            "date": 1691306312,
+            "game": "https://www.chess.com/game/daily/599822851"
+        },
+        "record": {
+            "win": 255,
+            "loss": 234,
+            "draw": 43,
+            "time_per_move": 25706,
+            "timeout_percent": 37
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2354,
+            "date": 1741489741,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2385,
+            "date": 1701538598,
+            "game": "https://www.chess.com/game/live/94275121931"
+        },
+        "record": {
+            "win": 230,
+            "loss": 239,
+            "draw": 50
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2608,
+            "date": 1741655687,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2661,
+            "date": 1735799978,
+            "game": "https://www.chess.com/game/live/129539009939"
+        },
+        "record": {
+            "win": 1323,
+            "loss": 1163,
+            "draw": 184
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2519,
+            "date": 1741655632,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1721595691,
+            "game": "https://www.chess.com/game/live/113692829717"
+        },
+        "record": {
+            "win": 1301,
+            "loss": 1241,
+            "draw": 252
+        }
+    },
+    "fide": 2200,
+    "tactics": {
+        "highest": {
+            "rating": 3593,
+            "date": 1657309302
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1561662560
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

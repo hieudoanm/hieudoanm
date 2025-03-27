@@ -1,0 +1,49 @@
+{
+    "player_id": 30757892,
+    "@id": "https://api.chess.com/pub/player/professorshadoko",
+    "url": "https://www.chess.com/member/ProfessorShadoko",
+    "name": "Jean-Philippe Karr",
+    "username": "professorshadoko",
+    "title": "IM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1740610577,
+    "joined": 1478351610,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2359,
+            "date": 1555775654,
+            "rd": 158
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1555775654,
+            "game": "https://www.chess.com/game/live/3632958133"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3599,
+            "date": 1732472948
+        },
+        "lowest": {
+            "rating": 1792,
+            "date": 1513185129
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 50
+        }
+    }
+}

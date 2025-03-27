@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42831924.6737cda5.200x200o.8344ab0c56ff.jpg",
+    "player_id": 42831924,
+    "@id": "https://api.chess.com/pub/player/alejanchess73",
+    "url": "https://www.chess.com/member/alejanchess73",
+    "name": "Alejandro Adri\u00e1n Riline Orso",
+    "username": "alejanchess73",
+    "title": "CM",
+    "followers": 100,
+    "country": "https://api.chess.com/pub/country/PY",
+    "location": "Asunci\u00f3n",
+    "last_online": 1741638898,
+    "joined": 1517314268,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1945,
+            "date": 1733742106,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2301,
+            "date": 1611154250,
+            "game": "https://www.chess.com/game/daily/242911802"
+        },
+        "record": {
+            "win": 2493,
+            "loss": 750,
+            "draw": 312,
+            "time_per_move": 11239,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1850,
+            "date": 1692879911,
+            "rd": 61
+        },
+        "best": {
+            "rating": 1923,
+            "date": 1623932202,
+            "game": "https://www.chess.com/game/daily/379801117"
+        },
+        "record": {
+            "win": 60,
+            "loss": 28,
+            "draw": 14,
+            "time_per_move": 11239,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1995,
+            "date": 1628032748,
+            "rd": 126
+        },
+        "best": {
+            "rating": 2140,
+            "date": 1538856327,
+            "game": "https://www.chess.com/game/live/4952641446"
+        },
+        "record": {
+            "win": 29,
+            "loss": 40,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2232,
+            "date": 1608839302,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2360,
+            "date": 1542284799,
+            "game": "https://www.chess.com/game/live/5413071412"
+        },
+        "record": {
+            "win": 134,
+            "loss": 146,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2606,
+            "date": 1738877069,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2606,
+            "date": 1738877069,
+            "game": "https://www.chess.com/game/live/5720634526"
+        },
+        "record": {
+            "win": 9883,
+            "loss": 9910,
+            "draw": 1645
+        }
+    },
+    "fide": 2097,
+    "tactics": {
+        "highest": {
+            "rating": 2926,
+            "date": 1721418169
+        },
+        "lowest": {
+            "rating": 0,
+            "date": 1523817067
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

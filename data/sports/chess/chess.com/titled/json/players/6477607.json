@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6477607.d62d4cdf.200x200o.6f7164e55029.jpeg",
+    "player_id": 6477607,
+    "@id": "https://api.chess.com/pub/player/pifion",
+    "url": "https://www.chess.com/member/pifion",
+    "name": "sebas sanchez",
+    "username": "pifion",
+    "title": "IM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "bucaramanga",
+    "last_online": 1741701935,
+    "joined": 1326254301,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2400,
+            "date": 1712509125,
+            "rd": 283
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1652828796,
+            "game": "https://www.chess.com/game/live/5256528318"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2278,
+            "date": 1677110124,
+            "rd": 195
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1603676626,
+            "game": "https://www.chess.com/game/live/2775993696"
+        },
+        "record": {
+            "win": 59,
+            "loss": 14,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2638,
+            "date": 1739573752,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2680,
+            "date": 1713907791,
+            "game": "https://www.chess.com/game/live/10259606977"
+        },
+        "record": {
+            "win": 200,
+            "loss": 84,
+            "draw": 31
+        }
+    },
+    "fide": 2423,
+    "tactics": {
+        "highest": {
+            "rating": 2681,
+            "date": 1664013205
+        },
+        "lowest": {
+            "rating": 1325,
+            "date": 1433260997
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

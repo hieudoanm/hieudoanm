@@ -1,0 +1,63 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/383266823.62b93bf5.200x200o.5e85f1269a73.jpg",
+    "player_id": 383266823,
+    "@id": "https://api.chess.com/pub/player/waytoogeeked",
+    "url": "https://www.chess.com/member/waytoogeeked",
+    "username": "waytoogeeked",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1736919775,
+    "joined": 1724616509,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2518,
+            "date": 1735301444,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2541,
+            "date": 1730185841,
+            "game": "https://www.chess.com/game/live/123922212757"
+        },
+        "record": {
+            "win": 88,
+            "loss": 70,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2391,
+            "date": 1735470441,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1733652873,
+            "game": "https://www.chess.com/game/live/123494427337"
+        },
+        "record": {
+            "win": 258,
+            "loss": 258,
+            "draw": 23
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1724616509
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1724616509
+        }
+    },
+    "puzzle_rush": {}
+}

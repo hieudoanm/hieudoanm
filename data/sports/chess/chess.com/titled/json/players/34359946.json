@@ -1,0 +1,61 @@
+{
+    "player_id": 34359946,
+    "@id": "https://api.chess.com/pub/player/eldax64",
+    "url": "https://www.chess.com/member/EldaX64",
+    "name": "Paul Velten",
+    "username": "eldax64",
+    "title": "GM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1608404652,
+    "joined": 1490805436,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2855,
+            "date": 1512462949,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2705,
+            "date": 1512462949,
+            "game": "https://www.chess.com/game/live/2365747146"
+        },
+        "record": {
+            "win": 217,
+            "loss": 68,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2626,
+            "date": 1608139905,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2716,
+            "date": 1501853350,
+            "game": "https://www.chess.com/game/live/2540745969"
+        },
+        "record": {
+            "win": 367,
+            "loss": 177,
+            "draw": 43
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3232,
+            "date": 1515630809
+        },
+        "lowest": {
+            "rating": 1246,
+            "date": 1490806665
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,73 @@
+{
+    "player_id": 153447137,
+    "@id": "https://api.chess.com/pub/player/machupikchu11",
+    "url": "https://www.chess.com/member/MachuPikchu11",
+    "username": "machupikchu11",
+    "title": "WCM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/KG",
+    "last_online": 1731681245,
+    "joined": 1630744858,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1861,
+            "date": 1646241725,
+            "rd": 139
+        },
+        "best": {
+            "rating": 1861,
+            "date": 1645425997,
+            "game": "https://www.chess.com/game/live/39163794595"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1800,
+            "date": 1732027287,
+            "rd": 273
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1991,
+            "date": 1731343725,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2164,
+            "date": 1712762084,
+            "game": "https://www.chess.com/game/live/31429145429"
+        },
+        "record": {
+            "win": 57,
+            "loss": 37,
+            "draw": 6
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1630744858
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1630744858
+        }
+    },
+    "puzzle_rush": {}
+}

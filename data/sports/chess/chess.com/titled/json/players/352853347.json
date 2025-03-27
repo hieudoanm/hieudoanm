@@ -1,0 +1,50 @@
+{
+    "player_id": 352853347,
+    "@id": "https://api.chess.com/pub/player/tomkdaskrtz",
+    "url": "https://www.chess.com/member/tomkdaskrtz",
+    "username": "tomkdaskrtz",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/AU",
+    "location": "Sydney",
+    "last_online": 1740460285,
+    "joined": 1711291298,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2820,
+            "date": 1740286297,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1733642315,
+            "game": "https://www.chess.com/game/live/105357052145"
+        },
+        "record": {
+            "win": 146,
+            "loss": 103,
+            "draw": 29
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1711291298
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1711291298
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 151421491,
+    "@id": "https://api.chess.com/pub/player/davidgavrilescu18",
+    "url": "https://www.chess.com/member/DavidGavrilescu18",
+    "name": "David Gavrilescu",
+    "username": "davidgavrilescu18",
+    "title": "GM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/RO",
+    "location": "Craiova",
+    "last_online": 1734178948,
+    "joined": 1629211536,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2467,
+            "date": 1719577013,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1706728218,
+            "game": "https://www.chess.com/game/live/100455805525"
+        },
+        "record": {
+            "win": 11,
+            "loss": 6,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2902,
+            "date": 1713176986,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2960,
+            "date": 1703695458,
+            "game": "https://www.chess.com/game/live/103746576397"
+        },
+        "record": {
+            "win": 83,
+            "loss": 29,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2836,
+            "date": 1729631151,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2871,
+            "date": 1703693007,
+            "game": "https://www.chess.com/game/live/99182674725"
+        },
+        "record": {
+            "win": 122,
+            "loss": 64,
+            "draw": 19
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3102,
+            "date": 1680628486
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1636466345
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

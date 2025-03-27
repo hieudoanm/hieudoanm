@@ -1,0 +1,79 @@
+{
+    "player_id": 33082179,
+    "@id": "https://api.chess.com/pub/player/laimis61",
+    "url": "https://www.chess.com/member/laimis61",
+    "name": "Laimutis Solys",
+    "username": "laimis61",
+    "title": "FM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/LT",
+    "last_online": 1741598735,
+    "joined": 1486731402,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2269,
+            "date": 1685459725,
+            "rd": 86
+        },
+        "best": {
+            "rating": 1043,
+            "date": 1610120486,
+            "game": "https://www.chess.com/game/live/6097102011"
+        },
+        "record": {
+            "win": 25,
+            "loss": 7,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2269,
+            "date": 1685459725,
+            "rd": 304
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2237,
+            "date": 1736355539,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2395,
+            "date": 1636902797,
+            "game": "https://www.chess.com/game/live/86462440551"
+        },
+        "record": {
+            "win": 1022,
+            "loss": 821,
+            "draw": 149
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3512,
+            "date": 1739193738
+        },
+        "lowest": {
+            "rating": 452,
+            "date": 1486731611
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

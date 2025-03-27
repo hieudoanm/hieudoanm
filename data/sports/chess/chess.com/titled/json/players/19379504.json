@@ -1,0 +1,125 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19379504.cb937c50.200x200o.7686af07cdcb.png",
+    "player_id": 19379504,
+    "@id": "https://api.chess.com/pub/player/seedtotree",
+    "url": "https://www.chess.com/member/SeedToTree",
+    "name": "Jesse Cohen",
+    "username": "seedtotree",
+    "title": "NM",
+    "followers": 1123,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Denver, CO",
+    "last_online": 1741455256,
+    "joined": 1413812872,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1876,
+            "date": 1741616560,
+            "rd": 132
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1593211239,
+            "game": "https://www.chess.com/game/daily/263494670"
+        },
+        "record": {
+            "win": 316,
+            "loss": 61,
+            "draw": 15,
+            "time_per_move": 31326,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1933,
+            "date": 1626534666,
+            "rd": 174
+        },
+        "best": {
+            "rating": 1933,
+            "date": 1626534666,
+            "game": "https://www.chess.com/game/daily/258024696"
+        },
+        "record": {
+            "win": 17,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 31326,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2610,
+            "date": 1714260976,
+            "rd": 100
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1611302052,
+            "game": "https://www.chess.com/game/live/1053632366"
+        },
+        "record": {
+            "win": 22,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2649,
+            "date": 1667001605,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2667,
+            "date": 1603420918,
+            "game": "https://www.chess.com/game/live/5530889042"
+        },
+        "record": {
+            "win": 583,
+            "loss": 409,
+            "draw": 28
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2610,
+            "date": 1733272206,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2615,
+            "date": 1599585466,
+            "game": "https://www.chess.com/game/live/5489463232"
+        },
+        "record": {
+            "win": 533,
+            "loss": 311,
+            "draw": 51
+        }
+    },
+    "fide": 2228,
+    "tactics": {
+        "highest": {
+            "rating": 3518,
+            "date": 1733164703
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1602884409
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

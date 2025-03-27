@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7145393.280a8553.200x200o.6e4259d236e3.jpeg",
+    "player_id": 7145393,
+    "@id": "https://api.chess.com/pub/player/alvarov79",
+    "url": "https://www.chess.com/member/Alvarov79",
+    "name": "MF \u00c1lvaro Aranha",
+    "username": "alvarov79",
+    "title": "FM",
+    "followers": 203,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741377858,
+    "joined": 1333220871,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1961,
+            "date": 1592184767,
+            "rd": 123
+        },
+        "best": {
+            "rating": 2026,
+            "date": 1525897766,
+            "game": "https://www.chess.com/game/live/5002493678"
+        },
+        "record": {
+            "win": 6,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2150,
+            "date": 1429420533,
+            "rd": 194
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1333226392,
+            "game": "https://www.chess.com/game/live/273847558"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2604,
+            "date": 1727366728,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2619,
+            "date": 1722036852,
+            "game": "https://www.chess.com/game/live/113868571751"
+        },
+        "record": {
+            "win": 2191,
+            "loss": 2237,
+            "draw": 445
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3675,
+            "date": 1741101085
+        },
+        "lowest": {
+            "rating": 1347,
+            "date": 1427827402
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

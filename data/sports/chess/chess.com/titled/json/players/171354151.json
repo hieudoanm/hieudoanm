@@ -1,0 +1,67 @@
+{
+    "player_id": 171354151,
+    "@id": "https://api.chess.com/pub/player/dinosaurio_1975",
+    "url": "https://www.chess.com/member/Dinosaurio_1975",
+    "name": "Lionel Sierra Vallina",
+    "username": "dinosaurio_1975",
+    "title": "CM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1741022837,
+    "joined": 1643829250,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2338,
+            "date": 1688478071,
+            "rd": 250
+        },
+        "best": {
+            "rating": 2338,
+            "date": 1688478071,
+            "game": "https://www.chess.com/game/live/82216263137"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2610,
+            "date": 1726160223,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1703773255,
+            "game": "https://www.chess.com/game/live/99768799105"
+        },
+        "record": {
+            "win": 501,
+            "loss": 407,
+            "draw": 58
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3524,
+            "date": 1704818940
+        },
+        "lowest": {
+            "rating": 1011,
+            "date": 1653565973
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

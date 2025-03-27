@@ -1,0 +1,73 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/377784677.27abb984.200x200o.e0e9b7f3d104.jpg",
+    "player_id": 377784677,
+    "@id": "https://api.chess.com/pub/player/hamurrapi",
+    "url": "https://www.chess.com/member/hamurrapi",
+    "name": "Petr Matyukov",
+    "username": "hamurrapi",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1741681776,
+    "joined": 1722147030,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2415,
+            "date": 1731672481,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1724391226,
+            "game": "https://www.chess.com/game/live/119525413831"
+        },
+        "record": {
+            "win": 42,
+            "loss": 70,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2519,
+            "date": 1741685193,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2609,
+            "date": 1737706892,
+            "game": "https://www.chess.com/game/live/120324666375"
+        },
+        "record": {
+            "win": 1028,
+            "loss": 1109,
+            "draw": 180
+        }
+    },
+    "fide": 2315,
+    "tactics": {
+        "highest": {
+            "rating": 3163,
+            "date": 1734389495
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1722147030
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 42
+        },
+        "daily": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

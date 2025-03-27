@@ -1,0 +1,88 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33927460.bafaf23f.200x200o.9cce7ac58a30.jpeg",
+    "player_id": 33927460,
+    "@id": "https://api.chess.com/pub/player/gmjuliogranda",
+    "url": "https://www.chess.com/member/GMJulioGranda",
+    "name": "Julio Granda",
+    "username": "gmjuliogranda",
+    "title": "GM",
+    "followers": 1114,
+    "country": "https://api.chess.com/pub/country/PE",
+    "location": "Camana",
+    "last_online": 1734105550,
+    "joined": 1489403353,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmjuliogranda",
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmjuliogranda"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 1787,
+            "date": 1705015231,
+            "rd": 155
+        },
+        "best": {
+            "rating": 1910,
+            "date": 1705011339,
+            "game": "https://www.chess.com/game/live/95724621477"
+        },
+        "record": {
+            "win": 6,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1656,
+            "date": 1648797509,
+            "rd": 194
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1489403353,
+            "game": "https://www.chess.com/game/live/5645286878"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2339,
+            "date": 1605650666,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1603829807,
+            "game": "https://www.chess.com/game/live/5317008477"
+        },
+        "record": {
+            "win": 302,
+            "loss": 30,
+            "draw": 6
+        }
+    },
+    "fide": 2630,
+    "tactics": {
+        "highest": {
+            "rating": 2284,
+            "date": 1627097859
+        },
+        "lowest": {
+            "rating": 1215,
+            "date": 1588962560
+        }
+    },
+    "puzzle_rush": {}
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76097058.a92d6cda.200x200o.ccffafcec108.jpg",
+    "player_id": 76097058,
+    "@id": "https://api.chess.com/pub/player/optimus_prime120",
+    "url": "https://www.chess.com/member/Optimus_Prime120",
+    "name": "Chinedu Benjamin Enemchukwu",
+    "username": "optimus_prime120",
+    "title": "FM",
+    "followers": 112,
+    "country": "https://api.chess.com/pub/country/VC",
+    "location": "Kingstown",
+    "last_online": 1741659476,
+    "joined": 1586380714,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2065,
+            "date": 1741703845,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2161,
+            "date": 1638910601,
+            "game": "https://www.chess.com/game/live/49862349807"
+        },
+        "record": {
+            "win": 56,
+            "loss": 35,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2211,
+            "date": 1741079360,
+            "rd": 16
+        },
+        "best": {
+            "rating": 2149,
+            "date": 1735969735,
+            "game": "https://www.chess.com/game/live/128328577539"
+        },
+        "record": {
+            "win": 2398,
+            "loss": 1915,
+            "draw": 161
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2207,
+            "date": 1741188750,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2127,
+            "date": 1728427258,
+            "game": "https://www.chess.com/game/live/78936886573"
+        },
+        "record": {
+            "win": 291,
+            "loss": 123,
+            "draw": 20
+        }
+    },
+    "fide": 2001,
+    "tactics": {
+        "highest": {
+            "rating": 2897,
+            "date": 1734049586
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1586385069
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 30
+        }
+    }
+}

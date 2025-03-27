@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19475636.662b0d44.200x200o.ebfadff58f09.jpeg",
+    "player_id": 19475636,
+    "@id": "https://api.chess.com/pub/player/juanovic",
+    "url": "https://www.chess.com/member/Juanovic",
+    "name": "Juan Pablo Lopez",
+    "username": "juanovic",
+    "title": "CM",
+    "followers": 71,
+    "country": "https://api.chess.com/pub/country/MX",
+    "location": "San Luis Potosi",
+    "last_online": 1736269003,
+    "joined": 1414434136,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1642,
+            "date": 1541456854,
+            "rd": 306
+        },
+        "best": {
+            "rating": 1642,
+            "date": 1434863535,
+            "game": "https://www.chess.com/game/daily/111181368"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 39855,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1503,
+            "date": 1714533347,
+            "rd": 164
+        },
+        "best": {
+            "rating": 1651,
+            "date": 1605987394,
+            "game": "https://www.chess.com/game/live/108270015153"
+        },
+        "record": {
+            "win": 40,
+            "loss": 1,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2070,
+            "date": 1680414187,
+            "rd": 89
+        },
+        "best": {
+            "rating": 2236,
+            "date": 1629256201,
+            "game": "https://www.chess.com/game/live/3561466119"
+        },
+        "record": {
+            "win": 3586,
+            "loss": 3662,
+            "draw": 348
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2125,
+            "date": 1741634597,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2307,
+            "date": 1726771350,
+            "game": "https://www.chess.com/game/live/5546627562"
+        },
+        "record": {
+            "win": 4903,
+            "loss": 5231,
+            "draw": 516
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3010,
+            "date": 1740586289
+        },
+        "lowest": {
+            "rating": 1355,
+            "date": 1414697557
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

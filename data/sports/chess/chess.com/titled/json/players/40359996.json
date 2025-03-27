@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40359996.2dc7250a.200x200o.0b06fa902542.jpg",
+    "player_id": 40359996,
+    "@id": "https://api.chess.com/pub/player/manuela004",
+    "url": "https://www.chess.com/member/Manuela004",
+    "name": "Manuela Hern\u00e1ndez Berm\u00fadez",
+    "username": "manuela004",
+    "title": "WFM",
+    "followers": 28,
+    "country": "https://api.chess.com/pub/country/CO",
+    "location": "Liga de Risaralda",
+    "last_online": 1741488392,
+    "joined": 1510666367,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1207,
+            "date": 1663329972,
+            "rd": 226
+        },
+        "best": {
+            "rating": 1207,
+            "date": 1560201093,
+            "game": "https://www.chess.com/game/daily/228065040"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 25521,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1835,
+            "date": 1631299512,
+            "rd": 94
+        },
+        "best": {
+            "rating": 1901,
+            "date": 1630604508,
+            "game": "https://www.chess.com/game/live/25032116823"
+        },
+        "record": {
+            "win": 17,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2002,
+            "date": 1715616992,
+            "rd": 127
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1673732051,
+            "game": "https://www.chess.com/game/live/64255870005"
+        },
+        "record": {
+            "win": 1616,
+            "loss": 1450,
+            "draw": 120
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1745,
+            "date": 1667332109,
+            "rd": 129
+        },
+        "best": {
+            "rating": 1745,
+            "date": 1667332109,
+            "game": "https://www.chess.com/game/live/5661567495"
+        },
+        "record": {
+            "win": 446,
+            "loss": 368,
+            "draw": 36
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3283,
+            "date": 1722380881
+        },
+        "lowest": {
+            "rating": 392,
+            "date": 1511383127
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

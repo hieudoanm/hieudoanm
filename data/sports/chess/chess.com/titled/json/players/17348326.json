@@ -1,0 +1,114 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17348326.ad15813d.200x200o.905c2c933ed6.png",
+    "player_id": 17348326,
+    "@id": "https://api.chess.com/pub/player/jharkhandchessacademy",
+    "url": "https://www.chess.com/member/JharkhandChessAcademy",
+    "username": "jharkhandchessacademy",
+    "title": "FM",
+    "followers": 26,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Jamshedpur Jharkhand",
+    "last_online": 1741690901,
+    "joined": 1400424594,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 597,
+            "date": 1739723905,
+            "rd": 217
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1400424594,
+            "game": "https://www.chess.com/game/daily/717293613"
+        },
+        "record": {
+            "win": 6,
+            "loss": 15,
+            "draw": 0,
+            "time_per_move": 139930,
+            "timeout_percent": 0
+        },
+        "tournament": {
+            "points": 0,
+            "withdraw": 0,
+            "count": 1,
+            "highest_finish": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2182,
+            "date": 1740291949,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1734524548,
+            "game": "https://www.chess.com/game/live/103919402323"
+        },
+        "record": {
+            "win": 197,
+            "loss": 228,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2128,
+            "date": 1735469223,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2197,
+            "date": 1734524796,
+            "game": "https://www.chess.com/game/live/128263818677"
+        },
+        "record": {
+            "win": 121,
+            "loss": 157,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2146,
+            "date": 1738674641,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2213,
+            "date": 1735468290,
+            "game": "https://www.chess.com/game/live/128528607643"
+        },
+        "record": {
+            "win": 681,
+            "loss": 673,
+            "draw": 52
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3014,
+            "date": 1727684869
+        },
+        "lowest": {
+            "rating": 1187,
+            "date": 1595268029
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        },
+        "daily": {
+            "total_attempts": 23,
+            "score": 20
+        }
+    }
+}

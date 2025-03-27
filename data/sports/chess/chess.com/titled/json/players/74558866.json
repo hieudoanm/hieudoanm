@@ -1,0 +1,65 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74558866.fe414a40.200x200o.f36d85263dc4.jpg",
+    "player_id": 74558866,
+    "@id": "https://api.chess.com/pub/player/alomaterapia",
+    "url": "https://www.chess.com/member/Alomaterapia",
+    "name": "Robert Aloma",
+    "username": "alomaterapia",
+    "title": "IM",
+    "followers": 15,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Barcelona",
+    "last_online": 1741283218,
+    "joined": 1585215148,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2362,
+            "date": 1693842247,
+            "rd": 246
+        },
+        "best": {
+            "rating": 2648,
+            "date": 1693840249,
+            "game": "https://www.chess.com/game/live/87578557697"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2571,
+            "date": 1738691529,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1664291783,
+            "game": "https://www.chess.com/game/live/63484019005"
+        },
+        "record": {
+            "win": 316,
+            "loss": 220,
+            "draw": 61
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1585215148
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1585215148
+        }
+    },
+    "puzzle_rush": {}
+}

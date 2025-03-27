@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/83880354.f0cb1c3c.200x200o.17948356dac0.png",
+    "player_id": 83880354,
+    "@id": "https://api.chess.com/pub/player/ummanmanda",
+    "url": "https://www.chess.com/member/UmmanManda",
+    "name": "S",
+    "username": "ummanmanda",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741658308,
+    "joined": 1592854965,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2313,
+            "date": 1741659325,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2306,
+            "date": 1736568894,
+            "game": "https://www.chess.com/game/live/60146377045"
+        },
+        "record": {
+            "win": 11,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2129,
+            "date": 1674565470,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2246,
+            "date": 1674559598,
+            "game": "https://www.chess.com/game/live/68211921647"
+        },
+        "record": {
+            "win": 9,
+            "loss": 9,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2219,
+            "date": 1739841226,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1624068257,
+            "game": "https://www.chess.com/game/live/69683653431"
+        },
+        "record": {
+            "win": 562,
+            "loss": 448,
+            "draw": 69
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3194,
+            "date": 1700884747
+        },
+        "lowest": {
+            "rating": 2000,
+            "date": 1630864109
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

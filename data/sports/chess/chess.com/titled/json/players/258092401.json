@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/258092401.29937a39.200x200o.8c20fe99a968.png",
+    "player_id": 258092401,
+    "@id": "https://api.chess.com/pub/player/nelissatt",
+    "url": "https://www.chess.com/member/Nelissatt",
+    "name": "Nelissa Thomas",
+    "username": "nelissatt",
+    "title": "WCM",
+    "followers": 72,
+    "country": "https://api.chess.com/pub/country/BS",
+    "last_online": 1741615331,
+    "joined": 1678210007,
+    "status": "staff",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 823,
+            "date": 1739424675,
+            "rd": 149
+        },
+        "best": {
+            "rating": 1080,
+            "date": 1687287608,
+            "game": "https://www.chess.com/game/daily/516267535"
+        },
+        "record": {
+            "win": 6,
+            "loss": 14,
+            "draw": 1,
+            "time_per_move": 69362,
+            "timeout_percent": 66
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 954,
+            "date": 1741550247,
+            "rd": 85
+        },
+        "best": {
+            "rating": 1388,
+            "date": 1708925618,
+            "game": "https://www.chess.com/game/live/114378636507"
+        },
+        "record": {
+            "win": 82,
+            "loss": 119,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1430,
+            "date": 1708758210,
+            "rd": 94
+        },
+        "best": {
+            "rating": 1430,
+            "date": 1708758210,
+            "game": "https://www.chess.com/game/live/79463531905"
+        },
+        "record": {
+            "win": 12,
+            "loss": 39,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 925,
+            "date": 1741454165,
+            "rd": 105
+        },
+        "best": {
+            "rating": 1352,
+            "date": 1708759878,
+            "game": "https://www.chess.com/game/live/79371783085"
+        },
+        "record": {
+            "win": 6,
+            "loss": 22,
+            "draw": 0
+        }
+    },
+    "fide": 1405,
+    "tactics": {
+        "highest": {
+            "rating": 1456,
+            "date": 1740767876
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1678210007
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 4,
+            "score": 1
+        }
+    }
+}

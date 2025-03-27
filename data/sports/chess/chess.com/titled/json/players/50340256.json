@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/50340256.fccec3a3.200x200o.2b58ff5fa9b1.jpg",
+    "player_id": 50340256,
+    "@id": "https://api.chess.com/pub/player/annamarim2001",
+    "url": "https://www.chess.com/member/AnnamariM2001",
+    "name": "Annamaria Marjanovic",
+    "username": "annamarim2001",
+    "title": "WGM",
+    "followers": 498,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741656279,
+    "joined": 1538506593,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2303,
+            "date": 1698621131,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2387,
+            "date": 1668280633,
+            "game": "https://www.chess.com/game/live/62018452517"
+        },
+        "record": {
+            "win": 50,
+            "loss": 27,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2574,
+            "date": 1739828918,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2629,
+            "date": 1671332035,
+            "game": "https://www.chess.com/game/live/64639961485"
+        },
+        "record": {
+            "win": 288,
+            "loss": 222,
+            "draw": 34
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2595,
+            "date": 1741657468,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2674,
+            "date": 1560670913,
+            "game": "https://www.chess.com/game/live/65918606191"
+        },
+        "record": {
+            "win": 766,
+            "loss": 668,
+            "draw": 134
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3514,
+            "date": 1727811335
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1538639766
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

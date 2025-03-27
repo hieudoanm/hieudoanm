@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34555962.a788dce6.200x200o.4671f628b204.jpeg",
+    "player_id": 34555962,
+    "@id": "https://api.chess.com/pub/player/kien05",
+    "url": "https://www.chess.com/member/kien05",
+    "name": "Kien Le",
+    "username": "kien05",
+    "title": "CM",
+    "followers": 208,
+    "country": "https://api.chess.com/pub/country/VN",
+    "location": "Sydney",
+    "last_online": 1741680521,
+    "joined": 1491454339,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1365,
+            "date": 1715156939,
+            "rd": 126
+        },
+        "best": {
+            "rating": 1823,
+            "date": 1520929206,
+            "game": "https://www.chess.com/game/daily/179938218"
+        },
+        "record": {
+            "win": 56,
+            "loss": 33,
+            "draw": 1,
+            "time_per_move": 109763,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1346,
+            "date": 1492920005,
+            "rd": 290
+        },
+        "best": {
+            "rating": 1346,
+            "date": 1492920005,
+            "game": "https://www.chess.com/game/daily/162946614"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 109763,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2253,
+            "date": 1731313098,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2253,
+            "date": 1715965002,
+            "game": "https://www.chess.com/game/live/4619064436"
+        },
+        "record": {
+            "win": 35,
+            "loss": 8,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2830,
+            "date": 1741003708,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1738446081,
+            "game": "https://www.chess.com/game/live/104504501333"
+        },
+        "record": {
+            "win": 844,
+            "loss": 534,
+            "draw": 71
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2825,
+            "date": 1740143564,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2834,
+            "date": 1728531978,
+            "game": "https://www.chess.com/game/live/122270373643"
+        },
+        "record": {
+            "win": 933,
+            "loss": 579,
+            "draw": 129
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3334,
+            "date": 1683775338
+        },
+        "lowest": {
+            "rating": 735,
+            "date": 1491473209
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

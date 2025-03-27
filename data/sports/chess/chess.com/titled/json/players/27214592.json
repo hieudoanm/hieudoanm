@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27214592.cc723eec.200x200o.8b8e047664da.jpeg",
+    "player_id": 27214592,
+    "@id": "https://api.chess.com/pub/player/ventdelest",
+    "url": "https://www.chess.com/member/ventdelest",
+    "name": "Moulaye Brahim Hemam",
+    "username": "ventdelest",
+    "title": "CM",
+    "followers": 65,
+    "country": "https://api.chess.com/pub/country/MR",
+    "location": "Nouakchott",
+    "last_online": 1741652416,
+    "joined": 1457874985,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1978,
+            "date": 1683559044,
+            "rd": 252
+        },
+        "best": {
+            "rating": 1978,
+            "date": 1683559044,
+            "game": "https://www.chess.com/game/daily/511144309"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 2227,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1884,
+            "date": 1677903282,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2374,
+            "date": 1642033821,
+            "game": "https://www.chess.com/game/live/35860104855"
+        },
+        "record": {
+            "win": 105,
+            "loss": 49,
+            "draw": 23
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1680,
+            "date": 1687876492,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2197,
+            "date": 1642270978,
+            "game": "https://www.chess.com/game/live/36261539765"
+        },
+        "record": {
+            "win": 115,
+            "loss": 85,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2147,
+            "date": 1741687243,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2283,
+            "date": 1569241028,
+            "game": "https://www.chess.com/game/live/61075257435"
+        },
+        "record": {
+            "win": 2146,
+            "loss": 2480,
+            "draw": 394
+        }
+    },
+    "fide": 2046,
+    "tactics": {
+        "highest": {
+            "rating": 3050,
+            "date": 1662078295
+        },
+        "lowest": {
+            "rating": 1632,
+            "date": 1458262463
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 20,
+            "score": 18
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "player_id": 77750320,
+    "@id": "https://api.chess.com/pub/player/magila31",
+    "url": "https://www.chess.com/member/Magila31",
+    "name": "Bojan Todorovic",
+    "username": "magila31",
+    "title": "FM",
+    "followers": 110,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741559972,
+    "joined": 1587812745,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2000,
+            "date": 1618252464,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 15647,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2445,
+            "date": 1704799511,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2466,
+            "date": 1704578670,
+            "game": "https://www.chess.com/game/live/89838058749"
+        },
+        "record": {
+            "win": 21,
+            "loss": 5,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1954,
+            "date": 1687023525,
+            "rd": 133
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1619382373,
+            "game": "https://www.chess.com/game/live/26331059547"
+        },
+        "record": {
+            "win": 18,
+            "loss": 8,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2393,
+            "date": 1741562171,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1735928490,
+            "game": "https://www.chess.com/game/live/131840433287"
+        },
+        "record": {
+            "win": 5491,
+            "loss": 3298,
+            "draw": 886
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3413,
+            "date": 1740158669
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1588012724
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

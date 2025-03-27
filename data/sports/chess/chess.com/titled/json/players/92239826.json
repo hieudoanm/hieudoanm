@@ -1,0 +1,96 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/92239826.d8090b19.200x200o.ac1ab7a52938.jpg",
+    "player_id": 92239826,
+    "@id": "https://api.chess.com/pub/player/moeinzai_khoshhal",
+    "url": "https://www.chess.com/member/Moeinzai_khoshhal",
+    "name": "Khushal Moinzai",
+    "username": "moeinzai_khoshhal",
+    "title": "FM",
+    "followers": 79,
+    "country": "https://api.chess.com/pub/country/AF",
+    "location": "Balkh",
+    "last_online": 1733226123,
+    "joined": 1601461508,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1733228835,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 270614,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1715896914,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1715896172,
+            "game": "https://www.chess.com/game/live/109634517895"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1692,
+            "date": 1732891106,
+            "rd": 99
+        },
+        "best": {
+            "rating": 1831,
+            "date": 1602749557,
+            "game": "https://www.chess.com/game/live/64924818231"
+        },
+        "record": {
+            "win": 569,
+            "loss": 531,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2288,
+            "date": 1728895700,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2311,
+            "date": 1726393060,
+            "game": "https://www.chess.com/game/live/115189113167"
+        },
+        "record": {
+            "win": 1690,
+            "loss": 1691,
+            "draw": 171
+        }
+    },
+    "fide": 1824,
+    "tactics": {
+        "highest": {
+            "rating": 3031,
+            "date": 1691012634
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1601573249
+        }
+    },
+    "puzzle_rush": {}
+}

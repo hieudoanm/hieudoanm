@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9674644.0ab1738e.200x200o.801617f047fd.jpeg",
+    "player_id": 9674644,
+    "@id": "https://api.chess.com/pub/player/chessknight02",
+    "url": "https://www.chess.com/member/chessknight02",
+    "name": "Konstantinos Michaelides",
+    "username": "chessknight02",
+    "title": "FM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741633168,
+    "joined": 1353165395,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1918,
+            "date": 1723732786,
+            "rd": 144
+        },
+        "best": {
+            "rating": 1918,
+            "date": 1507060807,
+            "game": "https://www.chess.com/game/daily/105963826"
+        },
+        "record": {
+            "win": 93,
+            "loss": 46,
+            "draw": 7,
+            "time_per_move": 49329,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1774,
+            "date": 1676980594,
+            "rd": 171
+        },
+        "best": {
+            "rating": 2113,
+            "date": 1435587615,
+            "game": "https://www.chess.com/game/live/1239019679"
+        },
+        "record": {
+            "win": 46,
+            "loss": 25,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2401,
+            "date": 1675338216,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2449,
+            "date": 1639752426,
+            "game": "https://www.chess.com/game/live/39904780311"
+        },
+        "record": {
+            "win": 1249,
+            "loss": 1092,
+            "draw": 94
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2533,
+            "date": 1720972188,
+            "rd": 168
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1720972187,
+            "game": "https://www.chess.com/game/live/39225554495"
+        },
+        "record": {
+            "win": 844,
+            "loss": 870,
+            "draw": 111
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3665,
+            "date": 1741276721
+        },
+        "lowest": {
+            "rating": 1130,
+            "date": 1353181653
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45786932.e51101a8.200x200o.1ac3c24ff6c4.jpeg",
+    "player_id": 45786932,
+    "@id": "https://api.chess.com/pub/player/diego_floresq",
+    "url": "https://www.chess.com/member/Diego_FloresQ",
+    "name": "Diego Flores Quillas",
+    "username": "diego_floresq",
+    "title": "IM",
+    "followers": 57,
+    "country": "https://api.chess.com/pub/country/PE",
+    "location": "Lima",
+    "last_online": 1741238462,
+    "joined": 1525136727,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1830,
+            "date": 1729900528,
+            "rd": 325
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1596401298,
+            "game": "https://www.chess.com/game/live/123637828499"
+        },
+        "record": {
+            "win": 5,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2629,
+            "date": 1723915507,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2712,
+            "date": 1674154950,
+            "game": "https://www.chess.com/game/live/117654023193"
+        },
+        "record": {
+            "win": 124,
+            "loss": 112,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2677,
+            "date": 1724261382,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1724258177,
+            "game": "https://www.chess.com/game/live/4275749577"
+        },
+        "record": {
+            "win": 791,
+            "loss": 559,
+            "draw": 94
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3310,
+            "date": 1718208410
+        },
+        "lowest": {
+            "rating": 812,
+            "date": 1529856336
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

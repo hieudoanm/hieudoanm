@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39063902.ac02c6d8.200x200o.9f745d6ed85d.jpg",
+    "player_id": 39063902,
+    "@id": "https://api.chess.com/pub/player/swiezen",
+    "url": "https://www.chess.com/member/Swiezen",
+    "name": "Aleksei Kukelko",
+    "username": "swiezen",
+    "title": "FM",
+    "followers": 84,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Bratislava, Slovakia",
+    "last_online": 1741622920,
+    "joined": 1506777337,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1892,
+            "date": 1734641562,
+            "rd": 218
+        },
+        "best": {
+            "rating": 1903,
+            "date": 1537193143,
+            "game": "https://www.chess.com/game/daily/206984372"
+        },
+        "record": {
+            "win": 27,
+            "loss": 9,
+            "draw": 2,
+            "time_per_move": 37659,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1021,
+            "date": 1624994429,
+            "rd": 165
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1506777337,
+            "game": "https://www.chess.com/game/daily/338461887"
+        },
+        "record": {
+            "win": 4,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 37659,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2430,
+            "date": 1739912865,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2491,
+            "date": 1627914996,
+            "game": "https://www.chess.com/game/live/94771276193"
+        },
+        "record": {
+            "win": 68,
+            "loss": 15,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2728,
+            "date": 1740421694,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2758,
+            "date": 1653559990,
+            "game": "https://www.chess.com/game/live/130869560501"
+        },
+        "record": {
+            "win": 1811,
+            "loss": 1602,
+            "draw": 236
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2654,
+            "date": 1741529841,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2728,
+            "date": 1616187669,
+            "game": "https://www.chess.com/game/live/13781573007"
+        },
+        "record": {
+            "win": 1291,
+            "loss": 1172,
+            "draw": 264
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3556,
+            "date": 1735148718
+        },
+        "lowest": {
+            "rating": 1202,
+            "date": 1513508343
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

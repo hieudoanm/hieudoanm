@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76893270.2c68296d.200x200o.0a4b545c5a54.jpeg",
+    "player_id": 76893270,
+    "@id": "https://api.chess.com/pub/player/deathkni_g_ht",
+    "url": "https://www.chess.com/member/deathkni_g_ht",
+    "name": "Eric Lawson",
+    "username": "deathkni_g_ht",
+    "title": "IM",
+    "followers": 30,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1726010977,
+    "joined": 1587050261,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2342,
+            "date": 1721482082,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2485,
+            "date": 1678124044,
+            "game": "https://www.chess.com/game/live/71860625087"
+        },
+        "record": {
+            "win": 15,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2494,
+            "date": 1721484285,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2494,
+            "date": 1674419368,
+            "game": "https://www.chess.com/game/live/68158887379"
+        },
+        "record": {
+            "win": 67,
+            "loss": 37,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2536,
+            "date": 1726015752,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2763,
+            "date": 1722721463,
+            "game": "https://www.chess.com/game/live/113163613751"
+        },
+        "record": {
+            "win": 4817,
+            "loss": 3785,
+            "draw": 624
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3517,
+            "date": 1696164611
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1634907159
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

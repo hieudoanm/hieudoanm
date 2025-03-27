@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31342866.1345e900.200x200o.2220cc965586.png",
+    "player_id": 31342866,
+    "@id": "https://api.chess.com/pub/player/dishonoronyourcow",
+    "url": "https://www.chess.com/member/DishonorOnYourCow",
+    "name": "Cervantes Landeiro Thalia",
+    "username": "dishonoronyourcow",
+    "title": "WGM",
+    "followers": 157,
+    "country": "https://api.chess.com/pub/country/MC",
+    "last_online": 1741563007,
+    "joined": 1480719793,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1874,
+            "date": 1714649879,
+            "rd": 339
+        },
+        "best": {
+            "rating": 1874,
+            "date": 1663490106,
+            "game": "https://www.chess.com/game/daily/191442074"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 46778,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2248,
+            "date": 1668385221,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2251,
+            "date": 1631208150,
+            "game": "https://www.chess.com/game/live/62101219973"
+        },
+        "record": {
+            "win": 19,
+            "loss": 12,
+            "draw": 10
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2631,
+            "date": 1702348948,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2665,
+            "date": 1616123417,
+            "game": "https://www.chess.com/game/live/9861693439"
+        },
+        "record": {
+            "win": 2469,
+            "loss": 2293,
+            "draw": 285
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2527,
+            "date": 1738685940,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2603,
+            "date": 1708445850,
+            "game": "https://www.chess.com/game/live/87081649475"
+        },
+        "record": {
+            "win": 1112,
+            "loss": 1083,
+            "draw": 167
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3458,
+            "date": 1728486132
+        },
+        "lowest": {
+            "rating": 1359,
+            "date": 1480909587
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 54
+        }
+    }
+}

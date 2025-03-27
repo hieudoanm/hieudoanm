@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39171096.228ac6ee.200x200o.4fd78b3a226d.jpeg",
+    "player_id": 39171096,
+    "@id": "https://api.chess.com/pub/player/kantorgergely",
+    "url": "https://www.chess.com/member/KantorGergely",
+    "name": "Gergely Kantor",
+    "username": "kantorgergely",
+    "title": "GM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Budapest",
+    "last_online": 1741036864,
+    "joined": 1507129574,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2501,
+            "date": 1727287258,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1698611027,
+            "game": "https://www.chess.com/game/live/100460645411"
+        },
+        "record": {
+            "win": 26,
+            "loss": 31,
+            "draw": 17
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2710,
+            "date": 1739460644,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2797,
+            "date": 1699748573,
+            "game": "https://www.chess.com/game/live/103952418377"
+        },
+        "record": {
+            "win": 70,
+            "loss": 46,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2829,
+            "date": 1739898419,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1687885074,
+            "game": "https://www.chess.com/game/live/131219396511"
+        },
+        "record": {
+            "win": 79,
+            "loss": 43,
+            "draw": 20
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1269,
+            "date": 1543591255
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1543591184
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

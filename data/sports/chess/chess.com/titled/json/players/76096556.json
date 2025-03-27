@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76096556.5e5e3a05.200x200o.68fb7060b705.jpeg",
+    "player_id": 76096556,
+    "@id": "https://api.chess.com/pub/player/chessscoutgirl",
+    "url": "https://www.chess.com/member/ChessScoutgirl",
+    "name": "Steffi Schirmbeck",
+    "username": "chessscoutgirl",
+    "title": "WCM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/AT",
+    "location": "Stockerau",
+    "last_online": 1741243252,
+    "joined": 1586380297,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1793,
+            "date": 1717185680,
+            "rd": 247
+        },
+        "best": {
+            "rating": 1793,
+            "date": 1717185679,
+            "game": "https://www.chess.com/game/live/110924486483"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1770,
+            "date": 1736166722,
+            "rd": 182
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1586444106,
+            "game": "https://www.chess.com/game/live/4696388595"
+        },
+        "record": {
+            "win": 9,
+            "loss": 15,
+            "draw": 3
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3000,
+            "date": 1736604507
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1586427835
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

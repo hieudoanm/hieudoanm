@@ -1,0 +1,103 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42743432.fa5e39ca.200x200o.4aa4d16fa688.jpg",
+    "player_id": 42743432,
+    "@id": "https://api.chess.com/pub/player/not_2dayy",
+    "url": "https://www.chess.com/member/Not_2dayy",
+    "username": "not_2dayy",
+    "title": "FM",
+    "followers": 17,
+    "country": "https://api.chess.com/pub/country/VU",
+    "last_online": 1741700010,
+    "joined": 1517070946,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1568,
+            "date": 1729499334,
+            "rd": 159
+        },
+        "best": {
+            "rating": 1579,
+            "date": 1531907154,
+            "game": "https://www.chess.com/game/daily/196863904"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 2,
+            "time_per_move": 65131,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2338,
+            "date": 1735145743,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1678476593,
+            "game": "https://www.chess.com/game/live/71957071387"
+        },
+        "record": {
+            "win": 98,
+            "loss": 58,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2502,
+            "date": 1730820864,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2658,
+            "date": 1721991258,
+            "game": "https://www.chess.com/game/live/115714193927"
+        },
+        "record": {
+            "win": 1747,
+            "loss": 1374,
+            "draw": 115
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2554,
+            "date": 1741703660,
+            "rd": 20
+        },
+        "best": {
+            "rating": 2662,
+            "date": 1739568513,
+            "game": "https://www.chess.com/game/live/133303766213"
+        },
+        "record": {
+            "win": 4907,
+            "loss": 4007,
+            "draw": 459
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3279,
+            "date": 1731250821
+        },
+        "lowest": {
+            "rating": 1013,
+            "date": 1528743262
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

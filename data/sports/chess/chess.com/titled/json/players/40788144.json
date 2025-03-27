@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40788144.bbc9c89a.200x200o.46faef3f65b7.jpg",
+    "player_id": 40788144,
+    "@id": "https://api.chess.com/pub/player/serkansoysal",
+    "url": "https://www.chess.com/member/SerkanSoysal",
+    "name": "Serkan Soysal",
+    "username": "serkansoysal",
+    "title": "IM",
+    "followers": 342,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "\u0130zmir",
+    "last_online": 1741090736,
+    "joined": 1511816875,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2323,
+            "date": 1712440154,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1631295888,
+            "game": "https://www.chess.com/game/live/25032146529"
+        },
+        "record": {
+            "win": 9,
+            "loss": 1,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2820,
+            "date": 1637748754,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2820,
+            "date": 1637748754,
+            "game": "https://www.chess.com/game/live/31487404693"
+        },
+        "record": {
+            "win": 53,
+            "loss": 33,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2508,
+            "date": 1714394335,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2730,
+            "date": 1541842530,
+            "game": "https://www.chess.com/game/live/3167772909"
+        },
+        "record": {
+            "win": 1138,
+            "loss": 987,
+            "draw": 161
+        }
+    },
+    "fide": 2389,
+    "tactics": {
+        "highest": {
+            "rating": 3346,
+            "date": 1621775062
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1521116964
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

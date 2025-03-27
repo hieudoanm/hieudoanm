@@ -1,0 +1,60 @@
+{
+    "player_id": 399419965,
+    "@id": "https://api.chess.com/pub/player/alievasasha",
+    "url": "https://www.chess.com/member/AlievaSasha",
+    "name": "Alexandra Alieva",
+    "username": "alievasasha",
+    "title": "WFM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741417945,
+    "joined": 1730314338,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1342,
+            "date": 1741687622,
+            "rd": 272
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 43639,
+            "timeout_percent": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2180,
+            "date": 1739297209,
+            "rd": 51
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1732638679,
+            "game": "https://www.chess.com/game/live/131818855225"
+        },
+        "record": {
+            "win": 24,
+            "loss": 76,
+            "draw": 4
+        }
+    },
+    "fide": 2054,
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1730314338
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1730314338
+        }
+    },
+    "puzzle_rush": {}
+}

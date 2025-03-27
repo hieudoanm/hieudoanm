@@ -1,0 +1,86 @@
+{
+    "player_id": 24349362,
+    "@id": "https://api.chess.com/pub/player/alex_zapata",
+    "url": "https://www.chess.com/member/alex_zapata",
+    "name": "Jhon Alexander Zapata Hincapie",
+    "username": "alex_zapata",
+    "title": "NM",
+    "followers": 156,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Texas",
+    "last_online": 1735688227,
+    "joined": 1443572518,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2224,
+            "date": 1607099471,
+            "rd": 278
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1607098566,
+            "game": "https://www.chess.com/game/live/5885928802"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2337,
+            "date": 1730163629,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1616978545,
+            "game": "https://www.chess.com/game/live/96414052183"
+        },
+        "record": {
+            "win": 13699,
+            "loss": 11346,
+            "draw": 1257
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2321,
+            "date": 1741691098,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2533,
+            "date": 1725320353,
+            "game": "https://www.chess.com/game/live/89688552411"
+        },
+        "record": {
+            "win": 17333,
+            "loss": 15034,
+            "draw": 2198
+        }
+    },
+    "fide": 2226,
+    "tactics": {
+        "highest": {
+            "rating": 2671,
+            "date": 1649382987
+        },
+        "lowest": {
+            "rating": 1795,
+            "date": 1443904831
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 32
+        }
+    }
+}

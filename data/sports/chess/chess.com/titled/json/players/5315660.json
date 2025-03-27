@@ -1,0 +1,50 @@
+{
+    "player_id": 5315660,
+    "@id": "https://api.chess.com/pub/player/drmabuse",
+    "url": "https://www.chess.com/member/DrMabuse",
+    "username": "drmabuse",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741646739,
+    "joined": 1308695782,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2458,
+            "date": 1741388289,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2620,
+            "date": 1737567303,
+            "game": "https://www.chess.com/game/live/131133679639"
+        },
+        "record": {
+            "win": 1178,
+            "loss": 989,
+            "draw": 273
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3499,
+            "date": 1708290426
+        },
+        "lowest": {
+            "rating": 907,
+            "date": 1308696010
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

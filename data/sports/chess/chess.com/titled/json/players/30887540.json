@@ -1,0 +1,99 @@
+{
+    "player_id": 30887540,
+    "@id": "https://api.chess.com/pub/player/bogdandeac",
+    "url": "https://www.chess.com/member/BogdanDeac",
+    "name": "Bogdan Daniel Deac",
+    "username": "bogdandeac",
+    "title": "GM",
+    "followers": 3654,
+    "country": "https://api.chess.com/pub/country/RO",
+    "last_online": 1734180418,
+    "joined": 1479032100,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1800,
+            "date": 1686644912,
+            "rd": 350
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2665,
+            "date": 1727539956,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1606688122,
+            "game": "https://www.chess.com/game/live/115142977989"
+        },
+        "record": {
+            "win": 99,
+            "loss": 63,
+            "draw": 86
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2970,
+            "date": 1725213875,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2970,
+            "date": 1725213875,
+            "game": "https://www.chess.com/game/live/5425853456"
+        },
+        "record": {
+            "win": 728,
+            "loss": 522,
+            "draw": 68
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2984,
+            "date": 1733966132,
+            "rd": 34
+        },
+        "best": {
+            "rating": 3188,
+            "date": 1727191079,
+            "game": "https://www.chess.com/game/live/119143194561"
+        },
+        "record": {
+            "win": 6552,
+            "loss": 3745,
+            "draw": 1979
+        }
+    },
+    "fide": 2700,
+    "tactics": {
+        "highest": {
+            "rating": 3694,
+            "date": 1724857043
+        },
+        "lowest": {
+            "rating": 1927,
+            "date": 1491466616
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

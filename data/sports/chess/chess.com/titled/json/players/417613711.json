@@ -1,0 +1,68 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/417613711.663d68cb.200x200o.d8c07077b3c8.jpg",
+    "player_id": 417613711,
+    "@id": "https://api.chess.com/pub/player/fraxerdose",
+    "url": "https://www.chess.com/member/fraxerdose",
+    "name": "rhino",
+    "username": "fraxerdose",
+    "title": "CM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/KZ",
+    "last_online": 1741684251,
+    "joined": 1736841225,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2220,
+            "date": 1741470466,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2197,
+            "date": 1740577187,
+            "game": "https://www.chess.com/game/live/132653329905"
+        },
+        "record": {
+            "win": 34,
+            "loss": 25,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2412,
+            "date": 1741689400,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2442,
+            "date": 1739605703,
+            "game": "https://www.chess.com/game/live/133277946447"
+        },
+        "record": {
+            "win": 77,
+            "loss": 82,
+            "draw": 16
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1736841225
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1736841225
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 37
+        }
+    }
+}

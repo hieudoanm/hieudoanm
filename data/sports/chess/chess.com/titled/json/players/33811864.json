@@ -1,0 +1,85 @@
+{
+    "player_id": 33811864,
+    "@id": "https://api.chess.com/pub/player/aqmarkin",
+    "url": "https://www.chess.com/member/aqmarkin",
+    "name": "Arden Markin",
+    "username": "aqmarkin",
+    "title": "NM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Alabama",
+    "last_online": 1741546208,
+    "joined": 1489032091,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2305,
+            "date": 1741653965,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2337,
+            "date": 1676776319,
+            "game": "https://www.chess.com/game/live/134354338391"
+        },
+        "record": {
+            "win": 66,
+            "loss": 21,
+            "draw": 8
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2376,
+            "date": 1741449811,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2463,
+            "date": 1618419625,
+            "game": "https://www.chess.com/game/live/11033049925"
+        },
+        "record": {
+            "win": 4146,
+            "loss": 3189,
+            "draw": 303
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2224,
+            "date": 1741547002,
+            "rd": 94
+        },
+        "best": {
+            "rating": 2258,
+            "date": 1740856401,
+            "game": "https://www.chess.com/game/live/2675035156"
+        },
+        "record": {
+            "win": 594,
+            "loss": 449,
+            "draw": 58
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3549,
+            "date": 1735327179
+        },
+        "lowest": {
+            "rating": 1044,
+            "date": 1489032116
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24702788.8afa165c.200x200o.a824f3333449.jpeg",
+    "player_id": 24702788,
+    "@id": "https://api.chess.com/pub/player/fuderercro",
+    "url": "https://www.chess.com/member/fuderercro",
+    "name": "Zoran Majeri\u0107",
+    "username": "fuderercro",
+    "title": "IM",
+    "followers": 115,
+    "country": "https://api.chess.com/pub/country/HR",
+    "location": "Zagreb",
+    "last_online": 1741643939,
+    "joined": 1445543887,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1314,
+            "date": 1729419723,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2252,
+            "date": 1579629258,
+            "game": "https://www.chess.com/game/live/68409698909"
+        },
+        "record": {
+            "win": 11,
+            "loss": 30,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1697,
+            "date": 1717853323,
+            "rd": 221
+        },
+        "record": {
+            "win": 1,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1825,
+            "date": 1741646014,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2379,
+            "date": 1591125218,
+            "game": "https://www.chess.com/game/live/4943563907"
+        },
+        "record": {
+            "win": 5470,
+            "loss": 5341,
+            "draw": 498
+        }
+    },
+    "fide": 2237,
+    "tactics": {
+        "highest": {
+            "rating": 3229,
+            "date": 1668624508
+        },
+        "lowest": {
+            "rating": 1353,
+            "date": 1445544293
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 29
+        }
+    }
+}

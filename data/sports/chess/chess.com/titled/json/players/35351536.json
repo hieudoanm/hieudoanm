@@ -1,0 +1,104 @@
+{
+    "player_id": 35351536,
+    "@id": "https://api.chess.com/pub/player/dgwizard",
+    "url": "https://www.chess.com/member/dgwizard",
+    "name": "Derin Goktepe",
+    "username": "dgwizard",
+    "title": "NM",
+    "followers": 185,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741285731,
+    "joined": 1494179389,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1869,
+            "date": 1738710811,
+            "rd": 79
+        },
+        "best": {
+            "rating": 1961,
+            "date": 1689810186,
+            "game": "https://www.chess.com/game/daily/219277818"
+        },
+        "record": {
+            "win": 231,
+            "loss": 109,
+            "draw": 30,
+            "time_per_move": 43664,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2294,
+            "date": 1720477799,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2376,
+            "date": 1665619102,
+            "game": "https://www.chess.com/game/live/61689077567"
+        },
+        "record": {
+            "win": 478,
+            "loss": 264,
+            "draw": 85
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2502,
+            "date": 1735004039,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2543,
+            "date": 1663099228,
+            "game": "https://www.chess.com/game/live/49747235673"
+        },
+        "record": {
+            "win": 1568,
+            "loss": 1113,
+            "draw": 252
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2460,
+            "date": 1734877419,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2491,
+            "date": 1720038237,
+            "game": "https://www.chess.com/game/live/46547474641"
+        },
+        "record": {
+            "win": 1684,
+            "loss": 1174,
+            "draw": 294
+        }
+    },
+    "fide": 2287,
+    "tactics": {
+        "highest": {
+            "rating": 3558,
+            "date": 1737148042
+        },
+        "lowest": {
+            "rating": 811,
+            "date": 1494340682
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

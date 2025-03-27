@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17715128.c03d4346.200x200o.63608f193c07.jpeg",
+    "player_id": 17715128,
+    "@id": "https://api.chess.com/pub/player/irina_mikhaylova",
+    "url": "https://www.chess.com/member/Irina_Mikhaylova",
+    "name": "Irina Mikhaylova",
+    "username": "irina_mikhaylova",
+    "title": "WGM",
+    "followers": 347,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "Moscow",
+    "last_online": 1740499331,
+    "joined": 1402935579,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2334,
+            "date": 1738432834,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2443,
+            "date": 1737877189,
+            "game": "https://www.chess.com/game/live/91045754095"
+        },
+        "record": {
+            "win": 695,
+            "loss": 1000,
+            "draw": 141
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2401,
+            "date": 1739901491,
+            "rd": 54
+        },
+        "best": {
+            "rating": 2456,
+            "date": 1729011503,
+            "game": "https://www.chess.com/game/live/81624258395"
+        },
+        "record": {
+            "win": 194,
+            "loss": 313,
+            "draw": 113
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2311,
+            "date": 1736783764
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1402935579
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 30,
+            "score": 28
+        }
+    }
+}

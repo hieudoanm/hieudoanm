@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19560866.e11aa2e9.200x200o.5527f794c561.jpeg",
+    "player_id": 19560866,
+    "@id": "https://api.chess.com/pub/player/degroottez",
+    "url": "https://www.chess.com/member/DeGrootteZ",
+    "name": "Nico Zwirs",
+    "username": "degroottez",
+    "title": "IM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/NL",
+    "location": "AMSTERDAM",
+    "last_online": 1741684089,
+    "joined": 1415011015,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1034,
+            "date": 1720859306,
+            "rd": 251
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 52936,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2356,
+            "date": 1673187946,
+            "rd": 96
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1586453744,
+            "game": "https://www.chess.com/game/live/14837210237"
+        },
+        "record": {
+            "win": 19,
+            "loss": 4,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2575,
+            "date": 1720187258,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2702,
+            "date": 1615589171,
+            "game": "https://www.chess.com/game/live/3383908624"
+        },
+        "record": {
+            "win": 1351,
+            "loss": 1160,
+            "draw": 151
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2961,
+            "date": 1741134184,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2952,
+            "date": 1741133170,
+            "game": "https://www.chess.com/game/live/95333989125"
+        },
+        "record": {
+            "win": 3112,
+            "loss": 2519,
+            "draw": 637
+        }
+    },
+    "fide": 2453,
+    "tactics": {
+        "highest": {
+            "rating": 3343,
+            "date": 1734098831
+        },
+        "lowest": {
+            "rating": 1349,
+            "date": 1492109191
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        },
+        "daily": {
+            "total_attempts": 47,
+            "score": 45
+        }
+    }
+}

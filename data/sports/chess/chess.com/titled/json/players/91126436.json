@@ -1,0 +1,67 @@
+{
+    "player_id": 91126436,
+    "@id": "https://api.chess.com/pub/player/flawlessfightersyx",
+    "url": "https://www.chess.com/member/flawlessfightersyx",
+    "name": "Yuxin Song",
+    "username": "flawlessfightersyx",
+    "title": "IM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741598818,
+    "joined": 1599982064,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2707,
+            "date": 1725106742,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2707,
+            "date": 1725106742,
+            "game": "https://www.chess.com/game/live/118843207065"
+        },
+        "record": {
+            "win": 38,
+            "loss": 17,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2708,
+            "date": 1737885694,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1737885694,
+            "game": "https://www.chess.com/game/live/118831804105"
+        },
+        "record": {
+            "win": 35,
+            "loss": 10,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1599982064
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1599982064
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/311586229.c634b363.200x200o.54dc5816ed82.png",
+    "player_id": 311586229,
+    "@id": "https://api.chess.com/pub/player/pinguino120",
+    "url": "https://www.chess.com/member/pinguino120",
+    "name": "Fabio Colonetti",
+    "username": "pinguino120",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741680080,
+    "joined": 1694264447,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2039,
+            "date": 1695734687,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2039,
+            "date": 1695734686,
+            "game": "https://www.chess.com/game/live/89473768873"
+        },
+        "record": {
+            "win": 8,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2366,
+            "date": 1741365500,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1738707962,
+            "game": "https://www.chess.com/game/live/131214047817"
+        },
+        "record": {
+            "win": 164,
+            "loss": 133,
+            "draw": 13
+        }
+    },
+    "fide": 2124,
+    "tactics": {
+        "highest": {
+            "rating": 2988,
+            "date": 1741679821
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1694264447
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

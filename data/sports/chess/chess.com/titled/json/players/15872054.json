@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15872054.44079fd0.200x200o.aa11a0d8662b.jpeg",
+    "player_id": 15872054,
+    "@id": "https://api.chess.com/pub/player/fghsmn",
+    "url": "https://www.chess.com/member/FGHSMN",
+    "name": "Bharath Subramaniyam.H Harishankkar",
+    "username": "fghsmn",
+    "title": "GM",
+    "followers": 221,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1734160368,
+    "joined": 1391353417,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1513,
+            "date": 1655010944,
+            "rd": 226
+        },
+        "best": {
+            "rating": 1513,
+            "date": 1581916169,
+            "game": "https://www.chess.com/game/daily/247439722"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 124934,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2611,
+            "date": 1727625982,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1682971029,
+            "game": "https://www.chess.com/game/live/121017090545"
+        },
+        "record": {
+            "win": 72,
+            "loss": 69,
+            "draw": 32
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2755,
+            "date": 1721939847,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2816,
+            "date": 1705174918,
+            "game": "https://www.chess.com/game/live/98910362009"
+        },
+        "record": {
+            "win": 129,
+            "loss": 86,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3001,
+            "date": 1734177654,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3043,
+            "date": 1721049215,
+            "game": "https://www.chess.com/game/live/101369560597"
+        },
+        "record": {
+            "win": 5490,
+            "loss": 3848,
+            "draw": 786
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3832,
+            "date": 1720632820
+        },
+        "lowest": {
+            "rating": 1332,
+            "date": 1545221961
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 71,
+            "score": 68
+        }
+    }
+}

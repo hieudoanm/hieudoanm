@@ -1,0 +1,108 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35232666.266a0d22.200x200o.0c2253222410.jpeg",
+    "player_id": 35232666,
+    "@id": "https://api.chess.com/pub/player/devonlaratt",
+    "url": "https://www.chess.com/member/devonlaratt",
+    "username": "devonlaratt",
+    "title": "GM",
+    "followers": 56,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "The one and only",
+    "last_online": 1734144954,
+    "joined": 1493759976,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1443,
+            "date": 1652412130,
+            "rd": 154
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1493759976,
+            "game": "https://www.chess.com/game/daily/199187398"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 132014,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2400,
+            "date": 1650312917,
+            "rd": 329
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1650312316,
+            "game": "https://www.chess.com/game/live/44051087533"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2786,
+            "date": 1669201093,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2883,
+            "date": 1669200332,
+            "game": "https://www.chess.com/game/live/3403628066"
+        },
+        "record": {
+            "win": 104,
+            "loss": 48,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2861,
+            "date": 1733251484,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3023,
+            "date": 1714211414,
+            "game": "https://www.chess.com/game/live/116690977029"
+        },
+        "record": {
+            "win": 1453,
+            "loss": 1090,
+            "draw": 446
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 4302,
+            "date": 1560888193
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1506892595
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 61
+        },
+        "daily": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

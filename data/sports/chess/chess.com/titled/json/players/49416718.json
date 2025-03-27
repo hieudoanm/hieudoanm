@@ -1,0 +1,80 @@
+{
+    "player_id": 49416718,
+    "@id": "https://api.chess.com/pub/player/lamomiablanca",
+    "url": "https://www.chess.com/member/lamomiablanca",
+    "name": "Fabian Fiorito",
+    "username": "lamomiablanca",
+    "title": "IM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/AR",
+    "location": "buenos aires",
+    "last_online": 1741524326,
+    "joined": 1536062862,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1755,
+            "date": 1584824735,
+            "rd": 343
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2564,
+            "date": 1730635461,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1693415270,
+            "game": "https://www.chess.com/game/live/123028853087"
+        },
+        "record": {
+            "win": 403,
+            "loss": 278,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2576,
+            "date": 1741464789,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2659,
+            "date": 1710098736,
+            "game": "https://www.chess.com/game/live/24772924267"
+        },
+        "record": {
+            "win": 320,
+            "loss": 310,
+            "draw": 46
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3141,
+            "date": 1660409593
+        },
+        "lowest": {
+            "rating": 2124,
+            "date": 1551033701
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

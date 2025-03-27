@@ -1,0 +1,30 @@
+{
+    "player_id": 426363207,
+    "@id": "https://api.chess.com/pub/player/nikolaj_katishonok",
+    "url": "https://www.chess.com/member/Nikolaj_Katishonok",
+    "name": "Nikolajs Kati\u0161onoks",
+    "username": "nikolaj_katishonok",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/LV",
+    "location": "R\u012bga",
+    "last_online": 1741685734,
+    "joined": 1738674670,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "fide": 2004,
+    "tactics": {
+        "highest": {
+            "rating": 3419,
+            "date": 1741084048
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738674670
+        }
+    },
+    "puzzle_rush": {}
+}

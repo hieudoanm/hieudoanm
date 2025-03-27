@@ -1,0 +1,99 @@
+{
+    "player_id": 16658584,
+    "@id": "https://api.chess.com/pub/player/lucas_tomiello",
+    "url": "https://www.chess.com/member/Lucas_Tomiello",
+    "name": "Lucas Costamilan Tomiello",
+    "username": "lucas_tomiello",
+    "title": "FM",
+    "followers": 177,
+    "country": "https://api.chess.com/pub/country/BR",
+    "location": "Caxias do sul-RS",
+    "last_online": 1741666822,
+    "joined": 1396047451,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1052,
+            "date": 1717026856,
+            "rd": 248
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 623,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2501,
+            "date": 1596253519,
+            "rd": 249
+        },
+        "best": {
+            "rating": 2274,
+            "date": 1596253519,
+            "game": "https://www.chess.com/game/live/5233862275"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2648,
+            "date": 1741581095,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2719,
+            "date": 1707443012,
+            "game": "https://www.chess.com/game/live/101181761605"
+        },
+        "record": {
+            "win": 927,
+            "loss": 719,
+            "draw": 104
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2701,
+            "date": 1741316134,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2793,
+            "date": 1736396490,
+            "game": "https://www.chess.com/game/live/51399648109"
+        },
+        "record": {
+            "win": 10894,
+            "loss": 10129,
+            "draw": 1530
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3567,
+            "date": 1741578676
+        },
+        "lowest": {
+            "rating": 1107,
+            "date": 1396156424
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

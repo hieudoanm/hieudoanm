@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18792212.7ab3af6b.200x200o.c3b3557b43b8.png",
+    "player_id": 18792212,
+    "@id": "https://api.chess.com/pub/player/chessdeep2017",
+    "url": "https://www.chess.com/member/ChessDeep2017",
+    "name": "ChessDeep",
+    "username": "chessdeep2017",
+    "title": "NM",
+    "followers": 88,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741356193,
+    "joined": 1410011184,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1741632675
+        },
+        "best": {
+            "rating": 2357,
+            "date": 1725414312,
+            "game": "https://www.chess.com/game/live/119155220761"
+        },
+        "record": {
+            "win": 178,
+            "loss": 117,
+            "draw": 19
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2259,
+            "date": 1741377011,
+            "rd": 14
+        },
+        "best": {
+            "rating": 2400,
+            "date": 1709913042,
+            "game": "https://www.chess.com/game/live/124574365001"
+        },
+        "record": {
+            "win": 7483,
+            "loss": 7057,
+            "draw": 429
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2082,
+            "date": 1741698975,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2374,
+            "date": 1728781939,
+            "game": "https://www.chess.com/game/live/122492077731"
+        },
+        "record": {
+            "win": 13791,
+            "loss": 12480,
+            "draw": 799
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3167,
+            "date": 1712590948
+        },
+        "lowest": {
+            "rating": 1006,
+            "date": 1410013180
+        }
+    },
+    "puzzle_rush": {}
+}

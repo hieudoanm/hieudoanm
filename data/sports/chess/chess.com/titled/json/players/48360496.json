@@ -1,0 +1,84 @@
+{
+    "player_id": 48360496,
+    "@id": "https://api.chess.com/pub/player/rururkowiec",
+    "url": "https://www.chess.com/member/rururkowiec",
+    "name": "Szymon Walter",
+    "username": "rururkowiec",
+    "title": "FM",
+    "followers": 19,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1741683108,
+    "joined": 1533076652,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2223,
+            "date": 1687855929,
+            "rd": 239
+        },
+        "best": {
+            "rating": 2223,
+            "date": 1672534416,
+            "game": "https://www.chess.com/game/live/21376854707"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2786,
+            "date": 1736587194,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2834,
+            "date": 1672861618,
+            "game": "https://www.chess.com/game/live/116444436085"
+        },
+        "record": {
+            "win": 354,
+            "loss": 368,
+            "draw": 71
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2706,
+            "date": 1741700595,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2848,
+            "date": 1737975311,
+            "game": "https://www.chess.com/game/live/131470152997"
+        },
+        "record": {
+            "win": 2166,
+            "loss": 2440,
+            "draw": 610
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3122,
+            "date": 1644745344
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1563908879
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

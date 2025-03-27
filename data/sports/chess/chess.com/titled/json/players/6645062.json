@@ -1,0 +1,84 @@
+{
+    "player_id": 6645062,
+    "@id": "https://api.chess.com/pub/player/ezwin4all",
+    "url": "https://www.chess.com/member/EzWin4All",
+    "name": "Shawn Wang",
+    "username": "ezwin4all",
+    "title": "NM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741623958,
+    "joined": 1328834605,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2059,
+            "date": 1732234251,
+            "rd": 196
+        },
+        "best": {
+            "rating": 2059,
+            "date": 1732234251,
+            "game": "https://www.chess.com/game/live/125972338073"
+        },
+        "record": {
+            "win": 12,
+            "loss": 6,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2240,
+            "date": 1741574065,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2414,
+            "date": 1616680299,
+            "game": "https://www.chess.com/game/live/127022368255"
+        },
+        "record": {
+            "win": 5065,
+            "loss": 4291,
+            "draw": 293
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2076,
+            "date": 1734110631,
+            "rd": 101
+        },
+        "best": {
+            "rating": 2201,
+            "date": 1617409845,
+            "game": "https://www.chess.com/game/live/11724755063"
+        },
+        "record": {
+            "win": 318,
+            "loss": 212,
+            "draw": 21
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3030,
+            "date": 1641091443
+        },
+        "lowest": {
+            "rating": 1168,
+            "date": 1328836554
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62767452.c15cddcd.200x200o.6686bc9fde95.jpg",
+    "player_id": 62767452,
+    "@id": "https://api.chess.com/pub/player/agilpirverdiyev777",
+    "url": "https://www.chess.com/member/AgilPirverdiyev777",
+    "name": "Agil Pirverdiyev",
+    "username": "agilpirverdiyev777",
+    "title": "FM",
+    "followers": 99,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Miami Beach, Florida",
+    "last_online": 1741685298,
+    "joined": 1561722619,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1741625105,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 17668,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2391,
+            "date": 1736762970,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2404,
+            "date": 1701497768,
+            "game": "https://www.chess.com/game/live/130500649843"
+        },
+        "record": {
+            "win": 15,
+            "loss": 0,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2379,
+            "date": 1741156248,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2641,
+            "date": 1738445465,
+            "game": "https://www.chess.com/game/live/94129297909"
+        },
+        "record": {
+            "win": 645,
+            "loss": 509,
+            "draw": 57
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2151,
+            "date": 1739912077,
+            "rd": 195
+        },
+        "best": {
+            "rating": 2511,
+            "date": 1630691149,
+            "game": "https://www.chess.com/game/live/24430856575"
+        },
+        "record": {
+            "win": 31,
+            "loss": 2,
+            "draw": 2
+        }
+    },
+    "fide": 2700,
+    "tactics": {
+        "highest": {
+            "rating": 3310,
+            "date": 1740506213
+        },
+        "lowest": {
+            "rating": 417,
+            "date": 1578117893
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

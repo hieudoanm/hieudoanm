@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/137706882.0ca988e2.200x200o.e0649ae91b4c.jpeg",
+    "player_id": 137706882,
+    "@id": "https://api.chess.com/pub/player/baku_boulevard",
+    "url": "https://www.chess.com/member/Baku_Boulevard",
+    "name": "Rauf Mamedov",
+    "username": "baku_boulevard",
+    "title": "GM",
+    "followers": 522,
+    "country": "https://api.chess.com/pub/country/UA",
+    "last_online": 1734108467,
+    "joined": 1619594485,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2671,
+            "date": 1715534380,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2759,
+            "date": 1677084991,
+            "game": "https://www.chess.com/game/live/100552390259"
+        },
+        "record": {
+            "win": 85,
+            "loss": 43,
+            "draw": 74
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3028,
+            "date": 1724515827,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3173,
+            "date": 1687799399,
+            "game": "https://www.chess.com/game/live/90659942325"
+        },
+        "record": {
+            "win": 611,
+            "loss": 298,
+            "draw": 69
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3148,
+            "date": 1728207824,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3148,
+            "date": 1728207824,
+            "game": "https://www.chess.com/game/live/59734196075"
+        },
+        "record": {
+            "win": 1061,
+            "loss": 534,
+            "draw": 290
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3877,
+            "date": 1718203521
+        },
+        "lowest": {
+            "rating": 2400,
+            "date": 1620231370
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 82,
+            "score": 79
+        }
+    }
+}

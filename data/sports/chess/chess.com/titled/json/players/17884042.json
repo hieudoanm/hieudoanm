@@ -1,0 +1,85 @@
+{
+    "player_id": 17884042,
+    "@id": "https://api.chess.com/pub/player/abhidabhi",
+    "url": "https://www.chess.com/member/abhidabhi",
+    "name": "Abhimanyu Puranik",
+    "username": "abhidabhi",
+    "title": "GM",
+    "followers": 637,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1734140248,
+    "joined": 1404098245,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2649,
+            "date": 1721413360,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2660,
+            "date": 1675444085,
+            "game": "https://www.chess.com/game/live/51130776837"
+        },
+        "record": {
+            "win": 24,
+            "loss": 16,
+            "draw": 13
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2686,
+            "date": 1677738598,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2721,
+            "date": 1669746012,
+            "game": "https://www.chess.com/game/live/49968588279"
+        },
+        "record": {
+            "win": 96,
+            "loss": 56,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2918,
+            "date": 1733498595,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2996,
+            "date": 1714396802,
+            "game": "https://www.chess.com/game/live/67713872767"
+        },
+        "record": {
+            "win": 1273,
+            "loss": 958,
+            "draw": 231
+        }
+    },
+    "fide": 2509,
+    "tactics": {
+        "highest": {
+            "rating": 3902,
+            "date": 1714233648
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1533618515
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

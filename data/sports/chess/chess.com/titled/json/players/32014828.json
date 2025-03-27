@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32014828.9d16da27.200x200o.10c03d594269.jpeg",
+    "player_id": 32014828,
+    "@id": "https://api.chess.com/pub/player/chessasuke",
+    "url": "https://www.chess.com/member/chessasuke",
+    "name": "Carlos Antonio Hevia Alejano",
+    "username": "chessasuke",
+    "title": "GM",
+    "followers": 64,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1734039783,
+    "joined": 1483137732,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1002,
+            "date": 1564586493,
+            "rd": 285
+        },
+        "best": {
+            "rating": 1002,
+            "date": 1564586493,
+            "game": "https://www.chess.com/game/daily/232959600"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 99727,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2469,
+            "date": 1653149127,
+            "rd": 180
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1609781936,
+            "game": "https://www.chess.com/game/live/6142088145"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2739,
+            "date": 1726179269,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2856,
+            "date": 1605321212,
+            "game": "https://www.chess.com/game/live/5741283308"
+        },
+        "record": {
+            "win": 185,
+            "loss": 207,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2517,
+            "date": 1733871291,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1554173514,
+            "game": "https://www.chess.com/game/live/5644460181"
+        },
+        "record": {
+            "win": 922,
+            "loss": 1012,
+            "draw": 209
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 933,
+            "date": 1575512620
+        },
+        "lowest": {
+            "rating": 414,
+            "date": 1575512439
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

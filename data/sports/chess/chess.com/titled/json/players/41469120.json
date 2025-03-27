@@ -1,0 +1,67 @@
+{
+    "player_id": 41469120,
+    "@id": "https://api.chess.com/pub/player/relaxx87",
+    "url": "https://www.chess.com/member/relaxx87",
+    "name": "Camilo Ernesto Gomez Garrido",
+    "username": "relaxx87",
+    "title": "GM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/CU",
+    "last_online": 1738690738,
+    "joined": 1513666438,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2655,
+            "date": 1738691576,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2655,
+            "date": 1738691576,
+            "game": "https://www.chess.com/game/live/132430304091"
+        },
+        "record": {
+            "win": 159,
+            "loss": 84,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2680,
+            "date": 1738691966,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1553451347,
+            "game": "https://www.chess.com/game/live/4846648305"
+        },
+        "record": {
+            "win": 523,
+            "loss": 325,
+            "draw": 61
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2498,
+            "date": 1600200391
+        },
+        "lowest": {
+            "rating": 816,
+            "date": 1547158443
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

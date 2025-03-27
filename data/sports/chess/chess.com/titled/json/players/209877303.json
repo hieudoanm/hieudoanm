@@ -1,0 +1,101 @@
+{
+    "player_id": 209877303,
+    "@id": "https://api.chess.com/pub/player/anonymous4910",
+    "url": "https://www.chess.com/member/Anonymous4910",
+    "username": "anonymous4910",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741570477,
+    "joined": 1669957187,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1829,
+            "date": 1737256366,
+            "rd": 178
+        },
+        "best": {
+            "rating": 1829,
+            "date": 1737256365,
+            "game": "https://www.chess.com/game/daily/750714955"
+        },
+        "record": {
+            "win": 22,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 7742,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2386,
+            "date": 1731298283,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2435,
+            "date": 1695868017,
+            "game": "https://www.chess.com/game/live/89589035073"
+        },
+        "record": {
+            "win": 88,
+            "loss": 45,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2575,
+            "date": 1741035649,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2692,
+            "date": 1688923399,
+            "game": "https://www.chess.com/game/live/83962279243"
+        },
+        "record": {
+            "win": 173,
+            "loss": 141,
+            "draw": 41
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2724,
+            "date": 1741662718
+        },
+        "best": {
+            "rating": 2763,
+            "date": 1735714928,
+            "game": "https://www.chess.com/game/live/129248044849"
+        },
+        "record": {
+            "win": 1268,
+            "loss": 1140,
+            "draw": 314
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3626,
+            "date": 1741227401
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1669957187
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

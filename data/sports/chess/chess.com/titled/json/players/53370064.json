@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/53370064.0ac2882e.200x200o.4fec6c0d890d.jpg",
+    "player_id": 53370064,
+    "@id": "https://api.chess.com/pub/player/schachkatze2000",
+    "url": "https://www.chess.com/member/Schachkatze2000",
+    "name": "Henning Holinka",
+    "username": "schachkatze2000",
+    "title": "FM",
+    "followers": 176,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741657190,
+    "joined": 1545061403,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1259,
+            "date": 1737810278,
+            "rd": 268
+        },
+        "best": {
+            "rating": 1259,
+            "date": 1733079526,
+            "game": "https://www.chess.com/game/daily/725364669"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 43360,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2243,
+            "date": 1734094494,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1731687313,
+            "game": "https://www.chess.com/game/live/125425135767"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2704,
+            "date": 1741205181,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1732634865,
+            "game": "https://www.chess.com/game/live/123094235025"
+        },
+        "record": {
+            "win": 1273,
+            "loss": 961,
+            "draw": 158
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2560,
+            "date": 1741203934,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2617,
+            "date": 1734452785,
+            "game": "https://www.chess.com/game/live/111348723413"
+        },
+        "record": {
+            "win": 634,
+            "loss": 456,
+            "draw": 78
+        }
+    },
+    "fide": 2235,
+    "tactics": {
+        "highest": {
+            "rating": 3451,
+            "date": 1729877089
+        },
+        "lowest": {
+            "rating": 416,
+            "date": 1545755531
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

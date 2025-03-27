@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48683902.c2c69d72.200x200o.3c29552a309b.jpg",
+    "player_id": 48683902,
+    "@id": "https://api.chess.com/pub/player/geychess",
+    "url": "https://www.chess.com/member/geychess",
+    "name": "Geydis Mantilla Gras",
+    "username": "geychess",
+    "title": "WFM",
+    "followers": 96,
+    "country": "https://api.chess.com/pub/country/CU",
+    "location": "M\u00e9xico",
+    "last_online": 1741673809,
+    "joined": 1534023307,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1640,
+            "date": 1741333668,
+            "rd": 189
+        },
+        "best": {
+            "rating": 1640,
+            "date": 1741333668,
+            "game": "https://www.chess.com/game/daily/660990601"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 1872,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2083,
+            "date": 1740286474,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2109,
+            "date": 1680817072,
+            "game": "https://www.chess.com/game/live/123371466895"
+        },
+        "record": {
+            "win": 27,
+            "loss": 9,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1713,
+            "date": 1740288123,
+            "rd": 199
+        },
+        "record": {
+            "win": 1,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1818,
+            "date": 1740942581,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2115,
+            "date": 1686085775,
+            "game": "https://www.chess.com/game/live/3831552123"
+        },
+        "record": {
+            "win": 61,
+            "loss": 51,
+            "draw": 6
+        }
+    },
+    "fide": 1994,
+    "tactics": {
+        "highest": {
+            "rating": 3089,
+            "date": 1723340208
+        },
+        "lowest": {
+            "rating": 817,
+            "date": 1596813687
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 39,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/375731341.b2603dba.200x200o.002d0061296e.jpg",
+    "player_id": 375731341,
+    "@id": "https://api.chess.com/pub/player/tennessee07",
+    "url": "https://www.chess.com/member/tennessee07",
+    "name": "James Le Nguyen",
+    "username": "tennessee07",
+    "title": "NM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Knoxville",
+    "last_online": 1741695070,
+    "joined": 1721161988,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2206,
+            "date": 1737128854,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2206,
+            "date": 1725646617,
+            "game": "https://www.chess.com/game/live/129918614871"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2291,
+            "date": 1734021879,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2369,
+            "date": 1725718840,
+            "game": "https://www.chess.com/game/live/119995843793"
+        },
+        "record": {
+            "win": 15,
+            "loss": 10,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2527,
+            "date": 1741701491,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2629,
+            "date": 1737402245,
+            "game": "https://www.chess.com/game/live/124837748873"
+        },
+        "record": {
+            "win": 426,
+            "loss": 363,
+            "draw": 96
+        }
+    },
+    "fide": 2206,
+    "tactics": {
+        "highest": {
+            "rating": 2306,
+            "date": 1731947763
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1721161988
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 48
+        }
+    }
+}

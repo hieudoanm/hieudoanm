@@ -1,0 +1,95 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13355674.8bf0bce2.200x200o.b8e4925c1c3d.jpg",
+    "player_id": 13355674,
+    "@id": "https://api.chess.com/pub/player/edgar_karagyozyan",
+    "url": "https://www.chess.com/member/Edgar_Karagyozyan",
+    "name": "Edgar Karagyozian",
+    "username": "edgar_karagyozyan",
+    "title": "CM",
+    "followers": 381,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Ay",
+    "last_online": 1741681656,
+    "joined": 1377992400,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1718284752,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 8,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2404,
+            "date": 1564244910,
+            "rd": 316
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2534,
+            "date": 1607636959,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2586,
+            "date": 1495062483,
+            "game": "https://www.chess.com/game/live/1926422006"
+        },
+        "record": {
+            "win": 4786,
+            "loss": 5967,
+            "draw": 847
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2794,
+            "date": 1741700515
+        },
+        "best": {
+            "rating": 2781,
+            "date": 1712181805,
+            "game": "https://www.chess.com/game/live/105357676757"
+        },
+        "record": {
+            "win": 14165,
+            "loss": 17128,
+            "draw": 3496
+        }
+    },
+    "fide": 2194,
+    "tactics": {
+        "highest": {
+            "rating": 1340,
+            "date": 1579906053
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1562108721
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 35
+        }
+    }
+}

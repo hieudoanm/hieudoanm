@@ -1,0 +1,87 @@
+{
+    "player_id": 4975286,
+    "@id": "https://api.chess.com/pub/player/akdog3",
+    "url": "https://www.chess.com/member/akdog3",
+    "name": "Bill McGeary",
+    "username": "akdog3",
+    "title": "NM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Whidbey Island",
+    "last_online": 1741702522,
+    "joined": 1302571077,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2264,
+            "date": 1741702600,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2467,
+            "date": 1624501094,
+            "game": "https://www.chess.com/game/daily/281225928"
+        },
+        "record": {
+            "win": 637,
+            "loss": 214,
+            "draw": 71,
+            "time_per_move": 25434,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2321,
+            "date": 1623346689,
+            "rd": 246
+        },
+        "best": {
+            "rating": 2321,
+            "date": 1623346689,
+            "game": "https://www.chess.com/game/live/17085730701"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2213,
+            "date": 1741041562,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2350,
+            "date": 1658272489,
+            "game": "https://www.chess.com/game/live/57716964117"
+        },
+        "record": {
+            "win": 8422,
+            "loss": 7361,
+            "draw": 644
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2236,
+            "date": 1672530154
+        },
+        "lowest": {
+            "rating": 1392,
+            "date": 1331584891
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 32,
+            "score": 29
+        }
+    }
+}

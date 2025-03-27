@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/379637631.69d64f93.200x200o.7a0c83caa173.webp",
+    "player_id": 379637631,
+    "@id": "https://api.chess.com/pub/player/juic5r",
+    "url": "https://www.chess.com/member/Juic5r",
+    "username": "juic5r",
+    "title": "CM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/SC",
+    "last_online": 1741530601,
+    "joined": 1723036579,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2452,
+            "date": 1741605475,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2645,
+            "date": 1723486453,
+            "game": "https://www.chess.com/game/live/117165618589"
+        },
+        "record": {
+            "win": 147,
+            "loss": 129,
+            "draw": 43
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2534,
+            "date": 1741530984,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2241,
+            "date": 1723215660,
+            "game": "https://www.chess.com/game/live/116954387125"
+        },
+        "record": {
+            "win": 89,
+            "loss": 44,
+            "draw": 6
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3498,
+            "date": 1723843374
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1723036579
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

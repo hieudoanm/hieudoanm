@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5328133.6a851d18.200x200o.af644e78c0c0.jpeg",
+    "player_id": 5328133,
+    "@id": "https://api.chess.com/pub/player/gm_darwinlaylo",
+    "url": "https://www.chess.com/member/GM_DarwinLaylo",
+    "name": "Darwin Laylo",
+    "username": "gm_darwinlaylo",
+    "title": "GM",
+    "followers": 599,
+    "country": "https://api.chess.com/pub/country/PH",
+    "location": "Marikina City",
+    "last_online": 1734110048,
+    "joined": 1308892225,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1696418318,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 78499,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2388,
+            "date": 1734114077,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1486832361,
+            "game": "https://www.chess.com/game/live/127589442593"
+        },
+        "record": {
+            "win": 150,
+            "loss": 37,
+            "draw": 146
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2512,
+            "date": 1731582014,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2612,
+            "date": 1648896743,
+            "game": "https://www.chess.com/game/live/42635385399"
+        },
+        "record": {
+            "win": 312,
+            "loss": 328,
+            "draw": 53
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2598,
+            "date": 1730286561,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2690,
+            "date": 1678273764,
+            "game": "https://www.chess.com/game/live/64083226883"
+        },
+        "record": {
+            "win": 1063,
+            "loss": 694,
+            "draw": 286
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3706,
+            "date": 1723626138
+        },
+        "lowest": {
+            "rating": 2343,
+            "date": 1664339571
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31622756.a6a3292e.200x200o.51f98e63d668.jpeg",
+    "player_id": 31622756,
+    "@id": "https://api.chess.com/pub/player/rasmussvane",
+    "url": "https://www.chess.com/member/rasmussvane",
+    "name": "Rasmus Svane",
+    "username": "rasmussvane",
+    "title": "GM",
+    "followers": 4370,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741698806,
+    "joined": 1481752303,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2613,
+            "date": 1739819777,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2653,
+            "date": 1727458056,
+            "game": "https://www.chess.com/game/live/108926456741"
+        },
+        "record": {
+            "win": 553,
+            "loss": 133,
+            "draw": 88
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2963,
+            "date": 1733597886,
+            "rd": 34
+        },
+        "best": {
+            "rating": 3104,
+            "date": 1674930324,
+            "game": "https://www.chess.com/game/live/87415980875"
+        },
+        "record": {
+            "win": 7843,
+            "loss": 2590,
+            "draw": 660
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2986,
+            "date": 1741370454,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3061,
+            "date": 1738172332,
+            "game": "https://www.chess.com/game/live/123443387303"
+        },
+        "record": {
+            "win": 5008,
+            "loss": 2006,
+            "draw": 1007
+        }
+    },
+    "fide": 2628,
+    "tactics": {
+        "highest": {
+            "rating": 3869,
+            "date": 1739660622
+        },
+        "lowest": {
+            "rating": 1245,
+            "date": 1488993650
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 80,
+            "score": 77
+        }
+    }
+}

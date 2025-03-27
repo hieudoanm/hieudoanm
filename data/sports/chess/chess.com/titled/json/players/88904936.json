@@ -1,0 +1,68 @@
+{
+    "player_id": 88904936,
+    "@id": "https://api.chess.com/pub/player/giulioborgo",
+    "url": "https://www.chess.com/member/GiulioBorgo",
+    "name": "Guilio Borgo",
+    "username": "giulioborgo",
+    "title": "IM",
+    "followers": 24,
+    "country": "https://api.chess.com/pub/country/IT",
+    "last_online": 1741700382,
+    "joined": 1597240707,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2255,
+            "date": 1678243222,
+            "rd": 69
+        },
+        "best": {
+            "rating": 2270,
+            "date": 1597805309,
+            "game": "https://www.chess.com/game/live/71978072519"
+        },
+        "record": {
+            "win": 59,
+            "loss": 22,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2606,
+            "date": 1741610828,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2646,
+            "date": 1707349734,
+            "game": "https://www.chess.com/game/live/100398769827"
+        },
+        "record": {
+            "win": 1141,
+            "loss": 1109,
+            "draw": 153
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2207,
+            "date": 1737656311
+        },
+        "lowest": {
+            "rating": 2200,
+            "date": 1649200909
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 29,
+            "score": 27
+        }
+    }
+}

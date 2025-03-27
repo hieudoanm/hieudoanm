@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73936314.ac845d78.200x200o.2c42102e2ee3.jpeg",
+    "player_id": 73936314,
+    "@id": "https://api.chess.com/pub/player/miuko7",
+    "url": "https://www.chess.com/member/Miuko7",
+    "name": "Miroslav Macko",
+    "username": "miuko7",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/SK",
+    "last_online": 1741110197,
+    "joined": 1584699613,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 1815,
+            "date": 1740840335,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2300,
+            "date": 1678058045,
+            "game": "https://www.chess.com/game/live/71796804287"
+        },
+        "record": {
+            "win": 49,
+            "loss": 41,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2153,
+            "date": 1740079397,
+            "rd": 67
+        },
+        "best": {
+            "rating": 2294,
+            "date": 1624887395,
+            "game": "https://www.chess.com/game/live/131911757949"
+        },
+        "record": {
+            "win": 37,
+            "loss": 30,
+            "draw": 5
+        }
+    },
+    "fide": 2273,
+    "tactics": {
+        "highest": {
+            "rating": 2262,
+            "date": 1677619656
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1584699613
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 40
+        }
+    }
+}

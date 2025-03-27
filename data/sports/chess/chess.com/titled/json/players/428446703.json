@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/428446703.d75d82af.200x200o.3355717cbb1a.png",
+    "player_id": 428446703,
+    "@id": "https://api.chess.com/pub/player/gmboorchess",
+    "url": "https://www.chess.com/member/GMBoorchess",
+    "name": "Carl Boor",
+    "username": "gmboorchess",
+    "title": "FM",
+    "followers": 5,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741657219,
+    "joined": 1739305632,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2207,
+            "date": 1739739430,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2207,
+            "date": 1739739430,
+            "game": "https://www.chess.com/game/live/133477739613"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2647,
+            "date": 1741588449,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2605,
+            "date": 1740441492,
+            "game": "https://www.chess.com/game/live/133506555053"
+        },
+        "record": {
+            "win": 321,
+            "loss": 178,
+            "draw": 50
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2180,
+            "date": 1739910017
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1739305632
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 31,
+            "score": 30
+        }
+    }
+}

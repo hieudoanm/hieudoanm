@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23898470.3579fc3a.200x200o.8a3d8949aa5b.jpeg",
+    "player_id": 23898470,
+    "@id": "https://api.chess.com/pub/player/alleyooper",
+    "url": "https://www.chess.com/member/AlleyOoper",
+    "name": "Peter Lizak",
+    "username": "alleyooper",
+    "title": "IM",
+    "followers": 340,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Budapest",
+    "last_online": 1741678824,
+    "joined": 1440974694,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1703,
+            "date": 1741023478,
+            "rd": 103
+        },
+        "best": {
+            "rating": 1706,
+            "date": 1739562265,
+            "game": "https://www.chess.com/game/daily/660609881"
+        },
+        "record": {
+            "win": 37,
+            "loss": 4,
+            "draw": 4,
+            "time_per_move": 9995,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2296,
+            "date": 1696950815,
+            "rd": 91
+        },
+        "best": {
+            "rating": 2463,
+            "date": 1653643802,
+            "game": "https://www.chess.com/game/live/47382005241"
+        },
+        "record": {
+            "win": 26,
+            "loss": 5,
+            "draw": 12
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2673,
+            "date": 1741700033
+        },
+        "best": {
+            "rating": 2810,
+            "date": 1620975514,
+            "game": "https://www.chess.com/game/live/101519526383"
+        },
+        "record": {
+            "win": 1482,
+            "loss": 1859,
+            "draw": 294
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2758,
+            "date": 1741688784,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2777,
+            "date": 1725018599,
+            "game": "https://www.chess.com/game/live/4726346961"
+        },
+        "record": {
+            "win": 6944,
+            "loss": 7524,
+            "draw": 1531
+        }
+    },
+    "fide": 2398,
+    "tactics": {
+        "highest": {
+            "rating": 3685,
+            "date": 1715030139
+        },
+        "lowest": {
+            "rating": 1378,
+            "date": 1489018261
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 45
+        }
+    }
+}

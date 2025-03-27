@@ -1,0 +1,81 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/427089215.3f4d6329.200x200o.375d2f500ca6.jpg",
+    "player_id": 427089215,
+    "@id": "https://api.chess.com/pub/player/jaisankars",
+    "url": "https://www.chess.com/member/JaiSankarS",
+    "name": "Jai Sankar Subramanian",
+    "username": "jaisankars",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Virudhunagar",
+    "last_online": 1741603284,
+    "joined": 1738893409,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2277,
+            "date": 1739731289,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2309,
+            "date": 1739725067,
+            "game": "https://www.chess.com/game/live/133462782141"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2314,
+            "date": 1741604691,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2342,
+            "date": 1739453901,
+            "game": "https://www.chess.com/game/live/133193957119"
+        },
+        "record": {
+            "win": 161,
+            "loss": 150,
+            "draw": 23
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1741367643
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1741110160,
+            "game": "https://www.chess.com/game/live/134238558945"
+        },
+        "record": {
+            "win": 24,
+            "loss": 19,
+            "draw": 9
+        }
+    },
+    "fide": 2315,
+    "tactics": {
+        "highest": {
+            "rating": 3709,
+            "date": 1741162670
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1738893409
+        }
+    },
+    "puzzle_rush": {}
+}

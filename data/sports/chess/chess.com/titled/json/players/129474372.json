@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/129474372.8790e153.200x200o.8cb1fbbd2849.jpg",
+    "player_id": 129474372,
+    "@id": "https://api.chess.com/pub/player/pianoskater",
+    "url": "https://www.chess.com/member/pianoskater",
+    "name": "Lily Jeanette Duarte Cramer",
+    "username": "pianoskater",
+    "title": "WCM",
+    "followers": 38,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741639774,
+    "joined": 1616264233,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1324,
+            "date": 1741466022,
+            "rd": 96
+        },
+        "best": {
+            "rating": 1324,
+            "date": 1741105634,
+            "game": "https://www.chess.com/game/daily/736197395"
+        },
+        "record": {
+            "win": 40,
+            "loss": 29,
+            "draw": 2,
+            "time_per_move": 76557,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1846,
+            "date": 1739239602,
+            "rd": 93
+        },
+        "best": {
+            "rating": 1846,
+            "date": 1739238865,
+            "game": "https://www.chess.com/game/live/92243550989"
+        },
+        "record": {
+            "win": 304,
+            "loss": 160,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1838,
+            "date": 1740924853,
+            "rd": 79
+        },
+        "best": {
+            "rating": 1831,
+            "date": 1695826009,
+            "game": "https://www.chess.com/game/live/86475536365"
+        },
+        "record": {
+            "win": 804,
+            "loss": 650,
+            "draw": 89
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2107,
+            "date": 1741466855,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2179,
+            "date": 1738933129,
+            "game": "https://www.chess.com/game/live/132424291731"
+        },
+        "record": {
+            "win": 745,
+            "loss": 639,
+            "draw": 120
+        }
+    },
+    "fide": 1835,
+    "tactics": {
+        "highest": {
+            "rating": 3673,
+            "date": 1726190177
+        },
+        "lowest": {
+            "rating": 387,
+            "date": 1640464978
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 49
+        }
+    }
+}

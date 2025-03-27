@@ -1,0 +1,69 @@
+{
+    "player_id": 28351268,
+    "@id": "https://api.chess.com/pub/player/deeper44",
+    "url": "https://www.chess.com/member/Deeper44",
+    "name": "Ali Ekber Do\u011fan",
+    "username": "deeper44",
+    "title": "CM",
+    "followers": 233,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "Malatya",
+    "last_online": 1741533508,
+    "joined": 1464201597,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2153,
+            "date": 1736462234,
+            "rd": 180
+        },
+        "best": {
+            "rating": 2249,
+            "date": 1734566195,
+            "game": "https://www.chess.com/game/live/128305153745"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2555,
+            "date": 1741560423,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2772,
+            "date": 1734384681,
+            "game": "https://www.chess.com/game/live/127603276621"
+        },
+        "record": {
+            "win": 5011,
+            "loss": 6079,
+            "draw": 856
+        }
+    },
+    "fide": 2182,
+    "tactics": {
+        "highest": {
+            "rating": 3549,
+            "date": 1698104280
+        },
+        "lowest": {
+            "rating": 1217,
+            "date": 1464202172
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 22,
+            "score": 19
+        }
+    }
+}

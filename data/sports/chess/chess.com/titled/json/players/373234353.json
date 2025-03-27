@@ -1,0 +1,67 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/373234353.289220d7.200x200o.dbbbb4305cc0.jpg",
+    "player_id": 373234353,
+    "@id": "https://api.chess.com/pub/player/burundianattack",
+    "url": "https://www.chess.com/member/BurundianAttack",
+    "username": "burundianattack",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/PS",
+    "last_online": 1741439424,
+    "joined": 1720011514,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2625,
+            "date": 1734978532,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2625,
+            "date": 1734978532,
+            "game": "https://www.chess.com/game/live/128717558313"
+        },
+        "record": {
+            "win": 8,
+            "loss": 6,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2604,
+            "date": 1732742187,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2626,
+            "date": 1720897313,
+            "game": "https://www.chess.com/game/live/121381267193"
+        },
+        "record": {
+            "win": 420,
+            "loss": 420,
+            "draw": 71
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3022,
+            "date": 1723930238
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1720011514
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6505719.5bf9ded0.200x200o.39f4d0f1ad17.jpeg",
+    "player_id": 6505719,
+    "@id": "https://api.chess.com/pub/player/heimmc",
+    "url": "https://www.chess.com/member/heimmc",
+    "name": "Heizel Morera Campos",
+    "username": "heimmc",
+    "title": "WIM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/CR",
+    "last_online": 1741702810,
+    "joined": 1326689357,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1322,
+            "date": 1741701169,
+            "rd": 179
+        },
+        "best": {
+            "rating": 1322,
+            "date": 1740457990,
+            "game": "https://www.chess.com/game/daily/361230391"
+        },
+        "record": {
+            "win": 10,
+            "loss": 5,
+            "draw": 1,
+            "time_per_move": 49716,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 715,
+            "date": 1736566323,
+            "rd": 207
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1326689357,
+            "game": "https://www.chess.com/game/daily/754272981"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 49716,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1340,
+            "date": 1740185942,
+            "rd": 123
+        },
+        "best": {
+            "rating": 1400,
+            "date": 1736578639,
+            "game": "https://www.chess.com/game/live/5629452750"
+        },
+        "record": {
+            "win": 12,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1546,
+            "date": 1741660236,
+            "rd": 51
+        },
+        "best": {
+            "rating": 1673,
+            "date": 1732187824,
+            "game": "https://www.chess.com/game/live/130664995277"
+        },
+        "record": {
+            "win": 72,
+            "loss": 62,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1861,
+            "date": 1740632761,
+            "rd": 79
+        },
+        "best": {
+            "rating": 1910,
+            "date": 1737480746,
+            "game": "https://www.chess.com/game/live/5622295315"
+        },
+        "record": {
+            "win": 86,
+            "loss": 147,
+            "draw": 8
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2675,
+            "date": 1737146003
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1633378951
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 34,
+            "score": 32
+        }
+    }
+}

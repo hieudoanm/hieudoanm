@@ -1,0 +1,103 @@
+{
+    "player_id": 10735714,
+    "@id": "https://api.chess.com/pub/player/azumi_214",
+    "url": "https://www.chess.com/member/azumi_214",
+    "name": "Azumi Sakai",
+    "username": "azumi_214",
+    "title": "WCM",
+    "followers": 137,
+    "country": "https://api.chess.com/pub/country/JP",
+    "last_online": 1740832875,
+    "joined": 1360281822,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1934,
+            "date": 1728052249,
+            "rd": 197
+        },
+        "best": {
+            "rating": 1952,
+            "date": 1546846648,
+            "game": "https://www.chess.com/game/daily/210672496"
+        },
+        "record": {
+            "win": 42,
+            "loss": 4,
+            "draw": 4,
+            "time_per_move": 11451,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1945,
+            "date": 1739705732,
+            "rd": 105
+        },
+        "best": {
+            "rating": 1945,
+            "date": 1717228762,
+            "game": "https://www.chess.com/game/live/110967083327"
+        },
+        "record": {
+            "win": 61,
+            "loss": 61,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1555,
+            "date": 1739610557,
+            "rd": 39
+        },
+        "best": {
+            "rating": 1805,
+            "date": 1574601877,
+            "game": "https://www.chess.com/game/live/99635515315"
+        },
+        "record": {
+            "win": 12535,
+            "loss": 12165,
+            "draw": 920
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1806,
+            "date": 1740834842,
+            "rd": 39
+        },
+        "best": {
+            "rating": 1894,
+            "date": 1739713755,
+            "game": "https://www.chess.com/game/live/67096895185"
+        },
+        "record": {
+            "win": 3649,
+            "loss": 3191,
+            "draw": 285
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3128,
+            "date": 1713881170
+        },
+        "lowest": {
+            "rating": 1138,
+            "date": 1369863870
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

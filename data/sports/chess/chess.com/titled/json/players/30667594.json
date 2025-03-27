@@ -1,0 +1,84 @@
+{
+    "player_id": 30667594,
+    "@id": "https://api.chess.com/pub/player/gm_donatello",
+    "url": "https://www.chess.com/member/GM_Donatello",
+    "name": "Jure Borisek",
+    "username": "gm_donatello",
+    "title": "GM",
+    "followers": 180,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1734121454,
+    "joined": 1477853709,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2455,
+            "date": 1631193288,
+            "rd": 103
+        },
+        "best": {
+            "rating": 2626,
+            "date": 1597408656,
+            "game": "https://www.chess.com/game/live/24502940333"
+        },
+        "record": {
+            "win": 8,
+            "loss": 5,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2721,
+            "date": 1721754022,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2884,
+            "date": 1609258808,
+            "game": "https://www.chess.com/game/live/49400445409"
+        },
+        "record": {
+            "win": 253,
+            "loss": 265,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2604,
+            "date": 1728804821,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2890,
+            "date": 1719320952,
+            "game": "https://www.chess.com/game/live/67985587627"
+        },
+        "record": {
+            "win": 4526,
+            "loss": 4698,
+            "draw": 979
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3615,
+            "date": 1716446928
+        },
+        "lowest": {
+            "rating": 2218,
+            "date": 1546638636
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

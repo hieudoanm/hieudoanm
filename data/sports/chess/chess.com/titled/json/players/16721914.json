@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16721914.8898dfe1.200x200o.7089eafea89e.jpg",
+    "player_id": 16721914,
+    "@id": "https://api.chess.com/pub/player/ankitgajwa",
+    "url": "https://www.chess.com/member/AnkitGajwa",
+    "name": "Ankit Gajwa",
+    "username": "ankitgajwa",
+    "title": "FM",
+    "followers": 370,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Bengaluru",
+    "last_online": 1741667229,
+    "joined": 1396436552,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 898,
+            "date": 1727890602,
+            "rd": 274
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1396436552,
+            "game": "https://www.chess.com/game/daily/214530370"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 218766,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2149,
+            "date": 1727722072,
+            "rd": 50
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1684164110,
+            "game": "https://www.chess.com/game/live/54769006643"
+        },
+        "record": {
+            "win": 27,
+            "loss": 5,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2345,
+            "date": 1740573729,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2586,
+            "date": 1647082113,
+            "game": "https://www.chess.com/game/live/124911029123"
+        },
+        "record": {
+            "win": 749,
+            "loss": 598,
+            "draw": 48
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2645,
+            "date": 1741695957,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2738,
+            "date": 1728419750,
+            "game": "https://www.chess.com/game/live/125166618573"
+        },
+        "record": {
+            "win": 2484,
+            "loss": 2065,
+            "draw": 291
+        }
+    },
+    "fide": 2335,
+    "tactics": {
+        "highest": {
+            "rating": 3305,
+            "date": 1544742080
+        },
+        "lowest": {
+            "rating": 1341,
+            "date": 1467648249
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

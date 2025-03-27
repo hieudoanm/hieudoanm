@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33655425.3ececef0.200x200o.e7fee47569cb.jpeg",
+    "player_id": 33655425,
+    "@id": "https://api.chess.com/pub/player/caissaekv",
+    "url": "https://www.chess.com/member/caissaekv",
+    "name": "Victor Patrick Ebosse Kingue",
+    "username": "caissaekv",
+    "title": "FM",
+    "followers": 34,
+    "country": "https://api.chess.com/pub/country/CM",
+    "location": "douala",
+    "last_online": 1740330005,
+    "joined": 1488548044,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1800,
+            "date": 1702026389,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 39,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2229,
+            "date": 1715194124,
+            "rd": 152
+        },
+        "best": {
+            "rating": 2229,
+            "date": 1702027149,
+            "game": "https://www.chess.com/game/live/23296888499"
+        },
+        "record": {
+            "win": 23,
+            "loss": 12,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2167,
+            "date": 1713343641,
+            "rd": 164
+        },
+        "best": {
+            "rating": 2296,
+            "date": 1662655549,
+            "game": "https://www.chess.com/game/live/61588768613"
+        },
+        "record": {
+            "win": 6,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1987,
+            "date": 1714500345,
+            "rd": 129
+        },
+        "best": {
+            "rating": 2096,
+            "date": 1595364775,
+            "game": "https://www.chess.com/game/live/5184499430"
+        },
+        "record": {
+            "win": 343,
+            "loss": 283,
+            "draw": 17
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3469,
+            "date": 1722441914
+        },
+        "lowest": {
+            "rating": 1218,
+            "date": 1589842097
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

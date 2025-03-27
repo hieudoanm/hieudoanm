@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13788216.5852fd6a.200x200o.5a675ce4de1e.jpeg",
+    "player_id": 13788216,
+    "@id": "https://api.chess.com/pub/player/bandobras",
+    "url": "https://www.chess.com/member/Bandobras",
+    "name": "Gert Schnider",
+    "username": "bandobras",
+    "title": "IM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/AT",
+    "location": "Graz",
+    "last_online": 1740986746,
+    "joined": 1381006688,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2394,
+            "date": 1700261207,
+            "rd": 200
+        },
+        "best": {
+            "rating": 2394,
+            "date": 1700261207,
+            "game": "https://www.chess.com/game/live/803033997"
+        },
+        "record": {
+            "win": 54,
+            "loss": 19,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2596,
+            "date": 1717622771,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2693,
+            "date": 1700321999,
+            "game": "https://www.chess.com/game/live/94060908255"
+        },
+        "record": {
+            "win": 76,
+            "loss": 21,
+            "draw": 3
+        }
+    },
+    "fide": 2426,
+    "tactics": {
+        "highest": {
+            "rating": 2430,
+            "date": 1562653785
+        },
+        "lowest": {
+            "rating": 1360,
+            "date": 1381006789
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 44,
+            "score": 41
+        }
+    }
+}

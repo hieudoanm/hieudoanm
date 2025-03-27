@@ -1,0 +1,122 @@
+{
+    "player_id": 38353292,
+    "@id": "https://api.chess.com/pub/player/barbara25",
+    "url": "https://www.chess.com/member/barbara25",
+    "name": "Barbara Skuhala",
+    "username": "barbara25",
+    "title": "WFM",
+    "followers": 1074,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1741693975,
+    "joined": 1504472232,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1734,
+            "date": 1741632790,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2007,
+            "date": 1605955285,
+            "game": "https://www.chess.com/game/daily/253951768"
+        },
+        "record": {
+            "win": 1421,
+            "loss": 458,
+            "draw": 205,
+            "time_per_move": 29523,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1448,
+            "date": 1596280447,
+            "rd": 165
+        },
+        "best": {
+            "rating": 1448,
+            "date": 1596280447,
+            "game": "https://www.chess.com/game/daily/242675754"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 29523,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2142,
+            "date": 1701363784,
+            "rd": 110
+        },
+        "best": {
+            "rating": 2142,
+            "date": 1701363784,
+            "game": "https://www.chess.com/game/live/17174526803"
+        },
+        "record": {
+            "win": 91,
+            "loss": 41,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2236,
+            "date": 1741644135,
+            "rd": 52
+        },
+        "best": {
+            "rating": 2312,
+            "date": 1600018069,
+            "game": "https://www.chess.com/game/live/104949034547"
+        },
+        "record": {
+            "win": 1536,
+            "loss": 837,
+            "draw": 103
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2338,
+            "date": 1741628937,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2555,
+            "date": 1658475519,
+            "game": "https://www.chess.com/game/live/68924847185"
+        },
+        "record": {
+            "win": 5364,
+            "loss": 4855,
+            "draw": 826
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3043,
+            "date": 1736699105
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1504811194
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

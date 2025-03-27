@@ -1,0 +1,85 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/153409571.de84ac5f.200x200o.8935a5332b2c.jpeg",
+    "player_id": 153409571,
+    "@id": "https://api.chess.com/pub/player/tigrito_1",
+    "url": "https://www.chess.com/member/Tigrito_1",
+    "name": "Tigrito",
+    "username": "tigrito_1",
+    "title": "CM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/MX",
+    "last_online": 1741646860,
+    "joined": 1630705925,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2362,
+            "date": 1737265738,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2362,
+            "date": 1651351970,
+            "game": "https://www.chess.com/game/live/32545272663"
+        },
+        "record": {
+            "win": 26,
+            "loss": 7,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2243,
+            "date": 1739169551,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2293,
+            "date": 1651353939,
+            "game": "https://www.chess.com/game/live/45092956451"
+        },
+        "record": {
+            "win": 17,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2524,
+            "date": 1741671591,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2525,
+            "date": 1730922246,
+            "game": "https://www.chess.com/game/live/125740135237"
+        },
+        "record": {
+            "win": 614,
+            "loss": 464,
+            "draw": 49
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2381,
+            "date": 1734616950
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1630720813
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 36,
+            "score": 34
+        }
+    }
+}

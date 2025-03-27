@@ -1,0 +1,124 @@
+{
+    "player_id": 22778078,
+    "@id": "https://api.chess.com/pub/player/denizseyhanoglu1",
+    "url": "https://www.chess.com/member/DenizSeyhanoglu1",
+    "name": "Deniz Seyhano\u011flu",
+    "username": "denizseyhanoglu1",
+    "title": "NM",
+    "followers": 157,
+    "country": "https://api.chess.com/pub/country/TR",
+    "location": "\u0130stanbul",
+    "last_online": 1741384657,
+    "joined": 1434028969,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1734,
+            "date": 1717748913,
+            "rd": 114
+        },
+        "best": {
+            "rating": 1734,
+            "date": 1686191918,
+            "game": "https://www.chess.com/game/daily/238088094"
+        },
+        "record": {
+            "win": 61,
+            "loss": 10,
+            "draw": 2,
+            "time_per_move": 82395,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1077,
+            "date": 1590580202,
+            "rd": 311
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1434028969,
+            "game": "https://www.chess.com/game/daily/262803288"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 82395,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2021,
+            "date": 1736688286,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1736688286,
+            "game": "https://www.chess.com/game/live/129839432843"
+        },
+        "record": {
+            "win": 35,
+            "loss": 6,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2398,
+            "date": 1615896605,
+            "rd": 107
+        },
+        "best": {
+            "rating": 2398,
+            "date": 1615896605,
+            "game": "https://www.chess.com/game/live/4427552446"
+        },
+        "record": {
+            "win": 187,
+            "loss": 132,
+            "draw": 24
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2329,
+            "date": 1740600835,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1736881381,
+            "game": "https://www.chess.com/game/live/83454337811"
+        },
+        "record": {
+            "win": 6682,
+            "loss": 5593,
+            "draw": 847
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3303,
+            "date": 1681901015
+        },
+        "lowest": {
+            "rating": 1201,
+            "date": 1434029751
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

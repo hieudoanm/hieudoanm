@@ -1,0 +1,105 @@
+{
+    "player_id": 89455550,
+    "@id": "https://api.chess.com/pub/player/yitongjianghu",
+    "url": "https://www.chess.com/member/yitongjianghu",
+    "name": "Tariq Yue",
+    "username": "yitongjianghu",
+    "title": "CM",
+    "followers": 62,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "in a mountain in wyoming",
+    "last_online": 1741205049,
+    "joined": 1597928603,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1280,
+            "date": 1738248591,
+            "rd": 300
+        },
+        "best": {
+            "rating": 1280,
+            "date": 1728693519,
+            "game": "https://www.chess.com/game/daily/687812769"
+        },
+        "record": {
+            "win": 7,
+            "loss": 17,
+            "draw": 0,
+            "time_per_move": 32446,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2004,
+            "date": 1691503903,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2004,
+            "date": 1691503903,
+            "game": "https://www.chess.com/game/live/70839091105"
+        },
+        "record": {
+            "win": 354,
+            "loss": 222,
+            "draw": 40
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2364,
+            "date": 1740010079,
+            "rd": 87
+        },
+        "best": {
+            "rating": 2380,
+            "date": 1718317798,
+            "game": "https://www.chess.com/game/live/112050733889"
+        },
+        "record": {
+            "win": 150,
+            "loss": 85,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2439,
+            "date": 1741133085,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2442,
+            "date": 1741132337,
+            "game": "https://www.chess.com/game/live/133049970997"
+        },
+        "record": {
+            "win": 405,
+            "loss": 251,
+            "draw": 38
+        }
+    },
+    "fide": 2003,
+    "tactics": {
+        "highest": {
+            "rating": 3400,
+            "date": 1723812853
+        },
+        "lowest": {
+            "rating": 816,
+            "date": 1597929761
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

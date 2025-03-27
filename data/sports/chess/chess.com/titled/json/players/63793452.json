@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/63793452.37e5ce0d.200x200o.ac940b9e627a.jpeg",
+    "player_id": 63793452,
+    "@id": "https://api.chess.com/pub/player/thebeast2900",
+    "url": "https://www.chess.com/member/thebeast2900",
+    "name": "Ori Yaniv",
+    "username": "thebeast2900",
+    "title": "CM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/UY",
+    "last_online": 1741604672,
+    "joined": 1564475598,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2266,
+            "date": 1721331724,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2266,
+            "date": 1673005574,
+            "game": "https://www.chess.com/game/live/66744577995"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2240,
+            "date": 1740566643,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2287,
+            "date": 1712389703,
+            "game": "https://www.chess.com/game/live/129814738389"
+        },
+        "record": {
+            "win": 106,
+            "loss": 113,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2377,
+            "date": 1741619514,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2457,
+            "date": 1736685687,
+            "game": "https://www.chess.com/game/live/93868205173"
+        },
+        "record": {
+            "win": 2132,
+            "loss": 2600,
+            "draw": 286
+        }
+    },
+    "fide": 2117,
+    "tactics": {
+        "highest": {
+            "rating": 3378,
+            "date": 1711010507
+        },
+        "lowest": {
+            "rating": 1212,
+            "date": 1564478569
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

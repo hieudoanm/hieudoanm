@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/251386067.a45b21a7.200x200o.222ca3d22062.jpg",
+    "player_id": 251386067,
+    "@id": "https://api.chess.com/pub/player/gmshoti",
+    "url": "https://www.chess.com/member/GMShoti",
+    "name": "J\u00f3zsef M\u00e1ty\u00e1s Herpai",
+    "username": "gmshoti",
+    "title": "CM",
+    "followers": 144,
+    "country": "https://api.chess.com/pub/country/HU",
+    "last_online": 1741647068,
+    "joined": 1677153509,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1705061584,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 106,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2323,
+            "date": 1732187862,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2359,
+            "date": 1726845586,
+            "game": "https://www.chess.com/game/live/99702089435"
+        },
+        "record": {
+            "win": 9,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2381,
+            "date": 1740855600,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2525,
+            "date": 1731777812,
+            "game": "https://www.chess.com/game/live/132774616859"
+        },
+        "record": {
+            "win": 366,
+            "loss": 589,
+            "draw": 97
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2485,
+            "date": 1741633814,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1741106209,
+            "game": "https://www.chess.com/game/live/125168967497"
+        },
+        "record": {
+            "win": 1521,
+            "loss": 1523,
+            "draw": 341
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3223,
+            "date": 1735045771
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1677153509
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

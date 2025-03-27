@@ -1,0 +1,104 @@
+{
+    "player_id": 35775988,
+    "@id": "https://api.chess.com/pub/player/tkbecrux",
+    "url": "https://www.chess.com/member/tkbecrux",
+    "name": "Tomas Karlsson",
+    "username": "tkbecrux",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/SE",
+    "location": "Stockholm",
+    "last_online": 1740916884,
+    "joined": 1495631962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1844,
+            "date": 1561146169,
+            "rd": 303
+        },
+        "best": {
+            "rating": 1844,
+            "date": 1517321099,
+            "game": "https://www.chess.com/game/daily/185792136"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 1189,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2373,
+            "date": 1703082221,
+            "rd": 319
+        },
+        "best": {
+            "rating": 2373,
+            "date": 1703082221,
+            "game": "https://www.chess.com/game/live/96820894783"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2132,
+            "date": 1738862174,
+            "rd": 84
+        },
+        "best": {
+            "rating": 2322,
+            "date": 1562960527,
+            "game": "https://www.chess.com/game/live/94931996339"
+        },
+        "record": {
+            "win": 2113,
+            "loss": 1405,
+            "draw": 185
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2318,
+            "date": 1738109041,
+            "rd": 80
+        },
+        "best": {
+            "rating": 2420,
+            "date": 1612778424,
+            "game": "https://www.chess.com/game/live/84153053221"
+        },
+        "record": {
+            "win": 3075,
+            "loss": 2433,
+            "draw": 568
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3424,
+            "date": 1735421089
+        },
+        "lowest": {
+            "rating": 1207,
+            "date": 1495632008
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

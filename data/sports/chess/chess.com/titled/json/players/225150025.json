@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/225150025.650d200b.200x200o.65bf5541ede4.jpg",
+    "player_id": 225150025,
+    "@id": "https://api.chess.com/pub/player/ayellowlemon7",
+    "url": "https://www.chess.com/member/ayellowlemon7",
+    "name": "Jacob D Yoon",
+    "username": "ayellowlemon7",
+    "title": "CM",
+    "followers": 29,
+    "country": "https://api.chess.com/pub/country/NU",
+    "last_online": 1741366327,
+    "joined": 1673653534,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1740,
+            "date": 1738444770,
+            "rd": 235
+        },
+        "best": {
+            "rating": 1740,
+            "date": 1723747149,
+            "game": "https://www.chess.com/game/daily/667120189"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 79957,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2331,
+            "date": 1726087223,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2475,
+            "date": 1674499959,
+            "game": "https://www.chess.com/game/live/68237792119"
+        },
+        "record": {
+            "win": 11,
+            "loss": 13,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2403,
+            "date": 1739103272,
+            "rd": 63
+        },
+        "best": {
+            "rating": 2576,
+            "date": 1717692481,
+            "game": "https://www.chess.com/game/live/68330759673"
+        },
+        "record": {
+            "win": 555,
+            "loss": 503,
+            "draw": 56
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2384,
+            "date": 1741276149,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2503,
+            "date": 1718455307,
+            "game": "https://www.chess.com/game/live/112726820045"
+        },
+        "record": {
+            "win": 561,
+            "loss": 517,
+            "draw": 65
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3347,
+            "date": 1732812161
+        },
+        "lowest": {
+            "rating": 1009,
+            "date": 1674405922
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 41
+        }
+    }
+}

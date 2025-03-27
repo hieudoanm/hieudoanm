@@ -1,0 +1,80 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/151100547.414ba905.200x200o.2e004e119a96.jpg",
+    "player_id": 151100547,
+    "@id": "https://api.chess.com/pub/player/paranoyak",
+    "url": "https://www.chess.com/member/paranoyak",
+    "name": "Can Haktan Unat",
+    "username": "paranoyak",
+    "title": "FM",
+    "followers": 47,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741541013,
+    "joined": 1628943015,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2121,
+            "date": 1690485898,
+            "rd": 116
+        },
+        "best": {
+            "rating": 2275,
+            "date": 1645740256,
+            "game": "https://www.chess.com/game/live/39557354951"
+        },
+        "record": {
+            "win": 277,
+            "loss": 45,
+            "draw": 20
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2736,
+            "date": 1728335462,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2843,
+            "date": 1660252058,
+            "game": "https://www.chess.com/game/live/84395418911"
+        },
+        "record": {
+            "win": 131,
+            "loss": 53,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2544,
+            "date": 1728232258,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2604,
+            "date": 1691342023,
+            "game": "https://www.chess.com/game/live/70055812871"
+        },
+        "record": {
+            "win": 186,
+            "loss": 58,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1628943015
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1628943015
+        }
+    },
+    "puzzle_rush": {}
+}

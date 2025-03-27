@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1893621.7f5f4e63.200x200o.93d55b5c69c5.jpeg",
+    "player_id": 1893621,
+    "@id": "https://api.chess.com/pub/player/vuka65",
+    "url": "https://www.chess.com/member/Vuka65",
+    "name": "Goran Ivankovic",
+    "username": "vuka65",
+    "title": "FM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/CA",
+    "location": "Vancouver",
+    "last_online": 1732661480,
+    "joined": 1240886505,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2019,
+            "date": 1267675332,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1267478809,
+            "game": "https://www.chess.com/game/daily/30570310"
+        },
+        "record": {
+            "win": 119,
+            "loss": 30,
+            "draw": 23,
+            "time_per_move": 8287,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1321,
+            "date": 1248775772,
+            "rd": 142
+        },
+        "best": {
+            "rating": 1606,
+            "date": 1246819416,
+            "game": "https://www.chess.com/game/daily/23182182"
+        },
+        "record": {
+            "win": 13,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 8287,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1792,
+            "date": 1732663408,
+            "rd": 88
+        },
+        "best": {
+            "rating": 1840,
+            "date": 1732605296,
+            "game": "https://www.chess.com/game/live/126343145411"
+        },
+        "record": {
+            "win": 15,
+            "loss": 5,
+            "draw": 3
+        }
+    },
+    "fide": 2257,
+    "tactics": {
+        "highest": {
+            "rating": 1929,
+            "date": 1257043062
+        },
+        "lowest": {
+            "rating": 1298,
+            "date": 1257042303
+        }
+    },
+    "puzzle_rush": {}
+}

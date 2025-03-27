@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19750096.0e2b5818.200x200o.5569d29ab074.jpeg",
+    "player_id": 19750096,
+    "@id": "https://api.chess.com/pub/player/fablibi",
+    "url": "https://www.chess.com/member/Fablibi",
+    "name": "Fabien Libiszewski",
+    "username": "fablibi",
+    "title": "GM",
+    "followers": 2916,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Saint-Etienne",
+    "last_online": 1734028875,
+    "joined": 1416154220,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2142,
+            "date": 1654072109,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2142,
+            "date": 1622479462,
+            "game": "https://www.chess.com/game/daily/101560384"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 4600,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2438,
+            "date": 1697434747,
+            "rd": 289
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1484252247,
+            "game": "https://www.chess.com/game/live/2095851630"
+        },
+        "record": {
+            "win": 32,
+            "loss": 3,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2692,
+            "date": 1733945550,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2757,
+            "date": 1618233651,
+            "game": "https://www.chess.com/game/live/12560203543"
+        },
+        "record": {
+            "win": 1916,
+            "loss": 967,
+            "draw": 184
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2753,
+            "date": 1733943746,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2827,
+            "date": 1656095796,
+            "game": "https://www.chess.com/game/live/10863994465"
+        },
+        "record": {
+            "win": 2113,
+            "loss": 1140,
+            "draw": 310
+        }
+    },
+    "fide": 2531,
+    "tactics": {
+        "highest": {
+            "rating": 3424,
+            "date": 1731953275
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1416212039
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

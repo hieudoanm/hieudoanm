@@ -1,0 +1,85 @@
+{
+    "player_id": 59812294,
+    "@id": "https://api.chess.com/pub/player/regenda",
+    "url": "https://www.chess.com/member/regenda",
+    "name": "Roman Hros",
+    "username": "regenda",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/SK",
+    "last_online": 1739712967,
+    "joined": 1555251887,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2204,
+            "date": 1739713515,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2206,
+            "date": 1709409571,
+            "game": "https://www.chess.com/game/live/133451954501"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2051,
+            "date": 1711135143,
+            "rd": 109
+        },
+        "best": {
+            "rating": 2131,
+            "date": 1710330981,
+            "game": "https://www.chess.com/game/live/104069432757"
+        },
+        "record": {
+            "win": 5,
+            "loss": 5,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2217,
+            "date": 1717960653,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2292,
+            "date": 1708531435,
+            "game": "https://www.chess.com/game/live/102788519303"
+        },
+        "record": {
+            "win": 75,
+            "loss": 54,
+            "draw": 10
+        }
+    },
+    "fide": 2310,
+    "tactics": {
+        "highest": {
+            "rating": 3013,
+            "date": 1674060667
+        },
+        "lowest": {
+            "rating": 818,
+            "date": 1555251938
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

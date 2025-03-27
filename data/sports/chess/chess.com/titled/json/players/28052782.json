@@ -1,0 +1,35 @@
+{
+    "player_id": 28052782,
+    "@id": "https://api.chess.com/pub/player/mmilasin",
+    "url": "https://www.chess.com/member/mmilasin",
+    "name": "Miljenko Mila\u0161in",
+    "username": "mmilasin",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/HR",
+    "location": "Zagreb",
+    "last_online": 1662792517,
+    "joined": 1462443414,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "fide": 2310,
+    "tactics": {
+        "highest": {
+            "rating": 2942,
+            "date": 1659306232
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1655928071
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

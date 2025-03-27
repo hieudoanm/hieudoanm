@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25487812.9eadd0b5.200x200o.8a7c628df6a8.jpeg",
+    "player_id": 25487812,
+    "@id": "https://api.chess.com/pub/player/alexander_moskalenko",
+    "url": "https://www.chess.com/member/Alexander_Moskalenko",
+    "name": "Alexander Moskalenko",
+    "username": "alexander_moskalenko",
+    "title": "GM",
+    "followers": 1125,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1734183369,
+    "joined": 1449680458,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1973,
+            "date": 1734125936,
+            "rd": 131
+        },
+        "best": {
+            "rating": 2077,
+            "date": 1476296042,
+            "game": "https://www.chess.com/game/daily/140411286"
+        },
+        "record": {
+            "win": 28,
+            "loss": 10,
+            "draw": 3,
+            "time_per_move": 69078,
+            "timeout_percent": 100
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2435,
+            "date": 1652547826,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1652544842,
+            "game": "https://www.chess.com/game/live/46282835111"
+        },
+        "record": {
+            "win": 14,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2670,
+            "date": 1689095775,
+            "rd": 146
+        },
+        "best": {
+            "rating": 2911,
+            "date": 1635125949,
+            "game": "https://www.chess.com/game/live/3194816720"
+        },
+        "record": {
+            "win": 543,
+            "loss": 554,
+            "draw": 108
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2886,
+            "date": 1734134233,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2968,
+            "date": 1585754332,
+            "game": "https://www.chess.com/game/live/3545450734"
+        },
+        "record": {
+            "win": 2989,
+            "loss": 2364,
+            "draw": 1015
+        }
+    },
+    "fide": 2508,
+    "tactics": {
+        "highest": {
+            "rating": 3361,
+            "date": 1705331630
+        },
+        "lowest": {
+            "rating": 2001,
+            "date": 1464247041
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

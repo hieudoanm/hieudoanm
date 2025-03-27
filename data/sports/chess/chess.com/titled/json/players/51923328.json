@@ -1,0 +1,100 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51923328.74c38eb6.200x200o.2dca8aad583e.jpeg",
+    "player_id": 51923328,
+    "@id": "https://api.chess.com/pub/player/nakedorange",
+    "url": "https://www.chess.com/member/NakedOrange",
+    "name": "Khalil Bukhalaf",
+    "username": "nakedorange",
+    "title": "FM",
+    "followers": 102,
+    "country": "https://api.chess.com/pub/country/BH",
+    "location": "BahrainBahrain",
+    "last_online": 1739788834,
+    "joined": 1542368753,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2003,
+            "date": 1728278084,
+            "rd": 215
+        },
+        "best": {
+            "rating": 2019,
+            "date": 1689049034,
+            "game": "https://www.chess.com/game/daily/659933283"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 54253,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1995,
+            "date": 1686933340,
+            "rd": 127
+        },
+        "best": {
+            "rating": 1995,
+            "date": 1682161251,
+            "game": "https://www.chess.com/game/live/75899382025"
+        },
+        "record": {
+            "win": 7,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2004,
+            "date": 1741701370,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2238,
+            "date": 1605421364,
+            "game": "https://www.chess.com/game/live/80465970865"
+        },
+        "record": {
+            "win": 2445,
+            "loss": 2479,
+            "draw": 283
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2000,
+            "date": 1707454475,
+            "rd": 112
+        },
+        "best": {
+            "rating": 2097,
+            "date": 1595140907,
+            "game": "https://www.chess.com/game/live/75387011305"
+        },
+        "record": {
+            "win": 46,
+            "loss": 45,
+            "draw": 8
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2015,
+            "date": 1725112820
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1542368753
+        }
+    },
+    "puzzle_rush": {}
+}

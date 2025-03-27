@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52033222.3513ec94.200x200o.1b6823bb16dd.jpg",
+    "player_id": 52033222,
+    "@id": "https://api.chess.com/pub/player/priyansh_2011",
+    "url": "https://www.chess.com/member/Priyansh_2011",
+    "name": "Priyansh Garg",
+    "username": "priyansh_2011",
+    "title": "NM",
+    "followers": 166,
+    "country": "https://api.chess.com/pub/country/KP",
+    "location": "notapersonfromjupiter#0",
+    "last_online": 1741540818,
+    "joined": 1542574443,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1443,
+            "date": 1741301267,
+            "rd": 67
+        },
+        "best": {
+            "rating": 1512,
+            "date": 1588659408,
+            "game": "https://www.chess.com/game/daily/533130471"
+        },
+        "record": {
+            "win": 85,
+            "loss": 170,
+            "draw": 1,
+            "time_per_move": 33212,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2248,
+            "date": 1739986224,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1691219097,
+            "game": "https://www.chess.com/game/live/49581523769"
+        },
+        "record": {
+            "win": 2546,
+            "loss": 2682,
+            "draw": 413
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2461,
+            "date": 1741301033,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2480,
+            "date": 1739037477,
+            "game": "https://www.chess.com/game/live/119464244585"
+        },
+        "record": {
+            "win": 2636,
+            "loss": 2816,
+            "draw": 337
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2377,
+            "date": 1740341014,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1739919996,
+            "game": "https://www.chess.com/game/live/130632068407"
+        },
+        "record": {
+            "win": 1547,
+            "loss": 1500,
+            "draw": 168
+        }
+    },
+    "fide": 2037,
+    "tactics": {
+        "highest": {
+            "rating": 2398,
+            "date": 1711846905
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1670191383
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

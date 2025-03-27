@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31605902.cdbaae0c.200x200o.4514cc2fb2e9.jpeg",
+    "player_id": 31605902,
+    "@id": "https://api.chess.com/pub/player/sayspade4vip",
+    "url": "https://www.chess.com/member/SaySpade4VIP",
+    "name": "Spade",
+    "username": "sayspade4vip",
+    "title": "IM",
+    "followers": 27,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1735089100,
+    "joined": 1481692717,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2679,
+            "date": 1686816493,
+            "rd": 153
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1642149994,
+            "game": "https://www.chess.com/game/live/6007971662"
+        },
+        "record": {
+            "win": 732,
+            "loss": 478,
+            "draw": 57
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2605,
+            "date": 1735098818,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2820,
+            "date": 1681626499,
+            "game": "https://www.chess.com/game/live/76919496321"
+        },
+        "record": {
+            "win": 2698,
+            "loss": 2070,
+            "draw": 350
+        }
+    },
+    "fide": 2450,
+    "tactics": {
+        "highest": {
+            "rating": 2894,
+            "date": 1584643340
+        },
+        "lowest": {
+            "rating": 2001,
+            "date": 1489526340
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

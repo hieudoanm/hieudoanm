@@ -1,0 +1,68 @@
+{
+    "player_id": 374512633,
+    "@id": "https://api.chess.com/pub/player/santirayo2009",
+    "url": "https://www.chess.com/member/Santirayo2009",
+    "name": "Santiago Lopez Rayo",
+    "username": "santirayo2009",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1741641729,
+    "joined": 1720583536,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2771,
+            "date": 1741647085,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2787,
+            "date": 1741209300,
+            "game": "https://www.chess.com/game/live/133316956899"
+        },
+        "record": {
+            "win": 995,
+            "loss": 850,
+            "draw": 80
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2551,
+            "date": 1741195564,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2560,
+            "date": 1741194843,
+            "game": "https://www.chess.com/game/live/134933351849"
+        },
+        "record": {
+            "win": 34,
+            "loss": 18,
+            "draw": 7
+        }
+    },
+    "fide": 2247,
+    "tactics": {
+        "highest": {
+            "rating": 1043,
+            "date": 1727228083
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1720583536
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32342410.042ccb94.200x200o.6a75d7763acd.jpeg",
+    "player_id": 32342410,
+    "@id": "https://api.chess.com/pub/player/artem_koval",
+    "url": "https://www.chess.com/member/Artem_Koval",
+    "name": "Artem Koval",
+    "username": "artem_koval",
+    "title": "FM",
+    "followers": 75,
+    "country": "https://api.chess.com/pub/country/UA",
+    "location": "Kryviy Rih, Kyiv",
+    "last_online": 1741700179,
+    "joined": 1484253256,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess960_daily": {
+        "last": {
+            "rating": 1133,
+            "date": 1508837404,
+            "rd": 282
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 58990,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2022,
+            "date": 1738532650,
+            "rd": 142
+        },
+        "best": {
+            "rating": 2186,
+            "date": 1647021846,
+            "game": "https://www.chess.com/game/live/40244496789"
+        },
+        "record": {
+            "win": 106,
+            "loss": 29,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2698,
+            "date": 1739646000,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2709,
+            "date": 1739645245,
+            "game": "https://www.chess.com/game/live/133384150957"
+        },
+        "record": {
+            "win": 795,
+            "loss": 353,
+            "draw": 42
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2626,
+            "date": 1741107391,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2640,
+            "date": 1739900999,
+            "game": "https://www.chess.com/game/live/126379744279"
+        },
+        "record": {
+            "win": 1507,
+            "loss": 901,
+            "draw": 124
+        }
+    },
+    "fide": 2261,
+    "tactics": {
+        "highest": {
+            "rating": 2989,
+            "date": 1522662951
+        },
+        "lowest": {
+            "rating": 846,
+            "date": 1484262527
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 73,
+            "score": 70
+        }
+    }
+}

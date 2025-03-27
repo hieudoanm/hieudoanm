@@ -1,0 +1,80 @@
+{
+    "player_id": 1986825,
+    "@id": "https://api.chess.com/pub/player/tovchess",
+    "url": "https://www.chess.com/member/tovchess",
+    "name": "david adelberg",
+    "username": "tovchess",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Scottsdale",
+    "last_online": 1738195057,
+    "joined": 1245589739,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2244,
+            "date": 1738522023,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2304,
+            "date": 1695914888,
+            "game": "https://www.chess.com/game/live/89822384175"
+        },
+        "record": {
+            "win": 22,
+            "loss": 6,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1689,
+            "date": 1738522796,
+            "rd": 167
+        },
+        "best": {
+            "rating": 1716,
+            "date": 1738522284,
+            "game": "https://www.chess.com/game/live/132261607055"
+        },
+        "record": {
+            "win": 22,
+            "loss": 19,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2003,
+            "date": 1670847751,
+            "rd": 114
+        },
+        "best": {
+            "rating": 2003,
+            "date": 1670847751,
+            "game": "https://www.chess.com/game/live/449477914"
+        },
+        "record": {
+            "win": 46,
+            "loss": 30,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3283,
+            "date": 1738520229
+        },
+        "lowest": {
+            "rating": 1396,
+            "date": 1245592554
+        }
+    },
+    "puzzle_rush": {}
+}

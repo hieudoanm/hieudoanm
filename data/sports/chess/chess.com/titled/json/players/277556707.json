@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/277556707.80a3897a.200x200o.d92ee0af7d29.jpg",
+    "player_id": 277556707,
+    "@id": "https://api.chess.com/pub/player/chawitap",
+    "url": "https://www.chess.com/member/ChawitAp",
+    "name": "Chawit Asavasaetakul",
+    "username": "chawitap",
+    "title": "NM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741587170,
+    "joined": 1682049616,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1615,
+            "date": 1741426548,
+            "rd": 339
+        },
+        "best": {
+            "rating": 1615,
+            "date": 1709890507,
+            "game": "https://www.chess.com/game/daily/602590593"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 29731,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1651,
+            "date": 1692087057,
+            "rd": 205
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2187,
+            "date": 1741150218,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1684509893,
+            "game": "https://www.chess.com/game/live/129966530223"
+        },
+        "record": {
+            "win": 41,
+            "loss": 45,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2325,
+            "date": 1741322878,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2521,
+            "date": 1709247350,
+            "game": "https://www.chess.com/game/live/78302507353"
+        },
+        "record": {
+            "win": 2094,
+            "loss": 2042,
+            "draw": 294
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3048,
+            "date": 1728509802
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1682049616
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 43
+        }
+    }
+}

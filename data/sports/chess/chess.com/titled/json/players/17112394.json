@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17112394.2180493c.200x200o.a056c5345026.jpeg",
+    "player_id": 17112394,
+    "@id": "https://api.chess.com/pub/player/sephan",
+    "url": "https://www.chess.com/member/Sephan",
+    "name": "Sebastian Kaphle",
+    "username": "sephan",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/AT",
+    "location": "Wien",
+    "last_online": 1741701283,
+    "joined": 1398843861,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2146,
+            "date": 1707495219,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2168,
+            "date": 1420216404,
+            "game": "https://www.chess.com/game/live/1016205929"
+        },
+        "record": {
+            "win": 31,
+            "loss": 18,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2297,
+            "date": 1741252947,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2473,
+            "date": 1703029506,
+            "game": "https://www.chess.com/game/live/995670591"
+        },
+        "record": {
+            "win": 437,
+            "loss": 232,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2536,
+            "date": 1741253466,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1726176443,
+            "game": "https://www.chess.com/game/live/2819188212"
+        },
+        "record": {
+            "win": 1412,
+            "loss": 895,
+            "draw": 104
+        }
+    },
+    "fide": 2322,
+    "tactics": {
+        "highest": {
+            "rating": 3094,
+            "date": 1524232768
+        },
+        "lowest": {
+            "rating": 1299,
+            "date": 1404869130
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

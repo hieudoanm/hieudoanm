@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17539304.34f68217.200x200o.a150dfd88913.jpeg",
+    "player_id": 17539304,
+    "@id": "https://api.chess.com/pub/player/jslaby",
+    "url": "https://www.chess.com/member/JSlaby",
+    "name": "Jerzy Slaby",
+    "username": "jslaby",
+    "title": "IM",
+    "followers": 247,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "United Kingdom",
+    "last_online": 1741419070,
+    "joined": 1401732327,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2017,
+            "date": 1737224131,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2017,
+            "date": 1737224131,
+            "game": "https://www.chess.com/game/live/130962615403"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2592,
+            "date": 1741458943,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2787,
+            "date": 1737465699,
+            "game": "https://www.chess.com/game/live/131568020775"
+        },
+        "record": {
+            "win": 25195,
+            "loss": 24975,
+            "draw": 2103
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2683,
+            "date": 1741702978,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2812,
+            "date": 1732920845,
+            "game": "https://www.chess.com/game/live/126477572253"
+        },
+        "record": {
+            "win": 4312,
+            "loss": 4561,
+            "draw": 833
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3459,
+            "date": 1739271863
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1568850720
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

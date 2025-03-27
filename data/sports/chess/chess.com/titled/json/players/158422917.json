@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/158422917.1ba92335.200x200o.3d22c9891a45.jpeg",
+    "player_id": 158422917,
+    "@id": "https://api.chess.com/pub/player/rocket10jan",
+    "url": "https://www.chess.com/member/rocket10jan",
+    "name": "Jan Seidl",
+    "username": "rocket10jan",
+    "title": "CM",
+    "followers": 44,
+    "country": "https://api.chess.com/pub/country/CZ",
+    "last_online": 1741689354,
+    "joined": 1634564508,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1070,
+            "date": 1727795698,
+            "rd": 209
+        },
+        "best": {
+            "rating": 1070,
+            "date": 1678564641,
+            "game": "https://www.chess.com/game/daily/486985565"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 22683,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1969,
+            "date": 1741599791,
+            "rd": 158
+        },
+        "best": {
+            "rating": 1421,
+            "date": 1671470765,
+            "game": "https://www.chess.com/game/live/65195972293"
+        },
+        "record": {
+            "win": 12,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2703,
+            "date": 1723028334,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2703,
+            "date": 1723028334,
+            "game": "https://www.chess.com/game/live/110826077599"
+        },
+        "record": {
+            "win": 3664,
+            "loss": 2954,
+            "draw": 472
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2710,
+            "date": 1741259804,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2697,
+            "date": 1727514334,
+            "game": "https://www.chess.com/game/live/121031456595"
+        },
+        "record": {
+            "win": 1636,
+            "loss": 1255,
+            "draw": 293
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3543,
+            "date": 1739735476
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1647621129
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

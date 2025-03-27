@@ -1,0 +1,69 @@
+{
+    "player_id": 2922380,
+    "@id": "https://api.chess.com/pub/player/steelysteam",
+    "url": "https://www.chess.com/member/steelysteam",
+    "name": "Thomas Krause",
+    "username": "steelysteam",
+    "title": "NM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Washington DC",
+    "last_online": 1421979107,
+    "joined": 1276821497,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2500,
+            "date": 1413662274,
+            "rd": 260
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1989,
+            "date": 1421980155,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2352,
+            "date": 1295792386,
+            "game": "https://www.chess.com/game/live/90536702"
+        },
+        "record": {
+            "win": 10812,
+            "loss": 9826,
+            "draw": 328
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2000,
+            "date": 1363156046,
+            "rd": 302
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1276821497
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1276821497
+        }
+    },
+    "puzzle_rush": {}
+}

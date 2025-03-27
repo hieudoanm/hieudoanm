@@ -1,0 +1,67 @@
+{
+    "player_id": 415117679,
+    "@id": "https://api.chess.com/pub/player/ilanpi",
+    "url": "https://www.chess.com/member/ilanpi",
+    "username": "ilanpi",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1741696845,
+    "joined": 1736011112,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2260,
+            "date": 1741462547,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2122,
+            "date": 1736949377,
+            "game": "https://www.chess.com/game/live/130687271375"
+        },
+        "record": {
+            "win": 32,
+            "loss": 10,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2232,
+            "date": 1741632740,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2235,
+            "date": 1738597599,
+            "game": "https://www.chess.com/game/live/132337845309"
+        },
+        "record": {
+            "win": 368,
+            "loss": 260,
+            "draw": 46
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3204,
+            "date": 1736556849
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1736011112
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

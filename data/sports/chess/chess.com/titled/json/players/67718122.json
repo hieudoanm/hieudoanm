@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67718122.358158a7.200x200o.c95406f4fd64.jpeg",
+    "player_id": 67718122,
+    "@id": "https://api.chess.com/pub/player/nimrod_veinberg",
+    "url": "https://www.chess.com/member/Nimrod_Veinberg",
+    "name": "Nimrod Veinberg",
+    "username": "nimrod_veinberg",
+    "title": "IM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1714547293,
+    "joined": 1573230083,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1555,
+            "date": 1714556214,
+            "rd": 232
+        },
+        "best": {
+            "rating": 1800,
+            "date": 1573230083,
+            "game": "https://www.chess.com/game/daily/471727659"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 3448,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2791,
+            "date": 1700693242,
+            "rd": 349
+        },
+        "best": {
+            "rating": 2791,
+            "date": 1700693242,
+            "game": "https://www.chess.com/game/live/94431736977"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2178,
+            "date": 1694985054,
+            "rd": 118
+        },
+        "best": {
+            "rating": 2720,
+            "date": 1610898022,
+            "game": "https://www.chess.com/game/live/6262946424"
+        },
+        "record": {
+            "win": 24,
+            "loss": 24,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2836,
+            "date": 1713913710,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2873,
+            "date": 1665645931,
+            "game": "https://www.chess.com/game/live/107627032357"
+        },
+        "record": {
+            "win": 1725,
+            "loss": 1307,
+            "draw": 325
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3067,
+            "date": 1655045871
+        },
+        "lowest": {
+            "rating": 2385,
+            "date": 1653835487
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

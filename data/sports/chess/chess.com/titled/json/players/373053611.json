@@ -1,0 +1,49 @@
+{
+    "player_id": 373053611,
+    "@id": "https://api.chess.com/pub/player/the_real_jerome_genzling",
+    "url": "https://www.chess.com/member/the_real_jerome_genzling",
+    "username": "the_real_jerome_genzling",
+    "title": "NM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1741579178,
+    "joined": 1719924954,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2407,
+            "date": 1741573881,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1735419626,
+            "game": "https://www.chess.com/game/live/119125836293"
+        },
+        "record": {
+            "win": 445,
+            "loss": 308,
+            "draw": 68
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2852,
+            "date": 1738821017
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1719924954
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 33,
+            "score": 30
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9605484.9ac91dc6.200x200o.b0380f0f202c.jpg",
+    "player_id": 9605484,
+    "@id": "https://api.chess.com/pub/player/dforcen",
+    "url": "https://www.chess.com/member/dforcen",
+    "name": "Daniel Forcen Esteban",
+    "username": "dforcen",
+    "title": "GM",
+    "followers": 396,
+    "country": "https://api.chess.com/pub/country/ES",
+    "location": "Zaragoza",
+    "last_online": 1734017459,
+    "joined": 1352671199,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2559,
+            "date": 1734182787,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2565,
+            "date": 1734182602,
+            "game": "https://www.chess.com/game/live/127921160707"
+        },
+        "record": {
+            "win": 31,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2716,
+            "date": 1734137225,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2864,
+            "date": 1564236742,
+            "game": "https://www.chess.com/game/live/127519811293"
+        },
+        "record": {
+            "win": 3506,
+            "loss": 2311,
+            "draw": 443
+        }
+    },
+    "fide": 2567,
+    "tactics": {
+        "highest": {
+            "rating": 3544,
+            "date": 1645264030
+        },
+        "lowest": {
+            "rating": 1374,
+            "date": 1352671378
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

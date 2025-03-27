@@ -1,0 +1,69 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/205410373.c4a2167a.200x200o.37666d0c40fa.jpeg",
+    "player_id": 205410373,
+    "@id": "https://api.chess.com/pub/player/gradualismunleashed",
+    "url": "https://www.chess.com/member/GradualismUnleashed",
+    "name": "Theo Stijve",
+    "username": "gradualismunleashed",
+    "title": "IM",
+    "followers": 431,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1741471926,
+    "joined": 1667945434,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2496,
+            "date": 1725751902,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2735,
+            "date": 1700831272,
+            "game": "https://www.chess.com/game/live/94603757717"
+        },
+        "record": {
+            "win": 95,
+            "loss": 127,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2487,
+            "date": 1741704041,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2790,
+            "date": 1701425942,
+            "game": "https://www.chess.com/game/live/124573748827"
+        },
+        "record": {
+            "win": 5726,
+            "loss": 6873,
+            "draw": 1106
+        }
+    },
+    "fide": 2384,
+    "tactics": {
+        "highest": {
+            "rating": 3452,
+            "date": 1693149266
+        },
+        "lowest": {
+            "rating": 2372,
+            "date": 1668238077
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/113266058.0704cac4.200x200o.4ec1ad569f20.jpg",
+    "player_id": 113266058,
+    "@id": "https://api.chess.com/pub/player/nozdrachev_vladislav",
+    "url": "https://www.chess.com/member/Nozdrachev_Vladislav",
+    "name": "Vladislav Nozdrachev",
+    "username": "nozdrachev_vladislav",
+    "title": "IM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "\u0420\u043e\u0441\u0441\u0438\u044f",
+    "last_online": 1740679503,
+    "joined": 1610885775,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2192,
+            "date": 1610921820,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2192,
+            "date": 1610921820,
+            "game": "https://www.chess.com/game/live/6266484301"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2816,
+            "date": 1703915000,
+            "rd": 115
+        },
+        "best": {
+            "rating": 2908,
+            "date": 1668516426,
+            "game": "https://www.chess.com/game/live/62362287299"
+        },
+        "record": {
+            "win": 251,
+            "loss": 118,
+            "draw": 27
+        }
+    },
+    "fide": 2500,
+    "tactics": {
+        "highest": {
+            "rating": 1210,
+            "date": 1645390859
+        },
+        "lowest": {
+            "rating": 1187,
+            "date": 1631216349
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 68,
+            "score": 65
+        }
+    }
+}

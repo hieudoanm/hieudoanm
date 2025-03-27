@@ -1,0 +1,104 @@
+{
+    "player_id": 39253766,
+    "@id": "https://api.chess.com/pub/player/itay121",
+    "url": "https://www.chess.com/member/Itay121",
+    "name": "Itay Sitbon",
+    "username": "itay121",
+    "title": "NM",
+    "followers": 141,
+    "country": "https://api.chess.com/pub/country/IL",
+    "last_online": 1741626357,
+    "joined": 1507387371,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1875,
+            "date": 1719569795,
+            "rd": 69
+        },
+        "best": {
+            "rating": 1962,
+            "date": 1622049003,
+            "game": "https://www.chess.com/game/daily/334909907"
+        },
+        "record": {
+            "win": 44,
+            "loss": 42,
+            "draw": 2,
+            "time_per_move": 7295,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2260,
+            "date": 1729956582,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2294,
+            "date": 1642179458,
+            "game": "https://www.chess.com/game/live/83066122519"
+        },
+        "record": {
+            "win": 25,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2651,
+            "date": 1730150004,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2668,
+            "date": 1728150806,
+            "game": "https://www.chess.com/game/live/115233495375"
+        },
+        "record": {
+            "win": 1835,
+            "loss": 1709,
+            "draw": 254
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2673,
+            "date": 1741389514,
+            "rd": 26
+        },
+        "best": {
+            "rating": 2672,
+            "date": 1740520777,
+            "game": "https://www.chess.com/game/live/114903471297"
+        },
+        "record": {
+            "win": 1536,
+            "loss": 1209,
+            "draw": 264
+        }
+    },
+    "fide": 2202,
+    "tactics": {
+        "highest": {
+            "rating": 3653,
+            "date": 1718345775
+        },
+        "lowest": {
+            "rating": 1012,
+            "date": 1507388702
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

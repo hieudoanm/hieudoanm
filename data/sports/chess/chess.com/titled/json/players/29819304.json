@@ -1,0 +1,84 @@
+{
+    "player_id": 29819304,
+    "@id": "https://api.chess.com/pub/player/mary-sanna",
+    "url": "https://www.chess.com/member/mary-sanna",
+    "name": "Mary Kiseljova",
+    "username": "mary-sanna",
+    "title": "WFM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1740499199,
+    "joined": 1473230560,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2005,
+            "date": 1642711668,
+            "rd": 344
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1642711668,
+            "game": "https://www.chess.com/game/live/36449473005"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2100,
+            "date": 1740516302,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2151,
+            "date": 1737040543,
+            "game": "https://www.chess.com/game/live/130779073215"
+        },
+        "record": {
+            "win": 100,
+            "loss": 82,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2216,
+            "date": 1737483221,
+            "rd": 57
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1733851105,
+            "game": "https://www.chess.com/game/live/92503952829"
+        },
+        "record": {
+            "win": 976,
+            "loss": 1435,
+            "draw": 184
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3039,
+            "date": 1650712012
+        },
+        "lowest": {
+            "rating": 1347,
+            "date": 1483555908
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "player_id": 117582560,
+    "@id": "https://api.chess.com/pub/player/nevenjakupovic",
+    "url": "https://www.chess.com/member/NevenJakupovic",
+    "username": "nevenjakupovic",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/BA",
+    "last_online": 1698176490,
+    "joined": 1612181583,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1872,
+            "date": 1717606256,
+            "rd": 106
+        },
+        "best": {
+            "rating": 2079,
+            "date": 1615524602,
+            "game": "https://www.chess.com/game/daily/339160737"
+        },
+        "record": {
+            "win": 17,
+            "loss": 16,
+            "draw": 13,
+            "time_per_move": 85232,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1937,
+            "date": 1654013155,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2199,
+            "date": 1621357202,
+            "game": "https://www.chess.com/game/daily/388406743"
+        },
+        "record": {
+            "win": 14,
+            "loss": 9,
+            "draw": 5,
+            "time_per_move": 85232,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2031,
+            "date": 1668546687,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2264,
+            "date": 1615489315,
+            "game": "https://www.chess.com/game/live/32815736657"
+        },
+        "record": {
+            "win": 27,
+            "loss": 19,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2031,
+            "date": 1674284091,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2098,
+            "date": 1669916841,
+            "game": "https://www.chess.com/game/live/40589500671"
+        },
+        "record": {
+            "win": 168,
+            "loss": 92,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2204,
+            "date": 1691445194,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2272,
+            "date": 1616350375,
+            "game": "https://www.chess.com/game/live/76712504753"
+        },
+        "record": {
+            "win": 117,
+            "loss": 92,
+            "draw": 14
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1612181583
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1612181583
+        }
+    },
+    "puzzle_rush": {}
+}

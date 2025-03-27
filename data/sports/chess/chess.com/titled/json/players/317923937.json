@@ -1,0 +1,50 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/317923937.b02da868.200x200o.b42d65ac2585.jpg",
+    "player_id": 317923937,
+    "@id": "https://api.chess.com/pub/player/namiswaaaaaaaaaaaan",
+    "url": "https://www.chess.com/member/NAMISWAAAAAAAAAAAAN",
+    "username": "namiswaaaaaaaaaaaan",
+    "title": "IM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1722466917,
+    "joined": 1696687398,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2811,
+            "date": 1721237670,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2945,
+            "date": 1705357875,
+            "game": "https://www.chess.com/game/live/100932202889"
+        },
+        "record": {
+            "win": 147,
+            "loss": 90,
+            "draw": 16
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1696687398
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1696687398
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 59
+        }
+    }
+}

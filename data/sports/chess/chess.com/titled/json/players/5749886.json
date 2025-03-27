@@ -1,0 +1,127 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5749886.3b0f35f1.200x200o.454610407542.png",
+    "player_id": 5749886,
+    "@id": "https://api.chess.com/pub/player/harykane",
+    "url": "https://www.chess.com/member/HaryKane",
+    "name": "Deepak Aaron",
+    "username": "harykane",
+    "title": "NM",
+    "followers": 473,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741553077,
+    "joined": 1315426887,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2043,
+            "date": 1722068894,
+            "rd": 138
+        },
+        "best": {
+            "rating": 2181,
+            "date": 1674145436,
+            "game": "https://www.chess.com/game/daily/358968367"
+        },
+        "record": {
+            "win": 51,
+            "loss": 2,
+            "draw": 1,
+            "time_per_move": 83641,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1208,
+            "date": 1662834004,
+            "rd": 206
+        },
+        "best": {
+            "rating": 1208,
+            "date": 1560795480,
+            "game": "https://www.chess.com/game/daily/224961262"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 83641,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2171,
+            "date": 1741553994,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2169,
+            "date": 1734309227,
+            "game": "https://www.chess.com/game/live/25050100657"
+        },
+        "record": {
+            "win": 47,
+            "loss": 8,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2622,
+            "date": 1741554191,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2773,
+            "date": 1612422793,
+            "game": "https://www.chess.com/game/live/29572788379"
+        },
+        "record": {
+            "win": 3543,
+            "loss": 2745,
+            "draw": 303
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2529,
+            "date": 1739070358,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2756,
+            "date": 1578164023,
+            "game": "https://www.chess.com/game/live/118531154269"
+        },
+        "record": {
+            "win": 4418,
+            "loss": 3687,
+            "draw": 465
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3056,
+            "date": 1562775566
+        },
+        "lowest": {
+            "rating": 1287,
+            "date": 1472062369
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        },
+        "daily": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

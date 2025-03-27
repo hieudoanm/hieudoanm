@@ -1,0 +1,106 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13008192.0b54d9b0.200x200o.f58cdd490d77.jpeg",
+    "player_id": 13008192,
+    "@id": "https://api.chess.com/pub/player/sordis",
+    "url": "https://www.chess.com/member/Sordis",
+    "name": "Nicholas Gross",
+    "username": "sordis",
+    "title": "NM",
+    "followers": 369,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Arizona",
+    "last_online": 1741647271,
+    "joined": 1375578289,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2092,
+            "date": 1714044513,
+            "rd": 192
+        },
+        "best": {
+            "rating": 2092,
+            "date": 1652378032,
+            "game": "https://www.chess.com/game/daily/390159703"
+        },
+        "record": {
+            "win": 52,
+            "loss": 4,
+            "draw": 3,
+            "time_per_move": 17544,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1727986345,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2330,
+            "date": 1646621858,
+            "game": "https://www.chess.com/game/live/2132293374"
+        },
+        "record": {
+            "win": 29,
+            "loss": 8,
+            "draw": 4
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2396,
+            "date": 1741647492,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2428,
+            "date": 1621280824,
+            "game": "https://www.chess.com/game/live/99368133749"
+        },
+        "record": {
+            "win": 4405,
+            "loss": 3980,
+            "draw": 315
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2439,
+            "date": 1741640055,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2566,
+            "date": 1615176126,
+            "game": "https://www.chess.com/game/live/89697551997"
+        },
+        "record": {
+            "win": 16846,
+            "loss": 15781,
+            "draw": 2073
+        }
+    },
+    "fide": 2231,
+    "tactics": {
+        "highest": {
+            "rating": 3536,
+            "date": 1713589183
+        },
+        "lowest": {
+            "rating": 973,
+            "date": 1384875649
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 48,
+            "score": 45
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "player_id": 46287590,
+    "@id": "https://api.chess.com/pub/player/1moodyman1",
+    "url": "https://www.chess.com/member/1moodyman1",
+    "name": "Alexandr Tarasov",
+    "username": "1moodyman1",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1718429219,
+    "joined": 1526635114,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2383,
+            "date": 1635688083,
+            "rd": 143
+        },
+        "best": {
+            "rating": 2575,
+            "date": 1611487556,
+            "game": "https://www.chess.com/game/live/6330632288"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2672,
+            "date": 1640383500,
+            "rd": 81
+        },
+        "best": {
+            "rating": 2672,
+            "date": 1640383500,
+            "game": "https://www.chess.com/game/live/3529660046"
+        },
+        "record": {
+            "win": 709,
+            "loss": 555,
+            "draw": 89
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2698,
+            "date": 1688644552,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2747,
+            "date": 1681041562,
+            "game": "https://www.chess.com/game/live/75992426665"
+        },
+        "record": {
+            "win": 587,
+            "loss": 404,
+            "draw": 101
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3112,
+            "date": 1679745625
+        },
+        "lowest": {
+            "rating": 1213,
+            "date": 1546545508
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

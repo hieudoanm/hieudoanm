@@ -1,0 +1,83 @@
+{
+    "player_id": 80153696,
+    "@id": "https://api.chess.com/pub/player/dragonkiller15",
+    "url": "https://www.chess.com/member/dragonkiller15",
+    "username": "dragonkiller15",
+    "title": "NM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1741696281,
+    "joined": 1590094536,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2018,
+            "date": 1738425391,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2303,
+            "date": 1699103238,
+            "game": "https://www.chess.com/game/live/70674790583"
+        },
+        "record": {
+            "win": 23,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2344,
+            "date": 1735910258,
+            "rd": 82
+        },
+        "best": {
+            "rating": 2358,
+            "date": 1719831998,
+            "game": "https://www.chess.com/game/live/113589022963"
+        },
+        "record": {
+            "win": 128,
+            "loss": 96,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2472,
+            "date": 1741696206,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2626,
+            "date": 1722564901,
+            "game": "https://www.chess.com/game/live/123112232895"
+        },
+        "record": {
+            "win": 2059,
+            "loss": 2172,
+            "draw": 247
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3204,
+            "date": 1698015390
+        },
+        "lowest": {
+            "rating": 1612,
+            "date": 1590519732
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

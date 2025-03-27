@@ -1,0 +1,124 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17071706.3bc54384.200x200o.3059169b7026.jpeg",
+    "player_id": 17071706,
+    "@id": "https://api.chess.com/pub/player/sleepless_knightmare",
+    "url": "https://www.chess.com/member/Sleepless_Knightmare",
+    "name": "Furqan Tanwir",
+    "username": "sleepless_knightmare",
+    "title": "NM",
+    "followers": 521,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "NY",
+    "last_online": 1741615899,
+    "joined": 1398566790,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1418,
+            "date": 1741616972,
+            "rd": 137
+        },
+        "best": {
+            "rating": 1418,
+            "date": 1673709325,
+            "game": "https://www.chess.com/game/daily/282242782"
+        },
+        "record": {
+            "win": 50,
+            "loss": 12,
+            "draw": 22,
+            "time_per_move": 10108,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1008,
+            "date": 1496020801,
+            "rd": 296
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1398566790,
+            "game": "https://www.chess.com/game/daily/165782086"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 10108,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2127,
+            "date": 1741091347,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2266,
+            "date": 1636544649,
+            "game": "https://www.chess.com/game/live/24759691385"
+        },
+        "record": {
+            "win": 578,
+            "loss": 326,
+            "draw": 98
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1990,
+            "date": 1741622549,
+            "rd": 58
+        },
+        "best": {
+            "rating": 2405,
+            "date": 1530995660,
+            "game": "https://www.chess.com/game/live/2926205540"
+        },
+        "record": {
+            "win": 12391,
+            "loss": 10295,
+            "draw": 866
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2334,
+            "date": 1741668367,
+            "rd": 21
+        },
+        "best": {
+            "rating": 2518,
+            "date": 1734733040,
+            "game": "https://www.chess.com/game/live/86363925561"
+        },
+        "record": {
+            "win": 34411,
+            "loss": 32307,
+            "draw": 3740
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2794,
+            "date": 1703549715
+        },
+        "lowest": {
+            "rating": 1332,
+            "date": 1400536073
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

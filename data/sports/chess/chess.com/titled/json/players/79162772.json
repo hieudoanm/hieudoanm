@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/79162772.0bfe17ef.200x200o.7ada6d0cdd6b.jpeg",
+    "player_id": 79162772,
+    "@id": "https://api.chess.com/pub/player/ivansoriano1",
+    "url": "https://www.chess.com/member/IvanSoriano1",
+    "name": "Ivan Excender Soriano Quispe",
+    "username": "ivansoriano1",
+    "title": "FM",
+    "followers": 32,
+    "country": "https://api.chess.com/pub/country/PE",
+    "location": "Ca\u00f1ete",
+    "last_online": 1741650489,
+    "joined": 1589171445,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1923,
+            "date": 1722978902,
+            "rd": 201
+        },
+        "best": {
+            "rating": 2054,
+            "date": 1597341087,
+            "game": "https://www.chess.com/game/daily/273784094"
+        },
+        "record": {
+            "win": 7,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 18967,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2152,
+            "date": 1716519089,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2195,
+            "date": 1611434561,
+            "game": "https://www.chess.com/game/live/6137070864"
+        },
+        "record": {
+            "win": 13,
+            "loss": 5,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2701,
+            "date": 1741653286,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2790,
+            "date": 1735003231,
+            "game": "https://www.chess.com/game/live/129773985397"
+        },
+        "record": {
+            "win": 311,
+            "loss": 151,
+            "draw": 31
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2751,
+            "date": 1735942208,
+            "rd": 40
+        },
+        "best": {
+            "rating": 2795,
+            "date": 1734626906,
+            "game": "https://www.chess.com/game/live/116723407813"
+        },
+        "record": {
+            "win": 528,
+            "loss": 298,
+            "draw": 61
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2860,
+            "date": 1695833315
+        },
+        "lowest": {
+            "rating": 1206,
+            "date": 1589427087
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

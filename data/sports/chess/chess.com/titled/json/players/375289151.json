@@ -1,0 +1,50 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/375289151.64160bb6.200x200o.52bc5ff72b2e.jpg",
+    "player_id": 375289151,
+    "@id": "https://api.chess.com/pub/player/gugutkica",
+    "url": "https://www.chess.com/member/gugutkica",
+    "username": "gugutkica",
+    "title": "WIM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/SI",
+    "last_online": 1741619464,
+    "joined": 1720953243,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_blitz": {
+        "last": {
+            "rating": 2589,
+            "date": 1741620952,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2756,
+            "date": 1735760025,
+            "game": "https://www.chess.com/game/live/118397292893"
+        },
+        "record": {
+            "win": 415,
+            "loss": 394,
+            "draw": 81
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2371,
+            "date": 1734105169
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1720953243
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

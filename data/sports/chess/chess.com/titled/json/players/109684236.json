@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/109684236.3b0c7499.200x200o.70b5d0889f49.jpg",
+    "player_id": 109684236,
+    "@id": "https://api.chess.com/pub/player/turboplombir",
+    "url": "https://www.chess.com/member/Turboplombir",
+    "name": "Sergey Sklokin",
+    "username": "turboplombir",
+    "title": "FM",
+    "followers": 227,
+    "country": "https://api.chess.com/pub/country/XX",
+    "last_online": 1741672241,
+    "joined": 1609774948,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2302,
+            "date": 1740055967,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1739733044,
+            "game": "https://www.chess.com/game/live/133460372915"
+        },
+        "record": {
+            "win": 26,
+            "loss": 11,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2870,
+            "date": 1741460332,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2944,
+            "date": 1736616574,
+            "game": "https://www.chess.com/game/live/133984757691"
+        },
+        "record": {
+            "win": 553,
+            "loss": 349,
+            "draw": 46
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2838,
+            "date": 1740507195,
+            "rd": 31
+        },
+        "best": {
+            "rating": 3020,
+            "date": 1735747629,
+            "game": "https://www.chess.com/game/live/121023092977"
+        },
+        "record": {
+            "win": 885,
+            "loss": 800,
+            "draw": 149
+        }
+    },
+    "fide": 2338,
+    "tactics": {
+        "highest": {
+            "rating": 7349,
+            "date": 1700717855
+        },
+        "lowest": {
+            "rating": 412,
+            "date": 1610795015
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 76,
+            "score": 73
+        }
+    }
+}

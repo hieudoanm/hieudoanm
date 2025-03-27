@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/328826679.f22e036a.200x200o.63136a82f8c5.jpg",
+    "player_id": 328826679,
+    "@id": "https://api.chess.com/pub/player/christianarca",
+    "url": "https://www.chess.com/member/ChristianArca",
+    "name": "Christian Gian Karlo Arca",
+    "username": "christianarca",
+    "title": "FM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1741698390,
+    "joined": 1701089803,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2312,
+            "date": 1737035527,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2312,
+            "date": 1707200560,
+            "game": "https://www.chess.com/game/live/115652336017"
+        },
+        "record": {
+            "win": 3,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2897,
+            "date": 1740401196,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2987,
+            "date": 1738999639,
+            "game": "https://www.chess.com/game/live/110394737033"
+        },
+        "record": {
+            "win": 467,
+            "loss": 371,
+            "draw": 36
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2826,
+            "date": 1741111627,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2830,
+            "date": 1741111036,
+            "game": "https://www.chess.com/game/live/134848751961"
+        },
+        "record": {
+            "win": 144,
+            "loss": 93,
+            "draw": 15
+        }
+    },
+    "fide": 2317,
+    "tactics": {
+        "highest": {
+            "rating": 3662,
+            "date": 1702639682
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1701089803
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9282936.63cac35a.200x200o.632967924bd6.jpeg",
+    "player_id": 9282936,
+    "@id": "https://api.chess.com/pub/player/mateoreyes",
+    "url": "https://www.chess.com/member/MateoReyes",
+    "name": "Luis Alvarez",
+    "username": "mateoreyes",
+    "title": "FM",
+    "followers": 43,
+    "country": "https://api.chess.com/pub/country/EC",
+    "location": "Guayaquil",
+    "last_online": 1740096040,
+    "joined": 1350448243,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1346,
+            "date": 1727628848,
+            "rd": 290
+        },
+        "best": {
+            "rating": 1346,
+            "date": 1423956263,
+            "game": "https://www.chess.com/game/daily/105483812"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 4167,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2223,
+            "date": 1659054706,
+            "rd": 347
+        },
+        "best": {
+            "rating": 2223,
+            "date": 1610947561,
+            "game": "https://www.chess.com/game/live/5981138085"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2204,
+            "date": 1693130767,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2204,
+            "date": 1693130767,
+            "game": "https://www.chess.com/game/live/86868555345"
+        },
+        "record": {
+            "win": 244,
+            "loss": 114,
+            "draw": 20
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2502,
+            "date": 1724778866,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2509,
+            "date": 1689694126,
+            "game": "https://www.chess.com/game/live/84040289201"
+        },
+        "record": {
+            "win": 913,
+            "loss": 653,
+            "draw": 86
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2371,
+            "date": 1727449088
+        },
+        "lowest": {
+            "rating": 1285,
+            "date": 1418535320
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 27,
+            "score": 24
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "player_id": 95955184,
+    "@id": "https://api.chess.com/pub/player/farout1364",
+    "url": "https://www.chess.com/member/FarOut1364",
+    "username": "farout1364",
+    "title": "GM",
+    "followers": 84,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1734143742,
+    "joined": 1604969001,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2091,
+            "date": 1699609113,
+            "rd": 271
+        },
+        "best": {
+            "rating": 2091,
+            "date": 1699609113,
+            "game": "https://www.chess.com/game/daily/499105809"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 638042,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2005,
+            "date": 1724358537,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2005,
+            "date": 1724358537,
+            "game": "https://www.chess.com/game/live/118096794671"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2602,
+            "date": 1689715385,
+            "rd": 95
+        },
+        "best": {
+            "rating": 2811,
+            "date": 1620886101,
+            "game": "https://www.chess.com/game/live/14443062123"
+        },
+        "record": {
+            "win": 41,
+            "loss": 28,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2840,
+            "date": 1734143924,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2970,
+            "date": 1682709631,
+            "game": "https://www.chess.com/game/live/122707462941"
+        },
+        "record": {
+            "win": 464,
+            "loss": 275,
+            "draw": 104
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1340,
+            "date": 1647643116
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1611807693
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

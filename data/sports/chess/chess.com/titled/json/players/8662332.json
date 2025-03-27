@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8662332.5a4be640.200x200o.98e09db3057f.jpeg",
+    "player_id": 8662332,
+    "@id": "https://api.chess.com/pub/player/king_of_the_wing",
+    "url": "https://www.chess.com/member/King_of_the_wing",
+    "name": "Janus Christensen",
+    "username": "king_of_the_wing",
+    "title": "CM",
+    "followers": 216,
+    "country": "https://api.chess.com/pub/country/DK",
+    "location": "Copenhagen",
+    "last_online": 1741301997,
+    "joined": 1345841545,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1677,
+            "date": 1664180890,
+            "rd": 209
+        },
+        "best": {
+            "rating": 1677,
+            "date": 1632608036,
+            "game": "https://www.chess.com/game/daily/223804754"
+        },
+        "record": {
+            "win": 16,
+            "loss": 2,
+            "draw": 2,
+            "time_per_move": 4667,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2145,
+            "date": 1736992139,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2196,
+            "date": 1683498878,
+            "game": "https://www.chess.com/game/live/2879838792"
+        },
+        "record": {
+            "win": 856,
+            "loss": 701,
+            "draw": 154
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1989,
+            "date": 1716131117,
+            "rd": 62
+        },
+        "best": {
+            "rating": 2313,
+            "date": 1543190428,
+            "game": "https://www.chess.com/game/live/2845682733"
+        },
+        "record": {
+            "win": 1494,
+            "loss": 1196,
+            "draw": 117
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2400,
+            "date": 1735043690,
+            "rd": 70
+        },
+        "best": {
+            "rating": 2425,
+            "date": 1734979296,
+            "game": "https://www.chess.com/game/live/3170860626"
+        },
+        "record": {
+            "win": 16080,
+            "loss": 13654,
+            "draw": 2012
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3558,
+            "date": 1717667678
+        },
+        "lowest": {
+            "rating": 1338,
+            "date": 1355932937
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 42,
+            "score": 40
+        }
+    }
+}

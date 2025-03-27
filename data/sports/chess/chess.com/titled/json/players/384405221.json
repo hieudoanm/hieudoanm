@@ -1,0 +1,36 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/384405221.39925a39.200x200o.6a554e89f3ee.jpg",
+    "player_id": 384405221,
+    "@id": "https://api.chess.com/pub/player/pirosballon5",
+    "url": "https://www.chess.com/member/pirosballon5",
+    "name": "Tamas Varga",
+    "username": "pirosballon5",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/HU",
+    "location": "Budapest",
+    "last_online": 1741278079,
+    "joined": 1725110132,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Wood",
+    "streaming_platforms": [],
+    "fide": 2145,
+    "tactics": {
+        "highest": {
+            "rating": 3330,
+            "date": 1733753524
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1725110132
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

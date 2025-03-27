@@ -1,0 +1,123 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36594172.277f6521.200x200o.f3b58fd9f34c.png",
+    "player_id": 36594172,
+    "@id": "https://api.chess.com/pub/player/deballer",
+    "url": "https://www.chess.com/member/deBaller",
+    "name": "Luuk Baselmans",
+    "username": "deballer",
+    "title": "FM",
+    "followers": 96,
+    "country": "https://api.chess.com/pub/country/NL",
+    "last_online": 1741611083,
+    "joined": 1498473645,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1952,
+            "date": 1741352813,
+            "rd": 111
+        },
+        "best": {
+            "rating": 1985,
+            "date": 1671912514,
+            "game": "https://www.chess.com/game/daily/234987424"
+        },
+        "record": {
+            "win": 619,
+            "loss": 259,
+            "draw": 101,
+            "time_per_move": 13178,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1541,
+            "date": 1615591306,
+            "rd": 101
+        },
+        "best": {
+            "rating": 1812,
+            "date": 1518364809,
+            "game": "https://www.chess.com/game/daily/185047392"
+        },
+        "record": {
+            "win": 53,
+            "loss": 38,
+            "draw": 9,
+            "time_per_move": 13178,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2245,
+            "date": 1674679636,
+            "rd": 105
+        },
+        "best": {
+            "rating": 2274,
+            "date": 1642863298,
+            "game": "https://www.chess.com/game/live/36597093003"
+        },
+        "record": {
+            "win": 59,
+            "loss": 14,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2602,
+            "date": 1708181530,
+            "rd": 27
+        },
+        "best": {
+            "rating": 2623,
+            "date": 1703974684,
+            "game": "https://www.chess.com/game/live/97948329519"
+        },
+        "record": {
+            "win": 554,
+            "loss": 299,
+            "draw": 45
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2603,
+            "date": 1741530395,
+            "rd": 35
+        },
+        "best": {
+            "rating": 2660,
+            "date": 1638383209,
+            "game": "https://www.chess.com/game/live/32039454543"
+        },
+        "record": {
+            "win": 1986,
+            "loss": 1113,
+            "draw": 277
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3243,
+            "date": 1704203681
+        },
+        "lowest": {
+            "rating": 1208,
+            "date": 1498473965
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "player_id": 15540166,
+    "@id": "https://api.chess.com/pub/player/phurba13",
+    "url": "https://www.chess.com/member/Phurba13",
+    "username": "phurba13",
+    "title": "CM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741686718,
+    "joined": 1389535865,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2000,
+            "date": 1559318945,
+            "rd": 196
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1559318945,
+            "game": "https://www.chess.com/game/live/828890008"
+        },
+        "record": {
+            "win": 4,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2203,
+            "date": 1707074230,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2356,
+            "date": 1605446799,
+            "game": "https://www.chess.com/game/live/744092637"
+        },
+        "record": {
+            "win": 1029,
+            "loss": 840,
+            "draw": 101
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2307,
+            "date": 1737806080,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2361,
+            "date": 1665692299,
+            "game": "https://www.chess.com/game/live/3537527192"
+        },
+        "record": {
+            "win": 673,
+            "loss": 406,
+            "draw": 54
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3445,
+            "date": 1737593168
+        },
+        "lowest": {
+            "rating": 1411,
+            "date": 1389654561
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        }
+    }
+}

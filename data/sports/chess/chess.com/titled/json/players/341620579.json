@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/341620579.8dd35d0c.200x200o.455e973abc5e.jpg",
+    "player_id": 341620579,
+    "@id": "https://api.chess.com/pub/player/hexagonwarrior",
+    "url": "https://www.chess.com/member/HexagonWarrior",
+    "username": "hexagonwarrior",
+    "title": "NM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740947037,
+    "joined": 1706377015,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2200,
+            "date": 1712072040,
+            "rd": 249
+        },
+        "best": {
+            "rating": 2144,
+            "date": 1707248679,
+            "game": "https://www.chess.com/game/live/100986792755"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2447,
+            "date": 1740535778,
+            "rd": 71
+        },
+        "best": {
+            "rating": 2493,
+            "date": 1737577688,
+            "game": "https://www.chess.com/game/live/128883143277"
+        },
+        "record": {
+            "win": 67,
+            "loss": 41,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2447,
+            "date": 1735144644,
+            "rd": 104
+        },
+        "best": {
+            "rating": 2447,
+            "date": 1735144644,
+            "game": "https://www.chess.com/game/live/102361516547"
+        },
+        "record": {
+            "win": 23,
+            "loss": 9,
+            "draw": 4
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2810,
+            "date": 1735351533
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1706377015
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 56,
+            "score": 53
+        }
+    }
+}
