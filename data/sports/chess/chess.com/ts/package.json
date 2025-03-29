@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@prisma/client": "6.5.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
     "@eslint/compat": "1.2.7",
@@ -37,7 +37,7 @@
     "prisma-dbml-generator": "0.12.0",
     "prisma-json-schema-generator": "5.1.5",
     "prisma-markdown": "1.0.9",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "ts-node": "10.9.2",
     "typescript": "5.8.2",
     "typescript-eslint": "8.28.0"
