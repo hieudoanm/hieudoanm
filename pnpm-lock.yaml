@@ -1056,8 +1056,8 @@ importers:
         specifier: 4.0.1
         version: 4.0.1(react-native@0.78.1(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@19.0.12)(react@19.1.0))
       '@tanstack/react-query':
-        specifier: 5.70.0
-        version: 5.70.0(react@19.1.0)
+        specifier: 5.71.0
+        version: 5.71.0(react@19.1.0)
       expo:
         specifier: 52.0.41
         version: 52.0.41(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@expo/metro-runtime@4.0.1(react-native@0.78.1(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@19.0.12)(react@19.1.0)))(encoding@0.1.13)(graphql@16.10.0)(react-native@0.78.1(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@19.0.12)(react@19.1.0))(react@19.1.0)
@@ -5614,11 +5614,11 @@ packages:
     resolution: {integrity: sha512-eXjzg2T7eiEruKXtu1XQ2bHV1oO8muGWs+TuDWH3tIFPwH1hIzahWpcTwz5lc7jW5xqud3gru2tK6wTk2JlIrw==}
     engines: {node: '>=12'}
 
-  '@tanstack/query-core@5.70.0':
-    resolution: {integrity: sha512-ZkkjQAZjI6nS5OyAmaSQafQXK180Xvp0lZYk4BzrnskkTV8On3zSJUxOIXnh0h/8EgqRkCA9i879DiJovA1kGw==}
+  '@tanstack/query-core@5.71.0':
+    resolution: {integrity: sha512-p4+T7CIEe1kMhii4booWiw42nuaiYI9La/bRCNzBaj1P3PDb0dEZYDhc/7oBifKJfHYN+mtS1ynW1qsmzQW7Og==}
 
-  '@tanstack/react-query@5.70.0':
-    resolution: {integrity: sha512-z0tx1zz2CQ6nTm+fCaOp93FqsFjNgXtOy+4mC5ifQ4B+rJiMD0AGfJrYSGh/OuefhrzTYDAbkGUAGw6JzkWy8g==}
+  '@tanstack/react-query@5.71.0':
+    resolution: {integrity: sha512-Udhlz9xHwk0iB7eLDchIqvu666NZFxPZZF80KnL8sZy+5J0kMvnJkzQNYRJwF70g8Vc1nn0TSMkPJgvx6+Pn4g==}
     peerDependencies:
       react: ^18 || ^19
 
@@ -22707,11 +22707,11 @@ snapshots:
       - tsx
       - yaml
 
-  '@tanstack/query-core@5.70.0': {}
+  '@tanstack/query-core@5.71.0': {}
 
-  '@tanstack/react-query@5.70.0(react@19.1.0)':
+  '@tanstack/react-query@5.71.0(react@19.1.0)':
     dependencies:
-      '@tanstack/query-core': 5.70.0
+      '@tanstack/query-core': 5.71.0
       react: 19.1.0
 
   '@tanstack/router-utils@1.114.12':
