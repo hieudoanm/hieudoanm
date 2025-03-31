@@ -11,7 +11,7 @@ overrides:
   cross-spawn: 7.0.6
   debug: 4.4.0
   express: 4.21.2
-  got: 14.4.6
+  got: 14.4.7
   marked: 15.0.7
   nanoid: 5.1.5
   postcss: 8.5.3
@@ -3430,7 +3430,7 @@ packages:
 
   '@expo/bunyan@4.0.1':
     resolution: {integrity: sha512-+Lla7nYSiHZirgK+U/uYzsLv/X+HaJienbD5AKX1UQZHYfWaP+9uuQluRB4GrEVWF0GZ7vEVp/jzaOT9k/SQlg==}
-    engines: {'0': node >=0.10.0}
+    engines: {node: '>=0.10.0'}
 
   '@expo/cli@0.22.22':
     resolution: {integrity: sha512-sOttVuk/8gdnsiSeDpnRNpLgBJHLbyQQC0QBGd2iHpr/x6xSYpgoRO6AqwAwGtQsk4ZEPZ83ulvccei1IIPdwg==}
@@ -9417,8 +9417,8 @@ packages:
     resolution: {integrity: sha512-ZUKRh6/kUFoAiTAtTYPZJ3hw9wNxx+BIBOijnlG9PnrJsCcSjs1wyyD6vJpaYtgnzDrKYRSqf3OO6Rfa93xsRg==}
     engines: {node: '>= 0.4'}
 
-  got@14.4.6:
-    resolution: {integrity: sha512-rnhwfM/PhMNJ1i17k3DuDqgj0cKx3IHxBKVv/WX1uDKqrhi2Gv3l7rhPThR/Cc6uU++dD97W9c8Y0qyw9x0jag==}
+  got@14.4.7:
+    resolution: {integrity: sha512-DI8zV1231tqiGzOiOzQWDhsBmncFW7oQDH6Zgy6pDPrqJuVZMtoSgPLLsBZQj8Jg4JFfwoOsDA8NGtLQLnIx2g==}
     engines: {node: '>=20'}
 
   graceful-fs@4.2.10:
@@ -26897,7 +26897,7 @@ snapshots:
 
   gopd@1.2.0: {}
 
-  got@14.4.6:
+  got@14.4.7:
     dependencies:
       '@sindresorhus/is': 7.0.1
       '@szmarczak/http-timer': 5.0.1
@@ -30571,14 +30571,14 @@ snapshots:
 
   package-json@6.5.0:
     dependencies:
-      got: 14.4.6
+      got: 14.4.7
       registry-auth-token: 4.2.2
       registry-url: 5.1.0
       semver: 7.7.1
 
   package-json@8.1.1:
     dependencies:
-      got: 14.4.6
+      got: 14.4.7
       registry-auth-token: 5.1.0
       registry-url: 6.0.1
       semver: 7.7.1
