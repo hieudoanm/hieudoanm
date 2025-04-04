@@ -13,10 +13,10 @@ Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
 
-| [Apps][apps]         | App 1                        | App 2                          | App 3                           | App 4                           | App 5                       | App 6                      |
-| -------------------- | ---------------------------- | ------------------------------ | ------------------------------- | ------------------------------- | --------------------------- | -------------------------- |
-| [Chess][app-chess]   | [Chess960][app-chess960]     | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png] | [PGN to GIF][app-chess-pgn2gif] | [Elo][app-chess-elo]        | [Clock][app-chess-clock]   |
-| [String][app-string] | [Capitalise][app-capitalise] | [Deburr][app-deburr]           | [kebab-case][app-kebabcase]     | [lowercase][app-lowercase]      | [snake_case][app-snakecase] | [UPPERCASE][app-uppercase] |
+| [Apps][apps]         | App 1                               | App 2                          | App 3                              | App 4                             | App 5                              | App 6                             |
+| -------------------- | ----------------------------------- | ------------------------------ | ---------------------------------- | --------------------------------- | ---------------------------------- | --------------------------------- |
+| [Chess][app-chess]   | [Chess960][app-chess960]            | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png]    | [PGN to GIF][app-chess-pgn2gif]   | [Elo][app-chess-elo]               | [Clock][app-chess-clock]          |
+| [String][app-string] | [Capitalise][app-string-capitalise] | [Deburr][app-string-deburr]    | [kebab-case][app-string-kebabcase] | [lowercase][app-string-lowercase] | [snake_case][app-string-snakecase] | [UPPERCASE][app-string-uppercase] |
 
 ## 🖥️ Nothing
 
@@ -45,11 +45,11 @@ Standalone Application with HTMX and Back-end
 [app-chess-elo]: https://hieudoanm.github.io/apps/chess/tools/elo
 [app-chess-clock]: https://hieudoanm.github.io/apps/chess/tools/clock
 [app-string]: https://hieudoanm.github.io/apps/string
-[app-capitalise]: ttps://hieudoanm.github.io/apps/capitalise
-[app-deburr]: ttps://hieudoanm.github.io/apps/deburr
-[app-kebabcase]: ttps://hieudoanm.github.io/apps/kebabcase
-[app-lowercase]: ttps://hieudoanm.github.io/apps/lowercase
-[app-snakecase]: ttps://hieudoanm.github.io/apps/snakecase
-[app-uppercase]: ttps://hieudoanm.github.io/apps/uppercase
+[app-string-capitalise]: https://hieudoanm.github.io/apps/capitalise
+[app-string-deburr]: https://hieudoanm.github.io/apps/deburr
+[app-string-kebabcase]: https://hieudoanm.github.io/apps/kebabcase
+[app-string-lowercase]: https://hieudoanm.github.io/apps/lowercase
+[app-string-snakecase]: https://hieudoanm.github.io/apps/snakecase
+[app-string-uppercase]: https://hieudoanm.github.io/apps/uppercase
 
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
