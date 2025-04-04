@@ -4,9 +4,8 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [📱 Projects](#-projects)
-    - [CLI](#cli)
+    - [📟 CLI](#-cli)
   - [🧰 Techstack (My Daily Driver)](#-techstack-my-daily-driver)
-    - [🦦 (G)olang for CLI](#-golang-for-cli)
     - [🐍 (P)ython for Data Science](#-python-for-data-science)
     - [🛠️ (T)ypeScript for Full-stack Development](#️-typescript-for-full-stack-development)
 
@@ -23,21 +22,17 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
   - [OpenAPI to PostmanV2](https://nothing-openapi-to-postmanv2.onrender.com/)
   - [YouTube](https://nothing-youtube.onrender.com)
 
-### CLI
+### 📟 CLI
 
-| No  | Group | Subgroup                       | Name             | Documentation                                                                                                    | Download                                                                                                                     |
-| --- | ----- | ------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 01  | CLI   |                                | `nothing.bash`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/bash/README.md)                     | Download [here](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/bash/dist/hieu.bash)                            |
-| 02  | CLI   |                                | `nothing.binary` | [Documentation](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go.dev/cobra/README.md)             | Download [here](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go/cobra/bin/hieu)                              |
-| 03  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-coc`         | [Documentation](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go/github/extensions/gh-coc/bin/gh-coc)         |
-| 04  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-ignore`      | [Documentation](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go/github/extensions/gh-ignore/bin/gh-ignore)   |
-| 05  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-license`     | [Documentation](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.iopackages/cli/go/github/extensions/gh-license/bin/gh-license) |
+| No  | Group | Subgroup                       | Name             | Documentation                                                                                                                 | Download                                                                                                                           |
+| --- | ----- | ------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | CLI   | `bash`                         | `nothing.bash`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md)                     | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/hieu.bash)                     |
+| 02  | CLI   | [Cobra](https://cobra.dev/)    | `nothing.binary` | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md)             | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/hieu)                   |
+| 03  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-coc`         | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc)     |
+| 04  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-ignore`      | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
+| 05  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-license`     | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
 
 ## 🧰 Techstack (My Daily Driver)
-
-### 🦦 [(G)olang][golang] for CLI
-
-- 📟 [Cobra](https://cobra.dev/)
 
 ### 🐍 [(P)ython][python] for Data Science
 
@@ -85,7 +80,6 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [eslint]: https://eslint.org/
 [fastapi]: https://fastapi.tiangolo.com/
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
-[golang]: https://go.dev/
 [kafka]: https://kafka.apache.org/
 [next.js]: https://nextjs.org/
 [nltk]: https://www.nltk.org/
