@@ -2,12 +2,13 @@
 
 A Computational Neuroscience enthusiast with a background in Software Development.
 
+Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
+
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [📱 Projects](#-projects)
     - [📟 CLI](#-cli)
   - [🧰 Techstack (My Daily Driver)](#-techstack-my-daily-driver)
     - [🐍 (P)ython for Data Science](#-python-for-data-science)
-    - [🛠️ (T)ypeScript for Full-stack Development](#️-typescript-for-full-stack-development)
 
 ## 📱 Projects
 
@@ -49,23 +50,6 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 | 08  | Notebook | Vision         | 👁️ [OpenCV][opencv]         | [GitHub][github-opencv]     | C++      |
 | 09  | Notebook | Language       | 💬 [NLTK][nltk]             | [GitHub][github-nltk]       | Python   |
 | 10  | Notebook | Neural Network | 🧠 [TensorFlow][tensorflow] | [GitHub][github-tensorflow] | C++      |
-
-### 🛠️ [(T)ypeScript][typescript] for Full-stack Development
-
-| No  | Group     | Subgroup         | Technology                            | GitHub                       | Language   |
-| --- | --------- | ---------------- | ------------------------------------- | ---------------------------- | ---------- |
-| 01  | Code      | Runtime          | 🖥️ [Node.js][node.js]                  | [GitHub][github-node.js]     | JavaScript |
-| 02  | Code      | Format           | 💅 [Prettier][prettier]                | [GitHub][github-prettier]    | JavaScript |
-| 03  | Code      | Lint             | 🧰 [ESLint][eslint]                    | [GitHub][github-eslint]      | JavaScript |
-| 04  | Front-end | Framework        | 🖥️ [Next.js][next.js] - [React][react] | [GitHub][github-next.js]     | JavaScript |
-| 05  | Front-end | Desktop          | 🖥️ [Tauri][tauri]                      | [GitHub][github-tauri]       | Rust       |
-| 06  | Front-end | CSS Utilities    | 💅 [TailwindCSS][tailwindcss]          | [GitHub][github-tailwindcss] | TypeScript |
-| 07  | Front-end | UI Components    | 💅 [DaisyUI][daisyui]                  | [GitHub][github-daisyui]     | JavaScript |
-| 08  | Back-end  | Framework        | 🚀 [tRPC][trpc]                        | [GitHub][github-trpc]        | TypeScript |
-| 09  | Back-end  | ORM              | 🔌 [Prisma][prisma]                    | [GitHub][github-prisma]      | TypeScript |
-| 10  | Back-end  | Database         | 🗄️ [PostgreSQL][postgresql]            | [GitHub][github-postgresql]  | C          |
-| 11  | Back-end  | Messages Broker  | 📨 [Kafka][kafka]                      | [GitHub][github-kafka]       | Java       |
-| 12  | DevOps    | Containerisation | 🏗️ [Docker][docker]                    | [GitHub][github-docker]      | Golang     |
 
 [app-chess]: https://hieudoanm.github.io/apps/chess
 [app-chess960]: https://hieudoanm.github.io/apps/chess/books/chess960
