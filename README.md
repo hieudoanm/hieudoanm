@@ -13,9 +13,10 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 - [Apps](https://hieudoanm.github.io/apps): A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
 
-| Group              | App 1                    | App 2                          | App 3                           | App 4                           | App 5                | App 6                    |
-| ------------------ | ------------------------ | ------------------------------ | ------------------------------- | ------------------------------- | -------------------- | ------------------------ |
-| [Chess][app-chess] | [Chess960][app-chess960] | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png] | [PGN to GIF][app-chess-pgn2gif] | [Elo][app-chess-elo] | [Clock][app-chess-clock] |
+| Group                | App 1                        | App 2                          | App 3                           | App 4                           | App 5                       | App 6                      |
+| -------------------- | ---------------------------- | ------------------------------ | ------------------------------- | ------------------------------- | --------------------------- | -------------------------- |
+| [Chess][app-chess]   | [Chess960][app-chess960]     | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png] | [PGN to GIF][app-chess-pgn2gif] | [Elo][app-chess-elo]        | [Clock][app-chess-clock]   |
+| [String][app-string] | [Capitalise][app-capitalise] | [Deburr][app-deburr]           | [kebab-case][app-kebabcase]     | [lowercase][app-lowercase]      | [snake_case][app-snakecase] | [UPPERCASE][app-uppercase] |
 
 - Nothing: Standalone Application with HTMX and Back-end (Node.js)
   - [Instagram](https://nothing-instagram.onrender.com/)
@@ -24,13 +25,13 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 
 ### 📟 CLI
 
-| No  | Group | Subgroup                       | Name             | Documentation                                                                                                                 | Download                                                                                                                           |
-| --- | ----- | ------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | CLI   | `bash`                         | `nothing.bash`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md)                     | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/hieu.bash)                     |
-| 02  | CLI   | [Cobra](https://cobra.dev/)    | `nothing.binary` | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md)             | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/hieu)                   |
-| 03  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-coc`         | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc)     |
-| 04  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-ignore`      | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
-| 05  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-license`     | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
+| No  | Group | Subgroup                       | Name           | Documentation                                                                                                                 | Download                                                                                                                           |
+| --- | ----- | ------------------------------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | CLI   | `bash`                         | `nothing.bash` | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md)                     | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/hieu.bash)                     |
+| 02  | CLI   | [Cobra](https://cobra.dev/)    | `nothing`      | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md)             | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/hieu)                   |
+| 03  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-coc`       | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc)     |
+| 04  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-ignore`    | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
+| 05  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-license`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
 
 ## 🧰 Techstack (My Daily Driver)
 
@@ -73,6 +74,13 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 [app-chess-pgn2gif]: https://hieudoanm.github.io/apps/chess/converter/pgn2gif
 [app-chess-elo]: https://hieudoanm.github.io/apps/chess/tools/elo
 [app-chess-clock]: https://hieudoanm.github.io/apps/chess/tools/clock
+[app-string]: https://hieudoanm.github.io/apps/string
+[app-capitalise]: ttps://hieudoanm.github.io/apps/capitalise
+[app-deburr]: ttps://hieudoanm.github.io/apps/deburr
+[app-kebabcase]: ttps://hieudoanm.github.io/apps/kebabcase
+[app-lowercase]: ttps://hieudoanm.github.io/apps/lowercase
+[app-snakecase]: ttps://hieudoanm.github.io/apps/snakecase
+[app-uppercase]: ttps://hieudoanm.github.io/apps/uppercase
 
 [black]: https://black.readthedocs.io/en/stable/
 [daisyui]: https://daisyui.com/
