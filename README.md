@@ -15,7 +15,7 @@ A collection of mini-apps and dev-tools which I develop for my personal usage (b
 
 | [Apps][apps]         | App 1                               | App 2                          | App 3                              | App 4                             | App 5                              | App 6                             |
 | -------------------- | ----------------------------------- | ------------------------------ | ---------------------------------- | --------------------------------- | ---------------------------------- | --------------------------------- |
-| [Chess][app-chess]   | [Chess960][app-chess960]            | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png]    | [PGN to GIF][app-chess-pgn2gif]   | [Elo][app-chess-elo]               | [Clock][app-chess-clock]          |
+| [Chess][app-chess]   | [Chess960][app-chess960]            | [Openings][app-chess-openings] | [fen2png][app-chess-fen2png]       | [pgn2gif][app-chess-pgn2gif]      | [elo][app-chess-elo]               | [Clock][app-chess-clock]          |
 | [String][app-string] | [Capitalise][app-string-capitalise] | [Deburr][app-string-deburr]    | [kebab-case][app-string-kebabcase] | [lowercase][app-string-lowercase] | [snake_case][app-string-snakecase] | [UPPERCASE][app-string-uppercase] |
 
 ## 🖥️ Nothing
