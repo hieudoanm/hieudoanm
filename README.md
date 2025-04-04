@@ -5,24 +5,28 @@ A Computational Neuroscience enthusiast with a background in Software Developmen
 Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
-  - [📱 Projects](#-projects)
-    - [📟 CLI](#-cli)
+  - [📱 Apps](#-apps)
+  - [🖥️ Nothing](#️-nothing)
+  - [📟 CLI](#-cli)
 
-## 📱 Projects
+## 📱 Apps
 
-- [Apps](https://hieudoanm.github.io/apps): A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
+A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
 
-| Group                | App 1                        | App 2                          | App 3                           | App 4                           | App 5                       | App 6                      |
+| [Apps][apps]         | App 1                        | App 2                          | App 3                           | App 4                           | App 5                       | App 6                      |
 | -------------------- | ---------------------------- | ------------------------------ | ------------------------------- | ------------------------------- | --------------------------- | -------------------------- |
 | [Chess][app-chess]   | [Chess960][app-chess960]     | [Openings][app-chess-openings] | [FEN to PNG][app-chess-fen2png] | [PGN to GIF][app-chess-pgn2gif] | [Elo][app-chess-elo]        | [Clock][app-chess-clock]   |
 | [String][app-string] | [Capitalise][app-capitalise] | [Deburr][app-deburr]           | [kebab-case][app-kebabcase]     | [lowercase][app-lowercase]      | [snake_case][app-snakecase] | [UPPERCASE][app-uppercase] |
 
-- Nothing: Standalone Application with HTMX and Back-end (Node.js)
-  - [Instagram](https://nothing-instagram.onrender.com/)
-  - [OpenAPI to PostmanV2](https://nothing-openapi-to-postmanv2.onrender.com/)
-  - [YouTube](https://nothing-youtube.onrender.com)
+## 🖥️ Nothing
 
-### 📟 CLI
+Standalone Application with HTMX and Back-end
+
+- [Instagram](https://nothing-instagram.onrender.com/)
+- [OpenAPI to PostmanV2](https://nothing-openapi-to-postmanv2.onrender.com/)
+- [YouTube](https://nothing-youtube.onrender.com)
+
+## 📟 CLI
 
 | No  | Group | Subgroup                       | Name           | Documentation                                                                                                                 | Download                                                                                                                           |
 | --- | ----- | ------------------------------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,6 +36,7 @@ Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
 | 04  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-ignore`    | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
 | 05  | CLI   | [GitHub CLI][gh-cli-extension] | `gh-license`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | Download [here](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
 
+[apps]: https://hieudoanm.github.io/apps
 [app-chess]: https://hieudoanm.github.io/apps/chess
 [app-chess960]: https://hieudoanm.github.io/apps/chess/books/chess960
 [app-chess-openings]: https://hieudoanm.github.io/apps/chess/books/openings
