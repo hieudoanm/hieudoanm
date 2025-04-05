@@ -998,8 +998,8 @@ importers:
         specifier: 5.3.0
         version: 5.3.0(react-native@0.78.2(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@19.0.12)(react@19.1.0))(react@19.1.0)
       react-native-web:
-        specifier: 0.19.13
-        version: 0.19.13(encoding@0.1.13)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        specifier: 0.20.0
+        version: 0.20.0(encoding@0.1.13)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
     devDependencies:
       '@babel/core':
         specifier: 7.26.10
@@ -9081,9 +9081,6 @@ packages:
   fast-levenshtein@2.0.6:
     resolution: {integrity: sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==}
 
-  fast-loops@1.1.4:
-    resolution: {integrity: sha512-8dbd3XWoKCTms18ize6JmQF1SFnnfj5s0B7rRry22EofgMu7B6LKHVh+XfFqFGsqnbH54xgeO83PzpKI+ODhlg==}
-
   fast-redact@3.5.0:
     resolution: {integrity: sha512-dwsoQlS7h9hMeYUq1W++23NDcBLV4KqONnITDV9DjfS3q1SgDGVrBdvvTLUotWtPSD7asWDV9/CmsZPy8Hf70A==}
     engines: {node: '>=6'}
@@ -10093,8 +10090,8 @@ packages:
   inline-style-parser@0.2.4:
     resolution: {integrity: sha512-0aO8FkhNZlj/ZIbNi7Lxxr12obT7cL1moPfE4tg1LkX7LlLfC6DeX4l2ZEud1ukP9jNQyNnfzQVqwbwmAATY4Q==}
 
-  inline-style-prefixer@6.0.4:
-    resolution: {integrity: sha512-FwXmZC2zbeeS7NzGjJ6pAiqRhXR0ugUShSNb6GApMl6da0/XGc4MOJsoWAywia52EEWbXNSy0pzkwz/+Y+swSg==}
+  inline-style-prefixer@7.0.1:
+    resolution: {integrity: sha512-lhYo5qNTQp3EvSSp3sRvXMbVQTLrvGV6DycRMJ5dm2BLMiJ30wpXKdDdgX+GmJZ5uQMucwRKHamXSst3Sj/Giw==}
 
   inquirer@8.2.6:
     resolution: {integrity: sha512-M1WuAmb7pn9zdFRtQYk26ZBoY043Sse0wVDdk4Bppr+JOXyQYybdtvK+l9wUibhtjdjvtoiNy8tk+EgsYIUqKg==}
@@ -13585,11 +13582,11 @@ packages:
       react: '*'
       react-native: '*'
 
-  react-native-web@0.19.13:
-    resolution: {integrity: sha512-etv3bN8rJglrRCp/uL4p7l8QvUNUC++QwDbdZ8CB7BvZiMvsxfFIRM1j04vxNldG3uo2puRd6OSWR3ibtmc29A==}
+  react-native-web@0.20.0:
+    resolution: {integrity: sha512-OOSgrw+aON6R3hRosCau/xVxdLzbjEcsLysYedka0ZON4ZZe6n9xgeN9ZkoejhARM36oTlUgHIQqxGutEJ9Wxg==}
     peerDependencies:
-      react: ^18.0.0
-      react-dom: ^18.0.0
+      react: ^18.0.0 || ^19.0.0
+      react-dom: ^18.0.0 || ^19.0.0
 
   react-native@0.78.2:
     resolution: {integrity: sha512-UilZ8sP9amHCz7TTMWMJ71JeYcMzEdgCJaqTfoB1hC/nYMXq6xqSFxKWCDhf7sR7nz3FKxS4t338t42AMDDkww==}
@@ -26669,8 +26666,6 @@ snapshots:
 
   fast-levenshtein@2.0.6: {}
 
-  fast-loops@1.1.4: {}
-
   fast-redact@3.5.0: {}
 
   fast-safe-stringify@2.1.1: {}
@@ -27900,10 +27895,9 @@ snapshots:
 
   inline-style-parser@0.2.4: {}
 
-  inline-style-prefixer@6.0.4:
+  inline-style-prefixer@7.0.1:
     dependencies:
       css-in-js-utils: 3.1.0
-      fast-loops: 1.1.4
 
   inquirer@8.2.6:
     dependencies:
@@ -32111,12 +32105,12 @@ snapshots:
       react-native: 0.78.2(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@19.0.12)(react@19.1.0)
       warn-once: 0.1.1
 
-  react-native-web@0.19.13(encoding@0.1.13)(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  react-native-web@0.20.0(encoding@0.1.13)(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
       '@babel/runtime': 7.27.0
       '@react-native/normalize-colors': 0.74.89
       fbjs: 3.0.5(encoding@0.1.13)
-      inline-style-prefixer: 6.0.4
+      inline-style-prefixer: 7.0.1
       memoize-one: 6.0.0
       nullthrows: 1.1.1
       postcss-value-parser: 4.2.0
