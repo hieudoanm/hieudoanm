@@ -37,6 +37,7 @@ Standalone Application with HTMX and Back-end
 | 05  | [GitHub CLI][gh-cli-extension] | `gh-license`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
 
 [apps]: https://hieudoanm.github.io/apps
+
 [app-chess]: https://hieudoanm.github.io/apps/chess
 [app-chess960]: https://hieudoanm.github.io/apps/chess/books/chess960
 [app-chess-openings]: https://hieudoanm.github.io/apps/chess/books/openings
@@ -44,12 +45,13 @@ Standalone Application with HTMX and Back-end
 [app-chess-pgn2gif]: https://hieudoanm.github.io/apps/chess/converter/pgn2gif
 [app-chess-elo]: https://hieudoanm.github.io/apps/chess/tools/elo
 [app-chess-clock]: https://hieudoanm.github.io/apps/chess/tools/clock
+
 [app-string]: https://hieudoanm.github.io/apps/string
-[app-string-capitalise]: https://hieudoanm.github.io/apps/capitalise
-[app-string-deburr]: https://hieudoanm.github.io/apps/deburr
-[app-string-kebabcase]: https://hieudoanm.github.io/apps/kebabcase
-[app-string-lowercase]: https://hieudoanm.github.io/apps/lowercase
-[app-string-snakecase]: https://hieudoanm.github.io/apps/snakecase
-[app-string-uppercase]: https://hieudoanm.github.io/apps/uppercase
+[app-string-capitalise]: https://hieudoanm.github.io/apps/string/capitalise
+[app-string-deburr]: https://hieudoanm.github.io/apps/string/deburr
+[app-string-kebabcase]: https://hieudoanm.github.io/apps/string/kebabcase
+[app-string-lowercase]: https://hieudoanm.github.io/apps/string/lowercase
+[app-string-snakecase]: https://hieudoanm.github.io/apps/string/snakecase
+[app-string-uppercase]: https://hieudoanm.github.io/apps/string/uppercase
 
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
