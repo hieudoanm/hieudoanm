@@ -14,9 +14,9 @@
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
   "license": "GPL-3.0",
   "devDependencies": {
-    "@eslint/js": "9.23.0",
+    "@eslint/js": "9.24.0",
     "@types/node": "22.14.0",
-    "eslint": "9.23.0",
+    "eslint": "9.24.0",
     "globals": "16.0.0",
     "nodemon": "3.1.9",
     "prettier": "3.5.3",
