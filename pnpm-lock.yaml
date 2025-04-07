@@ -12,7 +12,7 @@ overrides:
   debug: 4.4.0
   express: 5.1.0
   got: 14.4.7
-  marked: 15.0.7
+  marked: 15.0.8
   nanoid: 5.1.5
   postcss: 8.5.3
   semver: 7.7.1
@@ -3420,7 +3420,7 @@ packages:
 
   '@expo/bunyan@4.0.1':
     resolution: {integrity: sha512-+Lla7nYSiHZirgK+U/uYzsLv/X+HaJienbD5AKX1UQZHYfWaP+9uuQluRB4GrEVWF0GZ7vEVp/jzaOT9k/SQlg==}
-    engines: {'0': node >=0.10.0}
+    engines: {node: '>=0.10.0'}
 
   '@expo/cli@0.22.24':
     resolution: {integrity: sha512-lhdenxBC8/x/vL39j79eXE09mOaqNNLmiSDdY/PblnI+UNzGgsQ48hBTYa/MQhd0ioXXVKurZL2941dLKwcxJw==}
@@ -11443,8 +11443,8 @@ packages:
   markdown-table@3.0.4:
     resolution: {integrity: sha512-wiYz4+JrLyb/DqW2hkFJxP7Vd7JuTDm77fvbM8VfEQdmSMqcImWeeRbHwZjBjIFki/VaMK2BhFi7oUUZeM5bqw==}
 
-  marked@15.0.7:
-    resolution: {integrity: sha512-dgLIeKGLx5FwziAnsk4ONoGwHwGPJzselimvlVskE9XLN4Orv9u2VA3GWw/lYUqjfA0rUT/6fqKwfZJapP9BEg==}
+  marked@15.0.8:
+    resolution: {integrity: sha512-rli4l2LyZqpQuRve5C0rkn6pj3hT8EWPC+zkAxFTAJLxRbENfTAhEQq9itrmf1Y81QtAX5D/MYlGlIomNgj9lA==}
     engines: {node: '>= 18'}
     hasBin: true
 
@@ -25626,7 +25626,7 @@ snapshots:
 
   docsify@4.13.1:
     dependencies:
-      marked: 15.0.7
+      marked: 15.0.8
       medium-zoom: 1.1.0
       opencollective-postinstall: 2.0.3
       prismjs: 1.30.0
@@ -29474,7 +29474,7 @@ snapshots:
 
   markdown-table@3.0.4: {}
 
-  marked@15.0.7: {}
+  marked@15.0.8: {}
 
   marky@1.2.5: {}
 
