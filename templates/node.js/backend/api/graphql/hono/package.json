@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@hono/graphql-server": "0.5.1",
-    "hono": "4.7.5"
+    "hono": "4.7.6"
   },
   "devDependencies": {
     "@dotenvx/dotenvx": "1.39.1",
