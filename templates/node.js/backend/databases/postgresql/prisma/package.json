@@ -18,7 +18,7 @@
     "dev": "nodemon"
   },
   "dependencies": {
-    "@prisma/client": "6.5.0"
+    "@prisma/client": "6.6.0"
   },
   "devDependencies": {
     "@eslint/js": "9.24.0",
@@ -27,7 +27,7 @@
     "globals": "16.0.0",
     "nodemon": "3.1.9",
     "prettier": "3.5.3",
-    "prisma": "6.5.0",
+    "prisma": "6.6.0",
     "ts-node": "10.9.2",
     "typescript": "5.8.3",
     "typescript-eslint": "8.29.1"
