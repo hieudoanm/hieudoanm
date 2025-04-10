@@ -8,6 +8,7 @@ Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
   - [📱 Apps](#-apps)
   - [🖥️ Nothing](#️-nothing)
   - [📟 CLI](#-cli)
+  - [➕ Extensions](#-extensions)
 
 ## 📱 Apps
 
@@ -35,6 +36,13 @@ Standalone Application with HTMX and Back-end
 | 03  | [GitHub CLI][gh-cli-extension] | `gh-coc`       | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc)     |
 | 04  | [GitHub CLI][gh-cli-extension] | `gh-ignore`    | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
 | 05  | [GitHub CLI][gh-cli-extension] | `gh-license`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
+
+## ➕ Extensions
+
+Download `extension.zip` and install it yourself.
+
+- [chess.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/chess.com/download)
+- [github.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/github.com/download)
 
 [apps]: https://hieudoanm.github.io/apps
 
