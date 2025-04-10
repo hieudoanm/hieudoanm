@@ -8,6 +8,7 @@ Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
   - [📱 Apps](#-apps)
   - [🖥️ Nothing](#️-nothing)
   - [📟 CLI](#-cli)
+    - [🐙 GitHub CLI Extension](#-github-cli-extension)
   - [➕ Extensions](#-extensions)
 
 ## 📱 Apps
@@ -29,13 +30,20 @@ Standalone Application with HTMX and Back-end
 
 ## 📟 CLI
 
-| No  | Technology                     | Name           | Documentation                                                                                                                 | Download                                                                                                                      |
-| --- | ------------------------------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 01  | `bash`                         | `nothing.bash` | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md)                     | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash)                  |
-| 02  | [Cobra](https://cobra.dev/)    | `nothing`      | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md)             | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/nothing)                |
-| 03  | [GitHub CLI][gh-cli-extension] | `gh-coc`       | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc)     |
-| 04  | [GitHub CLI][gh-cli-extension] | `gh-ignore`    | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
-| 05  | [GitHub CLI][gh-cli-extension] | `gh-license`   | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
+| No  | Technology                  | Name           | Documentation                                                                                                     | Download                                                                                                       |
+| --- | --------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 01  | `bash`                      | `nothing.bash` | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md)         | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash)   |
+| 02  | [Cobra](https://cobra.dev/) | `nothing`      | [Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md) | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/nothing) |
+
+### 🐙 [GitHub CLI Extension][gh-cli-extension]
+
+[Documentation](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md)
+
+| No  | Name         | Download                                                                                                                      |
+| --- | ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 01  | `gh-coc`     | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc)     |
+| 02  | `gh-ignore`  | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore)  |
+| 03  | `gh-license` | [Download](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license) |
 
 ## ➕ Extensions
 
