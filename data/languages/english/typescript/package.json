@@ -29,7 +29,7 @@
     "prepare": "pnpm run database:generate"
   },
   "dependencies": {
-    "@prisma/client": "6.5.0"
+    "@prisma/client": "6.6.0"
   },
   "devDependencies": {
     "@eslint/js": "9.24.0",
@@ -38,7 +38,7 @@
     "eslint": "9.24.0",
     "globals": "16.0.0",
     "prettier": "3.5.3",
-    "prisma": "6.5.0",
+    "prisma": "6.6.0",
     "rimraf": "6.0.1",
     "ts-node": "10.9.2",
     "typescript": "5.8.3",
