@@ -18638,7 +18638,7 @@ snapshots:
 
   '@docusaurus/react-loadable@6.0.0(react@19.1.0)':
     dependencies:
-      '@types/react': 19.1.0
+      '@types/react': 19.0.12
       react: 19.1.0
 
   '@docusaurus/theme-classic@3.7.0(@types/react@19.1.0)(acorn@8.14.1)(eslint@9.24.0(jiti@2.4.2))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(typescript@5.8.3)':
