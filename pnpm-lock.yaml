@@ -119,8 +119,8 @@ importers:
         specifier: 6.0.1
         version: 6.0.1
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-loader:
         specifier: 9.5.2
         version: 9.5.2(typescript@5.8.3)(webpack@5.99.5)
@@ -195,8 +195,8 @@ importers:
         specifier: 6.0.1
         version: 6.0.1
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-loader:
         specifier: 9.5.2
         version: 9.5.2(typescript@5.8.3)(webpack@5.99.5)
@@ -226,8 +226,8 @@ importers:
         version: 4.7.6
     devDependencies:
       '@dotenvx/dotenvx':
-        specifier: 1.39.1
-        version: 1.39.1
+        specifier: 1.40.0
+        version: 1.40.0
       '@eslint/js':
         specifier: 9.24.0
         version: 9.24.0
@@ -256,8 +256,8 @@ importers:
         specifier: 3.5.3
         version: 3.5.3
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-node:
         specifier: 10.9.2
         version: 10.9.2(@types/node@22.14.1)(typescript@5.8.3)
@@ -393,8 +393,8 @@ importers:
         specifier: 7.1.0
         version: 7.1.0
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-loader:
         specifier: 9.5.2
         version: 9.5.2(typescript@5.8.3)(webpack@5.98.0)
@@ -454,8 +454,8 @@ importers:
         specifier: 6.0.1
         version: 6.0.1
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-loader:
         specifier: 9.5.2
         version: 9.5.2(typescript@5.8.3)(webpack@5.99.5)
@@ -488,8 +488,8 @@ importers:
         specifier: 4.20250413.0
         version: 4.20250413.0
       '@dotenvx/dotenvx':
-        specifier: 1.39.1
-        version: 1.39.1
+        specifier: 1.40.0
+        version: 1.40.0
       '@eslint/js':
         specifier: 9.24.0
         version: 9.24.0
@@ -521,8 +521,8 @@ importers:
         specifier: 6.6.0
         version: 6.6.0(typescript@5.8.3)
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-node:
         specifier: 10.9.2
         version: 10.9.2(@types/node@22.14.1)(typescript@5.8.3)
@@ -685,8 +685,8 @@ importers:
         specifier: 7.1.0
         version: 7.1.0
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-loader:
         specifier: 9.5.2
         version: 9.5.2(typescript@5.8.3)(webpack@5.99.5)
@@ -712,8 +712,8 @@ importers:
   templates/node.js/backend/databases/postgresql/drizzle:
     dependencies:
       '@dotenvx/dotenvx':
-        specifier: 1.39.1
-        version: 1.39.1
+        specifier: 1.40.0
+        version: 1.40.0
       drizzle-orm:
         specifier: 0.41.0
         version: 0.41.0(@cloudflare/workers-types@4.20250413.0)(@opentelemetry/api@1.4.1)(@prisma/client@6.6.0(prisma@6.6.0(typescript@5.8.3))(typescript@5.8.3))(@types/pg@8.11.12)(gel@2.0.1)(pg@8.14.1)(prisma@6.6.0(typescript@5.8.3))
@@ -834,8 +834,8 @@ importers:
         specifier: 5.26.2
         version: 5.26.2
       svelte-check:
-        specifier: 4.1.5
-        version: 4.1.5(picomatch@4.0.2)(svelte@5.26.2)(typescript@5.8.3)
+        specifier: 4.1.6
+        version: 4.1.6(picomatch@4.0.2)(svelte@5.26.2)(typescript@5.8.3)
       tslib:
         specifier: 2.8.1
         version: 2.8.1
@@ -965,8 +965,8 @@ importers:
         specifier: 4.0.1
         version: 4.0.1(react-native@0.79.0(@babel/core@7.26.10)(@types/react@19.1.1)(react@19.1.0))
       '@tanstack/react-query':
-        specifier: 5.73.3
-        version: 5.73.3(react@19.1.0)
+        specifier: 5.74.0
+        version: 5.74.0(react@19.1.0)
       expo:
         specifier: 52.0.44
         version: 52.0.44(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@expo/metro-runtime@4.0.1(react-native@0.79.0(@babel/core@7.26.10)(@types/react@19.1.1)(react@19.1.0)))(encoding@0.1.13)(graphql@16.10.0)(react-native@0.79.0(@babel/core@7.26.10)(@types/react@19.1.1)(react@19.1.0))(react@19.1.0)
@@ -1080,8 +1080,8 @@ importers:
         specifier: 4.1.3
         version: 4.1.3
       ts-jest:
-        specifier: 29.3.1
-        version: 29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
+        specifier: 29.3.2
+        version: 29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3)
       ts-node:
         specifier: 10.9.2
         version: 10.9.2(@types/node@22.14.1)(typescript@5.8.3)
@@ -2586,8 +2586,8 @@ packages:
     resolution: {integrity: sha512-e7zcB6TPnVzyUaHMJyLSArKa2AG3h9+4CfvKXKKWNx6hRs+p0a+u7HHTJBgo6KW2m+vqDnuIHK4X+bhmoghAFA==}
     engines: {node: '>=18.0'}
 
-  '@dotenvx/dotenvx@1.39.1':
-    resolution: {integrity: sha512-FIjEB/s3TSQBYnYA64GPkXJrOR6w5J52SSnl6gSoq1tp+4r9zLjaAsf65AgDv5emA4ypm90gVWv1XX0/bfHA/A==}
+  '@dotenvx/dotenvx@1.40.0':
+    resolution: {integrity: sha512-cfYHAIBkSfI0nuOagBhqYGq0k/pSIPdbM7+/IROcdGMjUxYdNXXqzO1d6b9u9dY4rancte3fR/4wGI4Zb09USg==}
     hasBin: true
 
   '@drizzle-team/brocli@0.10.2':
@@ -5701,11 +5701,11 @@ packages:
   '@tailwindcss/postcss@4.1.3':
     resolution: {integrity: sha512-6s5nJODm98F++QT49qn8xJKHQRamhYHfMi3X7/ltxiSQ9dyRsaFSfFkfaMsanWzf+TMYQtbk8mt5f6cCVXJwfg==}
 
-  '@tanstack/query-core@5.73.3':
-    resolution: {integrity: sha512-LUpsgVT3IkvOECdkQ3QD6esczSH71mAzH/LDZ2cu8j6w430v5W0JB1ulzsG8FFwFBd5fm/ePM2DFpg9TucRMgQ==}
+  '@tanstack/query-core@5.74.0':
+    resolution: {integrity: sha512-kMqBfXA06INskI06rm+abAY3/Vi/Kq1nRNfLbpwuhuMJ5lMAI5qASretlvjEO5OJoze6w7OB3pNvsbztirIWWQ==}
 
-  '@tanstack/react-query@5.73.3':
-    resolution: {integrity: sha512-umsAEsVsSSnrOZrstX/OlctdqkRZm6vPsetmbl241tdNo0jT3s+0bUoof9kCaTsPr/GopPlbJ1OYlrZj4toKzg==}
+  '@tanstack/react-query@5.74.0':
+    resolution: {integrity: sha512-tT/XQ8FmG5nlN7O8xnYaOM1c1ckJi9+SPKRq+Ay8rV118lefWCoFDQIsF/BarRsLTHijBmSQ6xE9PRugaOqrCQ==}
     peerDependencies:
       react: ^18 || ^19
 
@@ -14877,8 +14877,8 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
-  svelte-check@4.1.5:
-    resolution: {integrity: sha512-Gb0T2IqBNe1tLB9EB1Qh+LOe+JB8wt2/rNBDGvkxQVvk8vNeAoG+vZgFB/3P5+zC7RWlyBlzm9dVjZFph/maIg==}
+  svelte-check@4.1.6:
+    resolution: {integrity: sha512-P7w/6tdSfk3zEVvfsgrp3h3DFC75jCdZjTQvgGJtjPORs1n7/v2VMPIoty3PWv7jnfEm3x0G/p9wH4pecTb0Wg==}
     engines: {node: '>= 18.0.0'}
     hasBin: true
     peerDependencies:
@@ -15146,8 +15146,8 @@ packages:
   ts-interface-checker@0.1.13:
     resolution: {integrity: sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==}
 
-  ts-jest@29.3.1:
-    resolution: {integrity: sha512-FT2PIRtZABwl6+ZCry8IY7JZ3xMuppsEV9qFVHOVe8jDzggwUZ9TsM4chyJxL9yi6LvkqcZYU3LmapEE454zBQ==}
+  ts-jest@29.3.2:
+    resolution: {integrity: sha512-bJJkrWc6PjFVz5g2DGCNUo8z7oFEYaz1xP1NpeDU7KNLMWPpEyV8Chbpkn8xjzgRDpQhnGMyvyldoL7h8JXyug==}
     engines: {node: ^14.15.0 || ^16.10.0 || ^18.0.0 || >=20.0.0}
     hasBin: true
     peerDependencies:
@@ -15332,6 +15332,10 @@ packages:
 
   type-fest@4.38.0:
     resolution: {integrity: sha512-2dBz5D5ycHIoliLYLi0Q2V7KRaDlH0uWIvmk7TYlAg5slqwiPv1ezJdZm1QEM0xgk29oYWMCbIG7E6gHpvChlg==}
+    engines: {node: '>=16'}
+
+  type-fest@4.39.1:
+    resolution: {integrity: sha512-uW9qzd66uyHYxwyVBYiwS4Oi0qZyUqwjU+Oevr6ZogYiXt99EOYtwvzMSLw1c3lYo2HzJsep/NB23iEVEgjG/w==}
     engines: {node: '>=16'}
 
   type-is@1.6.18:
@@ -18907,7 +18911,7 @@ snapshots:
       - uglify-js
       - webpack-cli
 
-  '@dotenvx/dotenvx@1.39.1':
+  '@dotenvx/dotenvx@1.40.0':
     dependencies:
       commander: 11.1.0
       dotenv: 16.4.7
@@ -22355,11 +22359,11 @@ snapshots:
       postcss: 8.5.3
       tailwindcss: 4.1.3
 
-  '@tanstack/query-core@5.73.3': {}
+  '@tanstack/query-core@5.74.0': {}
 
-  '@tanstack/react-query@5.73.3(react@19.1.0)':
+  '@tanstack/react-query@5.74.0(react@19.1.0)':
     dependencies:
-      '@tanstack/query-core': 5.73.3
+      '@tanstack/query-core': 5.74.0
       react: 19.1.0
 
   '@tauri-apps/cli-darwin-arm64@2.4.1':
@@ -33900,7 +33904,7 @@ snapshots:
 
   supports-preserve-symlinks-flag@1.0.0: {}
 
-  svelte-check@4.1.5(picomatch@4.0.2)(svelte@5.26.2)(typescript@5.8.3):
+  svelte-check@4.1.6(picomatch@4.0.2)(svelte@5.26.2)(typescript@5.8.3):
     dependencies:
       '@jridgewell/trace-mapping': 0.3.25
       chokidar: 4.0.3
@@ -34165,7 +34169,7 @@ snapshots:
 
   ts-interface-checker@0.1.13: {}
 
-  ts-jest@29.3.1(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3):
+  ts-jest@29.3.2(@babel/core@7.26.10)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.10))(esbuild@0.25.2)(jest@29.7.0(@types/node@22.14.1)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@types/node@22.14.1)(typescript@5.8.3)))(typescript@5.8.3):
     dependencies:
       bs-logger: 0.2.6
       ejs: 3.1.10
@@ -34176,7 +34180,7 @@ snapshots:
       lodash.memoize: 4.1.2
       make-error: 1.3.6
       semver: 7.7.1
-      type-fest: 4.38.0
+      type-fest: 4.39.1
       typescript: 5.8.3
       yargs-parser: 21.1.1
     optionalDependencies:
@@ -34348,6 +34352,8 @@ snapshots:
   type-fest@2.19.0: {}
 
   type-fest@4.38.0: {}
+
+  type-fest@4.39.1: {}
 
   type-is@1.6.18:
     dependencies:
