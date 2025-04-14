@@ -226,8 +226,8 @@ importers:
         version: 4.7.6
     devDependencies:
       '@dotenvx/dotenvx':
-        specifier: 1.39.1
-        version: 1.39.1
+        specifier: 1.40.0
+        version: 1.40.0
       '@eslint/js':
         specifier: 9.24.0
         version: 9.24.0
@@ -488,8 +488,8 @@ importers:
         specifier: 4.20250412.0
         version: 4.20250412.0
       '@dotenvx/dotenvx':
-        specifier: 1.39.1
-        version: 1.39.1
+        specifier: 1.40.0
+        version: 1.40.0
       '@eslint/js':
         specifier: 9.24.0
         version: 9.24.0
@@ -712,8 +712,8 @@ importers:
   templates/node.js/backend/databases/postgresql/drizzle:
     dependencies:
       '@dotenvx/dotenvx':
-        specifier: 1.39.1
-        version: 1.39.1
+        specifier: 1.40.0
+        version: 1.40.0
       drizzle-orm:
         specifier: 0.41.0
         version: 0.41.0(@cloudflare/workers-types@4.20250412.0)(@opentelemetry/api@1.4.1)(@prisma/client@6.6.0(prisma@6.6.0(typescript@5.8.3))(typescript@5.8.3))(@types/pg@8.11.12)(gel@2.0.1)(pg@8.14.1)(prisma@6.6.0(typescript@5.8.3))
@@ -2586,8 +2586,8 @@ packages:
     resolution: {integrity: sha512-e7zcB6TPnVzyUaHMJyLSArKa2AG3h9+4CfvKXKKWNx6hRs+p0a+u7HHTJBgo6KW2m+vqDnuIHK4X+bhmoghAFA==}
     engines: {node: '>=18.0'}
 
-  '@dotenvx/dotenvx@1.39.1':
-    resolution: {integrity: sha512-FIjEB/s3TSQBYnYA64GPkXJrOR6w5J52SSnl6gSoq1tp+4r9zLjaAsf65AgDv5emA4ypm90gVWv1XX0/bfHA/A==}
+  '@dotenvx/dotenvx@1.40.0':
+    resolution: {integrity: sha512-cfYHAIBkSfI0nuOagBhqYGq0k/pSIPdbM7+/IROcdGMjUxYdNXXqzO1d6b9u9dY4rancte3fR/4wGI4Zb09USg==}
     hasBin: true
 
   '@drizzle-team/brocli@0.10.2':
@@ -18907,7 +18907,7 @@ snapshots:
       - uglify-js
       - webpack-cli
 
-  '@dotenvx/dotenvx@1.39.1':
+  '@dotenvx/dotenvx@1.40.0':
     dependencies:
       commander: 11.1.0
       dotenv: 16.4.7
