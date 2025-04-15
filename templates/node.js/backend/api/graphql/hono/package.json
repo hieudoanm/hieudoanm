@@ -7,7 +7,7 @@
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
   "license": "GPL-3.0",
   "private": true,
-  "packageManager": "pnpm@10.8.0",
+  "packageManager": "pnpm@10.8.1",
   "scripts": {
     "predev": "kill-port 8787",
     "dev": "dotenvx run -- wrangler dev api/index.ts",
