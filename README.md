@@ -15,10 +15,10 @@ Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
 
-| [Apps][apps]                 | App 1                    | App 2                          | App 3                        | App 4                        | App 5                | App 6                    |
-| ---------------------------- | ------------------------ | ------------------------------ | ---------------------------- | ---------------------------- | -------------------- | ------------------------ |
-| [Chess][app-chess]           | [Chess960][app-chess960] | [Openings][app-chess-openings] | [fen2png][app-chess-fen2png] | [pgn2gif][app-chess-pgn2gif] | [elo][app-chess-elo] | [Clock][app-chess-clock] |
-| [Calculator][app-calculator] | [Clock][app-clock]       | [Colors][app-colors]           | [editor][app-editor]         | [photos][app-photos]         | [status][app-status] | [telegram][app-telegram] |
+| [Apps][apps]       | App 1                    | App 2                          | App 3                        | App 4                        | App 5                    | App 6                    |
+| ------------------ | ------------------------ | ------------------------------ | ---------------------------- | ---------------------------- | ------------------------ | ------------------------ |
+| [Chess][app-chess] | [chess960][app-chess960] | [openings][app-chess-openings] | [fen2png][app-chess-fen2png] | [pgn2gif][app-chess-pgn2gif] | [elo][app-chess-elo]     | [clock][app-chess-clock] |
+| [Clock][app-clock] | [Colors][app-colors]     | [editor][app-editor]           | [photos][app-photos]         | [status][app-status]         | [telegram][app-telegram] | [words][app-words]       |
 
 ### 🖥️ Nothing
 
@@ -63,12 +63,12 @@ Download `extension.zip` and install it yourself.
 [app-chess-elo]: https://hieudoanm.github.io/apps/chess/tools/elo
 [app-chess-clock]: https://hieudoanm.github.io/apps/chess/tools/clock
 
-[app-calculator]: https://hieudoanm.github.io/apps/calculator
 [app-clock]: https://hieudoanm.github.io/apps/clock
 [app-colors]: https://hieudoanm.github.io/apps/colors
 [app-editor]: https://hieudoanm.github.io/apps/editor
 [app-photos]: https://hieudoanm.github.io/apps/photos
 [app-status]: https://hieudoanm.github.io/apps/status
 [app-telegram]: https://hieudoanm.github.io/apps/telegram/webhook
+[app-words]: https://hieudoanm.github.io/apps/words/english
 
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
