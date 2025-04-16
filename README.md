@@ -15,10 +15,10 @@ Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser only).
 
-| App 0              | App 1                      | App 2                          | App 3                        | App 4                        | App 5                | App 6                    |
-| ------------------ | -------------------------- | ------------------------------ | ---------------------------- | ---------------------------- | -------------------- | ------------------------ |
-| [Apps][apps]       | [chemistry][app-chemistry] | [Clock][app-clock]             | [Colors][app-colors]         | [editor][app-editor]         | [photos][app-photos] | [status][app-status]     |
-| [Chess][app-chess] | [chess960][app-chess960]   | [openings][app-chess-openings] | [fen2png][app-chess-fen2png] | [pgn2gif][app-chess-pgn2gif] | [elo][app-chess-elo] | [clock][app-chess-clock] |
+| [Chess][app-chess]       | App 2                          | App 3                        | App 4                        | App 5                | App 6                    |
+| ------------------------ | ------------------------------ | ---------------------------- | ---------------------------- | -------------------- | ------------------------ |
+| [Apps][apps]             | [chemistry][app-chemistry]     | [Colors][app-colors]         | [photos][app-photos]         | [status][app-status] | [studio][app-studio]     |
+| [chess960][app-chess960] | [openings][app-chess-openings] | [fen2png][app-chess-fen2png] | [pgn2gif][app-chess-pgn2gif] | [elo][app-chess-elo] | [clock][app-chess-clock] |
 
 ### 🖥️ Nothing
 
@@ -66,8 +66,8 @@ Download `extension.zip` and install it yourself.
 [app-chemistry]: https://hieudoanm.github.io/apps/chemistry
 [app-clock]: https://hieudoanm.github.io/apps/clock
 [app-colors]: https://hieudoanm.github.io/apps/colors
-[app-editor]: https://hieudoanm.github.io/apps/editor
 [app-photos]: https://hieudoanm.github.io/apps/photos
 [app-status]: https://hieudoanm.github.io/apps/status
+[app-studio]: https://hieudoanm.github.io/apps/studio
 
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
