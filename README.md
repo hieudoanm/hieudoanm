@@ -1,6 +1,6 @@
 # 👨‍💻 I'm [HIEU DOAN](https://hieudoanm.github.io)
 
-A Computational Neuroscience enthusiast with a background in Software Development.
+![social](./assets/images/cover.png)
 
 Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
 
