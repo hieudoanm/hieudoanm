@@ -2,7 +2,7 @@
 
 # 👨‍💻 I'm [HIEU DOAN](https://hieudoanm.github.io)
 
-Check out my [techstack](https://hieudoanm.github.io/posts/techstack)
+Check out my [techstack](https://hieudoanm.github.io/posts/programming/techstack/)
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [📱 Apps](#-apps)
