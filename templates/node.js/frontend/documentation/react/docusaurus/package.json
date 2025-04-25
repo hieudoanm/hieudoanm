@@ -15,7 +15,7 @@
   "homepage": "https://github.com/hieudoanm/hieudoanm#readme",
   "private": true,
   "engines": {
-    "node": "22.14.0"
+    "node": "22.15.0"
   },
   "scripts": {
     "format": "prettier --cache --write .",
