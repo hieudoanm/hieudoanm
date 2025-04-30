@@ -329,8 +329,8 @@ importers:
         specifier: 11.1.0
         version: 11.1.0(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)
       '@nestjs/swagger':
-        specifier: 11.1.5
-        version: 11.1.5(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)
+        specifier: 11.1.6
+        version: 11.1.6(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)
       axios:
         specifier: 1.9.0
         version: 1.9.0
@@ -606,8 +606,8 @@ importers:
         specifier: 11.1.0
         version: 11.1.0(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)
       '@nestjs/swagger':
-        specifier: 11.1.5
-        version: 11.1.5(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)
+        specifier: 11.1.6
+        version: 11.1.6(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)
       '@nestjs/throttler':
         specifier: 6.4.0
         version: 6.4.0(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)
@@ -4380,8 +4380,8 @@ packages:
     peerDependencies:
       typescript: '>=4.8.2'
 
-  '@nestjs/swagger@11.1.5':
-    resolution: {integrity: sha512-qVkyUSCvEmfTVWK92hsCeOQaOODlyBGkZC4ldqb4Fi0Gg8/kOWlcPJVN6i4a9edYYSdICUkGnt6UVFgi59fSrQ==}
+  '@nestjs/swagger@11.1.6':
+    resolution: {integrity: sha512-W5OyhLqUHg8CDy4GC5LBYOyGIq3dxhKNliBZ7xf2Q95+oDzptb3LGp8vwwf1ItEjyGdxM+USDStQPg2oAcxEgw==}
     peerDependencies:
       '@fastify/static': ^8.0.0
       '@nestjs/common': ^11.0.1
@@ -20555,7 +20555,7 @@ snapshots:
     transitivePeerDependencies:
       - chokidar
 
-  '@nestjs/swagger@11.1.5(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)':
+  '@nestjs/swagger@11.1.6(@nestjs/common@11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@11.1.0)(reflect-metadata@0.2.2)':
     dependencies:
       '@microsoft/tsdoc': 0.15.1
       '@nestjs/common': 11.1.0(reflect-metadata@0.2.2)(rxjs@7.8.2)
@@ -22971,12 +22971,12 @@ snapshots:
   '@webpack-cli/configtest@3.0.1(webpack-cli@6.0.1)(webpack@5.99.7)':
     dependencies:
       webpack: 5.99.7(webpack-cli@6.0.1)
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.7)
+      webpack-cli: 6.0.1(webpack@5.99.7)
 
   '@webpack-cli/generators@3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.7)':
     dependencies:
       webpack: 5.99.7(webpack-cli@6.0.1)
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.7)
+      webpack-cli: 6.0.1(webpack@5.99.7)
       yeoman-environment: 3.19.3
       yeoman-generator: 5.10.0(encoding@0.1.13)(mem-fs@2.3.0)(yeoman-environment@3.19.3)
     optionalDependencies:
@@ -22990,7 +22990,7 @@ snapshots:
   '@webpack-cli/info@3.0.1(webpack-cli@6.0.1)(webpack@5.99.7)':
     dependencies:
       webpack: 5.99.7(webpack-cli@6.0.1)
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.7)
+      webpack-cli: 6.0.1(webpack@5.99.7)
 
   '@webpack-cli/serve@3.0.1(webpack-cli@6.0.1)(webpack-dev-server@5.2.1)(webpack@5.99.7)':
     dependencies:
@@ -34368,7 +34368,7 @@ snapshots:
       watchpack: 2.4.2
       webpack-sources: 3.2.3
     optionalDependencies:
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.7)
+      webpack-cli: 6.0.1(webpack@5.99.7)
     transitivePeerDependencies:
       - '@swc/core'
       - esbuild
