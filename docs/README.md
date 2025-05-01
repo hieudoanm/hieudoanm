@@ -16,6 +16,8 @@
 - [Nothing][app-nothing]: Standalone Application with HTMX and Back-end
 - [Studio][app-studio]: A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
+[⬆️ Back to Table of Contents](#️-table-of-contents)
+
 ## 📟 CLI
 
 | No  | Technology                               | Name           | Documentation               | Download                  |
@@ -26,6 +28,8 @@
 | 02  | [GitHub CLI Extension][gh-cli-extension] | `gh-ignore`    | [Documentation][doc-gh-cli] | [Download][dl-gh-ignore]  |
 | 03  | [GitHub CLI Extension][gh-cli-extension] | `gh-license`   | [Documentation][doc-gh-cli] | [Download][dl-gh-license] |
 
+[⬆️ Back to Table of Contents](#️-table-of-contents)
+
 ## ➕ Extensions
 
 Download `extension.zip` and install it yourself.
@@ -33,9 +37,17 @@ Download `extension.zip` and install it yourself.
 - [chess.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/chess.com/download)
 - [github.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/github.com/download)
 
+[⬆️ Back to Table of Contents](#️-table-of-contents)
+
 ## 📰 Posts
 
-- 🧰 [Techstack][hieudoanm-techstack]
+1. 🧬 [Biology][post-biology]
+2. 🧰 [Techstack][post-techstack]
+3. ⚽ [Liverpool][post-liverpool]
+4. 💻 [Programming][post-programming]
+5. 🤖 [JavaScript][post-javascript]
+
+[⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-nothing]: https://nothing-instagram.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
@@ -53,4 +65,9 @@ Download `extension.zip` and install it yourself.
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
 
 [hieudoanm]: https://hieudoanm.github.io
-[hieudoanm-techstack]: https://hieudoanm.github.io/posts/education/steam/technology/techstack/
+
+[post-biology]: https://hieudoanm.github.io/posts/education/steam/sciences/biology/
+[post-javascript]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/front-end/javascript/
+[post-liverpool]: https://hieudoanm.github.io/posts/sports/team/association-football/english/liverpool/
+[post-programming]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/popular/
+[post-techstack]: https://hieudoanm.github.io/posts/education/steam/technology/programming/techstack/
