@@ -1,13 +1,15 @@
-# 👨‍💻 I'm [HIEU DOAN](https://hieudoanm.github.io)
+# 👨‍💻 I'm [HIEU DOAN][hieudoanm]
 
 ![social](./assets/images/cover.png)
 
-Check out my [techstack](https://hieudoanm.github.io/posts/education/steam/technology/techstack/)
+## 🗄️ Table of Contents
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
+  - [🗄️ Table of Contents](#️-table-of-contents)
   - [📱 Apps](#-apps)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
+  - [📰 Posts](#-posts)
 
 ## 📱 Apps
 
@@ -31,6 +33,10 @@ Download `extension.zip` and install it yourself.
 - [chess.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/chess.com/download)
 - [github.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/github.com/download)
 
+## 📰 Posts
+
+- 🧰 [Techstack][hieudoanm-techstack]
+
 [app-nothing]: https://nothing-instagram.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
 
@@ -45,3 +51,6 @@ Download `extension.zip` and install it yourself.
 [dl-gh-license]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license
 
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
+
+[hieudoanm]: https://hieudoanm.github.io
+[hieudoanm-techstack]: https://hieudoanm.github.io/posts/education/steam/technology/techstack/
