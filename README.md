@@ -41,11 +41,13 @@ Download `extension.zip` and install it yourself.
 
 ## 📰 Posts
 
-1. 🧬 [Biology][post-biology]
-2. 🧰 [Techstack][post-techstack]
-3. ⚽ [Liverpool][post-liverpool]
-4. 💻 [Programming][post-programming]
-5. 🤖 [JavaScript][post-javascript]
+| #   | Sciences                      | Programming                   | Sports                      |
+| --- | ----------------------------- | ----------------------------- | --------------------------- |
+| 1   | [Biology][post-biology]       | [Techstack][post-techstack]   | [Liverpool][post-liverpool] |
+| 2   | [Technology][post-technology] | [JavaScript][post-javascript] | [2700 Chess][post-2700]     |
+| 3   | [Minimalism][post-minimalism] | [Python][post-python]         | [Chess960][post-960]        |
+| 4   | [Bored][post-bored]           | [Golang][post-golang]         | [NBA][post-nba]             |
+| 5   | [Korean][post-korean]         | [Rust][post-rust]             | [Marathon][post-marathon]   |
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -66,8 +68,18 @@ Download `extension.zip` and install it yourself.
 
 [hieudoanm]: https://hieudoanm.github.io
 
+[post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
+[post-960]: https://hieudoanm.github.io/posts/sports/individual/chess/variants/
 [post-biology]: https://hieudoanm.github.io/posts/education/steam/sciences/biology/
+[post-bored]: https://hieudoanm.github.io/posts/personal/bored/
+[post-golang]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/low-level/golang/
 [post-javascript]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/front-end/javascript/
+[post-korean]: https://hieudoanm.github.io/posts/education/social/languages/korean/letters/
 [post-liverpool]: https://hieudoanm.github.io/posts/sports/team/association-football/english/liverpool/
-[post-programming]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/popular/
+[post-marathon]: https://hieudoanm.github.io/posts/sports/individual/marathon/
+[post-minimalism]: https://hieudoanm.github.io/posts/materialism/minimalism/
+[post-nba]: https://hieudoanm.github.io/posts/sports/team/basketball/nba/
+[post-python]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/data-science/python/
+[post-rust]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/low-level/rust/
+[post-technology]: https://hieudoanm.github.io/posts/materialism/technology/
 [post-techstack]: https://hieudoanm.github.io/posts/education/steam/technology/programming/techstack/
