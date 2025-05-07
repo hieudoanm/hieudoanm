@@ -533,8 +533,8 @@ importers:
         specifier: 8.32.0
         version: 8.32.0(eslint@9.26.0(jiti@2.4.2))(typescript@5.8.3)
       vercel:
-        specifier: 41.7.0
-        version: 41.7.0(encoding@0.1.13)(rollup@4.40.2)
+        specifier: 41.7.2
+        version: 41.7.2(encoding@0.1.13)(rollup@4.40.2)
       wrangler:
         specifier: 4.14.2
         version: 4.14.2(@cloudflare/workers-types@4.20250506.0)
@@ -5785,8 +5785,8 @@ packages:
   '@vercel/hydrogen@1.2.0':
     resolution: {integrity: sha512-kdZp8cTVLoNmnu24wtoQPu9ZO+uB00zvDMTOXlQmNdq/V3k0mQa/Q5k2B8nliBQ3BMiBasoXxMKv59+F8rYvDw==}
 
-  '@vercel/next@4.7.9':
-    resolution: {integrity: sha512-zwm4IKrtWaBlPKU6isGwRg/+i/Do+QVdnXTRKaDeYnMAI703cysqOr1VE1rWBSJCzmUUOJkeJdXidBaMpGgRaw==}
+  '@vercel/next@4.7.10':
+    resolution: {integrity: sha512-IC3z3TbFpvaeZirPjk0E6eyB1XQqzEc2kLlN5kF9PPFHgcBL4ktEgnJanCg3RzOnRf2jc169MryD4DIErZ9OuA==}
 
   '@vercel/nft@0.27.10':
     resolution: {integrity: sha512-zbaF9Wp/NsZtKLE4uVmL3FyfFwlpDyuymQM1kPbeT0mVOHKDQQNjnnfslB3REg3oZprmNFJuh3pkHBk2qAaizg==}
@@ -15104,8 +15104,8 @@ packages:
     resolution: {integrity: sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==}
     engines: {node: '>= 0.8'}
 
-  vercel@41.7.0:
-    resolution: {integrity: sha512-71yoAOnzGzIBNTmsX3rfPKD03dSLA1cIu09rwulJDqARctfmJj8t+AmOC5jtpczOj7Z5HGgZMaLIrXrv220lcQ==}
+  vercel@41.7.2:
+    resolution: {integrity: sha512-XL62xOTXSU2AucAWWNrNaY98M6UQyzPCKMeaTTbAdk42bgcmiL/3GKyKJs0T+li0aFp7w4QPZyB/9+Ll0qRzEw==}
     engines: {node: '>= 18'}
     hasBin: true
 
@@ -21673,7 +21673,7 @@ snapshots:
 
   '@types/sax@1.2.7':
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 22.15.12
 
   '@types/semver@7.7.0': {}
 
@@ -21872,7 +21872,7 @@ snapshots:
       '@vercel/static-config': 3.0.0
       ts-morph: 12.0.0
 
-  '@vercel/next@4.7.9(encoding@0.1.13)(rollup@4.40.2)':
+  '@vercel/next@4.7.10(encoding@0.1.13)(rollup@4.40.2)':
     dependencies:
       '@vercel/nft': 0.27.10(encoding@0.1.13)(rollup@4.40.2)
     transitivePeerDependencies:
@@ -22542,12 +22542,12 @@ snapshots:
   '@webpack-cli/configtest@3.0.1(webpack-cli@6.0.1)(webpack@5.99.8)':
     dependencies:
       webpack: 5.99.8(webpack-cli@6.0.1)
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.8)
+      webpack-cli: 6.0.1(webpack@5.99.8)
 
   '@webpack-cli/generators@3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.8)':
     dependencies:
       webpack: 5.99.8(webpack-cli@6.0.1)
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.8)
+      webpack-cli: 6.0.1(webpack@5.99.8)
       yeoman-environment: 3.19.3
       yeoman-generator: 5.10.0(encoding@0.1.13)(mem-fs@2.3.0)(yeoman-environment@3.19.3)
     optionalDependencies:
@@ -22561,7 +22561,7 @@ snapshots:
   '@webpack-cli/info@3.0.1(webpack-cli@6.0.1)(webpack@5.99.8)':
     dependencies:
       webpack: 5.99.8(webpack-cli@6.0.1)
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.8)
+      webpack-cli: 6.0.1(webpack@5.99.8)
 
   '@webpack-cli/serve@3.0.1(webpack-cli@6.0.1)(webpack-dev-server@5.2.1)(webpack@5.99.8)':
     dependencies:
@@ -33330,13 +33330,13 @@ snapshots:
 
   vary@1.1.2: {}
 
-  vercel@41.7.0(encoding@0.1.13)(rollup@4.40.2):
+  vercel@41.7.2(encoding@0.1.13)(rollup@4.40.2):
     dependencies:
       '@vercel/build-utils': 10.5.1
       '@vercel/fun': 1.1.5(encoding@0.1.13)
       '@vercel/go': 3.2.1
       '@vercel/hydrogen': 1.2.0
-      '@vercel/next': 4.7.9(encoding@0.1.13)(rollup@4.40.2)
+      '@vercel/next': 4.7.10(encoding@0.1.13)(rollup@4.40.2)
       '@vercel/node': 5.1.15(encoding@0.1.13)(rollup@4.40.2)
       '@vercel/python': 4.7.2
       '@vercel/redwood': 2.3.0(encoding@0.1.13)(rollup@4.40.2)
@@ -33838,7 +33838,7 @@ snapshots:
       watchpack: 2.4.2
       webpack-sources: 3.2.3
     optionalDependencies:
-      webpack-cli: 6.0.1(webpack-dev-server@5.2.1)(webpack@5.99.8)
+      webpack-cli: 6.0.1(webpack@5.99.8)
     transitivePeerDependencies:
       - '@swc/core'
       - esbuild
