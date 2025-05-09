@@ -1,6 +1,6 @@
 # 👨‍💻 I'm [HIEU DOAN][hieudoanm]
 
-![social](./assets/images/cover.png)
+![social](https://raw.githubusercontent.com/hieudoanm/hieudoanm/refs/heads/master/assets/images/cover.png)
 
 ## 🗄️ Table of Contents
 
