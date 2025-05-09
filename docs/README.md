@@ -41,13 +41,18 @@ Download `extension.zip` and install it yourself.
 
 ## 📰 Posts
 
-| #   | Sciences                      | Programming                   | Sports                      |
-| --- | ----------------------------- | ----------------------------- | --------------------------- |
-| 1   | [Biology][post-biology]       | [Techstack][post-techstack]   | [Liverpool][post-liverpool] |
-| 2   | [Technology][post-technology] | [JavaScript][post-javascript] | [2700 Chess][post-2700]     |
-| 3   | [Minimalism][post-minimalism] | [Python][post-python]         | [Chess960][post-960]        |
-| 4   | [Bored][post-bored]           | [Golang][post-golang]         | [NBA][post-nba]             |
-| 5   | [Korean][post-korean]         | [Rust][post-rust]             | [Marathon][post-marathon]   |
+| #   | Sciences                                | Psychology | Programming                   | Sports                      |
+| --- | --------------------------------------- | ---------- | ----------------------------- | --------------------------- |
+| 1   | [Biology][post-biology]                 |            | [Techstack][post-techstack]   | [Liverpool][post-liverpool] |
+| 2   | [Technology][post-technology]           |            | [JavaScript][post-javascript] | [2700 Chess][post-2700]     |
+| 3   | [Minimalism][post-minimalism]           |            | [Python][post-python]         | [Chess960][post-960]        |
+| 4   | [Bored][post-bored]                     |            | [Golang][post-golang]         | [NBA][post-nba]             |
+| 5   | [Languages][post-languages]             |            | [Rust][post-rust]             | [Marathon][post-marathon]   |
+| 6   | [Deutsch - Wörter][post-deutsch-words]  |            |                               |                             |
+| 7   | [Korean - Letters][post-korean-letters] |            |                               |                             |
+| 8   | [Korean - Words][post-korean-words]     |            |                               |                             |
+| 9   |                                         |            |                               |                             |
+| 10  |                                         |            |                               |                             |
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -74,7 +79,10 @@ Download `extension.zip` and install it yourself.
 [post-bored]: https://hieudoanm.github.io/posts/personal/bored/
 [post-golang]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/low-level/golang/
 [post-javascript]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/front-end/javascript/
-[post-korean]: https://hieudoanm.github.io/posts/education/social/languages/korean/letters/
+[post-languages]: https://hieudoanm.github.io/posts/education/social/languages/languages/
+[post-deutsch-words]: https://hieudoanm.github.io/posts/education/social/languages/deutsch/w%C3%B6rter/
+[post-korean-letters]: https://hieudoanm.github.io/posts/education/social/languages/korean/letters/
+[post-korean-words]: https://hieudoanm.github.io/posts/education/social/languages/korean/words/
 [post-liverpool]: https://hieudoanm.github.io/posts/sports/team/association-football/english/liverpool/
 [post-marathon]: https://hieudoanm.github.io/posts/sports/individual/marathon/
 [post-minimalism]: https://hieudoanm.github.io/posts/materialism/minimalism/

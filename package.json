@@ -17,8 +17,8 @@
   "packageManager": "pnpm@10.10.0",
   "scripts": {
     "prebuild-docs": "rimraf ./docs",
-    "build-docs": "rimraf ./docs && docsify init ./docs --theme dark",
-    "serve": "docsify serve ./docs --theme dark",
+    "build-docs": "rimraf ./docs && docsify init ./docs --theme pure",
+    "serve": "docsify serve ./docs --theme pure",
     "format": "turbo run format",
     "build": "turbo run build",
     "lint": "turbo run lint",
