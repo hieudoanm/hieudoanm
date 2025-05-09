@@ -5,12 +5,12 @@ import {
 } from '@apollo/server/plugin/landingPage/default';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import { GraphQLSchema } from 'graphql';
+import { CountriesDataSource } from './data/countries.data-source';
 import { NODE_ENV, PORT } from './environments/environments';
 import { logger } from './log';
 import { schema } from './schema/schema';
-import { CountriesDataSource } from './data/countries.data-source';
 
-const main = async ({ schema }: { schema: GraphQLSchema }) => {
+const startServer = async ({ schema }: { schema: GraphQLSchema }) => {
   const landingPage: ApolloServerPlugin =
     NODE_ENV === 'production'
       ? ApolloServerPluginLandingPageProductionDefault({ footer: false })
@@ -34,4 +34,4 @@ const main = async ({ schema }: { schema: GraphQLSchema }) => {
   logger.info(`🚀 Apollo Server is ready at ${url}`);
 };
 
-main({ schema }).catch(logger.error);
+startServer({ schema }).catch(logger.error);
