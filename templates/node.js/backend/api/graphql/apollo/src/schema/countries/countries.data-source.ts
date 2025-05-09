@@ -1,5 +1,5 @@
 import { RESTDataSource } from '@apollo/datasource-rest';
-import { Country } from '../generated/graphql';
+import { Country } from '../../generated/graphql';
 
 export class CountriesDataSource extends RESTDataSource {
   override baseURL = 'https://restcountries.com/v3.1/';

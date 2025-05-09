@@ -1,5 +1,5 @@
-import { CountriesDataSource } from '../../data/countries.data-source';
 import { Country } from '../../generated/graphql';
+import { CountriesDataSource } from './countries.data-source';
 
 export const resolvers = {
   Query: {

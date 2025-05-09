@@ -5,10 +5,12 @@ import {
 } from '@apollo/server/plugin/landingPage/default';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import { GraphQLSchema } from 'graphql';
-import { CountriesDataSource } from './data/countries.data-source';
-import { NODE_ENV, PORT } from './environments/environments';
-import { logger } from './log';
+import { CountriesDataSource } from './schema/countries/countries.data-source';
 import { schema } from './schema/schema';
+import { logger } from './utils/log';
+
+export const PORT: string = process.env.PORT ?? '5000';
+export const NODE_ENV: string = process.env.NODE_ENV ?? 'development';
 
 const startServer = async ({ schema }: { schema: GraphQLSchema }) => {
   const landingPage: ApolloServerPlugin =
