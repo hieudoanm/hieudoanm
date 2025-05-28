@@ -6,10 +6,15 @@
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
+  - [🎨 Design](#-design)
   - [📱 Apps](#-apps)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
+
+## 🎨 Design
+
+- [Atomic UI][design-atomic]: `atomic/ui` is a free collection of Tailwind CSS components designed with atomic design principles in mind.
 
 ## 📱 Apps
 
@@ -56,8 +61,10 @@ Download `extension.zip` and install it yourself.
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
-[app-nothing]: https://nothing-instagram.onrender.com/
+[app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
+
+[design-atomic]: https://hieudoanm.github.io/atomic-ui/
 
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
