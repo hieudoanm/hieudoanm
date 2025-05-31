@@ -6,15 +6,16 @@
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
-  - [🎨 Design](#-design)
+  - [🎨 Front-end](#-front-end)
   - [📱 Apps](#-apps)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
 
-## 🎨 Design
+## 🎨 Front-end
 
-- [Atomic UI][design-atomic]: `atomic/ui` is a free collection of Tailwind CSS components designed with atomic design principles in mind.
+- [atomic/hooks][atomic-hooks]: `atomic/hooks` a free collection of React hooks built with simplicity and reusability in mind.
+- [atomic/ui][atomic-ui]: `atomic/ui` is a free collection of Tailwind CSS components designed with atomic design principles in mind.
 
 ## 📱 Apps
 
@@ -64,7 +65,8 @@ Download `extension.zip` and install it yourself.
 [app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
 
-[design-atomic]: https://hieudoanm.github.io/atomic-ui/
+[atomic-hooks]: https://hieudoanm.github.io/atomic/hooks/
+[atomic-ui]: https://hieudoanm.github.io/atomic/ui/
 
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
