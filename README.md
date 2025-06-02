@@ -14,8 +14,11 @@
 
 ## 🎨 Front-end
 
-- [atomic/hooks][atomic-hooks]: `atomic/hooks` a free collection of React hooks built with simplicity and reusability in mind.
-- [atomic/ui][atomic-ui]: `atomic/ui` is a free collection of Tailwind CSS components designed with atomic design principles in mind.
+1. [`atomic/charts`][atomic-charts]: a curated collection of responsive web and app charts designed specifically for SaaS products and marketing sites.
+2. [`atomic/hooks`][atomic-hooks]: a free collection of React hooks built with simplicity and reusability in mind.
+3. [`atomic/icons`][atomic-icons]: is a free collection of carefully designed SVG icons crafted for modern interfaces.
+4. [`atomic/templates`][atomic-templates]: a curated collection of responsive web and app templates designed specifically for SaaS products and marketing sites.
+5. [`atomic/ui`][atomic-ui]: a free collection of Tailwind CSS components designed with atomic design principles in mind.
 
 ## 📱 Apps
 
@@ -65,7 +68,10 @@ Download `extension.zip` and install it yourself.
 [app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
 
+[atomic-charts]: https://hieudoanm.github.io/atomic/charts/
 [atomic-hooks]: https://hieudoanm.github.io/atomic/hooks/
+[atomic-icons]: https://hieudoanm.github.io/atomic/icons/
+[atomic-templates]: https://hieudoanm.github.io/atomic/templates/
 [atomic-ui]: https://hieudoanm.github.io/atomic/ui/
 
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
