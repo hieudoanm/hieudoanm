@@ -16,7 +16,7 @@
 
 1. [`atomic/charts`][atomic-charts]: a curated collection of responsive web and app charts designed specifically for SaaS products and marketing sites.
 2. [`atomic/icons`][atomic-icons]: is a free collection of carefully designed SVG icons crafted for modern interfaces.
-3. [`atomic/react-context`][atomic-react-context]: is a free collection of essential context providers designed with simplicity, reusability, and scalability in mind.
+3. [`atomic/react-contexts`][atomic-react-contexts]: is a free collection of essential context providers designed with simplicity, reusability, and scalability in mind.
 4. [`atomic/react-hooks`][atomic-react-hooks]: a free collection of React hooks built with simplicity and reusability in mind.s
 5. [`atomic/templates`][atomic-templates]: a curated collection of responsive web and app templates designed specifically for SaaS products and marketing sites.
 6. [`atomic/ui`][atomic-ui]: a free collection of Tailwind CSS components designed with atomic design principles in mind.
@@ -71,7 +71,7 @@ Download `extension.zip` and install it yourself.
 
 [atomic-charts]: https://hieudoanm.github.io/atomic/charts/
 [atomic-icons]: https://hieudoanm.github.io/atomic/icons/
-[atomic-react-context]: https://hieudoanm.github.io/atomic/react/context/
+[atomic-react-contexts]: https://hieudoanm.github.io/atomic/react/contexts/
 [atomic-react-hooks]: https://hieudoanm.github.io/atomic/react/hooks/
 [atomic-templates]: https://hieudoanm.github.io/atomic/templates/
 [atomic-ui]: https://hieudoanm.github.io/atomic/ui/
