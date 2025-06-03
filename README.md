@@ -14,12 +14,13 @@
 
 ## 🎨 Front-end
 
-1. [`atomic/charts`][atomic-charts]: a curated collection of responsive web and app charts designed specifically for SaaS products and marketing sites.
-2. [`atomic/icons`][atomic-icons]: is a free collection of carefully designed SVG icons crafted for modern interfaces.
-3. [`atomic/react-contexts`][atomic-react-contexts]: is a free collection of essential context providers designed with simplicity, reusability, and scalability in mind.
-4. [`atomic/react-hooks`][atomic-react-hooks]: a free collection of React hooks built with simplicity and reusability in mind.s
-5. [`atomic/templates`][atomic-templates]: a curated collection of responsive web and app templates designed specifically for SaaS products and marketing sites.
-6. [`atomic/ui`][atomic-ui]: a free collection of Tailwind CSS components designed with atomic design principles in mind.
+1. [`atomic/charts`][atomic-components-charts]: is a curated set of responsive, customizable charts tailored specifically for SaaS products and marketing websites.
+2. [`atomic/ui`][atomic-components-ui]: is a free set of Tailwind CSS components built following atomic design principles for consistent UI development.
+3. [`atomic/react-contexts`][atomic-react-contexts]: are essential React context providers focused on simplicity, reusability, and scalability for better state management.
+4. [`atomic/react-hooks`][atomic-react-hooks]: is a collection of reusable React hooks built for simplicity, efficiency, and ease of integration
+5. [`atomic/emojis`][atomic-visual-emojis]: is an easy-to-access, curated collection of diverse emojis to enhance user experience and add personality to your interfaces.
+6. [`atomic/icons`][atomic-visual-icons]: is a free collection of carefully crafted SVG icons, designed to enhance modern user interfaces with scalable visuals.
+7. [`atomic/templates`][atomic-templates]: are responsive, professionally designed web and app templates created for SaaS platforms and marketing landing pages.
 
 ## 📱 Apps
 
@@ -69,12 +70,13 @@ Download `extension.zip` and install it yourself.
 [app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
 
-[atomic-charts]: https://hieudoanm.github.io/atomic/charts/
-[atomic-icons]: https://hieudoanm.github.io/atomic/icons/
+[atomic-components-charts]: https://hieudoanm.github.io/atomic/components/charts/
+[atomic-components-ui]: https://hieudoanm.github.io/atomic/components/ui/
 [atomic-react-contexts]: https://hieudoanm.github.io/atomic/react/contexts/
 [atomic-react-hooks]: https://hieudoanm.github.io/atomic/react/hooks/
+[atomic-visual-emojis]: https://hieudoanm.github.io/atomic/visual/emojis/
+[atomic-visual-icons]: https://hieudoanm.github.io/atomic/visual/icons/
 [atomic-templates]: https://hieudoanm.github.io/atomic/templates/
-[atomic-ui]: https://hieudoanm.github.io/atomic/ui/
 
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
