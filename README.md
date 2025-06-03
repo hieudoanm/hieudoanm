@@ -17,7 +17,7 @@
 1. [`atomic/charts`][atomic-components-charts]: is a curated set of responsive, customizable charts tailored specifically for SaaS products and marketing websites.
 2. [`atomic/ui`][atomic-components-ui]: is a free set of Tailwind CSS components built following atomic design principles for consistent UI development.
 3. [`atomic/react-contexts`][atomic-react-contexts]: are essential React context providers focused on simplicity, reusability, and scalability for better state management.
-4. [`atomic/react-hooks`][atomic-react-hooks]: is a collection of reusable React hooks built for simplicity, efficiency, and ease of integration
+4. [`atomic/react-hooks`][atomic-react-hooks]: is a collection of reusable React hooks built for simplicity, efficiency, and ease of integration.
 5. [`atomic/emojis`][atomic-visual-emojis]: is an easy-to-access, curated collection of diverse emojis to enhance user experience and add personality to your interfaces.
 6. [`atomic/icons`][atomic-visual-icons]: is a free collection of carefully crafted SVG icons, designed to enhance modern user interfaces with scalable visuals.
 7. [`atomic/templates`][atomic-templates]: are responsive, professionally designed web and app templates created for SaaS platforms and marketing landing pages.
