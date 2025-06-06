@@ -6,13 +6,13 @@
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
-  - [🎨 Front-end](#-front-end)
+  - [🎨 Atomic - Front-end Code](#-atomic---front-end-code)
   - [📱 Apps](#-apps)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
 
-## 🎨 Front-end
+## 🎨 Atomic - Front-end Code
 
 1. [`atomic/charts`][atomic-components-charts]: is a curated set of responsive, customizable charts tailored specifically for SaaS products and marketing websites.
 2. [`atomic/ui`][atomic-components-ui]: is a free set of Tailwind CSS components built following atomic design principles for consistent UI development.
@@ -21,6 +21,7 @@
 5. [`atomic/emojis`][atomic-visual-emojis]: is an easy-to-access, curated collection of diverse emojis to enhance user experience and add personality to your interfaces.
 6. [`atomic/icons`][atomic-visual-icons]: is a free collection of carefully crafted SVG icons, designed to enhance modern user interfaces with scalable visuals.
 7. [`atomic/templates`][atomic-templates]: are responsive, professionally designed web and app templates created for SaaS platforms and marketing landing pages.
+8. [`atomic/utils`][atomic-utils]: is a free set of reusable utility functions designed to simplify common tasks and improve code efficiency and maintainability.
 
 ## 📱 Apps
 
@@ -77,6 +78,7 @@ Download `extension.zip` and install it yourself.
 [atomic-visual-emojis]: https://hieudoanm.github.io/atomic/visual/emojis/
 [atomic-visual-icons]: https://hieudoanm.github.io/atomic/visual/icons/
 [atomic-templates]: https://hieudoanm.github.io/atomic/templates/
+[atomic-utils]: https://hieudoanm.github.io/atomic/utils/
 
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
