@@ -6,23 +6,15 @@
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
-  - [🎨 Atomic - Front-end Code](#-atomic---front-end-code)
+  - [🎨 `atomic/code`](#-atomiccode)
   - [📱 Apps](#-apps)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
 
-## 🎨 Atomic - Front-end Code
+## 🎨 [`atomic/code`][app-atomic]
 
-1. [`atomic/emojis`][atomic-assets-emojis]: is an easy-to-access, curated collection of diverse emojis to enhance user experience and add personality to your interfaces.
-2. [`atomic/icons`][atomic-assets-icons]: is a free collection of carefully crafted SVG icons, designed to enhance modern user interfaces with scalable visuals.
-3. [`atomic/react-contexts`][atomic-react-contexts]: are essential React context providers focused on simplicity, reusability, and scalability for better state management.
-4. [`atomic/react-hooks`][atomic-react-hooks]: is a collection of reusable React hooks built for simplicity, efficiency, and ease of integration.
-5. [`atomic/charts`][atomic-ui-charts]: is a curated set of responsive, customizable charts tailored specifically for SaaS products and marketing websites.
-6. [`atomic/ui`][atomic-ui-kit]: is a free set of Tailwind CSS components built following atomic design principles for consistent UI development.
-7. [`atomic/blocks`][atomic-ui-blocks]: are responsive, professionally designed web and app templates created for SaaS platforms and marketing landing pages.
-8. [`atomic/templates`][atomic-ui-templates]: are responsive, professionally designed web and app templates created for SaaS platforms and marketing landing pages.
-9. [`atomic/utils`][atomic-utils]: is a free set of reusable utility functions designed to simplify common tasks and improve code efficiency and maintainability.
+![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
 ## 📱 Apps
 
@@ -69,18 +61,10 @@ Download `extension.zip` and install it yourself.
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
+[app-atomic]: https://hieudoanm.github.io/atomic/
 [app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
 
-[atomic-assets-emojis]: https://hieudoanm.github.io/atomic/assets/emojis/
-[atomic-assets-icons]: https://hieudoanm.github.io/atomic/assets/icons/
-[atomic-react-contexts]: https://hieudoanm.github.io/atomic/react/contexts/
-[atomic-react-hooks]: https://hieudoanm.github.io/atomic/react/hooks/
-[atomic-ui-charts]: https://hieudoanm.github.io/atomic/ui/charts/
-[atomic-ui-kit]: https://hieudoanm.github.io/atomic/ui/kit/
-[atomic-ui-blocks]: https://hieudoanm.github.io/atomic/ui/block/
-[atomic-ui-templates]: https://hieudoanm.github.io/atomic/templates/
-[atomic-utils]: https://hieudoanm.github.io/atomic/utils/
 
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
