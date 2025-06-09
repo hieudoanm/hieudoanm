@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`CardHeading to match snapshot 1`] = `
-<div>
-  <div
-    class="text-base md:text-lg lg:text-xl"
-  />
-</div>
-`;

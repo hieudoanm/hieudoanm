@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`SectionHeading to match snapshot 1`] = `
-<div>
-  <div
-    class="text-lg md:text-xl lg:text-2xl"
-  />
-</div>
-`;

@@ -64,22 +64,16 @@ Download `extension.zip` and install it yourself.
 [app-atomic]: https://hieudoanm.github.io/atomic/
 [app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
-
-
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
 [doc-gh-cli]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md
-
 [dl-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash
 [dl-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/nothing
 [dl-gh-coc]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-coc
 [dl-gh-ignore]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-ignore
 [dl-gh-license]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/bin/gh-license
-
 [gh-cli-extension]: https://cli.github.com/manual/gh_extension
-
 [hieudoanm]: https://hieudoanm.github.io
-
 [post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
 [post-960]: https://hieudoanm.github.io/posts/sports/individual/chess/variants/
 [post-biology]: https://hieudoanm.github.io/posts/education/steam/sciences/biology/

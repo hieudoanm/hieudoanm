@@ -1,5 +1,0 @@
-packages:
-  - 'packages/**'
-  - 'templates/**'
-  - '!templates/node.js/frontend/browser/angular'
-  - '!templates/node.js/frontend/documentation/react/gatsby.js'
