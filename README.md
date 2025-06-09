@@ -7,19 +7,22 @@
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
   - [🎨 `atomic/code`](#-atomiccode)
-  - [📱 Apps](#-apps)
+  - [📱 `nothing/studio`](#-nothingstudio)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
 
 ## 🎨 [`atomic/code`][app-atomic]
 
+A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icons, Charts, and Templates—built for fast, accessible, and maintainable interfaces.
+
 ![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
-## 📱 Apps
+## 📱 [`nothing/studio`][app-studio]
 
-- [Nothing][app-nothing]: Standalone Application with HTMX and Back-end
-- [Studio][app-studio]: A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
+A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
+
+![studio](https://raw.githubusercontent.com/hieudoanm/hieudoanm.github.io/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -56,7 +59,6 @@ Download `extension.zip` and install it yourself.
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
-[app-nothing]: https://nothing-tech.onrender.com/
 [app-studio]: https://hieudoanm.github.io/apps
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
