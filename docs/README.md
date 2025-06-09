@@ -46,18 +46,12 @@ Download `extension.zip` and install it yourself.
 
 ## 📰 Posts
 
-| #   | Sciences                                | Psychology | Programming                   | Sports                      |
-| --- | --------------------------------------- | ---------- | ----------------------------- | --------------------------- |
-| 1   | [Biology][post-biology]                 |            | [Techstack][post-techstack]   | [Liverpool][post-liverpool] |
-| 2   | [Technology][post-technology]           |            | [JavaScript][post-javascript] | [2700 Chess][post-2700]     |
-| 3   | [Minimalism][post-minimalism]           |            | [Python][post-python]         | [Chess960][post-960]        |
-| 4   | [Bored][post-bored]                     |            | [Golang][post-golang]         | [NBA][post-nba]             |
-| 5   | [Languages][post-languages]             |            | [Rust][post-rust]             | [Marathon][post-marathon]   |
-| 6   | [Deutsch - Wörter][post-deutsch-words]  |            |                               |                             |
-| 7   | [Korean - Letters][post-korean-letters] |            |                               |                             |
-| 8   | [Korean - Words][post-korean-words]     |            |                               |                             |
-| 9   |                                         |            |                               |                             |
-| 10  |                                         |            |                               |                             |
+| #   | Sciences                      | Languages                               | Programming                   | Sports                      |
+| --- | ----------------------------- | --------------------------------------- | ----------------------------- | --------------------------- |
+| 1   | [Biology][post-biology]       | [Languages][post-languages]             | [Techstack][post-techstack]   | [Liverpool][post-liverpool] |
+| 2   | [Technology][post-technology] | [Deutsch - Wörter][post-deutsch-words]  | [JavaScript][post-javascript] | [2700 Chess][post-2700]     |
+| 3   | [Minimalism][post-minimalism] | [Korean - Letters][post-korean-letters] | [Python][post-python]         | [Chess960][post-960]        |
+| 4   | [Bored][post-bored]           | [Korean - Words][post-korean-words]     | [Golang][post-golang]         | [NBA][post-nba]             |
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -85,10 +79,8 @@ Download `extension.zip` and install it yourself.
 [post-korean-letters]: https://hieudoanm.github.io/posts/education/social/languages/korean/letters/
 [post-korean-words]: https://hieudoanm.github.io/posts/education/social/languages/korean/words/
 [post-liverpool]: https://hieudoanm.github.io/posts/sports/team/association-football/english/liverpool/
-[post-marathon]: https://hieudoanm.github.io/posts/sports/individual/marathon/
 [post-minimalism]: https://hieudoanm.github.io/posts/materialism/minimalism/
 [post-nba]: https://hieudoanm.github.io/posts/sports/team/basketball/nba/
 [post-python]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/data-science/python/
-[post-rust]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/low-level/rust/
 [post-technology]: https://hieudoanm.github.io/posts/materialism/technology/
 [post-techstack]: https://hieudoanm.github.io/posts/education/steam/technology/programming/techstack/
