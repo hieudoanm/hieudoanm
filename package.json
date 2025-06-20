@@ -2,15 +2,14 @@
   "name": "hieudoanm",
   "version": "0.0.1",
   "description": "hieudoanm",
-  "main": "index.js",
   "keywords": [],
-  "homepage": "https://github.com/hieudoanm/rust#readme",
+  "homepage": "https://github.com/hieudoanm/hieudoanm#readme",
   "bugs": {
-    "url": "https://github.com/hieudoanm/rust/issues"
+    "url": "https://github.com/hieudoanm/hieudoanm/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hieudoanm/rust.git"
+    "url": "git+https://github.com/hieudoanm/hieudoanm.git"
   },
   "license": "GPL-3.0",
   "author": "hieumdoan@gmail.com",
