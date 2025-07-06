@@ -7,8 +7,7 @@
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
   - [🎨 `atomic/code`](#-atomiccode)
-  - [📱 `nothing/studio`](#-nothingstudio)
-  - [🕶️ `re(d)act`](#️-redact)
+  - [📱 `mini-app/store`](#-mini-appstore)
   - [📟 CLI](#-cli)
   - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
@@ -19,19 +18,11 @@ A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icon
 
 ![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
-## 📱 [`nothing/studio`][app-studio]
+## 📱 [`mini-app/store`][app-store]
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
-![studio](https://raw.githubusercontent.com/hieudoanm/hieudoanm.github.io/refs/heads/master/images/cover.png)
-
-[⬆️ Back to Table of Contents](#️-table-of-contents)
-
-## 🕶️ [`re(d)act`][app-redact]
-
-A browser-based PDF redaction tool built with React, Fabric.js, and PDF-lib. Upload, draw, export — no data ever leaves your device. GPL-3.0 licensed.
-
-![redact](https://raw.githubusercontent.com/hieudoanm/redact/refs/heads/master/images/demo.png)
+![studio](https://raw.githubusercontent.com/hieudoanm/mini-app-store/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -68,8 +59,7 @@ Download `extension.zip` and install it yourself.
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
-[app-redact]: https://hieudoanm.github.io/redact/
-[app-studio]: https://hieudoanm.github.io/apps/
+[app-store]: https://hieudoanm.github.io/mini-app-store/
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
 [doc-gh-cli]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/github/extensions/README.md
