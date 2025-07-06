@@ -21,7 +21,7 @@ A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icon
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
-![mini-app-store](https://raw.githubusercontent.com/hieudoanm/mini-app-store/refs/heads/master/images/cover.png)
+![store](https://raw.githubusercontent.com/hieudoanm/store/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
