@@ -9,7 +9,6 @@
   - [🎨 `atomic/code`](#-atomiccode)
   - [📱 `mini-app/store`](#-mini-appstore)
   - [📟 CLI](#-cli)
-  - [➕ Extensions](#-extensions)
   - [📰 Posts](#-posts)
 
 ## 🎨 [`atomic/code`][app-atomic]
@@ -35,15 +34,6 @@ A collection of mini-apps and dev-tools which I develop for my personal usage (b
 | 03  | [GitHub CLI Extension][gh-cli-extension] | `gh-coc`       | [Documentation][doc-gh-cli] | [Download][dl-gh-coc]     |
 | 02  | [GitHub CLI Extension][gh-cli-extension] | `gh-ignore`    | [Documentation][doc-gh-cli] | [Download][dl-gh-ignore]  |
 | 03  | [GitHub CLI Extension][gh-cli-extension] | `gh-license`   | [Documentation][doc-gh-cli] | [Download][dl-gh-license] |
-
-[⬆️ Back to Table of Contents](#️-table-of-contents)
-
-## ➕ Extensions
-
-Download `extension.zip` and install it yourself.
-
-- [chess.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/chess.com/download)
-- [github.com](https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/extensions/browsers/github.com/download)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
