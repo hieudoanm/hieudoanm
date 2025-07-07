@@ -46,7 +46,7 @@ A collection of mini-apps and dev-tools which I develop for my personal usage (b
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
-[app-store]: https://hieudoanm.github.io/mini-app-store/
+[app-store]: https://hieudoanm.github.io/store/
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
 [dl-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash
