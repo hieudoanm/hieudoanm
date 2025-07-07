@@ -1,6 +1,6 @@
 # 👨‍💻 I'm [HIEU DOAN][hieudoanm]
 
-![social](https://raw.githubusercontent.com/hieudoanm/hieudoanm/refs/heads/master/assets/images/cover.png)
+![hieudoanm](https://raw.githubusercontent.com/hieudoanm/hieudoanm.github.io/refs/heads/master/images/cover.png)
 
 ## 🗄️ Table of Contents
 
@@ -21,7 +21,7 @@ A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icon
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
-![mini-app-store](https://raw.githubusercontent.com/hieudoanm/mini-app-store/refs/heads/master/images/cover.png)
+![store](https://raw.githubusercontent.com/hieudoanm/store/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -46,7 +46,7 @@ A collection of mini-apps and dev-tools which I develop for my personal usage (b
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
-[app-store]: https://hieudoanm.github.io/mini-app-store/
+[app-store]: https://hieudoanm.github.io/store/
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
 [dl-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash
