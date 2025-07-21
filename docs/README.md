@@ -7,7 +7,8 @@
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
   - [🎨 `atomic/code`](#-atomiccode)
-  - [📱 `mini-app/store`](#-mini-appstore)
+  - [🔀 `reverse/proxy`](#-reverseproxy)
+  - [📱 `mark/apps`](#-markapps)
   - [📟 CLI](#-cli)
   - [📰 Posts](#-posts)
 
@@ -17,11 +18,17 @@ A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icon
 
 ![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
-## 📱 [`mini-app/store`][app-store]
+## 🔀 [`reverse/proxy`][app-proxy]
+
+Reverse Proxy Server to avoid Rate Limit and CORS
+
+![reverse-proxy](https://raw.githubusercontent.com/hieudoanm/reverse-proxy/refs/heads/master/images/cover.png)
+
+## 📱 [`mark/apps`][app-mark]
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
-![store](https://raw.githubusercontent.com/hieudoanm/store/refs/heads/master/images/cover.png)
+![mark](https://raw.githubusercontent.com/hieudoanm/mark/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -46,7 +53,8 @@ A collection of mini-apps and dev-tools which I develop for my personal usage (b
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
-[app-store]: https://hieudoanm.github.io/store/
+[app-mark]: https://markzuck.vercel.app/
+[app-proxy]: https://hieudoanm-reverse-proxy.vercel.app/
 [doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
 [doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
 [dl-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash
