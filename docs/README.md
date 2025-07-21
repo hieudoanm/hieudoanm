@@ -27,9 +27,9 @@
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
-![mark](https://raw.githubusercontent.com/hieudoanm/mark/refs/heads/master/images/cover.png)
+[Download](https://github.com/hieudoanm/mark/tree/master/packages/cli/cobra/bin) Mark CLI (Built with Golang and Cobra).
 
-[Download](https://github.com/hieudoanm/mark/tree/master/packages/cli/cobra/bin) Mark CLI (Built with Golang and Cobra)
+![mark](https://raw.githubusercontent.com/hieudoanm/mark/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
