@@ -17,7 +17,7 @@
   "scripts": {
     "format": "prettier --cache . --write",
     "prebuild": "rimraf ./docs",
-    "build": "rimraf ./docs && docsify init ./docs --theme pure",
+    "build": "rimraf ./docs && docsify init ./docs",
     "serve": "docsify serve ./docs --theme pure",
     "prepare": "husky || true"
   },
