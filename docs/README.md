@@ -6,40 +6,54 @@
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
-  - [🎨 `atomic/code`](#-atomiccode)
-  - [🔀 `reverse/proxy`](#-reverseproxy)
-  - [📱 `mark/apps`](#-markapps)
-  - [📟 CLI](#-cli)
+  - [🖥️ Apps](#️-apps)
+    - [📟 `bash/cli`](#-bashcli)
+    - [📱 `mark/apps`](#-markapps)
+    - [🔀 `reverse/proxy`](#-reverseproxy)
+  - [📕 Templates](#-templates)
+    - [🎨 `atomic/code`](#-atomiccode)
+    - [🎨 `micro/saas`](#-microsaas)
   - [📰 Posts](#-posts)
 
-## 🎨 [`atomic/code`][app-atomic]
+## 🖥️ Apps
 
-A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icons, Charts, and Templates—built for fast, accessible, and maintainable interfaces.
+### 📟 [`bash/cli`][app-bash]
 
-![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
+[Download][app-bash] My Custom Bash
 
-## 🔀 [`reverse/proxy`][app-proxy]
+[⬆️ Back to Table of Contents](#️-table-of-contents)
 
-Reverse Proxy Server to avoid Rate Limit and CORS
-
-![reverse-proxy](https://raw.githubusercontent.com/hieudoanm/reverse-proxy/refs/heads/master/images/cover.png)
-
-## 📱 [`mark/apps`][app-mark]
+### 📱 [`mark/apps`][app-mark]
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
 ![mark](https://raw.githubusercontent.com/hieudoanm/mark/refs/heads/master/images/cover.png)
 
-[⬆️ Back to Table of Contents](#️-table-of-contents)
-
-## 📟 CLI
-
-| No  | Technology                  | Name           | Documentation              | Download             |
-| --- | --------------------------- | -------------- | -------------------------- | -------------------- |
-| 01  | `bash`                      | `nothing.bash` | [Documentation][doc-bash]  | [Download][dl-bash]  |
-| 02  | [Cobra](https://cobra.dev/) | `nothing`      | [Documentation][doc-cobra] | [Download][dl-cobra] |
+[Download](https://github.com/hieudoanm/mark/tree/master/packages/cli/cobra/bin) Mark CLI (Built with Golang and Cobra)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
+
+### 🔀 [`reverse/proxy`][app-proxy]
+
+Reverse Proxy Server to avoid Rate Limit and CORS
+
+![reverse-proxy](https://raw.githubusercontent.com/hieudoanm/reverse-proxy/refs/heads/master/images/cover.png)
+
+[⬆️ Back to Table of Contents](#️-table-of-contents)
+
+## 📕 Templates
+
+### 🎨 [`atomic/code`][app-atomic]
+
+A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icons, Charts, and Templates—built for fast, accessible, and maintainable interfaces.
+
+![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
+
+### 🎨 [`micro/saas`][app-micro]
+
+Kickstart your SaaS faster with secure authentication and hassle-free subscription payments powered by Paddle.
+
+![micro-saas](https://raw.githubusercontent.com/hieudoanm/micro-saas/refs/heads/master/images/cover.png)
 
 ## 📰 Posts
 
@@ -53,12 +67,10 @@ A collection of mini-apps and dev-tools which I develop for my personal usage (b
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
+[app-micro]: https://hieudoanm.github.io/micro-saas/
+[app-bash]: https://github.com/hieudoanm/cli/tree/master/languages/bash/dist
 [app-mark]: https://markzuck.vercel.app/
 [app-proxy]: https://hieudoanm-reverse-proxy.vercel.app/
-[doc-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/README.md
-[doc-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/README.md
-[dl-bash]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/bash/dist/nothing.bash
-[dl-cobra]: https://github.com/hieudoanm/hieudoanm.github.io/tree/master/packages/cli/go.dev/cobra/bin/nothing
 [hieudoanm]: https://hieudoanm.github.io
 [post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
 [post-960]: https://hieudoanm.github.io/posts/sports/individual/chess/variants/
