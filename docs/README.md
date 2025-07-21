@@ -7,27 +7,18 @@
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
   - [🖥️ Apps](#️-apps)
-    - [📟 `bash/cli`](#-bashcli)
     - [📱 `mark/apps`](#-markapps)
     - [🔀 `reverse/proxy`](#-reverseproxy)
   - [📕 Templates](#-templates)
     - [🎨 `atomic/code`](#-atomiccode)
-    - [🎨 `micro/saas`](#-microsaas)
+    - [🔬 `micro/saas`](#-microsaas)
   - [📰 Posts](#-posts)
 
 ## 🖥️ Apps
 
-### 📟 [`bash/cli`][app-bash]
-
-[Download][app-bash] My Custom Bash
-
-[⬆️ Back to Table of Contents](#️-table-of-contents)
-
 ### 📱 [`mark/apps`][app-mark]
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
-
-[Download](https://github.com/hieudoanm/mark/tree/master/packages/cli/cobra/bin) Mark CLI (Built with Golang and Cobra).
 
 ![mark](https://raw.githubusercontent.com/hieudoanm/mark/refs/heads/master/images/cover.png)
 
@@ -49,7 +40,7 @@ A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icon
 
 ![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
-### 🎨 [`micro/saas`][app-micro]
+### 🔬 [`micro/saas`][app-micro]
 
 Kickstart your SaaS faster with secure authentication and hassle-free subscription payments powered by Paddle.
 
@@ -68,7 +59,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
 [app-micro]: https://hieudoanm.github.io/micro-saas/
-[app-bash]: https://github.com/hieudoanm/cli/tree/master/languages/bash/dist
 [app-mark]: https://markzuck.vercel.app/
 [app-proxy]: https://hieudoanm-reverse-proxy.vercel.app/
 [hieudoanm]: https://hieudoanm.github.io
