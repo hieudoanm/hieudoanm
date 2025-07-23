@@ -7,7 +7,7 @@
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
   - [🖥️ Apps](#️-apps)
-    - [📱 `mark/apps`](#-markapps)
+    - [📱 `micro/apps`](#-microapps)
     - [🔀 `reverse/proxy`](#-reverseproxy)
   - [📕 Templates](#-templates)
     - [🎨 `atomic/code`](#-atomiccode)
@@ -16,7 +16,7 @@
 
 ## 🖥️ Apps
 
-### 📱 [`mark/apps`][app-mark]
+### 📱 [`micro/apps`][app-micro]
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
@@ -40,7 +40,7 @@ A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icon
 
 ![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
-### 🔬 [`micro/saas`][app-micro]
+### 🔬 [`micro/saas`][app-micro-saas]
 
 Kickstart your SaaS faster with secure authentication and hassle-free subscription payments powered by Paddle.
 
@@ -58,8 +58,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
-[app-micro]: https://hieudoanm.github.io/micro-saas/
-[app-mark]: https://markzuck.vercel.app/
+[app-micro-saas]: https://hieudoanm.github.io/micro-saas/
+[app-micro]: https://microscope.vercel.app/
 [app-proxy]: https://hieudoanm-reverse-proxy.vercel.app/
 [hieudoanm]: https://hieudoanm.github.io
 [post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
