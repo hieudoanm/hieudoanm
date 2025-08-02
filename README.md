@@ -19,7 +19,7 @@
 
 A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
 
-![mark](https://raw.githubusercontent.com/hieudoanm/mark/refs/heads/master/images/cover.png)
+![micro](https://raw.githubusercontent.com/hieudoanm/micro/refs/heads/master/images/cover.png)
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
@@ -50,7 +50,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
 [app-micro-saas]: https://hieudoanm.github.io/micro-saas/
-[app-micro]: https://microscopes.vercel.app/
+[app-micro]: https://micro24.vercel.app/
 [hieudoanm]: https://hieudoanm.github.io
 [post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
 [post-960]: https://hieudoanm.github.io/posts/sports/individual/chess/variants/
