@@ -2,8 +2,10 @@
   "name": "hieudoanm",
   "version": "0.0.1",
   "description": "hieudoanm",
-  "keywords": [],
-  "homepage": "https://github.com/hieudoanm/hieudoanm#readme",
+  "keywords": [
+    "hieudoanm"
+  ],
+  "homepage": "https://hieudoanm.github.io/hieudoanm/",
   "bugs": {
     "url": "https://github.com/hieudoanm/hieudoanm/issues"
   },
@@ -13,7 +15,10 @@
   },
   "license": "GPL-3.0",
   "author": "hieumdoan@gmail.com",
-  "packageManager": "pnpm@10.15.1",
+  "packageManager": "pnpm@10.30.3",
+  "engines": {
+    "node": "25.7.0"
+  },
   "scripts": {
     "format": "prettier --cache . --write",
     "prebuild": "rimraf ./docs",
@@ -24,7 +29,7 @@
   "devDependencies": {
     "docsify-cli": "4.4.4",
     "husky": "9.1.7",
-    "prettier": "3.6.2",
-    "rimraf": "6.0.1"
+    "prettier": "3.8.1",
+    "rimraf": "6.1.3"
   }
 }
