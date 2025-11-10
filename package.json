@@ -13,7 +13,7 @@
   },
   "license": "GPL-3.0",
   "author": "hieumdoan@gmail.com",
-  "packageManager": "pnpm@10.20.0",
+  "packageManager": "pnpm@10.21.0",
   "scripts": {
     "format": "prettier --cache . --write",
     "prebuild": "rimraf ./docs",
