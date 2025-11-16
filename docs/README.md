@@ -50,7 +50,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 [app-atomic]: https://hieudoanm.github.io/atomic/
 [app-micro-saas]: https://hieudoanm.github.io/micro-saas/
-[app-micro]: https://micro24.vercel.app/
+[app-micro]: https://hieudoanm.github.io/micro
 [hieudoanm]: https://hieudoanm.github.io
 [post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
 [post-960]: https://hieudoanm.github.io/posts/sports/individual/chess/variants/
