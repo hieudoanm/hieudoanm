@@ -11,68 +11,55 @@
   - [📕 Templates](#-templates)
     - [🎨 `atomic/code`](#-atomiccode)
     - [🔬 `micro/saas`](#-microsaas)
-  - [📰 Posts](#-posts)
 
 ## 🖥️ Apps
 
-### 📱 [`micro/apps`][app-micro]
+### 📱 [`micro/apps`][hieudoanm-micro]
 
-1. [chat](https://hieudoanm.github.io/chat)
-2. [chess](https://hieudoanm.github.io/chess)
-3. [converter](https://hieudoanm.github.io/converter)
-4. [crystallised.md](https://hieudoanm.github.io/crystallised.md)
-5. [gh](https://hieudoanm.github.io/gh)
-6. [ig](https://hieudoanm.github.io/ig)
-7. [maps](https://hieudoanm.github.io/maps)
-8. [redact](https://hieudoanm.github.io/redact)
-9. [status](https://hieudoanm.github.io/status)
-10. [today.do](https://hieudoanm.github.io/today.do)
-11. [tg](https://hieudoanm.github.io/tg)
-12. [words](https://hieudoanm.github.io/words)
-13. [ytb](https://hieudoanm.github.io/ytb)
+1. 💬 [chat][hieudoanm-chat]
+2. ♟️ [chess][hieudoanm-chess]
+3. 🔄 [converter][hieudoanm-converter]
+4. 🧊 [crystallised.md][hieudoanm-crystallised-md]
+5. 🐙 [gh][hieudoanm-gh]
+6. 📸 [ig][hieudoanm-ig]
+7. 🗺️ [maps][hieudoanm-maps]
+8. 🕵️‍♂️ [redact][hieudoanm-redact]
+9. 📊 [status][hieudoanm-status]
+10. 📅 [today.do][hieudoanm-today-do]
+11. ✈️ [tg][hieudoanm-tg]
+12. 🔤 [words][hieudoanm-words]
+13. ▶️ [ytb][hieudoanm-ytb]
 
 ## 📕 Templates
 
-### 🎨 [`atomic/code`][app-atomic]
+### 🎨 [`atomic/code`][template-atomic]
 
 A modern, free collection of Tailwind UI, React Hooks, Contexts, Utilities, Icons, Charts, and Templates—built for fast, accessible, and maintainable interfaces.
 
 ![atomic](https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png)
 
-### 🔬 [`micro/saas`][app-micro-saas]
+### 🔬 [`micro/saas`][template-micro-saas]
 
 Kickstart your SaaS faster with secure authentication and hassle-free subscription payments powered by Paddle.
 
 ![micro-saas](https://raw.githubusercontent.com/hieudoanm/micro-saas/refs/heads/master/images/cover.png)
 
-## 📰 Posts
-
-| #   | Sciences                      | Languages                               | Programming                   | Sports                      |
-| --- | ----------------------------- | --------------------------------------- | ----------------------------- | --------------------------- |
-| 1   | [Biology][post-biology]       | [Languages][post-languages]             | [Techstack][post-techstack]   | [Liverpool][post-liverpool] |
-| 2   | [Technology][post-technology] | [Deutsch - Wörter][post-deutsch-words]  | [JavaScript][post-javascript] | [2700 Chess][post-2700]     |
-| 3   | [Minimalism][post-minimalism] | [Korean - Letters][post-korean-letters] | [Python][post-python]         | [Chess960][post-960]        |
-| 4   | [Bored][post-bored]           | [Korean - Words][post-korean-words]     | [Golang][post-golang]         | [NBA][post-nba]             |
-
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
-[app-atomic]: https://hieudoanm.github.io/atomic/
-[app-micro-saas]: https://hieudoanm.github.io/micro-saas/
-[app-micro]: https://hieudoanm.github.io/micro
 [hieudoanm]: https://hieudoanm.github.io
-[post-2700]: https://hieudoanm.github.io/posts/sports/individual/chess/fide/2700/
-[post-960]: https://hieudoanm.github.io/posts/sports/individual/chess/variants/
-[post-biology]: https://hieudoanm.github.io/posts/education/steam/sciences/biology/
-[post-bored]: https://hieudoanm.github.io/posts/personal/bored/
-[post-golang]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/low-level/golang/
-[post-javascript]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/front-end/javascript/
-[post-languages]: https://hieudoanm.github.io/posts/education/social/languages/languages/
-[post-deutsch-words]: https://hieudoanm.github.io/posts/education/social/languages/deutsch/w%C3%B6rter/
-[post-korean-letters]: https://hieudoanm.github.io/posts/education/social/languages/korean/letters/
-[post-korean-words]: https://hieudoanm.github.io/posts/education/social/languages/korean/words/
-[post-liverpool]: https://hieudoanm.github.io/posts/sports/team/association-football/english/liverpool/
-[post-minimalism]: https://hieudoanm.github.io/posts/materialism/minimalism/
-[post-nba]: https://hieudoanm.github.io/posts/sports/team/basketball/nba/
-[post-python]: https://hieudoanm.github.io/posts/education/steam/technology/programming/languages/data-science/python/
-[post-technology]: https://hieudoanm.github.io/posts/materialism/technology/
-[post-techstack]: https://hieudoanm.github.io/posts/education/steam/technology/programming/techstack/
+[hieudoanm-chat]: https://hieudoanm.github.io/chat
+[hieudoanm-chess]: https://hieudoanm.github.io/chess
+[hieudoanm-converter]: https://hieudoanm.github.io/converter
+[hieudoanm-crystallised-md]: https://hieudoanm.github.io/crystallised.md
+[hieudoanm-gh]: https://hieudoanm.github.io/gh
+[hieudoanm-ig]: https://hieudoanm.github.io/ig
+[hieudoanm-maps]: https://hieudoanm.github.io/maps
+[hieudoanm-micro]: https://hieudoanm.github.io/micro
+[hieudoanm-redact]: https://hieudoanm.github.io/redact
+[hieudoanm-status]: https://hieudoanm.github.io/status
+[hieudoanm-tg]: https://hieudoanm.github.io/tg
+[hieudoanm-today-do]: https://hieudoanm.github.io/today.do
+[hieudoanm-words]: https://hieudoanm.github.io/words
+[hieudoanm-ytb]: https://hieudoanm.github.io/ytb
+[template-atomic]: https://hieudoanm.github.io/atomic/
+[template-micro-saas]: https://hieudoanm.github.io/micro-saas/
