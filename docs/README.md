@@ -17,15 +17,19 @@
 
 ### 📱 [`micro/apps`][app-micro]
 
-1. [chess](https://hieudoanm.github.io/chess)
-2. [converter](https://hieudoanm.github.io/converter)
-3. [crystallised.md](https://hieudoanm.github.io/crystallised.md)
-4. [ig](https://hieudoanm.github.io/ig)
-5. [redact](https://hieudoanm.github.io/redact)
-6. [status](https://hieudoanm.github.io/status)
-7. [today.do](https://hieudoanm.github.io/today.do)
-8. [tg](https://hieudoanm.github.io/tg)
-9. [ytb](https://hieudoanm.github.io/ytb)
+1. [chat](https://hieudoanm.github.io/chat)
+2. [chess](https://hieudoanm.github.io/chess)
+3. [converter](https://hieudoanm.github.io/converter)
+4. [crystallised.md](https://hieudoanm.github.io/crystallised.md)
+5. [gh](https://hieudoanm.github.io/gh)
+6. [ig](https://hieudoanm.github.io/ig)
+7. [maps](https://hieudoanm.github.io/maps)
+8. [redact](https://hieudoanm.github.io/redact)
+9. [status](https://hieudoanm.github.io/status)
+10. [today.do](https://hieudoanm.github.io/today.do)
+11. [tg](https://hieudoanm.github.io/tg)
+12. [words](https://hieudoanm.github.io/words)
+13. [ytb](https://hieudoanm.github.io/ytb)
 
 ## 📕 Templates
 
