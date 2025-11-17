@@ -17,11 +17,15 @@
 
 ### 📱 [`micro/apps`][app-micro]
 
-A collection of mini-apps and dev-tools which I develop for my personal usage (browser and web technology only).
-
-![micro](https://raw.githubusercontent.com/hieudoanm/micro/refs/heads/master/images/cover.png)
-
-[⬆️ Back to Table of Contents](#️-table-of-contents)
+1. [chess](https://hieudoanm.github.io/chess)
+2. [converter](https://hieudoanm.github.io/converter)
+3. [crystallised.md](https://hieudoanm.github.io/crystallised.md)
+4. [ig](https://hieudoanm.github.io/ig)
+5. [redact](https://hieudoanm.github.io/redact)
+6. [status](https://hieudoanm.github.io/status)
+7. [today.do](https://hieudoanm.github.io/today.do)
+8. [tg](https://hieudoanm.github.io/tg)
+9. [ytb](https://hieudoanm.github.io/ytb)
 
 ## 📕 Templates
 
