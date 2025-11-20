@@ -25,13 +25,14 @@
 7. 📸 [ig][hieudoanm-ig]
 8. 🍏 [macosx][hieudoanm-macosx]
 9. 🗺️ [maps][hieudoanm-maps]
-10. 🕵️‍♂️ [redact][hieudoanm-redact]
-11. 🔁 [reverse-proxy][hieudoanm-reverse-proxy]
-12. 📊 [status][hieudoanm-status]
-13. ✈️ [tg][hieudoanm-tg]
-14. 📅 [today.do][hieudoanm-today-do]
-15. 🔤 [words][hieudoanm-words]
-16. ▶️ [ytb][hieudoanm-ytb]
+10. 🍅 [pomodoro][hieudoanm-pomodoro]
+11. 🕵️‍♂️ [redact][hieudoanm-redact]
+12. 🔁 [reverse-proxy][hieudoanm-reverse-proxy]
+13. 📊 [status][hieudoanm-status]
+14. ✈️ [tg][hieudoanm-tg]
+15. 📅 [today.do][hieudoanm-today-do]
+16. 🔤 [words][hieudoanm-words]
+17. ▶️ [ytb][hieudoanm-ytb]
 
 ## 📕 Templates
 
@@ -60,6 +61,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [hieudoanm-macosx]: https://hieudoanm.github.io/macosx
 [hieudoanm-maps]: https://hieudoanm.github.io/maps
 [hieudoanm-micro]: https://hieudoanm.github.io/micro
+[hieudoanm-pomodoro]: https://hieudoanm.github.io/pomodoro
 [hieudoanm-redact]: https://hieudoanm.github.io/redact
 [hieudoanm-reverse-proxy]: https://hieudoanm.github.io/reverse-proxy
 [hieudoanm-status]: https://hieudoanm.github.io/status
