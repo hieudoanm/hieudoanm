@@ -33,6 +33,7 @@
 15. 📅 [today.do][hieudoanm-today-do]
 16. 🔤 [words][hieudoanm-words]
 17. ▶️ [ytb][hieudoanm-ytb]
+18. 🆔 [uuid][hieudoanm-uuid]
 
 ## 📕 Templates
 
@@ -67,6 +68,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [hieudoanm-status]: https://hieudoanm.github.io/status
 [hieudoanm-tg]: https://hieudoanm.github.io/tg
 [hieudoanm-today-do]: https://hieudoanm.github.io/today.do
+[hieudoanm-uuid]: https://hieudoanm.github.io/uuid
 [hieudoanm-words]: https://hieudoanm.github.io/words
 [hieudoanm-ytb]: https://hieudoanm.github.io/ytb
 [template-atomic]: https://hieudoanm.github.io/atomic/
