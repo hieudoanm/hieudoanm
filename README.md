@@ -16,9 +16,10 @@
 
 ### 📱 `micro/apps`
 
-CLI: Command Line Interface
-EXT: Browser Extension
-VSC: Visual Studio Code Extension
+- App: Web - Android - iOS - macOS
+- CLI: Command Line Interface
+- EXT: Browser Extension
+- VSC: Visual Studio Code Extension
 
 | No. | Name             | App                      | CLI                      | EXT | VSC | GitHub                         |
 | --- | ---------------- | ------------------------ | ------------------------ | --- | --- | ------------------------------ |
