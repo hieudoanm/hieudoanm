@@ -14,28 +14,30 @@
 
 ## 🖥️ Apps
 
-### 📱 [`micro/apps`][hieudoanm-micro]
+### 📱 `micro/apps`
 
-1. 🐚 [App][app-bash] – [CLI][cli-bash] – [GitHub][github-bash] - bash
-2. 🂡 [App][app-blackjack] – [CLI][cli-blackjack] – [GitHub][github-blackjack] - blackjack
-3. 💬 [App][app-chat] – [CLI][cli-chat] – [GitHub][github-chat] - chat
-4. ♟️ [App][app-chess] – [CLI][cli-chess] – [GitHub][github-chess] - chess
-5. 🔄 [App][app-converter] – [CLI][cli-converter] – [GitHub][github-converter] - converter
-6. 📚 [App][app-doi] – [CLI][cli-doi] – [GitHub][github-doi] - doi
-7. 🐙 [App][app-gh] – [CLI][cli-gh] – [GitHub][github-gh] - gh
-8. 📸 [App][app-ig] – [CLI][cli-ig] – [GitHub][github-ig] - ig
-9. 🍏 [App][app-macosx] – [CLI][cli-macosx] – [GitHub][github-macosx] - macosx
-10. 🗺️ [App][app-maps] – [CLI][cli-maps] – [GitHub][github-maps] - maps
-11. 🧊 [App][app-md] – [CLI][cli-md] – [GitHub][github-md] - md
-12. 🍅 [App][app-pomodoro] – [CLI][cli-pomodoro] – [GitHub][github-pomodoro] - pomodoro
-13. 🕵️‍♂️ [App][app-redact] – [CLI][cli-redact] – [GitHub][github-redact] - redact
-14. 🔁 [App][app-reverse-proxy] – [CLI][cli-reverse-proxy] – [GitHub][github-reverse-proxy] - reverse-proxy
-15. 📊 [App][app-status] – [CLI][cli-status] – [GitHub][github-status] - status
-16. ✈️ [App][app-tg] – [CLI][cli-tg] – [GitHub][github-tg] - tg
-17. 📅 [App][app-today-do] – [CLI][cli-today-do] – [GitHub][github-today-do] - today.do
-18. 🔤 [App][app-words] – [CLI][cli-words] – [GitHub][github-words] - words
-19. ▶️ [App][app-ytb] – [CLI][cli-ytb] – [GitHub][github-ytb] - ytb
-20. 🆔 [App][app-uuid] – [CLI][cli-uuid] – [GitHub][github-uuid] - uuid
+| No. | Name             | App                      | CLI                      | Extension | GitHub                         |
+| --- | ---------------- | ------------------------ | ------------------------ | --------- | ------------------------------ |
+| 1   | 🐚 bash          | [App][app-bash]          | [CLI][cli-bash]          |           | [GitHub][github-bash]          |
+| 2   | 🂡 blackjack      | [App][app-blackjack]     | [CLI][cli-blackjack]     |           | [GitHub][github-blackjack]     |
+| 3   | 💬 chat          | [App][app-chat]          | [CLI][cli-chat]          |           | [GitHub][github-chat]          |
+| 4   | ♟️ chess         | [App][app-chess]         | [CLI][cli-chess]         |           | [GitHub][github-chess]         |
+| 5   | 🔄 converter     | [App][app-converter]     | [CLI][cli-converter]     |           | [GitHub][github-converter]     |
+| 6   | 📚 doi           | [App][app-doi]           | [CLI][cli-doi]           |           | [GitHub][github-doi]           |
+| 7   | 🐙 gh            | [App][app-gh]            | [CLI][cli-gh]            |           | [GitHub][github-gh]            |
+| 8   | 📸 ig            | [App][app-ig]            | [CLI][cli-ig]            |           | [GitHub][github-ig]            |
+| 9   | 🍏 macosx        | [App][app-macosx]        | [CLI][cli-macosx]        |           | [GitHub][github-macosx]        |
+| 10  | 🗺️ maps          | [App][app-maps]          | [CLI][cli-maps]          |           | [GitHub][github-maps]          |
+| 11  | 🧊 md            | [App][app-md]            | [CLI][cli-md]            |           | [GitHub][github-md]            |
+| 12  | 🍅 pomodoro      | [App][app-pomodoro]      | [CLI][cli-pomodoro]      |           | [GitHub][github-pomodoro]      |
+| 13  | 🕵️‍♂️ redact        | [App][app-redact]        | [CLI][cli-redact]        |           | [GitHub][github-redact]        |
+| 14  | 🔁 reverse-proxy | [App][app-reverse-proxy] | [CLI][cli-reverse-proxy] |           | [GitHub][github-reverse-proxy] |
+| 15  | 📊 status        | [App][app-status]        | [CLI][cli-status]        |           | [GitHub][github-status]        |
+| 16  | ✈️ tg            | [App][app-tg]            | [CLI][cli-tg]            |           | [GitHub][github-tg]            |
+| 17  | 📅 today.do      | [App][app-today-do]      | [CLI][cli-today-do]      |           | [GitHub][github-today-do]      |
+| 18  | 🔤 words         | [App][app-words]         | [CLI][cli-words]         |           | [GitHub][github-words]         |
+| 19  | ▶️ ytb           | [App][app-ytb]           | [CLI][cli-ytb]           |           | [GitHub][github-ytb]           |
+| 20  | 🆔 uuid          | [App][app-uuid]          | [CLI][cli-uuid]          |           | [GitHub][github-uuid]          |
 
 ## 📕 Templates
 
