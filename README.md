@@ -16,26 +16,26 @@
 
 ### 📱 [`micro/apps`][hieudoanm-micro]
 
-1. 🐚 bash - [App][app-bash] - [GitHub][github-bash]
-2. 🂡 blackjack - [App][app-blackjack] - [GitHub][github-blackjack]
-3. 💬 chat - [App][app-chat] - [GitHub][github-chat]
-4. ♟️ chess - [App][app-chess] - [GitHub][github-chess]
-5. 🔄 converter - [App][app-converter] - [GitHub][github-converter]
-6. 🧊 crystallised.md - [App][app-crystallised-md] - [GitHub][github-crystallised-md]
-7. 📚 doi - [App][app-doi] - [GitHub][github-doi]
-8. 🐙 gh - [App][app-gh] - [GitHub][github-gh]
-9. 📸 ig - [App][app-ig] - [GitHub][github-ig]
-10. 🍏 macosx - [App][app-macosx] - [GitHub][github-macosx]
-11. 🗺️ maps - [App][app-maps] - [GitHub][github-maps]
-12. 🍅 pomodoro - [App][app-pomodoro] - [GitHub][github-pomodoro]
-13. 🕵️‍♂️ redact - [App][app-redact] - [GitHub][github-redact]
-14. 🔁 reverse-proxy - [App][app-reverse-proxy] - [GitHub][github-reverse-proxy]
-15. 📊 status - [App][app-status] - [GitHub][github-status]
-16. ✈️ tg - [App][app-tg] - [GitHub][github-tg]
-17. 📅 today.do - [App][app-today-do] - [GitHub][github-today-do]
-18. 🔤 words - [App][app-words] - [GitHub][github-words]
-19. ▶️ ytb - [App][app-ytb] - [GitHub][github-ytb]
-20. 🆔 uuid - [App][app-uuid] - [GitHub][github-uuid]
+1. 🐚 [App][app-bash] – [CLI][cli-bash] – [GitHub][github-bash] - bash
+2. 🂡 [App][app-blackjack] – [CLI][cli-blackjack] – [GitHub][github-blackjack] - blackjack
+3. 💬 [App][app-chat] – [CLI][cli-chat] – [GitHub][github-chat] - chat
+4. ♟️ [App][app-chess] – [CLI][cli-chess] – [GitHub][github-chess] - chess
+5. 🔄 [App][app-converter] – [CLI][cli-converter] – [GitHub][github-converter] - converter
+6. 🧊 [App][app-crystallised-md] – [CLI][cli-crystallised-md] – [GitHub][github-crystallised-md] - crystallised-md
+7. 📚 [App][app-doi] – [CLI][cli-doi] – [GitHub][github-doi] - doi
+8. 🐙 [App][app-gh] – [CLI][cli-gh] – [GitHub][github-gh] - gh
+9. 📸 [App][app-ig] – [CLI][cli-ig] – [GitHub][github-ig] - ig
+10. 🍏 [App][app-macosx] – [CLI][cli-macosx] – [GitHub][github-macosx] - macosx
+11. 🗺️ [App][app-maps] – [CLI][cli-maps] – [GitHub][github-maps] - maps
+12. 🍅 [App][app-pomodoro] – [CLI][cli-pomodoro] – [GitHub][github-pomodoro] - pomodoro
+13. 🕵️‍♂️ [App][app-redact] – [CLI][cli-redact] – [GitHub][github-redact] - redact
+14. 🔁 [App][app-reverse-proxy] – [CLI][cli-reverse-proxy] – [GitHub][github-reverse-proxy] - reverse-proxy
+15. 📊 [App][app-status] – [CLI][cli-status] – [GitHub][github-status] - status
+16. ✈️ [App][app-tg] – [CLI][cli-tg] – [GitHub][github-tg] - tg
+17. 📅 [App][app-today-do] – [CLI][cli-today-do] – [GitHub][github-today-do] - today-do
+18. 🔤 [App][app-words] – [CLI][cli-words] – [GitHub][github-words] - words
+19. ▶️ [App][app-ytb] – [CLI][cli-ytb] – [GitHub][github-ytb] - ytb
+20. 🆔 [App][app-uuid] – [CLI][cli-uuid] – [GitHub][github-uuid] - uuid
 
 ## 📕 Templates
 
@@ -73,6 +73,26 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [app-uuid]: https://hieudoanm.github.io/uuid
 [app-words]: https://hieudoanm.github.io/words
 [app-ytb]: https://hieudoanm.github.io/ytb
+[cli-bash]: https://hieudoanm.github.io/bash
+[cli-blackjack]: https://hieudoanm.github.io/blackjack
+[cli-chat]: https://hieudoanm.github.io/chat
+[cli-chess]: https://hieudoanm.github.io/chess
+[cli-converter]: https://hieudoanm.github.io/converter
+[cli-crystallised-md]: https://hieudoanm.github.io/crystallised.md
+[cli-doi]: https://hieudoanm.github.io/doi
+[cli-gh]: https://hieudoanm.github.io/gh
+[cli-ig]: https://hieudoanm.github.io/ig
+[cli-macosx]: https://hieudoanm.github.io/macosx
+[cli-maps]: https://hieudoanm.github.io/maps
+[cli-pomodoro]: https://hieudoanm.github.io/pomodoro
+[cli-redact]: https://hieudoanm.github.io/redact
+[cli-reverse-proxy]: https://hieudoanm.github.io/reverse-proxy
+[cli-status]: https://hieudoanm.github.io/status
+[cli-tg]: https://hieudoanm.github.io/tg
+[cli-today-do]: https://hieudoanm.github.io/today.do
+[cli-uuid]: https://hieudoanm.github.io/uuid
+[cli-words]: https://hieudoanm.github.io/words
+[cli-ytb]: https://hieudoanm.github.io/ytb
 [github-bash]: https://github.com/hieudoanm/bash
 [github-blackjack]: https://github.com/hieudoanm/blackjack
 [github-chat]: https://github.com/hieudoanm/chat
