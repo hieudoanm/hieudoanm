@@ -22,22 +22,23 @@
 | 2   | 🂡 blackjack      | [App][app-blackjack]     | [CLI][cli-blackjack]     |           | [GitHub][github-blackjack]     |
 | 3   | 💬 chat          | [App][app-chat]          | [CLI][cli-chat]          |           | [GitHub][github-chat]          |
 | 4   | ♟️ chess         | [App][app-chess]         | [CLI][cli-chess]         |           | [GitHub][github-chess]         |
-| 5   | 🔄 converter     | [App][app-converter]     | [CLI][cli-converter]     |           | [GitHub][github-converter]     |
-| 6   | 📚 doi           | [App][app-doi]           | [CLI][cli-doi]           |           | [GitHub][github-doi]           |
-| 7   | 🐙 gh            | [App][app-gh]            | [CLI][cli-gh]            |           | [GitHub][github-gh]            |
-| 8   | 📸 ig            | [App][app-ig]            | [CLI][cli-ig]            |           | [GitHub][github-ig]            |
-| 9   | 🍏 macosx        | [App][app-macosx]        | [CLI][cli-macosx]        |           | [GitHub][github-macosx]        |
-| 10  | 🗺️ maps          | [App][app-maps]          | [CLI][cli-maps]          |           | [GitHub][github-maps]          |
-| 11  | 🧊 md            | [App][app-md]            | [CLI][cli-md]            |           | [GitHub][github-md]            |
-| 12  | 🍅 pomodoro      | [App][app-pomodoro]      | [CLI][cli-pomodoro]      |           | [GitHub][github-pomodoro]      |
-| 13  | 🕵️‍♂️ redact        | [App][app-redact]        | [CLI][cli-redact]        |           | [GitHub][github-redact]        |
-| 14  | 🔁 reverse-proxy | [App][app-reverse-proxy] | [CLI][cli-reverse-proxy] |           | [GitHub][github-reverse-proxy] |
-| 15  | 📊 status        | [App][app-status]        | [CLI][cli-status]        |           | [GitHub][github-status]        |
-| 16  | ✈️ tg            | [App][app-tg]            | [CLI][cli-tg]            |           | [GitHub][github-tg]            |
-| 17  | 📅 today.do      | [App][app-today-do]      | [CLI][cli-today-do]      |           | [GitHub][github-today-do]      |
-| 18  | 🔤 words         | [App][app-words]         | [CLI][cli-words]         |           | [GitHub][github-words]         |
-| 19  | ▶️ ytb           | [App][app-ytb]           | [CLI][cli-ytb]           |           | [GitHub][github-ytb]           |
-| 20  | 🆔 uuid          | [App][app-uuid]          | [CLI][cli-uuid]          |           | [GitHub][github-uuid]          |
+| 5   | 🎨 colors        | [App][app-colors]        | [CLI][cli-colors]        |           | [GitHub][github-colors]        |
+| 6   | 🔄 converter     | [App][app-converter]     | [CLI][cli-converter]     |           | [GitHub][github-converter]     |
+| 7   | 📚 doi           | [App][app-doi]           | [CLI][cli-doi]           |           | [GitHub][github-doi]           |
+| 8   | 🐙 gh            | [App][app-gh]            | [CLI][cli-gh]            |           | [GitHub][github-gh]            |
+| 9   | 📸 ig            | [App][app-ig]            | [CLI][cli-ig]            |           | [GitHub][github-ig]            |
+| 10  | 🍏 macosx        | [App][app-macosx]        | [CLI][cli-macosx]        |           | [GitHub][github-macosx]        |
+| 11  | 🗺️ maps          | [App][app-maps]          | [CLI][cli-maps]          |           | [GitHub][github-maps]          |
+| 12  | 🧊 md            | [App][app-md]            | [CLI][cli-md]            |           | [GitHub][github-md]            |
+| 13  | 🍅 pomodoro      | [App][app-pomodoro]      | [CLI][cli-pomodoro]      |           | [GitHub][github-pomodoro]      |
+| 14  | 🕵️‍♂️ redact        | [App][app-redact]        | [CLI][cli-redact]        |           | [GitHub][github-redact]        |
+| 15  | 🔁 reverse-proxy | [App][app-reverse-proxy] | [CLI][cli-reverse-proxy] |           | [GitHub][github-reverse-proxy] |
+| 16  | 📊 status        | [App][app-status]        | [CLI][cli-status]        |           | [GitHub][github-status]        |
+| 17  | ✈️ tg            | [App][app-tg]            | [CLI][cli-tg]            |           | [GitHub][github-tg]            |
+| 18  | 📅 today.do      | [App][app-today-do]      | [CLI][cli-today-do]      |           | [GitHub][github-today-do]      |
+| 19  | 🔤 words         | [App][app-words]         | [CLI][cli-words]         |           | [GitHub][github-words]         |
+| 20  | ▶️ ytb           | [App][app-ytb]           | [CLI][cli-ytb]           |           | [GitHub][github-ytb]           |
+| 21  | 🆔 uuid          | [App][app-uuid]          | [CLI][cli-uuid]          |           | [GitHub][github-uuid]          |
 
 ## 📕 Templates
 
@@ -59,6 +60,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [app-blackjack]: https://hieudoanm.github.io/blackjack
 [app-chat]: https://hieudoanm.github.io/chat
 [app-chess]: https://hieudoanm.github.io/chess
+[app-colors]: https://hieudoanm.github.io/colors
 [app-converter]: https://hieudoanm.github.io/converter
 [app-md]: https://hieudoanm.github.io/md
 [app-doi]: https://hieudoanm.github.io/doi
@@ -79,6 +81,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [cli-blackjack]: https://hieudoanm.github.io/blackjack
 [cli-chat]: https://hieudoanm.github.io/chat
 [cli-chess]: https://hieudoanm.github.io/chess
+[cli-colors]: https://hieudoanm.github.io/colors
 [cli-converter]: https://hieudoanm.github.io/converter
 [cli-md]: https://hieudoanm.github.io.md
 [cli-doi]: https://hieudoanm.github.io/doi
@@ -99,6 +102,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [github-blackjack]: https://github.com/hieudoanm/blackjack
 [github-chat]: https://github.com/hieudoanm/chat
 [github-chess]: https://github.com/hieudoanm/chess
+[github-colors]: https://github.com/hieudoanm/colors
 [github-converter]: https://github.com/hieudoanm/converter
 [github-md]: https://github.com/hieudoanm/md
 [github-doi]: https://github.com/hieudoanm/doi
