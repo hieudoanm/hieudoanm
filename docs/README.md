@@ -16,24 +16,26 @@
 
 ### 📱 [`micro/apps`][hieudoanm-micro]
 
-1. 💬 [chat][hieudoanm-chat]
-2. ♟️ [chess][hieudoanm-chess]
-3. 🔄 [converter][hieudoanm-converter]
-4. 🧊 [crystallised.md][hieudoanm-crystallised-md]
-5. 📚 [doi][hieudoanm-doi]
-6. 🐙 [gh][hieudoanm-gh]
-7. 📸 [ig][hieudoanm-ig]
-8. 🍏 [macosx][hieudoanm-macosx]
-9. 🗺️ [maps][hieudoanm-maps]
-10. 🍅 [pomodoro][hieudoanm-pomodoro]
-11. 🕵️‍♂️ [redact][hieudoanm-redact]
-12. 🔁 [reverse-proxy][hieudoanm-reverse-proxy]
-13. 📊 [status][hieudoanm-status]
-14. ✈️ [tg][hieudoanm-tg]
-15. 📅 [today.do][hieudoanm-today-do]
-16. 🔤 [words][hieudoanm-words]
-17. ▶️ [ytb][hieudoanm-ytb]
-18. 🆔 [uuid][hieudoanm-uuid]
+1. 🐚 [bash][hieudoanm-bash]
+2. 🂡 [blackjack][hieudoanm-blackjack]
+3. 💬 [chat][hieudoanm-chat]
+4. ♟️ [chess][hieudoanm-chess]
+5. 🔄 [converter][hieudoanm-converter]
+6. 🧊 [crystallised.md][hieudoanm-crystallised-md]
+7. 📚 [doi][hieudoanm-doi]
+8. 🐙 [gh][hieudoanm-gh]
+9. 📸 [ig][hieudoanm-ig]
+10. 🍏 [macosx][hieudoanm-macosx]
+11. 🗺️ [maps][hieudoanm-maps]
+12. 🍅 [pomodoro][hieudoanm-pomodoro]
+13. 🕵️‍♂️ [redact][hieudoanm-redact]
+14. 🔁 [reverse-proxy][hieudoanm-reverse-proxy]
+15. 📊 [status][hieudoanm-status]
+16. ✈️ [tg][hieudoanm-tg]
+17. 📅 [today.do][hieudoanm-today-do]
+18. 🔤 [words][hieudoanm-words]
+19. ▶️ [ytb][hieudoanm-ytb]
+20. 🆔 [uuid][hieudoanm-uuid]
 
 ## 📕 Templates
 
@@ -52,6 +54,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [hieudoanm]: https://hieudoanm.github.io
+[hieudoanm-bash]: https://hieudoanm.github.io/bash
+[hieudoanm-blackjack]: https://hieudoanm.github.io/blackjack
 [hieudoanm-chat]: https://hieudoanm.github.io/chat
 [hieudoanm-chess]: https://hieudoanm.github.io/chess
 [hieudoanm-converter]: https://hieudoanm.github.io/converter
