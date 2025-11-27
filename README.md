@@ -21,29 +21,29 @@
 - EXT: Browser Extension
 - VSC: Visual Studio Code Extension
 
-| No. | Name         | App                  | CLI                  | EXT                  | VSC                  | GitHub                     |
-| --- | ------------ | -------------------- | -------------------- | -------------------- | -------------------- | -------------------------- |
-| 1   | 🐚 bash      | [App][app-bash]      | [CLI][cli-bash]      | [EXT][ext-bash]      | [VSC][vsc-bash]      | [GitHub][github-bash]      |
-| 2   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] | [EXT][ext-blackjack] | [VSC][vsc-blackjack] | [GitHub][github-blackjack] |
-| 3   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      | [EXT][ext-chat]      | [VSC][vsc-chat]      | [GitHub][github-chat]      |
-| 4   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     | [EXT][ext-chess]     | [VSC][vsc-chess]     | [GitHub][github-chess]     |
-| 5   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    | [EXT][ext-colors]    | [VSC][vsc-colors]    | [GitHub][github-colors]    |
-| 6   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] | [EXT][ext-converter] | [VSC][vsc-converter] | [GitHub][github-converter] |
-| 7   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       | [EXT][ext-doi]       | [VSC][vsc-doi]       | [GitHub][github-doi]       |
-| 8   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        | [EXT][ext-gh]        | [VSC][vsc-gh]        | [GitHub][github-gh]        |
-| 9   | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        | [EXT][ext-ig]        | [VSC][vsc-ig]        | [GitHub][github-ig]        |
-| 10  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    | [EXT][ext-macosx]    | [VSC][vsc-macosx]    | [GitHub][github-macosx]    |
-| 11  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      | [EXT][ext-maps]      | [VSC][vsc-maps]      | [GitHub][github-maps]      |
-| 12  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        | [EXT][ext-md]        | [VSC][vsc-md]        | [GitHub][github-md]        |
-| 13  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  | [EXT][ext-pomodoro]  | [VSC][vsc-pomodoro]  | [GitHub][github-pomodoro]  |
-| 14  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     | [EXT][ext-proxy]     | [VSC][vsc-proxy]     | [GitHub][github-proxy]     |
-| 15  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    | [EXT][ext-redact]    | [VSC][vsc-redact]    | [GitHub][github-redact]    |
-| 16  | 📊 status    | [App][app-status]    | [CLI][cli-status]    | [EXT][ext-status]    | [VSC][vsc-status]    | [GitHub][github-status]    |
-| 17  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        | [EXT][ext-tg]        | [VSC][vsc-tg]        | [GitHub][github-tg]        |
-| 18  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  | [EXT][ext-today-do]  | [VSC][vsc-today-do]  | [GitHub][github-today-do]  |
-| 19  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      | [EXT][ext-uuid]      | [VSC][vsc-uuid]      | [GitHub][github-uuid]      |
-| 20  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     | [EXT][ext-words]     | [VSC][vsc-words]     | [GitHub][github-words]     |
-| 21  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       | [EXT][ext-ytb]       | [VSC][vsc-ytb]       | [GitHub][github-ytb]       |
+| No. | Name         | App                  | CLI                  | Extension                  | Visual Studio Code                  | GitHub                     |
+| --- | ------------ | -------------------- | -------------------- | -------------------------- | ----------------------------------- | -------------------------- |
+| 1   | 🐚 bash      | [App][app-bash]      | [CLI][cli-bash]      | [Extension][ext-bash]      | [Visual Studio Code][vsc-bash]      | [GitHub][github-bash]      |
+| 2   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] | [Extension][ext-blackjack] | [Visual Studio Code][vsc-blackjack] | [GitHub][github-blackjack] |
+| 3   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      | [Extension][ext-chat]      | [Visual Studio Code][vsc-chat]      | [GitHub][github-chat]      |
+| 4   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     | [Extension][ext-chess]     | [Visual Studio Code][vsc-chess]     | [GitHub][github-chess]     |
+| 5   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    | [Extension][ext-colors]    | [Visual Studio Code][vsc-colors]    | [GitHub][github-colors]    |
+| 6   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] | [Extension][ext-converter] | [Visual Studio Code][vsc-converter] | [GitHub][github-converter] |
+| 7   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       | [Extension][ext-doi]       | [Visual Studio Code][vsc-doi]       | [GitHub][github-doi]       |
+| 8   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        | [Extension][ext-gh]        | [Visual Studio Code][vsc-gh]        | [GitHub][github-gh]        |
+| 9   | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        | [Extension][ext-ig]        | [Visual Studio Code][vsc-ig]        | [GitHub][github-ig]        |
+| 10  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    | [Extension][ext-macosx]    | [Visual Studio Code][vsc-macosx]    | [GitHub][github-macosx]    |
+| 11  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      | [Extension][ext-maps]      | [Visual Studio Code][vsc-maps]      | [GitHub][github-maps]      |
+| 12  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        | [Extension][ext-md]        | [Visual Studio Code][vsc-md]        | [GitHub][github-md]        |
+| 13  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  | [Extension][ext-pomodoro]  | [Visual Studio Code][vsc-pomodoro]  | [GitHub][github-pomodoro]  |
+| 14  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     | [Extension][ext-proxy]     | [Visual Studio Code][vsc-proxy]     | [GitHub][github-proxy]     |
+| 15  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    | [Extension][ext-redact]    | [Visual Studio Code][vsc-redact]    | [GitHub][github-redact]    |
+| 16  | 📊 status    | [App][app-status]    | [CLI][cli-status]    | [Extension][ext-status]    | [Visual Studio Code][vsc-status]    | [GitHub][github-status]    |
+| 17  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        | [Extension][ext-tg]        | [Visual Studio Code][vsc-tg]        | [GitHub][github-tg]        |
+| 18  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  | [Extension][ext-today-do]  | [Visual Studio Code][vsc-today-do]  | [GitHub][github-today-do]  |
+| 19  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      | [Extension][ext-uuid]      | [Visual Studio Code][vsc-uuid]      | [GitHub][github-uuid]      |
+| 20  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     | [Extension][ext-words]     | [Visual Studio Code][vsc-words]     | [GitHub][github-words]     |
+| 21  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       | [Extension][ext-ytb]       | [Visual Studio Code][vsc-ytb]       | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
