@@ -6,15 +6,12 @@
 
 - [👨‍💻 I'm HIEU DOAN](#-im-hieu-doan)
   - [🗄️ Table of Contents](#️-table-of-contents)
-  - [🖥️ Apps](#️-apps)
-    - [📱 `micro/apps`](#-microapps)
+  - [🖥️ `micro/apps` 📱](#️-microapps-)
   - [📕 Templates](#-templates)
     - [🎨 `atomic/code`](#-atomiccode)
     - [🔬 `micro/saas`](#-microsaas)
 
-## 🖥️ Apps
-
-### 📱 `micro/apps`
+## 🖥️ `micro/apps` 📱
 
 - App: Web - Android - iOS - macOS
 - CLI: Command Line Interface
