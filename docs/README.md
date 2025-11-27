@@ -41,9 +41,9 @@
 | 16  | 📊 status    | [App][app-status]    | [CLI][cli-status]    |     |     | [GitHub][github-status]    |
 | 17  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        |     |     | [GitHub][github-tg]        |
 | 18  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  |     |     | [GitHub][github-today-do]  |
-| 19  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     |     |     | [GitHub][github-words]     |
-| 20  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       |     |     | [GitHub][github-ytb]       |
-| 21  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      |     |     | [GitHub][github-uuid]      |
+| 19  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      |     |     | [GitHub][github-uuid]      |
+| 20  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     |     |     | [GitHub][github-words]     |
+| 21  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       |     |     | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
