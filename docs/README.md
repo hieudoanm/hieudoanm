@@ -21,29 +21,29 @@
 - EXT: Browser Extension
 - VSC: Visual Studio Code Extension
 
-| No. | Name         | App                  | CLI                  | EXT | VSC | GitHub                     |
-| --- | ------------ | -------------------- | -------------------- | --- | --- | -------------------------- |
-| 1   | 🐚 bash      | [App][app-bash]      | [CLI][cli-bash]      |     |     | [GitHub][github-bash]      |
-| 2   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] |     |     | [GitHub][github-blackjack] |
-| 3   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      |     |     | [GitHub][github-chat]      |
-| 4   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     |     |     | [GitHub][github-chess]     |
-| 5   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    |     |     | [GitHub][github-colors]    |
-| 6   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] |     |     | [GitHub][github-converter] |
-| 7   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       |     |     | [GitHub][github-doi]       |
-| 8   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        |     |     | [GitHub][github-gh]        |
-| 9   | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        |     |     | [GitHub][github-ig]        |
-| 10  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    |     |     | [GitHub][github-macosx]    |
-| 11  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      |     |     | [GitHub][github-maps]      |
-| 12  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        |     |     | [GitHub][github-md]        |
-| 13  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  |     |     | [GitHub][github-pomodoro]  |
-| 14  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     |     |     | [GitHub][github-proxy]     |
-| 15  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    |     |     | [GitHub][github-redact]    |
-| 16  | 📊 status    | [App][app-status]    | [CLI][cli-status]    |     |     | [GitHub][github-status]    |
-| 17  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        |     |     | [GitHub][github-tg]        |
-| 18  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  |     |     | [GitHub][github-today-do]  |
-| 19  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      |     |     | [GitHub][github-uuid]      |
-| 20  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     |     |     | [GitHub][github-words]     |
-| 21  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       |     |     | [GitHub][github-ytb]       |
+| No. | Name         | App                  | CLI                  | EXT                  | VSC                  | GitHub                     |
+| --- | ------------ | -------------------- | -------------------- | -------------------- | -------------------- | -------------------------- |
+| 1   | 🐚 bash      | [App][app-bash]      | [CLI][cli-bash]      | [EXT][ext-bash]      | [VSC][vsc-bash]      | [GitHub][github-bash]      |
+| 2   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] | [EXT][ext-blackjack] | [VSC][vsc-blackjack] | [GitHub][github-blackjack] |
+| 3   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      | [EXT][ext-chat]      | [VSC][vsc-chat]      | [GitHub][github-chat]      |
+| 4   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     | [EXT][ext-chess]     | [VSC][vsc-chess]     | [GitHub][github-chess]     |
+| 5   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    | [EXT][ext-colors]    | [VSC][vsc-colors]    | [GitHub][github-colors]    |
+| 6   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] | [EXT][ext-converter] | [VSC][vsc-converter] | [GitHub][github-converter] |
+| 7   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       | [EXT][ext-doi]       | [VSC][vsc-doi]       | [GitHub][github-doi]       |
+| 8   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        | [EXT][ext-gh]        | [VSC][vsc-gh]        | [GitHub][github-gh]        |
+| 9   | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        | [EXT][ext-ig]        | [VSC][vsc-ig]        | [GitHub][github-ig]        |
+| 10  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    | [EXT][ext-macosx]    | [VSC][vsc-macosx]    | [GitHub][github-macosx]    |
+| 11  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      | [EXT][ext-maps]      | [VSC][vsc-maps]      | [GitHub][github-maps]      |
+| 12  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        | [EXT][ext-md]        | [VSC][vsc-md]        | [GitHub][github-md]        |
+| 13  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  | [EXT][ext-pomodoro]  | [VSC][vsc-pomodoro]  | [GitHub][github-pomodoro]  |
+| 14  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     | [EXT][ext-proxy]     | [VSC][vsc-proxy]     | [GitHub][github-proxy]     |
+| 15  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    | [EXT][ext-redact]    | [VSC][vsc-redact]    | [GitHub][github-redact]    |
+| 16  | 📊 status    | [App][app-status]    | [CLI][cli-status]    | [EXT][ext-status]    | [VSC][vsc-status]    | [GitHub][github-status]    |
+| 17  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        | [EXT][ext-tg]        | [VSC][vsc-tg]        | [GitHub][github-tg]        |
+| 18  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  | [EXT][ext-today-do]  | [VSC][vsc-today-do]  | [GitHub][github-today-do]  |
+| 19  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      | [EXT][ext-uuid]      | [VSC][vsc-uuid]      | [GitHub][github-uuid]      |
+| 20  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     | [EXT][ext-words]     | [VSC][vsc-words]     | [GitHub][github-words]     |
+| 21  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       | [EXT][ext-ytb]       | [VSC][vsc-ytb]       | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
@@ -103,6 +103,48 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [cli-uuid]: https://hieudoanm.github.io/uuid
 [cli-words]: https://hieudoanm.github.io/words
 [cli-ytb]: https://hieudoanm.github.io/ytb
+[ext-bash]: https://hieudoanm.github.io/bash
+[ext-blackjack]: https://hieudoanm.github.io/blackjack
+[ext-chat]: https://hieudoanm.github.io/chat
+[ext-chess]: https://hieudoanm.github.io/chess
+[ext-colors]: https://hieudoanm.github.io/colors
+[ext-converter]: https://hieudoanm.github.io/converter
+[ext-md]: https://hieudoanm.github.io.md
+[ext-doi]: https://hieudoanm.github.io/doi
+[ext-gh]: https://hieudoanm.github.io/gh
+[ext-ig]: https://hieudoanm.github.io/ig
+[ext-macosx]: https://hieudoanm.github.io/macosx
+[ext-maps]: https://hieudoanm.github.io/maps
+[ext-pomodoro]: https://hieudoanm.github.io/pomodoro
+[ext-proxy]: https://hieudoanm.github.io/proxy
+[ext-redact]: https://hieudoanm.github.io/redact
+[ext-status]: https://hieudoanm.github.io/status
+[ext-tg]: https://hieudoanm.github.io/tg
+[ext-today-do]: https://hieudoanm.github.io/today.do
+[ext-uuid]: https://hieudoanm.github.io/uuid
+[ext-words]: https://hieudoanm.github.io/words
+[ext-ytb]: https://hieudoanm.github.io/ytb
+[vsc-bash]: https://hieudoanm.github.io/bash
+[vsc-blackjack]: https://hieudoanm.github.io/blackjack
+[vsc-chat]: https://hieudoanm.github.io/chat
+[vsc-chess]: https://hieudoanm.github.io/chess
+[vsc-colors]: https://hieudoanm.github.io/colors
+[vsc-converter]: https://hieudoanm.github.io/converter
+[vsc-md]: https://hieudoanm.github.io.md
+[vsc-doi]: https://hieudoanm.github.io/doi
+[vsc-gh]: https://hieudoanm.github.io/gh
+[vsc-ig]: https://hieudoanm.github.io/ig
+[vsc-macosx]: https://hieudoanm.github.io/macosx
+[vsc-maps]: https://hieudoanm.github.io/maps
+[vsc-pomodoro]: https://hieudoanm.github.io/pomodoro
+[vsc-proxy]: https://hieudoanm.github.io/proxy
+[vsc-redact]: https://hieudoanm.github.io/redact
+[vsc-status]: https://hieudoanm.github.io/status
+[vsc-tg]: https://hieudoanm.github.io/tg
+[vsc-today-do]: https://hieudoanm.github.io/today.do
+[vsc-uuid]: https://hieudoanm.github.io/uuid
+[vsc-words]: https://hieudoanm.github.io/words
+[vsc-ytb]: https://hieudoanm.github.io/ytb
 [github-bash]: https://github.com/hieudoanm/bash
 [github-blackjack]: https://github.com/hieudoanm/blackjack
 [github-chat]: https://github.com/hieudoanm/chat
