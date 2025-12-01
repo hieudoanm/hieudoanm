@@ -13,37 +13,40 @@
 
 ## 🖥️ `micro/apps` 📱
 
-- App: Web - Android - iOS - macOS
+- Application:
+  - Web
+  - Mobile: Android & iOS
+  - Desktop: Windows & macOS
 - `CLI`: Command Line Interface
 - `EXT`: Extension
   - `BRW`: Browser Extension
   - `VSC`: Visual Studio Code Extension
 
-| No. | Name         | App                  | CLI                  | Browser                      | Visual Studio Code                      | GitHub                     |
-| --- | ------------ | -------------------- | -------------------- | ---------------------------- | --------------------------------------- | -------------------------- |
-| 1   | 🐚 bash      | [App][app-bash]      | [CLI][cli-bash]      | [Browser][ext-brw-bash]      | [Visual Studio Code][ext-vsc-bash]      | [GitHub][github-bash]      |
-| 2   | 🧠 bci       | [App][app-bci]       | [CLI][cli-bci]       | [Browser][ext-brw-bci]       | [Visual Studio Code][ext-vsc-bci]       | [GitHub][github-bci]       |
-| 3   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] | [Browser][ext-brw-blackjack] | [Visual Studio Code][ext-vsc-blackjack] | [GitHub][github-blackjack] |
-| 4   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      | [Browser][ext-brw-chat]      | [Visual Studio Code][ext-vsc-chat]      | [GitHub][github-chat]      |
-| 5   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     | [Browser][ext-brw-chess]     | [Visual Studio Code][ext-vsc-chess]     | [GitHub][github-chess]     |
-| 6   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    | [Browser][ext-brw-colors]    | [Visual Studio Code][ext-vsc-colors]    | [GitHub][github-colors]    |
-| 7   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] | [Browser][ext-brw-converter] | [Visual Studio Code][ext-vsc-converter] | [GitHub][github-converter] |
-| 8   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       | [Browser][ext-brw-doi]       | [Visual Studio Code][ext-vsc-doi]       | [GitHub][github-doi]       |
-| 9   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        | [Browser][ext-brw-gh]        | [Visual Studio Code][ext-vsc-gh]        | [GitHub][github-gh]        |
-| 10  | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        | [Browser][ext-brw-ig]        | [Visual Studio Code][ext-vsc-ig]        | [GitHub][github-ig]        |
-| 11  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    | [Browser][ext-brw-macosx]    | [Visual Studio Code][ext-vsc-macosx]    | [GitHub][github-macosx]    |
-| 12  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      | [Browser][ext-brw-maps]      | [Visual Studio Code][ext-vsc-maps]      | [GitHub][github-maps]      |
-| 13  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        | [Browser][ext-brw-md]        | [Visual Studio Code][ext-vsc-md]        | [GitHub][github-md]        |
-| 14  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  | [Browser][ext-brw-pomodoro]  | [Visual Studio Code][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
-| 15  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     | [Browser][ext-brw-proxy]     | [Visual Studio Code][ext-vsc-proxy]     | [GitHub][github-proxy]     |
-| 16  | 🔳 qrcode    | [App][app-qrcode]    | [CLI][cli-qrcode]    | [Browser][ext-brw-qrcode]    | [Visual Studio Code][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
-| 17  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    | [Browser][ext-brw-redact]    | [Visual Studio Code][ext-vsc-redact]    | [GitHub][github-redact]    |
-| 18  | 📊 status    | [App][app-status]    | [CLI][cli-status]    | [Browser][ext-brw-status]    | [Visual Studio Code][ext-vsc-status]    | [GitHub][github-status]    |
-| 19  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        | [Browser][ext-brw-tg]        | [Visual Studio Code][ext-vsc-tg]        | [GitHub][github-tg]        |
-| 20  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  | [Browser][ext-brw-today-do]  | [Visual Studio Code][ext-vsc-today-do]  | [GitHub][github-today-do]  |
-| 21  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      | [Browser][ext-brw-uuid]      | [Visual Studio Code][ext-vsc-uuid]      | [GitHub][github-uuid]      |
-| 22  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     | [Browser][ext-brw-words]     | [Visual Studio Code][ext-vsc-words]     | [GitHub][github-words]     |
-| 23  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       | [Browser][ext-brw-ytb]       | [Visual Studio Code][ext-vsc-ytb]       | [GitHub][github-ytb]       |
+| No. | Name         | Web                  | Mobile (Android) | Mobile (iOS) | CLI                  | Extension (Browser)                             | Extension (Visual Studio Code)              | GitHub                     |
+| --- | ------------ | -------------------- | ---------------- | ------------ | -------------------- | ----------------------------------------------- | ------------------------------------------- | -------------------------- |
+| 1   | 🐚 bash      | [Web][web-bash]      |                  |              | [CLI][cli-bash]      | [Download Browser Extension][ext-brw-bash]      | [Download VSC Extension][ext-vsc-bash]      | [GitHub][github-bash]      |
+| 2   | 🧠 bci       | [Web][web-bci]       |                  |              | [CLI][cli-bci]       | [Download Browser Extension][ext-brw-bci]       | [Download VSC Extension][ext-vsc-bci]       | [GitHub][github-bci]       |
+| 3   | 🃏 blackjack | [Web][web-blackjack] |                  |              | [CLI][cli-blackjack] | [Download Browser Extension][ext-brw-blackjack] | [Download VSC Extension][ext-vsc-blackjack] | [GitHub][github-blackjack] |
+| 4   | 💬 chat      | [Web][web-chat]      |                  |              | [CLI][cli-chat]      | [Download Browser Extension][ext-brw-chat]      | [Download VSC Extension][ext-vsc-chat]      | [GitHub][github-chat]      |
+| 5   | ♟️ chess     | [Web][web-chess]     |                  |              | [CLI][cli-chess]     | [Download Browser Extension][ext-brw-chess]     | [Download VSC Extension][ext-vsc-chess]     | [GitHub][github-chess]     |
+| 6   | 🎨 colors    | [Web][web-colors]    |                  |              | [CLI][cli-colors]    | [Download Browser Extension][ext-brw-colors]    | [Download VSC Extension][ext-vsc-colors]    | [GitHub][github-colors]    |
+| 7   | 🔄 converter | [Web][web-converter] |                  |              | [CLI][cli-converter] | [Download Browser Extension][ext-brw-converter] | [Download VSC Extension][ext-vsc-converter] | [GitHub][github-converter] |
+| 8   | 📚 doi       | [Web][web-doi]       |                  |              | [CLI][cli-doi]       | [Download Browser Extension][ext-brw-doi]       | [Download VSC Extension][ext-vsc-doi]       | [GitHub][github-doi]       |
+| 9   | 🐙 gh        | [Web][web-gh]        |                  |              | [CLI][cli-gh]        | [Download Browser Extension][ext-brw-gh]        | [Download VSC Extension][ext-vsc-gh]        | [GitHub][github-gh]        |
+| 10  | 📸 ig        | [Web][web-ig]        |                  |              | [CLI][cli-ig]        | [Download Browser Extension][ext-brw-ig]        | [Download VSC Extension][ext-vsc-ig]        | [GitHub][github-ig]        |
+| 11  | 🍏 macosx    | [Web][web-macosx]    |                  |              | [CLI][cli-macosx]    | [Download Browser Extension][ext-brw-macosx]    | [Download VSC Extension][ext-vsc-macosx]    | [GitHub][github-macosx]    |
+| 12  | 🗺️ maps      | [Web][web-maps]      |                  |              | [CLI][cli-maps]      | [Download Browser Extension][ext-brw-maps]      | [Download VSC Extension][ext-vsc-maps]      | [GitHub][github-maps]      |
+| 13  | 🧊 md        | [Web][web-md]        |                  |              | [CLI][cli-md]        | [Download Browser Extension][ext-brw-md]        | [Download VSC Extension][ext-vsc-md]        | [GitHub][github-md]        |
+| 14  | 🍅 pomodoro  | [Web][web-pomodoro]  |                  |              | [CLI][cli-pomodoro]  | [Download Browser Extension][ext-brw-pomodoro]  | [Download VSC Extension][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
+| 15  | 🔁 proxy     | [Web][web-proxy]     |                  |              | [CLI][cli-proxy]     | [Download Browser Extension][ext-brw-proxy]     | [Download VSC Extension][ext-vsc-proxy]     | [GitHub][github-proxy]     |
+| 16  | 🔳 qrcode    | [Web][web-qrcode]    |                  |              | [CLI][cli-qrcode]    | [Download Browser Extension][ext-brw-qrcode]    | [Download VSC Extension][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
+| 17  | 🕵️‍♂️ redact    | [Web][web-redact]    |                  |              | [CLI][cli-redact]    | [Download Browser Extension][ext-brw-redact]    | [Download VSC Extension][ext-vsc-redact]    | [GitHub][github-redact]    |
+| 18  | 📊 status    | [Web][web-status]    |                  |              | [CLI][cli-status]    | [Download Browser Extension][ext-brw-status]    | [Download VSC Extension][ext-vsc-status]    | [GitHub][github-status]    |
+| 19  | ✈️ tg        | [Web][web-tg]        |                  |              | [CLI][cli-tg]        | [Download Browser Extension][ext-brw-tg]        | [Download VSC Extension][ext-vsc-tg]        | [GitHub][github-tg]        |
+| 20  | 📅 today.do  | [Web][web-today-do]  |                  |              | [CLI][cli-today-do]  | [Download Browser Extension][ext-brw-today-do]  | [Download VSC Extension][ext-vsc-today-do]  | [GitHub][github-today-do]  |
+| 21  | 🆔 uuid      | [Web][web-uuid]      |                  |              | [CLI][cli-uuid]      | [Download Browser Extension][ext-brw-uuid]      | [Download VSC Extension][ext-vsc-uuid]      | [GitHub][github-uuid]      |
+| 22  | 🔤 words     | [Web][web-words]     |                  |              | [CLI][cli-words]     | [Download Browser Extension][ext-brw-words]     | [Download VSC Extension][ext-vsc-words]     | [GitHub][github-words]     |
+| 23  | ▶️ ytb       | [Web][web-ytb]       |                  |              | [CLI][cli-ytb]       | [Download Browser Extension][ext-brw-ytb]       | [Download VSC Extension][ext-vsc-ytb]       | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
@@ -61,29 +64,29 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
-[app-bash]: https://hieudoanm.github.io/bash
-[app-bci]: https://hieudoanm.github.io/bci
-[app-blackjack]: https://hieudoanm.github.io/blackjack
-[app-chat]: https://hieudoanm.github.io/chat
-[app-chess]: https://hieudoanm.github.io/chess
-[app-colors]: https://hieudoanm.github.io/colors
-[app-converter]: https://hieudoanm.github.io/converter
-[app-md]: https://hieudoanm.github.io/md
-[app-doi]: https://hieudoanm.github.io/doi
-[app-gh]: https://hieudoanm.github.io/gh
-[app-ig]: https://hieudoanm.github.io/ig
-[app-macosx]: https://hieudoanm.github.io/macosx
-[app-maps]: https://hieudoanm.github.io/maps
-[app-pomodoro]: https://hieudoanm.github.io/pomodoro
-[app-proxy]: https://hieudoanm.github.io/proxy
-[app-qrcode]: https://hieudoanm.github.io/qrcode
-[app-redact]: https://hieudoanm.github.io/redact
-[app-status]: https://hieudoanm.github.io/status
-[app-tg]: https://hieudoanm.github.io/tg
-[app-today-do]: https://hieudoanm.github.io/today.do
-[app-uuid]: https://hieudoanm.github.io/uuid
-[app-words]: https://hieudoanm.github.io/words
-[app-ytb]: https://hieudoanm.github.io/ytb
+[web-bash]: https://hieudoanm.github.io/bash
+[web-bci]: https://hieudoanm.github.io/bci
+[web-blackjack]: https://hieudoanm.github.io/blackjack
+[web-chat]: https://hieudoanm.github.io/chat
+[web-chess]: https://hieudoanm.github.io/chess
+[web-colors]: https://hieudoanm.github.io/colors
+[web-converter]: https://hieudoanm.github.io/converter
+[web-md]: https://hieudoanm.github.io/md
+[web-doi]: https://hieudoanm.github.io/doi
+[web-gh]: https://hieudoanm.github.io/gh
+[web-ig]: https://hieudoanm.github.io/ig
+[web-macosx]: https://hieudoanm.github.io/macosx
+[web-maps]: https://hieudoanm.github.io/maps
+[web-pomodoro]: https://hieudoanm.github.io/pomodoro
+[web-proxy]: https://hieudoanm.github.io/proxy
+[web-qrcode]: https://hieudoanm.github.io/qrcode
+[web-redact]: https://hieudoanm.github.io/redact
+[web-status]: https://hieudoanm.github.io/status
+[web-tg]: https://hieudoanm.github.io/tg
+[web-today-do]: https://hieudoanm.github.io/today.do
+[web-uuid]: https://hieudoanm.github.io/uuid
+[web-words]: https://hieudoanm.github.io/words
+[web-ytb]: https://hieudoanm.github.io/ytb
 
 <!-- CLI -->
 
