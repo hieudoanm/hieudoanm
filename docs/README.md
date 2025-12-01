@@ -22,31 +22,31 @@
   - `ZIP`: Browser Extension
   - `VSC`: Visual Studio Code Extension
 
-| No. | Name         | Web                  | Mobile (Android) | Mobile (iOS) | CLI                  | `extension.zip`                   | `extension.vsix`                   | GitHub                     |
-| --- | ------------ | -------------------- | ---------------- | ------------ | -------------------- | --------------------------------- | ---------------------------------- | -------------------------- |
-| 1   | 🐚 bash      | [Web][web-bash]      |                  |              | [CLI][cli-bash]      | [Download ZIP][ext-brw-bash]      | [Download VSIX][ext-vsc-bash]      | [GitHub][github-bash]      |
-| 2   | 🧠 bci       | [Web][web-bci]       |                  |              | [CLI][cli-bci]       | [Download ZIP][ext-brw-bci]       | [Download VSIX][ext-vsc-bci]       | [GitHub][github-bci]       |
-| 3   | 🃏 blackjack | [Web][web-blackjack] |                  |              | [CLI][cli-blackjack] | [Download ZIP][ext-brw-blackjack] | [Download VSIX][ext-vsc-blackjack] | [GitHub][github-blackjack] |
-| 4   | 💬 chat      | [Web][web-chat]      |                  |              | [CLI][cli-chat]      | [Download ZIP][ext-brw-chat]      | [Download VSIX][ext-vsc-chat]      | [GitHub][github-chat]      |
-| 5   | ♟️ chess     | [Web][web-chess]     |                  |              | [CLI][cli-chess]     | [Download ZIP][ext-brw-chess]     | [Download VSIX][ext-vsc-chess]     | [GitHub][github-chess]     |
-| 6   | 🎨 colors    | [Web][web-colors]    |                  |              | [CLI][cli-colors]    | [Download ZIP][ext-brw-colors]    | [Download VSIX][ext-vsc-colors]    | [GitHub][github-colors]    |
-| 7   | 🔄 converter | [Web][web-converter] |                  |              | [CLI][cli-converter] | [Download ZIP][ext-brw-converter] | [Download VSIX][ext-vsc-converter] | [GitHub][github-converter] |
-| 8   | 📚 doi       | [Web][web-doi]       |                  |              | [CLI][cli-doi]       | [Download ZIP][ext-brw-doi]       | [Download VSIX][ext-vsc-doi]       | [GitHub][github-doi]       |
-| 9   | 🐙 gh        | [Web][web-gh]        |                  |              | [CLI][cli-gh]        | [Download ZIP][ext-brw-gh]        | [Download VSIX][ext-vsc-gh]        | [GitHub][github-gh]        |
-| 10  | 📸 ig        | [Web][web-ig]        |                  |              | [CLI][cli-ig]        | [Download ZIP][ext-brw-ig]        | [Download VSIX][ext-vsc-ig]        | [GitHub][github-ig]        |
-| 11  | 🍏 macosx    | [Web][web-macosx]    |                  |              | [CLI][cli-macosx]    | [Download ZIP][ext-brw-macosx]    | [Download VSIX][ext-vsc-macosx]    | [GitHub][github-macosx]    |
-| 12  | 🗺️ maps      | [Web][web-maps]      |                  |              | [CLI][cli-maps]      | [Download ZIP][ext-brw-maps]      | [Download VSIX][ext-vsc-maps]      | [GitHub][github-maps]      |
-| 13  | 🧊 md        | [Web][web-md]        |                  |              | [CLI][cli-md]        | [Download ZIP][ext-brw-md]        | [Download VSIX][ext-vsc-md]        | [GitHub][github-md]        |
-| 14  | 🍅 pomodoro  | [Web][web-pomodoro]  |                  |              | [CLI][cli-pomodoro]  | [Download ZIP][ext-brw-pomodoro]  | [Download VSIX][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
-| 15  | 🔁 proxy     | [Web][web-proxy]     |                  |              | [CLI][cli-proxy]     | [Download ZIP][ext-brw-proxy]     | [Download VSIX][ext-vsc-proxy]     | [GitHub][github-proxy]     |
-| 16  | 🔳 qrcode    | [Web][web-qrcode]    |                  |              | [CLI][cli-qrcode]    | [Download ZIP][ext-brw-qrcode]    | [Download VSIX][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
-| 17  | 🕵️‍♂️ redact    | [Web][web-redact]    |                  |              | [CLI][cli-redact]    | [Download ZIP][ext-brw-redact]    | [Download VSIX][ext-vsc-redact]    | [GitHub][github-redact]    |
-| 18  | 📊 status    | [Web][web-status]    |                  |              | [CLI][cli-status]    | [Download ZIP][ext-brw-status]    | [Download VSIX][ext-vsc-status]    | [GitHub][github-status]    |
-| 19  | ✈️ tg        | [Web][web-tg]        |                  |              | [CLI][cli-tg]        | [Download ZIP][ext-brw-tg]        | [Download VSIX][ext-vsc-tg]        | [GitHub][github-tg]        |
-| 20  | 📅 today.do  | [Web][web-today-do]  |                  |              | [CLI][cli-today-do]  | [Download ZIP][ext-brw-today-do]  | [Download VSIX][ext-vsc-today-do]  | [GitHub][github-today-do]  |
-| 21  | 🆔 uuid      | [Web][web-uuid]      |                  |              | [CLI][cli-uuid]      | [Download ZIP][ext-brw-uuid]      | [Download VSIX][ext-vsc-uuid]      | [GitHub][github-uuid]      |
-| 22  | 🔤 words     | [Web][web-words]     |                  |              | [CLI][cli-words]     | [Download ZIP][ext-brw-words]     | [Download VSIX][ext-vsc-words]     | [GitHub][github-words]     |
-| 23  | ▶️ ytb       | [Web][web-ytb]       |                  |              | [CLI][cli-ytb]       | [Download ZIP][ext-brw-ytb]       | [Download VSIX][ext-vsc-ytb]       | [GitHub][github-ytb]       |
+| No. | Name         | Web                  | Android | iOS | CLI                  | `extension.zip`                   | `extension.vsix`                   | GitHub                     |
+| --- | ------------ | -------------------- | ------- | --- | -------------------- | --------------------------------- | ---------------------------------- | -------------------------- |
+| 1   | 🐚 bash      | [Web][web-bash]      |         |     | [CLI][cli-bash]      | [Download ZIP][ext-brw-bash]      | [Download VSIX][ext-vsc-bash]      | [GitHub][github-bash]      |
+| 2   | 🧠 bci       | [Web][web-bci]       |         |     | [CLI][cli-bci]       | [Download ZIP][ext-brw-bci]       | [Download VSIX][ext-vsc-bci]       | [GitHub][github-bci]       |
+| 3   | 🃏 blackjack | [Web][web-blackjack] |         |     | [CLI][cli-blackjack] | [Download ZIP][ext-brw-blackjack] | [Download VSIX][ext-vsc-blackjack] | [GitHub][github-blackjack] |
+| 4   | 💬 chat      | [Web][web-chat]      |         |     | [CLI][cli-chat]      | [Download ZIP][ext-brw-chat]      | [Download VSIX][ext-vsc-chat]      | [GitHub][github-chat]      |
+| 5   | ♟️ chess     | [Web][web-chess]     |         |     | [CLI][cli-chess]     | [Download ZIP][ext-brw-chess]     | [Download VSIX][ext-vsc-chess]     | [GitHub][github-chess]     |
+| 6   | 🎨 colors    | [Web][web-colors]    |         |     | [CLI][cli-colors]    | [Download ZIP][ext-brw-colors]    | [Download VSIX][ext-vsc-colors]    | [GitHub][github-colors]    |
+| 7   | 🔄 converter | [Web][web-converter] |         |     | [CLI][cli-converter] | [Download ZIP][ext-brw-converter] | [Download VSIX][ext-vsc-converter] | [GitHub][github-converter] |
+| 8   | 📚 doi       | [Web][web-doi]       |         |     | [CLI][cli-doi]       | [Download ZIP][ext-brw-doi]       | [Download VSIX][ext-vsc-doi]       | [GitHub][github-doi]       |
+| 9   | 🐙 gh        | [Web][web-gh]        |         |     | [CLI][cli-gh]        | [Download ZIP][ext-brw-gh]        | [Download VSIX][ext-vsc-gh]        | [GitHub][github-gh]        |
+| 10  | 📸 ig        | [Web][web-ig]        |         |     | [CLI][cli-ig]        | [Download ZIP][ext-brw-ig]        | [Download VSIX][ext-vsc-ig]        | [GitHub][github-ig]        |
+| 11  | 🍏 macosx    | [Web][web-macosx]    |         |     | [CLI][cli-macosx]    | [Download ZIP][ext-brw-macosx]    | [Download VSIX][ext-vsc-macosx]    | [GitHub][github-macosx]    |
+| 12  | 🗺️ maps      | [Web][web-maps]      |         |     | [CLI][cli-maps]      | [Download ZIP][ext-brw-maps]      | [Download VSIX][ext-vsc-maps]      | [GitHub][github-maps]      |
+| 13  | 🧊 md        | [Web][web-md]        |         |     | [CLI][cli-md]        | [Download ZIP][ext-brw-md]        | [Download VSIX][ext-vsc-md]        | [GitHub][github-md]        |
+| 14  | 🍅 pomodoro  | [Web][web-pomodoro]  |         |     | [CLI][cli-pomodoro]  | [Download ZIP][ext-brw-pomodoro]  | [Download VSIX][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
+| 15  | 🔁 proxy     | [Web][web-proxy]     |         |     | [CLI][cli-proxy]     | [Download ZIP][ext-brw-proxy]     | [Download VSIX][ext-vsc-proxy]     | [GitHub][github-proxy]     |
+| 16  | 🔳 qrcode    | [Web][web-qrcode]    |         |     | [CLI][cli-qrcode]    | [Download ZIP][ext-brw-qrcode]    | [Download VSIX][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
+| 17  | 🕵️‍♂️ redact    | [Web][web-redact]    |         |     | [CLI][cli-redact]    | [Download ZIP][ext-brw-redact]    | [Download VSIX][ext-vsc-redact]    | [GitHub][github-redact]    |
+| 18  | 📊 status    | [Web][web-status]    |         |     | [CLI][cli-status]    | [Download ZIP][ext-brw-status]    | [Download VSIX][ext-vsc-status]    | [GitHub][github-status]    |
+| 19  | ✈️ tg        | [Web][web-tg]        |         |     | [CLI][cli-tg]        | [Download ZIP][ext-brw-tg]        | [Download VSIX][ext-vsc-tg]        | [GitHub][github-tg]        |
+| 20  | 📅 today.do  | [Web][web-today-do]  |         |     | [CLI][cli-today-do]  | [Download ZIP][ext-brw-today-do]  | [Download VSIX][ext-vsc-today-do]  | [GitHub][github-today-do]  |
+| 21  | 🆔 uuid      | [Web][web-uuid]      |         |     | [CLI][cli-uuid]      | [Download ZIP][ext-brw-uuid]      | [Download VSIX][ext-vsc-uuid]      | [GitHub][github-uuid]      |
+| 22  | 🔤 words     | [Web][web-words]     |         |     | [CLI][cli-words]     | [Download ZIP][ext-brw-words]     | [Download VSIX][ext-vsc-words]     | [GitHub][github-words]     |
+| 23  | ▶️ ytb       | [Web][web-ytb]       |         |     | [CLI][cli-ytb]       | [Download ZIP][ext-brw-ytb]       | [Download VSIX][ext-vsc-ytb]       | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
