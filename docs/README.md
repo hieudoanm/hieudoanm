@@ -19,30 +19,31 @@
   - `BRW`: Browser Extension
   - `VSC`: Visual Studio Code Extension
 
-| No. | Name        | App                  | CLI                  | Browser                      | Visual Studio Code                      | GitHub                     |
-| --- | ----------- | -------------------- | -------------------- | ---------------------------- | --------------------------------------- | -------------------------- |
+| No. | Name         | App                  | CLI                  | Browser                      | Visual Studio Code                      | GitHub                     |
+| --- | ------------ | -------------------- | -------------------- | ---------------------------- | --------------------------------------- | -------------------------- |
 | 1   | 🐚 bash      | [App][app-bash]      | [CLI][cli-bash]      | [Browser][ext-brw-bash]      | [Visual Studio Code][ext-vsc-bash]      | [GitHub][github-bash]      |
-| 2   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] | [Browser][ext-brw-blackjack] | [Visual Studio Code][ext-vsc-blackjack] | [GitHub][github-blackjack] |
-| 3   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      | [Browser][ext-brw-chat]      | [Visual Studio Code][ext-vsc-chat]      | [GitHub][github-chat]      |
-| 4   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     | [Browser][ext-brw-chess]     | [Visual Studio Code][ext-vsc-chess]     | [GitHub][github-chess]     |
-| 5   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    | [Browser][ext-brw-colors]    | [Visual Studio Code][ext-vsc-colors]    | [GitHub][github-colors]    |
-| 6   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] | [Browser][ext-brw-converter] | [Visual Studio Code][ext-vsc-converter] | [GitHub][github-converter] |
-| 7   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       | [Browser][ext-brw-doi]       | [Visual Studio Code][ext-vsc-doi]       | [GitHub][github-doi]       |
-| 8   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        | [Browser][ext-brw-gh]        | [Visual Studio Code][ext-vsc-gh]        | [GitHub][github-gh]        |
-| 9   | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        | [Browser][ext-brw-ig]        | [Visual Studio Code][ext-vsc-ig]        | [GitHub][github-ig]        |
-| 10  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    | [Browser][ext-brw-macosx]    | [Visual Studio Code][ext-vsc-macosx]    | [GitHub][github-macosx]    |
-| 11  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      | [Browser][ext-brw-maps]      | [Visual Studio Code][ext-vsc-maps]      | [GitHub][github-maps]      |
-| 12  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        | [Browser][ext-brw-md]        | [Visual Studio Code][ext-vsc-md]        | [GitHub][github-md]        |
-| 13  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  | [Browser][ext-brw-pomodoro]  | [Visual Studio Code][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
-| 14  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     | [Browser][ext-brw-proxy]     | [Visual Studio Code][ext-vsc-proxy]     | [GitHub][github-proxy]     |
-| 15  | 🔳 qrcode    | [App][app-qrcode]    | [CLI][cli-qrcode]    | [Browser][ext-brw-qrcode]    | [Visual Studio Code][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
-| 16  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    | [Browser][ext-brw-redact]    | [Visual Studio Code][ext-vsc-redact]    | [GitHub][github-redact]    |
-| 17  | 📊 status    | [App][app-status]    | [CLI][cli-status]    | [Browser][ext-brw-status]    | [Visual Studio Code][ext-vsc-status]    | [GitHub][github-status]    |
-| 18  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        | [Browser][ext-brw-tg]        | [Visual Studio Code][ext-vsc-tg]        | [GitHub][github-tg]        |
-| 19  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  | [Browser][ext-brw-today-do]  | [Visual Studio Code][ext-vsc-today-do]  | [GitHub][github-today-do]  |
-| 20  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      | [Browser][ext-brw-uuid]      | [Visual Studio Code][ext-vsc-uuid]      | [GitHub][github-uuid]      |
-| 21  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     | [Browser][ext-brw-words]     | [Visual Studio Code][ext-vsc-words]     | [GitHub][github-words]     |
-| 22  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       | [Browser][ext-brw-ytb]       | [Visual Studio Code][ext-vsc-ytb]       | [GitHub][github-ytb]       |
+| 2   | 🧠 bci       | [App][app-bci]       | [CLI][cli-bci]       | [Browser][ext-brw-bci]       | [Visual Studio Code][ext-vsc-bci]       | [GitHub][github-bci]       |
+| 3   | 🃏 blackjack | [App][app-blackjack] | [CLI][cli-blackjack] | [Browser][ext-brw-blackjack] | [Visual Studio Code][ext-vsc-blackjack] | [GitHub][github-blackjack] |
+| 4   | 💬 chat      | [App][app-chat]      | [CLI][cli-chat]      | [Browser][ext-brw-chat]      | [Visual Studio Code][ext-vsc-chat]      | [GitHub][github-chat]      |
+| 5   | ♟️ chess     | [App][app-chess]     | [CLI][cli-chess]     | [Browser][ext-brw-chess]     | [Visual Studio Code][ext-vsc-chess]     | [GitHub][github-chess]     |
+| 6   | 🎨 colors    | [App][app-colors]    | [CLI][cli-colors]    | [Browser][ext-brw-colors]    | [Visual Studio Code][ext-vsc-colors]    | [GitHub][github-colors]    |
+| 7   | 🔄 converter | [App][app-converter] | [CLI][cli-converter] | [Browser][ext-brw-converter] | [Visual Studio Code][ext-vsc-converter] | [GitHub][github-converter] |
+| 8   | 📚 doi       | [App][app-doi]       | [CLI][cli-doi]       | [Browser][ext-brw-doi]       | [Visual Studio Code][ext-vsc-doi]       | [GitHub][github-doi]       |
+| 9   | 🐙 gh        | [App][app-gh]        | [CLI][cli-gh]        | [Browser][ext-brw-gh]        | [Visual Studio Code][ext-vsc-gh]        | [GitHub][github-gh]        |
+| 10  | 📸 ig        | [App][app-ig]        | [CLI][cli-ig]        | [Browser][ext-brw-ig]        | [Visual Studio Code][ext-vsc-ig]        | [GitHub][github-ig]        |
+| 11  | 🍏 macosx    | [App][app-macosx]    | [CLI][cli-macosx]    | [Browser][ext-brw-macosx]    | [Visual Studio Code][ext-vsc-macosx]    | [GitHub][github-macosx]    |
+| 12  | 🗺️ maps      | [App][app-maps]      | [CLI][cli-maps]      | [Browser][ext-brw-maps]      | [Visual Studio Code][ext-vsc-maps]      | [GitHub][github-maps]      |
+| 13  | 🧊 md        | [App][app-md]        | [CLI][cli-md]        | [Browser][ext-brw-md]        | [Visual Studio Code][ext-vsc-md]        | [GitHub][github-md]        |
+| 14  | 🍅 pomodoro  | [App][app-pomodoro]  | [CLI][cli-pomodoro]  | [Browser][ext-brw-pomodoro]  | [Visual Studio Code][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
+| 15  | 🔁 proxy     | [App][app-proxy]     | [CLI][cli-proxy]     | [Browser][ext-brw-proxy]     | [Visual Studio Code][ext-vsc-proxy]     | [GitHub][github-proxy]     |
+| 16  | 🔳 qrcode    | [App][app-qrcode]    | [CLI][cli-qrcode]    | [Browser][ext-brw-qrcode]    | [Visual Studio Code][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
+| 17  | 🕵️‍♂️ redact    | [App][app-redact]    | [CLI][cli-redact]    | [Browser][ext-brw-redact]    | [Visual Studio Code][ext-vsc-redact]    | [GitHub][github-redact]    |
+| 18  | 📊 status    | [App][app-status]    | [CLI][cli-status]    | [Browser][ext-brw-status]    | [Visual Studio Code][ext-vsc-status]    | [GitHub][github-status]    |
+| 19  | ✈️ tg        | [App][app-tg]        | [CLI][cli-tg]        | [Browser][ext-brw-tg]        | [Visual Studio Code][ext-vsc-tg]        | [GitHub][github-tg]        |
+| 20  | 📅 today.do  | [App][app-today-do]  | [CLI][cli-today-do]  | [Browser][ext-brw-today-do]  | [Visual Studio Code][ext-vsc-today-do]  | [GitHub][github-today-do]  |
+| 21  | 🆔 uuid      | [App][app-uuid]      | [CLI][cli-uuid]      | [Browser][ext-brw-uuid]      | [Visual Studio Code][ext-vsc-uuid]      | [GitHub][github-uuid]      |
+| 22  | 🔤 words     | [App][app-words]     | [CLI][cli-words]     | [Browser][ext-brw-words]     | [Visual Studio Code][ext-vsc-words]     | [GitHub][github-words]     |
+| 23  | ▶️ ytb       | [App][app-ytb]       | [CLI][cli-ytb]       | [Browser][ext-brw-ytb]       | [Visual Studio Code][ext-vsc-ytb]       | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
@@ -61,6 +62,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
 [app-bash]: https://hieudoanm.github.io/bash
+[app-bci]: https://hieudoanm.github.io/bci
 [app-blackjack]: https://hieudoanm.github.io/blackjack
 [app-chat]: https://hieudoanm.github.io/chat
 [app-chess]: https://hieudoanm.github.io/chess
@@ -82,7 +84,11 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [app-uuid]: https://hieudoanm.github.io/uuid
 [app-words]: https://hieudoanm.github.io/words
 [app-ytb]: https://hieudoanm.github.io/ytb
+
+<!-- CLI -->
+
 [cli-bash]: https://hieudoanm.github.io/bash
+[cli-bci]: https://hieudoanm.github.io/bci
 [cli-blackjack]: https://hieudoanm.github.io/blackjack
 [cli-chat]: https://hieudoanm.github.io/chat
 [cli-chess]: https://hieudoanm.github.io/chess
@@ -104,7 +110,11 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [cli-uuid]: https://hieudoanm.github.io/uuid
 [cli-words]: https://hieudoanm.github.io/words
 [cli-ytb]: https://hieudoanm.github.io/ytb
+
+<!-- Extension (Browser) -->
+
 [ext-brw-bash]: https://hieudoanm.github.io/bash
+[ext-brw-bci]: https://hieudoanm.github.io/bci
 [ext-brw-blackjack]: https://hieudoanm.github.io/blackjack
 [ext-brw-chat]: https://hieudoanm.github.io/chat
 [ext-brw-chess]: https://hieudoanm.github.io/chess
@@ -126,7 +136,11 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-brw-uuid]: https://hieudoanm.github.io/uuid
 [ext-brw-words]: https://hieudoanm.github.io/words
 [ext-brw-ytb]: https://hieudoanm.github.io/ytb
+
+<!-- Extension (Visual Studio Code) -->
+
 [ext-vsc-bash]: https://hieudoanm.github.io/bash
+[ext-vsc-bci]: https://hieudoanm.github.io/bci
 [ext-vsc-blackjack]: https://hieudoanm.github.io/blackjack
 [ext-vsc-chat]: https://hieudoanm.github.io/chat
 [ext-vsc-chess]: https://hieudoanm.github.io/chess
@@ -148,7 +162,11 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-vsc-uuid]: https://hieudoanm.github.io/uuid
 [ext-vsc-words]: https://hieudoanm.github.io/words
 [ext-vsc-ytb]: https://hieudoanm.github.io/ytb
+
+<!-- GitHub -->
+
 [github-bash]: https://github.com/hieudoanm/bash
+[github-bci]: https://github.com/hieudoanm/bci
 [github-blackjack]: https://github.com/hieudoanm/blackjack
 [github-chat]: https://github.com/hieudoanm/chat
 [github-chess]: https://github.com/hieudoanm/chess
@@ -170,6 +188,9 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [github-uuid]: https://github.com/hieudoanm/uuid
 [github-words]: https://github.com/hieudoanm/words
 [github-ytb]: https://github.com/hieudoanm/ytb
+
+<!-- Other -->
+
 [hieudoanm]: https://hieudoanm.github.io
 [template-atomic]: https://hieudoanm.github.io/atomic/
 [template-micro-saas]: https://hieudoanm.github.io/micro-saas/
