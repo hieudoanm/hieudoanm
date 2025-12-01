@@ -14,15 +14,15 @@
 ## 🖥️ `micro/apps` 📱
 
 - Application:
-  - Web
-  - Mobile: Android & iOS
-  - Desktop: Windows & macOS
+  - `Web`
+  - `Mobile`: Android & iOS
+  - `Desktop`: Windows & macOS
 - `CLI`: Command Line Interface
 - `EXT`: Extension
-  - `BRW`: Browser Extension
+  - `ZIP`: Browser Extension
   - `VSC`: Visual Studio Code Extension
 
-| No. | Name         | Web                  | Mobile (Android) | Mobile (iOS) | CLI                  | Extension (Browser)               | Extension (VSC)                    | GitHub                     |
+| No. | Name         | Web                  | Mobile (Android) | Mobile (iOS) | CLI                  | `extension.zip`                   | `extension.vsix`                   | GitHub                     |
 | --- | ------------ | -------------------- | ---------------- | ------------ | -------------------- | --------------------------------- | ---------------------------------- | -------------------------- |
 | 1   | 🐚 bash      | [Web][web-bash]      |                  |              | [CLI][cli-bash]      | [Download ZIP][ext-brw-bash]      | [Download VSIX][ext-vsc-bash]      | [GitHub][github-bash]      |
 | 2   | 🧠 bci       | [Web][web-bci]       |                  |              | [CLI][cli-bci]       | [Download ZIP][ext-brw-bci]       | [Download VSIX][ext-vsc-bci]       | [GitHub][github-bci]       |
