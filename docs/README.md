@@ -24,16 +24,16 @@
 
 | No. | Name         | Web                  | Android | iOS | CLI                  | `extension.zip`                   | `extension.vsix`                   | GitHub                     |
 | --- | ------------ | -------------------- | ------- | --- | -------------------- | --------------------------------- | ---------------------------------- | -------------------------- |
-| 1   | 🐚 bash      | [Web][web-bash]      |         |     | [CLI][cli-bash]      | [Download ZIP][ext-brw-bash]      | [Download VSIX][ext-vsc-bash]      | [GitHub][github-bash]      |
-| 2   | 🧠 bci       | [Web][web-bci]       |         |     | [CLI][cli-bci]       | [Download ZIP][ext-brw-bci]       | [Download VSIX][ext-vsc-bci]       | [GitHub][github-bci]       |
-| 3   | 🃏 blackjack | [Web][web-blackjack] |         |     | [CLI][cli-blackjack] | [Download ZIP][ext-brw-blackjack] | [Download VSIX][ext-vsc-blackjack] | [GitHub][github-blackjack] |
-| 4   | 💬 chat      | [Web][web-chat]      |         |     | [CLI][cli-chat]      | [Download ZIP][ext-brw-chat]      | [Download VSIX][ext-vsc-chat]      | [GitHub][github-chat]      |
-| 5   | ♟️ chess     | [Web][web-chess]     |         |     | [CLI][cli-chess]     | [Download ZIP][ext-brw-chess]     | [Download VSIX][ext-vsc-chess]     | [GitHub][github-chess]     |
-| 6   | 🎨 colors    | [Web][web-colors]    |         |     | [CLI][cli-colors]    | [Download ZIP][ext-brw-colors]    | [Download VSIX][ext-vsc-colors]    | [GitHub][github-colors]    |
-| 7   | 🔄 converter | [Web][web-converter] |         |     | [CLI][cli-converter] | [Download ZIP][ext-brw-converter] | [Download VSIX][ext-vsc-converter] | [GitHub][github-converter] |
-| 8   | 📚 doi       | [Web][web-doi]       |         |     | [CLI][cli-doi]       | [Download ZIP][ext-brw-doi]       | [Download VSIX][ext-vsc-doi]       | [GitHub][github-doi]       |
-| 9   | 🐙 gh        | [Web][web-gh]        |         |     | [CLI][cli-gh]        | [Download ZIP][ext-brw-gh]        | [Download VSIX][ext-vsc-gh]        | [GitHub][github-gh]        |
-| 10  | 📸 ig        | [Web][web-ig]        |         |     | [CLI][cli-ig]        | [Download ZIP][ext-brw-ig]        | [Download VSIX][ext-vsc-ig]        | [GitHub][github-ig]        |
+| 01  | 🧠 bci       | [Web][web-bci]       |         |     | [CLI][cli-bci]       | [Download ZIP][ext-brw-bci]       | [Download VSIX][ext-vsc-bci]       | [GitHub][github-bci]       |
+| 02  | 🃏 blackjack | [Web][web-blackjack] |         |     | [CLI][cli-blackjack] | [Download ZIP][ext-brw-blackjack] | [Download VSIX][ext-vsc-blackjack] | [GitHub][github-blackjack] |
+| 03  | 💬 chat      | [Web][web-chat]      |         |     | [CLI][cli-chat]      | [Download ZIP][ext-brw-chat]      | [Download VSIX][ext-vsc-chat]      | [GitHub][github-chat]      |
+| 04  | ♟️ chess     | [Web][web-chess]     |         |     | [CLI][cli-chess]     | [Download ZIP][ext-brw-chess]     | [Download VSIX][ext-vsc-chess]     | [GitHub][github-chess]     |
+| 05  | 🎨 colors    | [Web][web-colors]    |         |     | [CLI][cli-colors]    | [Download ZIP][ext-brw-colors]    | [Download VSIX][ext-vsc-colors]    | [GitHub][github-colors]    |
+| 06  | 🔄 converter | [Web][web-converter] |         |     | [CLI][cli-converter] | [Download ZIP][ext-brw-converter] | [Download VSIX][ext-vsc-converter] | [GitHub][github-converter] |
+| 07  | 📚 doi       | [Web][web-doi]       |         |     | [CLI][cli-doi]       | [Download ZIP][ext-brw-doi]       | [Download VSIX][ext-vsc-doi]       | [GitHub][github-doi]       |
+| 08  | 🐙 gh        | [Web][web-gh]        |         |     | [CLI][cli-gh]        | [Download ZIP][ext-brw-gh]        | [Download VSIX][ext-vsc-gh]        | [GitHub][github-gh]        |
+| 09  | 📸 ig        | [Web][web-ig]        |         |     | [CLI][cli-ig]        | [Download ZIP][ext-brw-ig]        | [Download VSIX][ext-vsc-ig]        | [GitHub][github-ig]        |
+| 10  | 🧾 invoice   | [Web][web-invoice]   |         |     | [CLI][cli-invoice]   | [Download ZIP][ext-brw-invoice]   | [Download VSIX][ext-vsc-invoice]   | [GitHub][github-invoice]   |
 | 11  | 🍏 macosx    | [Web][web-macosx]    |         |     | [CLI][cli-macosx]    | [Download ZIP][ext-brw-macosx]    | [Download VSIX][ext-vsc-macosx]    | [GitHub][github-macosx]    |
 | 12  | 🗺️ maps      | [Web][web-maps]      |         |     | [CLI][cli-maps]      | [Download ZIP][ext-brw-maps]      | [Download VSIX][ext-vsc-maps]      | [GitHub][github-maps]      |
 | 13  | 🧊 md        | [Web][web-md]        |         |     | [CLI][cli-md]        | [Download ZIP][ext-brw-md]        | [Download VSIX][ext-vsc-md]        | [GitHub][github-md]        |
@@ -64,7 +64,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
-[web-bash]: https://hieudoanm.github.io/bash
 [web-bci]: https://hieudoanm.github.io/bci
 [web-blackjack]: https://hieudoanm.github.io/blackjack
 [web-chat]: https://hieudoanm.github.io/chat
@@ -75,6 +74,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [web-doi]: https://hieudoanm.github.io/doi
 [web-gh]: https://hieudoanm.github.io/gh
 [web-ig]: https://hieudoanm.github.io/ig
+[web-invoice]: https://hieudoanm.github.io/invoice
 [web-macosx]: https://hieudoanm.github.io/macosx
 [web-maps]: https://hieudoanm.github.io/maps
 [web-pomodoro]: https://hieudoanm.github.io/pomodoro
@@ -90,7 +90,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- CLI -->
 
-[cli-bash]: https://hieudoanm.github.io/bash
 [cli-bci]: https://hieudoanm.github.io/bci
 [cli-blackjack]: https://hieudoanm.github.io/blackjack
 [cli-chat]: https://hieudoanm.github.io/chat
@@ -101,6 +100,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [cli-doi]: https://hieudoanm.github.io/doi
 [cli-gh]: https://hieudoanm.github.io/gh
 [cli-ig]: https://hieudoanm.github.io/ig
+[cli-invoice]: https://hieudoanm.github.io/invoice
 [cli-macosx]: https://hieudoanm.github.io/macosx
 [cli-maps]: https://hieudoanm.github.io/maps
 [cli-pomodoro]: https://hieudoanm.github.io/pomodoro
@@ -116,7 +116,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- Extension (Browser) -->
 
-[ext-brw-bash]: https://hieudoanm.github.io/bash
 [ext-brw-bci]: https://hieudoanm.github.io/bci
 [ext-brw-blackjack]: https://hieudoanm.github.io/blackjack
 [ext-brw-chat]: https://hieudoanm.github.io/chat
@@ -127,6 +126,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-brw-doi]: https://hieudoanm.github.io/doi
 [ext-brw-gh]: https://hieudoanm.github.io/gh
 [ext-brw-ig]: https://hieudoanm.github.io/ig
+[ext-brw-invoice]: https://hieudoanm.github.io/invoice
 [ext-brw-macosx]: https://hieudoanm.github.io/macosx
 [ext-brw-maps]: https://hieudoanm.github.io/maps
 [ext-brw-pomodoro]: https://hieudoanm.github.io/pomodoro
@@ -142,7 +142,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- Extension (Visual Studio Code) -->
 
-[ext-vsc-bash]: https://hieudoanm.github.io/bash
 [ext-vsc-bci]: https://hieudoanm.github.io/bci
 [ext-vsc-blackjack]: https://hieudoanm.github.io/blackjack
 [ext-vsc-chat]: https://hieudoanm.github.io/chat
@@ -153,6 +152,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-vsc-doi]: https://hieudoanm.github.io/doi
 [ext-vsc-gh]: https://hieudoanm.github.io/gh
 [ext-vsc-ig]: https://hieudoanm.github.io/ig
+[ext-vsc-invoice]: https://hieudoanm.github.io/invoice
 [ext-vsc-macosx]: https://hieudoanm.github.io/macosx
 [ext-vsc-maps]: https://hieudoanm.github.io/maps
 [ext-vsc-pomodoro]: https://hieudoanm.github.io/pomodoro
@@ -168,7 +168,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- GitHub -->
 
-[github-bash]: https://github.com/hieudoanm/bash
 [github-bci]: https://github.com/hieudoanm/bci
 [github-blackjack]: https://github.com/hieudoanm/blackjack
 [github-chat]: https://github.com/hieudoanm/chat
@@ -179,6 +178,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [github-doi]: https://github.com/hieudoanm/doi
 [github-gh]: https://github.com/hieudoanm/gh
 [github-ig]: https://github.com/hieudoanm/ig
+[github-invoice]: https://github.com/hieudoanm/invoice
 [github-macosx]: https://github.com/hieudoanm/macosx
 [github-maps]: https://github.com/hieudoanm/maps
 [github-pomodoro]: https://github.com/hieudoanm/pomodoro
