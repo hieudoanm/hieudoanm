@@ -39,15 +39,16 @@
 | 13  | 🍅 pomodoro  | [Web][web-pomodoro]  |         |     | [CLI][cli-pomodoro]  | [Download ZIP][ext-brw-pomodoro]  | [Download VSIX][ext-vsc-pomodoro]  | [GitHub][github-pomodoro]  |
 | 14  | 🔁 proxy     | [Web][web-proxy]     |         |     | [CLI][cli-proxy]     | [Download ZIP][ext-brw-proxy]     | [Download VSIX][ext-vsc-proxy]     | [GitHub][github-proxy]     |
 | 15  | 🔳 qrcode    | [Web][web-qrcode]    |         |     | [CLI][cli-qrcode]    | [Download ZIP][ext-brw-qrcode]    | [Download VSIX][ext-vsc-qrcode]    | [GitHub][github-qrcode]    |
-| 16  | 🕵️‍♂️ redact    | [Web][web-redact]    |         |     | [CLI][cli-redact]    | [Download ZIP][ext-brw-redact]    | [Download VSIX][ext-vsc-redact]    | [GitHub][github-redact]    |
-| 17  | 🛍️ shopify   | [Web][web-shopify]   |         |     | [CLI][cli-shopify]   | [Download ZIP][ext-brw-shopify]   | [Download VSIX][ext-vsc-shopify]   | [GitHub][github-shopify]   |
-| 18  | 📊 status    | [Web][web-status]    |         |     | [CLI][cli-status]    | [Download ZIP][ext-brw-status]    | [Download VSIX][ext-vsc-status]    | [GitHub][github-status]    |
-| 19  | ✖️ t3        | [Web][web-t3]        |         |     | [CLI][cli-t3]        | [Download ZIP][ext-brw-t3]        | [Download VSIX][ext-vsc-t3]        | [GitHub][github-t3]        |
-| 20  | ✈️ tg        | [Web][web-tg]        |         |     | [CLI][cli-tg]        | [Download ZIP][ext-brw-tg]        | [Download VSIX][ext-vsc-tg]        | [GitHub][github-tg]        |
-| 21  | 📅 today.do  | [Web][web-today-do]  |         |     | [CLI][cli-today-do]  | [Download ZIP][ext-brw-today-do]  | [Download VSIX][ext-vsc-today-do]  | [GitHub][github-today-do]  |
-| 22  | 🆔 uuid      | [Web][web-uuid]      |         |     | [CLI][cli-uuid]      | [Download ZIP][ext-brw-uuid]      | [Download VSIX][ext-vsc-uuid]      | [GitHub][github-uuid]      |
-| 23  | 🔤 words     | [Web][web-words]     |         |     | [CLI][cli-words]     | [Download ZIP][ext-brw-words]     | [Download VSIX][ext-vsc-words]     | [GitHub][github-words]     |
-| 24  | ▶️ ytb       | [Web][web-ytb]       |         |     | [CLI][cli-ytb]       | [Download ZIP][ext-brw-ytb]       | [Download VSIX][ext-vsc-ytb]       | [GitHub][github-ytb]       |
+| 16  | ❓ quiz      | [Web][web-quiz]      |         |     | [CLI][cli-quiz]      | [Download ZIP][ext-brw-quiz]      | [Download VSIX][ext-vsc-quiz]      | [GitHub][github-quiz]      |
+| 17  | 🕵️‍♂️ redact    | [Web][web-redact]    |         |     | [CLI][cli-redact]    | [Download ZIP][ext-brw-redact]    | [Download VSIX][ext-vsc-redact]    | [GitHub][github-redact]    |
+| 18  | 🛍️ shopify   | [Web][web-shopify]   |         |     | [CLI][cli-shopify]   | [Download ZIP][ext-brw-shopify]   | [Download VSIX][ext-vsc-shopify]   | [GitHub][github-shopify]   |
+| 19  | 📊 status    | [Web][web-status]    |         |     | [CLI][cli-status]    | [Download ZIP][ext-brw-status]    | [Download VSIX][ext-vsc-status]    | [GitHub][github-status]    |
+| 20  | ✖️ t3        | [Web][web-t3]        |         |     | [CLI][cli-t3]        | [Download ZIP][ext-brw-t3]        | [Download VSIX][ext-vsc-t3]        | [GitHub][github-t3]        |
+| 21  | ✈️ tg        | [Web][web-tg]        |         |     | [CLI][cli-tg]        | [Download ZIP][ext-brw-tg]        | [Download VSIX][ext-vsc-tg]        | [GitHub][github-tg]        |
+| 22  | 📅 today.do  | [Web][web-today-do]  |         |     | [CLI][cli-today-do]  | [Download ZIP][ext-brw-today-do]  | [Download VSIX][ext-vsc-today-do]  | [GitHub][github-today-do]  |
+| 23  | 🆔 uuid      | [Web][web-uuid]      |         |     | [CLI][cli-uuid]      | [Download ZIP][ext-brw-uuid]      | [Download VSIX][ext-vsc-uuid]      | [GitHub][github-uuid]      |
+| 24  | 🔤 words     | [Web][web-words]     |         |     | [CLI][cli-words]     | [Download ZIP][ext-brw-words]     | [Download VSIX][ext-vsc-words]     | [GitHub][github-words]     |
+| 25  | ▶️ ytb       | [Web][web-ytb]       |         |     | [CLI][cli-ytb]       | [Download ZIP][ext-brw-ytb]       | [Download VSIX][ext-vsc-ytb]       | [GitHub][github-ytb]       |
 
 ## 📕 Templates
 
@@ -81,6 +82,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [web-pomodoro]: https://hieudoanm.github.io/pomodoro
 [web-proxy]: https://hieudoanm.github.io/proxy
 [web-qrcode]: https://hieudoanm.github.io/qrcode
+[web-quiz]: https://hieudoanm.github.io/quiz
 [web-redact]: https://hieudoanm.github.io/redact
 [web-shopify]: https://hieudoanm.github.io/shopify
 [web-status]: https://hieudoanm.github.io/status
@@ -108,6 +110,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [cli-pomodoro]: https://hieudoanm.github.io/pomodoro
 [cli-proxy]: https://hieudoanm.github.io/proxy
 [cli-qrcode]: https://hieudoanm.github.io/qrcode
+[cli-quiz]: https://hieudoanm.github.io/quiz
 [cli-redact]: https://hieudoanm.github.io/redact
 [cli-shopify]: https://hieudoanm.github.io/shopify
 [cli-status]: https://hieudoanm.github.io/status
@@ -135,6 +138,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-brw-pomodoro]: https://hieudoanm.github.io/pomodoro
 [ext-brw-proxy]: https://hieudoanm.github.io/proxy
 [ext-brw-qrcode]: https://hieudoanm.github.io/qrcode
+[ext-brw-quiz]: https://hieudoanm.github.io/quiz
 [ext-brw-redact]: https://hieudoanm.github.io/redact
 [ext-brw-shopify]: https://hieudoanm.github.io/shopify
 [ext-brw-status]: https://hieudoanm.github.io/status
@@ -162,6 +166,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-vsc-pomodoro]: https://hieudoanm.github.io/pomodoro
 [ext-vsc-proxy]: https://hieudoanm.github.io/proxy
 [ext-vsc-qrcode]: https://hieudoanm.github.io/qrcode
+[ext-vsc-quiz]: https://hieudoanm.github.io/quiz
 [ext-vsc-redact]: https://hieudoanm.github.io/redact
 [ext-vsc-shopify]: https://hieudoanm.github.io/shopify
 [ext-vsc-status]: https://hieudoanm.github.io/status
@@ -189,6 +194,7 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [github-pomodoro]: https://github.com/hieudoanm/pomodoro
 [github-proxy]: https://github.com/hieudoanm/proxy
 [github-qrcode]: https://github.com/hieudoanm/qrcode
+[github-quiz]: https://github.com/hieudoanm/quiz
 [github-redact]: https://github.com/hieudoanm/redact
 [github-shopify]: https://github.com/hieudoanm/shopify
 [github-status]: https://github.com/hieudoanm/status
