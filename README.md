@@ -44,6 +44,7 @@
 | 18  | 🛍️ shopify   | [Web][web-shopify]   |         |     | [CLI][cli-shopify]   | [Download ZIP][ext-brw-shopify]   | [Download VSIX][ext-vsc-shopify]   | [GitHub][github-shopify]   |
 | 19  | 📊 status    | [Web][web-status]    |         |     | [CLI][cli-status]    | [Download ZIP][ext-brw-status]    | [Download VSIX][ext-vsc-status]    | [GitHub][github-status]    |
 | 20  | ✖️ t3        | [Web][web-t3]        |         |     | [CLI][cli-t3]        | [Download ZIP][ext-brw-t3]        | [Download VSIX][ext-vsc-t3]        | [GitHub][github-t3]        |
+| 21  | 🧮 tax       | [Web][web-tax]       |         |     | [CLI][cli-tax]       | [Download ZIP][ext-brw-tax]       | [Download VSIX][ext-vsc-tax]       | [GitHub][github-tax]       |
 | 21  | ✈️ tg        | [Web][web-tg]        |         |     | [CLI][cli-tg]        | [Download ZIP][ext-brw-tg]        | [Download VSIX][ext-vsc-tg]        | [GitHub][github-tg]        |
 | 22  | 📅 today.do  | [Web][web-today-do]  |         |     | [CLI][cli-today-do]  | [Download ZIP][ext-brw-today-do]  | [Download VSIX][ext-vsc-today-do]  | [GitHub][github-today-do]  |
 | 23  | 🆔 uuid      | [Web][web-uuid]      |         |     | [CLI][cli-uuid]      | [Download ZIP][ext-brw-uuid]      | [Download VSIX][ext-vsc-uuid]      | [GitHub][github-uuid]      |
@@ -66,7 +67,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 [⬆️ Back to Table of Contents](#️-table-of-contents)
 
-[web-t3]: https://hieudoanm.github.io/t3
 [web-blackjack]: https://hieudoanm.github.io/blackjack
 [web-chat]: https://hieudoanm.github.io/chat
 [web-chess]: https://hieudoanm.github.io/chess
@@ -86,6 +86,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [web-redact]: https://hieudoanm.github.io/redact
 [web-shopify]: https://hieudoanm.github.io/shopify
 [web-status]: https://hieudoanm.github.io/status
+[web-t3]: https://hieudoanm.github.io/t3
+[web-tax]: https://hieudoanm.github.io/tax
 [web-tg]: https://hieudoanm.github.io/tg
 [web-today-do]: https://hieudoanm.github.io/today.do
 [web-uuid]: https://hieudoanm.github.io/uuid
@@ -94,7 +96,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- CLI -->
 
-[cli-t3]: https://hieudoanm.github.io/t3
 [cli-blackjack]: https://hieudoanm.github.io/blackjack
 [cli-chat]: https://hieudoanm.github.io/chat
 [cli-chess]: https://hieudoanm.github.io/chess
@@ -114,6 +115,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [cli-redact]: https://hieudoanm.github.io/redact
 [cli-shopify]: https://hieudoanm.github.io/shopify
 [cli-status]: https://hieudoanm.github.io/status
+[cli-t3]: https://hieudoanm.github.io/t3
+[cli-tax]: https://hieudoanm.github.io/tax
 [cli-tg]: https://hieudoanm.github.io/tg
 [cli-today-do]: https://hieudoanm.github.io/today.do
 [cli-uuid]: https://hieudoanm.github.io/uuid
@@ -122,7 +125,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- Extension (Browser) -->
 
-[ext-brw-t3]: https://hieudoanm.github.io/t3
 [ext-brw-blackjack]: https://hieudoanm.github.io/blackjack
 [ext-brw-chat]: https://hieudoanm.github.io/chat
 [ext-brw-chess]: https://hieudoanm.github.io/chess
@@ -142,6 +144,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-brw-redact]: https://hieudoanm.github.io/redact
 [ext-brw-shopify]: https://hieudoanm.github.io/shopify
 [ext-brw-status]: https://hieudoanm.github.io/status
+[ext-brw-t3]: https://hieudoanm.github.io/t3
+[ext-brw-tax]: https://hieudoanm.github.io/tax
 [ext-brw-tg]: https://hieudoanm.github.io/tg
 [ext-brw-today-do]: https://hieudoanm.github.io/today.do
 [ext-brw-uuid]: https://hieudoanm.github.io/uuid
@@ -150,7 +154,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- Extension (Visual Studio Code) -->
 
-[ext-vsc-t3]: https://hieudoanm.github.io/t3
 [ext-vsc-blackjack]: https://hieudoanm.github.io/blackjack
 [ext-vsc-chat]: https://hieudoanm.github.io/chat
 [ext-vsc-chess]: https://hieudoanm.github.io/chess
@@ -170,6 +173,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [ext-vsc-redact]: https://hieudoanm.github.io/redact
 [ext-vsc-shopify]: https://hieudoanm.github.io/shopify
 [ext-vsc-status]: https://hieudoanm.github.io/status
+[ext-vsc-t3]: https://hieudoanm.github.io/t3
+[ext-vsc-tax]: https://hieudoanm.github.io/tax
 [ext-vsc-tg]: https://hieudoanm.github.io/tg
 [ext-vsc-today-do]: https://hieudoanm.github.io/today.do
 [ext-vsc-uuid]: https://hieudoanm.github.io/uuid
@@ -178,7 +183,6 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 
 <!-- GitHub -->
 
-[github-t3]: https://github.com/hieudoanm/t3
 [github-blackjack]: https://github.com/hieudoanm/blackjack
 [github-chat]: https://github.com/hieudoanm/chat
 [github-chess]: https://github.com/hieudoanm/chess
@@ -198,6 +202,8 @@ Kickstart your SaaS faster with secure authentication and hassle-free subscripti
 [github-redact]: https://github.com/hieudoanm/redact
 [github-shopify]: https://github.com/hieudoanm/shopify
 [github-status]: https://github.com/hieudoanm/status
+[github-t3]: https://github.com/hieudoanm/t3
+[github-tax]: https://github.com/hieudoanm/tax
 [github-tg]: https://github.com/hieudoanm/tg
 [github-today-do]: https://github.com/hieudoanm/today.do
 [github-uuid]: https://github.com/hieudoanm/uuid
