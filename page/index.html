@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hieu Doan — Projects</title>
+    <meta
+      name="description"
+      content="Projects by Hieu Doan: Rust tools, design systems, and neuroimaging software." />
+    <meta name="author" content="Hieu Doan" />
+    <meta name="theme-color" content="#0d9488" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Hieu Doan — Projects" />
+    <meta property="og:title" content="Hieu Doan — Projects" />
+    <meta
+      property="og:description"
+      content="Projects by Hieu Doan: Rust tools, design systems, and neuroimaging software." />
+    <meta property="og:url" content="https://hieudoanm.github.io/hieudoanm/" />
+    <meta
+      property="og:image"
+      content="https://hieudoanm.github.io/hieudoanm/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <link rel="manifest" href="site.webmanifest" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>Hieu Doan</h1>
+        <p class="lede">
+          Software engineer building tools at the intersection of technology,
+          science, and design — mostly in Rust, occasionally in Go and React.
+        </p>
+        <nav class="social" aria-label="Profiles">
+          <a
+            href="https://github.com/hieudoanm"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub</a
+          >
+          <a
+            href="https://www.linkedin.com/in/hieudoanm/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >LinkedIn</a
+          >
+          <a
+            href="https://x.com/hieudoanm"
+            target="_blank"
+            rel="noopener noreferrer"
+            >X</a
+          >
+          <a
+            href="https://github.com/hieudoanm/hieudoanm.github.io/blob/master/RESUME.md"
+            target="_blank"
+            rel="noopener noreferrer">
+            Resume
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section aria-labelledby="contrib">
+        <h2 id="contrib">Open Contribution</h2>
+        <ul class="rows" id="contrib-list"></ul>
+      </section>
+
+      <section aria-labelledby="apps">
+        <div class="section-head">
+          <h2 id="apps">
+            Applications <span class="count" id="app-count"></span>
+          </h2>
+          <div class="view-toggle">
+            <input
+              class="sr-only"
+              type="radio"
+              name="view"
+              id="view-gallery"
+              checked />
+            <input class="sr-only" type="radio" name="view" id="view-list" />
+            <label for="view-gallery">Gallery</label>
+            <label for="view-list">List</label>
+          </div>
+        </div>
+        <ul class="grid" id="app-list"></ul>
+      </section>
+    </main>
+    <noscript>
+      <p class="wrap" style="padding-bottom: 2rem">
+        This page renders its project listings with JavaScript.
+      </p>
+    </noscript>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Built with plain HTML, CSS, and JavaScript. Screenshots captured with
+          <code>snap</code>.
+        </p>
+      </div>
+    </footer>
+    <script src="scripts.js"></script>
+  </body>
+</html>
