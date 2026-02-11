@@ -1,0 +1,51 @@
+# AGENTS.md — page/
+
+Conventions for the static landing page in this directory.
+
+## What it is
+
+A dependency-free single-page site listing Hieu Doan's projects. Deployed
+to GitHub Pages by `.github/workflows/ci.yaml` (uploads `page/` verbatim).
+
+## Layout
+
+| Path                                                              | Purpose                                                          |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| `index.html`                                                      | Page shell: header, sections, empty `<ul>` containers            |
+| `styles.css`                                                      | All styles; design tokens in `:root`                             |
+| `scripts.js`                                                      | Project data (`APPS`, `CONTRIB`) + DOM renderer (classic script) |
+| `images/landing/`                                               | Landing screenshots, `<app>.png` at 1280×640 (2:1)               |
+| `images/readme/`                                                 | Full-page README captures, `<app>.png`                    |
+| `favicon.*`, `apple-touch-icon.png`, `og.png`, `site.webmanifest` | Brand/metadata assets                                            |
+| `robots.txt`, `humans.txt`, `.well-known/security.txt`            | Crawler/credit/security metadata                                 |
+
+## Rules
+
+- **No build step, no frameworks, no dependencies.** Vanilla JS only
+  (`scripts.js` must stay a classic script — no modules, so it works over
+  `file://`).
+- **Relative paths only** (`styles.css`, `images/…`, `scripts.js`) — the
+  page must work over `file://` and under any GitHub Pages base path.
+- **All project data lives in `scripts.js`.** To add a project: add an
+  entry to `APPS`, add the slug to `APPS` in
+  `../scripts/rust/snap/src/main.rs`, run `make snap-apps` from the repo
+  root. Never hardcode cards back into `index.html`.
+- **Interactivity is CSS-first.** The Gallery/List toggle and accordions
+  use radio inputs + `:has()`/`:checked` — keep new UI working without JS
+  where practical. `scripts.js` only renders lists; it must not be
+  required for the toggle/accordion mechanics.
+- One accent color (`--accent` in `:root`); update `theme-color` in
+  `index.html` if it changes.
+- Follow `notes/ai-unslop-design.md` (repo root `notes/`): real product
+  screenshots, purposeful spacing, no filler.
+- External links use `target="_blank" rel="noopener noreferrer"`.
+
+## Verify
+
+```sh
+python3 -m http.server 8000   # from the repo root
+open http://localhost:8000/page/
+```
+
+There is no test/build tooling — sanity-check by serving and clicking
+through both views and the accordions.
