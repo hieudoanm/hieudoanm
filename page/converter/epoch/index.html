@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Epoch Convert</title>
+    <meta
+      name="description"
+      content="Convert between Unix epoch timestamps (milliseconds) and human-readable dates." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Epoch Convert</h1>
+        <p class="sub">
+          Unix timestamp (ms) ↔ date &amp; time — UTC output, local input.
+        </p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="card">
+        <div class="mode-toggle" role="group" aria-label="Conversion direction">
+          <button class="mode active" id="mode-to-date" type="button">
+            Epoch → Date
+          </button>
+          <button class="mode" id="mode-to-epoch" type="button">
+            Date → Epoch
+          </button>
+        </div>
+
+        <div class="field" id="field-epoch">
+          <label class="label" for="epoch">Unix Timestamp (ms)</label>
+          <input
+            id="epoch"
+            type="number"
+            step="any"
+            placeholder="e.g. 1719705600000"
+            autocomplete="off" />
+          <button class="now" id="now" type="button">Now</button>
+        </div>
+
+        <div class="field" id="field-date" hidden>
+          <label class="label" for="datetime">Date &amp; Time (local)</label>
+          <input id="datetime" type="datetime-local" />
+        </div>
+
+        <div class="result" id="result" hidden>
+          <p class="result-label" id="result-label"></p>
+          <p class="result-value" id="result-value"></p>
+        </div>
+
+        <div class="quick">
+          <p class="label">Quick references</p>
+          <button class="quick-btn" id="q-now" type="button">Now</button>
+          <button class="quick-btn" id="q-day" type="button">1 day (ms)</button>
+          <button class="quick-btn" id="q-yesterday" type="button">
+            Yesterday
+          </button>
+          <button class="quick-btn" id="q-zero" type="button">
+            Unix epoch: 0
+          </button>
+        </div>
+      </section>
+      <p class="note">
+        Epoch → Date prints UTC (<code>YYYY-MM-DD HH:mm:ss</code>); Date → Epoch
+        reads the picker in your local timezone, so round-trips are exact only
+        within the same zone.
+      </p>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

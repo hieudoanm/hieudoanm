@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lorem Ipsum</title>
+    <meta
+      name="description"
+      content="Generate dummy text as paragraphs, words, bytes, or lists." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Lorem Ipsum</h1>
+        <p class="sub">Dummy text generator — paragraphs, words, bytes, lists.</p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="panel">
+        <div class="tabs" id="tabs" role="tablist"></div>
+
+        <div class="controls">
+          <div class="count">
+            <button class="step" id="dec" type="button" aria-label="Decrease">−</button>
+            <input
+              id="count"
+              type="number"
+              min="1"
+              max="20"
+              step="1"
+              value="3" />
+            <button class="step" id="inc" type="button" aria-label="Increase">+</button>
+            <span class="unit-label" id="unit-label"></span>
+          </div>
+          <div class="presets" id="presets" hidden>
+            <button class="preset" data-n="1" type="button">×1</button>
+            <button class="preset" data-n="3" type="button">×3</button>
+            <button class="preset" data-n="5" type="button">×5</button>
+          </div>
+        </div>
+
+        <textarea id="output" class="output" readonly spellcheck="false"></textarea>
+
+        <div class="footer">
+          <div class="stats" id="stats"></div>
+          <button class="copy" id="copy" type="button">Copy</button>
+        </div>
+      </section>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awake</title>
+    <meta
+      name="description"
+      content="Keep your screen awake using the browser Wake Lock API, with a live elapsed timer." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Awake</h1>
+        <p class="sub">Keep this tab visible — the screen will not sleep.</p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="panel" aria-live="polite">
+        <p class="eyebrow">Awake for</p>
+        <div class="timer" id="timer"></div>
+        <div class="divider"></div>
+        <div class="status-row">
+          <span class="status-badge" id="status-badge">
+            <span class="dot" id="status-dot"></span>
+            <span id="status-label">Requesting</span>
+          </span>
+          <button class="toggle" id="toggle" type="button">Release</button>
+        </div>
+        <p class="hint" id="hint"></p>
+        <p class="error" id="error" role="alert" hidden></p>
+      </section>
+      <p class="note">
+        Powered by the
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Screen Wake Lock API</a
+        >. The lock is released automatically when the tab is hidden or closed.
+      </p>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

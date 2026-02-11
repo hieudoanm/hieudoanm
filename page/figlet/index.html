@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Figlet</title>
+    <meta
+      name="description"
+      content="Render text as ASCII art with four built-in figlet fonts." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Figlet</h1>
+        <p class="sub">Text to ASCII art — four built-in fonts.</p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="card">
+        <div class="controls">
+          <input
+            id="text"
+            class="input mono"
+            type="text"
+            maxlength="20"
+            placeholder="Type something…"
+            value="Hello, World!"
+            autocomplete="off"
+            spellcheck="false" />
+          <select id="font" class="select" aria-label="Font"></select>
+        </div>
+
+        <div class="font-tabs" id="font-tabs"></div>
+
+        <div class="preview">
+          <pre id="output"></pre>
+        </div>
+
+        <div class="meta">
+          <span id="char-count"></span>
+          <span id="font-name"></span>
+        </div>
+
+        <div class="actions">
+          <button class="btn primary" id="copy" type="button">Copy ASCII</button>
+          <button class="btn ghost" id="clear" type="button">Clear</button>
+        </div>
+      </section>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

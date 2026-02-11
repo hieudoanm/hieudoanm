@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Regex</title>
+    <meta
+      name="description"
+      content="Generate a regex pattern from sample strings and test it against more inputs." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Regex</h1>
+        <p class="sub">
+          Paste 2+ sample strings to generate a pattern, then test it line by
+          line.
+        </p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="card">
+        <div class="field">
+          <label class="label" for="samples">Sample Strings (one per line)</label>
+          <textarea
+            id="samples"
+            class="area"
+            rows="5"
+            spellcheck="false"
+            placeholder="user1@example.com&#10;user2@example.com&#10;admin@example.com">user@example.com
+admin@domain.org
+contact@site.co</textarea>
+        </div>
+
+        <div class="field">
+          <label class="label" for="pattern">Regex Pattern</label>
+          <div class="pattern-row">
+            <input
+              id="pattern"
+              class="input mono"
+              type="text"
+              spellcheck="false"
+              autocomplete="off"
+              placeholder="Generated or custom pattern…" />
+            <input
+              id="flags"
+              class="input flags"
+              type="text"
+              spellcheck="false"
+              autocomplete="off"
+              value="g"
+              title="Flags" />
+            <button class="btn ghost" id="copy-flags" type="button" title="Copy flags">
+              F
+            </button>
+            <button class="btn primary" id="copy-pattern" type="button">
+              Copy
+            </button>
+          </div>
+          <p class="subtle" id="custom-hint" hidden>
+            Custom pattern — clear the field to return to generated mode
+          </p>
+        </div>
+
+        <div class="field">
+          <label class="label" for="tests">Test Strings (one per line)</label>
+          <textarea
+            id="tests"
+            class="area"
+            rows="4"
+            spellcheck="false"
+            placeholder="user@example.com&#10;admin@site.org&#10;not-an-email"></textarea>
+        </div>
+
+        <div class="results" id="results" hidden></div>
+        <p class="footnote">Enter 2+ sample strings to generate a regex pattern</p>
+      </section>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>
