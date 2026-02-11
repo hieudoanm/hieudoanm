@@ -1,0 +1,31 @@
+{
+	"word": "internationalist",
+	"results": [
+		{
+			"definition": "influenced by or advocating internationalism",
+			"partOfSpeech": "adjective",
+			"synonyms": ["internationalistic"],
+			"similarTo": ["international"]
+		},
+		{
+			"definition": "a member of a socialist or communist international",
+			"partOfSpeech": "noun",
+			"typeOf": ["socialist"],
+			"memberOf": ["international"]
+		},
+		{
+			"definition": "an advocate of internationalism",
+			"partOfSpeech": "noun",
+			"typeOf": ["exponent", "advocate", "proponent", "advocator"],
+			"derivation": ["internationalism"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["in", "ter", "na", "tion", "al", "ist"]
+	},
+	"pronunciation": {
+		"all": ",\u026ant\u0259r'n\u00e6\u0283\u0259n\u0259l\u026ast"
+	},
+	"frequency": 1.6
+}

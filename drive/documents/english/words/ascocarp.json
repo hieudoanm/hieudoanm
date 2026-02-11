@@ -1,0 +1,26 @@
+{
+	"word": "ascocarp",
+	"results": [
+		{
+			"definition": "mature fruiting body of an ascomycetous fungus",
+			"partOfSpeech": "noun",
+			"typeOf": ["fruiting body"],
+			"hasTypes": [
+				"ascoma",
+				"perithecium",
+				"cleistothecium",
+				"apothecium",
+				"cleistocarp"
+			],
+			"partOf": ["ascomycetous fungus", "ascomycete"],
+			"derivation": ["ascocarpous"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["as", "co", "carp"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6sk\u0259,k\u0251rp"
+	}
+}

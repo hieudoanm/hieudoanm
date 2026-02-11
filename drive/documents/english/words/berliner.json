@@ -1,0 +1,21 @@
+{
+	"word": "berliner",
+	"results": [
+		{
+			"definition": "an inhabitant of Berlin",
+			"partOfSpeech": "noun",
+			"typeOf": ["german"],
+			"hasTypes": ["west berliner"],
+			"memberOf": ["berlin", "german capital"],
+			"derivation": ["berlin"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ber", "li", "ner"]
+	},
+	"pronunciation": {
+		"all": "b\u025cr'l\u026an\u0259r"
+	},
+	"frequency": 2.3
+}

@@ -1,0 +1,27 @@
+{
+	"word": "woodworker",
+	"results": [
+		{
+			"definition": "makes things out of wood",
+			"partOfSpeech": "noun",
+			"synonyms": ["woodman", "woodsman"],
+			"typeOf": ["artificer", "artisan", "craftsman", "journeyman"],
+			"hasTypes": [
+				"carver",
+				"splicer",
+				"furniture maker",
+				"joiner",
+				"woodcarver",
+				"cabinetmaker",
+				"carpenter"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["wood", "work", "er"]
+	},
+	"pronunciation": {
+		"all": "'w\u028ad,w\u025crk\u0259r"
+	}
+}

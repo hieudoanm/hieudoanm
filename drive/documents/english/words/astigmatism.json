@@ -1,0 +1,31 @@
+{
+	"word": "astigmatism",
+	"results": [
+		{
+			"definition": "(optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point",
+			"partOfSpeech": "noun",
+			"synonyms": ["astigmia"],
+			"inCategory": ["optics"],
+			"typeOf": ["condition", "status"],
+			"antonyms": ["stigmatism"],
+			"derivation": ["astigmatic"]
+		},
+		{
+			"definition": "(ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people",
+			"partOfSpeech": "noun",
+			"synonyms": ["astigmia"],
+			"inCategory": ["ophthalmology"],
+			"typeOf": ["ametropia"],
+			"hasTypes": ["keratoconus", "keratectasia"],
+			"derivation": ["astigmatic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["a", "stig", "ma", "tism"]
+	},
+	"pronunciation": {
+		"all": "\u0259'st\u026agm\u0259,t\u026az\u0259m"
+	},
+	"frequency": 2.12
+}

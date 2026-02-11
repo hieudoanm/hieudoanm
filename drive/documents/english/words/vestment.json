@@ -1,0 +1,30 @@
+{
+	"word": "vestment",
+	"results": [
+		{
+			"definition": "gown (especially ceremonial garments) worn by the clergy",
+			"partOfSpeech": "noun",
+			"typeOf": ["gown", "robe"],
+			"hasTypes": [
+				"chasuble",
+				"humeral veil",
+				"pallium",
+				"pontifical",
+				"alb",
+				"cassock",
+				"veil",
+				"surplice"
+			],
+			"hasParts": ["orphrey"],
+			"derivation": ["vest", "vestmental"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["vest", "ment"]
+	},
+	"pronunciation": {
+		"all": "'v\u025bstm\u0259nt"
+	},
+	"frequency": 1.82
+}

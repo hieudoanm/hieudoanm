@@ -1,0 +1,36 @@
+{
+	"word": "ransack",
+	"results": [
+		{
+			"definition": "search thoroughly",
+			"partOfSpeech": "verb",
+			"synonyms": ["comb"],
+			"typeOf": ["search"],
+			"derivation": ["ransacking"]
+		},
+		{
+			"definition": "steal goods; take as spoils",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"despoil",
+				"foray",
+				"loot",
+				"pillage",
+				"plunder",
+				"reave",
+				"rifle",
+				"strip"
+			],
+			"typeOf": ["take"],
+			"hasTypes": ["deplume", "displume"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ran", "sack"]
+	},
+	"pronunciation": {
+		"all": "'r\u00e6ns\u00e6k"
+	},
+	"frequency": 2.38
+}

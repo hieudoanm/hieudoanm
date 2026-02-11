@@ -1,0 +1,38 @@
+{
+	"word": "capacitor",
+	"results": [
+		{
+			"definition": "an electrical device characterized by its capacity to store an electric charge",
+			"partOfSpeech": "noun",
+			"synonyms": ["capacitance", "condenser", "electrical condenser"],
+			"typeOf": ["electrical device"],
+			"hasTypes": [
+				"bypass condenser",
+				"bypass capacitor",
+				"electrolytic capacitor",
+				"electrolytic condenser",
+				"leiden jar",
+				"leyden jar",
+				"trimmer",
+				"trimming capacitor",
+				"electrolytic"
+			],
+			"partOf": [
+				"distributer",
+				"distributor",
+				"electric circuit",
+				"electrical circuit",
+				"circuit",
+				"electrical distributor"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ca", "pac", "i", "tor"]
+	},
+	"pronunciation": {
+		"all": "k\u0259'p\u00e6s\u026at\u0259r"
+	},
+	"frequency": 2.38
+}

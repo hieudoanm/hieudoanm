@@ -1,0 +1,27 @@
+{
+	"word": "broach",
+	"results": [
+		{
+			"definition": "bring up a topic for discussion",
+			"partOfSpeech": "verb",
+			"synonyms": ["initiate"],
+			"typeOf": ["discuss", "hash out", "talk over"],
+			"hasTypes": ["address", "handle", "treat", "plow", "cover", "deal"]
+		},
+		{
+			"definition": "a decorative pin worn by women",
+			"partOfSpeech": "noun",
+			"synonyms": ["breastpin", "brooch"],
+			"typeOf": ["pin"],
+			"hasTypes": ["sunburst"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["broach"]
+	},
+	"pronunciation": {
+		"all": "bro\u028a\u02a7"
+	},
+	"frequency": 2.45
+}

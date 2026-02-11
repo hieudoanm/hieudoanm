@@ -1,0 +1,32 @@
+{
+	"word": "rehash",
+	"results": [
+		{
+			"definition": "go back over",
+			"partOfSpeech": "verb",
+			"synonyms": ["hash over", "retrograde"],
+			"typeOf": ["recap", "recapitulate"]
+		},
+		{
+			"definition": "old material that is slightly reworked and used again",
+			"partOfSpeech": "noun",
+			"typeOf": ["material"],
+			"examples": ["merely a dull rehash of his first novel"]
+		},
+		{
+			"definition": "present or use over, with no or few changes",
+			"partOfSpeech": "verb",
+			"typeOf": ["recycle", "reprocess", "reuse"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["re", "hash"]
+	},
+	"pronunciation": {
+		"all": "'ri'h\u00e6sh",
+		"noun": "'ri,h\u00e6\u0283",
+		"verb": "ri'h\u00e6\u0283"
+	},
+	"frequency": 2.17
+}

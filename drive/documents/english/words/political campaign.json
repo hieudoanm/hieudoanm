@@ -1,0 +1,34 @@
+{
+	"word": "political campaign",
+	"results": [
+		{
+			"definition": "a race between candidates for elective office",
+			"partOfSpeech": "noun",
+			"synonyms": ["campaign", "run"],
+			"typeOf": ["race"],
+			"hasTypes": [
+				"senate race",
+				"senate campaign",
+				"governor's race",
+				"campaign for governor"
+			]
+		},
+		{
+			"definition": "the campaign of a candidate to be elected",
+			"partOfSpeech": "noun",
+			"synonyms": ["campaigning", "candidacy", "candidature", "electioneering"],
+			"typeOf": ["movement", "campaign", "cause", "crusade", "drive", "effort"],
+			"hasTypes": [
+				"hustings",
+				"front-porch campaigning",
+				"front-porch campaign",
+				"stumping",
+				"whispering campaign"
+			],
+			"hasParts": ["whistle-stop tour"]
+		}
+	],
+	"pronunciation": {
+		"all": "p\u0259'l\u026at\u026ak\u0259l_k\u00e6m'pe\u026an"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"word": "subdivide",
+	"results": [
+		{
+			"definition": "divide into smaller and smaller pieces",
+			"partOfSpeech": "verb",
+			"typeOf": [
+				"carve up",
+				"dissever",
+				"divide",
+				"separate",
+				"split",
+				"split up"
+			],
+			"derivation": ["subdivider", "subdivision"],
+			"examples": ["This apartment cannot be subdivided any further!"]
+		},
+		{
+			"definition": "form into subdivisions",
+			"partOfSpeech": "verb",
+			"typeOf": ["separate", "divide", "part"],
+			"derivation": ["subdivision"],
+			"examples": ["The cells subdivided"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sub", "di", "vide"]
+	},
+	"pronunciation": {
+		"all": ",s\u0259bd\u026a'va\u026ad"
+	},
+	"frequency": 1.6
+}

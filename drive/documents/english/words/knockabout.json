@@ -1,0 +1,31 @@
+{
+	"frequency": 1.74,
+	"word": "knockabout",
+	"results": [
+		{
+			"definition": "full of rough and exuberant animal spirits",
+			"partOfSpeech": "adjective",
+			"synonyms": ["boisterous"],
+			"similarTo": ["spirited"],
+			"examples": ["knockabout comedy"]
+		},
+		{
+			"definition": "a sloop with a simplified rig and no bowsprit",
+			"partOfSpeech": "noun",
+			"typeOf": ["sloop"]
+		},
+		{
+			"definition": "suitable for rough use",
+			"partOfSpeech": "adjective",
+			"similarTo": ["rugged"],
+			"examples": ["a knockabout overcoat", "a knockabout old car"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["knock", "a", "bout"]
+	},
+	"pronunciation": {
+		"all": "'n\u0251k\u0259,ba\u028at"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"word": "hypodermic",
+	"results": [
+		{
+			"definition": "a piston syringe that is fitted with a hypodermic needle for giving injections",
+			"partOfSpeech": "noun",
+			"synonyms": ["hypo", "hypodermic syringe"],
+			"typeOf": ["syringe"],
+			"hasTypes": ["autoinjector"],
+			"hasParts": ["hypodermic needle"]
+		},
+		{
+			"definition": "relating to or located below the epidermis",
+			"partOfSpeech": "adjective",
+			"synonyms": ["subcutaneous"],
+			"pertainsTo": ["skin"],
+			"derivation": ["hypodermis"],
+			"examples": ["hypodermic needle"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["hy", "po", "der", "mic"]
+	},
+	"pronunciation": {
+		"all": ",ha\u026ap\u0259'd\u025crm\u026ak"
+	},
+	"frequency": 2.3
+}

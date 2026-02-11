@@ -1,0 +1,44 @@
+{
+	"word": "annotation",
+	"results": [
+		{
+			"definition": "the act of adding notes",
+			"partOfSpeech": "noun",
+			"synonyms": ["annotating"],
+			"typeOf": ["expanding upon", "expansion"],
+			"derivation": ["annotate"]
+		},
+		{
+			"definition": "a comment or instruction (usually added)",
+			"partOfSpeech": "noun",
+			"synonyms": ["notation", "note"],
+			"typeOf": ["commentary", "comment"],
+			"hasTypes": [
+				"cite",
+				"credit",
+				"reference",
+				"citation",
+				"quotation",
+				"acknowledgment",
+				"footer",
+				"footnote",
+				"mention",
+				"n.b.",
+				"nb",
+				"nota bene",
+				"poste restante",
+				"postscript",
+				"ps"
+			],
+			"derivation": ["annotate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["an", "no", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6no\u028a'te\u026a\u0283\u0259n"
+	},
+	"frequency": 1.82
+}

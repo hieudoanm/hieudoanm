@@ -1,0 +1,15 @@
+{
+	"word": "regression coefficient",
+	"results": [
+		{
+			"definition": "when the regression line is linear (y = ax + b) the regression coefficient is the constant (a) that represents the rate of change of one variable (y) as a function of changes in the other (x); it is the slope of the regression line",
+			"partOfSpeech": "noun",
+			"inCategory": ["statistics"],
+			"typeOf": ["parametric statistic"],
+			"partOf": ["linear regression", "rectilinear regression"]
+		}
+	],
+	"pronunciation": {
+		"all": "r\u026a'gr\u025b\u0283\u0259n_,ko\u028a\u0259'f\u026a\u0283\u0259nt"
+	}
+}

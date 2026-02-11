@@ -1,0 +1,26 @@
+{
+	"word": "reference system",
+	"results": [
+		{
+			"definition": "a system that uses coordinates to establish position",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"coordinate system",
+				"frame of reference",
+				"reference frame"
+			],
+			"typeOf": ["system", "organisation", "organization", "arrangement"],
+			"hasTypes": [
+				"inertial reference frame",
+				"space-time",
+				"space-time continuum",
+				"cartesian coordinate system",
+				"inertial frame"
+			],
+			"hasParts": ["coordinate axis"]
+		}
+	],
+	"pronunciation": {
+		"all": "'r\u025bf\u0259r\u0259ns_'s\u026ast\u0259m"
+	}
+}

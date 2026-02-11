@@ -1,0 +1,26 @@
+{
+	"word": "sedimentary",
+	"results": [
+		{
+			"definition": "produced by the action of water",
+			"partOfSpeech": "adjective",
+			"synonyms": ["aqueous"],
+			"inCategory": ["geology"]
+		},
+		{
+			"definition": "resembling or containing or formed by the accumulation of sediment",
+			"partOfSpeech": null,
+			"pertainsTo": ["sediment"],
+			"derivation": ["sediment"],
+			"examples": ["sedimentary deposits"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["sed", "i", "men", "ta", "ry"]
+	},
+	"pronunciation": {
+		"all": ",s\u025bd\u0259'm\u025bnt\u0259ri"
+	},
+	"frequency": 2.4
+}

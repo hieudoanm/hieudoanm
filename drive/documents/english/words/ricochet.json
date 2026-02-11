@@ -1,0 +1,35 @@
+{
+	"word": "ricochet",
+	"results": [
+		{
+			"definition": "spring back; spring away from an impact",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"bounce",
+				"bound",
+				"rebound",
+				"recoil",
+				"resile",
+				"reverberate",
+				"spring",
+				"take a hop"
+			],
+			"typeOf": ["spring", "bound", "jump", "leap"],
+			"hasTypes": ["kick", "kick back", "bound off", "recoil", "carom", "skip"]
+		},
+		{
+			"definition": "a glancing rebound",
+			"partOfSpeech": "noun",
+			"synonyms": ["carom"],
+			"typeOf": ["rebound", "backlash", "recoil", "repercussion"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ric", "o", "chet"]
+	},
+	"pronunciation": {
+		"all": ",r\u026ak\u0259'\u0283e\u026a"
+	},
+	"frequency": 2.54
+}

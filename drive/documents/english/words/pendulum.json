@@ -1,0 +1,26 @@
+{
+	"word": "pendulum",
+	"results": [
+		{
+			"definition": "an apparatus consisting of an object mounted so that it swings freely under the influence of gravity",
+			"partOfSpeech": "noun",
+			"typeOf": ["apparatus", "setup"],
+			"hasTypes": [
+				"foucault pendulum",
+				"metronome",
+				"physical pendulum",
+				"simple pendulum",
+				"compound pendulum"
+			],
+			"hasParts": ["bob"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["pen", "du", "lum"]
+	},
+	"pronunciation": {
+		"all": "'p\u025bnd\u0292\u0259l\u0259m"
+	},
+	"frequency": 2.88
+}

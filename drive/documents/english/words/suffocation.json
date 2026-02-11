@@ -1,0 +1,22 @@
+{
+	"word": "suffocation",
+	"results": [
+		{
+			"definition": "killing by depriving of oxygen",
+			"partOfSpeech": "noun",
+			"synonyms": ["asphyxiation"],
+			"typeOf": ["killing", "putting to death", "kill"],
+			"hasTypes": ["throttling", "choking", "strangling", "strangulation"],
+			"derivation": ["suffocate"]
+		},
+		{
+			"definition": "the condition of being deprived of oxygen (as by having breathing stopped)",
+			"partOfSpeech": "noun",
+			"synonyms": ["asphyxiation"],
+			"typeOf": ["hypoxia"],
+			"derivation": ["suffocate"]
+		}
+	],
+	"pronunciation": ",s\u028cf\u028c'ke\u026a\u0283\u028cn",
+	"frequency": 2.93
+}

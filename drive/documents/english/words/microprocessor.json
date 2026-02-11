@@ -1,0 +1,29 @@
+{
+	"word": "microprocessor",
+	"results": [
+		{
+			"definition": "integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"silicon chip",
+				"micro chip",
+				"microchip",
+				"microprocessor chip",
+				"chip"
+			],
+			"partOf": ["pc", "microcomputer", "personal computer"],
+			"examples": [
+				"a microprocessor functions as the central processing unit of a microcomputer",
+				"a disk drive contains a microprocessor to handle the internal functions of the drive"
+			]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["mi", "cro", "pro", "ces", "sor"]
+	},
+	"pronunciation": {
+		"all": ",ma\u026akro\u028a'pro\u028as\u025bs\u0259r"
+	},
+	"frequency": 2.08
+}

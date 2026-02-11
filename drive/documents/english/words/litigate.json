@@ -1,0 +1,28 @@
+{
+	"word": "litigate",
+	"results": [
+		{
+			"definition": "institute legal proceedings against; file a suit against",
+			"partOfSpeech": "verb",
+			"synonyms": ["action", "process", "sue"],
+			"typeOf": ["challenge"],
+			"hasTypes": ["expedite"],
+			"derivation": ["litigation"]
+		},
+		{
+			"definition": "engage in legal proceedings",
+			"partOfSpeech": "verb",
+			"typeOf": ["challenge"],
+			"verbGroup": ["action", "process", "sue"],
+			"derivation": ["litigant", "litigation", "litigator"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["lit", "i", "gate"]
+	},
+	"pronunciation": {
+		"all": "'l\u026at\u0259,\u0261e\u026at"
+	},
+	"frequency": 1.9
+}

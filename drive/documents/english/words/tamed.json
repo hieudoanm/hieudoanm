@@ -1,0 +1,29 @@
+{
+	"word": "tamed",
+	"results": [
+		{
+			"definition": "brought from wildness into a domesticated state",
+			"partOfSpeech": "adjective",
+			"synonyms": ["tame"],
+			"also": ["manipulable", "tractable"],
+			"attribute": ["domestication", "tameness"],
+			"similarTo": [
+				"domestic",
+				"domesticated",
+				"gentle",
+				"docile",
+				"cultivated",
+				"broken in",
+				"broken"
+			]
+		},
+		{
+			"definition": "brought from wildness",
+			"partOfSpeech": "adjective",
+			"similarTo": ["tame"],
+			"examples": ["the once inhospitable landscape is now tamed"]
+		}
+	],
+	"pronunciation": "te\u026amd",
+	"frequency": 3.05
+}

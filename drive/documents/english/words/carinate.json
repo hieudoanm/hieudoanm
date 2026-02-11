@@ -1,0 +1,26 @@
+{
+	"word": "carinate",
+	"results": [
+		{
+			"definition": "having a ridge or shaped like a ridge or suggesting the keel of a ship",
+			"partOfSpeech": "adjective",
+			"synonyms": ["carinated", "keeled", "ridged"],
+			"examples": ["a carinate sepal"]
+		},
+		{
+			"definition": "birds having keeled breastbones for attachment of flight muscles",
+			"partOfSpeech": "noun",
+			"synonyms": ["carinate bird", "flying bird"],
+			"typeOf": ["bird"],
+			"hasParts": ["keel"],
+			"antonyms": ["ratite"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["car", "i", "nate"]
+	},
+	"pronunciation": {
+		"all": "'k\u00e6r\u0259,ne\u026at"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"word": "rhetorician",
+	"results": [
+		{
+			"definition": "a person who delivers a speech or oration",
+			"partOfSpeech": "noun",
+			"synonyms": ["orator", "public speaker", "speechifier", "speechmaker"],
+			"typeOf": ["verbaliser", "utterer", "talker", "speaker", "verbalizer"],
+			"hasTypes": [
+				"panegyrist",
+				"elocutionist",
+				"eulogist",
+				"haranguer",
+				"spellbinder",
+				"tub-thumper"
+			],
+			"hasInstances": [
+				"patrick henry",
+				"isocrates",
+				"demosthenes",
+				"henry",
+				"cicero",
+				"tully",
+				"edmund burke",
+				"marcus tullius cicero",
+				"burke"
+			],
+			"derivation": ["rhetoric"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["rhe", "tor", "i", "cian"]
+	},
+	"pronunciation": {
+		"all": ",r\u025bt\u0259'r\u026a\u0283\u0259n"
+	}
+}

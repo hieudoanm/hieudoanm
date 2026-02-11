@@ -1,0 +1,29 @@
+{
+	"word": "musculature",
+	"results": [
+		{
+			"definition": "the muscular system of an organism",
+			"partOfSpeech": "noun",
+			"synonyms": ["muscle system", "muscular structure"],
+			"typeOf": ["system"],
+			"hasTypes": [
+				"diaphragm",
+				"oesophagus",
+				"gullet",
+				"midriff",
+				"gorge",
+				"esophagus"
+			],
+			"hasParts": ["tendon", "ligament", "muscle", "muscular tissue", "sinew"],
+			"partOf": ["musculoskeletal system"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mus", "cu", "la", "ture"]
+	},
+	"pronunciation": {
+		"all": "'m\u0259skj\u028al\u0259t\u0283\u0259r"
+	},
+	"frequency": 2.27
+}

@@ -1,0 +1,34 @@
+{
+	"word": "ecclesiastic",
+	"results": [
+		{
+			"definition": "of or associated with a church (especially a Christian Church)",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ecclesiastical"],
+			"pertainsTo": ["church"],
+			"examples": ["ecclesiastic history"]
+		},
+		{
+			"definition": "a clergyman or other person in religious orders",
+			"partOfSpeech": "noun",
+			"synonyms": ["churchman", "cleric", "divine"],
+			"typeOf": ["reverend", "clergyman", "man of the cloth"],
+			"hasTypes": ["pluralist", "ordainer", "pardoner"],
+			"hasInstances": [
+				"thomas a kempis",
+				"bruno",
+				"saint bruno",
+				"st. bruno",
+				"a kempis"
+			]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ec", "cle", "si", "as", "tic"]
+	},
+	"pronunciation": {
+		"all": "\u026a,klizi'\u00e6st\u026ak"
+	},
+	"frequency": 1.73
+}

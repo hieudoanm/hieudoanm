@@ -1,0 +1,27 @@
+{
+	"word": "medallist",
+	"results": [
+		{
+			"definition": "someone who has won a medal",
+			"partOfSpeech": "noun",
+			"synonyms": ["medalist"],
+			"typeOf": ["victor", "winner"],
+			"derivation": ["medal"]
+		},
+		{
+			"definition": "(golf) the winner at medal play of a tournament",
+			"partOfSpeech": "noun",
+			"synonyms": ["medal winner", "medalist"],
+			"inCategory": ["golf", "golf game"],
+			"typeOf": ["golf player", "golfer", "linksman"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["med", "al", "list"]
+	},
+	"pronunciation": {
+		"all": "'m\u025bd\u0259l\u026ast"
+	},
+	"frequency": 1.97
+}

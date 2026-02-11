@@ -1,0 +1,28 @@
+{
+	"word": "stagnant",
+	"results": [
+		{
+			"definition": "not growing or changing; without force or vitality",
+			"partOfSpeech": "adjective",
+			"synonyms": ["moribund"],
+			"similarTo": ["adynamic", "undynamic"],
+			"derivation": ["stagnancy", "stagnate"]
+		},
+		{
+			"definition": "not circulating or flowing",
+			"partOfSpeech": "adjective",
+			"synonyms": ["dead"],
+			"similarTo": ["standing"],
+			"derivation": ["stagnancy", "stagnate"],
+			"examples": ["stagnant water"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["stag", "nant"]
+	},
+	"pronunciation": {
+		"all": "'st\u00e6gn\u0259nt"
+	},
+	"frequency": 2.7
+}

@@ -1,0 +1,26 @@
+{
+	"word": "eiderdown",
+	"results": [
+		{
+			"definition": "a soft quilt usually filled with the down of the eider",
+			"partOfSpeech": "noun",
+			"synonyms": ["continental quilt", "duvet"],
+			"typeOf": ["comfort", "comforter", "puff", "quilt"]
+		},
+		{
+			"definition": "down of the eider duck",
+			"partOfSpeech": "noun",
+			"typeOf": ["duck down"],
+			"partOf": ["eider duck", "eider"],
+			"substanceOf": ["duvet", "continental quilt"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ei", "der", "down"]
+	},
+	"pronunciation": {
+		"all": "'a\u026ad\u0259r,da\u028an"
+	},
+	"frequency": 1.82
+}

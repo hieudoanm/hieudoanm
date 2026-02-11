@@ -1,0 +1,29 @@
+{
+	"word": "emersion",
+	"results": [
+		{
+			"definition": "the act of emerging",
+			"partOfSpeech": "noun",
+			"synonyms": ["emergence"],
+			"typeOf": ["appearance"],
+			"derivation": ["emerge"]
+		},
+		{
+			"definition": "(astronomy) the reappearance of a celestial body after an eclipse",
+			"partOfSpeech": "noun",
+			"synonyms": ["egress"],
+			"inCategory": ["astronomy", "uranology"],
+			"typeOf": ["reappearance"],
+			"partOf": ["eclipse", "occultation"],
+			"antonyms": ["immersion"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["e", "mer", "sion"]
+	},
+	"pronunciation": {
+		"all": "\u026a'm\u025cr\u0292\u0259n"
+	},
+	"frequency": 1.6
+}

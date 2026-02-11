@@ -1,0 +1,25 @@
+{
+	"word": "glass cutter",
+	"results": [
+		{
+			"definition": "someone who cuts flat glass to size",
+			"partOfSpeech": "noun",
+			"synonyms": ["glass-cutter", "glassworker", "glazer", "glazier"],
+			"typeOf": ["artificer", "artisan", "craftsman", "journeyman"]
+		},
+		{
+			"definition": "someone who cuts or grinds designs on glass",
+			"partOfSpeech": "noun",
+			"synonyms": ["glass-cutter"],
+			"typeOf": ["cutter"]
+		},
+		{
+			"definition": "a tool for cutting glass",
+			"partOfSpeech": "noun",
+			"typeOf": ["cutlery", "cutting tool", "cutter"]
+		}
+	],
+	"pronunciation": {
+		"all": "gl\u00e6s_'k\u0259t\u0259r"
+	}
+}

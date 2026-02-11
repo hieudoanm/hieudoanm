@@ -1,0 +1,47 @@
+{
+	"word": "proceedings",
+	"results": [
+		{
+			"definition": "(law) the institution of a sequence of steps by which legal judgments are invoked",
+			"partOfSpeech": "noun",
+			"synonyms": ["legal proceeding", "proceeding"],
+			"inCategory": ["law", "jurisprudence"],
+			"typeOf": ["due process", "due process of law"],
+			"hasTypes": [
+				"hearing",
+				"intervention",
+				"action",
+				"lawsuit",
+				"legal action",
+				"litigation",
+				"naturalisation",
+				"naturalization",
+				"procedure",
+				"receivership",
+				"review",
+				"suit",
+				"trial",
+				"judicial proceeding",
+				"action at law",
+				"adoption",
+				"appeal",
+				"bankruptcy",
+				"case",
+				"causa",
+				"cause",
+				"foreclosure"
+			],
+			"derivation": ["proceed"]
+		},
+		{
+			"definition": "a written account of what transpired at a meeting",
+			"partOfSpeech": "noun",
+			"synonyms": ["minutes", "transactions"],
+			"typeOf": ["written account", "written record"],
+			"hasTypes": ["congressional record", "hansard"],
+			"partOf": ["minute book"]
+		}
+	],
+	"pronunciation": "pro\u028a'sid\u026a\u014bz",
+	"frequency": 3.37
+}

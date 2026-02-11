@@ -1,0 +1,37 @@
+{
+	"word": "juxtaposition",
+	"results": [
+		{
+			"definition": "the act of positioning close together (or side by side)",
+			"partOfSpeech": "noun",
+			"synonyms": ["apposition", "collocation"],
+			"typeOf": [
+				"location",
+				"placement",
+				"position",
+				"positioning",
+				"emplacement",
+				"locating"
+			],
+			"hasTypes": ["tessellation"],
+			"derivation": ["juxtapose"],
+			"examples": [
+				"it is the result of the juxtaposition of contrasting colors"
+			]
+		},
+		{
+			"definition": "a side-by-side position",
+			"partOfSpeech": "noun",
+			"typeOf": ["place", "position"],
+			"derivation": ["juxtapose"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["jux", "ta", "po", "si", "tion"]
+	},
+	"pronunciation": {
+		"all": ",d\u0292\u0259kst\u0259p\u0259'z\u026a\u0283\u0259n"
+	},
+	"frequency": 2.2
+}

@@ -1,0 +1,32 @@
+{
+	"word": "autograph",
+	"results": [
+		{
+			"definition": "mark with one's signature",
+			"partOfSpeech": "verb",
+			"synonyms": ["inscribe"],
+			"typeOf": ["sign"],
+			"examples": ["The author autographed his book"]
+		},
+		{
+			"definition": "a person's own signature",
+			"partOfSpeech": "noun",
+			"synonyms": ["john hancock"],
+			"typeOf": ["signature"]
+		},
+		{
+			"definition": "something written by one's own hand",
+			"partOfSpeech": "noun",
+			"typeOf": ["piece of writing", "writing", "written material"],
+			"hasTypes": ["manuscript", "holograph"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["au", "to", "graph"]
+	},
+	"pronunciation": {
+		"all": "'\u0254t\u0259,gr\u00e6f"
+	},
+	"frequency": 3.92
+}

@@ -1,0 +1,26 @@
+{
+	"word": "joust",
+	"results": [
+		{
+			"definition": "a combat between two mounted knights tilting against each other with blunted lances",
+			"partOfSpeech": "noun",
+			"synonyms": ["tilt"],
+			"typeOf": ["battle", "struggle"],
+			"partOf": ["tournament"]
+		},
+		{
+			"definition": "joust against somebody in a tournament by fighting on horseback",
+			"partOfSpeech": "verb",
+			"typeOf": ["contend", "fight", "struggle"],
+			"hasTypes": ["tilt"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["joust"]
+	},
+	"pronunciation": {
+		"all": "d\u0292a\u028ast"
+	},
+	"frequency": 3.04
+}

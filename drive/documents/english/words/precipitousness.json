@@ -1,0 +1,32 @@
+{
+	"word": "precipitousness",
+	"results": [
+		{
+			"definition": "the quality of happening with headlong haste or without warning",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"abruptness",
+				"precipitance",
+				"precipitancy",
+				"precipitateness",
+				"suddenness"
+			],
+			"typeOf": ["hastiness", "hurry", "precipitation", "hurriedness", "haste"],
+			"derivation": ["precipitous"]
+		},
+		{
+			"definition": "the property possessed by a slope that is very steep",
+			"partOfSpeech": "noun",
+			"synonyms": ["abruptness", "steepness"],
+			"typeOf": ["gradient", "slope"],
+			"derivation": ["precipitous"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["pre", "cip", "i", "tous", "ness"]
+	},
+	"pronunciation": {
+		"all": "pr\u026a's\u026ap\u026at\u0259sn\u025bs"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"frequency": 1.74,
+	"word": "atonic",
+	"results": [
+		{
+			"definition": "(used of syllables) carrying no stress",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unaccented"],
+			"antonyms": ["tonic"],
+			"examples": ["an atonic syllable carries no stress"]
+		},
+		{
+			"definition": "characterized by a lack of tonus",
+			"partOfSpeech": null,
+			"pertainsTo": ["atonicity"],
+			"derivation": ["atonia", "atonicity", "atony"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["a", "ton", "ic"]
+	},
+	"pronunciation": {
+		"all": "\u0259't\u0251n\u026ak"
+	}
+}

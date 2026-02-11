@@ -1,0 +1,36 @@
+{
+	"word": "largemouth bass",
+	"results": [
+		{
+			"definition": "a large black bass; the angle of the jaw falls behind the eye",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"largemouth",
+				"largemouth black bass",
+				"largemouthed bass",
+				"largemouthed black bass",
+				"micropterus salmoides"
+			],
+			"typeOf": ["black bass"]
+		},
+		{
+			"definition": "flesh of largemouth bass",
+			"partOfSpeech": "noun",
+			"typeOf": ["freshwater bass", "bass"],
+			"partOf": [
+				"largemouthed bass",
+				"largemouthed black bass",
+				"micropterus salmoides",
+				"largemouth",
+				"largemouth black bass"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["large", "mouth bass"]
+	},
+	"pronunciation": {
+		"all": "'l\u0251rd\u0292,ma\u028a\u03b8_'b\u00e6s"
+	}
+}

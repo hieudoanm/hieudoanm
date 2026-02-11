@@ -1,0 +1,24 @@
+{
+	"word": "lascar",
+	"results": [
+		{
+			"definition": "an East Indian sailor",
+			"partOfSpeech": "noun",
+			"typeOf": ["crewman", "sailor"]
+		},
+		{
+			"definition": "a volcano in the Andes in Chile",
+			"partOfSpeech": "noun",
+			"instanceOf": ["volcano"],
+			"partOf": ["chile", "republic of chile"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["las", "car"]
+	},
+	"pronunciation": {
+		"all": "'l\u00e6sk\u0259r"
+	},
+	"frequency": 1.9
+}

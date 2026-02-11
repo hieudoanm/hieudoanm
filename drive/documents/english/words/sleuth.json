@@ -1,0 +1,27 @@
+{
+	"word": "sleuth",
+	"results": [
+		{
+			"definition": "watch, observe, or inquire secretly",
+			"partOfSpeech": "verb",
+			"synonyms": ["snoop", "spy", "stag"],
+			"entails": ["enquire", "inquire", "investigate"],
+			"typeOf": ["monitor", "supervise"],
+			"derivation": ["sleuthing"]
+		},
+		{
+			"definition": "a detective who follows a trail",
+			"partOfSpeech": "noun",
+			"synonyms": ["sleuthhound"],
+			"typeOf": ["detective"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["sleuth"]
+	},
+	"pronunciation": {
+		"all": "slu\u03b8"
+	},
+	"frequency": 2.52
+}

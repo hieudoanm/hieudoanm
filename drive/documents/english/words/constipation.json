@@ -1,0 +1,27 @@
+{
+	"word": "constipation",
+	"results": [
+		{
+			"definition": "the act of making something futile and useless (as by routine)",
+			"partOfSpeech": "noun",
+			"synonyms": ["deadening", "impairment", "stultification"],
+			"typeOf": ["debasement", "degradation"]
+		},
+		{
+			"definition": "irregular and infrequent or difficult evacuation of the bowels; can be a symptom of intestinal obstruction or diverticulitis",
+			"partOfSpeech": "noun",
+			"synonyms": ["irregularity"],
+			"typeOf": ["symptom"],
+			"hasTypes": ["dyschezia", "fecal impaction", "obstipation"],
+			"derivation": ["constipate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["con", "sti", "pa", "tion"]
+	},
+	"pronunciation": {
+		"all": ",k\u0251nst\u0259'pe\u026a\u0283\u0259n"
+	},
+	"frequency": 3.01
+}

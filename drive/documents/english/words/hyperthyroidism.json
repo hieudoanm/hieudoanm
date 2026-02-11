@@ -1,0 +1,26 @@
+{
+	"word": "hyperthyroidism",
+	"results": [
+		{
+			"definition": "an overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones",
+			"partOfSpeech": "noun",
+			"synonyms": ["thyrotoxicosis"],
+			"typeOf": [
+				"gland disease",
+				"adenosis",
+				"glandular disease",
+				"glandular disorder"
+			],
+			"hasTypes": ["exophthalmic goiter", "graves' disease"],
+			"hasParts": ["exophthalmos"],
+			"antonyms": ["hypothyroidism"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["hy", "per", "thy", "roid", "ism"]
+	},
+	"pronunciation": {
+		"all": ",ha\u026ap\u0259r'\u03b8a\u026ar\u0254\u026a,d\u026az\u0259m"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"word": "iambic",
+	"results": [
+		{
+			"definition": "a verse line consisting of iambs",
+			"partOfSpeech": "noun",
+			"typeOf": ["verse", "verse line"]
+		},
+		{
+			"definition": "of or consisting of iambs",
+			"partOfSpeech": "adjective",
+			"inCategory": ["metrics", "prosody"],
+			"pertainsTo": ["iamb"],
+			"examples": ["iambic pentameter"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["i", "am", "bic"]
+	},
+	"pronunciation": {
+		"all": "a\u026a'\u00e6mb\u026ak"
+	},
+	"frequency": 2.2
+}

@@ -1,0 +1,33 @@
+{
+	"word": "rectifier",
+	"results": [
+		{
+			"definition": "a person who corrects or sets right",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"soul",
+				"mortal",
+				"person",
+				"somebody",
+				"someone",
+				"individual"
+			],
+			"derivation": ["rectify"],
+			"examples": ["a rectifier of prejudices"]
+		},
+		{
+			"definition": "electrical device that transforms alternating into direct current",
+			"partOfSpeech": "noun",
+			"typeOf": ["electrical device"],
+			"hasTypes": ["detector", "full-wave rectifier", "demodulator"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["rec", "ti", "fi", "er"]
+	},
+	"pronunciation": {
+		"all": "'r\u025bkt\u0259,fa\u026a\u0259r"
+	},
+	"frequency": 2.45
+}

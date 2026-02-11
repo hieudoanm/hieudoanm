@@ -1,0 +1,34 @@
+{
+	"word": "sludge",
+	"results": [
+		{
+			"definition": "any thick, viscous matter",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"goo",
+				"gook",
+				"goop",
+				"guck",
+				"gunk",
+				"muck",
+				"ooze",
+				"slime"
+			],
+			"typeOf": ["matter"],
+			"hasTypes": ["sapropel"]
+		},
+		{
+			"definition": "the precipitate produced by sewage treatment",
+			"partOfSpeech": "noun",
+			"typeOf": ["precipitate"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["sludge"]
+	},
+	"pronunciation": {
+		"all": "sl\u0259d\u0292"
+	},
+	"frequency": 2.73
+}

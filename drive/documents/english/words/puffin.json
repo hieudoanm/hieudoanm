@@ -1,0 +1,27 @@
+{
+	"word": "puffin",
+	"results": [
+		{
+			"definition": "any of two genera of northern seabirds having short necks and brightly colored compressed bills",
+			"partOfSpeech": "noun",
+			"typeOf": ["seafowl", "sea bird", "seabird"],
+			"hasTypes": [
+				"fratercula corniculata",
+				"horned puffin",
+				"lunda cirrhata",
+				"tufted puffin",
+				"atlantic puffin",
+				"fratercula arctica"
+			],
+			"memberOf": ["family alcidae", "alcidae"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["puf", "fin"]
+	},
+	"pronunciation": {
+		"all": "'p\u0259f\u026an"
+	},
+	"frequency": 2.27
+}

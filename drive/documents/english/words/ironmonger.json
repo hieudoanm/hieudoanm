@@ -1,0 +1,29 @@
+{
+	"word": "ironmonger",
+	"results": [
+		{
+			"definition": "a store selling hardware",
+			"partOfSpeech": "noun",
+			"synonyms": ["hardware store", "ironmonger's shop"],
+			"typeOf": ["shop", "store"],
+			"examples": [
+				"in Great Britain they used to call a hardware store an ironmonger's shop"
+			]
+		},
+		{
+			"definition": "someone who sells hardware",
+			"partOfSpeech": "noun",
+			"synonyms": ["hardwareman"],
+			"typeOf": ["bargainer", "dealer", "monger", "trader"],
+			"examples": ["in England they call a hardwareman an ironmonger"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["i", "ron", "mon", "ger"]
+	},
+	"pronunciation": {
+		"all": "'a\u026a\u0259rn,m\u0259\u014b\u0261\u0259r"
+	},
+	"frequency": 2.03
+}

@@ -1,0 +1,26 @@
+{
+	"word": "solferino",
+	"results": [
+		{
+			"definition": "a pink dye that was discovered in 1859, the year a battle was fought at Solferino",
+			"partOfSpeech": "noun",
+			"synonyms": ["purplish pink"],
+			"typeOf": ["pink"]
+		},
+		{
+			"definition": "an indecisive battle in 1859 between the French and Sardinians under Napoleon III and the Austrians under Francis Joseph I",
+			"partOfSpeech": "noun",
+			"synonyms": ["battle of solferino"],
+			"inRegion": ["italia", "italian republic", "italy"],
+			"instanceOf": ["pitched battle"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["sol", "fe", "ri", "no"]
+	},
+	"pronunciation": {
+		"all": ",s\u0254lf\u025b'Rin\u0254"
+	},
+	"frequency": 1.82
+}

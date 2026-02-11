@@ -1,0 +1,26 @@
+{
+	"word": "toxicity",
+	"results": [
+		{
+			"definition": "grave harmfulness or deadliness",
+			"partOfSpeech": "noun",
+			"synonyms": ["perniciousness"],
+			"typeOf": ["morbidity", "morbidness", "unwholesomeness"]
+		},
+		{
+			"definition": "the degree to which something is poisonous",
+			"partOfSpeech": "noun",
+			"typeOf": ["definite quantity"],
+			"hasTypes": ["cytotoxicity"],
+			"derivation": ["toxic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["tox", "ic", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "t\u0251k's\u026as\u026ati"
+	},
+	"frequency": 2.62
+}

@@ -1,0 +1,21 @@
+{
+	"word": "blue cheese",
+	"results": [
+		{
+			"definition": "cheese containing a blue mold",
+			"partOfSpeech": "noun",
+			"synonyms": ["bleu"],
+			"typeOf": ["cheese"],
+			"hasTypes": [
+				"bavarian blue",
+				"danish blue",
+				"gorgonzola",
+				"roquefort",
+				"stilton"
+			]
+		}
+	],
+	"pronunciation": {
+		"all": "blu_\u02a7iz"
+	}
+}

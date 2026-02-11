@@ -1,0 +1,41 @@
+{
+	"word": "goddamned",
+	"results": [
+		{
+			"definition": "extremely",
+			"partOfSpeech": "adverb",
+			"synonyms": ["goddam", "goddamn"],
+			"usageOf": ["intensifier", "intensive"]
+		},
+		{
+			"definition": "expletives used informally as intensifiers",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"blame",
+				"blamed",
+				"blasted",
+				"blessed",
+				"damn",
+				"damned",
+				"darned",
+				"deuced",
+				"goddam",
+				"goddamn",
+				"infernal"
+			],
+			"similarTo": ["cursed", "curst"],
+			"examples": [
+				"I'll be damned (or blessed or darned or goddamned) if I'll do any such thing",
+				"he's a damn (or goddam or goddamned) fool"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["god", "damned"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u0251d'd\u00e6md"
+	},
+	"frequency": 3.55
+}

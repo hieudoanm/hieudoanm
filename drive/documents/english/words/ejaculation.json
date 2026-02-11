@@ -1,0 +1,27 @@
+{
+	"word": "ejaculation",
+	"results": [
+		{
+			"definition": "an abrupt emphatic exclamation expressing emotion",
+			"partOfSpeech": "noun",
+			"synonyms": ["interjection"],
+			"typeOf": ["exclamation", "exclaiming"],
+			"derivation": ["ejaculate"]
+		},
+		{
+			"definition": "the discharge of semen in males",
+			"partOfSpeech": "noun",
+			"typeOf": ["discharge", "expelling", "emission"],
+			"hasTypes": ["premature ejaculation", "nocturnal emission"],
+			"derivation": ["ejaculate"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["e", "jac", "u", "la", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u026a,d\u0292\u00e6kj\u0259'le\u026a\u0283\u0259n"
+	},
+	"frequency": 2.97
+}

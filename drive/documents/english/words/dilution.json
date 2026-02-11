@@ -1,0 +1,27 @@
+{
+	"word": "dilution",
+	"results": [
+		{
+			"definition": "a diluted solution",
+			"partOfSpeech": "noun",
+			"typeOf": ["solution"],
+			"derivation": ["dilute"]
+		},
+		{
+			"definition": "weakening (reducing the concentration) by the addition of water or a thinner",
+			"partOfSpeech": "noun",
+			"typeOf": ["weakening"],
+			"hasTypes": ["cutting", "thinning"],
+			"antonyms": ["concentration"],
+			"derivation": ["dilute"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["di", "lu", "tion"]
+	},
+	"pronunciation": {
+		"all": "d\u026a'lu\u0283\u0259n"
+	},
+	"frequency": 1.82
+}

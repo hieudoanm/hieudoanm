@@ -1,0 +1,35 @@
+{
+	"word": "anaesthetize",
+	"results": [
+		{
+			"definition": "administer an anesthetic drug to",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"anaesthetise",
+				"anesthetise",
+				"anesthetize",
+				"put out",
+				"put under"
+			],
+			"typeOf": ["drug", "dose"],
+			"hasTypes": [
+				"cocainise",
+				"cocainize",
+				"etherise",
+				"etherize",
+				"block",
+				"freeze",
+				"chloroform"
+			],
+			"derivation": ["anaesthetic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["a", "naes", "the", "tize"]
+	},
+	"pronunciation": {
+		"all": "\u0259'n\u025bs\u03b8\u026a,ta\u026az"
+	},
+	"frequency": 1.73
+}

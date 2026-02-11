@@ -1,0 +1,35 @@
+{
+	"word": "discordant",
+	"results": [
+		{
+			"definition": "lacking in harmony",
+			"partOfSpeech": "adjective",
+			"synonyms": ["disharmonious", "dissonant", "inharmonic"],
+			"similarTo": ["inharmonious", "unharmonious"],
+			"derivation": ["discord", "discordance"]
+		},
+		{
+			"definition": "not in agreement or harmony",
+			"partOfSpeech": "adjective",
+			"similarTo": [
+				"dissentious",
+				"dissonant",
+				"at variance",
+				"factious",
+				"divisive",
+				"discrepant"
+			],
+			"antonyms": ["accordant"],
+			"derivation": ["discord", "discordance"],
+			"examples": ["views discordant with present-day ideas"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["dis", "cord", "ant"]
+	},
+	"pronunciation": {
+		"all": "d\u026as'k\u0254rd\u0259nt"
+	},
+	"frequency": 2.4
+}

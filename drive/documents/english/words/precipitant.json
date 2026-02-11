@@ -1,0 +1,26 @@
+{
+	"word": "precipitant",
+	"results": [
+		{
+			"definition": "done with very great haste and without due deliberation",
+			"partOfSpeech": "adjective",
+			"synonyms": ["hasty", "overhasty", "precipitate", "precipitous"],
+			"similarTo": ["hurried"],
+			"derivation": ["precipitance", "precipitancy", "precipitate"]
+		},
+		{
+			"definition": "an agent that causes a precipitate to form",
+			"partOfSpeech": "noun",
+			"typeOf": ["agent"],
+			"hasTypes": ["dimethylglyoxime"],
+			"derivation": ["precipitate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pre", "cip", "i", "tant"]
+	},
+	"pronunciation": {
+		"all": "pr\u026a's\u026ap\u026at\u0259nt"
+	}
+}

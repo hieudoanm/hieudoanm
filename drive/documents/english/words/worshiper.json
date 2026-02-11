@@ -1,0 +1,35 @@
+{
+	"word": "worshiper",
+	"results": [
+		{
+			"definition": "someone who admires too much to recognize faults",
+			"partOfSpeech": "noun",
+			"synonyms": ["worshipper"],
+			"typeOf": ["admirer", "adorer"],
+			"hasTypes": ["hero worshiper", "hero worshipper"],
+			"derivation": ["worship"]
+		},
+		{
+			"definition": "a person who has religious faith",
+			"partOfSpeech": "noun",
+			"synonyms": ["believer", "worshipper"],
+			"typeOf": ["religious person"],
+			"hasTypes": [
+				"theosophist",
+				"pantheist",
+				"pilgrim",
+				"religious mystic",
+				"sun worshiper",
+				"theist",
+				"devil worshiper",
+				"monotheist",
+				"mystic",
+				"numerologist"
+			],
+			"memberOf": ["denomination"],
+			"derivation": ["worship"]
+		}
+	],
+	"pronunciation": "'w\u025dr\u0283\u028cp\u025dr",
+	"frequency": 2.08
+}

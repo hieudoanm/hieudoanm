@@ -1,0 +1,30 @@
+{
+	"word": "unfasten",
+	"results": [
+		{
+			"definition": "become undone or untied",
+			"partOfSpeech": "verb",
+			"typeOf": ["open up", "open"],
+			"antonyms": ["fasten"],
+			"derivation": ["unfastening"],
+			"examples": ["The shoelaces unfastened"]
+		},
+		{
+			"definition": "cause to become undone",
+			"partOfSpeech": "verb",
+			"typeOf": ["undo"],
+			"hasTypes": ["unchain", "unbend", "unzip"],
+			"antonyms": ["fasten"],
+			"derivation": ["unfastener", "unfastening"],
+			"examples": ["unfasten your belt"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["un", "fas", "ten"]
+	},
+	"pronunciation": {
+		"all": "\u0259n'f\u0251s\u0259n"
+	},
+	"frequency": 2.12
+}

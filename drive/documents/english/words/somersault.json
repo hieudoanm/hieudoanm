@@ -1,0 +1,32 @@
+{
+	"word": "somersault",
+	"results": [
+		{
+			"definition": "an acrobatic feat in which the feet roll over the head (either forward or backward) and return",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"flip",
+				"somersaulting",
+				"somerset",
+				"summersault",
+				"summerset"
+			],
+			"typeOf": ["tumble"],
+			"hasTypes": ["flip-flop"]
+		},
+		{
+			"definition": "do a somersault",
+			"partOfSpeech": "verb",
+			"typeOf": ["roll over"],
+			"derivation": ["somersaulting"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["som", "er", "sault"]
+	},
+	"pronunciation": {
+		"all": "'s\u0259m\u0259r,s\u0254lt"
+	},
+	"frequency": 2.72
+}

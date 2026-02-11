@@ -1,0 +1,24 @@
+{
+	"word": "xenarthra",
+	"results": [
+		{
+			"definition": "armadillos; American anteaters; sloths",
+			"partOfSpeech": "noun",
+			"synonyms": ["suborder xenarthra"],
+			"typeOf": ["animal order"],
+			"hasMembers": [
+				"bradypodidae",
+				"dasypodidae",
+				"family bradypodidae",
+				"family dasypodidae",
+				"family megalonychidae",
+				"megatheriidae",
+				"myrmecophagidae",
+				"family megatheriidae",
+				"family myrmecophagidae",
+				"megalonychidae"
+			],
+			"memberOf": ["edentata", "order edentata"]
+		}
+	]
+}

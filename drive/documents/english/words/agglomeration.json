@@ -1,0 +1,34 @@
+{
+	"word": "agglomeration",
+	"results": [
+		{
+			"definition": "a jumbled collection or mass",
+			"partOfSpeech": "noun",
+			"typeOf": ["aggregation", "accumulation", "assemblage", "collection"],
+			"hasTypes": [
+				"clod",
+				"clump",
+				"cluster",
+				"clustering",
+				"lump",
+				"ball",
+				"bunch",
+				"chunk",
+				"glob"
+			]
+		},
+		{
+			"definition": "the act of collecting in a mass; the act of agglomerating",
+			"partOfSpeech": "noun",
+			"typeOf": ["assembling", "collection", "aggregation", "collecting"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ag", "glom", "er", "a", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u0259,gl\u0251m\u0259're\u026a\u0283\u0259n"
+	},
+	"frequency": 2.03
+}

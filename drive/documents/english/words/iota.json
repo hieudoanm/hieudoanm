@@ -1,0 +1,34 @@
+{
+	"word": "iota",
+	"results": [
+		{
+			"definition": "a tiny or scarcely detectable amount",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"scintilla",
+				"shred",
+				"smidge",
+				"smidgen",
+				"smidgeon",
+				"smidgin",
+				"tittle",
+				"whit"
+			],
+			"typeOf": ["small indefinite amount", "small indefinite quantity"]
+		},
+		{
+			"definition": "the 9th letter of the Greek alphabet",
+			"partOfSpeech": "noun",
+			"typeOf": ["alphabetic character", "letter", "letter of the alphabet"],
+			"memberOf": ["greek alphabet"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["i", "o", "ta"]
+	},
+	"pronunciation": {
+		"all": "a\u026a'o\u028at\u0259"
+	},
+	"frequency": 2.68
+}

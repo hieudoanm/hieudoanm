@@ -1,0 +1,29 @@
+{
+	"word": "rotary engine",
+	"results": [
+		{
+			"definition": "an internal-combustion engine having cylinders arranged radially around a central crankcase",
+			"partOfSpeech": "noun",
+			"synonyms": ["radial engine"],
+			"typeOf": ["internal-combustion engine", "ice"]
+		},
+		{
+			"definition": "an internal-combustion engine in which power is transmitted directly to rotating components",
+			"partOfSpeech": "noun",
+			"typeOf": ["ice", "internal-combustion engine"],
+			"hasTypes": [
+				"wankel rotary engine",
+				"turbine",
+				"wankel engine",
+				"epitrochoidal engine"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ro", "ta", "ry en", "gine"]
+	},
+	"pronunciation": {
+		"all": "'ro\u028at\u0259ri_'\u025bnd\u0292\u0259n"
+	}
+}

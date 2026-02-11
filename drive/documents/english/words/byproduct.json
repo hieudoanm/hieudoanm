@@ -1,0 +1,28 @@
+{
+	"word": "byproduct",
+	"results": [
+		{
+			"definition": "a secondary and sometimes unexpected consequence",
+			"partOfSpeech": "noun",
+			"synonyms": ["by-product"],
+			"typeOf": [
+				"event",
+				"issue",
+				"outcome",
+				"upshot",
+				"effect",
+				"consequence",
+				"result"
+			],
+			"hasTypes": ["epiphenomenon"]
+		},
+		{
+			"definition": "a product made during the manufacture of something else",
+			"partOfSpeech": "noun",
+			"synonyms": ["by-product", "spin-off"],
+			"typeOf": ["production", "product"]
+		}
+	],
+	"pronunciation": "'ba\u026apr\u0251d\u028ckt",
+	"frequency": 2.38
+}

@@ -1,0 +1,29 @@
+{
+	"word": "multiple sclerosis",
+	"results": [
+		{
+			"definition": "a chronic progressive nervous disorder involving loss of myelin sheath around certain nerve fibers",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"disseminated multiple sclerosis",
+				"disseminated sclerosis",
+				"ms"
+			],
+			"typeOf": [
+				"autoimmune disease",
+				"autoimmune disorder",
+				"degenerative disorder",
+				"induration",
+				"sclerosis"
+			],
+			"hasParts": ["demyelination"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["mul", "ti", "ple scle", "ro", "sis"]
+	},
+	"pronunciation": {
+		"all": "'m\u0259lt\u0259p\u0259l_skl\u026a'ro\u028as\u026as"
+	}
+}

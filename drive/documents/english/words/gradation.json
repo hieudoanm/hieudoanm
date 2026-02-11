@@ -1,0 +1,36 @@
+{
+	"frequency": 1.74,
+	"word": "gradation",
+	"results": [
+		{
+			"definition": "relative position in a graded series",
+			"partOfSpeech": "noun",
+			"synonyms": ["step"],
+			"typeOf": ["rank"],
+			"hasTypes": ["cut"],
+			"derivation": ["gradate", "gradational", "grade"],
+			"examples": ["subtle gradations in color"]
+		},
+		{
+			"definition": "a degree of ablaut",
+			"partOfSpeech": "noun",
+			"synonyms": ["grade"],
+			"typeOf": ["ablaut"]
+		},
+		{
+			"definition": "the act of arranging in grades",
+			"partOfSpeech": "noun",
+			"synonyms": ["graduation"],
+			"typeOf": ["quantification"],
+			"hasTypes": ["blending", "shading"],
+			"derivation": ["gradate", "grade", "gradational"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["gra", "da", "tion"]
+	},
+	"pronunciation": {
+		"all": "gre\u026a'de\u026a\u0283\u0259n"
+	}
+}

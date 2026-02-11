@@ -1,0 +1,33 @@
+{
+	"word": "stanza",
+	"results": [
+		{
+			"definition": "a fixed number of lines of verse forming a unit of a poem",
+			"partOfSpeech": "noun",
+			"typeOf": ["text", "textual matter"],
+			"hasTypes": [
+				"envoi",
+				"envoy",
+				"octave",
+				"ottava rima",
+				"quatrain",
+				"rhyme royal",
+				"sestet",
+				"spenserian stanza",
+				"strophe",
+				"antistrophe",
+				"couplet"
+			],
+			"hasParts": ["line"],
+			"partOf": ["poem", "verse form"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["stan", "za"]
+	},
+	"pronunciation": {
+		"all": "'st\u00e6nz\u0259"
+	},
+	"frequency": 2.08
+}

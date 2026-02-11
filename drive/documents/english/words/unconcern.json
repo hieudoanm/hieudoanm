@@ -1,0 +1,30 @@
+{
+	"word": "unconcern",
+	"results": [
+		{
+			"definition": "the trait of remaining calm and seeming not to care; a casual lack of concern",
+			"partOfSpeech": "noun",
+			"synonyms": ["indifference", "nonchalance"],
+			"typeOf": ["carefreeness"]
+		},
+		{
+			"definition": "a feeling of lack of concern",
+			"partOfSpeech": "noun",
+			"typeOf": ["feeling"],
+			"hasTypes": [
+				"coldheartedness",
+				"hardheartedness",
+				"heartlessness",
+				"indifference"
+			],
+			"antonyms": ["concern"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["un", "con", "cern"]
+	},
+	"pronunciation": {
+		"all": ",\u0259nk\u0259n's\u025crn"
+	}
+}

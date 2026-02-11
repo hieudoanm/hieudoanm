@@ -1,0 +1,30 @@
+{
+	"word": "bondswoman",
+	"results": [
+		{
+			"definition": "someone who signs a bond as surety for someone else",
+			"partOfSpeech": "noun",
+			"synonyms": ["bondsman"],
+			"typeOf": ["benefactor", "helper"]
+		},
+		{
+			"definition": "a female slave",
+			"partOfSpeech": "noun",
+			"synonyms": ["bondmaid", "bondwoman"],
+			"typeOf": ["slave"]
+		},
+		{
+			"definition": "a female bound to serve without wages",
+			"partOfSpeech": "noun",
+			"synonyms": ["bondmaid", "bondwoman"],
+			"typeOf": ["bond servant"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["bonds", "wom", "an"]
+	},
+	"pronunciation": {
+		"all": "'b\u0251ndz,w\u028am\u0259n"
+	}
+}

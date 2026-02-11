@@ -1,0 +1,26 @@
+{
+	"word": "acuminate",
+	"results": [
+		{
+			"definition": "make sharp or acute; taper; make (something) come to a point",
+			"partOfSpeech": "verb",
+			"typeOf": ["point", "sharpen", "taper"],
+			"derivation": ["acumen"]
+		},
+		{
+			"definition": "(of a leaf shape) narrowing to a slender point",
+			"partOfSpeech": "adjective",
+			"similarTo": ["simple", "unsubdivided"],
+			"derivation": ["acumen"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["a", "cu", "mi", "nate"]
+	},
+	"pronunciation": {
+		"all": "\u0259'kjum\u026an\u0259t",
+		"adjective": "\u0259'kjum\u0259n\u026at",
+		"verb": "\u0259'kjum\u0259,ne\u026at"
+	}
+}

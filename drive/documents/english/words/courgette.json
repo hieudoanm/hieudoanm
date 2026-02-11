@@ -1,0 +1,27 @@
+{
+	"word": "courgette",
+	"results": [
+		{
+			"definition": "small cucumber-shaped vegetable marrow; typically dark green",
+			"partOfSpeech": "noun",
+			"synonyms": ["zucchini"],
+			"typeOf": ["summer squash"],
+			"partOf": ["zucchini"]
+		},
+		{
+			"definition": "marrow squash plant whose fruit are eaten when small",
+			"partOfSpeech": "noun",
+			"synonyms": ["zucchini"],
+			"typeOf": ["vegetable marrow", "marrow", "marrow squash"],
+			"hasParts": ["zucchini"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cour", "gette"]
+	},
+	"pronunciation": {
+		"all": "k\u028a\u0259'\u0292\u025bt"
+	},
+	"frequency": 1.97
+}

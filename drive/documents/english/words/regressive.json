@@ -1,0 +1,36 @@
+{
+	"word": "regressive",
+	"results": [
+		{
+			"definition": "(of taxes) adjusted so that the rate decreases as the amount of income increases",
+			"partOfSpeech": "adjective",
+			"inCategory": ["taxation", "tax", "revenue enhancement"],
+			"antonyms": ["progressive"]
+		},
+		{
+			"definition": "opposing progress; returning to a former less advanced state",
+			"partOfSpeech": "adjective",
+			"also": ["backward"],
+			"similarTo": [
+				"returning",
+				"reverting",
+				"throwback",
+				"unmodernised",
+				"unmodernized",
+				"atavistic",
+				"retrograde",
+				"retrogressive"
+			],
+			"antonyms": ["progressive"],
+			"derivation": ["regress"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "gres", "sive"]
+	},
+	"pronunciation": {
+		"all": "r\u026a'gr\u025bs\u026av"
+	},
+	"frequency": 1.82
+}

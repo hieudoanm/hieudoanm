@@ -1,0 +1,26 @@
+{
+	"word": "propagandist",
+	"results": [
+		{
+			"definition": "of or relating to or characterized by propaganda",
+			"partOfSpeech": "adjective",
+			"synonyms": ["propagandistic"]
+		},
+		{
+			"definition": "a person who disseminates messages calculated to assist some cause or some government",
+			"partOfSpeech": "noun",
+			"typeOf": ["communicator"],
+			"hasTypes": ["sloganeer"],
+			"hasInstances": ["goebbels", "joseph goebbels", "paul joseph goebbels"],
+			"derivation": ["propaganda"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["prop", "a", "gan", "dist"]
+	},
+	"pronunciation": {
+		"all": ",pr\u0251p\u0259'\u0261\u00e6nd\u026ast"
+	},
+	"frequency": 2.03
+}

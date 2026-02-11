@@ -1,0 +1,30 @@
+{
+	"word": "portmanteau word",
+	"results": [
+		{
+			"definition": "a new word formed by joining two others and combining their meanings",
+			"partOfSpeech": "noun",
+			"synonyms": ["blend", "portmanteau"],
+			"hasUsages": [
+				"dandle",
+				"smogginess",
+				"workaholic",
+				"brunch",
+				"motel",
+				"shopaholic",
+				"smog"
+			],
+			"typeOf": ["coinage", "neology", "neologism"],
+			"examples": [
+				"`motel' is a portmanteau word made by combining `motor' and `hotel'"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["port", "man", "teau word"]
+	},
+	"pronunciation": {
+		"all": "po\u028art'm\u00e6nto\u028a_w\u025crd"
+	}
+}

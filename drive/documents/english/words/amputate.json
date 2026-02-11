@@ -1,0 +1,24 @@
+{
+	"word": "amputate",
+	"results": [
+		{
+			"definition": "remove surgically",
+			"partOfSpeech": "verb",
+			"synonyms": ["cut off"],
+			"inCategory": ["medicine", "practice of medicine"],
+			"entails": ["cut"],
+			"typeOf": ["take away", "withdraw", "remove", "take"],
+			"hasTypes": ["slough off"],
+			"derivation": ["amputation", "amputator"],
+			"examples": ["amputate limbs"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["am", "pu", "tate"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6mpj\u028a,te\u026at"
+	},
+	"frequency": 2.87
+}

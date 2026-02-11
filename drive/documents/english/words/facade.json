@@ -1,0 +1,26 @@
+{
+	"word": "facade",
+	"results": [
+		{
+			"definition": "a showy misrepresentation intended to conceal something unpleasant",
+			"partOfSpeech": "noun",
+			"synonyms": ["window dressing"],
+			"typeOf": ["deceit", "deception", "misrepresentation"]
+		},
+		{
+			"definition": "the face or front of a building",
+			"partOfSpeech": "noun",
+			"synonyms": ["frontage", "frontal"],
+			"typeOf": ["front"],
+			"hasTypes": ["frontispiece"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["fa", "cade"]
+	},
+	"pronunciation": {
+		"all": "f\u0259's\u0251d"
+	},
+	"frequency": 3.09
+}

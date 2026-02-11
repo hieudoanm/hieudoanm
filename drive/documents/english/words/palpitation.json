@@ -1,0 +1,34 @@
+{
+	"word": "palpitation",
+	"results": [
+		{
+			"definition": "a shaky motion",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"quiver",
+				"quivering",
+				"shakiness",
+				"shaking",
+				"trembling",
+				"vibration"
+			],
+			"typeOf": ["motion"],
+			"hasTypes": ["tremolo", "tremor"],
+			"derivation": ["palpitate"]
+		},
+		{
+			"definition": "a rapid and irregular heart beat",
+			"partOfSpeech": "noun",
+			"typeOf": ["symptom"],
+			"derivation": ["palpitate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pal", "pi", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",p\u00e6lp\u026a'te\u026a\u0283\u0259n"
+	},
+	"frequency": 2.36
+}

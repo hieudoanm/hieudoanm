@@ -1,0 +1,27 @@
+{
+	"word": "emaciate",
+	"results": [
+		{
+			"definition": "cause to grow thin or weak",
+			"partOfSpeech": "verb",
+			"synonyms": ["macerate", "waste"],
+			"typeOf": ["debilitate", "drain", "enfeeble"],
+			"derivation": ["emaciation"],
+			"examples": ["The treatment emaciated him"]
+		},
+		{
+			"definition": "grow weak and thin or waste away physically",
+			"partOfSpeech": "verb",
+			"typeOf": ["change state", "turn"],
+			"derivation": ["emaciation"],
+			"examples": ["She emaciated during the chemotherapy"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["e", "ma", "ci", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u026a'me\u026a\u0283i,e\u026at"
+	}
+}

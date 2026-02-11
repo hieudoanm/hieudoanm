@@ -1,0 +1,27 @@
+{
+	"word": "repossess",
+	"results": [
+		{
+			"definition": "claim back",
+			"partOfSpeech": "verb",
+			"synonyms": ["reclaim"],
+			"typeOf": ["acquire", "get"],
+			"hasTypes": ["distrain", "foreclose"]
+		},
+		{
+			"definition": "regain possession of something",
+			"partOfSpeech": "verb",
+			"synonyms": ["take back"],
+			"typeOf": ["take"],
+			"derivation": ["repossession"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "pos", "sess"]
+	},
+	"pronunciation": {
+		"all": ",rip\u0259'z\u025bs"
+	},
+	"frequency": 2.4
+}

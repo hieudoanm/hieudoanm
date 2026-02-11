@@ -1,0 +1,34 @@
+{
+	"word": "simplification",
+	"results": [
+		{
+			"definition": "the act of reducing complexity",
+			"partOfSpeech": "noun",
+			"synonyms": ["reduction"],
+			"typeOf": ["change"],
+			"hasTypes": ["schematization", "schematisation"],
+			"derivation": ["simplify"]
+		},
+		{
+			"definition": "an explanation that omits superfluous details and reduces complexity",
+			"partOfSpeech": "noun",
+			"typeOf": ["explanation", "account"],
+			"hasTypes": ["simplism", "oversimplification"],
+			"derivation": ["simplify"]
+		},
+		{
+			"definition": "elimination of superfluous details",
+			"partOfSpeech": "noun",
+			"typeOf": ["elimination", "riddance"],
+			"hasTypes": [
+				"simplism",
+				"oversimplification",
+				"rationalisation",
+				"rationalization"
+			],
+			"derivation": ["simplify"]
+		}
+	],
+	"pronunciation": ",s\u026ampl\u028cf\u026a'ke\u026a\u0283\u028cn",
+	"frequency": 1.9
+}

@@ -1,0 +1,42 @@
+{
+	"word": "contemplation",
+	"results": [
+		{
+			"definition": "a calm, lengthy, intent consideration",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"musing",
+				"reflection",
+				"reflexion",
+				"rumination",
+				"thoughtfulness"
+			],
+			"typeOf": ["consideration"],
+			"hasTypes": [
+				"introspection",
+				"meditation",
+				"retrospect",
+				"self-contemplation",
+				"self-examination",
+				"speculation",
+				"study",
+				"cogitation"
+			],
+			"derivation": ["contemplate"]
+		},
+		{
+			"definition": "a long and thoughtful observation",
+			"partOfSpeech": "noun",
+			"typeOf": ["stare"],
+			"derivation": ["contemplate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["con", "tem", "pla", "tion"]
+	},
+	"pronunciation": {
+		"all": ",k\u0251nt\u0259m'ple\u026a\u0283\u0259n"
+	},
+	"frequency": 2.68
+}

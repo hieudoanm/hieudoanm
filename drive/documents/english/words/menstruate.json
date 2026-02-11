@@ -1,0 +1,21 @@
+{
+	"word": "menstruate",
+	"results": [
+		{
+			"definition": "undergo menstruation",
+			"partOfSpeech": "verb",
+			"synonyms": ["flow"],
+			"entails": ["ovulate"],
+			"typeOf": ["bleed", "hemorrhage", "shed blood"],
+			"derivation": ["menstruation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["men", "stru", "ate"]
+	},
+	"pronunciation": {
+		"all": "'m\u025bnstru,e\u026at"
+	},
+	"frequency": 2.38
+}

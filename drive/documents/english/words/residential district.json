@@ -1,0 +1,27 @@
+{
+	"word": "residential district",
+	"results": [
+		{
+			"definition": "a district where people live; occupied primarily by private residences",
+			"partOfSpeech": "noun",
+			"synonyms": ["community", "residential area"],
+			"typeOf": ["territory", "territorial dominion", "dominion", "district"],
+			"hasTypes": [
+				"warren",
+				"exurbia",
+				"suburb",
+				"suburban area",
+				"suburbia",
+				"tenement district",
+				"uptown",
+				"planned community",
+				"rabbit warren"
+			],
+			"hasInstances": ["georgetown", "village", "greenwich village"],
+			"hasParts": ["housing estate", "housing development"]
+		}
+	],
+	"pronunciation": {
+		"all": ",r\u025bz\u026a'd\u025bn\u0283\u0259l_'d\u026astr\u026akt"
+	}
+}

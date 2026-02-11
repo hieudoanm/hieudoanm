@@ -1,0 +1,29 @@
+{
+	"word": "quivering",
+	"results": [
+		{
+			"definition": "a shaky motion",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"palpitation",
+				"quiver",
+				"shakiness",
+				"shaking",
+				"trembling",
+				"vibration"
+			],
+			"typeOf": ["motion"],
+			"hasTypes": ["tremor", "tremolo"],
+			"derivation": ["quiver"]
+		},
+		{
+			"definition": "the act of vibrating",
+			"partOfSpeech": "noun",
+			"synonyms": ["quiver", "vibration"],
+			"typeOf": ["motility", "movement", "motion", "move"],
+			"hasTypes": ["tremor", "shudder"]
+		}
+	],
+	"pronunciation": "'kw\u026av\u025dr\u026a\u014b",
+	"frequency": 2.68
+}

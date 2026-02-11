@@ -1,0 +1,27 @@
+{
+	"word": "magyarorszag",
+	"results": [
+		{
+			"definition": "a republic in central Europe",
+			"partOfSpeech": "noun",
+			"synonyms": ["hungary", "republic of hungary"],
+			"instanceOf": ["european nation", "european country"],
+			"hasMembers": ["hungarian", "magyar"],
+			"hasParts": [
+				"danube",
+				"danube river",
+				"hungarian capital",
+				"lake balaton",
+				"plattensee",
+				"budapest",
+				"capital of hungary",
+				"danau",
+				"balaton"
+			],
+			"partOf": ["europe"]
+		}
+	],
+	"pronunciation": {
+		"all": "'m\u0251dj\u0251R'\u0254Rs\u0251\u0261"
+	}
+}

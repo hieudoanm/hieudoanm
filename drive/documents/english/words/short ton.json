@@ -1,0 +1,23 @@
+{
+	"word": "short ton",
+	"results": [
+		{
+			"definition": "a United States unit of weight equivalent to 2000 pounds",
+			"partOfSpeech": "noun",
+			"synonyms": ["net ton", "ton"],
+			"typeOf": ["avoirdupois unit"],
+			"hasParts": [
+				"cental",
+				"centner",
+				"cwt",
+				"hundredweight",
+				"quintal",
+				"short hundredweight"
+			],
+			"partOf": ["kiloton"]
+		}
+	],
+	"pronunciation": {
+		"all": "\u0283\u0254rt_t\u0259n"
+	}
+}

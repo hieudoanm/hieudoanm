@@ -1,0 +1,36 @@
+{
+	"word": "alleviation",
+	"results": [
+		{
+			"definition": "the feeling that comes when something burdensome is removed or reduced",
+			"partOfSpeech": "noun",
+			"synonyms": ["assuagement", "relief"],
+			"typeOf": ["comfort"],
+			"derivation": ["alleviate"]
+		},
+		{
+			"definition": "the act of reducing something unpleasant (as pain or annoyance)",
+			"partOfSpeech": "noun",
+			"synonyms": ["easement", "easing", "relief"],
+			"typeOf": ["diminution", "reduction", "step-down", "decrease"],
+			"hasTypes": [
+				"liberalization",
+				"palliation",
+				"relaxation",
+				"spasmolysis",
+				"liberalisation",
+				"decompressing",
+				"decompression",
+				"detente"
+			],
+			"derivation": ["alleviate"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["al", "le", "vi", "a", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u0259,livi'e\u026a\u0283\u0259n"
+	}
+}

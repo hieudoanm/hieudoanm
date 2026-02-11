@@ -1,0 +1,19 @@
+{
+	"word": "subphylum cephalochordata",
+	"results": [
+		{
+			"definition": "lancelets",
+			"partOfSpeech": "noun",
+			"synonyms": ["cephalochordata"],
+			"typeOf": ["phylum"],
+			"hasMembers": [
+				"branchiostomidae",
+				"cephalochordate",
+				"family amphioxidae",
+				"family branchiostomidae",
+				"amphioxidae"
+			],
+			"memberOf": ["chordata", "phylum chordata"]
+		}
+	]
+}

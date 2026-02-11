@@ -1,0 +1,29 @@
+{
+	"word": "economise",
+	"results": [
+		{
+			"definition": "spend sparingly, avoid the waste of",
+			"partOfSpeech": "verb",
+			"synonyms": ["economize", "save"],
+			"typeOf": ["expend", "drop", "spend"],
+			"hasTypes": ["tighten one's belt"],
+			"derivation": ["economiser"]
+		},
+		{
+			"definition": "use cautiously and frugally",
+			"partOfSpeech": "verb",
+			"synonyms": ["conserve", "economize", "husband"],
+			"typeOf": ["preserve", "save"],
+			"hasTypes": ["retrench"],
+			"derivation": ["economiser"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["e", "con", "o", "mise"]
+	},
+	"pronunciation": {
+		"all": "\u026a'k\u0251n\u0259,ma\u026az"
+	},
+	"frequency": 1.73
+}

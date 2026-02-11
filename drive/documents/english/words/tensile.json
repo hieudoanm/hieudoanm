@@ -1,0 +1,26 @@
+{
+	"word": "tensile",
+	"results": [
+		{
+			"definition": "capable of being shaped or bent or drawn out",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ductile", "malleable", "pliable", "pliant", "tractile"],
+			"similarTo": ["formed"],
+			"examples": ["made of highly tensile steel alloy"]
+		},
+		{
+			"definition": "of or relating to tension",
+			"partOfSpeech": null,
+			"pertainsTo": ["tension"],
+			"examples": ["tensile stress", "tensile pull"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ten", "sile"]
+	},
+	"pronunciation": {
+		"all": "'t\u025bns\u0259l"
+	},
+	"frequency": 2.3
+}

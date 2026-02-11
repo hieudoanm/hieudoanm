@@ -1,0 +1,31 @@
+{
+	"word": "unguiculate",
+	"results": [
+		{
+			"definition": "a mammal having nails or claws",
+			"partOfSpeech": "noun",
+			"synonyms": ["unguiculate mammal"],
+			"typeOf": [
+				"eutherian",
+				"eutherian mammal",
+				"placental",
+				"placental mammal"
+			]
+		},
+		{
+			"definition": "having or resembling claws or nails",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unguiculated"],
+			"similarTo": ["clawed", "clawlike"],
+			"antonyms": ["ungulate"],
+			"examples": ["unguiculate animals", "an unguiculate flower petal"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "guic", "u", "late"]
+	},
+	"pronunciation": {
+		"all": "\u0259\u014b'gw\u026akj\u025bl\u026at"
+	}
+}

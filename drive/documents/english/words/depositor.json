@@ -1,0 +1,20 @@
+{
+	"frequency": 2.4,
+	"word": "depositor",
+	"results": [
+		{
+			"definition": "a person who has deposited money in a bank or similar institution",
+			"partOfSpeech": "noun",
+			"typeOf": ["investor"],
+			"hasTypes": ["withdrawer"],
+			"derivation": ["deposit"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["de", "pos", "i", "tor"]
+	},
+	"pronunciation": {
+		"all": "d\u026a'p\u0251z\u026at\u0259r"
+	}
+}

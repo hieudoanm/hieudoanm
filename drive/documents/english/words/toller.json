@@ -1,0 +1,33 @@
+{
+	"word": "toller",
+	"results": [
+		{
+			"definition": "someone employed to collect tolls",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"toll agent",
+				"toll collector",
+				"toll taker",
+				"tollgatherer",
+				"tollkeeper",
+				"tollman"
+			],
+			"typeOf": ["employee"]
+		},
+		{
+			"definition": "a person who rings church bells (as for summoning the congregation)",
+			"partOfSpeech": "noun",
+			"synonyms": ["bell ringer", "ringer"],
+			"typeOf": ["signaler", "signaller"],
+			"derivation": ["toll"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["tol", "ler"]
+	},
+	"pronunciation": {
+		"all": "'to\u028al\u0259r"
+	},
+	"frequency": 1.82
+}

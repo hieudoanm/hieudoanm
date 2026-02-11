@@ -1,0 +1,33 @@
+{
+	"word": "watering",
+	"results": [
+		{
+			"definition": "shedding tears",
+			"partOfSpeech": "noun",
+			"synonyms": ["lachrymation", "lacrimation", "tearing"],
+			"typeOf": [
+				"activity",
+				"bodily function",
+				"bodily process",
+				"body process"
+			],
+			"derivation": ["water"]
+		},
+		{
+			"definition": "wetting with water",
+			"partOfSpeech": "noun",
+			"typeOf": ["wetting"],
+			"hasTypes": ["sprinkle", "sprinkling", "sparge"],
+			"derivation": ["water"],
+			"examples": ["the lawn needs a great deal of watering"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["wa", "ter", "ing"]
+	},
+	"pronunciation": {
+		"all": "'w\u0254t\u0259r\u026a\u014b"
+	},
+	"frequency": 3.37
+}

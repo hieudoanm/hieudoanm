@@ -1,0 +1,30 @@
+{
+	"word": "crepuscle",
+	"results": [
+		{
+			"definition": "the time of day immediately following sunset",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"crepuscule",
+				"dusk",
+				"evenfall",
+				"fall",
+				"gloam",
+				"gloaming",
+				"nightfall",
+				"twilight"
+			],
+			"typeOf": ["hour", "time of day"],
+			"hasTypes": ["night"],
+			"partOf": ["eve", "eventide", "even", "evening"],
+			"derivation": ["crepuscular"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cre", "pus", "cle"]
+	},
+	"pronunciation": {
+		"all": "kr\u026a'p\u0259s\u0259l"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"word": "classifier",
+	"results": [
+		{
+			"definition": "a person who creates classifications",
+			"partOfSpeech": "noun",
+			"typeOf": ["thinker"],
+			"derivation": ["classify"]
+		},
+		{
+			"definition": "a word or morpheme used in some languages in certain contexts (such as counting) to indicate the semantic class to which the counted item belongs",
+			"partOfSpeech": "noun",
+			"typeOf": ["morpheme", "word"],
+			"derivation": ["classify"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["clas", "si", "fi", "er"]
+	},
+	"pronunciation": {
+		"all": "'kl\u00e6s\u0259,fa\u026a\u0259r"
+	}
+}

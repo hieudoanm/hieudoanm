@@ -1,0 +1,32 @@
+{
+	"word": "ossify",
+	"results": [
+		{
+			"definition": "make rigid and set into a conventional pattern",
+			"partOfSpeech": "verb",
+			"synonyms": ["petrify", "rigidify"],
+			"typeOf": ["stiffen"],
+			"derivation": ["ossification"]
+		},
+		{
+			"definition": "become bony",
+			"partOfSpeech": "verb",
+			"typeOf": ["change state", "turn"],
+			"derivation": ["ossification"]
+		},
+		{
+			"definition": "cause to become hard and bony",
+			"partOfSpeech": "verb",
+			"typeOf": ["alter", "change", "modify"],
+			"derivation": ["ossification"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["os", "si", "fy"]
+	},
+	"pronunciation": {
+		"all": "'\u0251s\u0259,fa\u026a"
+	},
+	"frequency": 1.82
+}

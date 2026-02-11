@@ -1,0 +1,21 @@
+{
+	"word": "transliterate",
+	"results": [
+		{
+			"definition": "rewrite in a different script",
+			"partOfSpeech": "verb",
+			"synonyms": ["transcribe"],
+			"typeOf": ["rewrite"],
+			"hasTypes": ["braille", "latinise", "latinize", "romanise", "romanize"],
+			"derivation": ["transliteration"],
+			"examples": ["The Sanskrit text had to be transliterated"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["trans", "lit", "er", "ate"]
+	},
+	"pronunciation": {
+		"all": "tr\u00e6nz'l\u026at\u0259,re\u026at"
+	}
+}

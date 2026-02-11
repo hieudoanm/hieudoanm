@@ -1,0 +1,29 @@
+{
+	"word": "dramatization",
+	"results": [
+		{
+			"definition": "conversion into dramatic form",
+			"partOfSpeech": "noun",
+			"synonyms": ["dramatisation"],
+			"typeOf": ["writing", "composition", "penning", "authorship"],
+			"derivation": ["dramatize"],
+			"examples": ["the play was a dramatization of a short story"]
+		},
+		{
+			"definition": "a dramatic representation",
+			"partOfSpeech": "noun",
+			"synonyms": ["dramatisation"],
+			"typeOf": ["representation"],
+			"hasTypes": ["puppetry", "street theater", "guerrilla theater"],
+			"derivation": ["dramatize"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["dram", "a", "ti", "za", "tion"]
+	},
+	"pronunciation": {
+		"all": ",dr\u00e6m\u0259t\u026a'ze\u026a\u0283\u0259n"
+	},
+	"frequency": 1.97
+}

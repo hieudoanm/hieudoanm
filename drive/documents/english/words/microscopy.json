@@ -1,0 +1,26 @@
+{
+	"word": "microscopy",
+	"results": [
+		{
+			"definition": "research with the use of microscopes",
+			"partOfSpeech": "noun",
+			"hasCategories": ["stain"],
+			"typeOf": ["research"],
+			"hasTypes": [
+				"dark field illumination",
+				"dark ground illumination",
+				"electron microscopy",
+				"fluorescence microscopy"
+			],
+			"derivation": ["microscopic", "microscopical", "microscopist"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mi", "cros", "co", "py"]
+	},
+	"pronunciation": {
+		"all": "ma\u026a'kr\u0251sk\u0259pi"
+	},
+	"frequency": 1.9
+}

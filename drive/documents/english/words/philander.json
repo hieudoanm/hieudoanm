@@ -1,0 +1,36 @@
+{
+	"word": "philander",
+	"results": [
+		{
+			"definition": "talk or behave amorously, without serious intentions",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"butterfly",
+				"chat up",
+				"coquet",
+				"coquette",
+				"dally",
+				"flirt",
+				"mash",
+				"romance"
+			],
+			"typeOf": ["speak", "talk"],
+			"hasTypes": ["vamp", "wanton"]
+		},
+		{
+			"definition": "have amorous affairs; of men",
+			"partOfSpeech": "verb",
+			"synonyms": ["womanise", "womanize"],
+			"typeOf": ["interact"],
+			"derivation": ["philanderer"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["phi", "lan", "der"]
+	},
+	"pronunciation": {
+		"all": "f\u026a'l\u00e6nd\u0259r"
+	},
+	"frequency": 1.73
+}

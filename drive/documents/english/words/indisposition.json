@@ -1,0 +1,28 @@
+{
+	"word": "indisposition",
+	"results": [
+		{
+			"definition": "a certain degree of unwillingness",
+			"partOfSpeech": "noun",
+			"synonyms": ["disinclination", "hesitancy", "hesitation", "reluctance"],
+			"typeOf": ["unwillingness", "involuntariness"],
+			"hasTypes": ["sloth", "slothfulness"],
+			"derivation": ["indispose"],
+			"examples": ["his hesitancy revealed his basic indisposition"]
+		},
+		{
+			"definition": "a slight illness",
+			"partOfSpeech": "noun",
+			"typeOf": ["illness", "malady", "unwellness", "sickness"],
+			"derivation": ["indispose"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "dis", "po", "si", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u026and\u026asp\u0259'z\u026a\u0283\u0259n"
+	},
+	"frequency": 2.08
+}

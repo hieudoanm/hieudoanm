@@ -1,0 +1,33 @@
+{
+	"word": "whoremaster",
+	"results": [
+		{
+			"definition": "a prostitute's customer",
+			"partOfSpeech": "noun",
+			"synonyms": ["john", "trick", "whoremonger"],
+			"typeOf": ["customer", "client"]
+		},
+		{
+			"definition": "a pimp who procures whores",
+			"partOfSpeech": "noun",
+			"synonyms": ["whoremonger"],
+			"typeOf": [
+				"procurer",
+				"pimp",
+				"ponce",
+				"fancy man",
+				"pandar",
+				"pander",
+				"panderer"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["whore", "mas", "ter"]
+	},
+	"pronunciation": {
+		"all": "'ho\u028ar,m\u00e6st\u0259r"
+	},
+	"frequency": 2.12
+}

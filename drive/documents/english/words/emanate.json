@@ -1,0 +1,28 @@
+{
+	"word": "emanate",
+	"results": [
+		{
+			"definition": "give out (breath or an odor)",
+			"partOfSpeech": "verb",
+			"synonyms": ["exhale", "give forth"],
+			"typeOf": ["pass off", "breathe", "emit"],
+			"derivation": ["emanation"]
+		},
+		{
+			"definition": "proceed or issue forth, as from a source",
+			"partOfSpeech": "verb",
+			"typeOf": ["come", "come up"],
+			"hasTypes": ["effuse", "flow out"],
+			"derivation": ["emanation"],
+			"examples": ["Water emanates from this hole in the ground"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["em", "a", "nate"]
+	},
+	"pronunciation": {
+		"all": "'\u025bm\u0259,ne\u026at"
+	},
+	"frequency": 2.27
+}

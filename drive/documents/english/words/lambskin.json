@@ -1,0 +1,26 @@
+{
+	"word": "lambskin",
+	"results": [
+		{
+			"definition": "skin of a sheep or goat prepared for writing on",
+			"partOfSpeech": "noun",
+			"synonyms": ["parchment", "sheepskin"],
+			"typeOf": ["animal skin"],
+			"hasTypes": ["vellum"]
+		},
+		{
+			"definition": "the skin of a lamb with the wool still on",
+			"partOfSpeech": "noun",
+			"typeOf": ["fur", "pelt"],
+			"hasTypes": ["broadtail", "persian lamb"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["lamb", "skin"]
+	},
+	"pronunciation": {
+		"all": "'l\u00e6m,sk\u026an"
+	},
+	"frequency": 1.82
+}

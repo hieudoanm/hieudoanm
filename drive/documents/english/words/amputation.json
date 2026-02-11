@@ -1,0 +1,29 @@
+{
+	"word": "amputation",
+	"results": [
+		{
+			"definition": "a condition of disability resulting from the loss of one or more limbs",
+			"partOfSpeech": "noun",
+			"typeOf": ["disability", "disablement", "handicap", "impairment"],
+			"derivation": ["amputate"]
+		},
+		{
+			"definition": "a surgical removal of all or part of a limb",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"operation",
+				"surgery",
+				"surgical operation",
+				"surgical procedure",
+				"surgical process"
+			],
+			"derivation": ["amputate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["am", "pu", "ta", "tion"]
+	},
+	"pronunciation": ",\u00e6mpj\u028c'te\u026a\u0283\u028cn",
+	"frequency": 2.77
+}

@@ -1,0 +1,30 @@
+{
+	"word": "davenport",
+	"results": [
+		{
+			"definition": "a city in eastern Iowa on the Mississippi River across from Moline and Rock Island",
+			"partOfSpeech": "noun",
+			"instanceOf": ["metropolis", "city", "urban center"],
+			"partOf": ["ia", "hawkeye state", "ia.", "iowa"]
+		},
+		{
+			"definition": "a large sofa usually convertible into a bed",
+			"partOfSpeech": "noun",
+			"typeOf": ["convertible", "sofa bed"],
+			"hasTypes": ["chesterfield"]
+		},
+		{
+			"definition": "a small decorative writing desk",
+			"partOfSpeech": "noun",
+			"typeOf": ["desk"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["dav", "en", "port"]
+	},
+	"pronunciation": {
+		"all": "'d\u00e6v\u0259n,po\u028art"
+	},
+	"frequency": 3.06
+}

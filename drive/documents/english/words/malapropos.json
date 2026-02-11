@@ -1,0 +1,26 @@
+{
+	"word": "malapropos",
+	"results": [
+		{
+			"definition": "at an inconvenient time",
+			"partOfSpeech": "adverb",
+			"synonyms": ["inopportunely"],
+			"examples": ["she answered malapropos"]
+		},
+		{
+			"definition": "of an inappropriate or incorrectly applied nature",
+			"partOfSpeech": "adjective",
+			"also": ["inappropriate"],
+			"attribute": ["appropriateness"],
+			"similarTo": ["inapposite", "out of place"],
+			"antonyms": ["apropos"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mal", "ap", "ro", "pos"]
+	},
+	"pronunciation": {
+		"all": ",m\u00e6l\u00e6pr\u0259'po\u028a"
+	}
+}

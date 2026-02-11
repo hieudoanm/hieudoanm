@@ -1,0 +1,33 @@
+{
+	"word": "judiciousness",
+	"results": [
+		{
+			"definition": "the trait of forming opinions by distinguishing and evaluating",
+			"partOfSpeech": "noun",
+			"synonyms": ["sagaciousness", "sagacity"],
+			"typeOf": ["wisdom", "wiseness"],
+			"derivation": ["judicious"]
+		},
+		{
+			"definition": "good judgment",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"judgment",
+				"discernment",
+				"sagaciousness",
+				"sagacity",
+				"judgement"
+			],
+			"hasTypes": ["care", "caution", "forethought", "precaution"],
+			"antonyms": ["injudiciousness"],
+			"derivation": ["judicious"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ju", "di", "cious", "ness"]
+	},
+	"pronunciation": {
+		"all": "d\u0292u'd\u026a\u0283\u0259sn\u025bs"
+	}
+}

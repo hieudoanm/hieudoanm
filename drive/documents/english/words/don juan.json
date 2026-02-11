@@ -1,0 +1,19 @@
+{
+	"word": "don juan",
+	"results": [
+		{
+			"definition": "a legendary Spanish nobleman and philanderer who became the hero of many poems and plays and operas",
+			"partOfSpeech": "noun",
+			"instanceOf": ["noble", "nobleman", "lord"]
+		},
+		{
+			"definition": "any successful womanizer (after the legendary profligate Spanish nobleman)",
+			"partOfSpeech": "noun",
+			"inRegion": ["espana", "kingdom of spain", "spain"],
+			"typeOf": ["womanizer", "womaniser", "philanderer"]
+		}
+	],
+	"pronunciation": {
+		"all": "d\u0251n_hw\u0251n"
+	}
+}

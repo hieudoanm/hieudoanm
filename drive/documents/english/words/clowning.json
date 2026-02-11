@@ -1,0 +1,35 @@
+{
+	"word": "clowning",
+	"results": [
+		{
+			"definition": "a comic incident or series of incidents",
+			"partOfSpeech": "noun",
+			"synonyms": ["comedy", "drollery", "funniness"],
+			"typeOf": ["fun", "play", "sport"],
+			"derivation": ["clown"]
+		},
+		{
+			"definition": "acting like a clown or buffoon",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"buffoonery",
+				"frivolity",
+				"harlequinade",
+				"japery",
+				"prank"
+			],
+			"typeOf": [
+				"indulgence",
+				"lunacy",
+				"tomfoolery",
+				"folly",
+				"foolery",
+				"craziness"
+			],
+			"hasTypes": ["shtick", "shtik", "schtick", "schtik"],
+			"derivation": ["clown"]
+		}
+	],
+	"pronunciation": "'kla\u028an\u026a\u014b",
+	"frequency": 2.91
+}

@@ -1,0 +1,30 @@
+{
+	"word": "palatinate",
+	"results": [
+		{
+			"definition": "a territory in southwestern Germany formerly ruled by the counts palatine",
+			"partOfSpeech": "noun",
+			"synonyms": ["pfalz"],
+			"instanceOf": [
+				"territorial dominion",
+				"district",
+				"territory",
+				"dominion"
+			],
+			"partOf": ["deutschland", "federal republic of germany", "frg", "germany"]
+		},
+		{
+			"definition": "a territory under the jurisdiction of a count palatine",
+			"partOfSpeech": "noun",
+			"typeOf": ["dominion", "territorial dominion", "district", "territory"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pa", "lat", "i", "nate"]
+	},
+	"pronunciation": {
+		"all": "p\u0259'l\u00e6t\u026a,ne\u026at"
+	},
+	"frequency": 1.73
+}

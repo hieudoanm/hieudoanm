@@ -1,0 +1,22 @@
+{
+	"word": "quantification",
+	"results": [
+		{
+			"definition": "a limitation imposed on the variables of a proposition (as by the quantifiers `some' or `all' or `no')",
+			"partOfSpeech": "noun",
+			"typeOf": ["limitation", "restriction"],
+			"partOf": ["functional calculus", "predicate calculus"],
+			"derivation": ["quantify"]
+		},
+		{
+			"definition": "the act of discovering or expressing the quantity of something",
+			"partOfSpeech": "noun",
+			"typeOf": ["measure", "measurement", "measuring", "mensuration"],
+			"hasTypes": ["gradation", "graduation"],
+			"derivation": ["quantify"]
+		}
+	],
+	"pronunciation": {
+		"all": ",kw\u0251nt\u026af\u026a'ke\u026a\u0283\u0259n"
+	}
+}

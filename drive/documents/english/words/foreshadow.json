@@ -1,0 +1,34 @@
+{
+	"word": "foreshadow",
+	"results": [
+		{
+			"definition": "indicate, as with a sign or an omen",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"augur",
+				"auspicate",
+				"betoken",
+				"bode",
+				"forecast",
+				"foretell",
+				"omen",
+				"portend",
+				"predict",
+				"prefigure",
+				"presage",
+				"prognosticate"
+			],
+			"typeOf": ["indicate", "betoken", "point", "signal", "bespeak"],
+			"hasTypes": ["foreshow", "threaten"],
+			"derivation": ["foreshadowing"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["fore", "shad", "ow"]
+	},
+	"pronunciation": {
+		"all": "fo\u028ar'\u0283\u00e6do\u028a"
+	},
+	"frequency": 1.82
+}

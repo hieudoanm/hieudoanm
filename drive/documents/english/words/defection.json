@@ -1,0 +1,34 @@
+{
+	"word": "defection",
+	"results": [
+		{
+			"definition": "withdrawing support or help despite allegiance or responsibility",
+			"partOfSpeech": "noun",
+			"synonyms": ["abandonment", "desertion"],
+			"typeOf": ["withdrawal"],
+			"hasTypes": [
+				"decampment",
+				"abscondment",
+				"unauthorized absence",
+				"deviationism",
+				"absence without leave"
+			],
+			"derivation": ["defect"]
+		},
+		{
+			"definition": "the state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes)",
+			"partOfSpeech": "noun",
+			"synonyms": ["apostasy", "renunciation"],
+			"typeOf": ["rejection"],
+			"derivation": ["defect"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["de", "fec", "tion"]
+	},
+	"pronunciation": {
+		"all": "d\u026a'f\u025bk\u0283\u0259n"
+	},
+	"frequency": 2.2
+}

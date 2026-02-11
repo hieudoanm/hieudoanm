@@ -1,0 +1,37 @@
+{
+	"word": "cosmonaut",
+	"results": [
+		{
+			"definition": "a person trained to travel in a spacecraft",
+			"partOfSpeech": "noun",
+			"synonyms": ["astronaut", "spaceman"],
+			"typeOf": ["traveler", "traveller"],
+			"hasTypes": ["spacewalker"],
+			"hasInstances": [
+				"gagarin",
+				"glenn",
+				"john glenn",
+				"john herschel glenn jr.",
+				"neil armstrong",
+				"shepard",
+				"tereshkova",
+				"valentina tereshkova",
+				"valentina vladmirovna tereshkova",
+				"yuri alekseyevich gagarin",
+				"alan bartlett shepard jr.",
+				"yuri gagarin",
+				"alan shepard",
+				"armstrong"
+			],
+			"examples": ["the Russians called their astronauts cosmonauts"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cos", "mo", "naut"]
+	},
+	"pronunciation": {
+		"all": "'k\u0251zm\u0259,n\u0254t"
+	},
+	"frequency": 2.57
+}

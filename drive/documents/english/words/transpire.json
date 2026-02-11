@@ -1,0 +1,55 @@
+{
+	"word": "transpire",
+	"results": [
+		{
+			"definition": "pass through the tissue or substance or its pores or interstices, as of gas",
+			"partOfSpeech": "verb",
+			"synonyms": ["transpirate"],
+			"typeOf": ["flux", "flow"],
+			"derivation": ["transpiration"]
+		},
+		{
+			"definition": "come about, happen, or occur",
+			"partOfSpeech": "verb",
+			"typeOf": [
+				"hap",
+				"come about",
+				"take place",
+				"pass off",
+				"pass",
+				"fall out",
+				"occur",
+				"happen",
+				"go on"
+			],
+			"examples": ["Several important events transpired last week"]
+		},
+		{
+			"definition": "come to light; become known",
+			"partOfSpeech": "verb",
+			"typeOf": ["change"],
+			"examples": ["It transpired that she had worked as spy in East Germany"]
+		},
+		{
+			"definition": "exude water vapor",
+			"partOfSpeech": "verb",
+			"typeOf": ["vaporise", "evaporate", "vaporize"],
+			"derivation": ["transpiration"],
+			"examples": ["plants transpire"]
+		},
+		{
+			"definition": "give off (water) through the skin",
+			"partOfSpeech": "verb",
+			"typeOf": ["exude", "transude", "exudate", "ooze", "ooze out"],
+			"derivation": ["transpiration"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["tran", "spire"]
+	},
+	"pronunciation": {
+		"all": "tr\u00e6n'spa\u026a\u0259r"
+	},
+	"frequency": 2.33
+}

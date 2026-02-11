@@ -1,0 +1,37 @@
+{
+	"word": "whaler",
+	"results": [
+		{
+			"definition": "a ship engaged in whale fishing",
+			"partOfSpeech": "noun",
+			"synonyms": ["whaling ship"],
+			"typeOf": ["ship"],
+			"hasTypes": ["factory ship"],
+			"derivation": ["whale"]
+		},
+		{
+			"definition": "a seaman who works on a ship that hunts whales",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"tar",
+				"gob",
+				"jack",
+				"jack-tar",
+				"mariner",
+				"old salt",
+				"sea dog",
+				"seafarer",
+				"seaman"
+			],
+			"derivation": ["whale"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["whal", "er"]
+	},
+	"pronunciation": {
+		"all": "'hwe\u026al\u0259r"
+	},
+	"frequency": 2.43
+}

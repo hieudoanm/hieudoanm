@@ -1,0 +1,28 @@
+{
+	"word": "millilitre",
+	"results": [
+		{
+			"definition": "a metric unit of volume equal to one thousandth of a liter",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"cc",
+				"cubic centimeter",
+				"cubic centimetre",
+				"mil",
+				"milliliter",
+				"ml"
+			],
+			"typeOf": ["metric capacity unit"],
+			"hasParts": ["cubic millimeter", "cubic millimetre"],
+			"partOf": ["centiliter", "centilitre", "cl"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mil", "li", "li", "tre"]
+	},
+	"pronunciation": {
+		"all": "'m\u026al\u026a,lit\u0259r"
+	},
+	"frequency": 1.82
+}

@@ -1,0 +1,48 @@
+{
+	"word": "intonation",
+	"results": [
+		{
+			"definition": "rise and fall of the voice pitch",
+			"partOfSpeech": "noun",
+			"synonyms": ["modulation", "pitch contour"],
+			"typeOf": ["prosody", "inflection"],
+			"hasTypes": [
+				"droning",
+				"intonation pattern",
+				"monotone",
+				"singsong",
+				"drone"
+			],
+			"derivation": ["intonate", "intone"]
+		},
+		{
+			"definition": "the act of singing in a monotonous tone",
+			"partOfSpeech": "noun",
+			"synonyms": ["chanting"],
+			"typeOf": ["vocalizing", "singing"],
+			"hasTypes": ["cantillation"],
+			"derivation": ["intone", "intonate"]
+		},
+		{
+			"definition": "singing by a soloist of the opening piece of plainsong",
+			"partOfSpeech": "noun",
+			"typeOf": ["vocalizing", "singing"],
+			"derivation": ["intonate", "intone"]
+		},
+		{
+			"definition": "the production of musical tones (by voice or instrument); especially the exactitude of the pitch relations",
+			"partOfSpeech": "noun",
+			"typeOf": ["music"],
+			"hasTypes": ["fixed intonation"],
+			"derivation": ["intone", "intonate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "to", "na", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u026anto\u028a'ne\u026a\u0283\u0259n"
+	},
+	"frequency": 2.45
+}

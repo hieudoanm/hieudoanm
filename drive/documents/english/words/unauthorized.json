@@ -1,0 +1,32 @@
+{
+	"word": "unauthorized",
+	"results": [
+		{
+			"definition": "without official authorization",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unauthorised", "wildcat"],
+			"similarTo": ["unofficial"],
+			"examples": ["an unauthorized strike"]
+		},
+		{
+			"definition": "not endowed with authority",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unauthorised"],
+			"also": ["illegitimate", "unofficial"],
+			"attribute": ["mandate", "authorisation", "authorization"],
+			"similarTo": [
+				"unaccredited",
+				"unlicenced",
+				"unlicensed",
+				"self-appointed"
+			],
+			"antonyms": ["authorized"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "au", "thor", "ized"]
+	},
+	"pronunciation": "\u028cn'\u0254\u03b8\u025dr,a\u026azd",
+	"frequency": 3.06
+}

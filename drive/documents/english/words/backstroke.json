@@ -1,0 +1,26 @@
+{
+	"word": "backstroke",
+	"results": [
+		{
+			"definition": "a swimming stroke that resembles the crawl except the swimmer lies on his or her back",
+			"partOfSpeech": "noun",
+			"typeOf": ["swimming stroke"],
+			"hasParts": ["flutter kick"]
+		},
+		{
+			"definition": "swim on one's back",
+			"partOfSpeech": "verb",
+			"inCategory": ["aquatics", "water sport"],
+			"typeOf": ["swim"],
+			"derivation": ["backstroker"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["back", "stroke"]
+	},
+	"pronunciation": {
+		"all": "'b\u00e6k,stro\u028ak"
+	},
+	"frequency": 2.36
+}

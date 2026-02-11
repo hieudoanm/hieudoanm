@@ -1,0 +1,27 @@
+{
+	"word": "asteroid",
+	"results": [
+		{
+			"definition": "shaped like a star",
+			"partOfSpeech": "adjective",
+			"synonyms": ["star-shaped"],
+			"similarTo": ["angular", "angulate"]
+		},
+		{
+			"definition": "any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)",
+			"partOfSpeech": "noun",
+			"typeOf": ["planetoid", "minor planet"],
+			"hasTypes": ["chiron"],
+			"hasInstances": ["pluto", "vesta", "apollo asteroid", "ceres", "pallas"],
+			"derivation": ["asteroidal"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["as", "ter", "oid"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6st\u0259,r\u0254\u026ad"
+	},
+	"frequency": 3.34
+}

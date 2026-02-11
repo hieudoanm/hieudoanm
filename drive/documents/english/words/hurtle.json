@@ -1,0 +1,33 @@
+{
+	"word": "hurtle",
+	"results": [
+		{
+			"definition": "make a thrusting forward movement",
+			"partOfSpeech": "verb",
+			"synonyms": ["hurl", "lunge", "thrust"],
+			"typeOf": ["move"],
+			"hasTypes": ["dart", "riposte"]
+		},
+		{
+			"definition": "throw forcefully",
+			"partOfSpeech": "verb",
+			"synonyms": ["cast", "hurl"],
+			"typeOf": ["throw"],
+			"hasTypes": ["crash", "precipitate", "bowl", "dash", "sling", "catapult"]
+		},
+		{
+			"definition": "move with or as if with a rushing sound",
+			"partOfSpeech": "verb",
+			"typeOf": ["travel", "go", "locomote", "move"],
+			"examples": ["The cars hurtled by"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hur", "tle"]
+	},
+	"pronunciation": {
+		"all": "'h\u025crt\u0259l"
+	},
+	"frequency": 2.24
+}

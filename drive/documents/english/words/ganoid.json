@@ -1,0 +1,36 @@
+{
+	"word": "ganoid",
+	"results": [
+		{
+			"definition": "primitive fishes having thick bony scales with a shiny covering",
+			"partOfSpeech": "noun",
+			"synonyms": ["ganoid fish"],
+			"typeOf": ["teleostan", "teleost fish", "teleost"],
+			"hasTypes": [
+				"chinese paddlefish",
+				"dogfish",
+				"duckbill",
+				"gar",
+				"garfish",
+				"garpike",
+				"amia calva",
+				"lepisosteus osseus",
+				"paddlefish",
+				"polyodon spathula",
+				"psephurus gladis",
+				"sturgeon",
+				"grindle",
+				"billfish",
+				"bowfin"
+			],
+			"memberOf": ["order ganoidei", "ganoidei"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gan", "oid"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6n\u0254\u026ad"
+	}
+}

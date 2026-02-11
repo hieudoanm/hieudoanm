@@ -1,0 +1,33 @@
+{
+	"word": "peyote",
+	"results": [
+		{
+			"definition": "the hallucinatory alkaloid that is the active agent in mescal buttons",
+			"partOfSpeech": "noun",
+			"synonyms": ["mescaline"],
+			"typeOf": [
+				"psychedelic drug",
+				"hallucinogenic drug",
+				"hallucinogen",
+				"psychodelic drug"
+			],
+			"substanceOf": ["sacred mushroom", "magic mushroom", "mescal button"]
+		},
+		{
+			"definition": "a small spineless globe-shaped cactus; source of mescal buttons",
+			"partOfSpeech": "noun",
+			"synonyms": ["lophophora williamsii", "mescal", "mezcal"],
+			"typeOf": ["cactus"],
+			"memberOf": ["genus lophophora", "lophophora"],
+			"hasParts": ["mescal button", "sacred mushroom", "magic mushroom"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["pe", "yo", "te"]
+	},
+	"pronunciation": {
+		"all": "pe\u026a'o\u028ati"
+	},
+	"frequency": 2.68
+}

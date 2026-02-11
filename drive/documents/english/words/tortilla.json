@@ -1,0 +1,31 @@
+{
+	"word": "tortilla",
+	"results": [
+		{
+			"definition": "thin unleavened pancake made from cornmeal or wheat flour",
+			"partOfSpeech": "noun",
+			"inRegion": ["mexico", "united mexican states"],
+			"typeOf": [
+				"flannel cake",
+				"flapcake",
+				"flapjack",
+				"griddlecake",
+				"hot cake",
+				"hotcake",
+				"pancake",
+				"battercake",
+				"flannel-cake"
+			],
+			"hasTypes": ["tostada"],
+			"partOf": ["wrap"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["tor", "til", "la"]
+	},
+	"pronunciation": {
+		"all": "t\u0254r'ti\u0259"
+	},
+	"frequency": 3.04
+}

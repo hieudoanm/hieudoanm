@@ -1,0 +1,27 @@
+{
+	"word": "collate",
+	"results": [
+		{
+			"definition": "compare critically; of texts",
+			"partOfSpeech": "verb",
+			"typeOf": ["compare"],
+			"derivation": ["collation"]
+		},
+		{
+			"definition": "to assemble in proper sequence",
+			"partOfSpeech": "verb",
+			"entails": ["collect", "garner", "gather", "pull together"],
+			"typeOf": ["order"],
+			"derivation": ["collation"],
+			"examples": ["collate the papers"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["col", "late"]
+	},
+	"pronunciation": {
+		"all": "k\u0251'le\u026at"
+	},
+	"frequency": 2.08
+}

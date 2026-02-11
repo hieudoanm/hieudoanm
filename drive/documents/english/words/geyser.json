@@ -1,0 +1,30 @@
+{
+	"word": "geyser",
+	"results": [
+		{
+			"definition": "a spring that discharges hot water and steam",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"fountain",
+				"natural spring",
+				"outflow",
+				"outpouring",
+				"spring"
+			],
+			"hasInstances": ["old faithful"]
+		},
+		{
+			"definition": "to overflow like a geyser",
+			"partOfSpeech": "verb",
+			"typeOf": ["well over", "brim over", "overflow", "overrun", "run over"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gey", "ser"]
+	},
+	"pronunciation": {
+		"all": "'\u0261a\u026az\u0259r"
+	},
+	"frequency": 2.69
+}

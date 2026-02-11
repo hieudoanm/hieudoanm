@@ -1,0 +1,28 @@
+{
+	"word": "featherweight",
+	"results": [
+		{
+			"definition": "an amateur boxer who weighs no more than 126 pounds",
+			"partOfSpeech": "noun",
+			"typeOf": ["pugilist", "boxer"]
+		},
+		{
+			"definition": "a professional boxer who weighs between 123 and 126 pounds",
+			"partOfSpeech": "noun",
+			"typeOf": ["prizefighter", "gladiator"]
+		},
+		{
+			"definition": "weighs 126-139 pounds",
+			"partOfSpeech": "noun",
+			"typeOf": ["matman", "grappler", "wrestler"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["feath", "er", "weight"]
+	},
+	"pronunciation": {
+		"all": "'f\u025b\u00f0\u0259r,we\u026at"
+	},
+	"frequency": 2.27
+}

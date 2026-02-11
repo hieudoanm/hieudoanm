@@ -1,0 +1,27 @@
+{
+	"word": "xi",
+	"results": [
+		{
+			"definition": "the cardinal number that is the sum of ten and one",
+			"partOfSpeech": "noun",
+			"synonyms": ["11", "eleven"],
+			"typeOf": ["large integer"]
+		},
+		{
+			"definition": "being one more than ten",
+			"partOfSpeech": "adjective",
+			"synonyms": ["11", "eleven"],
+			"similarTo": ["cardinal"]
+		},
+		{
+			"definition": "the 14th letter of the Greek alphabet",
+			"partOfSpeech": "noun",
+			"typeOf": ["alphabetic character", "letter", "letter of the alphabet"],
+			"memberOf": ["greek alphabet"]
+		}
+	],
+	"pronunciation": {
+		"all": "za\u026a"
+	},
+	"frequency": 3.46
+}

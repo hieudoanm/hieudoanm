@@ -1,0 +1,39 @@
+{
+	"word": "gumption",
+	"results": [
+		{
+			"definition": "fortitude and determination",
+			"partOfSpeech": "noun",
+			"synonyms": ["backbone", "grit", "guts", "moxie", "sand"],
+			"usageOf": ["colloquialism"],
+			"typeOf": ["fortitude"]
+		},
+		{
+			"definition": "sound practical judgment",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"common sense",
+				"good sense",
+				"horse sense",
+				"mother wit",
+				"sense"
+			],
+			"typeOf": [
+				"judgement",
+				"judgment",
+				"sagacity",
+				"discernment",
+				"sagaciousness"
+			],
+			"hasTypes": ["road sense", "logic", "nous"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gump", "tion"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u0259mp\u0283\u0259n"
+	},
+	"frequency": 2.36
+}

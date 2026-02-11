@@ -1,0 +1,30 @@
+{
+	"word": "correlation coefficient",
+	"results": [
+		{
+			"definition": "a statistic representing how closely two variables co-vary; it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation)",
+			"partOfSpeech": "noun",
+			"synonyms": ["coefficient of correlation", "correlation"],
+			"inCategory": ["statistics"],
+			"typeOf": ["parametric statistic"],
+			"hasTypes": [
+				"chance-half correlation",
+				"multiple correlation coefficient",
+				"pearson product-moment correlation coefficient",
+				"product-moment correlation coefficient",
+				"split-half correlation",
+				"tetrachoric correlation",
+				"biserial correlation",
+				"tetrachoric correlation coefficient",
+				"biserial correlation coefficient"
+			]
+		}
+	],
+	"syllables": {
+		"count": 7,
+		"list": ["cor", "re", "la", "tion co", "ef", "fi", "cient"]
+	},
+	"pronunciation": {
+		"all": ",k\u0254r\u0259'le\u026a\u0283\u0259n_,ko\u028a\u0259'f\u026a\u0283\u0259nt"
+	}
+}

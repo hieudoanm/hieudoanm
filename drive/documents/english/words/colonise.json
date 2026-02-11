@@ -1,0 +1,28 @@
+{
+	"word": "colonise",
+	"results": [
+		{
+			"definition": "settle as colonists or establish a colony (in)",
+			"partOfSpeech": "verb",
+			"synonyms": ["colonize"],
+			"typeOf": ["locate", "settle"],
+			"derivation": ["colonisation", "colony"]
+		},
+		{
+			"definition": "settle as a colony; of countries in the developing world",
+			"partOfSpeech": "verb",
+			"synonyms": ["colonize"],
+			"typeOf": ["annex"],
+			"antonyms": ["decolonise"],
+			"derivation": ["colonisation", "coloniser", "colony"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["col", "o", "nise"]
+	},
+	"pronunciation": {
+		"all": "'k\u0251l\u0259,na\u026az"
+	},
+	"frequency": 1.6
+}

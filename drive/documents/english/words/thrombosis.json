@@ -1,0 +1,29 @@
+{
+	"word": "thrombosis",
+	"results": [
+		{
+			"definition": "the formation or presence of a thrombus (a clot of coagulated blood attached at the site of its formation) in a blood vessel",
+			"partOfSpeech": "noun",
+			"typeOf": ["occlusion"],
+			"hasTypes": [
+				"coronary",
+				"coronary thrombosis",
+				"milk leg",
+				"phlebothrombosis",
+				"phlegmasia alba dolens",
+				"white leg",
+				"cerebral thrombosis",
+				"venous thrombosis"
+			],
+			"hasParts": ["thrombus"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["throm", "bo", "sis"]
+	},
+	"pronunciation": {
+		"all": "\u03b8r\u0251m'bo\u028as\u026as"
+	},
+	"frequency": 2.24
+}

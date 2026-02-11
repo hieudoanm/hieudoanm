@@ -1,0 +1,26 @@
+{
+	"word": "matriculate",
+	"results": [
+		{
+			"definition": "enroll as a student",
+			"partOfSpeech": "verb",
+			"typeOf": ["enroll", "inscribe", "recruit", "enrol", "enter"],
+			"derivation": ["matriculation"]
+		},
+		{
+			"definition": "someone who has been admitted to a college or university",
+			"partOfSpeech": "noun",
+			"typeOf": ["university student", "college student"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ma", "tric", "u", "late"]
+	},
+	"pronunciation": {
+		"all": "m\u0259'trikj\u028a,le\u026at",
+		"noun": "m\u0259'tr\u026akj\u0259l\u026at",
+		"verb": "m\u0259'tr\u026akj\u0259,le\u026at"
+	},
+	"frequency": 1.97
+}

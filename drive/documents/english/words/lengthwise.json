@@ -1,0 +1,34 @@
+{
+	"word": "lengthwise",
+	"results": [
+		{
+			"definition": "in the direction of the length",
+			"partOfSpeech": "adverb",
+			"synonyms": ["lengthways", "longitudinally", "longways", "longwise"],
+			"examples": ["He cut the paper lengthwise"]
+		},
+		{
+			"definition": "running or extending in the direction of the length of a thing",
+			"partOfSpeech": "adjective",
+			"synonyms": ["lengthways"],
+			"similarTo": [
+				"axial",
+				"end-to-end",
+				"fore-and-aft",
+				"linear",
+				"longitudinal",
+				"running"
+			],
+			"antonyms": ["crosswise"],
+			"examples": ["the lengthwise dimension"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["length", "wise"]
+	},
+	"pronunciation": {
+		"all": "'l\u025b\u014bk\u03b8,wa\u026az"
+	},
+	"frequency": 2.2
+}

@@ -1,0 +1,35 @@
+{
+	"word": "annex",
+	"results": [
+		{
+			"definition": "an addition that extends a main building",
+			"partOfSpeech": "noun",
+			"synonyms": ["annexe", "extension", "wing"],
+			"typeOf": ["addition", "add-on", "improver"],
+			"hasTypes": ["ell"],
+			"partOf": ["building", "edifice"]
+		},
+		{
+			"definition": "attach to",
+			"partOfSpeech": "verb",
+			"typeOf": ["append", "add on", "affix", "supplement"]
+		},
+		{
+			"definition": "take (territory) as if by conquest",
+			"partOfSpeech": "verb",
+			"typeOf": ["seize", "take over", "arrogate", "assume", "usurp"],
+			"hasTypes": ["colonise", "colonize"],
+			"examples": ["Hitler annexed Lithuania"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["an", "nex"]
+	},
+	"pronunciation": {
+		"all": "\u00e6'n\u025bks",
+		"noun": "'\u00e6n\u025bks",
+		"verb": "\u0259'n\u025bks"
+	},
+	"frequency": 2.82
+}

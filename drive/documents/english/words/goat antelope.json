@@ -1,0 +1,31 @@
+{
+	"word": "goat antelope",
+	"results": [
+		{
+			"definition": "bovid related to goats but having antelope-like features: mountain goats; gorals; serows; chamois; gnu goats",
+			"partOfSpeech": "noun",
+			"typeOf": ["bovid"],
+			"hasTypes": [
+				"budorcas taxicolor",
+				"chamois",
+				"takin",
+				"rupicapra rupicapra",
+				"serow",
+				"gnu goat",
+				"goral",
+				"mountain goat",
+				"naemorhedus goral",
+				"oreamnos americanus",
+				"rocky mountain goat"
+			],
+			"memberOf": ["family bovidae", "bovidae"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["goat an", "te", "lope"]
+	},
+	"pronunciation": {
+		"all": "\u0261o\u028at_'\u00e6n,t\u0259lo\u028ap"
+	}
+}

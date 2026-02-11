@@ -1,0 +1,25 @@
+{
+	"word": "arcadia",
+	"results": [
+		{
+			"definition": "a department of Greece in the central Peloponnese",
+			"partOfSpeech": "noun",
+			"instanceOf": [
+				"geographical area",
+				"geographical region",
+				"geographic area",
+				"geographic region"
+			],
+			"hasMembers": ["arcadian"],
+			"partOf": ["ellas", "greece", "hellenic republic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ar", "ca", "di", "a"]
+	},
+	"pronunciation": {
+		"all": "\u0251r'ke\u026adi\u0259"
+	},
+	"frequency": 2.76
+}

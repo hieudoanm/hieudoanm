@@ -1,0 +1,33 @@
+{
+	"word": "abbess",
+	"results": [
+		{
+			"definition": "the superior of a group of nuns",
+			"partOfSpeech": "noun",
+			"synonyms": ["mother superior", "prioress"],
+			"typeOf": ["superior"],
+			"hasTypes": ["mother"],
+			"hasInstances": [
+				"brigid",
+				"heloise",
+				"saint bride",
+				"bride",
+				"saint brigid",
+				"st. bride",
+				"st. bridget",
+				"st. brigid",
+				"saint bridget",
+				"bridget"
+			],
+			"derivation": ["abbatial"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ab", "bess"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6b\u026as"
+	},
+	"frequency": 2.47
+}

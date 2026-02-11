@@ -1,0 +1,42 @@
+{
+	"word": "inferiority",
+	"results": [
+		{
+			"definition": "an inferior quality",
+			"partOfSpeech": "noun",
+			"synonyms": ["low quality"],
+			"typeOf": ["quality", "caliber", "calibre"],
+			"hasTypes": [
+				"wretchedness",
+				"poorness",
+				"scrawniness",
+				"scrubbiness",
+				"second class"
+			],
+			"antonyms": ["superiority"],
+			"derivation": ["inferior"]
+		},
+		{
+			"definition": "the state of being inferior",
+			"partOfSpeech": "noun",
+			"synonyms": ["lower rank", "lower status"],
+			"typeOf": ["low status", "lowliness", "lowness"],
+			"hasTypes": ["subordinateness", "shade", "subsidiarity", "backseat"],
+			"derivation": ["inferior"]
+		},
+		{
+			"definition": "the quality of being a competitive disadvantage",
+			"partOfSpeech": "noun",
+			"synonyms": ["unfavorable position"],
+			"typeOf": ["disadvantage"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["in", "fe", "ri", "or", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "\u026an,firi'\u0254r\u026ati"
+	},
+	"frequency": 2.84
+}

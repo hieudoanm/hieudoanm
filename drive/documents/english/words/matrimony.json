@@ -1,0 +1,43 @@
+{
+	"word": "matrimony",
+	"results": [
+		{
+			"definition": "the state of being a married couple voluntarily joined for life (or until divorce)",
+			"partOfSpeech": "noun",
+			"synonyms": ["marriage", "spousal relationship", "union", "wedlock"],
+			"inCategory": ["jurisprudence", "law"],
+			"typeOf": ["marital status"],
+			"hasTypes": [
+				"exogamy",
+				"inmarriage",
+				"intermarriage",
+				"marriage of convenience",
+				"misalliance",
+				"monandry",
+				"monogamousness",
+				"monogamy",
+				"open marriage",
+				"polygamy",
+				"bigamy",
+				"sigeh",
+				"common-law marriage",
+				"cuckoldom",
+				"endogamy"
+			],
+			"derivation": ["matrimonial"]
+		},
+		{
+			"definition": "the ceremony or sacrament of marriage",
+			"partOfSpeech": "noun",
+			"typeOf": ["sacrament"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mat", "ri", "mo", "ny"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6tr\u0259,mo\u028ani"
+	},
+	"frequency": 3.25
+}

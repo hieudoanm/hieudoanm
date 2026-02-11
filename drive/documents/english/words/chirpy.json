@@ -1,0 +1,31 @@
+{
+	"word": "chirpy",
+	"results": [
+		{
+			"definition": "characterized by liveliness and lightheartedness",
+			"partOfSpeech": "adjective",
+			"synonyms": ["buoyant", "perky"],
+			"similarTo": ["cheerful"],
+			"derivation": ["chirpiness"],
+			"examples": [
+				"his quick wit and chirpy humor",
+				"looking bright and well and chirpy"
+			]
+		},
+		{
+			"definition": "(birds or insects) characterized by or tending to chirp",
+			"partOfSpeech": null,
+			"pertainsTo": ["chirp"],
+			"derivation": ["chirp"],
+			"inCategory": ["bird", "insect"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["chirp", "y"]
+	},
+	"pronunciation": {
+		"all": "'\u02a7\u025crpi"
+	},
+	"frequency": 2.33
+}

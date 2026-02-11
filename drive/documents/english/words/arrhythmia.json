@@ -1,0 +1,35 @@
+{
+	"word": "arrhythmia",
+	"results": [
+		{
+			"definition": "an abnormal rate of muscle contractions in the heart",
+			"partOfSpeech": "noun",
+			"synonyms": ["cardiac arrhythmia"],
+			"typeOf": ["heart disease", "cardiopathy"],
+			"hasTypes": [
+				"atrioventricular block",
+				"bradycardia",
+				"cantering rhythm",
+				"flutter",
+				"gallop rhythm",
+				"heart block",
+				"premature ventricular contraction",
+				"pvc",
+				"stokes-adams syndrome",
+				"tachycardia",
+				"adams-stokes syndrome",
+				"ventricular fibrillation",
+				"atrial fibrillation"
+			],
+			"derivation": ["arrhythmic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ar", "rhyth", "mi", "a"]
+	},
+	"pronunciation": {
+		"all": "\u0259'r\u026a\u00f0mi\u0259"
+	},
+	"frequency": 2.59
+}

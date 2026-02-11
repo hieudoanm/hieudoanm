@@ -1,0 +1,22 @@
+{
+	"word": "get even",
+	"results": [
+		{
+			"definition": "compensate; make the score equal",
+			"partOfSpeech": "verb",
+			"synonyms": ["equalise", "equalize"],
+			"typeOf": ["rack up", "tally", "score", "hit"]
+		},
+		{
+			"definition": "take revenge or even out a score",
+			"partOfSpeech": "verb",
+			"synonyms": ["get back"],
+			"typeOf": ["avenge", "retaliate", "revenge"],
+			"hasTypes": ["get", "fix", "pay off", "pay back"],
+			"examples": ["I cannot accept the defeat--I want to get even"]
+		}
+	],
+	"pronunciation": {
+		"all": "\u0261\u025bt_'iv\u0259n"
+	}
+}

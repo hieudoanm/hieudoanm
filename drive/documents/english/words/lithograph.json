@@ -1,0 +1,34 @@
+{
+	"word": "lithograph",
+	"results": [
+		{
+			"definition": "duplicator that prints by lithography; a flat surface (of stone or metal) is treated to absorb or repel ink in the desired pattern",
+			"partOfSpeech": "noun",
+			"synonyms": ["lithograph machine"],
+			"typeOf": ["duplicator", "copier"],
+			"derivation": ["lithographer"]
+		},
+		{
+			"definition": "a print produced by lithography",
+			"partOfSpeech": "noun",
+			"typeOf": ["print"],
+			"hasTypes": ["photolithograph"],
+			"derivation": ["lithographer"]
+		},
+		{
+			"definition": "make by lithography",
+			"partOfSpeech": "verb",
+			"inCategory": ["art", "artistic creation", "artistic production"],
+			"typeOf": ["print"],
+			"derivation": ["lithographer"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["lith", "o", "graph"]
+	},
+	"pronunciation": {
+		"all": "'l\u026a\u03b8\u0259,gr\u00e6f"
+	},
+	"frequency": 1.6
+}

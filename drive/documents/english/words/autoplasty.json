@@ -1,0 +1,25 @@
+{
+	"word": "autoplasty",
+	"results": [
+		{
+			"definition": "tissue that is taken from one site and grafted to another site on the same person",
+			"partOfSpeech": "noun",
+			"synonyms": ["autograft"],
+			"typeOf": ["graft", "transplant"],
+			"derivation": ["autoplastic"]
+		},
+		{
+			"definition": "surgical repair by using tissue from another part of the patient's own body",
+			"partOfSpeech": "noun",
+			"typeOf": ["anaplasty", "plastic surgery", "reconstructive surgery"],
+			"derivation": ["autoplastic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["au", "to", "plas", "ty"]
+	},
+	"pronunciation": {
+		"all": "'\u0254t\u0259,pl\u00e6sti"
+	}
+}

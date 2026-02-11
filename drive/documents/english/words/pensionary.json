@@ -1,0 +1,26 @@
+{
+	"word": "pensionary",
+	"results": [
+		{
+			"definition": "the beneficiary of a pension fund",
+			"partOfSpeech": "noun",
+			"synonyms": ["pensioner"],
+			"typeOf": ["beneficiary", "donee"],
+			"hasTypes": ["old-age pensioner"],
+			"derivation": ["pension"]
+		},
+		{
+			"definition": "a person who works only for money",
+			"partOfSpeech": "noun",
+			"synonyms": ["hireling"],
+			"typeOf": ["employee"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pen", "sion", "ar", "y"]
+	},
+	"pronunciation": {
+		"all": "'p\u025bn\u0283\u0259,n\u025bri"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"word": "undependable",
+	"results": [
+		{
+			"definition": "not worthy of reliance or trust",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unreliable"],
+			"also": ["untrustworthy", "untrusty"],
+			"similarTo": ["unsound", "uncertain", "temperamental", "erratic"],
+			"antonyms": ["dependable"],
+			"derivation": ["undependability", "undependableness"],
+			"examples": ["an undependable assistant"]
+		},
+		{
+			"definition": "liable to be erroneous or misleading",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unreliable"],
+			"similarTo": ["fallible"],
+			"derivation": ["undependableness"],
+			"examples": ["an undependable generalization"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["un", "de", "pend", "a", "ble"]
+	},
+	"pronunciation": {
+		"all": ",\u0259nd\u026a'p\u025bnd\u0259b\u0259l"
+	},
+	"frequency": 1.73
+}

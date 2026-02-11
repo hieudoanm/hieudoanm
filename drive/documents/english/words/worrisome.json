@@ -1,0 +1,33 @@
+{
+	"word": "worrisome",
+	"results": [
+		{
+			"definition": "causing distress or worry or anxiety",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"distressful",
+				"distressing",
+				"disturbing",
+				"perturbing",
+				"troubling",
+				"worrying"
+			],
+			"similarTo": ["heavy"],
+			"examples": ["in a particularly worrisome predicament"]
+		},
+		{
+			"definition": "not reassuring; tending to cause anxiety",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unreassuring"],
+			"attribute": ["reassurance"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["wor", "ri", "some"]
+	},
+	"pronunciation": {
+		"all": "'w\u025cris\u0259m"
+	},
+	"frequency": 2.54
+}

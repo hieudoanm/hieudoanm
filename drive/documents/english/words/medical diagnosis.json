@@ -1,0 +1,21 @@
+{
+	"word": "medical diagnosis",
+	"results": [
+		{
+			"definition": "identification of a disease from its symptoms",
+			"partOfSpeech": "noun",
+			"typeOf": ["diagnosing", "diagnosis"],
+			"hasTypes": [
+				"prospect",
+				"differential diagnosis",
+				"medical prognosis",
+				"prognosis"
+			],
+			"hasParts": ["diagnostic technique", "diagnostic procedure"],
+			"partOf": ["medical care", "medical aid"]
+		}
+	],
+	"pronunciation": {
+		"all": "'m\u025bd\u026ak\u0259l_,da\u026a\u0259\u0261'no\u028as\u026as"
+	}
+}

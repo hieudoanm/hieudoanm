@@ -1,0 +1,32 @@
+{
+	"word": "shedding",
+	"results": [
+		{
+			"definition": "the process whereby something is shed",
+			"partOfSpeech": "noun",
+			"synonyms": ["sloughing"],
+			"typeOf": ["biological process", "organic process"],
+			"hasTypes": [
+				"abscission",
+				"moult",
+				"moulting",
+				"molting",
+				"ecdysis",
+				"molt"
+			],
+			"derivation": ["shed"]
+		},
+		{
+			"definition": "loss of bits of outer skin by peeling or shedding or coming off in scales",
+			"partOfSpeech": "noun",
+			"synonyms": ["desquamation", "peeling"],
+			"typeOf": ["organic phenomenon"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["shed", "ding"]
+	},
+	"pronunciation": "'\u0283\u025bd\u026a\u014b",
+	"frequency": 3.05
+}

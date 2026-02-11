@@ -1,0 +1,34 @@
+{
+	"word": "gummy",
+	"results": [
+		{
+			"definition": "having the sticky properties of an adhesive",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"gluey",
+				"glutinous",
+				"mucilaginous",
+				"pasty",
+				"sticky",
+				"viscid",
+				"viscous"
+			],
+			"similarTo": ["adhesive"],
+			"derivation": ["gum", "gumminess"]
+		},
+		{
+			"definition": "covered with adhesive gum",
+			"partOfSpeech": "adjective",
+			"synonyms": ["gummed"],
+			"similarTo": ["adhesive"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gum", "my"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u0259mi"
+	},
+	"frequency": 2.64
+}

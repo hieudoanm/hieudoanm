@@ -1,0 +1,26 @@
+{
+	"word": "mezzo",
+	"results": [
+		{
+			"definition": "a soprano with a voice between soprano and contralto",
+			"partOfSpeech": "noun",
+			"synonyms": ["mezzo-soprano"],
+			"typeOf": ["soprano"],
+			"hasInstances": ["horne", "marilyn horne"]
+		},
+		{
+			"definition": "the female singing voice between contralto and soprano",
+			"partOfSpeech": "noun",
+			"synonyms": ["mezzo-soprano"],
+			"typeOf": ["singing voice"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["mez", "zo"]
+	},
+	"pronunciation": {
+		"all": "'m\u025btso\u028a"
+	},
+	"frequency": 1.97
+}

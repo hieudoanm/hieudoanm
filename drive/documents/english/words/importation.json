@@ -1,0 +1,28 @@
+{
+	"word": "importation",
+	"results": [
+		{
+			"definition": "commodities (goods or services) bought from a foreign country",
+			"partOfSpeech": "noun",
+			"synonyms": ["import"],
+			"typeOf": ["good", "commodity", "trade good"],
+			"derivation": ["import"]
+		},
+		{
+			"definition": "the commercial activity of buying and bringing in goods from a foreign country",
+			"partOfSpeech": "noun",
+			"synonyms": ["importing"],
+			"typeOf": ["commerce", "mercantilism", "commercialism"],
+			"hasTypes": ["smuggling"],
+			"derivation": ["import"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["im", "por", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u026ampo\u028ar'te\u026a\u0283\u0259n"
+	},
+	"frequency": 2.03
+}

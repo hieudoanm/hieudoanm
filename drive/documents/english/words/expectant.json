@@ -1,0 +1,36 @@
+{
+	"word": "expectant",
+	"results": [
+		{
+			"definition": "in an advanced stage of pregnancy",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"big",
+				"enceinte",
+				"gravid",
+				"great",
+				"heavy",
+				"large",
+				"with child"
+			],
+			"similarTo": ["pregnant"],
+			"derivation": ["expect"]
+		},
+		{
+			"definition": "marked by eager anticipation",
+			"partOfSpeech": "adjective",
+			"synonyms": ["anticipant", "anticipative"],
+			"similarTo": ["hopeful"],
+			"derivation": ["expect", "expectancy"],
+			"examples": ["an expectant hush"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ex", "pec", "tant"]
+	},
+	"pronunciation": {
+		"all": "\u026ak'sp\u025bkt\u0259nt"
+	},
+	"frequency": 2.45
+}

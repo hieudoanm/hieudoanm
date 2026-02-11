@@ -1,0 +1,34 @@
+{
+	"word": "portentous",
+	"results": [
+		{
+			"definition": "ominously prophetic",
+			"partOfSpeech": "adjective",
+			"synonyms": ["fateful", "foreboding"],
+			"similarTo": ["prophetic", "prophetical"],
+			"derivation": ["portent"]
+		},
+		{
+			"definition": "puffed up with vanity",
+			"partOfSpeech": "adjective",
+			"synonyms": ["grandiloquent", "overblown", "pompous", "pontifical"],
+			"similarTo": ["pretentious"]
+		},
+		{
+			"definition": "of momentous or ominous significance",
+			"partOfSpeech": "adjective",
+			"synonyms": ["prodigious"],
+			"similarTo": ["important", "significant"],
+			"derivation": ["portent"],
+			"examples": ["such a portentous...monster raised all my curiosity"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["por", "ten", "tous"]
+	},
+	"pronunciation": {
+		"all": "po\u028ar't\u025bnt\u0259s"
+	},
+	"frequency": 1.73
+}

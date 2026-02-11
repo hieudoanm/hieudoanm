@@ -1,0 +1,26 @@
+{
+	"word": "tarnish",
+	"results": [
+		{
+			"definition": "make dirty or spotty, as by exposure to air; also used metaphorically",
+			"partOfSpeech": "verb",
+			"synonyms": ["defile", "maculate", "stain", "sully"],
+			"typeOf": ["fleck", "spot", "blob", "blot"],
+			"hasTypes": ["darken"],
+			"examples": ["The silver was tarnished by the long exposure to the air"]
+		},
+		{
+			"definition": "discoloration of metal surface caused by oxidation",
+			"partOfSpeech": "noun",
+			"typeOf": ["stain", "discoloration", "discolouration"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["tar", "nish"]
+	},
+	"pronunciation": {
+		"all": "'t\u0251rn\u026a\u0283"
+	},
+	"frequency": 2.66
+}

@@ -1,0 +1,34 @@
+{
+	"word": "zigzag",
+	"results": [
+		{
+			"definition": "having short sharp turns or angles",
+			"partOfSpeech": "adjective",
+			"synonyms": ["zig-zag"],
+			"similarTo": ["crooked"]
+		},
+		{
+			"definition": "travel along a zigzag path",
+			"partOfSpeech": "verb",
+			"synonyms": ["crank"],
+			"entails": ["turn"],
+			"typeOf": ["locomote", "move", "travel", "go"],
+			"examples": ["The river zigzags through the countryside"]
+		},
+		{
+			"definition": "an angular shape characterized by sharp turns in alternating directions",
+			"partOfSpeech": "noun",
+			"synonyms": ["zag", "zig"],
+			"typeOf": ["angular shape", "angularity"],
+			"derivation": ["zig-zag"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["zig", "zag"]
+	},
+	"pronunciation": {
+		"all": "'z\u026a\u0261,z\u00e6\u0261"
+	},
+	"frequency": 2.6
+}

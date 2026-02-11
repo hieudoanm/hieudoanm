@@ -1,0 +1,28 @@
+{
+	"word": "machine language",
+	"results": [
+		{
+			"definition": "a set of instructions coded so that the computer can use it directly without further translation",
+			"partOfSpeech": "noun",
+			"synonyms": ["machine code"],
+			"typeOf": ["code", "computer code"]
+		},
+		{
+			"definition": "a programming language designed for use on a specific class of computers",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"computer-oriented language",
+				"computer language",
+				"machine-oriented language"
+			],
+			"typeOf": ["programing language", "programming language"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ma", "chine lan", "guage"]
+	},
+	"pronunciation": {
+		"all": "m\u0259'\u0283in_'l\u00e6\u014bgw\u026ad\u0292"
+	}
+}

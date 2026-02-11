@@ -1,0 +1,26 @@
+{
+	"word": "qualifying",
+	"results": [
+		{
+			"definition": "success in satisfying a test or requirement",
+			"partOfSpeech": "noun",
+			"synonyms": ["pass", "passing"],
+			"typeOf": ["success"],
+			"derivation": ["qualify"]
+		},
+		{
+			"definition": "the grammatical relation that exists when a word qualifies the meaning of the phrase",
+			"partOfSpeech": "noun",
+			"synonyms": ["limiting", "modification"],
+			"typeOf": ["grammatical relation"],
+			"hasTypes": ["apposition", "restrictiveness"],
+			"derivation": ["qualify"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["qual", "i", "fy", "ing"]
+	},
+	"pronunciation": "'kw\u0251l\u028c,fa\u026a\u026a\u014b",
+	"frequency": 2.88
+}

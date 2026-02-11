@@ -1,0 +1,22 @@
+{
+	"word": "venezia",
+	"results": [
+		{
+			"definition": "the provincial capital of Veneto; built on 118 islands within a lagoon in the Gulf of Venice; has canals instead of streets; one of Italy's major ports and a famous tourist attraction",
+			"partOfSpeech": "noun",
+			"synonyms": ["venice"],
+			"instanceOf": ["metropolis", "city", "urban center"],
+			"hasMembers": ["venetian"],
+			"hasParts": ["grand canal"],
+			"partOf": ["venezia-euganea", "venetia", "veneto"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ve", "ne", "zia"]
+	},
+	"pronunciation": {
+		"all": "v\u025b'nizi\u0259"
+	},
+	"frequency": 2.2
+}

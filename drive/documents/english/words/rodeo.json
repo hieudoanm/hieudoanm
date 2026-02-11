@@ -1,0 +1,24 @@
+{
+	"word": "rodeo",
+	"results": [
+		{
+			"definition": "an enclosure for cattle that have been rounded up",
+			"partOfSpeech": "noun",
+			"typeOf": ["pen"]
+		},
+		{
+			"definition": "an exhibition of cowboy skills",
+			"partOfSpeech": "noun",
+			"typeOf": ["exhibition"],
+			"hasParts": ["bronco busting", "calf roping", "steer roping"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ro", "de", "o"]
+	},
+	"pronunciation": {
+		"all": "'ro\u028adi,o\u028a"
+	},
+	"frequency": 3.36
+}

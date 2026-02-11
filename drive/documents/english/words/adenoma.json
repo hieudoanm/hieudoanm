@@ -1,0 +1,25 @@
+{
+	"word": "adenoma",
+	"results": [
+		{
+			"definition": "a benign epithelial tumor of glandular origin",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"nonmalignant tumor",
+				"nonmalignant tumour",
+				"benign tumour",
+				"benign tumor",
+				"nonmalignant neoplasm"
+			],
+			"hasTypes": ["lymphadenoma", "fibroadenoma"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ad", "e", "no", "ma"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6d'\u0259no\u028am\u0259"
+	},
+	"frequency": 1.73
+}

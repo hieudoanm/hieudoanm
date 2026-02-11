@@ -1,0 +1,38 @@
+{
+	"word": "aggrandize",
+	"results": [
+		{
+			"definition": "add details to",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"aggrandise",
+				"blow up",
+				"dramatise",
+				"dramatize",
+				"embellish",
+				"embroider",
+				"lard",
+				"pad"
+			],
+			"typeOf": [
+				"overstate",
+				"exaggerate",
+				"amplify",
+				"hyperbolise",
+				"hyperbolize",
+				"magnify",
+				"overdraw"
+			],
+			"hasTypes": ["glorify"],
+			"derivation": ["aggrandizement"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ag", "gran", "dize"]
+	},
+	"pronunciation": {
+		"all": "\u0259'gr\u00e6nda\u026az"
+	},
+	"frequency": 1.73
+}

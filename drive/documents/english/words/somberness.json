@@ -1,0 +1,44 @@
+{
+	"word": "somberness",
+	"results": [
+		{
+			"definition": "a feeling of melancholy apprehension",
+			"partOfSpeech": "noun",
+			"synonyms": ["gloom", "gloominess", "sombreness"],
+			"typeOf": ["apprehension", "apprehensiveness", "dread", "melancholy"],
+			"derivation": ["somber"]
+		},
+		{
+			"definition": "a manner that is serious and solemn",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"graveness",
+				"gravity",
+				"soberness",
+				"sobriety",
+				"sombreness"
+			],
+			"typeOf": [
+				"sincerity",
+				"serious-mindedness",
+				"seriousness",
+				"earnestness"
+			],
+			"derivation": ["somber"]
+		},
+		{
+			"definition": "a state of partial or total darkness",
+			"partOfSpeech": "noun",
+			"synonyms": ["gloom", "sombreness"],
+			"typeOf": ["semidarkness"],
+			"derivation": ["somber"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["som", "ber", "ness"]
+	},
+	"pronunciation": {
+		"all": "'s\u0251mb\u0259rn\u025bs"
+	}
+}

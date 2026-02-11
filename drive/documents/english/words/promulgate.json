@@ -1,0 +1,27 @@
+{
+	"word": "promulgate",
+	"results": [
+		{
+			"definition": "state or announce",
+			"partOfSpeech": "verb",
+			"synonyms": ["exclaim", "proclaim"],
+			"typeOf": ["declare"],
+			"hasTypes": ["clarion", "declare", "trumpet"],
+			"derivation": ["promulgation"]
+		},
+		{
+			"definition": "put a law into effect by formal declaration",
+			"partOfSpeech": "verb",
+			"typeOf": ["announce", "declare"],
+			"derivation": ["promulgation", "promulgator"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["prom", "ul", "gate"]
+	},
+	"pronunciation": {
+		"all": "'pr\u0251m\u0259l,\u0261e\u026at"
+	},
+	"frequency": 1.73
+}

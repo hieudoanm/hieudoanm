@@ -1,0 +1,40 @@
+{
+	"word": "nobleman",
+	"results": [
+		{
+			"definition": "a titled peer of the realm",
+			"partOfSpeech": "noun",
+			"synonyms": ["lord", "noble"],
+			"typeOf": ["male aristocrat"],
+			"hasTypes": [
+				"baron",
+				"burgrave",
+				"count",
+				"duke",
+				"grandee",
+				"viscount",
+				"sire",
+				"thane",
+				"armiger",
+				"margrave",
+				"marquess",
+				"marquis",
+				"mesne lord",
+				"milord",
+				"palatine",
+				"palsgrave",
+				"peer"
+			],
+			"hasInstances": ["don juan", "roger de mortimer", "mortimer"],
+			"antonyms": ["noblewoman"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["no", "ble", "man"]
+	},
+	"pronunciation": {
+		"all": "'no\u028ab\u0259lm\u0259n"
+	},
+	"frequency": 3.08
+}

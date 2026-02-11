@@ -1,0 +1,32 @@
+{
+	"word": "audaciousness",
+	"results": [
+		{
+			"definition": "fearless daring",
+			"partOfSpeech": "noun",
+			"synonyms": ["audacity", "temerity"],
+			"typeOf": ["hardiness", "boldness", "daring", "hardihood"],
+			"derivation": ["audacious"]
+		},
+		{
+			"definition": "aggressive boldness or unmitigated effrontery",
+			"partOfSpeech": "noun",
+			"synonyms": ["audacity"],
+			"typeOf": ["face", "nerve", "boldness", "brass", "cheek"],
+			"hasTypes": [
+				"presumptuousness",
+				"effrontery",
+				"presumption",
+				"assumption"
+			],
+			"derivation": ["audacious"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["au", "da", "cious", "ness"]
+	},
+	"pronunciation": {
+		"all": "\u0254'de\u026a\u0283\u0259sn\u025bs"
+	}
+}

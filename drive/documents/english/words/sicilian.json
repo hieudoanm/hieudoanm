@@ -1,0 +1,24 @@
+{
+	"word": "sicilian",
+	"results": [
+		{
+			"definition": "a resident of Sicily",
+			"partOfSpeech": "noun",
+			"typeOf": ["italian"],
+			"hasTypes": ["mafioso"],
+			"memberOf": ["sicilia", "sicily"]
+		},
+		{
+			"definition": "of or relating to or characteristic of Sicily or the people of Sicily",
+			"partOfSpeech": null,
+			"pertainsTo": ["sicily"],
+			"derivation": ["sicily"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["si", "cil", "ian"]
+	},
+	"pronunciation": "s\u026a's\u026ali\u028cn",
+	"frequency": 3.09
+}

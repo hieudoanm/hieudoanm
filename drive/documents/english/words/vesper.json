@@ -1,0 +1,25 @@
+{
+	"word": "vesper",
+	"results": [
+		{
+			"definition": "a planet (usually Venus) seen at sunset in the western sky",
+			"partOfSpeech": "noun",
+			"synonyms": ["evening star", "hesperus"],
+			"instanceOf": ["major planet", "planet"]
+		},
+		{
+			"definition": "a late afternoon or evening worship service",
+			"partOfSpeech": "noun",
+			"typeOf": ["divine service", "religious service", "service"],
+			"hasTypes": ["placebo"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ves", "per"]
+	},
+	"pronunciation": {
+		"all": "'v\u025bsp\u0259r"
+	},
+	"frequency": 2.38
+}

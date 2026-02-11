@@ -1,0 +1,27 @@
+{
+	"word": "bathhouse",
+	"results": [
+		{
+			"definition": "a building containing dressing rooms for bathers",
+			"partOfSpeech": "noun",
+			"synonyms": ["bathing machine"],
+			"typeOf": ["building", "edifice"],
+			"hasParts": ["dressing room"]
+		},
+		{
+			"definition": "a building containing public baths",
+			"partOfSpeech": "noun",
+			"synonyms": ["bagnio"],
+			"typeOf": ["house"],
+			"hasTypes": ["sudatorium", "sudatory"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bath", "house"]
+	},
+	"pronunciation": {
+		"all": "'b\u00e6\u03b8,ha\u028as"
+	},
+	"frequency": 2.83
+}

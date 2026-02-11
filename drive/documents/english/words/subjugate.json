@@ -1,0 +1,30 @@
+{
+	"word": "subjugate",
+	"results": [
+		{
+			"definition": "make subservient; force to submit or subdue",
+			"partOfSpeech": "verb",
+			"synonyms": ["subject"],
+			"typeOf": ["dominate", "master"],
+			"hasTypes": ["enslave", "dragoon"],
+			"derivation": ["subjugation", "subjugator"]
+		},
+		{
+			"definition": "put down by force or intimidation",
+			"partOfSpeech": "verb",
+			"synonyms": ["keep down", "quash", "reduce", "repress", "subdue"],
+			"typeOf": ["crush", "oppress", "suppress"],
+			"examples": [
+				"The rich landowners subjugated the peasants working the land"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sub", "ju", "gate"]
+	},
+	"pronunciation": {
+		"all": "'s\u0259bd\u0292\u0259,\u0261e\u026at"
+	},
+	"frequency": 2.08
+}

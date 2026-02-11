@@ -1,0 +1,36 @@
+{
+	"word": "accomplished",
+	"results": [
+		{
+			"definition": "highly skilled",
+			"partOfSpeech": "adjective",
+			"synonyms": ["complete"],
+			"similarTo": ["skilled"],
+			"examples": ["an accomplished pianist"]
+		},
+		{
+			"definition": "settled securely and unconditionally",
+			"partOfSpeech": "adjective",
+			"synonyms": ["effected", "established"],
+			"similarTo": ["settled"],
+			"examples": [
+				"that smoking causes health problems is an accomplished fact"
+			]
+		},
+		{
+			"definition": "successfully completed or brought to an end",
+			"partOfSpeech": "adjective",
+			"synonyms": ["completed", "realised", "realized"],
+			"similarTo": ["complete"],
+			"examples": ["his mission accomplished he took a vacation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ac", "com", "plished"]
+	},
+	"pronunciation": {
+		"all": "\u0259'k\u0251mpl\u026a\u0283t"
+	},
+	"frequency": 3.85
+}

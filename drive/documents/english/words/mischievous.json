@@ -1,0 +1,35 @@
+{
+	"word": "mischievous",
+	"results": [
+		{
+			"definition": "naughtily or annoyingly playful",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"arch",
+				"impish",
+				"implike",
+				"pixilated",
+				"prankish",
+				"puckish",
+				"wicked"
+			],
+			"similarTo": ["playful"],
+			"derivation": ["mischievousness"]
+		},
+		{
+			"definition": "deliberately causing harm or damage",
+			"partOfSpeech": "adjective",
+			"similarTo": ["harmful"],
+			"derivation": ["mischief", "mischievousness"],
+			"examples": ["mischievous rumors and falsehoods"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mis", "chie", "vous"]
+	},
+	"pronunciation": {
+		"all": "'m\u026as\u02a7\u0259v\u0259s"
+	},
+	"frequency": 3.38
+}

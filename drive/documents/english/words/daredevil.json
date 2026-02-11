@@ -1,0 +1,33 @@
+{
+	"word": "daredevil",
+	"results": [
+		{
+			"definition": "presumptuously daring",
+			"partOfSpeech": "adjective",
+			"synonyms": ["temerarious"],
+			"similarTo": ["bold"],
+			"examples": ["a daredevil test pilot having the right stuff"]
+		},
+		{
+			"definition": "a reckless impetuous irresponsible person",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"harum-scarum",
+				"hothead",
+				"lunatic",
+				"madcap",
+				"swashbuckler"
+			],
+			"typeOf": ["adventurer", "venturer"],
+			"hasTypes": ["tearaway"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["dare", "dev", "il"]
+	},
+	"pronunciation": {
+		"all": "'d\u025cr,d\u025bv\u0259l"
+	},
+	"frequency": 2.87
+}

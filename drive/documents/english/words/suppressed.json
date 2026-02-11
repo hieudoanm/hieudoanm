@@ -1,0 +1,33 @@
+{
+	"word": "suppressed",
+	"results": [
+		{
+			"definition": "held in check with difficulty",
+			"partOfSpeech": "adjective",
+			"synonyms": ["smothered", "stifled", "strangled"],
+			"similarTo": ["inhibited"],
+			"examples": ["suppressed laughter"]
+		},
+		{
+			"definition": "kept from public knowledge by various means",
+			"partOfSpeech": "adjective",
+			"similarTo": [
+				"hushed-up",
+				"quelled",
+				"quenched",
+				"unreleased",
+				"burked",
+				"squelched"
+			],
+			"antonyms": ["publicized"]
+		},
+		{
+			"definition": "manifesting or subjected to suppression",
+			"partOfSpeech": "adjective",
+			"similarTo": ["silenced"],
+			"examples": ["a suppressed press"]
+		}
+	],
+	"pronunciation": "s\u028c'pr\u025bst",
+	"frequency": 3.12
+}

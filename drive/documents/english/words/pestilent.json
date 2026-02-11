@@ -1,0 +1,28 @@
+{
+	"word": "pestilent",
+	"results": [
+		{
+			"definition": "likely to spread and cause an epidemic disease",
+			"partOfSpeech": "adjective",
+			"synonyms": ["pestiferous", "pestilential", "plaguey"],
+			"similarTo": ["epidemic"],
+			"derivation": ["pestilence"],
+			"examples": ["a pestilential malignancy in the air"]
+		},
+		{
+			"definition": "exceedingly harmful",
+			"partOfSpeech": "adjective",
+			"synonyms": ["baneful", "deadly", "pernicious"],
+			"similarTo": ["noxious"],
+			"derivation": ["pestilence"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["pes", "ti", "lent"]
+	},
+	"pronunciation": {
+		"all": "'p\u025bst\u0259l\u0259nt"
+	},
+	"frequency": 2.2
+}

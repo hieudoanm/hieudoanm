@@ -1,0 +1,27 @@
+{
+	"word": "monotonic",
+	"results": [
+		{
+			"definition": "of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value",
+			"partOfSpeech": "adjective",
+			"synonyms": ["monotone"],
+			"inCategory": ["math", "mathematics", "maths"],
+			"similarTo": ["decreasing monotonic", "increasing monotonic"],
+			"antonyms": ["nonmonotonic"]
+		},
+		{
+			"definition": "sounded or spoken in a tone unvarying in pitch",
+			"partOfSpeech": "adjective",
+			"synonyms": ["flat", "monotone", "monotonous"],
+			"similarTo": ["unmodulated"],
+			"derivation": ["monotone"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mon", "o", "ton", "ic"]
+	},
+	"pronunciation": {
+		"all": "m\u0251n\u0259't\u0259n\u026ak"
+	}
+}

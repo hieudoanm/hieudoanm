@@ -1,0 +1,37 @@
+{
+	"frequency": 1.74,
+	"word": "interpenetrate",
+	"results": [
+		{
+			"definition": "spread or diffuse through",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"diffuse",
+				"imbue",
+				"penetrate",
+				"permeate",
+				"pervade",
+				"riddle"
+			],
+			"typeOf": ["perforate", "penetrate"],
+			"hasTypes": ["spiritise", "spiritize"],
+			"derivation": ["interpenetration"]
+		},
+		{
+			"definition": "penetrate mutually or be interlocked",
+			"partOfSpeech": "verb",
+			"synonyms": ["permeate"],
+			"typeOf": ["perforate", "penetrate"],
+			"hasTypes": ["invade"],
+			"derivation": ["interpenetration"],
+			"examples": ["The territories of two married people interpenetrate a lot"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "ter", "pen", "e", "trate"]
+	},
+	"pronunciation": {
+		"all": ",\u026ant\u0259r'p\u025bn\u026a,tre\u026at"
+	}
+}

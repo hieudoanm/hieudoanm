@@ -1,0 +1,35 @@
+{
+	"word": "esophagus",
+	"results": [
+		{
+			"definition": "the passage between the pharynx and the stomach",
+			"partOfSpeech": "noun",
+			"synonyms": ["gorge", "gullet", "oesophagus"],
+			"typeOf": [
+				"musculature",
+				"muscle system",
+				"muscular structure",
+				"passage",
+				"passageway"
+			],
+			"hasParts": ["epicardia", "cardiac sphincter"],
+			"partOf": [
+				"gastrointestinal tract",
+				"alimentary tract",
+				"digestive tract",
+				"digestive tube",
+				"alimentary canal",
+				"gi tract"
+			],
+			"derivation": ["esophageal"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["e", "soph", "a", "gus"]
+	},
+	"pronunciation": {
+		"all": "\u026a's\u0251f\u0259\u0261\u0259s"
+	},
+	"frequency": 2.59
+}

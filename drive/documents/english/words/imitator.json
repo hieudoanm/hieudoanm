@@ -1,0 +1,40 @@
+{
+	"word": "imitator",
+	"results": [
+		{
+			"definition": "someone who copies the words or behavior of another",
+			"partOfSpeech": "noun",
+			"synonyms": ["ape", "aper", "copycat", "emulator"],
+			"typeOf": [
+				"someone",
+				"individual",
+				"soul",
+				"mortal",
+				"person",
+				"somebody"
+			],
+			"hasTypes": ["parrot", "epigone", "epigon"],
+			"derivation": ["imitate"]
+		},
+		{
+			"definition": "someone who (fraudulently) assumes the appearance of another",
+			"partOfSpeech": "noun",
+			"synonyms": ["impersonator"],
+			"typeOf": [
+				"beguiler",
+				"cheat",
+				"cheater",
+				"deceiver",
+				"slicker",
+				"trickster"
+			],
+			"hasTypes": ["mimic", "mimicker"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["im", "i", "ta", "tor"]
+	},
+	"pronunciation": "'\u026am\u028c,te\u026at\u025dr",
+	"frequency": 2.68
+}

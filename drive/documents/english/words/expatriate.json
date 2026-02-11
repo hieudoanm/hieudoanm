@@ -1,0 +1,37 @@
+{
+	"word": "expatriate",
+	"results": [
+		{
+			"definition": "a person who is voluntarily absent from home or country",
+			"partOfSpeech": "noun",
+			"synonyms": ["exile", "expat"],
+			"typeOf": ["absentee"],
+			"hasTypes": ["refugee", "remittance man"],
+			"examples": ["American expatriates"]
+		},
+		{
+			"definition": "expel from a country",
+			"partOfSpeech": "verb",
+			"synonyms": ["deport", "exile"],
+			"typeOf": ["throw out", "expel", "kick out"],
+			"antonyms": ["repatriate"],
+			"derivation": ["expatriation"]
+		},
+		{
+			"definition": "move away from one's native country and adopt a new residence abroad",
+			"partOfSpeech": "verb",
+			"typeOf": ["emigrate"],
+			"derivation": ["expatriation"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ex", "pa", "tri", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u025bk'spe\u026atri,e\u026at",
+		"noun": "\u025bks'pe\u026atri,\u026at",
+		"verb": "\u025bks'pe\u026atri,e\u026at"
+	},
+	"frequency": 2.17
+}

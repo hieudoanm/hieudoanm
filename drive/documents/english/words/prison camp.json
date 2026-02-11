@@ -1,0 +1,21 @@
+{
+	"word": "prison camp",
+	"results": [
+		{
+			"definition": "a camp for trustworthy prisoners employed in government projects",
+			"partOfSpeech": "noun",
+			"synonyms": ["prison farm", "work camp"],
+			"typeOf": ["camp"]
+		},
+		{
+			"definition": "a camp for prisoners of war",
+			"partOfSpeech": "noun",
+			"synonyms": ["internment camp", "pow camp", "prisoner of war camp"],
+			"typeOf": ["camp"],
+			"hasTypes": ["gulag"]
+		}
+	],
+	"pronunciation": {
+		"all": "'pr\u026az\u0259n_k\u00e6mp"
+	}
+}

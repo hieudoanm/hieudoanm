@@ -1,0 +1,21 @@
+{
+	"frequency": 1.74,
+	"word": "bacteriophage",
+	"results": [
+		{
+			"definition": "a virus that is parasitic (reproduces itself) in bacteria",
+			"partOfSpeech": "noun",
+			"synonyms": ["phage"],
+			"typeOf": ["virus"],
+			"hasTypes": ["coliphage", "typhoid bacteriophage"],
+			"derivation": ["bacteriophagic", "bacteriophagous"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["bac", "te", "ri", "o", "phage"]
+	},
+	"pronunciation": {
+		"all": "b\u00e6k'tiri\u0259,fe\u026ad\u0292"
+	}
+}

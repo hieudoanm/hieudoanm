@@ -1,0 +1,25 @@
+{
+	"word": "cartagena",
+	"results": [
+		{
+			"definition": "a port city in northwestern Colombia on the Caribbean",
+			"partOfSpeech": "noun",
+			"instanceOf": ["urban center", "city", "metropolis", "port"],
+			"partOf": ["colombia", "republic of colombia"]
+		},
+		{
+			"definition": "a port in southeastern Spain on the Mediterranean",
+			"partOfSpeech": "noun",
+			"instanceOf": ["metropolis", "urban center", "port", "city"],
+			"partOf": ["espana", "spain", "kingdom of spain"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["car", "ta", "ge", "na"]
+	},
+	"pronunciation": {
+		"all": ",k\u0251rt\u0259'd\u0292in\u0259"
+	},
+	"frequency": 2.2
+}

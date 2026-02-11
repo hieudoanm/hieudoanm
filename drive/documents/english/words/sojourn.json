@@ -1,0 +1,27 @@
+{
+	"word": "sojourn",
+	"results": [
+		{
+			"definition": "a temporary stay (e.g., as a guest)",
+			"partOfSpeech": "noun",
+			"synonyms": ["visit"],
+			"typeOf": ["stay"]
+		},
+		{
+			"definition": "spend a certain length of time; reside temporarily",
+			"partOfSpeech": "verb",
+			"typeOf": ["pass", "spend"],
+			"derivation": ["sojourner"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["so", "journ"]
+	},
+	"pronunciation": {
+		"all": "'s\u0251d\u0292\u0259n",
+		"noun": "'so\u028ad\u0292\u025crn",
+		"verb": "so\u028a'd\u0292\u025crn"
+	},
+	"frequency": 2.3
+}

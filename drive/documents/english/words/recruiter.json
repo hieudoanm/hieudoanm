@@ -1,0 +1,25 @@
+{
+	"word": "recruiter",
+	"results": [
+		{
+			"definition": "an official who enlists personnel for military service",
+			"partOfSpeech": "noun",
+			"typeOf": ["official", "functionary"],
+			"hasTypes": ["recruiting-sergeant"],
+			"derivation": ["recruit"]
+		},
+		{
+			"definition": "someone who supplies members or employees",
+			"partOfSpeech": "noun",
+			"typeOf": ["provider", "supplier"],
+			"hasTypes": ["headhunter", "scout", "talent scout"],
+			"derivation": ["recruit"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "cruit", "er"]
+	},
+	"pronunciation": "r\u026a'krut\u025dr",
+	"frequency": 2.77
+}

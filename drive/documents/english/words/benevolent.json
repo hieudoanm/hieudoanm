@@ -1,0 +1,46 @@
+{
+	"word": "benevolent",
+	"results": [
+		{
+			"definition": "generous in assistance to the poor",
+			"partOfSpeech": "adjective",
+			"synonyms": ["beneficent", "eleemosynary", "philanthropic"],
+			"similarTo": ["charitable"],
+			"examples": ["a benevolent contributor"]
+		},
+		{
+			"definition": "generous in providing aid to others",
+			"partOfSpeech": "adjective",
+			"synonyms": ["freehearted"],
+			"similarTo": ["generous"]
+		},
+		{
+			"definition": "showing or motivated by sympathy and understanding and generosity",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"charitable",
+				"good-hearted",
+				"kindly",
+				"large-hearted",
+				"openhearted",
+				"sympathetic"
+			],
+			"similarTo": ["kind"]
+		},
+		{
+			"definition": "intending or showing kindness",
+			"partOfSpeech": null,
+			"pertainsTo": ["benevolence"],
+			"derivation": ["benevolence"],
+			"examples": ["a benevolent society"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["be", "nev", "o", "lent"]
+	},
+	"pronunciation": {
+		"all": "b\u0259'n\u025bv\u0259l\u0259nt"
+	},
+	"frequency": 3.1
+}

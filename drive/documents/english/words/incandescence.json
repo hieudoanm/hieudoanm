@@ -1,0 +1,33 @@
+{
+	"word": "incandescence",
+	"results": [
+		{
+			"definition": "the phenomenon of light emission by a body as its temperature is raised",
+			"partOfSpeech": "noun",
+			"synonyms": ["glow"],
+			"typeOf": ["light", "visible light", "visible radiation"],
+			"derivation": ["incandesce", "incandescent"]
+		},
+		{
+			"definition": "light from heat",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"brightness",
+				"brightness level",
+				"luminance",
+				"luminosity",
+				"luminousness",
+				"light"
+			],
+			"derivation": ["incandesce"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "can", "des", "cence"]
+	},
+	"pronunciation": {
+		"all": ",\u026ank\u0259n'd\u025bs\u0259ns"
+	},
+	"frequency": 1.73
+}

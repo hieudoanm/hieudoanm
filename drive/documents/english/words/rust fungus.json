@@ -1,0 +1,28 @@
+{
+	"word": "rust fungus",
+	"results": [
+		{
+			"definition": "any of various fungi causing rust disease in plants",
+			"partOfSpeech": "noun",
+			"synonyms": ["rust"],
+			"typeOf": ["fungus"],
+			"hasTypes": [
+				"apple rust",
+				"blister rust",
+				"cedar-apple rust",
+				"cronartium ribicola",
+				"flax rust",
+				"flax rust fungus",
+				"wheat rust",
+				"gymnosporangium juniperi-virginianae",
+				"melampsora lini",
+				"puccinia graminis"
+			],
+			"memberOf": ["order uredinales", "uredinales"],
+			"hasParts": ["aecium", "aeciospore"]
+		}
+	],
+	"pronunciation": {
+		"all": "r\u0259st_'f\u0259\u014b\u0261\u0259s"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"word": "caucasia",
+	"results": [
+		{
+			"definition": "a large region between the Black and Caspian seas that contains the Caucasus Mountains; oil is its major resource",
+			"partOfSpeech": "noun",
+			"synonyms": ["caucasus"],
+			"regionOf": ["circassian"],
+			"instanceOf": [
+				"geographical area",
+				"geographical region",
+				"geographic area",
+				"geographic region"
+			],
+			"hasMembers": ["circassian"],
+			"hasParts": ["transcaucasia", "caucasus mountains", "caucasus"],
+			"derivation": ["caucasian"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["cau", "ca", "si", "a"]
+	},
+	"pronunciation": {
+		"all": "k\u0254'ke\u026a\u0292\u0259"
+	},
+	"frequency": 1.9
+}

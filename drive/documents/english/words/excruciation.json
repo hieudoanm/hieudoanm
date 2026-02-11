@@ -1,0 +1,27 @@
+{
+	"word": "excruciation",
+	"results": [
+		{
+			"definition": "the infliction of extremely painful punishment or suffering",
+			"partOfSpeech": "noun",
+			"synonyms": ["crucifixion"],
+			"typeOf": ["torture", "torturing"],
+			"derivation": ["excruciate"]
+		},
+		{
+			"definition": "a state of acute pain",
+			"partOfSpeech": "noun",
+			"synonyms": ["agony", "suffering"],
+			"typeOf": ["hurting", "pain"],
+			"hasTypes": ["passion", "passion of christ", "throe"],
+			"derivation": ["excruciate"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ex", "cru", "ci", "a", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u026ak,skru\u0283i'e\u026a\u0283\u0259n"
+	}
+}

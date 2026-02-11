@@ -1,0 +1,28 @@
+{
+	"word": "pompous",
+	"results": [
+		{
+			"definition": "puffed up with vanity",
+			"partOfSpeech": "adjective",
+			"synonyms": ["grandiloquent", "overblown", "pontifical", "portentous"],
+			"similarTo": ["pretentious"],
+			"derivation": ["pomp", "pomposity", "pompousness"],
+			"examples": ["a pompous speech"]
+		},
+		{
+			"definition": "characterized by pomp and ceremony and stately display",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ceremonious"],
+			"pertainsTo": ["pomp"],
+			"derivation": ["pomp"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pomp", "ous"]
+	},
+	"pronunciation": {
+		"all": "'p\u0251mp\u0259s"
+	},
+	"frequency": 3.18
+}

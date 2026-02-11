@@ -1,0 +1,28 @@
+{
+	"word": "partitioning",
+	"results": [
+		{
+			"definition": "an analysis into mutually exclusive categories",
+			"partOfSpeech": "noun",
+			"synonyms": ["breakdown"],
+			"typeOf": ["analysis", "analytic thinking"],
+			"hasTypes": ["resolution", "resolving"]
+		},
+		{
+			"definition": "the act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"division",
+				"partition",
+				"sectionalisation",
+				"sectionalization",
+				"segmentation"
+			],
+			"typeOf": ["separation"],
+			"hasTypes": ["septation", "subdivision", "zoning"],
+			"derivation": ["partition"]
+		}
+	],
+	"pronunciation": "p\u0251r't\u026a\u0283\u028cn\u026a\u014b",
+	"frequency": 1.6
+}

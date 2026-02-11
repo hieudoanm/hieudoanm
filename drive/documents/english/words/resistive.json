@@ -1,0 +1,26 @@
+{
+	"word": "resistive",
+	"results": [
+		{
+			"definition": "disposed to or engaged in defiance of established authority",
+			"partOfSpeech": "adjective",
+			"synonyms": ["insubordinate", "resistant"],
+			"similarTo": ["defiant", "noncompliant"],
+			"derivation": ["resist"]
+		},
+		{
+			"definition": "exhibiting or relating to electrical resistance",
+			"partOfSpeech": null,
+			"pertainsTo": ["resistance"],
+			"derivation": ["resistivity"],
+			"examples": ["resistive load"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "sis", "tive"]
+	},
+	"pronunciation": {
+		"all": "r\u026a'z\u026ast\u026av"
+	}
+}

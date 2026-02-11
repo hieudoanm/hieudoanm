@@ -1,0 +1,26 @@
+{
+	"frequency": 2.02,
+	"word": "gigantism",
+	"results": [
+		{
+			"definition": "excessive largeness of stature",
+			"partOfSpeech": "noun",
+			"synonyms": ["giantism"],
+			"typeOf": ["bigness", "largeness"]
+		},
+		{
+			"definition": "excessive size; usually caused by excessive secretion of growth hormone from the pituitary gland",
+			"partOfSpeech": "noun",
+			"synonyms": ["giantism", "overgrowth"],
+			"typeOf": ["hypertrophy"],
+			"hasParts": ["hyperpituitarism"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["gi", "gan", "tism"]
+	},
+	"pronunciation": {
+		"all": "d\u0292\u026a'\u0261\u00e6nt\u026az\u0259m"
+	}
+}

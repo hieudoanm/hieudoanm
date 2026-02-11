@@ -1,0 +1,26 @@
+{
+	"word": "low frequency",
+	"results": [
+		{
+			"definition": "a pitch that is perceived as below other pitches",
+			"partOfSpeech": "noun",
+			"synonyms": ["low pitch"],
+			"typeOf": ["pitch"],
+			"hasTypes": ["deepness"]
+		},
+		{
+			"definition": "30 to 300 kilohertz",
+			"partOfSpeech": "noun",
+			"synonyms": ["lf"],
+			"typeOf": ["radio frequency"],
+			"partOf": ["electromagnetic spectrum"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["low fre", "quen", "cy"]
+	},
+	"pronunciation": {
+		"all": "lo\u028a_'frikw\u0259nsi"
+	}
+}

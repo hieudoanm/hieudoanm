@@ -1,0 +1,31 @@
+{
+	"word": "trematoda",
+	"results": [
+		{
+			"definition": "parasitic flatworms (including flukes)",
+			"partOfSpeech": "noun",
+			"synonyms": ["class trematoda"],
+			"typeOf": ["class"],
+			"hasMembers": [
+				"family fasciolidae",
+				"family schistosomatidae",
+				"fasciolidae",
+				"fluke",
+				"helminth",
+				"parasitic worm",
+				"trematode worm",
+				"trematode",
+				"cercaria",
+				"schistosomatidae"
+			],
+			"memberOf": ["phylum platyhelminthes", "platyhelminthes"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["trem", "a", "to", "da"]
+	},
+	"pronunciation": {
+		"all": ",tr\u025bm\u0259'to\u028ad\u0259"
+	}
+}

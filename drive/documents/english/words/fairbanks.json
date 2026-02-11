@@ -1,0 +1,29 @@
+{
+	"word": "fairbanks",
+	"results": [
+		{
+			"definition": "United States film actor noted for his swashbuckling roles (1883-1939)",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"douglas elton fairbanks",
+				"douglas fairbanks",
+				"julius ullman"
+			],
+			"instanceOf": ["thespian", "actor", "histrion", "player", "role player"]
+		},
+		{
+			"definition": "United States film actor; son of Douglas Elton Fairbanks, (1909-2000)",
+			"partOfSpeech": "noun",
+			"synonyms": ["douglas fairbanks jr."],
+			"instanceOf": ["thespian", "role player", "histrion", "actor", "player"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["fair", "banks"]
+	},
+	"pronunciation": {
+		"all": "'f\u025cr,b\u00e6\u014bks"
+	},
+	"frequency": 2.87
+}

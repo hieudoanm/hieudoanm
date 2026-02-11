@@ -1,0 +1,27 @@
+{
+	"word": "categorical",
+	"results": [
+		{
+			"definition": "relating to or included in a category or categories",
+			"partOfSpeech": "adjective",
+			"synonyms": ["categoric"],
+			"pertainsTo": ["category"],
+			"derivation": ["category"]
+		},
+		{
+			"definition": "not modified or restricted by reservations",
+			"partOfSpeech": "adjective",
+			"synonyms": ["categoric", "flat", "unconditional"],
+			"similarTo": ["unqualified"],
+			"examples": ["a categorical denial"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["cat", "e", "gor", "i", "cal"]
+	},
+	"pronunciation": {
+		"all": ",k\u00e6t\u0259'\u0261\u0254r\u026ak\u0259l"
+	},
+	"frequency": 2.2
+}

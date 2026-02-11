@@ -1,0 +1,35 @@
+{
+	"word": "shamefaced",
+	"results": [
+		{
+			"definition": "showing a sense of shame",
+			"partOfSpeech": "adjective",
+			"synonyms": ["sheepish"],
+			"similarTo": ["ashamed"],
+			"derivation": ["shamefacedness"]
+		},
+		{
+			"definition": "showing a sense of guilt",
+			"partOfSpeech": "adjective",
+			"synonyms": ["guilty", "hangdog", "shamed"],
+			"similarTo": ["ashamed"],
+			"derivation": ["shamefacedness"],
+			"examples": ["the hangdog and shamefaced air of the retreating enemy"]
+		},
+		{
+			"definition": "extremely modest or shy",
+			"partOfSpeech": "adjective",
+			"similarTo": ["modest"],
+			"derivation": ["shamefacedness"],
+			"examples": ["cheerfully bearing reproaches but shamefaced at praise"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["shame", "faced"]
+	},
+	"pronunciation": {
+		"all": "'\u0283e\u026am,fe\u026ast"
+	},
+	"frequency": 1.6
+}

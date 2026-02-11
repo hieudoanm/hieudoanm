@@ -1,0 +1,34 @@
+{
+	"word": "portraiture",
+	"results": [
+		{
+			"definition": "a word picture of a person's appearance and character",
+			"partOfSpeech": "noun",
+			"synonyms": ["portrait", "portrayal"],
+			"typeOf": [
+				"characterisation",
+				"characterization",
+				"delineation",
+				"picture",
+				"word-painting",
+				"word picture",
+				"depiction"
+			],
+			"derivation": ["portray"]
+		},
+		{
+			"definition": "the activity of making portraits",
+			"partOfSpeech": "noun",
+			"typeOf": ["delineation", "portrayal", "depiction"],
+			"derivation": ["portray"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["por", "trai", "ture"]
+	},
+	"pronunciation": {
+		"all": "'po\u028artr\u026a\u02a7\u0259r"
+	},
+	"frequency": 2.03
+}

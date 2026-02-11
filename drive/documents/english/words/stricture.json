@@ -1,0 +1,35 @@
+{
+	"word": "stricture",
+	"results": [
+		{
+			"definition": "abnormal narrowing of a bodily canal or passageway",
+			"partOfSpeech": "noun",
+			"synonyms": ["stenosis"],
+			"typeOf": ["pathology"],
+			"hasTypes": [
+				"enterostenosis",
+				"laryngostenosis",
+				"mitral stenosis",
+				"mitral valve stenosis",
+				"ureterostenosis",
+				"rhinostenosis",
+				"aortic stenosis",
+				"pulmonary stenosis",
+				"pyloric stenosis"
+			]
+		},
+		{
+			"definition": "severe criticism",
+			"partOfSpeech": "noun",
+			"typeOf": ["criticism", "unfavorable judgment"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["stric", "ture"]
+	},
+	"pronunciation": {
+		"all": "'str\u026ak\u02a7\u0259r"
+	},
+	"frequency": 1.6
+}

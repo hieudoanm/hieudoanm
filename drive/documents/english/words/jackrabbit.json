@@ -1,0 +1,27 @@
+{
+	"word": "jackrabbit",
+	"results": [
+		{
+			"definition": "go forward or start with a fast, sudden movement",
+			"partOfSpeech": "verb",
+			"typeOf": ["start", "startle", "jump"]
+		},
+		{
+			"definition": "large hare of western North America",
+			"partOfSpeech": "noun",
+			"typeOf": ["hare"],
+			"hasTypes": [
+				"whitetail jackrabbit",
+				"lepus townsendi",
+				"lepus californicus",
+				"blacktail jackrabbit",
+				"white-tailed jackrabbit"
+			],
+			"memberOf": ["lepus", "genus lepus"]
+		}
+	],
+	"pronunciation": {
+		"all": "'d\u0292\u00e6k,r\u00e6b\u026at"
+	},
+	"frequency": 2.33
+}

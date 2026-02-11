@@ -1,0 +1,29 @@
+{
+	"word": "tomahawk",
+	"results": [
+		{
+			"definition": "weapon consisting of a fighting ax; used by North American Indians",
+			"partOfSpeech": "noun",
+			"synonyms": ["hatchet"],
+			"typeOf": ["arm", "weapon", "weapon system"]
+		},
+		{
+			"definition": "cut with a tomahawk",
+			"partOfSpeech": "verb",
+			"typeOf": ["cut"]
+		},
+		{
+			"definition": "kill with a tomahawk",
+			"partOfSpeech": "verb",
+			"typeOf": ["kill"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["tom", "a", "hawk"]
+	},
+	"pronunciation": {
+		"all": "'t\u0251m\u0259,h\u0254k"
+	},
+	"frequency": 2.4
+}

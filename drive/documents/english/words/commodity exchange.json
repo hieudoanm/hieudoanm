@@ -1,0 +1,21 @@
+{
+	"word": "commodity exchange",
+	"results": [
+		{
+			"definition": "an exchange for buying and selling commodities for future delivery",
+			"partOfSpeech": "noun",
+			"synonyms": ["commodities exchange", "commodities market"],
+			"typeOf": ["exchange"],
+			"hasTypes": [
+				"forward market",
+				"futures exchange",
+				"futures market",
+				"spot market"
+			],
+			"hasParts": ["pit"]
+		}
+	],
+	"pronunciation": {
+		"all": "k\u0259'm\u0251d\u026ati_\u026aks'\u02a7e\u026and\u0292"
+	}
+}

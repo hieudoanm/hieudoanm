@@ -1,0 +1,32 @@
+{
+	"word": "integer",
+	"results": [
+		{
+			"definition": "any of the natural numbers (positive or negative) or zero",
+			"partOfSpeech": "noun",
+			"synonyms": ["whole number"],
+			"typeOf": ["number"],
+			"hasTypes": [
+				"common multiple",
+				"digit",
+				"divisor",
+				"double digit",
+				"factor",
+				"figure",
+				"large integer",
+				"modulus",
+				"characteristic",
+				"population"
+			],
+			"examples": ["an integer is a number that is not a fraction"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["in", "te", "ger"]
+	},
+	"pronunciation": {
+		"all": "'\u026ant\u026ad\u0292\u0259r"
+	},
+	"frequency": 2.12
+}

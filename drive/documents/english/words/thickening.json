@@ -1,0 +1,46 @@
+{
+	"word": "thickening",
+	"results": [
+		{
+			"definition": "the act of thickening",
+			"partOfSpeech": "noun",
+			"synonyms": ["inspissation"],
+			"typeOf": ["condensation", "condensing"],
+			"derivation": ["thicken"]
+		},
+		{
+			"definition": "any material used to thicken",
+			"partOfSpeech": "noun",
+			"synonyms": ["thickener"],
+			"typeOf": ["material", "stuff"],
+			"examples": ["starch is used in cooking as a thickening"]
+		},
+		{
+			"definition": "any thickened enlargement",
+			"partOfSpeech": "noun",
+			"synonyms": ["knob", "node"],
+			"typeOf": ["convexity", "convex shape"]
+		},
+		{
+			"definition": "accumulating and becoming more intense",
+			"partOfSpeech": "adjective",
+			"synonyms": ["deepening"],
+			"similarTo": ["intensifying"],
+			"examples": ["the thickening dusk"]
+		},
+		{
+			"definition": "becoming more intricate or complex",
+			"partOfSpeech": "adjective",
+			"similarTo": ["complex"],
+			"examples": ["a thickening plot"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["thick", "en", "ing"]
+	},
+	"pronunciation": {
+		"all": "'\u03b8\u026ak\u0259n\u026a\u014b"
+	},
+	"frequency": 2.2
+}

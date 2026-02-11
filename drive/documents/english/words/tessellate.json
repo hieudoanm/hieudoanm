@@ -1,0 +1,27 @@
+{
+	"word": "tessellate",
+	"results": [
+		{
+			"definition": "fit together exactly, of identical shapes",
+			"partOfSpeech": "verb",
+			"typeOf": ["fit", "go"],
+			"examples": ["triangles tessellate"]
+		},
+		{
+			"definition": "tile with tesserae",
+			"partOfSpeech": "verb",
+			"typeOf": ["tile"],
+			"derivation": ["tessella", "tessellation", "tessera"],
+			"examples": ["tessellate the kitchen floor"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["tes", "sel", "late"]
+	},
+	"pronunciation": {
+		"all": "'t\u025bs\u0259,le\u026at",
+		"adjective": "'t\u025bs\u0259l\u026at",
+		"verb": "'t\u025bs\u0259,le\u026at"
+	}
+}

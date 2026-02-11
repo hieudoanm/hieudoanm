@@ -1,0 +1,29 @@
+{
+	"word": "prefix",
+	"results": [
+		{
+			"definition": "an affix that is added in front of the word",
+			"partOfSpeech": "noun",
+			"typeOf": ["affix"],
+			"hasTypes": ["alpha privative"]
+		},
+		{
+			"definition": "attach a prefix to",
+			"partOfSpeech": "verb",
+			"typeOf": ["affix"],
+			"antonyms": ["suffix"],
+			"derivation": ["prefixation"],
+			"examples": ["prefixed words"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pre", "fix"]
+	},
+	"pronunciation": {
+		"all": "'prif\u026aks",
+		"noun": "'prif\u026aks",
+		"verb": "pri'f\u026aks"
+	},
+	"frequency": 1.9
+}

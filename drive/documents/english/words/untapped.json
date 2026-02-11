@@ -1,0 +1,28 @@
+{
+	"word": "untapped",
+	"results": [
+		{
+			"definition": "not drawn upon or used",
+			"partOfSpeech": "adjective",
+			"similarTo": ["undeveloped", "unexploited"],
+			"examples": [
+				"untapped reserves of coal",
+				"the untapped stockrooms of our minds"
+			]
+		},
+		{
+			"definition": "not subjected to tapping",
+			"partOfSpeech": null,
+			"antonyms": ["tapped"],
+			"examples": ["an untapped keg", "an untapped sugar maple"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["un", "tapped"]
+	},
+	"pronunciation": {
+		"all": "\u0259n't\u00e6pt"
+	},
+	"frequency": 2.45
+}

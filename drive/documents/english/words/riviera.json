@@ -1,0 +1,31 @@
+{
+	"word": "riviera",
+	"results": [
+		{
+			"definition": "a coastal area between La Spezia in Italy and Cannes in France",
+			"partOfSpeech": "noun",
+			"instanceOf": [
+				"geographic area",
+				"geographic region",
+				"geographical area",
+				"geographical region"
+			],
+			"hasParts": ["cote d'azur", "french riviera"],
+			"partOf": [
+				"french republic",
+				"france",
+				"italia",
+				"italian republic",
+				"italy"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["riv", "i", "er", "a"]
+	},
+	"pronunciation": {
+		"all": ",r\u026avi'\u025cr\u0259"
+	},
+	"frequency": 3.03
+}

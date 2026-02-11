@@ -1,0 +1,31 @@
+{
+	"word": "come around",
+	"results": [
+		{
+			"definition": "change one's position or opinion",
+			"partOfSpeech": "verb",
+			"synonyms": ["come round"],
+			"entails": ["reconsider"],
+			"typeOf": ["change"]
+		},
+		{
+			"definition": "happen regularly",
+			"partOfSpeech": "verb",
+			"synonyms": ["roll around"],
+			"typeOf": [
+				"fall out",
+				"go on",
+				"hap",
+				"happen",
+				"occur",
+				"pass",
+				"pass off",
+				"take place",
+				"come about"
+			]
+		}
+	],
+	"pronunciation": {
+		"all": "k\u0259m_\u0259'ra\u028and"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"word": "moneymaker",
+	"results": [
+		{
+			"definition": "a project that generates a continuous flow of money",
+			"partOfSpeech": "noun",
+			"synonyms": ["cash cow", "money-spinner"],
+			"typeOf": ["project", "projection"]
+		},
+		{
+			"definition": "someone who is successful in accumulating wealth",
+			"partOfSpeech": "noun",
+			"typeOf": ["capitalist"],
+			"hasTypes": ["moneygrubber"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["mon", "ey", "mak", "er"]
+	},
+	"pronunciation": {
+		"all": "'m\u0259ni,me\u026ak\u0259r"
+	},
+	"frequency": 2.38
+}

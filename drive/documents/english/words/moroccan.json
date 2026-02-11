@@ -1,0 +1,32 @@
+{
+	"word": "moroccan",
+	"results": [
+		{
+			"definition": "of or relating to or characteristic of Morocco or its people",
+			"partOfSpeech": "adjective",
+			"synonyms": ["maroc"],
+			"pertainsTo": ["morocco"],
+			"derivation": ["morocco"]
+		},
+		{
+			"definition": "a native or inhabitant of Morocco",
+			"partOfSpeech": "noun",
+			"typeOf": ["african"],
+			"memberOf": [
+				"al-magrib",
+				"kingdom of morocco",
+				"maroc",
+				"marruecos",
+				"morocco"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mo", "roc", "can"]
+	},
+	"pronunciation": {
+		"all": "m\u0259'r\u0251k\u0259n"
+	},
+	"frequency": 3.29
+}

@@ -1,0 +1,25 @@
+{
+	"word": "lyonnais",
+	"results": [
+		{
+			"definition": "a former province of east central France; now administered by Rhone-Alpes",
+			"partOfSpeech": "noun",
+			"instanceOf": [
+				"geographic area",
+				"geographic region",
+				"geographical area",
+				"geographical region"
+			],
+			"hasParts": ["lyon", "lyons"],
+			"partOf": ["rhone-alpes"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ly", "on", "nais"]
+	},
+	"pronunciation": {
+		"all": "li\u0254'n\u025b"
+	},
+	"frequency": 1.82
+}

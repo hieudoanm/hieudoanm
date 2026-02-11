@@ -1,0 +1,26 @@
+{
+	"word": "benediction",
+	"results": [
+		{
+			"definition": "the act of praying for divine protection",
+			"partOfSpeech": "noun",
+			"synonyms": ["blessing"],
+			"typeOf": ["prayer", "supplication"]
+		},
+		{
+			"definition": "a ceremonial prayer invoking divine protection",
+			"partOfSpeech": "noun",
+			"synonyms": ["blessing"],
+			"typeOf": ["orison", "petition", "prayer"],
+			"hasTypes": ["benison"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ben", "e", "dic", "tion"]
+	},
+	"pronunciation": {
+		"all": ",b\u025bn\u026a'd\u026ak\u0283\u0259n"
+	},
+	"frequency": 2.3
+}

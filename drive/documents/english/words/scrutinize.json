@@ -1,0 +1,28 @@
+{
+	"word": "scrutinize",
+	"results": [
+		{
+			"definition": "examine carefully for accuracy with the intent of verification",
+			"partOfSpeech": "verb",
+			"synonyms": ["audit", "inspect", "scrutinise"],
+			"typeOf": ["examine", "analyze", "canvass", "analyse", "study"],
+			"derivation": ["scrutinizer", "scrutiny"]
+		},
+		{
+			"definition": "to look at critically or searchingly, or in minute detail",
+			"partOfSpeech": "verb",
+			"synonyms": ["scrutinise", "size up", "take stock"],
+			"typeOf": ["see", "examine"],
+			"derivation": ["scrutinizer", "scrutiny"],
+			"examples": ["he scrutinized his likeness in the mirror"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["scru", "ti", "nize"]
+	},
+	"pronunciation": {
+		"all": "'skrut\u026a,na\u026az"
+	},
+	"frequency": 2.27
+}

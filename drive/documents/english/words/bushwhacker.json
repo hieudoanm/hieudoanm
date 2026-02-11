@@ -1,0 +1,25 @@
+{
+	"word": "bushwhacker",
+	"results": [
+		{
+			"definition": "a disparaging term for an unsophisticated person",
+			"partOfSpeech": "noun",
+			"synonyms": ["hillbilly"],
+			"typeOf": ["rustic"]
+		},
+		{
+			"definition": "a Confederate guerrilla during the American Civil War",
+			"partOfSpeech": "noun",
+			"typeOf": ["confederate soldier"],
+			"derivation": ["bushwhack"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["bush", "whack", "er"]
+	},
+	"pronunciation": {
+		"all": "'b\u028a\u0283,hw\u00e6k\u0259r"
+	},
+	"frequency": 1.73
+}

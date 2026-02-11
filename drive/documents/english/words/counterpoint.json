@@ -1,0 +1,34 @@
+{
+	"word": "counterpoint",
+	"results": [
+		{
+			"definition": "to show differences when compared; be different",
+			"partOfSpeech": "verb",
+			"synonyms": ["contrast"],
+			"typeOf": ["differ"],
+			"hasTypes": ["conflict", "counterbalance", "foil", "oppose"]
+		},
+		{
+			"definition": "a musical form involving the simultaneous sound of two or more melodies",
+			"partOfSpeech": "noun",
+			"hasCategories": ["inversion"],
+			"typeOf": ["concerted music", "polyphonic music", "polyphony"],
+			"derivation": ["contrapuntist"]
+		},
+		{
+			"definition": "write in counterpoint",
+			"partOfSpeech": "verb",
+			"inCategory": ["music"],
+			"typeOf": ["compose", "write"],
+			"examples": ["Bach perfected the art of counterpointing"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["coun", "ter", "point"]
+	},
+	"pronunciation": {
+		"all": "'ka\u028ant\u0259r,p\u0254\u026ant"
+	},
+	"frequency": 2.52
+}

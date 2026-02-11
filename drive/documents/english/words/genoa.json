@@ -1,0 +1,21 @@
+{
+	"word": "genoa",
+	"results": [
+		{
+			"definition": "a seaport in northwestern Italy; provincial capital of Liguria",
+			"partOfSpeech": "noun",
+			"synonyms": ["genova"],
+			"instanceOf": ["city", "metropolis", "urban center"],
+			"hasMembers": ["genoese"],
+			"partOf": ["liguria"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["gen", "o", "a"]
+	},
+	"pronunciation": {
+		"all": "'d\u0292\u025bno\u028a\u0259"
+	},
+	"frequency": 3.02
+}

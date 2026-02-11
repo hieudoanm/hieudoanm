@@ -1,0 +1,25 @@
+{
+	"word": "burgess",
+	"results": [
+		{
+			"definition": "English writer of satirical novels (1917-1993)",
+			"partOfSpeech": "noun",
+			"synonyms": ["anthony burgess"],
+			"instanceOf": ["author", "writer"]
+		},
+		{
+			"definition": "a citizen of an English borough",
+			"partOfSpeech": "noun",
+			"synonyms": ["burgher"],
+			"typeOf": ["englishman"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bur", "gess"]
+	},
+	"pronunciation": {
+		"all": "'b\u025crd\u0292\u026as"
+	},
+	"frequency": 3.02
+}

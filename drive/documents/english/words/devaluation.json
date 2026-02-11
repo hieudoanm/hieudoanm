@@ -1,0 +1,26 @@
+{
+	"word": "devaluation",
+	"results": [
+		{
+			"definition": "an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries",
+			"partOfSpeech": "noun",
+			"typeOf": ["regulation", "regulating"],
+			"derivation": ["devaluate", "devalue"]
+		},
+		{
+			"definition": "the reduction of something's value or worth",
+			"partOfSpeech": "noun",
+			"typeOf": ["decrease", "reduction", "diminution", "step-down"],
+			"hasTypes": ["evisceration"],
+			"derivation": ["devaluate", "devalue"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["de", "val", "u", "a", "tion"]
+	},
+	"pronunciation": {
+		"all": "di,v\u00e6lju'e\u026a\u0283\u0259n"
+	},
+	"frequency": 2.2
+}

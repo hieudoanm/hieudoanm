@@ -1,0 +1,29 @@
+{
+	"word": "disqualify",
+	"results": [
+		{
+			"definition": "make unfit or unsuitable",
+			"partOfSpeech": "verb",
+			"synonyms": ["indispose", "unfit"],
+			"typeOf": ["modify", "change", "alter"],
+			"antonyms": ["qualify"],
+			"derivation": ["disqualification"]
+		},
+		{
+			"definition": "declare unfit",
+			"partOfSpeech": "verb",
+			"typeOf": ["judge", "label", "pronounce"],
+			"hasTypes": ["recuse", "disbar"],
+			"antonyms": ["qualify"],
+			"derivation": ["disqualification"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["dis", "qual", "i", "fy"]
+	},
+	"pronunciation": {
+		"all": "d\u026as'kw\u0251l\u0259,fa\u026a"
+	},
+	"frequency": 2.59
+}

@@ -1,0 +1,29 @@
+{
+	"word": "electromagnetism",
+	"results": [
+		{
+			"definition": "the branch of physics concerned with electromagnetic phenomena",
+			"partOfSpeech": "noun",
+			"synonyms": ["electromagnetics"],
+			"typeOf": ["natural philosophy", "physics"],
+			"derivation": ["electromagnetic"]
+		},
+		{
+			"definition": "magnetism produced by an electric current",
+			"partOfSpeech": "noun",
+			"typeOf": ["magnetic attraction", "magnetic force", "magnetism"],
+			"derivation": ["electromagnetic"],
+			"examples": [
+				"electromagnetism was discovered when it was observed that a copper wire carrying an electric current can magnetize pieces of iron or steel near it"
+			]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["e", "lec", "tro", "mag", "ne", "tism"]
+	},
+	"pronunciation": {
+		"all": "\u026a,l\u025bktro\u028a'm\u00e6gn\u026a,t\u026az\u0259m"
+	},
+	"frequency": 2.54
+}

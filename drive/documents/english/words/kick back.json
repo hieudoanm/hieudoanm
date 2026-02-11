@@ -1,0 +1,36 @@
+{
+	"word": "kick back",
+	"results": [
+		{
+			"definition": "spring back, as from a forceful thrust",
+			"partOfSpeech": "verb",
+			"synonyms": ["kick", "recoil"],
+			"typeOf": [
+				"resile",
+				"reverberate",
+				"ricochet",
+				"spring",
+				"take a hop",
+				"bounce",
+				"bound",
+				"rebound",
+				"recoil"
+			]
+		},
+		{
+			"definition": "pay a kickback; make an illegal payment",
+			"partOfSpeech": "verb",
+			"inCategory": [
+				"criminal offense",
+				"law-breaking",
+				"criminal offence",
+				"crime"
+			],
+			"typeOf": ["pay"],
+			"derivation": ["kickback"]
+		}
+	],
+	"pronunciation": {
+		"all": "k\u026ak_b\u00e6k"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"word": "sailfish",
+	"results": [
+		{
+			"definition": "a saltwater fish with lean flesh",
+			"partOfSpeech": "noun",
+			"typeOf": ["saltwater fish"]
+		},
+		{
+			"definition": "large pelagic game fish having an elongated upper jaw and long dorsal fin that resembles a sail",
+			"partOfSpeech": "noun",
+			"typeOf": ["scombroid fish", "scombroid"],
+			"hasTypes": ["istiophorus albicans", "atlantic sailfish"],
+			"memberOf": ["istiophoridae", "family istiophoridae"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sail", "fish"]
+	},
+	"pronunciation": {
+		"all": "'se\u026al,f\u026a\u0283"
+	},
+	"frequency": 2.3
+}

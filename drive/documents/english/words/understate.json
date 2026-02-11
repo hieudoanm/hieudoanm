@@ -1,0 +1,22 @@
+{
+	"frequency": 2.4,
+	"word": "understate",
+	"results": [
+		{
+			"definition": "represent as less significant or important",
+			"partOfSpeech": "verb",
+			"synonyms": ["downplay", "minimise", "minimize"],
+			"typeOf": ["inform"],
+			"hasTypes": ["trivialise", "trivialize"],
+			"antonyms": ["overstate"],
+			"derivation": ["understatement"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["un", "der", "state"]
+	},
+	"pronunciation": {
+		"all": ",\u0259nd\u0259r'ste\u026at"
+	}
+}

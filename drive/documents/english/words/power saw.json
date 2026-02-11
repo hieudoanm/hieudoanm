@@ -1,0 +1,30 @@
+{
+	"word": "power saw",
+	"results": [
+		{
+			"definition": "a power tool for cutting wood",
+			"partOfSpeech": "noun",
+			"synonyms": ["saw", "sawing machine"],
+			"typeOf": ["power tool"],
+			"hasTypes": [
+				"bandsaw",
+				"buzz saw",
+				"chain saw",
+				"chainsaw",
+				"circular saw",
+				"fretsaw",
+				"gangsaw",
+				"jigsaw",
+				"reciprocating saw",
+				"saber saw",
+				"sawmill",
+				"scroll saw",
+				"band saw"
+			],
+			"hasParts": ["tooth"]
+		}
+	],
+	"pronunciation": {
+		"all": "'pa\u028a\u0259r_s\u0254"
+	}
+}

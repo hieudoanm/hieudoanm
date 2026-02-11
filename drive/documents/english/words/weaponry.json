@@ -1,0 +1,31 @@
+{
+	"word": "weaponry",
+	"results": [
+		{
+			"definition": "weapons considered collectively",
+			"partOfSpeech": "noun",
+			"synonyms": ["arms", "implements of war", "munition", "weapons system"],
+			"typeOf": ["instrumentation", "instrumentality"],
+			"hasTypes": [
+				"armament",
+				"bomb",
+				"defence system",
+				"defense system",
+				"gunnery",
+				"hardware",
+				"ammo",
+				"ammunition",
+				"naval weaponry"
+			],
+			"hasParts": ["weapon system", "weapon", "arm"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["wea", "pon", "ry"]
+	},
+	"pronunciation": {
+		"all": "'w\u025bp\u0259nri"
+	},
+	"frequency": 3.05
+}

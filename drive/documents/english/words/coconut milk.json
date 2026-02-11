@@ -1,0 +1,25 @@
+{
+	"word": "coconut milk",
+	"results": [
+		{
+			"definition": "white liquid obtained from compressing fresh coconut meat",
+			"partOfSpeech": "noun",
+			"synonyms": ["coconut cream"],
+			"typeOf": ["milk"]
+		},
+		{
+			"definition": "clear to whitish fluid from within a fresh coconut",
+			"partOfSpeech": "noun",
+			"synonyms": ["coconut water"],
+			"typeOf": ["milk"],
+			"substanceOf": ["cocoanut", "coconut"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["co", "co", "nut milk"]
+	},
+	"pronunciation": {
+		"all": "'ko\u028ak\u0259,n\u0259t_m\u026alk"
+	}
+}

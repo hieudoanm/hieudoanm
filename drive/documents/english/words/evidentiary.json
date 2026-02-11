@@ -1,0 +1,29 @@
+{
+	"word": "evidentiary",
+	"results": [
+		{
+			"definition": "serving as or based on evidence",
+			"partOfSpeech": "adjective",
+			"synonyms": ["evidential"],
+			"similarTo": ["important", "significant"],
+			"derivation": ["evidence"],
+			"examples": ["its evidentiary value"]
+		},
+		{
+			"definition": "pertaining to or constituting evidence",
+			"partOfSpeech": "adjective",
+			"inCategory": ["jurisprudence", "law"],
+			"pertainsTo": ["evidence"],
+			"derivation": ["evidence"],
+			"examples": ["evidentiary technique", "an evidentiary fact"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ev", "i", "den", "tia", "ry"]
+	},
+	"pronunciation": {
+		"all": ",\u025bv\u026a'd\u025bn\u0283\u0259ri"
+	},
+	"frequency": 2.43
+}

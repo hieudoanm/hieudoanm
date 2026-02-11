@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate"
+  viewBox="0 0 64 64" width="64pt" height="64pt">
+  <defs>
+    <clipPath id="_clipPath_5w0zJtTYcCwIbd3eYZA822fwWwXQjPo5">
+      <rect width="64" height="64" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_5w0zJtTYcCwIbd3eYZA822fwWwXQjPo5)">
+    <path
+      d=" M 31.974 11.382 C 20.508 11.382 11.18 20.71 11.18 32.176 C 11.18 43.644 20.508 52.972 31.974 52.972 C 43.44 52.972 52.77 43.644 52.77 32.176 C 52.77 20.71 43.44 11.382 31.974 11.382 Z  M 31.974 42.938 C 26.03 42.938 21.212 38.12 21.212 32.176 C 21.212 26.232 26.03 21.416 31.974 21.416 C 37.918 21.416 42.736 26.232 42.736 32.176 C 42.736 38.12 37.918 42.938 31.974 42.938 Z "
+      fill="rgb(255,255,255)" />
+    <linearGradient id="_lgradient_5" x1="0.546443814550549" y1="0.07031124644568595" x2="0.054642519699698855"
+      y2="0.5613424823470702" gradientTransform="matrix(64,0,0,63.95,0,0.202)" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-opacity="1" style="stop-color:rgb(0,150,255)" />
+      <stop offset="100%" stop-opacity="1" style="stop-color:rgb(255,30,86)" />
+    </linearGradient>
+    <path
+      d=" M 33.718 7.966 L 33.718 0.202 C 50.594 1.104 64 15.076 64 32.176 C 64 49.278 50.594 63.246 33.718 64.152 L 33.718 56.388 C 46.296 55.49 56.256 44.98 56.256 32.176 C 56.256 19.374 46.296 8.864 33.718 7.966 Z  M 13.636 48.054 C 10.3 44.204 8.152 39.302 7.768 33.92 L 0 33.92 C 0.402 41.452 3.416 48.286 8.136 53.548 L 13.632 48.054 L 13.636 48.054 Z  M 30.232 64.152 L 30.232 56.388 C 24.846 56.004 19.944 53.858 16.094 50.52 L 10.6 56.016 C 15.866 60.74 22.7 63.748 30.228 64.152 L 30.232 64.152 Z "
+      fill-rule="evenodd" fill="url(#_lgradient_5)" />
+  </g>
+</svg>

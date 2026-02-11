@@ -1,0 +1,32 @@
+{
+	"word": "carol",
+	"results": [
+		{
+			"definition": "joyful religious song celebrating the birth of Christ",
+			"partOfSpeech": "noun",
+			"synonyms": ["christmas carol"],
+			"typeOf": ["religious song"]
+		},
+		{
+			"definition": "a joyful song (usually celebrating the birth of Christ)",
+			"partOfSpeech": "noun",
+			"typeOf": ["song", "strain"]
+		},
+		{
+			"definition": "sing carols",
+			"partOfSpeech": "verb",
+			"inCategory": ["music"],
+			"typeOf": ["sing"],
+			"derivation": ["caroler", "caroller"],
+			"examples": ["They went caroling on Christmas Day"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["car", "ol"]
+	},
+	"pronunciation": {
+		"all": "'k\u00e6r\u0259l"
+	},
+	"frequency": 4.07
+}

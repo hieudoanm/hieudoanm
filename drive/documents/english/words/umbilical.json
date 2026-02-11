@@ -1,0 +1,35 @@
+{
+	"word": "umbilical",
+	"results": [
+		{
+			"definition": "membranous duct connecting the fetus with the placenta",
+			"partOfSpeech": "noun",
+			"synonyms": ["umbilical cord"],
+			"typeOf": [
+				"fetal membrane",
+				"channel",
+				"canal",
+				"duct",
+				"funiculus",
+				"epithelial duct"
+			],
+			"hasParts": ["vena umbilicalis", "umbilical vein"],
+			"partOf": ["fetus", "foetus", "embryo", "conceptus", "fertilized egg"]
+		},
+		{
+			"definition": "relating to or resembling the umbilicus",
+			"partOfSpeech": null,
+			"pertainsTo": ["umbilicus"],
+			"derivation": ["umbilicus"],
+			"examples": ["umbilical cord"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["um", "bil", "i", "cal"]
+	},
+	"pronunciation": {
+		"all": "\u0259m'b\u026al\u026ak\u0259l"
+	},
+	"frequency": 3.01
+}

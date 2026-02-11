@@ -1,0 +1,30 @@
+{
+	"word": "slovakia",
+	"results": [
+		{
+			"definition": "a landlocked republic in central Europe; separated from the Czech Republic in 1993",
+			"partOfSpeech": "noun",
+			"synonyms": ["slovak republic"],
+			"instanceOf": ["european country", "european nation"],
+			"hasMembers": ["slovak"],
+			"hasParts": [
+				"capital of slovakia",
+				"bratislava",
+				"carpathian mountains",
+				"carpathians",
+				"pozsony",
+				"pressburg"
+			],
+			"partOf": ["europe"],
+			"derivation": ["slovakian"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["slo", "va", "ki", "a"]
+	},
+	"pronunciation": {
+		"all": "slo\u028a'v\u0251ki\u0259"
+	},
+	"frequency": 2.96
+}

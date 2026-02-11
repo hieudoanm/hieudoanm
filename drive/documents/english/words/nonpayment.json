@@ -1,0 +1,36 @@
+{
+	"word": "nonpayment",
+	"results": [
+		{
+			"definition": "the deliberate act of failing to pay money",
+			"partOfSpeech": "noun",
+			"synonyms": ["evasion"],
+			"typeOf": ["commercialism", "commerce", "mercantilism"],
+			"hasTypes": ["tax evasion"],
+			"antonyms": ["payment"],
+			"examples": ["he was indicted for nonpayment"]
+		},
+		{
+			"definition": "loss resulting from failure of a debt to be paid",
+			"partOfSpeech": "noun",
+			"synonyms": ["default", "nonremittal"],
+			"typeOf": ["financial loss"],
+			"hasTypes": ["delinquency"],
+			"antonyms": ["payment"]
+		},
+		{
+			"definition": "act of failing to meet a financial obligation",
+			"partOfSpeech": "noun",
+			"synonyms": ["default", "nonremittal"],
+			"typeOf": ["failure"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["non", "pay", "ment"]
+	},
+	"pronunciation": {
+		"all": "n\u0251n'pe\u026am\u0259nt"
+	},
+	"frequency": 1.82
+}

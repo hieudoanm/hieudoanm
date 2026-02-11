@@ -1,0 +1,26 @@
+{
+	"word": "wiring",
+	"results": [
+		{
+			"definition": "a circuit of wires for the distribution of electricity",
+			"partOfSpeech": "noun",
+			"typeOf": ["circuit", "electric circuit", "electrical circuit"],
+			"hasTypes": ["light circuit", "lighting circuit"],
+			"derivation": ["wire"]
+		},
+		{
+			"definition": "the work of installing the wires for an electrical system or device",
+			"partOfSpeech": "noun",
+			"typeOf": ["manual labor", "manual labour"],
+			"derivation": ["wire"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wir", "ing"]
+	},
+	"pronunciation": {
+		"all": "'wa\u026a\u0259r\u026a\u014b"
+	},
+	"frequency": 3.27
+}

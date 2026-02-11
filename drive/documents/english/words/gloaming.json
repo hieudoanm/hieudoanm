@@ -1,0 +1,30 @@
+{
+	"word": "gloaming",
+	"results": [
+		{
+			"definition": "the time of day immediately following sunset",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"crepuscle",
+				"crepuscule",
+				"dusk",
+				"evenfall",
+				"fall",
+				"gloam",
+				"nightfall",
+				"twilight"
+			],
+			"typeOf": ["hour", "time of day"],
+			"hasTypes": ["night"],
+			"partOf": ["eve", "eventide", "even", "evening"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gloam", "ing"]
+	},
+	"pronunciation": {
+		"all": "'glo\u028am\u026a\u014b"
+	},
+	"frequency": 1.73
+}

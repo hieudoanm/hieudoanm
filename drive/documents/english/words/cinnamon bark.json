@@ -1,0 +1,26 @@
+{
+	"word": "cinnamon bark",
+	"results": [
+		{
+			"definition": "aromatic bark used as a spice",
+			"partOfSpeech": "noun",
+			"synonyms": ["cinnamon"],
+			"typeOf": ["bark"],
+			"partOf": [
+				"ceylon cinnamon tree",
+				"cinnamomum zeylanicum",
+				"cinnamon",
+				"ceylon cinnamon"
+			]
+		},
+		{
+			"definition": "aromatic bark of Saigon cinnamon used medicinally as a carminative",
+			"partOfSpeech": "noun",
+			"typeOf": ["bark"],
+			"partOf": ["saigon cinnamon", "cinnamomum loureirii"]
+		}
+	],
+	"pronunciation": {
+		"all": "'s\u026an\u0259m\u0259n_b\u0251rk"
+	}
+}

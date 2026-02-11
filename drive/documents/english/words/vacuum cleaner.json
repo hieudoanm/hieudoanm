@@ -1,0 +1,20 @@
+{
+	"word": "vacuum cleaner",
+	"results": [
+		{
+			"definition": "an electrical home appliance that cleans by suction",
+			"partOfSpeech": "noun",
+			"synonyms": ["vacuum"],
+			"typeOf": ["home appliance", "household appliance"],
+			"hasTypes": ["hoover"],
+			"hasParts": ["dust bag", "vacuum bag"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["vac", "u", "um clean", "er"]
+	},
+	"pronunciation": {
+		"all": "'v\u00e6kju\u0259m_'klin\u0259r"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"word": "matchwood",
+	"results": [
+		{
+			"definition": "wood in small pieces or splinters",
+			"partOfSpeech": "noun",
+			"synonyms": ["splinters"],
+			"typeOf": ["wood"],
+			"examples": ["the vessel was beaten to matchwood on the rocks"]
+		},
+		{
+			"definition": "fragments of wood",
+			"partOfSpeech": "noun",
+			"typeOf": ["bit", "chip", "flake", "fleck", "scrap"],
+			"examples": ["it was smashed into matchwood"]
+		},
+		{
+			"definition": "wood suitable for making matchsticks",
+			"partOfSpeech": "noun",
+			"typeOf": ["wood"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["match", "wood"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6\u02a7,w\u028ad"
+	},
+	"frequency": 1.6
+}

@@ -1,0 +1,40 @@
+{
+	"word": "pollard",
+	"results": [
+		{
+			"definition": "convert into a pollard",
+			"partOfSpeech": "verb",
+			"synonyms": ["poll"],
+			"typeOf": [
+				"crop",
+				"cut back",
+				"dress",
+				"lop",
+				"prune",
+				"snip",
+				"trim",
+				"clip"
+			],
+			"examples": ["pollard trees"]
+		},
+		{
+			"definition": "a tree with limbs cut back to promote a more bushy growth of foliage",
+			"partOfSpeech": "noun",
+			"typeOf": ["tree"],
+			"derivation": ["poll"]
+		},
+		{
+			"definition": "a usually horned animal that has either shed its horns or had them removed",
+			"partOfSpeech": "noun",
+			"typeOf": ["ruminant"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pol", "lard"]
+	},
+	"pronunciation": {
+		"all": "'p\u0251l\u0259rd"
+	},
+	"frequency": 2.7
+}

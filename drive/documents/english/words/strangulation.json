@@ -1,0 +1,34 @@
+{
+	"word": "strangulation",
+	"results": [
+		{
+			"definition": "the act of suffocating (someone) by constricting the windpipe",
+			"partOfSpeech": "noun",
+			"synonyms": ["choking", "strangling", "throttling"],
+			"typeOf": ["asphyxiation", "suffocation"],
+			"derivation": ["strangle", "strangulate"]
+		},
+		{
+			"definition": "(pathology) constriction of a body part so as to cut off the flow of blood or other fluid",
+			"partOfSpeech": "noun",
+			"inCategory": ["pathology"],
+			"typeOf": ["constriction"],
+			"derivation": ["strangulate"],
+			"examples": ["strangulation of the intestine"]
+		},
+		{
+			"definition": "the condition of having respiration stopped by compression of the air passage",
+			"partOfSpeech": "noun",
+			"typeOf": ["disorder", "upset"],
+			"derivation": ["strangle"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["stran", "gu", "la", "tion"]
+	},
+	"pronunciation": {
+		"all": ",str\u00e6\u014bj\u028a'le\u026a\u0283\u0259n"
+	},
+	"frequency": 2.84
+}

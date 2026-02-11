@@ -1,0 +1,27 @@
+{
+	"word": "legionnaire",
+	"results": [
+		{
+			"definition": "a soldier who is a member of a legion (especially the French Foreign Legion)",
+			"partOfSpeech": "noun",
+			"synonyms": ["legionary"],
+			"inRegion": ["french republic", "france"],
+			"typeOf": ["soldier"],
+			"memberOf": ["legion"]
+		},
+		{
+			"definition": "a member of the American Legion",
+			"partOfSpeech": "noun",
+			"typeOf": ["vet", "ex-serviceman", "veteran"],
+			"memberOf": ["american legion"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["le", "gion", "naire"]
+	},
+	"pronunciation": {
+		"all": ",lid\u0292\u0259'n\u025cr"
+	},
+	"frequency": 1.97
+}

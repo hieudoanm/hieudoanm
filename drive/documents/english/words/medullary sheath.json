@@ -1,0 +1,27 @@
+{
+	"word": "medullary sheath",
+	"results": [
+		{
+			"definition": "a layer of myelin encasing (and insulating) the axons of medullated nerve fibers",
+			"partOfSpeech": "noun",
+			"synonyms": ["myelin sheath"],
+			"typeOf": ["sheath", "case"],
+			"hasParts": [
+				"axolemma",
+				"nodes of ranvier",
+				"oligodendria",
+				"oligodendroglia",
+				"ranvier's nodes"
+			],
+			"partOf": ["medullated nerve fiber", "myelinated nerve fiber"],
+			"hasSubstances": ["medulla", "myelin", "myeline"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["me", "dul", "lar", "y sheath"]
+	},
+	"pronunciation": {
+		"all": "'m\u025bd,\u0259l\u025bri_\u0283i\u03b8"
+	}
+}

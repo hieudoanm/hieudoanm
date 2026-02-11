@@ -1,0 +1,20 @@
+{
+	"word": "baltimore",
+	"results": [
+		{
+			"definition": "the largest city in Maryland; a major seaport and industrial center",
+			"partOfSpeech": "noun",
+			"instanceOf": ["city", "metropolis", "port", "urban center"],
+			"hasParts": ["johns hopkins", "pimlico"],
+			"partOf": ["md", "free state", "maryland", "old line state", "md."]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["bal", "ti", "more"]
+	},
+	"pronunciation": {
+		"all": "'b\u0254lt\u0259,mo\u028ar"
+	},
+	"frequency": 3.54
+}

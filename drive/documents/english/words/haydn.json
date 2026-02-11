@@ -1,0 +1,24 @@
+{
+	"word": "haydn",
+	"results": [
+		{
+			"definition": "prolific Austrian composer who influenced the classical form of the symphony (1732-1809)",
+			"partOfSpeech": "noun",
+			"synonyms": ["franz joseph haydn", "joseph haydn"],
+			"instanceOf": ["composer"]
+		},
+		{
+			"definition": "the music of Haydn",
+			"partOfSpeech": "noun",
+			"typeOf": ["music"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hay", "dn"]
+	},
+	"pronunciation": {
+		"all": "'ha\u026ad\u0259n"
+	},
+	"frequency": 2.08
+}

@@ -1,0 +1,25 @@
+{
+	"word": "flatware",
+	"results": [
+		{
+			"definition": "silverware eating utensils",
+			"partOfSpeech": "noun",
+			"synonyms": ["silver"],
+			"typeOf": ["silverware"]
+		},
+		{
+			"definition": "tableware that is relatively flat and fashioned as a single piece",
+			"partOfSpeech": "noun",
+			"typeOf": ["tableware"],
+			"hasTypes": ["plate", "platter", "saucer"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["flat", "ware"]
+	},
+	"pronunciation": {
+		"all": "'fl\u00e6t,w\u025cr"
+	},
+	"frequency": 1.82
+}

@@ -1,0 +1,33 @@
+{
+	"word": "crescendo",
+	"results": [
+		{
+			"definition": "grow louder",
+			"partOfSpeech": "verb",
+			"typeOf": ["increase"],
+			"antonyms": ["decrescendo"],
+			"examples": ["The music crescendoes here"]
+		},
+		{
+			"definition": "(music) a gradual increase in loudness",
+			"partOfSpeech": "noun",
+			"inCategory": ["music"],
+			"typeOf": ["volume", "loudness", "intensity"],
+			"hasTypes": ["swell"]
+		},
+		{
+			"definition": "(music) gradually increasing in volume",
+			"partOfSpeech": "adjective",
+			"inCategory": ["music"],
+			"similarTo": ["increasing"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cre", "scen", "do"]
+	},
+	"pronunciation": {
+		"all": "kr\u026a'\u0283\u025bndo\u028a"
+	},
+	"frequency": 2.89
+}

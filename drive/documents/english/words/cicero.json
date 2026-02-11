@@ -1,0 +1,33 @@
+{
+	"word": "cicero",
+	"results": [
+		{
+			"definition": "a Roman statesman and orator remembered for his mastery of Latin prose (106-43 BC)",
+			"partOfSpeech": "noun",
+			"synonyms": ["marcus tullius cicero", "tully"],
+			"instanceOf": [
+				"national leader",
+				"orator",
+				"public speaker",
+				"rhetorician",
+				"solon",
+				"speechifier",
+				"speechmaker",
+				"statesman"
+			]
+		},
+		{
+			"definition": "a linear unit of the size of type slightly larger than an em",
+			"partOfSpeech": "noun",
+			"typeOf": ["linear measure", "linear unit"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cic", "e", "ro"]
+	},
+	"pronunciation": {
+		"all": "'s\u026as\u0259,ro\u028a"
+	},
+	"frequency": 3.06
+}

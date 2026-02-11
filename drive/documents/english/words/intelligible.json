@@ -1,0 +1,33 @@
+{
+	"word": "intelligible",
+	"results": [
+		{
+			"definition": "capable of being apprehended or understood",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"apprehensible",
+				"graspable",
+				"perceivable",
+				"understandable"
+			],
+			"similarTo": ["comprehendible", "comprehensible"],
+			"derivation": ["intelligibility"]
+		},
+		{
+			"definition": "well articulated or enunciated, and loud enough to be heard distinctly",
+			"partOfSpeech": "adjective",
+			"also": ["comprehendible", "comprehensible"],
+			"antonyms": ["unintelligible"],
+			"derivation": ["intelligibility"],
+			"examples": ["intelligible pronunciation"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "tel", "li", "gi", "ble"]
+	},
+	"pronunciation": {
+		"all": "\u026an't\u025bl\u026ad\u0292\u0259b\u0259l"
+	},
+	"frequency": 2.17
+}

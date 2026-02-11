@@ -1,0 +1,32 @@
+{
+	"word": "oscillate",
+	"results": [
+		{
+			"definition": "be undecided about something; waver between conflicting positions or courses of action",
+			"partOfSpeech": "verb",
+			"synonyms": ["hover", "vacillate", "vibrate"],
+			"typeOf": ["hesitate", "waffle", "waver"],
+			"hasTypes": ["shillyshally"],
+			"derivation": ["oscillation"],
+			"examples": [
+				"He oscillates between accepting the new position and retirement"
+			]
+		},
+		{
+			"definition": "move or swing from side to side regularly",
+			"partOfSpeech": "verb",
+			"synonyms": ["vibrate"],
+			"typeOf": ["sway", "swing"],
+			"hasTypes": ["hunt", "librate"],
+			"derivation": ["oscillation", "oscillatory"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["os", "cil", "late"]
+	},
+	"pronunciation": {
+		"all": "'\u0251s\u0259,le\u026at"
+	},
+	"frequency": 1.9
+}

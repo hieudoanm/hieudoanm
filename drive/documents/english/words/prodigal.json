@@ -1,0 +1,35 @@
+{
+	"word": "prodigal",
+	"results": [
+		{
+			"definition": "a recklessly extravagant consumer",
+			"partOfSpeech": "noun",
+			"synonyms": ["profligate", "squanderer"],
+			"typeOf": ["consumer"],
+			"hasTypes": [
+				"scattergood",
+				"spend-all",
+				"spender",
+				"spendthrift",
+				"waster",
+				"wastrel"
+			]
+		},
+		{
+			"definition": "recklessly wasteful",
+			"partOfSpeech": "adjective",
+			"synonyms": ["extravagant", "profligate", "spendthrift"],
+			"similarTo": ["wasteful"],
+			"derivation": ["prodigality"],
+			"examples": ["prodigal in their expenditures"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["prod", "i", "gal"]
+	},
+	"pronunciation": {
+		"all": "'pr\u0251d\u0259\u0261\u0259l"
+	},
+	"frequency": 3.1
+}

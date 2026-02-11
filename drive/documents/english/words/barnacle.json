@@ -1,0 +1,35 @@
+{
+	"word": "barnacle",
+	"results": [
+		{
+			"definition": "European goose smaller than the brant; breeds in the far north",
+			"partOfSpeech": "noun",
+			"synonyms": ["barnacle goose", "branta leucopsis"],
+			"typeOf": ["goose"],
+			"memberOf": ["genus branta", "branta"]
+		},
+		{
+			"definition": "marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces",
+			"partOfSpeech": "noun",
+			"synonyms": ["cirriped", "cirripede"],
+			"typeOf": ["crustacean"],
+			"hasTypes": [
+				"acorn barnacle",
+				"balanus balanoides",
+				"lepas fascicularis",
+				"rock barnacle",
+				"goose barnacle",
+				"gooseneck barnacle"
+			],
+			"memberOf": ["cirripedia", "subclass cirripedia"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["bar", "na", "cle"]
+	},
+	"pronunciation": {
+		"all": "'b\u0251rn\u0259k\u0259l"
+	},
+	"frequency": 2.49
+}

@@ -1,0 +1,28 @@
+{
+	"word": "rocket scientist",
+	"results": [
+		{
+			"definition": "an engineer who builds and tests rockets",
+			"partOfSpeech": "noun",
+			"synonyms": ["rocket engineer"],
+			"typeOf": ["engineer", "technologist", "applied scientist"],
+			"hasInstances": [
+				"braun",
+				"von braun",
+				"wernher magnus maximilian von braun",
+				"wernher von braun"
+			]
+		},
+		{
+			"definition": "a clever thinker",
+			"partOfSpeech": "noun",
+			"typeOf": ["thinker"],
+			"examples": [
+				"you do not have to be a rocket scientist to figure that out"
+			]
+		}
+	],
+	"pronunciation": {
+		"all": "'r\u0251k\u026at_'sa\u026a\u0259nt\u026ast"
+	}
+}

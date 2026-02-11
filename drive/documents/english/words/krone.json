@@ -1,0 +1,27 @@
+{
+	"word": "krone",
+	"results": [
+		{
+			"definition": "the basic unit of money in Norway",
+			"partOfSpeech": "noun",
+			"synonyms": ["norwegian krone"],
+			"typeOf": ["norwegian monetary unit"],
+			"hasParts": ["ore"]
+		},
+		{
+			"definition": "the basic unit of money in Denmark",
+			"partOfSpeech": "noun",
+			"synonyms": ["danish krone"],
+			"typeOf": ["danish monetary unit"],
+			"hasParts": ["ore"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["kro", "ne"]
+	},
+	"pronunciation": {
+		"all": "'kro\u028an\u0259"
+	},
+	"frequency": 2.3
+}

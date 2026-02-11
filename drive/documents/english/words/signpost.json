@@ -1,0 +1,25 @@
+{
+	"word": "signpost",
+	"results": [
+		{
+			"definition": "a post bearing a sign that gives directions or shows the way",
+			"partOfSpeech": "noun",
+			"synonyms": ["guidepost"],
+			"typeOf": ["sign"],
+			"hasTypes": ["fingerboard", "fingerpost"]
+		},
+		{
+			"definition": "mark with a signpost, as of a path",
+			"partOfSpeech": "verb",
+			"typeOf": ["mark"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sign", "post"]
+	},
+	"pronunciation": {
+		"all": "'sa\u026an,po\u028ast"
+	},
+	"frequency": 2.5
+}

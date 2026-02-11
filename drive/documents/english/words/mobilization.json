@@ -1,0 +1,44 @@
+{
+	"word": "mobilization",
+	"results": [
+		{
+			"definition": "act of marshaling and organizing and making ready for use or action",
+			"partOfSpeech": "noun",
+			"synonyms": ["mobilisation"],
+			"typeOf": ["assembly", "gathering", "assemblage"],
+			"hasTypes": [
+				"economic mobilisation",
+				"economic mobilization",
+				"rallying"
+			],
+			"derivation": ["mobilize"],
+			"examples": ["mobilization of the country's economic resources"]
+		},
+		{
+			"definition": "act of assembling and putting into readiness for war or other emergency:",
+			"partOfSpeech": "noun",
+			"synonyms": ["militarisation", "militarization", "mobilisation"],
+			"typeOf": ["social control"],
+			"hasTypes": [
+				"arming",
+				"equipping",
+				"draft",
+				"armament",
+				"muster",
+				"remilitarisation",
+				"remilitarization",
+				"selective service",
+				"conscription"
+			],
+			"antonyms": ["demobilization"],
+			"derivation": ["mobilize"],
+			"examples": ["mobilization of the troops"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["mo", "bi", "li", "za", "tion"]
+	},
+	"pronunciation": ",mo\u028ab\u028cl\u028c'ze\u026a\u0283\u028cn",
+	"frequency": 2.81
+}

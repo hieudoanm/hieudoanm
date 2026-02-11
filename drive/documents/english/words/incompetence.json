@@ -1,0 +1,27 @@
+{
+	"word": "incompetence",
+	"results": [
+		{
+			"definition": "lack of physical or intellectual ability or qualifications",
+			"partOfSpeech": "noun",
+			"synonyms": ["incompetency"],
+			"typeOf": ["inability", "unfitness"],
+			"antonyms": ["competence"],
+			"derivation": ["incompetent"]
+		},
+		{
+			"definition": "inability of a part or organ to function properly",
+			"partOfSpeech": "noun",
+			"typeOf": ["disease"],
+			"hasTypes": ["hypogonadism", "valvular incompetence"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "com", "pe", "tence"]
+	},
+	"pronunciation": {
+		"all": "\u026an'k\u0251mp\u026at\u0259ns"
+	},
+	"frequency": 3.11
+}

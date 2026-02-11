@@ -1,0 +1,27 @@
+{
+	"word": "handcraft",
+	"results": [
+		{
+			"definition": "a work produced by hand labor",
+			"partOfSpeech": "noun",
+			"synonyms": ["handicraft", "handiwork", "handwork"],
+			"typeOf": ["piece of work", "work"]
+		},
+		{
+			"definition": "make something by hand",
+			"partOfSpeech": "verb",
+			"typeOf": ["craft"],
+			"examples": ["We handcraft all our paper"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hand", "craft"]
+	},
+	"pronunciation": {
+		"all": "'h\u00e6ndkr\u00e6ft",
+		"noun": "'h\u00e6nd,kr\u00e6ft",
+		"verb": "'h\u00e6nd'kr\u00e6ft"
+	},
+	"frequency": 1.9
+}

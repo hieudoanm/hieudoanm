@@ -1,0 +1,27 @@
+{
+	"word": "centaurus",
+	"results": [
+		{
+			"definition": "a conspicuous constellation in the southern hemisphere near the Southern Cross",
+			"partOfSpeech": "noun",
+			"synonyms": ["centaur"],
+			"instanceOf": ["constellation"],
+			"hasMembers": [
+				"beta centauri",
+				"omega centauri",
+				"proxima",
+				"proxima centauri",
+				"rigil",
+				"alpha centauri",
+				"rigil kent"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cen", "tau", "rus"]
+	},
+	"pronunciation": {
+		"all": "s\u025bn't\u0254r\u0259s"
+	}
+}

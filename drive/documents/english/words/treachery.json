@@ -1,0 +1,29 @@
+{
+	"word": "treachery",
+	"results": [
+		{
+			"definition": "an act of deliberate betrayal",
+			"partOfSpeech": "noun",
+			"synonyms": ["betrayal", "perfidy", "treason"],
+			"typeOf": ["knavery", "dishonesty"],
+			"hasTypes": ["double cross", "double-crossing", "sellout"],
+			"derivation": ["treacherous"]
+		},
+		{
+			"definition": "betrayal of a trust",
+			"partOfSpeech": "noun",
+			"synonyms": ["perfidiousness", "perfidy"],
+			"typeOf": ["disloyalty"],
+			"hasTypes": ["insidiousness"],
+			"derivation": ["treacherous"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["treach", "er", "y"]
+	},
+	"pronunciation": {
+		"all": "'tr\u025b\u02a7\u0259ri"
+	},
+	"frequency": 3.11
+}

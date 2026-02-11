@@ -1,0 +1,36 @@
+{
+	"word": "huntsman",
+	"results": [
+		{
+			"definition": "someone who hunts game",
+			"partOfSpeech": "noun",
+			"synonyms": ["hunter"],
+			"typeOf": ["trained worker", "skilled worker", "skilled workman"],
+			"hasTypes": [
+				"duck hunter",
+				"falconer",
+				"fowler",
+				"hawker",
+				"huntress",
+				"lion-hunter",
+				"pothunter",
+				"snarer",
+				"stalker",
+				"tracker",
+				"bounty hunter",
+				"courser",
+				"deer hunter",
+				"trapper"
+			],
+			"hasInstances": ["nimrod"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hunts", "man"]
+	},
+	"pronunciation": {
+		"all": "'h\u0259ntsm\u0259n"
+	},
+	"frequency": 2.49
+}

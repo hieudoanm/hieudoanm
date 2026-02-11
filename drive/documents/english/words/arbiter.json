@@ -1,0 +1,31 @@
+{
+	"word": "arbiter",
+	"results": [
+		{
+			"definition": "someone with the power to settle matters at will",
+			"partOfSpeech": "noun",
+			"synonyms": ["supreme authority"],
+			"typeOf": ["expert"],
+			"examples": ["she was the final arbiter on all matters of fashion"]
+		},
+		{
+			"definition": "someone chosen to judge and decide a disputed issue",
+			"partOfSpeech": "noun",
+			"synonyms": ["arbitrator", "umpire"],
+			"typeOf": ["evaluator", "judge"],
+			"hasTypes": ["third party"],
+			"derivation": ["arbitrate"],
+			"examples": [
+				"the critic was considered to be an arbiter of modern literature"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ar", "bi", "ter"]
+	},
+	"pronunciation": {
+		"all": "'\u0251rb\u026at\u0259r"
+	},
+	"frequency": 2.38
+}

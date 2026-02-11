@@ -1,0 +1,32 @@
+{
+	"word": "turnabout",
+	"results": [
+		{
+			"definition": "a decision to reverse an earlier decision",
+			"partOfSpeech": "noun",
+			"synonyms": ["change of mind", "flip-flop", "reversal", "turnaround"],
+			"typeOf": ["decision making", "deciding"],
+			"hasTypes": [
+				"afterthought",
+				"rethink",
+				"second thought",
+				"reconsideration"
+			]
+		},
+		{
+			"definition": "turning in the opposite direction",
+			"partOfSpeech": "noun",
+			"synonyms": ["reversal", "reverse", "reversion", "turnaround"],
+			"typeOf": ["reorientation", "change of direction"],
+			"hasTypes": ["u-turn", "about turn", "about-face"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["turn", "a", "bout"]
+	},
+	"pronunciation": {
+		"all": "'t\u025crn\u0259,ba\u028at"
+	},
+	"frequency": 1.97
+}

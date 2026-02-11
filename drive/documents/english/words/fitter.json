@@ -1,0 +1,25 @@
+{
+	"word": "fitter",
+	"results": [
+		{
+			"definition": "improved in health or physical condition",
+			"partOfSpeech": "adjective",
+			"synonyms": ["healthier"],
+			"similarTo": ["better"]
+		},
+		{
+			"definition": "someone who fits a garment to a particular person",
+			"partOfSpeech": "noun",
+			"typeOf": ["sartor", "seamster", "tailor"],
+			"derivation": ["fit"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["fit", "ter"]
+	},
+	"pronunciation": {
+		"all": "'f\u026at\u0259r"
+	},
+	"frequency": 2.54
+}

@@ -1,0 +1,26 @@
+{
+	"word": "tourer",
+	"results": [
+		{
+			"definition": "large open car seating four with folding top",
+			"partOfSpeech": "noun",
+			"synonyms": ["phaeton", "touring car"],
+			"typeOf": ["auto", "automobile", "car", "machine", "motorcar"]
+		},
+		{
+			"definition": "someone who travels for pleasure",
+			"partOfSpeech": "noun",
+			"synonyms": ["holidaymaker", "tourist"],
+			"typeOf": ["traveler", "traveller"],
+			"hasTypes": ["tripper", "rubberneck", "sightseer", "excursionist"],
+			"derivation": ["tour"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["tour", "er"]
+	},
+	"pronunciation": {
+		"all": "'t\u028a\u0259r\u0259r"
+	}
+}

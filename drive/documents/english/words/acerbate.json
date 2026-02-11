@@ -1,0 +1,26 @@
+{
+	"word": "acerbate",
+	"results": [
+		{
+			"definition": "cause to be bitter or resentful",
+			"partOfSpeech": "verb",
+			"synonyms": ["embitter", "envenom"],
+			"cause": ["resent"],
+			"derivation": ["acerbity"]
+		},
+		{
+			"definition": "make sour or bitter",
+			"partOfSpeech": "verb",
+			"typeOf": ["alter", "change", "modify"],
+			"derivation": ["acerbity"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ac", "er", "bate"]
+	},
+	"pronunciation": {
+		"adjective": "\u0259's\u025crb\u026at",
+		"verb": "'\u00e6s\u0259r,be\u026at"
+	}
+}

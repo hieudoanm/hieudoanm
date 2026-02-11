@@ -1,0 +1,27 @@
+{
+	"word": "astrophysicist",
+	"results": [
+		{
+			"definition": "an astronomer who studies the physical properties of celestial bodies",
+			"partOfSpeech": "noun",
+			"typeOf": ["astronomer", "stargazer", "uranologist"],
+			"hasInstances": [
+				"fred hoyle",
+				"hoyle",
+				"hubble",
+				"sir fred hoyle",
+				"edwin hubble",
+				"edwin powell hubble"
+			],
+			"derivation": ["astrophysics"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["as", "tro", "phys", "i", "cist"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6stro\u028a'f\u026az\u026as\u026ast"
+	},
+	"frequency": 2.38
+}

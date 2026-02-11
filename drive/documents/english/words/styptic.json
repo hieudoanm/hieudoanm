@@ -1,0 +1,27 @@
+{
+	"word": "styptic",
+	"results": [
+		{
+			"definition": "tending to check bleeding by contracting the tissues or blood vessels",
+			"partOfSpeech": "adjective",
+			"synonyms": ["hemostatic"],
+			"similarTo": ["astringent"],
+			"derivation": ["stypsis"]
+		},
+		{
+			"definition": "a drug that causes contraction of body tissues and canals",
+			"partOfSpeech": "noun",
+			"synonyms": ["astringent", "astringent drug"],
+			"typeOf": ["medicament", "medication", "medicinal drug", "medicine"],
+			"hasTypes": ["alum"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["styp", "tic"]
+	},
+	"pronunciation": {
+		"all": "'st\u026apt\u026ak"
+	},
+	"frequency": 1.82
+}

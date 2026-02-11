@@ -1,0 +1,27 @@
+{
+	"frequency": 2.02,
+	"word": "vulcanise",
+	"results": [
+		{
+			"definition": "subject to vulcanization",
+			"partOfSpeech": "verb",
+			"synonyms": ["vulcanize"],
+			"typeOf": ["process", "treat"],
+			"derivation": ["vulcanisation", "vulcaniser"]
+		},
+		{
+			"definition": "undergo vulcanization",
+			"partOfSpeech": "verb",
+			"synonyms": ["vulcanize"],
+			"typeOf": ["change"],
+			"derivation": ["vulcanisation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["vul", "can", "ise"]
+	},
+	"pronunciation": {
+		"all": "'v\u0259lk\u0259,na\u026az"
+	}
+}

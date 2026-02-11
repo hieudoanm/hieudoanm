@@ -1,0 +1,59 @@
+{
+	"word": "immersion",
+	"results": [
+		{
+			"definition": "the act of wetting something by submerging it",
+			"partOfSpeech": "noun",
+			"synonyms": ["dousing", "ducking", "submersion"],
+			"typeOf": ["wetting"],
+			"derivation": ["immerse"]
+		},
+		{
+			"definition": "complete attention; intense mental effort",
+			"partOfSpeech": "noun",
+			"synonyms": ["absorption", "concentration", "engrossment"],
+			"typeOf": ["attention"],
+			"hasTypes": [
+				"focus",
+				"centering",
+				"direction",
+				"focal point",
+				"focusing",
+				"focussing",
+				"specialism",
+				"study"
+			],
+			"derivation": ["immerse"]
+		},
+		{
+			"definition": "(astronomy) the disappearance of a celestial body prior to an eclipse",
+			"partOfSpeech": "noun",
+			"synonyms": ["ingress"],
+			"inCategory": ["uranology", "astronomy"],
+			"typeOf": ["disappearance"],
+			"partOf": ["eclipse", "occultation"],
+			"antonyms": ["emersion"]
+		},
+		{
+			"definition": "sinking until covered completely with water",
+			"partOfSpeech": "noun",
+			"synonyms": ["submergence", "submerging", "submersion"],
+			"typeOf": ["sinking"],
+			"hasTypes": ["dip"]
+		},
+		{
+			"definition": "a form of baptism in which part or all of a person's body is submerged",
+			"partOfSpeech": "noun",
+			"typeOf": ["baptism"],
+			"hasTypes": ["trine immersion"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["im", "mer", "sion"]
+	},
+	"pronunciation": {
+		"all": "\u026a'm\u025cr\u0292\u0259n"
+	},
+	"frequency": 2.69
+}

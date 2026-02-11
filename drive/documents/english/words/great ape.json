@@ -1,0 +1,26 @@
+{
+	"word": "great ape",
+	"results": [
+		{
+			"definition": "any of the large anthropoid apes of the family Pongidae",
+			"partOfSpeech": "noun",
+			"synonyms": ["pongid"],
+			"typeOf": ["anthropoid ape"],
+			"hasTypes": [
+				"chimp",
+				"chimpanzee",
+				"gorilla",
+				"gorilla gorilla",
+				"orang",
+				"orangutan",
+				"orangutang",
+				"pan troglodytes",
+				"pongo pygmaeus"
+			],
+			"memberOf": ["pongidae", "family pongidae"]
+		}
+	],
+	"pronunciation": {
+		"all": "gre\u026at_e\u026ap"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"word": "multiplicity",
+	"results": [
+		{
+			"definition": "a large number",
+			"partOfSpeech": "noun",
+			"synonyms": ["numerosity", "numerousness"],
+			"attribute": ["few", "many"],
+			"typeOf": ["figure", "number"],
+			"hasTypes": ["multitudinousness"]
+		},
+		{
+			"definition": "the property of being multiple",
+			"partOfSpeech": "noun",
+			"typeOf": ["magnitude"],
+			"derivation": ["multiple"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["mul", "ti", "plic", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": ",m\u0259lt\u0259'pl\u026as\u026ati"
+	},
+	"frequency": 1.9
+}

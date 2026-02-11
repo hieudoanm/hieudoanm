@@ -1,0 +1,25 @@
+{
+	"word": "stein",
+	"results": [
+		{
+			"definition": "a mug intended for serving beer",
+			"partOfSpeech": "noun",
+			"synonyms": ["beer mug"],
+			"typeOf": ["mug"]
+		},
+		{
+			"definition": "experimental expatriate United States writer (1874-1946)",
+			"partOfSpeech": "noun",
+			"synonyms": ["gertrude stein"],
+			"instanceOf": ["author", "writer"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["stein"]
+	},
+	"pronunciation": {
+		"all": "sta\u026an"
+	},
+	"frequency": 3.38
+}

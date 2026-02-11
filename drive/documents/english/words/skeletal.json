@@ -1,0 +1,28 @@
+{
+	"word": "skeletal",
+	"results": [
+		{
+			"definition": "very thin especially from disease or hunger or cold",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"cadaverous",
+				"emaciated",
+				"gaunt",
+				"haggard",
+				"pinched",
+				"wasted"
+			],
+			"similarTo": ["lean", "thin"],
+			"examples": ["a nightmare population of gaunt men and skeletal boys"]
+		},
+		{
+			"definition": "of or relating to or forming or attached to a skeleton",
+			"partOfSpeech": null,
+			"pertainsTo": ["skeleton"],
+			"derivation": ["skeleton"],
+			"examples": ["the skeletal system", "skeletal bones", "skeletal muscles"]
+		}
+	],
+	"pronunciation": "'sk\u025bl\u028ct\u028cl",
+	"frequency": 2.52
+}

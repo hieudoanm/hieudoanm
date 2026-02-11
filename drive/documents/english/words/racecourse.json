@@ -1,0 +1,28 @@
+{
+	"word": "racecourse",
+	"results": [
+		{
+			"definition": "a course over which races are run",
+			"partOfSpeech": "noun",
+			"synonyms": ["racetrack", "raceway", "track"],
+			"typeOf": ["course"],
+			"hasTypes": [
+				"circuit",
+				"dirt track",
+				"cinder track",
+				"speedway",
+				"velodrome",
+				"racing circuit"
+			],
+			"hasParts": ["inside track", "stretch"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["race", "course"]
+	},
+	"pronunciation": {
+		"all": "'re\u026as,ko\u028ars"
+	},
+	"frequency": 2.38
+}

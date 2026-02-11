@@ -1,0 +1,27 @@
+{
+	"frequency": 1.74,
+	"word": "americanize",
+	"results": [
+		{
+			"definition": "become American in character",
+			"partOfSpeech": "verb",
+			"synonyms": ["americanise"],
+			"typeOf": ["change"],
+			"derivation": ["american", "americanization"]
+		},
+		{
+			"definition": "make American in character",
+			"partOfSpeech": "verb",
+			"synonyms": ["americanise"],
+			"typeOf": ["alter", "change", "modify"],
+			"derivation": ["american", "americanization"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["a", "mer", "i", "can", "ize"]
+	},
+	"pronunciation": {
+		"all": "\u0259'm\u025br\u026ak\u0259,na\u026az"
+	}
+}

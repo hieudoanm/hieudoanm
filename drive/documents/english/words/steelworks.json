@@ -1,0 +1,26 @@
+{
+	"word": "steelworks",
+	"results": [
+		{
+			"definition": "a factory where steel is made",
+			"partOfSpeech": "noun",
+			"synonyms": ["steel factory", "steel mill", "steel plant"],
+			"typeOf": ["manufacturing plant", "mill", "factory", "manufactory"],
+			"hasTypes": ["rolling mill"],
+			"hasParts": [
+				"stassano furnace",
+				"blast furnace",
+				"electric-arc furnace",
+				"bessemer converter"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["steel", "works"]
+	},
+	"pronunciation": {
+		"all": "'stil,w\u025crks"
+	},
+	"frequency": 2.62
+}

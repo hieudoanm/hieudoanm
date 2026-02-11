@@ -1,0 +1,27 @@
+{
+	"word": "severn",
+	"results": [
+		{
+			"definition": "a river in Ontario that flows northeast into Hudson Bay",
+			"partOfSpeech": "noun",
+			"synonyms": ["severn river"],
+			"instanceOf": ["river"],
+			"partOf": ["ontario"]
+		},
+		{
+			"definition": "a river in England and Wales flowing into the Bristol Channel; the longest river in Great Britain",
+			"partOfSpeech": "noun",
+			"synonyms": ["river severn", "severn river"],
+			"instanceOf": ["river"],
+			"partOf": ["wales", "cymru", "england", "cambria"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sev", "ern"]
+	},
+	"pronunciation": {
+		"all": "'s\u025bv\u0259rn"
+	},
+	"frequency": 1.9
+}

@@ -1,0 +1,35 @@
+{
+	"word": "water ice",
+	"results": [
+		{
+			"definition": "water frozen in the solid state",
+			"partOfSpeech": "noun",
+			"synonyms": ["ice"],
+			"typeOf": ["crystal"],
+			"hasTypes": [
+				"black ice",
+				"frost",
+				"hoar",
+				"hoarfrost",
+				"icicle",
+				"rime",
+				"hailstone"
+			],
+			"hasSubstances": ["h2o", "water"],
+			"substanceOf": ["glacier", "ice cube"]
+		},
+		{
+			"definition": "an ice containing no milk but having a mushy consistency; usually made from fruit juice",
+			"partOfSpeech": "noun",
+			"synonyms": ["sorbet"],
+			"typeOf": ["ice", "frappe"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wa", "ter ice"]
+	},
+	"pronunciation": {
+		"all": "'w\u0254t\u0259r_a\u026as"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"word": "superfluous",
+	"results": [
+		{
+			"definition": "serving no useful purpose; having no excuse for being",
+			"partOfSpeech": "adjective",
+			"synonyms": ["otiose", "pointless", "purposeless", "senseless", "wasted"],
+			"similarTo": ["worthless"]
+		},
+		{
+			"definition": "more than is needed, desired, or required",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"excess",
+				"extra",
+				"redundant",
+				"spare",
+				"supererogatory",
+				"supernumerary",
+				"surplus"
+			],
+			"similarTo": ["unnecessary", "unneeded"],
+			"derivation": ["superfluity"],
+			"examples": ["delete superfluous (or unnecessary) words"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["su", "per", "flu", "ous"]
+	},
+	"pronunciation": {
+		"all": "s\u028a'p\u025crflu\u0259s"
+	},
+	"frequency": 2.77
+}

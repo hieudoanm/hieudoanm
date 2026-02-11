@@ -1,0 +1,40 @@
+{
+	"word": "antacid",
+	"results": [
+		{
+			"definition": "an agent that counteracts or neutralizes acidity (especially in the stomach)",
+			"partOfSpeech": "noun",
+			"synonyms": ["alkaliser", "alkalizer", "antiacid", "gastric antacid"],
+			"typeOf": ["agent"],
+			"hasTypes": [
+				"bromo-seltzer",
+				"cimetidine",
+				"maalox",
+				"mylanta",
+				"omeprazole",
+				"pepto-bismal",
+				"prilosec",
+				"ranitidine",
+				"rolaids",
+				"tagamet",
+				"tums",
+				"zantac",
+				"brioschi",
+				"alka-seltzer"
+			]
+		},
+		{
+			"definition": "acting to neutralize acid (especially in the stomach)",
+			"partOfSpeech": "adjective",
+			"similarTo": ["antagonistic", "incompatible"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ant", "ac", "id"]
+	},
+	"pronunciation": {
+		"all": "\u00e6nt'\u00e6s\u026ad"
+	},
+	"frequency": 2.27
+}

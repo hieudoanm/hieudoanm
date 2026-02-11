@@ -1,0 +1,28 @@
+{
+	"word": "exfoliation",
+	"results": [
+		{
+			"definition": "a thin flake of dead epidermis shed from the surface of the skin",
+			"partOfSpeech": "noun",
+			"synonyms": ["scale", "scurf"],
+			"typeOf": ["scrap", "chip", "flake", "fleck", "bit"],
+			"hasTypes": ["dander", "dandruff"],
+			"derivation": ["exfoliate"]
+		},
+		{
+			"definition": "the peeling off in flakes or scales of bark or dead skin",
+			"partOfSpeech": "noun",
+			"typeOf": ["organic phenomenon"],
+			"derivation": ["exfoliate"],
+			"examples": ["exfoliation is increased by sunburn"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ex", "fo", "li", "a", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u025bks,fo\u028ali'e\u026a\u0283\u0259n"
+	},
+	"frequency": 2.12
+}

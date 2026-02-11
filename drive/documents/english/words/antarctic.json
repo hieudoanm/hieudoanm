@@ -1,0 +1,26 @@
+{
+	"word": "antarctic",
+	"results": [
+		{
+			"definition": "at or near the south pole",
+			"partOfSpeech": "adjective",
+			"synonyms": ["south-polar"],
+			"similarTo": ["polar"]
+		},
+		{
+			"definition": "the region around the south pole: Antarctica and surrounding waters",
+			"partOfSpeech": "noun",
+			"synonyms": ["antarctic zone", "south frigid zone"],
+			"instanceOf": ["frigid zone", "polar region", "polar zone"],
+			"hasParts": ["antarctic ocean", "antarctica", "antarctic continent"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ant", "arc", "tic"]
+	},
+	"pronunciation": {
+		"all": "\u00e6nt'\u0251rkt\u026ak"
+	},
+	"frequency": 3.21
+}

@@ -1,0 +1,34 @@
+{
+	"word": "decrescendo",
+	"results": [
+		{
+			"definition": "(music) gradually decreasing in volume",
+			"partOfSpeech": "adjective",
+			"synonyms": ["diminuendo"],
+			"inCategory": ["music"],
+			"similarTo": ["decreasing"]
+		},
+		{
+			"definition": "(music) a gradual decrease in loudness",
+			"partOfSpeech": "noun",
+			"synonyms": ["diminuendo"],
+			"inCategory": ["music"],
+			"typeOf": ["softness"]
+		},
+		{
+			"definition": "grow quieter",
+			"partOfSpeech": "verb",
+			"typeOf": ["lessen", "decrease", "diminish", "fall"],
+			"antonyms": ["crescendo"],
+			"examples": ["The music decrescendoes here"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["de", "cre", "scen", "do"]
+	},
+	"pronunciation": {
+		"all": "dikr\u026a'\u0283\u025bndo\u028a"
+	},
+	"frequency": 1.73
+}

@@ -1,0 +1,22 @@
+{
+	"word": "refrigerator",
+	"results": [
+		{
+			"definition": "white goods in which food can be stored at low temperatures",
+			"partOfSpeech": "noun",
+			"synonyms": ["icebox"],
+			"typeOf": ["white goods"],
+			"hasTypes": ["electric refrigerator", "cooler", "ice chest", "fridge"],
+			"hasParts": ["refrigeration system", "drip pan"],
+			"derivation": ["refrigerate"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["re", "frig", "er", "a", "tor"]
+	},
+	"pronunciation": {
+		"all": "r\u026a'fr\u026ad\u0292\u0259,re\u026at\u0259r"
+	},
+	"frequency": 3.73
+}

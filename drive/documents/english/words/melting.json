@@ -1,0 +1,27 @@
+{
+	"word": "melting",
+	"results": [
+		{
+			"definition": "the process whereby heat changes something from a solid to a liquid",
+			"partOfSpeech": "noun",
+			"synonyms": ["melt", "thaw", "thawing"],
+			"typeOf": [
+				"phase change",
+				"phase transition",
+				"heating",
+				"state change",
+				"warming",
+				"physical change"
+			],
+			"derivation": ["melt"]
+		},
+		{
+			"definition": "becoming liquid",
+			"partOfSpeech": "adjective",
+			"synonyms": ["liquescent"],
+			"similarTo": ["unfrozen"]
+		}
+	],
+	"pronunciation": "'m\u025blt\u026a\u014b",
+	"frequency": 3.68
+}

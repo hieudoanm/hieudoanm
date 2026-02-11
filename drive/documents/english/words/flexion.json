@@ -1,0 +1,37 @@
+{
+	"word": "flexion",
+	"results": [
+		{
+			"definition": "act of bending a joint; especially a joint between the bones of a limb so that the angle between them is decreased",
+			"partOfSpeech": "noun",
+			"synonyms": ["flexure"],
+			"typeOf": ["bending"],
+			"hasTypes": ["dorsiflexion", "flex"],
+			"antonyms": ["extension"]
+		},
+		{
+			"definition": "the state of being flexed (as of a joint)",
+			"partOfSpeech": "noun",
+			"synonyms": ["flection", "flexure"],
+			"typeOf": [
+				"physiological state",
+				"physical condition",
+				"physiological condition"
+			]
+		},
+		{
+			"definition": "deviation from a straight or normal course",
+			"partOfSpeech": "noun",
+			"synonyms": ["flection", "inflection"],
+			"typeOf": ["divergence", "departure", "deviation", "difference"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["flex", "ion"]
+	},
+	"pronunciation": {
+		"all": "'fl\u025bk\u0283\u0259n"
+	},
+	"frequency": 1.6
+}

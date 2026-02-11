@@ -1,0 +1,21 @@
+{
+	"word": "malpighian body",
+	"results": [
+		{
+			"definition": "the capsule that contains Bowman's capsule and a glomerulus at the expanded end of a nephron",
+			"partOfSpeech": "noun",
+			"synonyms": ["malpighian corpuscle", "renal corpuscle"],
+			"typeOf": ["capsule"],
+			"hasParts": [
+				"capsula glomeruli",
+				"bowman's capsule",
+				"glomerulus",
+				"glomerular capsule"
+			],
+			"partOf": ["nephron", "uriniferous tubule"]
+		}
+	],
+	"pronunciation": {
+		"all": "'m\u00e6lp\u026a\u0261i\u0259n_'b\u0251di"
+	}
+}

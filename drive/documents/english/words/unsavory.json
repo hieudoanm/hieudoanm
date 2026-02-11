@@ -1,0 +1,28 @@
+{
+	"word": "unsavory",
+	"results": [
+		{
+			"definition": "not pleasing in odor or taste",
+			"partOfSpeech": "adjective",
+			"synonyms": ["distasteful", "unsavoury"],
+			"similarTo": ["unpalatable"],
+			"derivation": ["unsavoriness"]
+		},
+		{
+			"definition": "morally offensive",
+			"partOfSpeech": "adjective",
+			"synonyms": ["offensive", "unsavoury"],
+			"antonyms": ["savory"],
+			"derivation": ["unsavoriness"],
+			"examples": ["an unsavory reputation", "an unsavory scandal"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "sa", "vor", "y"]
+	},
+	"pronunciation": {
+		"all": "\u0259n'se\u026av\u0259ri"
+	},
+	"frequency": 2.59
+}

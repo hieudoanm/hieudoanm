@@ -1,0 +1,25 @@
+{
+	"word": "zurich",
+	"results": [
+		{
+			"definition": "the largest city in Switzerland; located in the northern part of the country",
+			"partOfSpeech": "noun",
+			"instanceOf": ["city", "metropolis", "urban center"],
+			"partOf": [
+				"suisse",
+				"svizzera",
+				"swiss confederation",
+				"switzerland",
+				"schweiz"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["zu", "rich"]
+	},
+	"pronunciation": {
+		"all": "'z\u028ar\u026ak"
+	},
+	"frequency": 3.26
+}

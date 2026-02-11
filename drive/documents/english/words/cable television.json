@@ -1,0 +1,21 @@
+{
+	"word": "cable television",
+	"results": [
+		{
+			"definition": "television that is transmitted over cable directly to the receiver",
+			"partOfSpeech": "noun",
+			"synonyms": ["cable"],
+			"typeOf": ["telecasting", "video", "tv", "television"]
+		},
+		{
+			"definition": "a television system that transmits over cables",
+			"partOfSpeech": "noun",
+			"synonyms": ["cable", "cable system", "cable television service"],
+			"typeOf": ["television system", "television"],
+			"hasParts": ["cable", "line", "transmission line"]
+		}
+	],
+	"pronunciation": {
+		"all": "'ke\u026ab\u0259l_'t\u025bl\u0259,v\u026a\u0292\u0259n"
+	}
+}

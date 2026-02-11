@@ -1,0 +1,34 @@
+{
+	"word": "locality",
+	"results": [
+		{
+			"definition": "a surrounding or nearby region",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"neck of the woods",
+				"neighborhood",
+				"neighbourhood",
+				"vicinity"
+			],
+			"typeOf": ["section"],
+			"hasTypes": ["gold coast", "'hood", "place", "proximity", "scenery"],
+			"hasInstances": [
+				"right bank",
+				"charlestown",
+				"latin quarter",
+				"left bank",
+				"montmartre"
+			],
+			"derivation": ["local"],
+			"examples": ["it is a rugged locality"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["lo", "cal", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "lo\u028a'k\u00e6l\u026ati"
+	},
+	"frequency": 2.54
+}

@@ -1,0 +1,29 @@
+{
+	"word": "enrol",
+	"results": [
+		{
+			"definition": "register formally as a participant or member",
+			"partOfSpeech": "verb",
+			"synonyms": ["enroll", "enter", "inscribe", "recruit"],
+			"typeOf": ["register"],
+			"hasTypes": [
+				"enlist",
+				"matriculate",
+				"muster in",
+				"register",
+				"unionise",
+				"draft",
+				"unionize"
+			],
+			"derivation": ["enrolment"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["en", "rol"]
+	},
+	"pronunciation": {
+		"all": "\u025bn'ro\u028al"
+	},
+	"frequency": 2.5
+}

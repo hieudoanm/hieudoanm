@@ -1,0 +1,26 @@
+{
+	"word": "nimbus",
+	"results": [
+		{
+			"definition": "an indication of radiant light drawn around the head of a saint",
+			"partOfSpeech": "noun",
+			"synonyms": ["aura", "aureole", "gloriole", "glory", "halo"],
+			"typeOf": ["light", "lightness"]
+		},
+		{
+			"definition": "a dark grey cloud bearing rain",
+			"partOfSpeech": "noun",
+			"synonyms": ["nimbus cloud", "rain cloud"],
+			"typeOf": ["cloud"],
+			"hasParts": ["aureole", "corona"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["nim", "bus"]
+	},
+	"pronunciation": {
+		"all": "'n\u026amb\u0259s"
+	},
+	"frequency": 2.2
+}

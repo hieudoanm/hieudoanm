@@ -1,0 +1,32 @@
+{
+	"word": "radiotherapy",
+	"results": [
+		{
+			"definition": "(medicine) the treatment of disease (especially cancer) by exposure to a radioactive substance",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"actinotherapy",
+				"irradiation",
+				"radiation",
+				"radiation therapy"
+			],
+			"inCategory": ["medicine", "medical specialty"],
+			"typeOf": ["therapy"],
+			"hasTypes": [
+				"x-ray therapy",
+				"phototherapy",
+				"curietherapy",
+				"radium therapy"
+			],
+			"derivation": ["radiotherapist"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["ra", "di", "o", "ther", "a", "py"]
+	},
+	"pronunciation": {
+		"all": ",re\u026adio\u028a'\u03b8\u025br\u0259pi"
+	},
+	"frequency": 2.12
+}

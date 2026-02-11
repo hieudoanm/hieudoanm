@@ -1,0 +1,26 @@
+{
+	"word": "auctioneer",
+	"results": [
+		{
+			"definition": "sell at an auction",
+			"partOfSpeech": "verb",
+			"synonyms": ["auction", "auction off"],
+			"inCategory": ["commercialism", "commerce", "mercantilism"],
+			"typeOf": ["sell"]
+		},
+		{
+			"definition": "an agent who conducts an auction",
+			"partOfSpeech": "noun",
+			"typeOf": ["agent", "factor", "broker"],
+			"derivation": ["auction"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["auc", "tion", "eer"]
+	},
+	"pronunciation": {
+		"all": ",\u0254k\u0283\u0259'nir"
+	},
+	"frequency": 2.12
+}

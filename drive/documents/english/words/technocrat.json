@@ -1,0 +1,24 @@
+{
+	"frequency": 2.02,
+	"word": "technocrat",
+	"results": [
+		{
+			"definition": "an advocate of technocracy",
+			"partOfSpeech": "noun",
+			"typeOf": ["pol", "political leader", "politician", "politico"]
+		},
+		{
+			"definition": "an expert who is a member of a highly skilled elite group",
+			"partOfSpeech": "noun",
+			"typeOf": ["expert"],
+			"memberOf": ["elite group", "elite"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["tech", "no", "crat"]
+	},
+	"pronunciation": {
+		"all": "'t\u025bkn\u0259,kr\u00e6t"
+	}
+}

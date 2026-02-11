@@ -1,0 +1,36 @@
+{
+	"word": "hellish",
+	"results": [
+		{
+			"definition": "extremely evil or cruel; expressive of cruelty or befitting hell",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"demonic",
+				"diabolic",
+				"diabolical",
+				"fiendish",
+				"infernal",
+				"satanic",
+				"unholy"
+			],
+			"similarTo": ["evil"],
+			"examples": ["hellish torture"]
+		},
+		{
+			"definition": "(informal) very unpleasant",
+			"partOfSpeech": "adjective",
+			"synonyms": ["beastly", "god-awful"],
+			"usageOf": ["colloquialism"],
+			"similarTo": ["unpleasant"],
+			"examples": ["hellish weather"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hell", "ish"]
+	},
+	"pronunciation": {
+		"all": "'h\u025bl\u026a\u0283"
+	},
+	"frequency": 3.02
+}

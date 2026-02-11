@@ -1,0 +1,38 @@
+{
+	"word": "uproar",
+	"results": [
+		{
+			"definition": "a state of commotion and noise and confusion",
+			"partOfSpeech": "noun",
+			"synonyms": ["garboil", "tumult", "tumultuousness"],
+			"typeOf": [
+				"to-do",
+				"commotion",
+				"disruption",
+				"disturbance",
+				"flutter",
+				"hoo-ha",
+				"hoo-hah",
+				"hurly burly",
+				"kerfuffle"
+			],
+			"hasTypes": ["combustion"],
+			"derivation": ["uproarious"]
+		},
+		{
+			"definition": "loud confused noise from many sources",
+			"partOfSpeech": "noun",
+			"synonyms": ["brouhaha", "hubbub", "katzenjammer"],
+			"typeOf": ["noise"],
+			"derivation": ["uproarious"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["up", "roar"]
+	},
+	"pronunciation": {
+		"all": "'\u0259pro\u028ar"
+	},
+	"frequency": 3.08
+}

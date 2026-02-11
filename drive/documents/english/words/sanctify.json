@@ -1,0 +1,29 @@
+{
+	"word": "sanctify",
+	"results": [
+		{
+			"definition": "render holy by means of religious rites",
+			"partOfSpeech": "verb",
+			"synonyms": ["bless", "consecrate", "hallow"],
+			"typeOf": ["declare"],
+			"hasTypes": ["reconsecrate"],
+			"derivation": ["saint", "sanctification"]
+		},
+		{
+			"definition": "make pure or free from sin or guilt",
+			"partOfSpeech": "verb",
+			"synonyms": ["purge", "purify"],
+			"typeOf": ["alter", "change", "modify"],
+			"hasTypes": ["lustrate", "spiritualize", "spiritualise"],
+			"derivation": ["saint", "sanctification"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sanc", "ti", "fy"]
+	},
+	"pronunciation": {
+		"all": "'s\u00e6\u014bkt\u026a,fa\u026a"
+	},
+	"frequency": 2.27
+}

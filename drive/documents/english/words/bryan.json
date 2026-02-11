@@ -1,0 +1,36 @@
+{
+	"word": "bryan",
+	"results": [
+		{
+			"definition": "United States lawyer and politician who advocated free silver and prosecuted John Scopes (1925) for teaching evolution in a Tennessee high school (1860-1925)",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"boy orator of the platte",
+				"great commoner",
+				"william jennings bryan"
+			],
+			"instanceOf": [
+				"politico",
+				"politician",
+				"lawyer",
+				"pol",
+				"political leader",
+				"attorney"
+			]
+		},
+		{
+			"definition": "a town of east central Texas",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town"],
+			"partOf": ["lone-star state", "tex.", "texas", "tx"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bry", "an"]
+	},
+	"pronunciation": {
+		"all": "'bra\u026a\u0259n"
+	},
+	"frequency": 3.65
+}

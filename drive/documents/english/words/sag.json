@@ -1,0 +1,36 @@
+{
+	"word": "sag",
+	"results": [
+		{
+			"definition": "a shape that sags",
+			"partOfSpeech": "noun",
+			"synonyms": ["droop"],
+			"typeOf": ["depression", "impression", "imprint"],
+			"examples": ["there was a sag in the chair seat"]
+		},
+		{
+			"definition": "cause to sag",
+			"partOfSpeech": "verb",
+			"synonyms": ["sag down"],
+			"typeOf": ["drop down", "drop", "sink"],
+			"examples": [
+				"The children sagged their bottoms down even more comfortably"
+			]
+		},
+		{
+			"definition": "droop, sink, or settle from or as if from pressure or loss of tautness",
+			"partOfSpeech": "verb",
+			"synonyms": ["droop", "flag", "swag"],
+			"typeOf": ["drop down", "sink", "drop"],
+			"hasTypes": ["bag", "slump", "slouch"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["sag"]
+	},
+	"pronunciation": {
+		"all": "s\u00e6\u0261"
+	},
+	"frequency": 2.83
+}

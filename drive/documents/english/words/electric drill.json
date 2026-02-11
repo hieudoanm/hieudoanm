@@ -1,0 +1,16 @@
+{
+	"word": "electric drill",
+	"results": [
+		{
+			"definition": "a rotating power drill powered by an electric motor",
+			"partOfSpeech": "noun",
+			"typeOf": ["power drill"],
+			"hasParts": ["chuck", "electric motor"],
+			"partOf": ["drill press"],
+			"derivation": ["drill"]
+		}
+	],
+	"pronunciation": {
+		"all": "\u026a'l\u025bktr\u026ak_dr\u026al"
+	}
+}

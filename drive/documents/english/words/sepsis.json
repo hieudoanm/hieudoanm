@@ -1,0 +1,26 @@
+{
+	"word": "sepsis",
+	"results": [
+		{
+			"definition": "the presence of pus-forming bacteria or their toxins in the blood or tissues",
+			"partOfSpeech": "noun",
+			"typeOf": ["infection"],
+			"hasTypes": [
+				"blood poisoning",
+				"sapraemia",
+				"sapremia",
+				"septicaemia",
+				"septicemia"
+			],
+			"derivation": ["septic"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sep", "sis"]
+	},
+	"pronunciation": {
+		"all": "'s\u025bps\u026as"
+	},
+	"frequency": 2.17
+}

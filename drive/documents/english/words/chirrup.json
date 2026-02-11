@@ -1,0 +1,26 @@
+{
+	"word": "chirrup",
+	"results": [
+		{
+			"definition": "make high-pitched sounds",
+			"partOfSpeech": "verb",
+			"synonyms": ["cheep", "chirp", "peep"],
+			"typeOf": ["emit", "let loose", "let out", "utter"],
+			"hasTypes": ["chitter", "twitter"]
+		},
+		{
+			"definition": "a series of chirps",
+			"partOfSpeech": "noun",
+			"synonyms": ["twitter"],
+			"typeOf": ["sound"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["chir", "rup"]
+	},
+	"pronunciation": {
+		"all": "'\u02a7ir\u0259p"
+	},
+	"frequency": 2.43
+}

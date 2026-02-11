@@ -1,0 +1,24 @@
+{
+	"word": "zacharias",
+	"results": [
+		{
+			"definition": "a Hebrew minor prophet of the late 6th century BC",
+			"partOfSpeech": "noun",
+			"synonyms": ["zechariah"],
+			"instanceOf": ["prophet"]
+		},
+		{
+			"definition": "an Old Testament book telling the prophecies of Zechariah which are concerned mainly with the renewal of Israel after the Babylonian Captivity",
+			"partOfSpeech": "noun",
+			"synonyms": ["book of zachariah", "zechariah"],
+			"instanceOf": ["book"],
+			"partOf": ["nebiim", "old testament", "prophets"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["zach", "a", "ri", "as"]
+	},
+	"pronunciation": ",z\u00e6k\u025dr'a\u026a\u028cs",
+	"frequency": 2.64
+}

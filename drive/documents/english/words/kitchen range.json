@@ -1,0 +1,28 @@
+{
+	"word": "kitchen range",
+	"results": [
+		{
+			"definition": "a kitchen appliance used for cooking food",
+			"partOfSpeech": "noun",
+			"synonyms": ["cooking stove", "kitchen stove", "range", "stove"],
+			"typeOf": ["kitchen appliance"],
+			"hasTypes": [
+				"cookstove",
+				"electric range",
+				"gas cooker",
+				"gas range",
+				"gas stove",
+				"charcoal burner",
+				"primus stove",
+				"spirit stove",
+				"potbelly",
+				"potbelly stove",
+				"primus"
+			],
+			"hasParts": ["grating", "grate"]
+		}
+	],
+	"pronunciation": {
+		"all": "'k\u026a\u02a7\u0259n_re\u026and\u0292"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"frequency": 2.02,
+	"word": "overpayment",
+	"results": [
+		{
+			"definition": "a payment larger than needed or expected",
+			"partOfSpeech": "noun",
+			"typeOf": ["payment"],
+			"derivation": ["overpay"]
+		},
+		{
+			"definition": "the act of paying too much",
+			"partOfSpeech": "noun",
+			"typeOf": ["defrayal", "defrayment", "payment"],
+			"derivation": ["overpay"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["o", "ver", "pay", "ment"]
+	},
+	"pronunciation": {
+		"all": ",o\u028av\u0259r'pe\u026am\u0259nt"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"word": "woodwind",
+	"results": [
+		{
+			"definition": "any wind instrument other than the brass instruments",
+			"partOfSpeech": "noun",
+			"synonyms": ["wood", "woodwind instrument"],
+			"typeOf": ["wind", "wind instrument"],
+			"hasTypes": [
+				"reed",
+				"beating-reed instrument",
+				"transverse flute",
+				"reed instrument",
+				"flute"
+			],
+			"hasParts": ["thumbhole", "finger hole"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wood", "wind"]
+	},
+	"pronunciation": {
+		"all": "'w\u028ad,w\u026and"
+	},
+	"frequency": 2.38
+}

@@ -1,0 +1,26 @@
+{
+	"word": "shanty",
+	"results": [
+		{
+			"definition": "a rhythmical work song originally sung by sailors",
+			"partOfSpeech": "noun",
+			"synonyms": ["chantey", "chanty", "sea chantey"],
+			"typeOf": ["work song"]
+		},
+		{
+			"definition": "small crude shelter used as a dwelling",
+			"partOfSpeech": "noun",
+			"synonyms": ["hovel", "hut", "hutch", "shack"],
+			"typeOf": ["shelter"],
+			"hasTypes": ["igloo", "iglu", "mudhif"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["shan", "ty"]
+	},
+	"pronunciation": {
+		"all": "'\u0283\u00e6nti"
+	},
+	"frequency": 2.67
+}

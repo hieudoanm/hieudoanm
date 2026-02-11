@@ -1,0 +1,27 @@
+{
+	"word": "acetate",
+	"results": [
+		{
+			"definition": "a fabric made from fibers of cellulose acetate",
+			"partOfSpeech": "noun",
+			"synonyms": ["acetate rayon"],
+			"typeOf": ["rayon"],
+			"hasSubstances": ["cellulose acetate"]
+		},
+		{
+			"definition": "a salt or ester of acetic acid",
+			"partOfSpeech": "noun",
+			"synonyms": ["ethanoate"],
+			"typeOf": ["salt"],
+			"hasTypes": ["acetin", "lead acetate", "sugar of lead"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ac", "e", "tate"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6s\u026a,te\u026at"
+	},
+	"frequency": 1.9
+}

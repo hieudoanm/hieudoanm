@@ -1,0 +1,34 @@
+{
+	"word": "overexpose",
+	"results": [
+		{
+			"definition": "expose excessively",
+			"partOfSpeech": "verb",
+			"inCategory": ["picture taking", "photography"],
+			"typeOf": ["expose"],
+			"antonyms": ["underexpose"],
+			"derivation": ["overexposure"],
+			"examples": ["As a child, I was overexposed to French movies"]
+		},
+		{
+			"definition": "expose to too much light",
+			"partOfSpeech": "verb",
+			"inCategory": ["photography", "picture taking"],
+			"typeOf": ["expose"],
+			"hasTypes": ["solarise", "solarize"],
+			"antonyms": ["underexpose"],
+			"derivation": ["overexposure"],
+			"examples": [
+				"the photographic film was overexposed and there is no image"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["o", "ver", "ex", "pose"]
+	},
+	"pronunciation": {
+		"all": ",o\u028av\u0259r\u026ak'spo\u028az"
+	},
+	"frequency": 1.73
+}

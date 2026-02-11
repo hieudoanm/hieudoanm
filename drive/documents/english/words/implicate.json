@@ -1,0 +1,27 @@
+{
+	"word": "implicate",
+	"results": [
+		{
+			"definition": "impose, involve, or imply as a necessary accompaniment or result",
+			"partOfSpeech": "verb",
+			"synonyms": ["entail"],
+			"typeOf": ["lead"],
+			"derivation": ["implication"]
+		},
+		{
+			"definition": "bring into intimate and incriminating connection",
+			"partOfSpeech": "verb",
+			"typeOf": ["affect", "involve", "regard"],
+			"derivation": ["implication"],
+			"examples": ["He is implicated in the scheme to defraud the government"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["im", "pli", "cate"]
+	},
+	"pronunciation": {
+		"all": "'\u026ampl\u0259,ke\u026at"
+	},
+	"frequency": 2.86
+}

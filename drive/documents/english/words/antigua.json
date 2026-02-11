@@ -1,0 +1,21 @@
+{
+	"word": "antigua",
+	"results": [
+		{
+			"definition": "the largest of the islands comprising Antigua and Barbuda",
+			"partOfSpeech": "noun",
+			"instanceOf": ["island"],
+			"hasMembers": ["antiguan"],
+			"partOf": ["antigua and barbuda"],
+			"derivation": ["antiguan"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["an", "ti", "gua"]
+	},
+	"pronunciation": {
+		"all": "\u00e6n'tigw\u0259"
+	},
+	"frequency": 2.33
+}

@@ -1,0 +1,31 @@
+{
+	"word": "flagging",
+	"results": [
+		{
+			"definition": "weak from exhaustion",
+			"partOfSpeech": "adjective",
+			"synonyms": ["drooping"],
+			"similarTo": ["tired"]
+		},
+		{
+			"definition": "a walk of flagstones",
+			"partOfSpeech": "noun",
+			"typeOf": ["paseo", "walk", "walkway"],
+			"examples": ["the flagging in the garden was quite imaginative"]
+		},
+		{
+			"definition": "flagstones collectively",
+			"partOfSpeech": "noun",
+			"typeOf": ["collection", "accumulation", "aggregation", "assemblage"],
+			"examples": ["there was a pile of flagging waiting to be laid in place"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["flag", "ging"]
+	},
+	"pronunciation": {
+		"all": "'fl\u00e6\u0261\u026a\u014b"
+	},
+	"frequency": 2.49
+}

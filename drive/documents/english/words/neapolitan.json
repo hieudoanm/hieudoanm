@@ -1,0 +1,25 @@
+{
+	"word": "neapolitan",
+	"results": [
+		{
+			"definition": "a native or inhabitant of Naples",
+			"partOfSpeech": "noun",
+			"typeOf": ["italian"],
+			"memberOf": ["naples", "napoli"]
+		},
+		{
+			"definition": "of or relating to or characteristic of Naples or its people",
+			"partOfSpeech": null,
+			"pertainsTo": ["naples"],
+			"derivation": ["naples"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ne", "a", "pol", "i", "tan"]
+	},
+	"pronunciation": {
+		"all": ",ni\u0259'p\u0251l\u026at\u0259n"
+	},
+	"frequency": 2.56
+}

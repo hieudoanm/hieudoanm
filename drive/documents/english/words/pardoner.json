@@ -1,0 +1,34 @@
+{
+	"word": "pardoner",
+	"results": [
+		{
+			"definition": "a person who pardons or forgives or excuses a fault or offense",
+			"partOfSpeech": "noun",
+			"synonyms": ["excuser", "forgiver"],
+			"typeOf": [
+				"someone",
+				"soul",
+				"individual",
+				"mortal",
+				"person",
+				"somebody"
+			],
+			"derivation": ["pardon"]
+		},
+		{
+			"definition": "a medieval cleric who raised money for the church by selling papal indulgences",
+			"partOfSpeech": "noun",
+			"typeOf": ["cleric", "divine", "ecclesiastic", "churchman"],
+			"hasTypes": ["absolver"],
+			"derivation": ["pardon"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["par", "don", "er"]
+	},
+	"pronunciation": {
+		"all": "'p\u0251rd\u0259n\u0259r"
+	},
+	"frequency": 1.6
+}

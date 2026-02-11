@@ -1,0 +1,34 @@
+{
+	"word": "sizzle",
+	"results": [
+		{
+			"definition": "a sizzling noise",
+			"partOfSpeech": "noun",
+			"typeOf": ["noise"]
+		},
+		{
+			"definition": "burn or sear with a sizzling sound",
+			"partOfSpeech": "verb",
+			"typeOf": ["sear", "scorch"],
+			"examples": ["The fat sizzled in the pan"]
+		},
+		{
+			"definition": "make a sound like frying fat",
+			"partOfSpeech": "verb",
+			"typeOf": ["resound", "make noise", "noise"]
+		},
+		{
+			"definition": "seethe with deep anger or resentment",
+			"partOfSpeech": "verb",
+			"typeOf": ["boil", "seethe"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["siz", "zle"]
+	},
+	"pronunciation": {
+		"all": "'s\u026az\u0259l"
+	},
+	"frequency": 2.76
+}

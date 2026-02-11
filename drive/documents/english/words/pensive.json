@@ -1,0 +1,36 @@
+{
+	"word": "pensive",
+	"results": [
+		{
+			"definition": "deeply or seriously thoughtful",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"brooding",
+				"broody",
+				"contemplative",
+				"meditative",
+				"musing",
+				"pondering",
+				"reflective",
+				"ruminative"
+			],
+			"similarTo": ["thoughtful"],
+			"derivation": ["pensiveness"]
+		},
+		{
+			"definition": "showing pensive sadness",
+			"partOfSpeech": "adjective",
+			"synonyms": ["wistful"],
+			"similarTo": ["sad"],
+			"derivation": ["pensiveness"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pen", "sive"]
+	},
+	"pronunciation": {
+		"all": "'p\u025bns\u026av"
+	},
+	"frequency": 2.64
+}

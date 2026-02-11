@@ -1,0 +1,32 @@
+{
+	"word": "incontinence",
+	"results": [
+		{
+			"definition": "indiscipline with regard to sensuous pleasures",
+			"partOfSpeech": "noun",
+			"synonyms": ["dissoluteness", "self-gratification"],
+			"typeOf": ["undiscipline", "indiscipline"],
+			"hasTypes": ["rakishness"]
+		},
+		{
+			"definition": "involuntary urination or defecation",
+			"partOfSpeech": "noun",
+			"synonyms": ["incontinency"],
+			"typeOf": [
+				"excretion",
+				"voiding",
+				"evacuation",
+				"excreting",
+				"elimination"
+			],
+			"hasTypes": ["urinary incontinence", "enuresis"],
+			"derivation": ["incontinent"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "con", "ti", "nence"]
+	},
+	"pronunciation": "\u026an'k\u0251nt\u028cn\u028cns",
+	"frequency": 2.5
+}

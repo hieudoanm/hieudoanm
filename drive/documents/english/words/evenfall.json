@@ -1,0 +1,29 @@
+{
+	"word": "evenfall",
+	"results": [
+		{
+			"definition": "the time of day immediately following sunset",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"crepuscle",
+				"crepuscule",
+				"dusk",
+				"fall",
+				"gloam",
+				"gloaming",
+				"nightfall",
+				"twilight"
+			],
+			"typeOf": ["hour", "time of day"],
+			"hasTypes": ["night"],
+			"partOf": ["eve", "eventide", "even", "evening"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["e", "ven", "fall"]
+	},
+	"pronunciation": {
+		"all": "'iv\u0259n,f\u0254l"
+	}
+}

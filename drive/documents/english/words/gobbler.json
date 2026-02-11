@@ -1,0 +1,26 @@
+{
+	"word": "gobbler",
+	"results": [
+		{
+			"definition": "male turkey",
+			"partOfSpeech": "noun",
+			"synonyms": ["tom", "tom turkey", "turkey cock"],
+			"typeOf": ["meleagris gallopavo", "turkey"],
+			"derivation": ["gobble"]
+		},
+		{
+			"definition": "a hasty eater who swallows large mouthfuls",
+			"partOfSpeech": "noun",
+			"typeOf": ["eater", "feeder"],
+			"derivation": ["gobble"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gob", "bler"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u0251bl\u0259r"
+	},
+	"frequency": 2.59
+}

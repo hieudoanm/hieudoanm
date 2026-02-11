@@ -1,0 +1,27 @@
+{
+	"word": "slobber",
+	"results": [
+		{
+			"definition": "saliva spilling from the mouth",
+			"partOfSpeech": "noun",
+			"synonyms": ["dribble", "drivel", "drool"],
+			"typeOf": ["saliva", "spit", "spittle"]
+		},
+		{
+			"definition": "let saliva drivel from the mouth",
+			"partOfSpeech": "verb",
+			"synonyms": ["dribble", "drivel", "drool", "slabber", "slaver"],
+			"typeOf": ["salivate"],
+			"also": ["slobber over"],
+			"derivation": ["slobberer"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["slob", "ber"]
+	},
+	"pronunciation": {
+		"all": "'sl\u0251b\u0259r"
+	},
+	"frequency": 2.6
+}

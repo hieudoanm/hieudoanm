@@ -1,0 +1,20 @@
+{
+	"word": "northamptonshire",
+	"results": [
+		{
+			"definition": "a county is central England",
+			"partOfSpeech": "noun",
+			"instanceOf": ["county"],
+			"hasParts": ["naseby", "northampton"],
+			"partOf": ["england"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["north", "amp", "ton", "shire"]
+	},
+	"pronunciation": {
+		"all": "n\u0254r'\u03b8\u00e6mpt\u0259n,\u0283ir"
+	},
+	"frequency": 1.6
+}

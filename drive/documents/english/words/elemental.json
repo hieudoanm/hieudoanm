@@ -1,0 +1,33 @@
+{
+	"word": "elemental",
+	"results": [
+		{
+			"definition": "of or being the essential or basic part",
+			"partOfSpeech": "adjective",
+			"synonyms": ["basal", "elementary", "primary"],
+			"similarTo": ["basic"]
+		},
+		{
+			"definition": "relating to or being an element",
+			"partOfSpeech": null,
+			"pertainsTo": ["element"],
+			"examples": ["elemental sulphur"]
+		},
+		{
+			"definition": "relating to severe atmospheric conditions",
+			"partOfSpeech": null,
+			"pertainsTo": ["elements"],
+			"examples": [
+				"a race against hail or cold rains or some other elemental catastrophe"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["el", "e", "men", "tal"]
+	},
+	"pronunciation": {
+		"all": ",\u025bl\u0259'm\u025bnt\u0259l"
+	},
+	"frequency": 2.89
+}

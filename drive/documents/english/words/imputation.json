@@ -1,0 +1,30 @@
+{
+	"word": "imputation",
+	"results": [
+		{
+			"definition": "a statement attributing something dishonest (especially a criminal offense)",
+			"partOfSpeech": "noun",
+			"typeOf": ["accusal", "accusation"],
+			"hasTypes": ["finger-pointing", "fingerpointing"],
+			"derivation": ["impute"],
+			"examples": ["he denied the imputation"]
+		},
+		{
+			"definition": "the attribution to a source or cause",
+			"partOfSpeech": "noun",
+			"typeOf": ["ascription", "attribution"],
+			"derivation": ["impute"],
+			"examples": [
+				"the imputation that my success was due to nepotism meant that I was not taken seriously"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["im", "pu", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u026ampj\u028a'te\u026a\u0283\u0259n"
+	},
+	"frequency": 1.6
+}

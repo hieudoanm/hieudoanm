@@ -1,0 +1,32 @@
+{
+	"word": "uzbekistan",
+	"results": [
+		{
+			"definition": "a landlocked republic in west central Asia; formerly an Asian soviet",
+			"partOfSpeech": "noun",
+			"synonyms": ["republic of uzbekistan", "uzbek"],
+			"regionOf": [
+				"imu",
+				"islamic group of uzbekistan",
+				"islamic party of turkestan"
+			],
+			"instanceOf": ["asian country", "asian nation"],
+			"memberOf": ["cis", "commonwealth of independent states"],
+			"hasParts": [
+				"tashkent",
+				"taskent",
+				"capital of uzbek",
+				"kizil kum",
+				"kyzyl kum",
+				"qizil qum",
+				"samarcand",
+				"samarkand"
+			],
+			"partOf": ["asia"]
+		}
+	],
+	"pronunciation": {
+		"all": "uzb\u025bk\u026a'st\u00e6n"
+	},
+	"frequency": 2.43
+}

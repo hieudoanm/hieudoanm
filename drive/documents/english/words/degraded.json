@@ -1,0 +1,35 @@
+{
+	"word": "degraded",
+	"results": [
+		{
+			"definition": "lowered in value",
+			"partOfSpeech": "adjective",
+			"synonyms": ["debased", "devalued"],
+			"similarTo": ["low"]
+		},
+		{
+			"definition": "unrestrained by convention or morality",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"debauched",
+				"degenerate",
+				"dissipated",
+				"dissolute",
+				"fast",
+				"libertine",
+				"profligate",
+				"riotous"
+			],
+			"similarTo": ["immoral"],
+			"examples": ["deplorably dissipated and degraded"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["de", "grad", "ed"]
+	},
+	"pronunciation": {
+		"all": "d\u026a'gre\u026ad\u026ad"
+	},
+	"frequency": 2.94
+}

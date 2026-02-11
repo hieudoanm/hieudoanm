@@ -1,0 +1,36 @@
+{
+	"frequency": 1.74,
+	"word": "rumormonger",
+	"results": [
+		{
+			"definition": "a person given to gossiping and divulging personal information about others",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"gossip",
+				"gossiper",
+				"gossipmonger",
+				"newsmonger",
+				"rumourmonger"
+			],
+			"typeOf": ["communicator"],
+			"hasTypes": [
+				"cat",
+				"scandalmonger",
+				"talebearer",
+				"taleteller",
+				"tattler",
+				"tattletale",
+				"telltale",
+				"blabbermouth",
+				"yenta"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ru", "mor", "mon", "ger"]
+	},
+	"pronunciation": {
+		"all": "'rum\u0259r,m\u0259\u014b\u0261\u0259r"
+	}
+}

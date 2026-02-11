@@ -1,0 +1,26 @@
+{
+	"word": "needlepoint",
+	"results": [
+		{
+			"definition": "lace worked with a needle in a buttonhole stitch on a paper pattern",
+			"partOfSpeech": "noun",
+			"synonyms": ["point lace"],
+			"typeOf": ["lace"]
+		},
+		{
+			"definition": "embroidery consisting of allover embroidered canvas resembling tapestry",
+			"partOfSpeech": "noun",
+			"synonyms": ["needlepoint embroidery"],
+			"typeOf": ["embroidery", "fancywork"],
+			"hasTypes": ["gros point", "petit point"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["nee", "dle", "point"]
+	},
+	"pronunciation": {
+		"all": "'nid\u0259l,p\u0254\u026ant"
+	},
+	"frequency": 2.3
+}

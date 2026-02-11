@@ -1,0 +1,33 @@
+{
+	"word": "verbiage",
+	"results": [
+		{
+			"definition": "the manner in which something is expressed in words",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"choice of words",
+				"diction",
+				"phraseology",
+				"phrasing",
+				"wording"
+			],
+			"typeOf": ["formulation", "expression"],
+			"hasTypes": ["verbalisation", "mot juste", "verbalization"],
+			"examples": ["use concise military verbiage"]
+		},
+		{
+			"definition": "overabundance of words",
+			"partOfSpeech": "noun",
+			"synonyms": ["verbalism"],
+			"typeOf": ["verboseness", "verbosity"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ver", "bi", "age"]
+	},
+	"pronunciation": {
+		"all": "'v\u025crbi\u026ad\u0292"
+	},
+	"frequency": 2.08
+}

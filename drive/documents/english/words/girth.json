@@ -1,0 +1,32 @@
+{
+	"word": "girth",
+	"results": [
+		{
+			"definition": "stable gear consisting of a band around a horse's belly that holds the saddle in place",
+			"partOfSpeech": "noun",
+			"synonyms": ["cinch"],
+			"typeOf": ["tack", "stable gear", "saddlery"],
+			"partOf": ["harness"]
+		},
+		{
+			"definition": "tie a cinch around",
+			"partOfSpeech": "verb",
+			"synonyms": ["cinch"],
+			"typeOf": ["fasten", "fix", "secure"]
+		},
+		{
+			"definition": "the distance around a person's body",
+			"partOfSpeech": "noun",
+			"typeOf": ["circumference", "perimeter"],
+			"hasTypes": ["spread"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["girth"]
+	},
+	"pronunciation": {
+		"all": "\u0261\u025cr\u03b8"
+	},
+	"frequency": 2.49
+}

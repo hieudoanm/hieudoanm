@@ -1,0 +1,30 @@
+{
+	"word": "minimise",
+	"results": [
+		{
+			"definition": "represent as less significant or important",
+			"partOfSpeech": "verb",
+			"synonyms": ["downplay", "minimize", "understate"],
+			"typeOf": ["inform"],
+			"hasTypes": ["trivialise", "trivialize"],
+			"derivation": ["minimisation", "minimum"]
+		},
+		{
+			"definition": "make small or insignificant",
+			"partOfSpeech": "verb",
+			"synonyms": ["minimize"],
+			"typeOf": ["lessen", "decrease", "minify"],
+			"hasTypes": ["hedge"],
+			"antonyms": ["maximise"],
+			"derivation": ["minimisation", "minimum"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["min", "i", "mise"]
+	},
+	"pronunciation": {
+		"all": "'m\u026an\u0259,ma\u026az"
+	},
+	"frequency": 2.03
+}

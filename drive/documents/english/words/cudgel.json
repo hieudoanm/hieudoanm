@@ -1,0 +1,25 @@
+{
+	"word": "cudgel",
+	"results": [
+		{
+			"definition": "strike with a cudgel",
+			"partOfSpeech": "verb",
+			"synonyms": ["fustigate"],
+			"typeOf": ["hit"]
+		},
+		{
+			"definition": "a club that is used as a weapon",
+			"partOfSpeech": "noun",
+			"typeOf": ["club"],
+			"hasTypes": ["bastinado", "shillalah", "shillelagh"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cudg", "el"]
+	},
+	"pronunciation": {
+		"all": "'k\u0259d\u0292\u0259l"
+	},
+	"frequency": 1.82
+}

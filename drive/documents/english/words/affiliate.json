@@ -1,0 +1,54 @@
+{
+	"word": "affiliate",
+	"results": [
+		{
+			"definition": "keep company with; hang out with",
+			"partOfSpeech": "verb",
+			"synonyms": ["associate", "assort", "consort"],
+			"typeOf": ["interact"],
+			"hasTypes": [
+				"date",
+				"accompany",
+				"keep company",
+				"go out",
+				"go steady",
+				"see",
+				"ally",
+				"company",
+				"companion"
+			],
+			"examples": ["She affiliates with her colleagues"]
+		},
+		{
+			"definition": "a subordinate or subsidiary associate; a person who is affiliated with another or with an organization",
+			"partOfSpeech": "noun",
+			"typeOf": ["associate"]
+		},
+		{
+			"definition": "a subsidiary or subordinate organization that is affiliated with another organization",
+			"partOfSpeech": "noun",
+			"typeOf": ["organisation", "organization"],
+			"examples": ["network affiliates"]
+		},
+		{
+			"definition": "join in an affiliation",
+			"partOfSpeech": "verb",
+			"typeOf": ["fall in", "get together", "join"],
+			"derivation": ["affiliation"],
+			"examples": [
+				"The two colleges affiliated",
+				"They affiliated with a national group"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["af", "fil", "i", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u0259'f\u026ali,e\u026at",
+		"noun": "\u0259'f\u026ali\u026at",
+		"verb": "\u0259'f\u026ali,e\u026at"
+	},
+	"frequency": 2.47
+}

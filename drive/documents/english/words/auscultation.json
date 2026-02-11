@@ -1,0 +1,25 @@
+{
+	"frequency": 2.02,
+	"word": "auscultation",
+	"results": [
+		{
+			"definition": "listening to sounds within the body (usually with a stethoscope)",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"diagnostic procedure",
+				"diagnostic technique",
+				"hearing",
+				"listening"
+			],
+			"hasTypes": ["percussion", "pleximetry", "succussion"],
+			"derivation": ["auscultate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["aus", "cul", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u0254sk\u0259l'te\u026a\u0283\u0259n"
+	}
+}

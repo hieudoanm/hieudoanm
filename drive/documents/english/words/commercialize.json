@@ -1,0 +1,27 @@
+{
+	"frequency": 2.19,
+	"word": "commercialize",
+	"results": [
+		{
+			"definition": "make commercial",
+			"partOfSpeech": "verb",
+			"synonyms": ["commercialise", "market"],
+			"inCategory": ["mercantilism", "commerce", "commercialism"],
+			"typeOf": ["change", "modify", "alter"],
+			"derivation": ["commercialization"],
+			"examples": ["Some Amish people have commercialized their way of life"]
+		},
+		{
+			"definition": "exploit for maximal profit, usually by sacrificing quality",
+			"partOfSpeech": "verb",
+			"typeOf": ["tap", "exploit"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["com", "mer", "cial", "ize"]
+	},
+	"pronunciation": {
+		"all": "k\u0259'm\u025cr\u0283\u0259,la\u026az"
+	}
+}

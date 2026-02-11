@@ -1,0 +1,23 @@
+{
+	"word": "shakespeare",
+	"results": [
+		{
+			"definition": "English poet and dramatist considered one of the greatest English writers (1564-1616)",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"bard of avon",
+				"shakspere",
+				"william shakespeare",
+				"william shakspere"
+			],
+			"instanceOf": ["dramatist", "playwright", "poet"],
+			"derivation": ["shakespearean", "shakespearian"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["shake", "speare"]
+	},
+	"pronunciation": "'\u0283e\u026ak,sp\u026ar",
+	"frequency": 3.9
+}

@@ -1,0 +1,39 @@
+{
+	"word": "flowering plant",
+	"results": [
+		{
+			"definition": "plants having seeds in a closed ovary",
+			"partOfSpeech": "noun",
+			"synonyms": ["angiosperm"],
+			"typeOf": ["phanerogam", "spermatophyte", "seed plant"],
+			"hasTypes": [
+				"angiocarp",
+				"flower",
+				"liliopsid",
+				"madderwort",
+				"magnoliopsid",
+				"monocot",
+				"monocotyledon",
+				"rubiaceous plant",
+				"wild flower",
+				"wildflower",
+				"dicot",
+				"dicotyledon",
+				"endogen",
+				"exogen"
+			],
+			"memberOf": [
+				"anthophyta",
+				"magnoliophyta",
+				"class angiospermae",
+				"angiospermae",
+				"division anthophyta",
+				"division magnoliophyta"
+			],
+			"hasParts": ["bloom", "flower", "blossom"]
+		}
+	],
+	"pronunciation": {
+		"all": "'fla\u028a\u0259r\u026a\u014b_pl\u00e6nt"
+	}
+}

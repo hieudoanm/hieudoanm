@@ -1,0 +1,26 @@
+{
+	"word": "plaice",
+	"results": [
+		{
+			"definition": "large European food fish",
+			"partOfSpeech": "noun",
+			"synonyms": ["pleuronectes platessa"],
+			"typeOf": ["righteyed flounder", "righteye flounder"],
+			"memberOf": ["genus pleuronectes", "pleuronectes"]
+		},
+		{
+			"definition": "flesh of large European flatfish",
+			"partOfSpeech": "noun",
+			"typeOf": ["flounder"],
+			"partOf": ["pleuronectes platessa"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["plaice"]
+	},
+	"pronunciation": {
+		"all": "ple\u026as"
+	},
+	"frequency": 1.6
+}

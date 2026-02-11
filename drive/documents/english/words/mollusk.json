@@ -1,0 +1,35 @@
+{
+	"word": "mollusk",
+	"results": [
+		{
+			"definition": "invertebrate having a soft unsegmented body usually enclosed in a shell",
+			"partOfSpeech": "noun",
+			"synonyms": ["mollusc", "shellfish"],
+			"typeOf": ["invertebrate"],
+			"hasTypes": [
+				"cephalopod",
+				"cephalopod mollusk",
+				"chiton",
+				"coat-of-mail shell",
+				"bivalve",
+				"gastropod",
+				"lamellibranch",
+				"pelecypod",
+				"polyplacophore",
+				"scaphopod",
+				"sea cradle",
+				"univalve"
+			],
+			"memberOf": ["mollusca", "phylum mollusca"],
+			"hasParts": ["carapace", "cuticle", "shield", "shellfish", "shell"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["mol", "lusk"]
+	},
+	"pronunciation": {
+		"all": "'m\u0251l\u0259sk"
+	},
+	"frequency": 2.56
+}

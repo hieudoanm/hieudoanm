@@ -1,0 +1,34 @@
+{
+	"word": "luminescence",
+	"results": [
+		{
+			"definition": "light from nonthermal sources",
+			"partOfSpeech": "noun",
+			"synonyms": ["glow"],
+			"typeOf": [
+				"luminance",
+				"luminosity",
+				"brightness level",
+				"luminousness",
+				"brightness",
+				"light"
+			],
+			"derivation": ["luminesce", "luminescent"]
+		},
+		{
+			"definition": "light not due to incandescence; occurs at low temperatures",
+			"partOfSpeech": "noun",
+			"typeOf": ["visible radiation", "light", "visible light"],
+			"hasTypes": ["bioluminescence", "chemiluminescence"],
+			"derivation": ["luminesce", "luminescent"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["lu", "mi", "nes", "cence"]
+	},
+	"pronunciation": {
+		"all": ",lum\u0259'n\u025bs\u0259ns"
+	},
+	"frequency": 1.82
+}

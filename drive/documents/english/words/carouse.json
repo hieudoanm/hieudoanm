@@ -1,0 +1,35 @@
+{
+	"word": "carouse",
+	"results": [
+		{
+			"definition": "engage in boisterous, drunken merrymaking",
+			"partOfSpeech": "verb",
+			"synonyms": ["riot", "roister"],
+			"typeOf": [
+				"whoop it up",
+				"revel",
+				"wassail",
+				"jollify",
+				"make happy",
+				"make merry",
+				"make whoopie",
+				"racket"
+			],
+			"derivation": ["carousal", "carouser"]
+		},
+		{
+			"definition": "revelry in drinking; a merry drinking party",
+			"partOfSpeech": "noun",
+			"synonyms": ["bender", "booze-up", "carousal", "toot"],
+			"typeOf": ["revelry", "revel"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ca", "rouse"]
+	},
+	"pronunciation": {
+		"all": "k\u0259'ra\u028az"
+	},
+	"frequency": 1.6
+}

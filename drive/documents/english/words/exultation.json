@@ -1,0 +1,28 @@
+{
+	"word": "exultation",
+	"results": [
+		{
+			"definition": "the utterance of sounds expressing great joy",
+			"partOfSpeech": "noun",
+			"synonyms": ["jubilation", "rejoicing"],
+			"typeOf": ["utterance", "vocalization"],
+			"derivation": ["exult"]
+		},
+		{
+			"definition": "a feeling of extreme joy",
+			"partOfSpeech": "noun",
+			"synonyms": ["jubilance", "jubilancy", "jubilation"],
+			"typeOf": ["joy", "joyfulness", "joyousness"],
+			"hasTypes": ["triumph"],
+			"derivation": ["exult"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ex", "ul", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u025bgz\u0259l'te\u026a\u0283\u0259n"
+	},
+	"frequency": 1.97
+}

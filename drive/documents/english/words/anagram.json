@@ -1,0 +1,31 @@
+{
+	"word": "anagram",
+	"results": [
+		{
+			"definition": "read letters out of order to discover a hidden meaning",
+			"partOfSpeech": "verb",
+			"synonyms": ["anagrammatise", "anagrammatize"],
+			"typeOf": ["read"]
+		},
+		{
+			"definition": "a word or phrase spelled by rearranging the letters of another word or phrase",
+			"partOfSpeech": "noun",
+			"typeOf": ["word"],
+			"hasTypes": ["antigram"],
+			"derivation": [
+				"anagrammatic",
+				"anagrammatical",
+				"anagrammatise",
+				"anagrammatize"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["an", "a", "gram"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6n\u0259,gr\u00e6m"
+	},
+	"frequency": 2.5
+}

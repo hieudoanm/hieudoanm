@@ -1,0 +1,35 @@
+{
+	"word": "expiation",
+	"results": [
+		{
+			"definition": "compensation for a wrong",
+			"partOfSpeech": "noun",
+			"synonyms": ["atonement", "satisfaction"],
+			"typeOf": [
+				"redress",
+				"restitution",
+				"damages",
+				"indemnification",
+				"indemnity",
+				"amends"
+			],
+			"derivation": ["expiate"]
+		},
+		{
+			"definition": "the act of atoning for sin or wrongdoing (especially appeasing a deity)",
+			"partOfSpeech": "noun",
+			"synonyms": ["atonement", "propitiation"],
+			"typeOf": ["salvation", "redemption"],
+			"hasTypes": ["reparation", "amends"],
+			"derivation": ["expiate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ex", "pi", "a", "tion"]
+	},
+	"pronunciation": {
+		"all": ",\u025bkspi'e\u026a\u0283\u0259n"
+	},
+	"frequency": 2.2
+}

@@ -1,0 +1,34 @@
+{
+	"word": "hot pepper",
+	"results": [
+		{
+			"definition": "plant bearing very hot medium-sized oblong red peppers; grown principally in the Gulf Coast states for production of hot sauce",
+			"partOfSpeech": "noun",
+			"synonyms": ["capsicum frutescens", "tabasco pepper", "tabasco plant"],
+			"typeOf": ["capsicum pepper plant", "capsicum", "pepper"],
+			"memberOf": ["capsicum", "genus capsicum"],
+			"hasParts": ["red pepper", "tabasco"]
+		},
+		{
+			"definition": "any of various pungent capsicum fruits",
+			"partOfSpeech": "noun",
+			"typeOf": ["pepper"],
+			"hasTypes": [
+				"tabasco",
+				"chile",
+				"chili",
+				"chili pepper",
+				"chilli",
+				"chilly",
+				"red pepper"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hot pep", "per"]
+	},
+	"pronunciation": {
+		"all": "h\u0251t_'p\u025bp\u0259r"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"word": "rampart",
+	"results": [
+		{
+			"definition": "an embankment built around a space for defensive purposes",
+			"partOfSpeech": "noun",
+			"synonyms": ["bulwark", "wall"],
+			"typeOf": ["embankment"],
+			"hasTypes": [
+				"fraise",
+				"battlement",
+				"bailey",
+				"merlon",
+				"crenellation",
+				"earthwork",
+				"crenelation"
+			],
+			"hasInstances": [
+				"antonine wall",
+				"chinese wall",
+				"great wall",
+				"great wall of china"
+			],
+			"partOf": ["fortification", "munition"],
+			"examples": ["they stormed the ramparts of the city"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ram", "part"]
+	},
+	"pronunciation": {
+		"all": "'r\u00e6mp\u0251rt"
+	},
+	"frequency": 2.68
+}

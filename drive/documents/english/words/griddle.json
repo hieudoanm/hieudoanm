@@ -1,0 +1,25 @@
+{
+	"word": "griddle",
+	"results": [
+		{
+			"definition": "cooking utensil consisting of a flat heated surface (as on top of a stove) on which food is cooked",
+			"partOfSpeech": "noun",
+			"typeOf": ["cooking utensil", "cookware"]
+		},
+		{
+			"definition": "cook on a griddle",
+			"partOfSpeech": "verb",
+			"inCategory": ["cookery", "cooking", "preparation"],
+			"typeOf": ["fry"],
+			"examples": ["griddle pancakes"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["grid", "dle"]
+	},
+	"pronunciation": {
+		"all": "'gr\u026ad\u0259l"
+	},
+	"frequency": 1.97
+}

@@ -1,0 +1,41 @@
+{
+	"word": "expiry",
+	"results": [
+		{
+			"definition": "a coming to an end of a contract period",
+			"partOfSpeech": "noun",
+			"synonyms": ["expiration", "termination"],
+			"typeOf": ["end", "ending"],
+			"examples": ["the expiry of his driver's license"]
+		},
+		{
+			"definition": "the event of dying or departure from life",
+			"partOfSpeech": "noun",
+			"synonyms": ["death", "decease"],
+			"typeOf": ["modification", "alteration", "change"],
+			"hasTypes": [
+				"going",
+				"human death",
+				"loss",
+				"martyrdom",
+				"megadeath",
+				"passing",
+				"release",
+				"wrongful death",
+				"departure",
+				"exit",
+				"expiration",
+				"fatality"
+			],
+			"hasInstances": ["crucifixion"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ex", "pi", "ry"]
+	},
+	"pronunciation": {
+		"all": "\u026ak'spa\u026a\u0259ri"
+	},
+	"frequency": 2.57
+}

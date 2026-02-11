@@ -1,0 +1,31 @@
+{
+	"word": "encephalogram",
+	"results": [
+		{
+			"definition": "a graphical record of electrical activity of the brain; produced by an electroencephalograph",
+			"partOfSpeech": "noun",
+			"synonyms": ["eeg", "electroencephalogram"],
+			"typeOf": ["graph", "graphical record", "graphical recording"]
+		},
+		{
+			"definition": "an X ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast",
+			"partOfSpeech": "noun",
+			"synonyms": ["pneumoencephalogram"],
+			"typeOf": [
+				"roentgenogram",
+				"x-ray",
+				"x-ray photograph",
+				"x-ray picture",
+				"x ray"
+			]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["en", "ceph", "a", "lo", "gram"]
+	},
+	"pronunciation": {
+		"all": "\u025bn's\u025bf\u0259l\u0259,gr\u00e6m"
+	},
+	"frequency": 1.9
+}

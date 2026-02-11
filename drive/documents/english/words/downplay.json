@@ -1,0 +1,30 @@
+{
+	"word": "downplay",
+	"results": [
+		{
+			"definition": "understate the importance or quality of",
+			"partOfSpeech": "verb",
+			"synonyms": ["background", "play down"],
+			"typeOf": [
+				"emphasize",
+				"punctuate",
+				"stress",
+				"accent",
+				"accentuate",
+				"emphasise"
+			],
+			"hasTypes": ["soft-pedal", "wave off"]
+		},
+		{
+			"definition": "represent as less significant or important",
+			"partOfSpeech": "verb",
+			"synonyms": ["minimise", "minimize", "understate"],
+			"typeOf": ["inform"],
+			"hasTypes": ["trivialize", "trivialise"]
+		}
+	],
+	"pronunciation": {
+		"all": "d\u00e6\u028an'ple\u026a"
+	},
+	"frequency": 2.08
+}

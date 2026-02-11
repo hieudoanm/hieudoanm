@@ -1,0 +1,34 @@
+{
+	"word": "wrapping",
+	"results": [
+		{
+			"definition": "the covering (usually paper or cellophane) in which something is wrapped",
+			"partOfSpeech": "noun",
+			"synonyms": ["wrap", "wrapper"],
+			"typeOf": ["covering"],
+			"hasTypes": [
+				"gift wrapping",
+				"jacket",
+				"plastic film",
+				"plastic wrap",
+				"envelope",
+				"film"
+			]
+		},
+		{
+			"definition": "an enveloping bandage",
+			"partOfSpeech": "noun",
+			"synonyms": ["swathe"],
+			"typeOf": ["patch", "bandage"],
+			"derivation": ["wrap"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wrap", "ping"]
+	},
+	"pronunciation": {
+		"all": "'r\u00e6p\u026a\u014b"
+	},
+	"frequency": 3.36
+}

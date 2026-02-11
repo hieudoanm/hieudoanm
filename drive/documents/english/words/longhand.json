@@ -1,0 +1,26 @@
+{
+	"word": "longhand",
+	"results": [
+		{
+			"definition": "rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper",
+			"partOfSpeech": "noun",
+			"synonyms": ["cursive", "cursive script", "running hand"],
+			"typeOf": ["handwriting", "hand", "script"],
+			"hasTypes": ["minuscule", "italic", "copperplate", "round hand"]
+		},
+		{
+			"definition": "having words written out in full by hand",
+			"partOfSpeech": "adjective",
+			"similarTo": ["written"],
+			"examples": ["longhand writing"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["long", "hand"]
+	},
+	"pronunciation": {
+		"all": "'l\u0254\u014b,h\u00e6nd"
+	},
+	"frequency": 2.24
+}

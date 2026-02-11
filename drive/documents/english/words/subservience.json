@@ -1,0 +1,34 @@
+{
+	"word": "subservience",
+	"results": [
+		{
+			"definition": "in a subservient state",
+			"partOfSpeech": "noun",
+			"synonyms": ["subservientness"],
+			"typeOf": ["subordinateness", "subsidiarity"]
+		},
+		{
+			"definition": "abject or cringing submissiveness",
+			"partOfSpeech": "noun",
+			"synonyms": ["obsequiousness", "servility"],
+			"typeOf": ["submissiveness"],
+			"hasTypes": ["sycophancy"],
+			"derivation": ["subservient"]
+		},
+		{
+			"definition": "the condition of being something that is useful in reaching an end or carrying out a plan",
+			"partOfSpeech": "noun",
+			"typeOf": ["condition", "status"],
+			"derivation": ["subserve"],
+			"examples": ["all his actions were in subservience to the general plan"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["sub", "ser", "vi", "ence"]
+	},
+	"pronunciation": {
+		"all": "s\u0259b's\u0259rvi\u0259ns"
+	},
+	"frequency": 2.03
+}

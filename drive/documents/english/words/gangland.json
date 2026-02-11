@@ -1,0 +1,33 @@
+{
+	"word": "gangland",
+	"results": [
+		{
+			"definition": "underworld organizations",
+			"partOfSpeech": "noun",
+			"synonyms": ["gangdom", "organized crime"],
+			"typeOf": ["social group"],
+			"hasTypes": [
+				"camorra",
+				"crime syndicate",
+				"family",
+				"maffia",
+				"mafia",
+				"mob",
+				"black hand",
+				"sicilian mafia",
+				"syndicate",
+				"yakuza"
+			],
+			"hasMembers": ["gang", "mob", "pack", "ring"],
+			"memberOf": ["underworld"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gang", "land"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6\u014b,l\u00e6nd"
+	},
+	"frequency": 2.49
+}

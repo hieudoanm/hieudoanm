@@ -1,0 +1,26 @@
+{
+	"word": "buffalo grass",
+	"results": [
+		{
+			"definition": "short grass growing on dry plains of central United States (where buffalo roam)",
+			"partOfSpeech": "noun",
+			"synonyms": ["buchloe dactyloides"],
+			"typeOf": ["grass"],
+			"memberOf": ["buchloe", "genus buchloe"]
+		},
+		{
+			"definition": "low mat-forming grass of southern United States and tropical America; grown as a lawn grass",
+			"partOfSpeech": "noun",
+			"synonyms": ["st. augustine grass", "stenotaphrum secundatum"],
+			"typeOf": ["grass"],
+			"memberOf": ["genus stenotaphrum", "stenotaphrum"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["buf", "fa", "lo grass"]
+	},
+	"pronunciation": {
+		"all": "'b\u0259f\u0259,lo\u028a_gr\u00e6s"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"word": "nightfall",
+	"results": [
+		{
+			"definition": "the time of day immediately following sunset",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"crepuscle",
+				"crepuscule",
+				"dusk",
+				"evenfall",
+				"fall",
+				"gloam",
+				"gloaming",
+				"twilight"
+			],
+			"typeOf": ["hour", "time of day"],
+			"hasTypes": ["night"],
+			"partOf": ["eve", "eventide", "even", "evening"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["night", "fall"]
+	},
+	"pronunciation": {
+		"all": "'na\u026atf\u0251l"
+	},
+	"frequency": 3.28
+}

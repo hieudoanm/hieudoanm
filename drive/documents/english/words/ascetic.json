@@ -1,0 +1,36 @@
+{
+	"word": "ascetic",
+	"results": [
+		{
+			"definition": "pertaining to or characteristic of an ascetic or the practice of rigorous self-discipline",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ascetical"],
+			"examples": ["ascetic practices"]
+		},
+		{
+			"definition": "practicing great self-denial",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ascetical", "austere", "spartan"],
+			"similarTo": ["abstemious"],
+			"examples": [
+				"Be systematically ascetic...do...something for no other reason than that you would rather not do it"
+			]
+		},
+		{
+			"definition": "someone who practices self denial as a spiritual discipline",
+			"partOfSpeech": "noun",
+			"synonyms": ["abstainer"],
+			"typeOf": ["religious person"],
+			"hasTypes": ["puritan", "stylite"],
+			"derivation": ["ascetical"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["as", "cet", "ic"]
+	},
+	"pronunciation": {
+		"all": "\u0259's\u025bt\u026ak"
+	},
+	"frequency": 2.62
+}

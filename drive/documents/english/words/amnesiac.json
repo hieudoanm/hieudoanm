@@ -1,0 +1,25 @@
+{
+	"word": "amnesiac",
+	"results": [
+		{
+			"definition": "suffering from a partial loss of memory",
+			"partOfSpeech": "adjective",
+			"synonyms": ["amnesic"],
+			"similarTo": ["forgetful", "mindless", "unmindful"]
+		},
+		{
+			"definition": "a person suffering from amnesia",
+			"partOfSpeech": "noun",
+			"synonyms": ["amnesic"],
+			"typeOf": ["handicapped person"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["am", "ne", "si", "ac"]
+	},
+	"pronunciation": {
+		"all": "\u00e6m'ni\u0292i,\u00e6k"
+	},
+	"frequency": 2.4
+}

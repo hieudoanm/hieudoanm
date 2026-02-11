@@ -1,0 +1,42 @@
+{
+	"word": "authorized",
+	"results": [
+		{
+			"definition": "endowed with authority",
+			"partOfSpeech": "adjective",
+			"synonyms": ["authorised"],
+			"also": ["official", "lawful", "legitimate"],
+			"attribute": ["mandate", "authorization", "authorisation"],
+			"similarTo": [
+				"empowered",
+				"glorified",
+				"licenced",
+				"licensed",
+				"sanctioned",
+				"sceptered",
+				"sceptred",
+				"accredited",
+				"approved",
+				"canonised",
+				"canonized",
+				"commissioned"
+			],
+			"antonyms": ["unauthorized"]
+		},
+		{
+			"definition": "sanctioned by established authority",
+			"partOfSpeech": "adjective",
+			"synonyms": ["authorised", "authoritative"],
+			"similarTo": ["official"],
+			"examples": ["the authorized biography"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["au", "thor", "ized"]
+	},
+	"pronunciation": {
+		"all": "'\u0254\u03b8\u0259,ra\u026azd"
+	},
+	"frequency": 3.69
+}

@@ -1,0 +1,39 @@
+{
+	"word": "serenity",
+	"results": [
+		{
+			"definition": "the absence of mental stress or anxiety",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"ataraxis",
+				"heartsease",
+				"peace",
+				"peace of mind",
+				"peacefulness",
+				"repose"
+			],
+			"typeOf": ["quietness", "quietude", "tranquility", "tranquillity"]
+		},
+		{
+			"definition": "a disposition free from stress or emotion",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"placidity",
+				"quiet",
+				"repose",
+				"tranquility",
+				"tranquillity"
+			],
+			"typeOf": ["equanimity", "calm", "calmness", "composure"],
+			"hasTypes": ["ataraxia"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["se", "ren", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "s\u0259'r\u025bn\u026ati"
+	},
+	"frequency": 3.26
+}

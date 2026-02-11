@@ -1,0 +1,40 @@
+{
+	"word": "overdrive",
+	"results": [
+		{
+			"definition": "make use of too often or too extensively",
+			"partOfSpeech": "verb",
+			"synonyms": ["overuse"],
+			"typeOf": ["utilize", "apply", "employ", "use", "utilise"]
+		},
+		{
+			"definition": "a high gear used at high speeds to maintain the driving speed with less output power",
+			"partOfSpeech": "noun",
+			"typeOf": ["high gear", "high"]
+		},
+		{
+			"definition": "drive or work too hard",
+			"partOfSpeech": "verb",
+			"typeOf": ["overwork", "exploit"]
+		},
+		{
+			"definition": "the state of high or excessive activity or productivity or concentration",
+			"partOfSpeech": "noun",
+			"typeOf": ["action", "activity", "activeness"],
+			"examples": [
+				"Troops are ready to go into overdrive as soon as the signal is given",
+				"Melissa's brain was in overdrive"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["o", "ver", "drive"]
+	},
+	"pronunciation": {
+		"all": "'o\u028av\u0259,dra\u026av",
+		"noun": "'o\u028av\u0259r,dra\u026av",
+		"verb": ",o\u028av\u0259r'dra\u026av"
+	},
+	"frequency": 2.72
+}

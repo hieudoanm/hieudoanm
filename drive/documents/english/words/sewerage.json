@@ -1,0 +1,27 @@
+{
+	"word": "sewerage",
+	"results": [
+		{
+			"definition": "a waste pipe that carries away sewage or surface water",
+			"partOfSpeech": "noun",
+			"synonyms": ["cloaca", "sewer"],
+			"typeOf": ["drainpipe", "drain", "waste pipe"],
+			"partOf": ["sewer system", "sewage system", "sewage works"]
+		},
+		{
+			"definition": "waste matter carried away in sewers or drains",
+			"partOfSpeech": "noun",
+			"synonyms": ["sewage"],
+			"typeOf": ["waste product", "waste", "waste material", "waste matter"],
+			"hasSubstances": ["wastewater", "effluent", "sewer water"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sew", "er", "age"]
+	},
+	"pronunciation": {
+		"all": "'su\u0259r\u026ad\u0292"
+	},
+	"frequency": 2.2
+}

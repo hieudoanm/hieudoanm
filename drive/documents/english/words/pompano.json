@@ -1,0 +1,30 @@
+{
+	"word": "pompano",
+	"results": [
+		{
+			"definition": "any of several deep-bodied food fishes of western Atlantic and Gulf of Mexico",
+			"partOfSpeech": "noun",
+			"typeOf": ["carangid", "carangid fish"],
+			"hasTypes": [
+				"permit",
+				"trachinotus falcatus",
+				"florida pompano",
+				"trachinotus carolinus"
+			],
+			"memberOf": ["trachinotus", "genus trachinotus"]
+		},
+		{
+			"definition": "flesh of pompano; warm-water fatty fish",
+			"partOfSpeech": "noun",
+			"typeOf": ["saltwater fish"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["pom", "pa", "no"]
+	},
+	"pronunciation": {
+		"all": "'p\u0251mp\u0259,no\u028a"
+	},
+	"frequency": 1.9
+}

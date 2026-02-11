@@ -1,0 +1,34 @@
+{
+	"word": "prophase",
+	"results": [
+		{
+			"definition": "the first stage of meiosis",
+			"partOfSpeech": "noun",
+			"typeOf": ["phase of cell division"],
+			"hasParts": [
+				"diplotene",
+				"leptotene",
+				"zygotene",
+				"pachytene",
+				"synezesis",
+				"synizesis",
+				"diakinesis"
+			],
+			"partOf": ["miosis", "reduction division", "meiosis"]
+		},
+		{
+			"definition": "the first stage of mitosis",
+			"partOfSpeech": "noun",
+			"typeOf": ["phase of cell division"],
+			"partOf": ["mitosis"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pro", "phase"]
+	},
+	"pronunciation": {
+		"all": "'pro\u028a,fe\u026az"
+	},
+	"frequency": 1.73
+}

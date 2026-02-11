@@ -1,0 +1,33 @@
+{
+	"word": "sheathe",
+	"results": [
+		{
+			"definition": "cover with a protective sheathing",
+			"partOfSpeech": "verb",
+			"typeOf": ["cover"],
+			"hasTypes": ["invaginate"],
+			"derivation": ["sheathing"],
+			"examples": ["sheathe her face"]
+		},
+		{
+			"definition": "enclose with a sheath",
+			"partOfSpeech": "verb",
+			"typeOf": ["enfold", "envelop", "enwrap", "wrap", "enclose"],
+			"antonyms": ["unsheathe"],
+			"examples": ["sheathe a sword"]
+		},
+		{
+			"definition": "plunge or bury (a knife or sword) in flesh",
+			"partOfSpeech": "verb",
+			"typeOf": ["plunge", "immerse"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["sheathe"]
+	},
+	"pronunciation": {
+		"all": "\u0283i\u00f0"
+	},
+	"frequency": 2.12
+}

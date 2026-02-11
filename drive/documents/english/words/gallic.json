@@ -1,0 +1,26 @@
+{
+	"word": "gallic",
+	"results": [
+		{
+			"definition": "of or pertaining to France or the people of France",
+			"partOfSpeech": "adjective",
+			"synonyms": ["french"],
+			"pertainsTo": ["france"],
+			"derivation": ["gaul"]
+		},
+		{
+			"definition": "of or pertaining to Gaul or the Gauls",
+			"partOfSpeech": null,
+			"pertainsTo": ["gaul"],
+			"derivation": ["gaul"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gal", "lic"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6l\u026ak"
+	},
+	"frequency": 2.38
+}

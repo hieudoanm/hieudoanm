@@ -1,0 +1,28 @@
+{
+	"word": "pessimism",
+	"results": [
+		{
+			"definition": "a general disposition to look on the dark side and to expect the worst in all things",
+			"partOfSpeech": "noun",
+			"typeOf": ["disposition", "temperament"],
+			"antonyms": ["optimism"],
+			"derivation": ["pessimist", "pessimistic"]
+		},
+		{
+			"definition": "the feeling that things will turn out badly",
+			"partOfSpeech": "noun",
+			"typeOf": ["despair"],
+			"hasTypes": ["cynicism"],
+			"antonyms": ["optimism"],
+			"derivation": ["pessimist", "pessimistic"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["pes", "si", "mism"]
+	},
+	"pronunciation": {
+		"all": "'p\u025bs\u0259,m\u026az\u0259m"
+	},
+	"frequency": 2.43
+}

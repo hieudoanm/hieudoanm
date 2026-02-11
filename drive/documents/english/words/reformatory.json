@@ -1,0 +1,28 @@
+{
+	"word": "reformatory",
+	"results": [
+		{
+			"definition": "tending to reform",
+			"partOfSpeech": "adjective",
+			"synonyms": ["reformative"],
+			"similarTo": ["helpful"],
+			"derivation": ["reform"],
+			"examples": ["reformatory punishment"]
+		},
+		{
+			"definition": "correctional institution for the detention and discipline and training of young or first offenders",
+			"partOfSpeech": "noun",
+			"synonyms": ["reform school", "training school"],
+			"typeOf": ["correctional institution"],
+			"hasTypes": ["borstal"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["re", "form", "a", "to", "ry"]
+	},
+	"pronunciation": {
+		"all": "r\u026a'f\u0254rm\u0259,to\u028ari"
+	},
+	"frequency": 2.91
+}

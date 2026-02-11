@@ -1,0 +1,32 @@
+{
+	"word": "pitchman",
+	"results": [
+		{
+			"definition": "someone who travels about selling his wares (as on the streets or at carnivals)",
+			"partOfSpeech": "noun",
+			"synonyms": ["hawker", "packman", "peddler", "pedlar"],
+			"typeOf": ["marketer", "seller", "trafficker", "vender", "vendor"],
+			"hasTypes": [
+				"sandboy",
+				"cheapjack",
+				"crier",
+				"muffin man",
+				"chapman",
+				"transmigrante"
+			]
+		},
+		{
+			"definition": "an aggressive salesman who uses a fast line of talk to sell something",
+			"partOfSpeech": "noun",
+			"typeOf": ["salesman"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pitch", "man"]
+	},
+	"pronunciation": {
+		"all": "'p\u026a\u02a7m\u0259n"
+	},
+	"frequency": 1.82
+}

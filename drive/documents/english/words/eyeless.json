@@ -1,0 +1,30 @@
+{
+	"word": "eyeless",
+	"results": [
+		{
+			"definition": "lacking sight",
+			"partOfSpeech": "adjective",
+			"synonyms": ["sightless", "unseeing"],
+			"similarTo": ["blind", "unsighted"],
+			"derivation": ["eyelessness"],
+			"examples": ["blind as an eyeless beggar"]
+		},
+		{
+			"definition": "lacking eyes or eyelike features",
+			"partOfSpeech": null,
+			"antonyms": ["eyed"],
+			"examples": [
+				"eyeless fish that evolved in dark caves",
+				"an eyeless needle"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["eye", "less"]
+	},
+	"pronunciation": {
+		"all": "'a\u026al\u026as"
+	},
+	"frequency": 1.9
+}

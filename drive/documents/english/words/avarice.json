@@ -1,0 +1,27 @@
+{
+	"word": "avarice",
+	"results": [
+		{
+			"definition": "extreme greed for material wealth",
+			"partOfSpeech": "noun",
+			"synonyms": ["avariciousness", "covetousness", "cupidity"],
+			"typeOf": ["greed"],
+			"derivation": ["avaricious"]
+		},
+		{
+			"definition": "reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)",
+			"partOfSpeech": "noun",
+			"synonyms": ["avaritia", "covetousness", "greed", "rapacity"],
+			"typeOf": ["deadly sin", "mortal sin"],
+			"derivation": ["avaricious"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["av", "a", "rice"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6v\u0259r\u026as"
+	},
+	"frequency": 2.5
+}

@@ -1,0 +1,36 @@
+{
+	"word": "spaceman",
+	"results": [
+		{
+			"definition": "a person trained to travel in a spacecraft",
+			"partOfSpeech": "noun",
+			"synonyms": ["astronaut", "cosmonaut"],
+			"typeOf": ["traveler", "traveller"],
+			"hasTypes": ["spacewalker"],
+			"hasInstances": [
+				"gagarin",
+				"glenn",
+				"john glenn",
+				"john herschel glenn jr.",
+				"neil armstrong",
+				"shepard",
+				"tereshkova",
+				"valentina tereshkova",
+				"valentina vladmirovna tereshkova",
+				"yuri alekseyevich gagarin",
+				"alan bartlett shepard jr.",
+				"yuri gagarin",
+				"alan shepard",
+				"armstrong"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["space", "man"]
+	},
+	"pronunciation": {
+		"all": "'spe\u026as,m\u00e6n"
+	},
+	"frequency": 2.68
+}

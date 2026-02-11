@@ -1,0 +1,26 @@
+{
+	"word": "fatality",
+	"results": [
+		{
+			"definition": "a death resulting from an accident or a disaster",
+			"partOfSpeech": "noun",
+			"synonyms": ["human death"],
+			"typeOf": ["decease", "expiry", "death"],
+			"hasTypes": ["violent death", "killing", "casualty", "fatal accident"]
+		},
+		{
+			"definition": "the quality of being able to cause death or fatal disasters",
+			"partOfSpeech": "noun",
+			"typeOf": ["deadliness", "lethality"],
+			"derivation": ["fatal"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["fa", "tal", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "fe\u026a't\u00e6l\u026ati"
+	},
+	"frequency": 2.85
+}

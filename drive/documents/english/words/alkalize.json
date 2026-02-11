@@ -1,0 +1,23 @@
+{
+	"frequency": 1.74,
+	"word": "alkalize",
+	"results": [
+		{
+			"definition": "turn basic and less acidic",
+			"partOfSpeech": "verb",
+			"synonyms": ["alkalify", "alkalise", "basify"],
+			"inCategory": ["chemical science", "chemistry"],
+			"typeOf": ["change state", "turn"],
+			"antonyms": ["acidify"],
+			"derivation": ["alkali", "alkalizer"],
+			"examples": ["the solution alkalized"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["al", "ka", "lize"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6lk\u0259,la\u026az"
+	}
+}

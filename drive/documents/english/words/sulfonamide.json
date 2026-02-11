@@ -1,0 +1,33 @@
+{
+	"frequency": 1.74,
+	"word": "sulfonamide",
+	"results": [
+		{
+			"definition": "antibacterial consisting of any of several synthetic organic compounds capable of inhibiting the growth of bacteria that require PABA",
+			"partOfSpeech": "noun",
+			"synonyms": ["sulfa", "sulfa drug", "sulpha"],
+			"typeOf": ["antibacterial", "antibacterial drug", "bactericide"],
+			"hasTypes": [
+				"gantanol",
+				"gantrisin",
+				"sulamyd",
+				"sulfacetamide",
+				"sulfadiazine",
+				"sulfamethazine",
+				"sulfamethoxazole",
+				"sulfamezathine",
+				"sulfanilamide",
+				"sulfapyridine",
+				"sulfisoxazole",
+				"thiosulfil"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["sul", "fon", "a", "mide"]
+	},
+	"pronunciation": {
+		"all": "s\u0259l'f\u0251n\u0259,ma\u026ad"
+	}
+}

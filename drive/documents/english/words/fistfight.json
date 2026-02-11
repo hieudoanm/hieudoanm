@@ -1,0 +1,25 @@
+{
+	"word": "fistfight",
+	"results": [
+		{
+			"definition": "a fight with bare fists",
+			"partOfSpeech": "noun",
+			"synonyms": ["fisticuffs", "slugfest"],
+			"typeOf": ["combat", "fight", "fighting", "scrap"],
+			"hasTypes": ["punch-up"]
+		},
+		{
+			"definition": "fight with the fists",
+			"partOfSpeech": "verb",
+			"typeOf": ["struggle", "contend", "fight"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["fist", "fight"]
+	},
+	"pronunciation": {
+		"all": "'f\u026ast,fa\u026at"
+	},
+	"frequency": 2.24
+}

@@ -1,0 +1,26 @@
+{
+	"word": "adjournment",
+	"results": [
+		{
+			"definition": "the termination of a meeting",
+			"partOfSpeech": "noun",
+			"synonyms": ["dissolution"],
+			"typeOf": ["conclusion", "ending", "termination"],
+			"derivation": ["adjourn"]
+		},
+		{
+			"definition": "the act of postponing to another time or place",
+			"partOfSpeech": "noun",
+			"typeOf": ["deferment", "deferral", "postponement"],
+			"derivation": ["adjourn"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ad", "journ", "ment"]
+	},
+	"pronunciation": {
+		"all": "\u0259'd\u0292\u025crnm\u0259nt"
+	},
+	"frequency": 2.27
+}

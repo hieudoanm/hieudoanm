@@ -1,0 +1,27 @@
+{
+	"word": "grumbling",
+	"results": [
+		{
+			"definition": "continuous full and low-pitched throbbing sound",
+			"partOfSpeech": "adjective",
+			"synonyms": ["rumbling"],
+			"similarTo": ["full"]
+		},
+		{
+			"definition": "a complaint uttered in a low and indistinct tone",
+			"partOfSpeech": "noun",
+			"synonyms": ["grumble", "murmur", "murmuring", "mutter", "muttering"],
+			"typeOf": ["complaint"],
+			"derivation": ["grumble"]
+		},
+		{
+			"definition": "a loud low dull continuous noise",
+			"partOfSpeech": "noun",
+			"synonyms": ["grumble", "rumble", "rumbling"],
+			"typeOf": ["noise"],
+			"derivation": ["grumble"]
+		}
+	],
+	"pronunciation": "'\u0261r\u028cmb\u028cl\u026a\u014b",
+	"frequency": 2.97
+}

@@ -1,0 +1,26 @@
+{
+	"word": "spectroscopy",
+	"results": [
+		{
+			"definition": "the use of spectroscopes to analyze spectra",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"spectrographic analysis",
+				"spectrometry",
+				"spectroscopic analysis",
+				"spectrum analysis"
+			],
+			"typeOf": ["chemical analysis", "qualitative analysis"],
+			"hasTypes": ["mass spectroscopy", "microwave spectroscopy"],
+			"derivation": ["spectroscopic", "spectroscopical"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["spec", "tros", "co", "py"]
+	},
+	"pronunciation": {
+		"all": "sp\u025bk'tr\u0251sk\u0259pi"
+	},
+	"frequency": 1.9
+}

@@ -1,0 +1,37 @@
+{
+	"word": "bedrock",
+	"results": [
+		{
+			"definition": "principles from which other truths can be derived",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"basic principle",
+				"basics",
+				"fundamental principle",
+				"fundamentals"
+			],
+			"typeOf": ["principle"],
+			"hasTypes": [
+				"abc's",
+				"abcs",
+				"alphabet",
+				"first principles",
+				"abc",
+				"rudiments"
+			]
+		},
+		{
+			"definition": "solid unweathered rock lying beneath surface deposits of soil",
+			"partOfSpeech": "noun",
+			"typeOf": ["stone", "rock"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bed", "rock"]
+	},
+	"pronunciation": {
+		"all": "'b\u025bd,r\u0251k"
+	},
+	"frequency": 2.77
+}

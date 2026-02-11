@@ -1,0 +1,36 @@
+{
+	"word": "saxophonist",
+	"results": [
+		{
+			"definition": "a musician who plays the saxophone",
+			"partOfSpeech": "noun",
+			"synonyms": ["saxist"],
+			"typeOf": ["player", "musician", "instrumentalist"],
+			"hasTypes": [
+				"alto saxophonist",
+				"tenor saxophonist",
+				"altoist",
+				"tenorist"
+			],
+			"hasInstances": [
+				"parker",
+				"pres young",
+				"yardbird parker",
+				"young",
+				"bird parker",
+				"charles christopher parker",
+				"charlie parker",
+				"coleman hawkins",
+				"hawkins",
+				"lester willis young"
+			],
+			"derivation": ["saxophone"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["sax", "o", "phon", "ist"]
+	},
+	"pronunciation": "'s\u00e6ks\u028c,fo\u028an\u026ast",
+	"frequency": 1.73
+}

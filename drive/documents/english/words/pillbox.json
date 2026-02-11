@@ -1,0 +1,29 @@
+{
+	"word": "pillbox",
+	"results": [
+		{
+			"definition": "a small round woman's hat",
+			"partOfSpeech": "noun",
+			"synonyms": ["toque", "turban"],
+			"typeOf": ["millinery", "woman's hat"]
+		},
+		{
+			"definition": "a small case for holding pills",
+			"partOfSpeech": "noun",
+			"typeOf": ["case"]
+		},
+		{
+			"definition": "a small enclosed gun emplacement (usually of fortified concrete)",
+			"partOfSpeech": "noun",
+			"typeOf": ["gun emplacement", "weapons emplacement"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pill", "box"]
+	},
+	"pronunciation": {
+		"all": "'p\u026al,b\u0251ks"
+	},
+	"frequency": 2.17
+}

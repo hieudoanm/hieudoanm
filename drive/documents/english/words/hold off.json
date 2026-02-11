@@ -1,0 +1,20 @@
+{
+	"word": "hold off",
+	"results": [
+		{
+			"definition": "wait before acting",
+			"partOfSpeech": "verb",
+			"synonyms": ["hold back", "wait"],
+			"typeOf": ["move", "act"],
+			"hasTypes": ["hold out", "delay"]
+		},
+		{
+			"definition": "resist and fight to a standoff",
+			"partOfSpeech": "verb",
+			"typeOf": ["withstand", "resist", "hold out", "stand firm"]
+		}
+	],
+	"pronunciation": {
+		"all": "ho\u028ald_\u0254f"
+	}
+}

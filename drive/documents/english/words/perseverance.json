@@ -1,0 +1,33 @@
+{
+	"word": "perseverance",
+	"results": [
+		{
+			"definition": "persistent determination",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"doggedness",
+				"persistence",
+				"persistency",
+				"pertinacity",
+				"tenaciousness",
+				"tenacity"
+			],
+			"typeOf": ["determination", "purpose"]
+		},
+		{
+			"definition": "the act of persisting or persevering; continuing or repeating behavior",
+			"partOfSpeech": "noun",
+			"synonyms": ["perseveration", "persistence"],
+			"typeOf": ["continuance", "continuation"],
+			"derivation": ["persevere"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["per", "se", "ver", "ance"]
+	},
+	"pronunciation": {
+		"all": ",p\u025crs\u0259'vir\u0259ns"
+	},
+	"frequency": 3.11
+}

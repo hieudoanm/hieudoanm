@@ -1,0 +1,34 @@
+{
+	"word": "mysticism",
+	"results": [
+		{
+			"definition": "a religion based on mystical communion with an ultimate reality",
+			"partOfSpeech": "noun",
+			"synonyms": ["religious mysticism"],
+			"typeOf": ["religious belief", "faith", "religion"],
+			"hasTypes": ["sufism", "quietism"],
+			"derivation": ["mystic", "mystical"]
+		},
+		{
+			"definition": "obscure or irrational thought",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"cerebration",
+				"thought process",
+				"intellection",
+				"mentation",
+				"thinking",
+				"thought"
+			],
+			"derivation": ["mystic", "mystical"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mys", "ti", "cism"]
+	},
+	"pronunciation": {
+		"all": "'m\u026ast\u0259,s\u026az\u0259m"
+	},
+	"frequency": 2.68
+}

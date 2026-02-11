@@ -1,0 +1,34 @@
+{
+	"word": "sabbatical",
+	"results": [
+		{
+			"definition": "a leave usually taken every seventh year",
+			"partOfSpeech": "noun",
+			"synonyms": ["sabbatical leave"],
+			"typeOf": ["leave", "leave of absence"],
+			"hasTypes": ["sabbatical year"]
+		},
+		{
+			"definition": "of or relating to the Sabbath",
+			"partOfSpeech": "adjective",
+			"synonyms": ["sabbatic"],
+			"pertainsTo": ["sabbath"],
+			"derivation": ["sabbath"],
+			"examples": ["Friday is a sabbatical day for Muslims"]
+		},
+		{
+			"definition": "of or relating to sabbatical leave",
+			"partOfSpeech": null,
+			"pertainsTo": ["sabbatical leave"],
+			"examples": ["sabbatical research project"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["sab", "bat", "i", "cal"]
+	},
+	"pronunciation": {
+		"all": "s\u0259'b\u00e6t\u026ak\u0259l"
+	},
+	"frequency": 2.89
+}

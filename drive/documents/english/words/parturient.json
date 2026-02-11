@@ -1,0 +1,27 @@
+{
+	"word": "parturient",
+	"results": [
+		{
+			"definition": "giving birth",
+			"partOfSpeech": "adjective",
+			"similarTo": ["nascent"],
+			"derivation": ["parturiency"],
+			"examples": ["a parturient heifer"]
+		},
+		{
+			"definition": "of or relating to or giving birth",
+			"partOfSpeech": null,
+			"pertainsTo": ["parturition"],
+			"derivation": ["parturiency"],
+			"examples": ["parturient pangs", "the parturient uterus"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["par", "tu", "ri", "ent"]
+	},
+	"pronunciation": {
+		"all": "p\u0251r't\u028ari\u0259nt"
+	},
+	"frequency": 1.6
+}

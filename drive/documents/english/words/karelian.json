@@ -1,0 +1,26 @@
+{
+	"word": "karelian",
+	"results": [
+		{
+			"definition": "a Finnic language spoken by the people of Karelia",
+			"partOfSpeech": "noun",
+			"synonyms": ["carelian"],
+			"typeOf": ["baltic-finnic"]
+		},
+		{
+			"definition": "a member of the Finnish people living in Karelia in northwestern European Russia",
+			"partOfSpeech": "noun",
+			"synonyms": ["carelian"],
+			"typeOf": ["russian"],
+			"memberOf": ["karelia"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ka", "re", "li", "an"]
+	},
+	"pronunciation": {
+		"all": "k\u0259'rili\u0259n"
+	},
+	"frequency": 2.08
+}

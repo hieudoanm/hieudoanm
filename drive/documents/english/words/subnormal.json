@@ -1,0 +1,29 @@
+{
+	"word": "subnormal",
+	"results": [
+		{
+			"definition": "a person of less than normal intelligence",
+			"partOfSpeech": "noun",
+			"typeOf": ["simple", "simpleton"]
+		},
+		{
+			"definition": "below normal or average",
+			"partOfSpeech": "adjective",
+			"inCategory": ["statistics"],
+			"similarTo": ["abnormal", "unnatural"],
+			"derivation": ["subnormality"],
+			"examples": [
+				"after the floods the harvests were subnormal",
+				"subnormal intelligence"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sub", "nor", "mal"]
+	},
+	"pronunciation": {
+		"all": "s\u0259b'n\u0254rm\u0259l"
+	},
+	"frequency": 1.9
+}

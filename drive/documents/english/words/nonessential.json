@@ -1,0 +1,27 @@
+{
+	"word": "nonessential",
+	"results": [
+		{
+			"definition": "not of prime or central importance",
+			"partOfSpeech": "adjective",
+			"synonyms": ["accidental", "incidental"],
+			"similarTo": ["inessential", "unessential"],
+			"examples": ["nonessential to the integral meanings of poetry"]
+		},
+		{
+			"definition": "anything that is not essential",
+			"partOfSpeech": "noun",
+			"synonyms": ["inessential"],
+			"typeOf": ["thing"],
+			"hasTypes": ["adjunct"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["non", "es", "sen", "tial"]
+	},
+	"pronunciation": {
+		"all": ",n\u0251n\u026a's\u025bn\u0283\u0259l"
+	},
+	"frequency": 2.33
+}

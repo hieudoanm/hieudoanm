@@ -1,0 +1,25 @@
+{
+	"word": "alfalfa",
+	"results": [
+		{
+			"definition": "important European leguminous forage plant with trifoliate leaves and blue-violet flowers grown widely as a pasture and hay crop",
+			"partOfSpeech": "noun",
+			"synonyms": ["lucerne", "medicago sativa"],
+			"typeOf": ["trefoil", "medic", "medick"]
+		},
+		{
+			"definition": "leguminous plant grown for hay or forage",
+			"partOfSpeech": "noun",
+			"typeOf": ["fodder"],
+			"partOf": ["lucerne", "medicago sativa"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["al", "fal", "fa"]
+	},
+	"pronunciation": {
+		"all": "\u00e6l'f\u00e6lf\u0259"
+	},
+	"frequency": 2.47
+}

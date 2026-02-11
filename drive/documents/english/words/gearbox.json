@@ -1,0 +1,21 @@
+{
+	"word": "gearbox",
+	"results": [
+		{
+			"definition": "the shell (metal casing) in which a train of gears is sealed",
+			"partOfSpeech": "noun",
+			"synonyms": ["gear box", "gear case"],
+			"typeOf": ["case", "casing", "shell"],
+			"hasParts": ["transmission shaft"],
+			"partOf": ["transmission", "transmission system"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gear", "box"]
+	},
+	"pronunciation": {
+		"all": "'\u0261ir,b\u0251ks"
+	},
+	"frequency": 2.38
+}

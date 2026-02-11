@@ -1,0 +1,22 @@
+{
+	"word": "exonerate",
+	"results": [
+		{
+			"definition": "pronounce not guilty of criminal charges",
+			"partOfSpeech": "verb",
+			"synonyms": ["acquit", "assoil", "clear", "discharge", "exculpate"],
+			"entails": ["evaluate", "judge", "pass judgment"],
+			"typeOf": ["label", "pronounce", "judge"],
+			"hasTypes": ["whitewash", "purge", "vindicate"],
+			"derivation": ["exoneration", "exonerative"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ex", "on", "er", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u026a\u0261'z\u0251n\u0259,re\u026at"
+	},
+	"frequency": 2.57
+}

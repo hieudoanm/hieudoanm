@@ -1,0 +1,32 @@
+{
+	"word": "enrichment",
+	"results": [
+		{
+			"definition": "act of making fuller or more meaningful or rewarding",
+			"partOfSpeech": "noun",
+			"typeOf": ["improvement"],
+			"hasTypes": [
+				"fecundation",
+				"fertilisation",
+				"dressing",
+				"fortification",
+				"fertilization"
+			],
+			"derivation": ["enrich"]
+		},
+		{
+			"definition": "a gift that significantly increases the recipient's wealth",
+			"partOfSpeech": "noun",
+			"typeOf": ["gift"],
+			"derivation": ["enrich"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["en", "rich", "ment"]
+	},
+	"pronunciation": {
+		"all": "\u025bn'r\u026a\u02a7m\u0259nt"
+	},
+	"frequency": 2.4
+}

@@ -1,0 +1,32 @@
+{
+	"word": "asker",
+	"results": [
+		{
+			"definition": "someone who asks a question",
+			"partOfSpeech": "noun",
+			"synonyms": ["enquirer", "inquirer", "querier", "questioner"],
+			"typeOf": ["talker", "speaker", "utterer", "verbaliser", "verbalizer"],
+			"hasTypes": [
+				"inquisitor",
+				"interrogator",
+				"interviewer",
+				"canvasser",
+				"pollster",
+				"quizzer",
+				"tester",
+				"poll taker",
+				"cross-examiner",
+				"cross-questioner",
+				"examiner",
+				"headcounter"
+			],
+			"derivation": ["ask"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ask", "er"]
+	},
+	"pronunciation": "'\u00e6sk\u025dr",
+	"frequency": 2.03
+}

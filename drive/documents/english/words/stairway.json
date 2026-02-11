@@ -1,0 +1,37 @@
+{
+	"word": "stairway",
+	"results": [
+		{
+			"definition": "a way of access (upward and downward) consisting of a set of steps",
+			"partOfSpeech": "noun",
+			"synonyms": ["staircase"],
+			"typeOf": ["way"],
+			"hasTypes": [
+				"companionway",
+				"ghat",
+				"backstairs",
+				"moving staircase",
+				"moving stairway",
+				"ramp",
+				"stairs",
+				"steps",
+				"emergency exit",
+				"escalator",
+				"fire escape",
+				"flight",
+				"flight of stairs",
+				"flight of steps"
+			],
+			"hasParts": ["step", "stair", "landing", "stairhead"],
+			"partOf": ["edifice", "building"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["stair", "way"]
+	},
+	"pronunciation": {
+		"all": "'st\u025cr,we\u026a"
+	},
+	"frequency": 3.15
+}

@@ -1,0 +1,40 @@
+{
+	"word": "unbalanced",
+	"results": [
+		{
+			"definition": "affected with madness or insanity",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"brainsick",
+				"crazy",
+				"demented",
+				"disturbed",
+				"mad",
+				"sick",
+				"unhinged"
+			],
+			"similarTo": ["insane"]
+		},
+		{
+			"definition": "being or thrown out of equilibrium",
+			"partOfSpeech": "adjective",
+			"synonyms": ["imbalanced"],
+			"similarTo": ["labile"],
+			"antonyms": ["balanced"]
+		},
+		{
+			"definition": "debits and credits are not equal",
+			"partOfSpeech": "adjective",
+			"inCategory": ["accounting"],
+			"similarTo": ["unequal"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["un", "bal", "anced"]
+	},
+	"pronunciation": {
+		"all": "\u0259n'b\u00e6l\u0259nst"
+	},
+	"frequency": 2.9
+}

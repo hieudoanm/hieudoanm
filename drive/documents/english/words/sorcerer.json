@@ -1,0 +1,38 @@
+{
+	"word": "sorcerer",
+	"results": [
+		{
+			"definition": "one who practices magic or sorcery",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"magician",
+				"necromancer",
+				"thaumaturge",
+				"thaumaturgist",
+				"wizard"
+			],
+			"typeOf": ["occultist"],
+			"hasTypes": [
+				"sorceress",
+				"witch doctor",
+				"exorciser",
+				"exorcist",
+				"enchanter",
+				"magus"
+			],
+			"hasInstances": [
+				"giuseppe balsamo",
+				"count alessandro di cagliostro",
+				"cagliostro"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sor", "cer", "er"]
+	},
+	"pronunciation": {
+		"all": "'s\u0254rs\u0259r\u0259r"
+	},
+	"frequency": 3.29
+}

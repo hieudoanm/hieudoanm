@@ -1,0 +1,27 @@
+{
+	"word": "manchester",
+	"results": [
+		{
+			"definition": "a city in northwestern England (30 miles to the east of Liverpool); heart of the most densely populated area of England",
+			"partOfSpeech": "noun",
+			"instanceOf": ["urban center", "city", "metropolis"],
+			"hasMembers": ["mancunian"],
+			"partOf": ["england"],
+			"derivation": ["mancunian"]
+		},
+		{
+			"definition": "largest city in New Hampshire; located in southeastern New Hampshire on the Merrimack river",
+			"partOfSpeech": "noun",
+			"instanceOf": ["metropolis", "city", "urban center"],
+			"partOf": ["n.h.", "granite state", "new hampshire", "nh"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["man", "ches", "ter"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6n,\u02a7\u025bst\u0259r"
+	},
+	"frequency": 3.7
+}

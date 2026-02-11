@@ -1,0 +1,25 @@
+{
+	"word": "beleaguer",
+	"results": [
+		{
+			"definition": "annoy persistently",
+			"partOfSpeech": "verb",
+			"synonyms": ["badger", "bug", "pester", "tease"],
+			"typeOf": ["torment", "bedevil", "crucify", "dun", "frustrate", "rag"]
+		},
+		{
+			"definition": "surround so as to force to give up",
+			"partOfSpeech": "verb",
+			"synonyms": ["besiege", "circumvent", "hem in", "surround"],
+			"typeOf": ["attack", "assail"],
+			"hasTypes": ["ebb", "blockade", "seal off"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["be", "lea", "guer"]
+	},
+	"pronunciation": {
+		"all": "b\u026a'li\u0261\u0259r"
+	}
+}

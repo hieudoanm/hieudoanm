@@ -1,0 +1,42 @@
+{
+	"word": "banishment",
+	"results": [
+		{
+			"definition": "rejection by means of an act of banishing or proscribing someone",
+			"partOfSpeech": "noun",
+			"synonyms": ["proscription"],
+			"typeOf": ["rejection"],
+			"hasTypes": [
+				"anathematization",
+				"deportation",
+				"disbarment",
+				"ejection",
+				"excision",
+				"exclusion",
+				"excommunication",
+				"exile",
+				"expatriation",
+				"expulsion",
+				"transportation",
+				"anathematisation",
+				"relegation",
+				"riddance",
+				"rustication"
+			],
+			"derivation": ["banish"]
+		},
+		{
+			"definition": "the state of being banished or ostracized (excluded from society by general consent)",
+			"partOfSpeech": "noun",
+			"synonyms": ["coventry", "ostracism"],
+			"typeOf": ["exclusion"],
+			"derivation": ["banish"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ban", "ish", "ment"]
+	},
+	"pronunciation": "'b\u00e6n\u026a\u0283m\u028cnt",
+	"frequency": 2.63
+}

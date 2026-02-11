@@ -1,0 +1,34 @@
+{
+	"word": "turn around",
+	"results": [
+		{
+			"definition": "turning in an opposite direction or position",
+			"partOfSpeech": "noun",
+			"synonyms": ["reversal"],
+			"typeOf": ["turning", "turn"]
+		},
+		{
+			"definition": "turn abruptly and face the other way, either physically or metaphorically",
+			"partOfSpeech": "verb",
+			"synonyms": ["swing about", "swing around"],
+			"typeOf": ["turn"],
+			"examples": [
+				"My conscience told me to turn around before I made a mistake"
+			]
+		},
+		{
+			"definition": "improve significantly; go from bad to good",
+			"partOfSpeech": "verb",
+			"synonyms": ["pick up"],
+			"typeOf": ["meliorate", "improve", "ameliorate", "better"]
+		},
+		{
+			"definition": "improve dramatically",
+			"partOfSpeech": "verb",
+			"typeOf": ["meliorate", "ameliorate", "amend", "better", "improve"]
+		}
+	],
+	"pronunciation": {
+		"all": "t\u025crn_\u0259'ra\u028and"
+	}
+}

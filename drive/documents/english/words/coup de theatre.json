@@ -1,0 +1,24 @@
+{
+	"word": "coup de theatre",
+	"results": [
+		{
+			"definition": "a dramatic surprise",
+			"partOfSpeech": "noun",
+			"typeOf": ["surprise"]
+		},
+		{
+			"definition": "a highly successful theatrical production",
+			"partOfSpeech": "noun",
+			"typeOf": ["staging", "theatrical production"]
+		},
+		{
+			"definition": "a sensational bit of stagecraft",
+			"partOfSpeech": "noun",
+			"typeOf": ["stagecraft"],
+			"partOf": ["production"]
+		}
+	],
+	"pronunciation": {
+		"all": ",ku_d\u0259_te\u026a'\u0251tr"
+	}
+}

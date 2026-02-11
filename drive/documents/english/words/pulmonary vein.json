@@ -1,0 +1,25 @@
+{
+	"word": "pulmonary vein",
+	"results": [
+		{
+			"definition": "any of four veins that carry arterial blood from the lungs to the left atrium of the heart",
+			"partOfSpeech": "noun",
+			"synonyms": ["vena pulmonalis"],
+			"typeOf": ["venous blood vessel", "vein", "vena"],
+			"hasTypes": [
+				"vena pulmonalis superior",
+				"inferior pulmonary vein",
+				"vena pulmanalis inferior",
+				"superior pulmonary vein"
+			],
+			"partOf": ["lung"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pul", "mo", "nar", "y vein"]
+	},
+	"pronunciation": {
+		"all": "'p\u0259lm\u0259,n\u025bri_ve\u026an"
+	}
+}

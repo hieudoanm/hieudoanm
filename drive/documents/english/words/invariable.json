@@ -1,0 +1,40 @@
+{
+	"word": "invariable",
+	"results": [
+		{
+			"definition": "a quantity that does not vary",
+			"partOfSpeech": "noun",
+			"synonyms": ["constant", "constant quantity"],
+			"typeOf": ["quantity"],
+			"hasTypes": ["parameter", "parametric quantity"]
+		},
+		{
+			"definition": "not liable to or capable of change",
+			"partOfSpeech": "adjective",
+			"also": ["constant", "consistent"],
+			"similarTo": [
+				"constant",
+				"changeless",
+				"hard-and-fast",
+				"invariant",
+				"strict",
+				"unvarying"
+			],
+			"antonyms": ["variable"],
+			"derivation": ["invariability", "invariableness"],
+			"examples": [
+				"an invariable temperature",
+				"an invariable rule",
+				"his invariable courtesy"
+			]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "var", "i", "a", "ble"]
+	},
+	"pronunciation": {
+		"all": "\u026an'v\u025cri\u0259b\u0259l"
+	},
+	"frequency": 1.6
+}

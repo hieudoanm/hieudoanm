@@ -1,0 +1,25 @@
+{
+	"word": "appleton",
+	"results": [
+		{
+			"definition": "English physicist remembered for his studies of the ionosphere (1892-1966)",
+			"partOfSpeech": "noun",
+			"synonyms": ["edward appleton", "sir edward victor appleton"],
+			"instanceOf": ["physicist"]
+		},
+		{
+			"definition": "a town in eastern Wisconsin",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town"],
+			"partOf": ["wi", "wisconsin", "badger state", "wis.", "wisc."]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ap", "ple", "ton"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6p\u0259lt\u0259n"
+	},
+	"frequency": 2.63
+}

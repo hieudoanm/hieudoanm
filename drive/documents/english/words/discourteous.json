@@ -1,0 +1,38 @@
+{
+	"word": "discourteous",
+	"results": [
+		{
+			"definition": "lacking social graces",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ungracious"],
+			"similarTo": ["impolite"]
+		},
+		{
+			"definition": "showing no courtesy; rude",
+			"partOfSpeech": "adjective",
+			"also": ["disrespectful"],
+			"attribute": ["good manners", "courtesy"],
+			"similarTo": [
+				"caddish",
+				"curt",
+				"short",
+				"unceremonious",
+				"unchivalrous",
+				"ungallant",
+				"abrupt",
+				"brusk",
+				"brusque"
+			],
+			"antonyms": ["courteous"],
+			"examples": ["a distant and at times discourteous young"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["dis", "cour", "te", "ous"]
+	},
+	"pronunciation": {
+		"all": "d\u026as'k\u025crti\u0259s"
+	},
+	"frequency": 2.27
+}

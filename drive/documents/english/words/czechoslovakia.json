@@ -1,0 +1,27 @@
+{
+	"word": "czechoslovakia",
+	"results": [
+		{
+			"definition": "a former republic in central Europe; divided into Czech Republic and Slovakia in 1993",
+			"partOfSpeech": "noun",
+			"instanceOf": [
+				"geographical area",
+				"geographic region",
+				"geographic area",
+				"geographical region"
+			],
+			"hasMembers": ["czech", "czechoslovak", "czechoslovakian"],
+			"hasParts": ["danube river", "danube", "danau"],
+			"partOf": ["europe"],
+			"derivation": ["czechoslovakian"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["czech", "o", "slo", "va", "ki", "a"]
+	},
+	"pronunciation": {
+		"all": ",\u02a7\u025bk\u0259sl\u0259'v\u0251ki\u0259"
+	},
+	"frequency": 3.18
+}

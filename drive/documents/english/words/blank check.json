@@ -1,0 +1,21 @@
+{
+	"word": "blank check",
+	"results": [
+		{
+			"definition": "freedom to do as you see fit",
+			"partOfSpeech": "noun",
+			"synonyms": ["free hand"],
+			"typeOf": ["freedom"]
+		},
+		{
+			"definition": "a check that has been signed but with the amount payable left blank",
+			"partOfSpeech": "noun",
+			"synonyms": ["blank cheque"],
+			"typeOf": ["bank check", "check", "cheque"],
+			"memberOf": ["checkbook", "chequebook"]
+		}
+	],
+	"pronunciation": {
+		"all": "bl\u00e6\u014bk_\u02a7\u025bk"
+	}
+}

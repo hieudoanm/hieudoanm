@@ -1,0 +1,27 @@
+{
+	"word": "get back",
+	"results": [
+		{
+			"definition": "get one's revenge for a wrong or an injury",
+			"partOfSpeech": "verb",
+			"synonyms": ["settle"],
+			"typeOf": ["fight", "struggle", "contend"]
+		},
+		{
+			"definition": "take revenge or even out a score",
+			"partOfSpeech": "verb",
+			"synonyms": ["get even"],
+			"typeOf": ["retaliate", "revenge", "avenge"],
+			"hasTypes": ["fix", "pay off", "get", "pay back"]
+		},
+		{
+			"definition": "recover something or somebody that appeared to be lost",
+			"partOfSpeech": "verb",
+			"synonyms": ["win back"],
+			"typeOf": ["acquire", "get"]
+		}
+	],
+	"pronunciation": {
+		"all": "\u0261\u025bt_b\u00e6k"
+	}
+}

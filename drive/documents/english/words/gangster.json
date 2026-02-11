@@ -1,0 +1,23 @@
+{
+	"word": "gangster",
+	"results": [
+		{
+			"definition": "a criminal who is a member of gang",
+			"partOfSpeech": "noun",
+			"synonyms": ["mobster"],
+			"typeOf": ["crook", "felon", "outlaw", "malefactor", "criminal"],
+			"hasTypes": ["yardie", "apache", "yakuza"],
+			"hasInstances": ["alphonse capone", "scarface", "al capone", "capone"],
+			"memberOf": ["gang", "mob", "pack", "ring"],
+			"derivation": ["gang"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gang", "ster"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6\u014bst\u0259r"
+	},
+	"frequency": 4.07
+}

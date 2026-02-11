@@ -1,0 +1,34 @@
+{
+	"word": "amah",
+	"results": [
+		{
+			"definition": "a woman hired to suckle a child of someone else",
+			"partOfSpeech": "noun",
+			"synonyms": ["wet-nurse", "wet nurse", "wetnurse"],
+			"typeOf": ["nursemaid", "nanny", "nurse"]
+		},
+		{
+			"definition": "a female domestic",
+			"partOfSpeech": "noun",
+			"synonyms": ["housemaid", "maid", "maidservant"],
+			"typeOf": ["domestic", "house servant", "domestic help"],
+			"hasTypes": [
+				"handmaiden",
+				"lady's maid",
+				"parlourmaid",
+				"fille de chambre",
+				"handmaid",
+				"parlormaid",
+				"chambermaid"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["a", "mah"]
+	},
+	"pronunciation": {
+		"all": "'\u0251m\u0259"
+	},
+	"frequency": 2.2
+}

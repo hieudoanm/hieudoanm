@@ -1,0 +1,28 @@
+{
+	"word": "scape",
+	"results": [
+		{
+			"definition": "erect leafless flower stalk growing directly from the ground as in a tulip",
+			"partOfSpeech": "noun",
+			"synonyms": ["flower stalk"],
+			"typeOf": ["stalk", "stem"],
+			"hasTypes": ["peduncle"]
+		},
+		{
+			"definition": "(architecture) upright consisting of the vertical part of a column",
+			"partOfSpeech": "noun",
+			"synonyms": ["shaft"],
+			"inCategory": ["architecture"],
+			"typeOf": ["vertical", "upright"],
+			"partOf": ["pillar", "column"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["scape"]
+	},
+	"pronunciation": {
+		"all": "ske\u026ap"
+	},
+	"frequency": 2.52
+}

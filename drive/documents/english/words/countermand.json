@@ -1,0 +1,36 @@
+{
+	"word": "countermand",
+	"results": [
+		{
+			"definition": "cancel officially",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"annul",
+				"lift",
+				"overturn",
+				"repeal",
+				"rescind",
+				"reverse",
+				"revoke",
+				"vacate"
+			],
+			"typeOf": ["strike down", "cancel"],
+			"hasTypes": ["renege", "renege on", "renegue on", "go back on"]
+		},
+		{
+			"definition": "a contrary command cancelling or reversing a previous command",
+			"partOfSpeech": "noun",
+			"typeOf": ["bidding", "bid", "command", "dictation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["coun", "ter", "mand"]
+	},
+	"pronunciation": {
+		"all": ",k\u00e6\u028ant\u0259'm\u0251nd",
+		"noun": "'ka\u028ant\u0259r,m\u00e6nd",
+		"verb": ",ka\u028ant\u0259r'm\u00e6nd"
+	},
+	"frequency": 1.73
+}

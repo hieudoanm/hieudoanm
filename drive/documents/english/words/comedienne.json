@@ -1,0 +1,48 @@
+{
+	"word": "comedienne",
+	"results": [
+		{
+			"definition": "a female actor in a comedy",
+			"partOfSpeech": "noun",
+			"typeOf": ["comedian"],
+			"hasInstances": [
+				"gynne",
+				"gywn",
+				"eleanor gwyn",
+				"eleanor gwynn",
+				"eleanor gwynne",
+				"nell gwynn",
+				"nell gwynne",
+				"nell gywn",
+				"gwynn"
+			]
+		},
+		{
+			"definition": "a female comedian",
+			"partOfSpeech": "noun",
+			"typeOf": ["comedian", "comic"],
+			"hasInstances": [
+				"west",
+				"ball",
+				"coca",
+				"grace ethel cecile rosalie allen",
+				"gracie",
+				"gracie allen",
+				"imogene coca",
+				"lucille ball",
+				"mae west",
+				"sophie tucker",
+				"tucker",
+				"allen"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["co", "me", "di", "enne"]
+	},
+	"pronunciation": {
+		"all": "k\u0259,midi'\u025bn"
+	},
+	"frequency": 2.08
+}

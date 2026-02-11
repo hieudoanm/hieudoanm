@@ -1,0 +1,30 @@
+{
+	"word": "frenchwoman",
+	"results": [
+		{
+			"definition": "a person of French nationality",
+			"partOfSpeech": "noun",
+			"synonyms": ["french person", "frenchman"],
+			"typeOf": ["european"],
+			"hasTypes": [
+				"angevine",
+				"breton",
+				"angevin",
+				"parisian",
+				"savoyard",
+				"frog",
+				"gaul",
+				"norman"
+			],
+			"memberOf": ["france", "french republic"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["french", "wom", "an"]
+	},
+	"pronunciation": {
+		"all": "'fr\u025bn\u02a7,w\u028am\u0259n"
+	},
+	"frequency": 2.47
+}

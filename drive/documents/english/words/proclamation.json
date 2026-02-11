@@ -1,0 +1,28 @@
+{
+	"word": "proclamation",
+	"results": [
+		{
+			"definition": "a formal public statement",
+			"partOfSpeech": "noun",
+			"synonyms": ["announcement", "annunciation", "declaration"],
+			"typeOf": ["statement"],
+			"hasTypes": ["edict", "promulgation"],
+			"derivation": ["proclaim"]
+		},
+		{
+			"definition": "the formal act of proclaiming; giving public notice",
+			"partOfSpeech": "noun",
+			"synonyms": ["promulgation"],
+			"typeOf": ["human activity", "human action", "deed", "act"],
+			"derivation": ["proclaim"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["proc", "la", "ma", "tion"]
+	},
+	"pronunciation": {
+		"all": ",pr\u0251kl\u0259'me\u026a\u0283\u0259n"
+	},
+	"frequency": 3.03
+}

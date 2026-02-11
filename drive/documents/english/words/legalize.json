@@ -1,0 +1,32 @@
+{
+	"word": "legalize",
+	"results": [
+		{
+			"definition": "make legal",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"decriminalise",
+				"decriminalize",
+				"legalise",
+				"legitimate",
+				"legitimatise",
+				"legitimatize",
+				"legitimise",
+				"legitimize"
+			],
+			"typeOf": ["allow", "countenance", "let", "permit"],
+			"hasTypes": ["monetise", "monetize"],
+			"antonyms": ["outlaw"],
+			"derivation": ["legalization"],
+			"examples": ["Marijuana should be legalized"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["le", "gal", "ize"]
+	},
+	"pronunciation": {
+		"all": "'li\u0261\u0259,la\u026az"
+	},
+	"frequency": 2.64
+}

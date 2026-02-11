@@ -1,0 +1,26 @@
+{
+	"word": "subpoena",
+	"results": [
+		{
+			"definition": "a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court",
+			"partOfSpeech": "noun",
+			"synonyms": ["subpoena ad testificandum"],
+			"inCategory": ["law", "jurisprudence"],
+			"typeOf": ["writ", "judicial writ"]
+		},
+		{
+			"definition": "serve or summon with a subpoena",
+			"partOfSpeech": "verb",
+			"typeOf": ["process", "serve", "swear out"],
+			"examples": ["The witness and her records were subpoenaed"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sub", "poe", "na"]
+	},
+	"pronunciation": {
+		"all": "s\u0259b'pin\u0259"
+	},
+	"frequency": 2.9
+}

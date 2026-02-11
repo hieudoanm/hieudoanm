@@ -1,0 +1,35 @@
+{
+	"word": "criminate",
+	"results": [
+		{
+			"definition": "rebuke formally",
+			"partOfSpeech": "verb",
+			"synonyms": ["censure", "reprimand"],
+			"typeOf": ["criticise", "criticize", "pick apart", "knock"],
+			"hasTypes": ["animadvert"]
+		},
+		{
+			"definition": "bring an accusation against; level a charge against",
+			"partOfSpeech": "verb",
+			"synonyms": ["accuse", "impeach", "incriminate"],
+			"typeOf": ["charge", "accuse"],
+			"hasTypes": [
+				"charge",
+				"upbraid",
+				"arraign",
+				"file",
+				"lodge",
+				"recriminate",
+				"reproach"
+			],
+			"derivation": ["crime", "criminative", "criminatory"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["crim", "i", "nate"]
+	},
+	"pronunciation": {
+		"all": "'kr\u026am\u0259,ne\u026at"
+	}
+}

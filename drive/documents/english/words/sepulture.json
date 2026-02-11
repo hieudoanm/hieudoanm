@@ -1,0 +1,34 @@
+{
+	"word": "sepulture",
+	"results": [
+		{
+			"definition": "a chamber that is used as a grave",
+			"partOfSpeech": "noun",
+			"synonyms": ["burial chamber", "sepulcher", "sepulchre"],
+			"typeOf": ["tomb", "grave", "chamber"],
+			"hasTypes": [
+				"burial vault",
+				"crypt",
+				"mausoleum",
+				"monument",
+				"repository",
+				"vault"
+			],
+			"hasInstances": ["holy sepulcher", "holy sepulchre"]
+		},
+		{
+			"definition": "the ritual placing of a corpse in a grave",
+			"partOfSpeech": "noun",
+			"synonyms": ["burial", "entombment", "inhumation", "interment"],
+			"typeOf": ["obsequy", "funeral"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sep", "ul", "ture"]
+	},
+	"pronunciation": {
+		"all": "'s\u025bp\u0259l\u02a7\u0259r"
+	},
+	"frequency": 1.6
+}

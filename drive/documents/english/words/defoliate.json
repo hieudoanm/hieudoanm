@@ -1,0 +1,28 @@
+{
+	"frequency": 1.74,
+	"word": "defoliate",
+	"results": [
+		{
+			"definition": "deprived of leaves",
+			"partOfSpeech": "adjective",
+			"synonyms": ["defoliated"],
+			"similarTo": ["leafless"]
+		},
+		{
+			"definition": "strip the leaves or branches from",
+			"partOfSpeech": "verb",
+			"typeOf": ["bare", "denudate", "denude", "strip"],
+			"derivation": ["defoliant", "defoliation", "defoliator"],
+			"examples": ["defoliate the trees with pesticides"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["de", "fo", "li", "ate"]
+	},
+	"pronunciation": {
+		"all": "di'fo\u028al\u026a,e\u026at",
+		"adjective": "di'fo\u028ali\u026at",
+		"verb": "di'fo\u028ali,e\u026at"
+	}
+}

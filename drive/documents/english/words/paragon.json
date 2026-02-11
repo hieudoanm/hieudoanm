@@ -1,0 +1,40 @@
+{
+	"word": "paragon",
+	"results": [
+		{
+			"definition": "an ideal instance; a perfect embodiment of a concept",
+			"partOfSpeech": "noun",
+			"synonyms": ["beau ideal", "idol", "perfection"],
+			"typeOf": ["ideal"],
+			"hasTypes": ["gold standard"]
+		},
+		{
+			"definition": "model of excellence or perfection of a kind; one having no equal",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"apotheosis",
+				"ideal",
+				"nonesuch",
+				"nonpareil",
+				"nonsuch",
+				"saint"
+			],
+			"typeOf": ["role model", "model"],
+			"hasTypes": [
+				"crackerjack",
+				"jimdandy",
+				"jimhickey",
+				"class act",
+				"humdinger"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["par", "a", "gon"]
+	},
+	"pronunciation": {
+		"all": "'p\u00e6r\u0259,\u0261\u0251n"
+	},
+	"frequency": 2.36
+}

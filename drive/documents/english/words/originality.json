@@ -1,0 +1,33 @@
+{
+	"word": "originality",
+	"results": [
+		{
+			"definition": "the ability to think and act independently",
+			"partOfSpeech": "noun",
+			"typeOf": ["ability", "power"],
+			"hasTypes": [
+				"innovativeness",
+				"novelty",
+				"freshness",
+				"unconventionality"
+			]
+		},
+		{
+			"definition": "the quality of being new and original (not derived from something else)",
+			"partOfSpeech": "noun",
+			"attribute": ["unoriginal", "original"],
+			"typeOf": ["quality"],
+			"hasTypes": ["heterodoxy", "unorthodoxy", "novelty", "freshness"],
+			"antonyms": ["unoriginality"],
+			"derivation": ["original"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["o", "rig", "i", "nal", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "\u0259,r\u026ad\u0292\u0259'n\u00e6l\u026ati"
+	},
+	"frequency": 2.85
+}

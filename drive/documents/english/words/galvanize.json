@@ -1,0 +1,42 @@
+{
+	"word": "galvanize",
+	"results": [
+		{
+			"definition": "stimulate (muscles) by administering a shock",
+			"partOfSpeech": "verb",
+			"synonyms": ["galvanise"],
+			"typeOf": ["shock"],
+			"derivation": ["galvanism", "galvanization"]
+		},
+		{
+			"definition": "cover with zinc",
+			"partOfSpeech": "verb",
+			"synonyms": ["galvanise"],
+			"typeOf": ["surface", "coat"],
+			"derivation": ["galvanization", "galvanizer"],
+			"examples": ["galvanize steel"]
+		},
+		{
+			"definition": "to stimulate to action",
+			"partOfSpeech": "verb",
+			"synonyms": ["galvanise", "startle"],
+			"typeOf": [
+				"shock",
+				"ball over",
+				"take aback",
+				"blow out of the water",
+				"floor"
+			],
+			"derivation": ["galvanization", "galvanizer"],
+			"examples": ["galvanized into action"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["gal", "va", "nize"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6lv\u0259,na\u026az"
+	},
+	"frequency": 1.73
+}

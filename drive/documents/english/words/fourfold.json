@@ -1,0 +1,34 @@
+{
+	"word": "fourfold",
+	"results": [
+		{
+			"definition": "four times as great or many",
+			"partOfSpeech": "adjective",
+			"synonyms": ["four-fold", "quadruple"],
+			"similarTo": ["multiple"],
+			"examples": ["a fourfold increase in the dosage"]
+		},
+		{
+			"definition": "by a factor of four",
+			"partOfSpeech": "adverb",
+			"synonyms": ["four times"],
+			"examples": [
+				"the price of gasoline has increased fourfold over the past two years"
+			]
+		},
+		{
+			"definition": "having four units or components",
+			"partOfSpeech": "adjective",
+			"synonyms": ["four-fold", "quadruple", "quadruplex", "quadruplicate"],
+			"similarTo": ["multiple"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["four", "fold"]
+	},
+	"pronunciation": {
+		"all": "'fo\u028ar,fo\u028ald"
+	},
+	"frequency": 1.6
+}

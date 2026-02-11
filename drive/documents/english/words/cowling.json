@@ -1,0 +1,34 @@
+{
+	"word": "cowling",
+	"results": [
+		{
+			"definition": "protective covering consisting of a metal part that covers the engine",
+			"partOfSpeech": "noun",
+			"synonyms": ["bonnet", "cowl", "hood"],
+			"typeOf": ["protection", "protective cover", "protective covering"],
+			"hasParts": ["hood ornament"],
+			"partOf": [
+				"car",
+				"aeroplane",
+				"motorcar",
+				"plane",
+				"machine",
+				"airplane",
+				"auto",
+				"automobile"
+			],
+			"derivation": ["cowl"],
+			"examples": [
+				"the mechanic removed the cowling in order to repair the plane's engine"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cowl", "ing"]
+	},
+	"pronunciation": {
+		"all": "'ka\u028al\u026a\u014b"
+	},
+	"frequency": 1.73
+}

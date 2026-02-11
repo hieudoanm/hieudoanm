@@ -1,0 +1,35 @@
+{
+	"word": "freezing",
+	"results": [
+		{
+			"definition": "the withdrawal of heat to change something from a liquid to a solid",
+			"partOfSpeech": "noun",
+			"synonyms": ["freeze"],
+			"typeOf": [
+				"chilling",
+				"cooling",
+				"phase change",
+				"phase transition",
+				"physical change",
+				"state change",
+				"temperature reduction"
+			],
+			"hasTypes": [
+				"freeze-drying",
+				"frost",
+				"icing",
+				"lyophilisation",
+				"lyophilization"
+			],
+			"derivation": ["freeze"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["freez", "ing"]
+	},
+	"pronunciation": {
+		"all": "'friz\u026a\u014b"
+	},
+	"frequency": 4.21
+}

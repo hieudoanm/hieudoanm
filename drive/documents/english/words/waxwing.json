@@ -1,0 +1,26 @@
+{
+	"frequency": 1.74,
+	"word": "waxwing",
+	"results": [
+		{
+			"definition": "brown velvety-plumaged songbirds of the northern hemisphere having crested heads and red waxy wing tips",
+			"partOfSpeech": "noun",
+			"typeOf": ["oscine bird", "oscine"],
+			"hasTypes": [
+				"bombycilla garrulus",
+				"bohemian waxwing",
+				"cedarbird",
+				"cedar waxwing",
+				"bombycilla cedrorun"
+			],
+			"memberOf": ["genus bombycilla", "bombycilla"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wax", "wing"]
+	},
+	"pronunciation": {
+		"all": "'w\u00e6ks,w\u026a\u014b"
+	}
+}

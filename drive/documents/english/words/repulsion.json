@@ -1,0 +1,34 @@
+{
+	"word": "repulsion",
+	"results": [
+		{
+			"definition": "intense aversion",
+			"partOfSpeech": "noun",
+			"synonyms": ["horror", "repugnance", "revulsion"],
+			"typeOf": ["disgust"]
+		},
+		{
+			"definition": "the act of repulsing or repelling an attack; a successful defensive stand",
+			"partOfSpeech": "noun",
+			"synonyms": ["standoff"],
+			"typeOf": ["stand"],
+			"derivation": ["repulse"]
+		},
+		{
+			"definition": "the force by which bodies repel one another",
+			"partOfSpeech": "noun",
+			"synonyms": ["repulsive force"],
+			"attribute": ["repulsive"],
+			"typeOf": ["force"],
+			"antonyms": ["attraction"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "pul", "sion"]
+	},
+	"pronunciation": {
+		"all": "r\u026a'p\u0259l\u0283\u0259n"
+	},
+	"frequency": 2.45
+}

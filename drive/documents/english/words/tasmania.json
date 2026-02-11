@@ -1,0 +1,26 @@
+{
+	"word": "tasmania",
+	"results": [
+		{
+			"definition": "an Australian state on the island of Tasmania",
+			"partOfSpeech": "noun",
+			"instanceOf": ["australian state"],
+			"hasParts": ["hobart"],
+			"partOf": ["australia", "commonwealth of australia"],
+			"derivation": ["tasmanian"]
+		},
+		{
+			"definition": "an island off the southeastern coast of Australia",
+			"partOfSpeech": "noun",
+			"instanceOf": ["island"],
+			"partOf": ["australia"],
+			"derivation": ["tasmanian"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["tas", "ma", "ni", "a"]
+	},
+	"pronunciation": ",t\u00e6z'me\u026ani\u028c",
+	"frequency": 2.38
+}

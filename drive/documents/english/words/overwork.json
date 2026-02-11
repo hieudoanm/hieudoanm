@@ -1,0 +1,35 @@
+{
+	"word": "overwork",
+	"results": [
+		{
+			"definition": "the act of working too much or too long",
+			"partOfSpeech": "noun",
+			"synonyms": ["overworking"],
+			"typeOf": ["labor", "labour", "toil"],
+			"examples": ["he became ill from overwork"]
+		},
+		{
+			"definition": "work excessively hard",
+			"partOfSpeech": "verb",
+			"synonyms": ["exploit"],
+			"typeOf": ["work", "put to work"],
+			"hasTypes": ["overdrive"],
+			"derivation": ["overworking"]
+		},
+		{
+			"definition": "use too much",
+			"partOfSpeech": "verb",
+			"typeOf": ["work on", "process", "work"],
+			"examples": ["This play has been overworked"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["o", "ver", "work"]
+	},
+	"pronunciation": {
+		"noun": "'o\u028av\u0259r,w\u025crk",
+		"verb": ",o\u028av\u0259r'w\u025crk"
+	},
+	"frequency": 2.4
+}

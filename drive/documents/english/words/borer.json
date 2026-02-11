@@ -1,0 +1,33 @@
+{
+	"word": "borer",
+	"results": [
+		{
+			"definition": "a drill for penetrating rock",
+			"partOfSpeech": "noun",
+			"synonyms": ["bore bit", "rock drill", "stone drill"],
+			"typeOf": ["drill"],
+			"hasTypes": [
+				"cross bit",
+				"star drill",
+				"straight-fluted drill",
+				"straight flute"
+			],
+			"derivation": ["bore"]
+		},
+		{
+			"definition": "any of various insects or larvae or mollusks that bore into wood",
+			"partOfSpeech": "noun",
+			"synonyms": ["woodborer"],
+			"typeOf": ["invertebrate"],
+			"derivation": ["bore"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bor", "er"]
+	},
+	"pronunciation": {
+		"all": "'bo\u028ar\u0259r"
+	},
+	"frequency": 1.9
+}

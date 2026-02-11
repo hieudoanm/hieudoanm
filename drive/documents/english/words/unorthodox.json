@@ -1,0 +1,37 @@
+{
+	"word": "unorthodox",
+	"results": [
+		{
+			"definition": "independent in behavior or thought",
+			"partOfSpeech": "adjective",
+			"synonyms": ["irregular", "maverick"],
+			"similarTo": ["unconventional"]
+		},
+		{
+			"definition": "breaking with convention or tradition",
+			"partOfSpeech": "adjective",
+			"attribute": ["orthodoxy"],
+			"similarTo": [
+				"dissentient",
+				"dissident",
+				"heretical",
+				"heterodox",
+				"iconoclastic",
+				"nonconforming",
+				"nonconformist",
+				"recusant",
+				"reformed"
+			],
+			"antonyms": ["orthodox"],
+			"examples": ["an unorthodox lifestyle"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "or", "tho", "dox"]
+	},
+	"pronunciation": {
+		"all": "\u0259n'o\u028ar\u03b8\u0259,d\u0251ks"
+	},
+	"frequency": 2.93
+}

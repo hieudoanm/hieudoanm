@@ -1,0 +1,26 @@
+{
+	"frequency": 1.74,
+	"word": "diaphoresis",
+	"results": [
+		{
+			"definition": "the process of the sweat glands of the skin secreting a salty fluid",
+			"partOfSpeech": "noun",
+			"synonyms": ["hidrosis", "perspiration", "sudation", "sweating"],
+			"typeOf": [
+				"activity",
+				"bodily function",
+				"bodily process",
+				"body process"
+			],
+			"hasTypes": ["hyperhidrosis", "hyperidrosis", "polyhidrosis"],
+			"derivation": ["diaphoretic"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["di", "a", "pho", "re", "sis"]
+	},
+	"pronunciation": {
+		"all": ",da\u026a\u0259f\u0259'ris\u026as"
+	}
+}

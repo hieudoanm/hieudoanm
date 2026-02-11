@@ -1,0 +1,30 @@
+{
+	"word": "boatman",
+	"results": [
+		{
+			"definition": "someone who drives or rides in a boat",
+			"partOfSpeech": "noun",
+			"synonyms": ["boater", "waterman"],
+			"typeOf": ["worker"],
+			"hasTypes": [
+				"ferryman",
+				"gondolier",
+				"gondoliere",
+				"canoeist",
+				"paddler",
+				"punter",
+				"rower",
+				"oarsman"
+			],
+			"derivation": ["boatmanship"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["boat", "man"]
+	},
+	"pronunciation": {
+		"all": "'bo\u028atm\u0259n"
+	},
+	"frequency": 2.79
+}

@@ -1,0 +1,33 @@
+{
+	"word": "abstemiousness",
+	"results": [
+		{
+			"definition": "moderation in eating and drinking",
+			"partOfSpeech": "noun",
+			"attribute": ["abstemious"],
+			"typeOf": ["moderation", "temperance"],
+			"derivation": ["abstemious"]
+		},
+		{
+			"definition": "restricted to bare necessities",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"meagreness",
+				"exiguity",
+				"scantiness",
+				"scantness",
+				"poorness",
+				"leanness",
+				"meagerness"
+			],
+			"derivation": ["abstemious"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ab", "ste", "mi", "ous", "ness"]
+	},
+	"pronunciation": {
+		"all": "\u00e6b'stimi\u0259sn\u025bs"
+	}
+}

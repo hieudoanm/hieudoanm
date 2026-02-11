@@ -1,0 +1,34 @@
+{
+	"word": "exasperate",
+	"results": [
+		{
+			"definition": "exasperate or irritate",
+			"partOfSpeech": "verb",
+			"synonyms": ["aggravate", "exacerbate"],
+			"typeOf": ["anger"],
+			"derivation": ["exasperation"]
+		},
+		{
+			"definition": "make worse",
+			"partOfSpeech": "verb",
+			"synonyms": ["aggravate", "exacerbate", "worsen"],
+			"typeOf": ["alter", "change", "modify"],
+			"hasTypes": ["degrade", "inflame", "irritate", "cheapen"]
+		},
+		{
+			"definition": "make furious",
+			"partOfSpeech": "verb",
+			"synonyms": ["incense", "infuriate"],
+			"typeOf": ["anger"],
+			"derivation": ["exasperation"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ex", "as", "per", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u026a\u0261'z\u00e6sp\u0259,re\u026at"
+	},
+	"frequency": 1.9
+}

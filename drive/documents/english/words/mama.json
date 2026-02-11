@@ -1,0 +1,33 @@
+{
+	"word": "mama",
+	"results": [
+		{
+			"definition": "informal terms for a mother",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"ma",
+				"mamma",
+				"mammy",
+				"mom",
+				"momma",
+				"mommy",
+				"mum",
+				"mummy"
+			],
+			"typeOf": ["female parent", "mother"]
+		},
+		{
+			"definition": "a name under which Ninkhursag was worshipped",
+			"partOfSpeech": "noun",
+			"instanceOf": ["semitic deity"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ma", "ma"]
+	},
+	"pronunciation": {
+		"all": "'m\u0251m\u0259"
+	},
+	"frequency": 4.94
+}

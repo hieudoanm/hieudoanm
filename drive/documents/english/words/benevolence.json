@@ -1,0 +1,33 @@
+{
+	"word": "benevolence",
+	"results": [
+		{
+			"definition": "an act intending or showing kindness and good will",
+			"partOfSpeech": "noun",
+			"synonyms": ["benefaction"],
+			"typeOf": ["kindness", "benignity"],
+			"derivation": ["benevolent"]
+		},
+		{
+			"definition": "an inclination to do kind or charitable acts",
+			"partOfSpeech": "noun",
+			"typeOf": ["kindness"],
+			"hasTypes": ["charity", "brotherly love"]
+		},
+		{
+			"definition": "disposition to do good",
+			"partOfSpeech": "noun",
+			"typeOf": ["love"],
+			"hasTypes": ["beneficence"],
+			"antonyms": ["malevolence"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["be", "nev", "o", "lence"]
+	},
+	"pronunciation": {
+		"all": "b\u0259'n\u025bv\u0259l\u0259ns"
+	},
+	"frequency": 2.66
+}

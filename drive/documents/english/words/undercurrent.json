@@ -1,0 +1,34 @@
+{
+	"word": "undercurrent",
+	"results": [
+		{
+			"definition": "a current below the surface of a fluid",
+			"partOfSpeech": "noun",
+			"synonyms": ["undertide"],
+			"typeOf": ["current", "stream"],
+			"hasTypes": [
+				"sea-purse",
+				"sea-puss",
+				"sea purse",
+				"sea puss",
+				"undertow",
+				"sea-poose"
+			],
+			"partOf": ["tide"]
+		},
+		{
+			"definition": "a subdued emotional quality underlying an utterance; implicit meaning",
+			"partOfSpeech": "noun",
+			"synonyms": ["undertone"],
+			"typeOf": ["substance", "meaning"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "der", "cur", "rent"]
+	},
+	"pronunciation": {
+		"all": "'\u0259nd\u0259r,k\u025cr\u0259nt"
+	},
+	"frequency": 2.38
+}

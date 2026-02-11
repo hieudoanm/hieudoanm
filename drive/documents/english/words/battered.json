@@ -1,0 +1,28 @@
+{
+	"word": "battered",
+	"results": [
+		{
+			"definition": "damaged by blows or hard usage",
+			"partOfSpeech": "adjective",
+			"synonyms": ["beat-up", "beaten-up"],
+			"similarTo": ["damaged"],
+			"examples": ["a battered old car"]
+		},
+		{
+			"definition": "damaged especially by hard usage",
+			"partOfSpeech": "adjective",
+			"similarTo": ["worn"],
+			"examples": ["his battered old hat"]
+		},
+		{
+			"definition": "exhibiting symptoms resulting from repeated physical and emotional injury",
+			"partOfSpeech": "adjective",
+			"similarTo": ["abused", "ill-treated", "maltreated", "mistreated"],
+			"examples": ["a battered child", "the battered woman syndrome"]
+		}
+	],
+	"pronunciation": {
+		"all": "'b\u00e6t\u0259d"
+	},
+	"frequency": 3.23
+}

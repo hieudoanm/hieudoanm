@@ -1,0 +1,35 @@
+{
+	"word": "wrangler",
+	"results": [
+		{
+			"definition": "a cowboy who takes care of the saddle horses",
+			"partOfSpeech": "noun",
+			"synonyms": ["horse wrangler"],
+			"typeOf": [
+				"puncher",
+				"cattleman",
+				"cowboy",
+				"cowhand",
+				"cowherd",
+				"cowman",
+				"cowpoke",
+				"cowpuncher"
+			],
+			"derivation": ["wrangle"]
+		},
+		{
+			"definition": "someone who argues noisily or angrily",
+			"partOfSpeech": "noun",
+			"typeOf": ["debater", "arguer"],
+			"derivation": ["wrangle"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wran", "gler"]
+	},
+	"pronunciation": {
+		"all": "'r\u00e6\u014bgl\u0259r"
+	},
+	"frequency": 2.6
+}

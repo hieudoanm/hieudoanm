@@ -1,0 +1,31 @@
+{
+	"word": "billy",
+	"results": [
+		{
+			"definition": "a short stout club used primarily by policemen",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"baton",
+				"billy club",
+				"billystick",
+				"nightstick",
+				"truncheon"
+			],
+			"typeOf": ["club"]
+		},
+		{
+			"definition": "male goat",
+			"partOfSpeech": "noun",
+			"synonyms": ["billy goat", "he-goat"],
+			"typeOf": ["caprine animal", "goat"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bil", "ly"]
+	},
+	"pronunciation": {
+		"all": "'b\u026ali"
+	},
+	"frequency": 4.59
+}

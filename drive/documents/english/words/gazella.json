@@ -1,0 +1,25 @@
+{
+	"word": "gazella",
+	"results": [
+		{
+			"definition": "typical gazelles",
+			"partOfSpeech": "noun",
+			"synonyms": ["genus gazella"],
+			"typeOf": ["mammal genus"],
+			"hasMembers": [
+				"gazella subgutturosa",
+				"gazella thomsoni",
+				"gazelle",
+				"thomson's gazelle"
+			],
+			"memberOf": ["bovidae", "family bovidae"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ga", "zel", "la"]
+	},
+	"pronunciation": {
+		"all": "\u0261\u0259'z\u025bl\u0259"
+	}
+}

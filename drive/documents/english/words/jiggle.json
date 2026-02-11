@@ -1,0 +1,29 @@
+{
+	"word": "jiggle",
+	"results": [
+		{
+			"definition": "a slight irregular shaking motion",
+			"partOfSpeech": "noun",
+			"synonyms": ["joggle"],
+			"typeOf": ["shaking"]
+		},
+		{
+			"definition": "move to and fro",
+			"partOfSpeech": "verb",
+			"synonyms": ["joggle", "wiggle"],
+			"typeOf": ["agitate", "shake"],
+			"hasTypes": ["wag", "waggle"],
+			"examples": [
+				"Don't jiggle your finger while the nurse is putting on the bandage!"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["jig", "gle"]
+	},
+	"pronunciation": {
+		"all": "'d\u0292\u026a\u0261\u0259l"
+	},
+	"frequency": 2.91
+}

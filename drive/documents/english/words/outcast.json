@@ -1,0 +1,33 @@
+{
+	"word": "outcast",
+	"results": [
+		{
+			"definition": "excluded from a society",
+			"partOfSpeech": "adjective",
+			"synonyms": ["friendless"],
+			"similarTo": ["unwanted"]
+		},
+		{
+			"definition": "a person who is rejected (from society or home)",
+			"partOfSpeech": "noun",
+			"synonyms": ["castaway", "ishmael", "pariah"],
+			"typeOf": ["unfortunate person", "unfortunate"],
+			"hasTypes": [
+				"leper",
+				"misbeliever",
+				"religious outcast",
+				"untouchable",
+				"harijan",
+				"heretic"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["out", "cast"]
+	},
+	"pronunciation": {
+		"all": "'a\u028at,k\u00e6st"
+	},
+	"frequency": 3.15
+}

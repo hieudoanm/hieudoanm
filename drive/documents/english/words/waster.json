@@ -1,0 +1,32 @@
+{
+	"word": "waster",
+	"results": [
+		{
+			"definition": "someone who dissipates resources self-indulgently",
+			"partOfSpeech": "noun",
+			"synonyms": ["wastrel"],
+			"typeOf": ["prodigal", "profligate", "squanderer"],
+			"derivation": ["waste"]
+		},
+		{
+			"definition": "a person who destroys or ruins or lays waste to",
+			"partOfSpeech": "noun",
+			"synonyms": ["destroyer", "ruiner", "undoer", "uprooter"],
+			"typeOf": ["bad person"],
+			"hasTypes": [
+				"diversionist",
+				"iconoclast",
+				"image breaker",
+				"annihilator",
+				"saboteur",
+				"vandal",
+				"wrecker"
+			],
+			"derivation": ["waste"]
+		}
+	],
+	"pronunciation": {
+		"all": "'we\u026ast\u0259r"
+	},
+	"frequency": 2.12
+}

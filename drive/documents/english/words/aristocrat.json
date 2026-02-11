@@ -1,0 +1,36 @@
+{
+	"word": "aristocrat",
+	"results": [
+		{
+			"definition": "a member of the aristocracy",
+			"partOfSpeech": "noun",
+			"synonyms": ["blue blood", "patrician"],
+			"typeOf": ["leader"],
+			"hasTypes": [
+				"baronet",
+				"bart",
+				"brahman",
+				"brahmin",
+				"female aristocrat",
+				"highness",
+				"male aristocrat",
+				"rani",
+				"rajah",
+				"ranee",
+				"prince",
+				"princess",
+				"raja"
+			],
+			"memberOf": ["nobility", "aristocracy"],
+			"derivation": ["aristocratical"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["a", "ris", "to", "crat"]
+	},
+	"pronunciation": {
+		"all": "\u0259'r\u026ast\u0259,kr\u00e6t"
+	},
+	"frequency": 2.99
+}

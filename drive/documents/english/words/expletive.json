@@ -1,0 +1,32 @@
+{
+	"word": "expletive",
+	"results": [
+		{
+			"definition": "profane or obscene expression usually of surprise or anger",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"curse",
+				"curse word",
+				"cuss",
+				"oath",
+				"swearing",
+				"swearword"
+			],
+			"typeOf": ["profanity"],
+			"examples": ["expletives were deleted"]
+		},
+		{
+			"definition": "a word or phrase conveying no independent meaning but added to fill out a sentence or metrical line",
+			"partOfSpeech": "noun",
+			"typeOf": ["utterance", "vocalization"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ex", "ple", "tive"]
+	},
+	"pronunciation": {
+		"all": "'\u025bkspl\u0259t\u026av"
+	},
+	"frequency": 2.12
+}

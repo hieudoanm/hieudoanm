@@ -1,0 +1,39 @@
+{
+	"word": "autobus",
+	"results": [
+		{
+			"definition": "a vehicle carrying many passengers; used for public transport",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"bus",
+				"charabanc",
+				"coach",
+				"double-decker",
+				"jitney",
+				"motorbus",
+				"motorcoach",
+				"omnibus",
+				"passenger vehicle"
+			],
+			"hasCategories": ["rider", "passenger"],
+			"typeOf": ["public transport"],
+			"hasTypes": [
+				"trolley coach",
+				"trolleybus",
+				"minibus",
+				"school bus",
+				"trackless trolley"
+			],
+			"memberOf": ["fleet"],
+			"hasParts": ["window", "roof"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["au", "to", "bus"]
+	},
+	"pronunciation": {
+		"all": "'\u0254t\u0259,b\u0259s"
+	},
+	"frequency": 1.9
+}

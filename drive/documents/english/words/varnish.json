@@ -1,0 +1,27 @@
+{
+	"word": "varnish",
+	"results": [
+		{
+			"definition": "cover with varnish",
+			"partOfSpeech": "verb",
+			"synonyms": ["seal"],
+			"typeOf": ["coat", "surface"],
+			"hasTypes": ["shellac", "shellack"],
+			"derivation": ["varnisher"]
+		},
+		{
+			"definition": "a coating that provides a hard, lustrous, transparent finish to a surface",
+			"partOfSpeech": "noun",
+			"typeOf": ["coating", "coat"],
+			"hasTypes": ["shellac", "shellac varnish", "fixative"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["var", "nish"]
+	},
+	"pronunciation": {
+		"all": "'v\u0251rn\u026a\u0283"
+	},
+	"frequency": 2.88
+}

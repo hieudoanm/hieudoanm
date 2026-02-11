@@ -1,0 +1,30 @@
+{
+	"word": "lithography",
+	"results": [
+		{
+			"definition": "a method of planographic printing from a metal or stone surface",
+			"partOfSpeech": "noun",
+			"typeOf": ["planographic printing", "planography"],
+			"hasTypes": [
+				"chromolithography",
+				"offset lithography",
+				"photolithography"
+			],
+			"derivation": ["lithographer"]
+		},
+		{
+			"definition": "the act of making a lithographic print",
+			"partOfSpeech": "noun",
+			"typeOf": ["printmaking"],
+			"derivation": ["lithographer"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["li", "thog", "ra", "phy"]
+	},
+	"pronunciation": {
+		"all": "l\u026a'\u03b8\u0251gr\u0259fi"
+	},
+	"frequency": 1.9
+}

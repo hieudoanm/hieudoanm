@@ -1,0 +1,26 @@
+{
+	"word": "winchester",
+	"results": [
+		{
+			"definition": "a city in southern England; administrative center of Hampshire",
+			"partOfSpeech": "noun",
+			"instanceOf": ["metropolis", "city", "urban center"],
+			"hasParts": ["winchester college"],
+			"partOf": ["hampshire"]
+		},
+		{
+			"definition": "a shoulder rifle",
+			"partOfSpeech": "noun",
+			"usageOf": ["trademark"],
+			"typeOf": ["rifle"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["win", "ches", "ter"]
+	},
+	"pronunciation": {
+		"all": "'w\u026an,\u02a7\u025bst\u0259r"
+	},
+	"frequency": 2.97
+}

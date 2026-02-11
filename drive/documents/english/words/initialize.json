@@ -1,0 +1,34 @@
+{
+	"word": "initialize",
+	"results": [
+		{
+			"definition": "assign an initial value to a computer program",
+			"partOfSpeech": "verb",
+			"synonyms": ["initialise"],
+			"typeOf": ["determine", "set"],
+			"derivation": ["initialization"]
+		},
+		{
+			"definition": "divide (a disk) into marked sectors so that it may store data",
+			"partOfSpeech": "verb",
+			"synonyms": ["format", "initialise"],
+			"typeOf": [
+				"divide",
+				"separate",
+				"split",
+				"carve up",
+				"split up",
+				"dissever"
+			],
+			"derivation": ["initialization"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "i", "tial", "ize"]
+	},
+	"pronunciation": {
+		"all": "\u026a'n\u026a\u0283\u0259l_a\u026az"
+	},
+	"frequency": 1.9
+}

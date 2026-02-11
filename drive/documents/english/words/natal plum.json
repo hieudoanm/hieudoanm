@@ -1,0 +1,28 @@
+{
+	"word": "natal plum",
+	"results": [
+		{
+			"definition": "very large closely branched South African shrub having forked bright green spines and shiny leaves",
+			"partOfSpeech": "noun",
+			"synonyms": ["amatungulu", "carissa grandiflora", "carissa macrocarpa"],
+			"typeOf": ["carissa"],
+			"hasParts": ["carissa plum"]
+		},
+		{
+			"definition": "South African shrub having forked spines and plumlike fruit; frequently used as hedging",
+			"partOfSpeech": "noun",
+			"synonyms": ["carissa bispinosa", "hedge thorn"],
+			"typeOf": ["carissa"]
+		},
+		{
+			"definition": "edible scarlet plumlike fruit of a South African plant",
+			"partOfSpeech": "noun",
+			"synonyms": ["carissa plum"],
+			"typeOf": ["edible fruit"],
+			"partOf": ["amatungulu", "carissa grandiflora", "carissa macrocarpa"]
+		}
+	],
+	"pronunciation": {
+		"all": "n\u0259't\u00e6l_pl\u0259m"
+	}
+}

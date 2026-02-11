@@ -1,0 +1,34 @@
+{
+	"word": "miscarriage",
+	"results": [
+		{
+			"definition": "failure of a plan",
+			"partOfSpeech": "noun",
+			"synonyms": ["abortion"],
+			"typeOf": ["failure"],
+			"derivation": ["miscarry"]
+		},
+		{
+			"definition": "a natural loss of the products of conception",
+			"partOfSpeech": "noun",
+			"synonyms": ["spontaneous abortion", "stillbirth"],
+			"typeOf": ["abortion"],
+			"hasTypes": [
+				"habitual abortion",
+				"imminent abortion",
+				"threatened abortion",
+				"incomplete abortion",
+				"partial abortion"
+			],
+			"derivation": ["miscarry"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mis", "car", "riage"]
+	},
+	"pronunciation": {
+		"all": "m\u026as'k\u00e6r\u026ad\u0292"
+	},
+	"frequency": 3.1
+}

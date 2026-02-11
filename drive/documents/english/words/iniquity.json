@@ -1,0 +1,34 @@
+{
+	"word": "iniquity",
+	"results": [
+		{
+			"definition": "morally objectionable behavior",
+			"partOfSpeech": "noun",
+			"synonyms": ["evil", "immorality", "wickedness"],
+			"typeOf": ["evildoing", "transgression"],
+			"hasTypes": [
+				"violation",
+				"sexual immorality",
+				"foul play",
+				"devilry",
+				"deviltry",
+				"irreverence"
+			],
+			"derivation": ["iniquitous"]
+		},
+		{
+			"definition": "an unjust act",
+			"partOfSpeech": "noun",
+			"synonyms": ["injustice", "shabbiness", "unfairness"],
+			"typeOf": ["wrongful conduct", "misconduct", "wrongdoing", "actus reus"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "iq", "ui", "ty"]
+	},
+	"pronunciation": {
+		"all": "\u026a'n\u026akw\u026ati"
+	},
+	"frequency": 2.74
+}

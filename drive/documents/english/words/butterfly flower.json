@@ -1,0 +1,22 @@
+{
+	"word": "butterfly flower",
+	"results": [
+		{
+			"definition": "shrub or small tree of Dutch Guiana having clusters of pink flowers streaked with purple",
+			"partOfSpeech": "noun",
+			"synonyms": ["bauhinia monandra"],
+			"typeOf": ["bush", "shrub"],
+			"memberOf": ["bauhinia", "genus bauhinia"]
+		},
+		{
+			"definition": "any plant of the genus Schizanthus having finely divided leaves and showy variegated flowers",
+			"partOfSpeech": "noun",
+			"synonyms": ["poor man's orchid", "schizanthus"],
+			"typeOf": ["flower"],
+			"memberOf": ["genus schizanthus"]
+		}
+	],
+	"pronunciation": {
+		"all": "'b\u0259t\u0259r,fla\u026a_'fla\u028a\u0259r"
+	}
+}

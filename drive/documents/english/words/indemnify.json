@@ -1,0 +1,27 @@
+{
+	"word": "indemnify",
+	"results": [
+		{
+			"definition": "make amends for; pay compensation for",
+			"partOfSpeech": "verb",
+			"synonyms": ["compensate", "recompense", "repair"],
+			"typeOf": ["pay"],
+			"hasTypes": ["give"],
+			"derivation": ["indemnification", "indemnity"]
+		},
+		{
+			"definition": "secure against future loss, damage, or liability; give security for",
+			"partOfSpeech": "verb",
+			"typeOf": ["cover", "insure", "underwrite"],
+			"derivation": ["indemnity"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "dem", "ni", "fy"]
+	},
+	"pronunciation": {
+		"all": "\u026an'd\u025bmn\u0259,fa\u026a"
+	},
+	"frequency": 1.82
+}

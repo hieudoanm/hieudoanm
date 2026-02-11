@@ -1,0 +1,62 @@
+{
+	"word": "commune",
+	"results": [
+		{
+			"definition": "receive Communion, in the Catholic church",
+			"partOfSpeech": "verb",
+			"synonyms": ["communicate"],
+			"typeOf": ["covenant"],
+			"verbGroup": ["communicate"],
+			"derivation": ["communion"]
+		},
+		{
+			"definition": "a body of people or families living together and sharing everything",
+			"partOfSpeech": "noun",
+			"typeOf": ["gathering", "assemblage"],
+			"derivation": ["communise"]
+		},
+		{
+			"definition": "communicate intimately with; be in a state of heightened, intimate receptivity",
+			"partOfSpeech": "verb",
+			"typeOf": ["communicate", "intercommunicate"],
+			"hasTypes": ["pray"],
+			"derivation": ["communion"],
+			"examples": ["He seemed to commune with nature"]
+		},
+		{
+			"definition": "the smallest administrative district of several European countries",
+			"partOfSpeech": "noun",
+			"inRegion": [
+				"italy",
+				"schweiz",
+				"suisse",
+				"svizzera",
+				"swiss confederation",
+				"switzerland",
+				"kingdom of belgium",
+				"belgique",
+				"belgium",
+				"france",
+				"french republic",
+				"italia",
+				"italian republic"
+			],
+			"typeOf": [
+				"territorial division",
+				"administrative district",
+				"administrative division"
+			],
+			"derivation": ["communise"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["com", "mune"]
+	},
+	"pronunciation": {
+		"all": "'k\u0251mjun",
+		"noun": "'k\u0251mjun",
+		"verb": "k\u0259'mjun"
+	},
+	"frequency": 3.26
+}

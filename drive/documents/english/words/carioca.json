@@ -1,0 +1,29 @@
+{
+	"word": "carioca",
+	"results": [
+		{
+			"definition": "a lively ballroom dance that resembles the samba",
+			"partOfSpeech": "noun",
+			"typeOf": ["ballroom dance", "ballroom dancing"]
+		},
+		{
+			"definition": "a native or inhabitant of Rio de Janeiro",
+			"partOfSpeech": "noun",
+			"typeOf": ["brazilian"],
+			"memberOf": ["rio", "rio de janeiro"]
+		},
+		{
+			"definition": "music composed for dancing the carioca",
+			"partOfSpeech": "noun",
+			"typeOf": ["dance music"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["car", "i", "o", "ca"]
+	},
+	"pronunciation": {
+		"all": ",k\u00e6ri'o\u028ak\u0259"
+	},
+	"frequency": 2.03
+}

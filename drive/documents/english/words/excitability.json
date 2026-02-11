@@ -1,0 +1,27 @@
+{
+	"frequency": 2.02,
+	"word": "excitability",
+	"results": [
+		{
+			"definition": "excessive sensitivity of an organ or body part",
+			"partOfSpeech": "noun",
+			"synonyms": ["irritability"],
+			"typeOf": ["reactivity", "responsiveness"]
+		},
+		{
+			"definition": "being easily excited",
+			"partOfSpeech": "noun",
+			"synonyms": ["excitableness", "volatility"],
+			"typeOf": ["emotionalism", "emotionality"],
+			"hasTypes": ["boiling point"],
+			"derivation": ["excitable"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["ex", "cit", "a", "bil", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "\u026ak,sa\u026at\u0259'b\u026al\u026ati"
+	}
+}

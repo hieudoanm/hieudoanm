@@ -1,0 +1,36 @@
+{
+	"word": "cogitation",
+	"results": [
+		{
+			"definition": "attentive consideration and meditation",
+			"partOfSpeech": "noun",
+			"synonyms": ["study"],
+			"typeOf": [
+				"reflection",
+				"reflexion",
+				"rumination",
+				"thoughtfulness",
+				"musing",
+				"contemplation"
+			],
+			"hasTypes": ["lucubration"],
+			"derivation": ["cogitate"],
+			"examples": ["after much cogitation he rejected the offer"]
+		},
+		{
+			"definition": "a carefully considered thought about something",
+			"partOfSpeech": "noun",
+			"typeOf": ["idea", "thought"],
+			"derivation": ["cogitate"],
+			"examples": ["his cogitations were dutifully recorded in his daybook"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["cog", "i", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",k\u0251d\u0292\u026a'te\u026a\u0283\u0259n"
+	},
+	"frequency": 1.6
+}

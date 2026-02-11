@@ -1,0 +1,33 @@
+{
+	"word": "give off",
+	"results": [
+		{
+			"definition": "give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.",
+			"partOfSpeech": "verb",
+			"synonyms": ["emit", "give out"],
+			"hasTypes": [
+				"steam",
+				"sparkle",
+				"effuse",
+				"fume",
+				"radiate",
+				"ray",
+				"reek",
+				"reflect",
+				"scintillate",
+				"shine",
+				"shoot",
+				"smoke",
+				"spark"
+			]
+		},
+		{
+			"definition": "have as a by-product",
+			"partOfSpeech": "verb",
+			"typeOf": ["feature", "have"]
+		}
+	],
+	"pronunciation": {
+		"all": "\u0261\u026av_\u0254f"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"word": "water moccasin",
+	"results": [
+		{
+			"definition": "venomous semiaquatic snake of swamps in southern United States",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"agkistrodon piscivorus",
+				"cottonmouth",
+				"cottonmouth moccasin"
+			],
+			"typeOf": ["pit viper"],
+			"memberOf": [
+				"genus ancistrodon",
+				"agkistrodon",
+				"ancistrodon",
+				"genus agkistrodon"
+			]
+		},
+		{
+			"definition": "any of numerous North American water snakes inhabiting fresh waters",
+			"partOfSpeech": "noun",
+			"typeOf": ["water snake"],
+			"memberOf": ["genus natrix", "natrix"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["wa", "ter moc", "ca", "sin"]
+	},
+	"pronunciation": {
+		"all": "'w\u0254t\u0259r_'m\u0251k\u0259s\u026an"
+	}
+}

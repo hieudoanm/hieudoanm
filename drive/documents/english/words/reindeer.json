@@ -1,0 +1,26 @@
+{
+	"word": "reindeer",
+	"results": [
+		{
+			"definition": "Arctic deer with large antlers in both sexes; called `reindeer' in Eurasia and `caribou' in North America",
+			"partOfSpeech": "noun",
+			"synonyms": ["caribou", "greenland caribou", "rangifer tarandus"],
+			"typeOf": ["deer", "cervid"],
+			"hasTypes": [
+				"barren ground caribou",
+				"rangifer caribou",
+				"woodland caribou",
+				"rangifer arcticus"
+			],
+			"memberOf": ["genus rangifer", "rangifer"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["rein", "deer"]
+	},
+	"pronunciation": {
+		"all": "'re\u026an,dir"
+	},
+	"frequency": 3.7
+}

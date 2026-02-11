@@ -1,0 +1,31 @@
+{
+	"word": "glaciation",
+	"results": [
+		{
+			"definition": "the condition of being covered with glaciers or masses of ice; the result of glacial action",
+			"partOfSpeech": "noun",
+			"typeOf": ["environmental condition"],
+			"derivation": ["glacial", "glaciate"],
+			"examples": [
+				"Agassiz recognized marks of glaciation all over northern Europe"
+			]
+		},
+		{
+			"definition": "the process of covering the earth with glaciers or masses of ice",
+			"partOfSpeech": "noun",
+			"typeOf": ["geologic process", "geological process"],
+			"hasTypes": [
+				"riss glaciation",
+				"saale glaciation",
+				"wolstonian glaciation"
+			],
+			"derivation": ["glacial", "glaciate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["gla", "ci", "a", "tion"]
+	},
+	"pronunciation": ",\u0261le\u026a\u0283i'e\u026a\u0283\u028cn",
+	"frequency": 1.82
+}

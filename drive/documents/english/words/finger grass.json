@@ -1,0 +1,38 @@
+{
+	"word": "finger grass",
+	"results": [
+		{
+			"definition": "grasses with creeping stems that root freely; a pest in lawns",
+			"partOfSpeech": "noun",
+			"synonyms": ["crab grass", "crabgrass"],
+			"typeOf": ["grass"],
+			"hasTypes": [
+				"egyptian grass",
+				"digitaria ischaemum",
+				"dactyloctenium aegypticum",
+				"digitaria sanguinalis",
+				"crowfoot grass",
+				"hairy finger grass",
+				"large crabgrass",
+				"smooth crabgrass"
+			],
+			"memberOf": ["genus digitaria", "digitaria"]
+		},
+		{
+			"definition": "any grass of the genus Chloris; occurs in short grassland especially on waste ground or poor soils",
+			"partOfSpeech": "noun",
+			"typeOf": ["grass"],
+			"hasTypes": [
+				"chloris truncata",
+				"creeping windmill grass",
+				"chloris gayana",
+				"rhodes grass",
+				"star grass",
+				"windmill grass"
+			]
+		}
+	],
+	"pronunciation": {
+		"all": "'f\u026a\u014b\u0261\u0259r_gr\u00e6s"
+	}
+}

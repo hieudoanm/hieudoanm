@@ -1,0 +1,30 @@
+{
+	"word": "patagonia",
+	"results": [
+		{
+			"definition": "region in southern South America between the Andes and the South Atlantic",
+			"partOfSpeech": "noun",
+			"instanceOf": [
+				"geographical area",
+				"geographical region",
+				"geographic area",
+				"geographic region"
+			],
+			"hasParts": ["patagonian desert"],
+			"partOf": [
+				"republic of chile",
+				"argentine republic",
+				"chile",
+				"argentina"
+			]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["pat", "a", "go", "ni", "a"]
+	},
+	"pronunciation": {
+		"all": ",p\u00e6t\u0259'\u0261o\u028ani\u0259"
+	},
+	"frequency": 2.77
+}

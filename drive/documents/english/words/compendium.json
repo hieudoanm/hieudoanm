@@ -1,0 +1,26 @@
+{
+	"word": "compendium",
+	"results": [
+		{
+			"definition": "a publication containing a variety of works",
+			"partOfSpeech": "noun",
+			"synonyms": ["collection"],
+			"typeOf": ["publication"],
+			"hasTypes": ["anthology", "digest", "archives", "compilation"]
+		},
+		{
+			"definition": "a concise but comprehensive summary of a larger work",
+			"partOfSpeech": "noun",
+			"typeOf": ["sum-up", "summary"],
+			"derivation": ["compendious"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["com", "pen", "di", "um"]
+	},
+	"pronunciation": {
+		"all": "k\u0259m'p\u025bndi\u0259m"
+	},
+	"frequency": 2.17
+}

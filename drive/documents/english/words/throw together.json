@@ -1,0 +1,25 @@
+{
+	"word": "throw together",
+	"results": [
+		{
+			"definition": "produce shoddily, without much attention to detail",
+			"partOfSpeech": "verb",
+			"synonyms": ["fudge together"],
+			"typeOf": ["create", "make", "produce"]
+		},
+		{
+			"definition": "bring into random order",
+			"partOfSpeech": "verb",
+			"synonyms": ["jumble", "scramble"],
+			"typeOf": ["disarray", "disorder"],
+			"hasTypes": ["tumble"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["throw to", "geth", "er"]
+	},
+	"pronunciation": {
+		"all": "\u03b8ro\u028a_t\u028a'\u0261\u025b\u00f0\u0259r"
+	}
+}

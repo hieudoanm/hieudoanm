@@ -1,0 +1,32 @@
+{
+	"word": "christmasberry",
+	"results": [
+		{
+			"definition": "spiny evergreen shrub of southeastern United States having spreading branches usually blue or mauve flowers and red berries",
+			"partOfSpeech": "noun",
+			"synonyms": ["christmas berry", "lycium carolinianum"],
+			"typeOf": ["bush", "shrub"],
+			"memberOf": ["lycium", "genus lycium"]
+		},
+		{
+			"definition": "ornamental evergreen treelike shrub of the Pacific coast of the United States having large white flowers and red berrylike fruits; often placed in genus Photinia",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"christmas berry",
+				"heteromeles arbutifolia",
+				"photinia arbutifolia",
+				"tollon",
+				"toyon"
+			],
+			"typeOf": ["bush", "shrub"],
+			"memberOf": ["heteromeles", "genus heteromeles"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["christ", "mas", "ber", "ry"]
+	},
+	"pronunciation": {
+		"all": "'kr\u026asm\u0259s,b\u025bri"
+	}
+}

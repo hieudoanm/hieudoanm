@@ -1,0 +1,26 @@
+{
+	"word": "octopus",
+	"results": [
+		{
+			"definition": "bottom-living cephalopod having a soft oval body with eight long tentacles",
+			"partOfSpeech": "noun",
+			"synonyms": ["devilfish"],
+			"typeOf": ["octopod"],
+			"memberOf": ["genus octopus"]
+		},
+		{
+			"definition": "tentacles of octopus prepared as food",
+			"partOfSpeech": "noun",
+			"typeOf": ["seafood"],
+			"partOf": ["devilfish"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["oc", "to", "pus"]
+	},
+	"pronunciation": {
+		"all": "'\u0251kt\u0259p\u0259s"
+	},
+	"frequency": 3.68
+}

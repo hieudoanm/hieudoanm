@@ -1,0 +1,26 @@
+{
+	"word": "glottis",
+	"results": [
+		{
+			"definition": "the vocal apparatus of the larynx; the true vocal folds and the space between them where the voice tone is generated",
+			"partOfSpeech": "noun",
+			"typeOf": ["organ of speech", "speech organ", "vocal organ"],
+			"hasParts": [
+				"true glottis",
+				"glottis vera",
+				"rima glottidis",
+				"rima vocalis"
+			],
+			"partOf": ["larynx", "voice box"],
+			"derivation": ["glottal"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["glot", "tis"]
+	},
+	"pronunciation": {
+		"all": "'gl\u0251t\u026as"
+	},
+	"frequency": 1.6
+}

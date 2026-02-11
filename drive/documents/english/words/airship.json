@@ -1,0 +1,22 @@
+{
+	"word": "airship",
+	"results": [
+		{
+			"definition": "a steerable self-propelled aircraft",
+			"partOfSpeech": "noun",
+			"synonyms": ["dirigible"],
+			"typeOf": ["lighter-than-air craft"],
+			"hasTypes": ["sausage", "barrage balloon", "sausage balloon", "blimp"],
+			"hasInstances": ["zeppelin", "graf zeppelin"],
+			"hasParts": ["gondola", "car"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["air", "ship"]
+	},
+	"pronunciation": {
+		"all": "'\u025cr,\u0283\u026ap"
+	},
+	"frequency": 2.81
+}

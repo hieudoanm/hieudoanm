@@ -1,0 +1,36 @@
+{
+	"word": "mountain cranberry",
+	"results": [
+		{
+			"definition": "tart red berries similar to American cranberries but smaller",
+			"partOfSpeech": "noun",
+			"synonyms": ["cowberry", "lingonberry", "lowbush cranberry"],
+			"typeOf": ["berry"],
+			"partOf": [
+				"vaccinium vitis-idaea",
+				"cowberry",
+				"foxberry",
+				"lingberry",
+				"lingenberry",
+				"lingonberry"
+			]
+		},
+		{
+			"definition": "low evergreen shrub of high north temperate regions of Europe and Asia and America bearing red edible berries",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"cowberry",
+				"foxberry",
+				"lingberry",
+				"lingenberry",
+				"lingonberry",
+				"vaccinium vitis-idaea"
+			],
+			"typeOf": ["cranberry"],
+			"hasParts": ["lingonberry", "lowbush cranberry", "cowberry"]
+		}
+	],
+	"pronunciation": {
+		"all": "'ma\u028ant\u0259n_'kr\u00e6n,b\u025bri"
+	}
+}

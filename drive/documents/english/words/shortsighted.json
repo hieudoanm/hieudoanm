@@ -1,0 +1,31 @@
+{
+	"word": "shortsighted",
+	"results": [
+		{
+			"definition": "unable to see distant objects clearly",
+			"partOfSpeech": "adjective",
+			"synonyms": ["myopic", "nearsighted"],
+			"derivation": ["shortsightedness"]
+		},
+		{
+			"definition": "not given careful consideration",
+			"partOfSpeech": "adjective",
+			"synonyms": ["ill-considered", "ill-judged", "improvident"],
+			"similarTo": ["imprudent"],
+			"derivation": ["shortsightedness"]
+		},
+		{
+			"definition": "lacking foresight or scope",
+			"partOfSpeech": "adjective",
+			"synonyms": ["myopic", "short", "unforesightful"],
+			"similarTo": ["improvident"],
+			"derivation": ["shortsightedness"],
+			"examples": [
+				"shortsighted policies",
+				"shortsighted critics derided the plan"
+			]
+		}
+	],
+	"pronunciation": "'\u0283\u0254rt'sa\u026at\u026ad",
+	"frequency": 2.33
+}

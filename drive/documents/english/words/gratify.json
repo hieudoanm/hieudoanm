@@ -1,0 +1,34 @@
+{
+	"word": "gratify",
+	"results": [
+		{
+			"definition": "yield (to); give satisfaction to",
+			"partOfSpeech": "verb",
+			"synonyms": ["indulge", "pander"],
+			"typeOf": ["supply", "ply", "provide", "cater"],
+			"hasTypes": [
+				"spree",
+				"sow one's oats",
+				"humour",
+				"humor",
+				"sow one's wild oats"
+			],
+			"derivation": ["gratification"]
+		},
+		{
+			"definition": "make happy or satisfied",
+			"partOfSpeech": "verb",
+			"synonyms": ["satisfy"],
+			"hasTypes": ["please", "content", "delight"],
+			"derivation": ["gratification"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["grat", "i", "fy"]
+	},
+	"pronunciation": {
+		"all": "'gr\u00e6t\u0259,fa\u026a"
+	},
+	"frequency": 1.97
+}

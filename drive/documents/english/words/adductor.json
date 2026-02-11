@@ -1,0 +1,27 @@
+{
+	"frequency": 1.74,
+	"word": "adductor",
+	"results": [
+		{
+			"definition": "a muscle that draws a body part toward the median line",
+			"partOfSpeech": "noun",
+			"synonyms": ["adductor muscle"],
+			"typeOf": ["skeletal muscle", "striated muscle"],
+			"hasTypes": [
+				"musculus adductor hallucis",
+				"great adductor muscle",
+				"musculus adductor magnus",
+				"musculus adductor longus",
+				"musculus adductor brevis"
+			],
+			"derivation": ["adduct"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ad", "duc", "tor"]
+	},
+	"pronunciation": {
+		"all": "\u0259'd\u0259kt\u0259r"
+	}
+}

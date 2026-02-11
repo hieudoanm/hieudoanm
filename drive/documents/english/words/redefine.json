@@ -1,0 +1,26 @@
+{
+	"word": "redefine",
+	"results": [
+		{
+			"definition": "give a new or different definition of (a word)",
+			"partOfSpeech": "verb",
+			"typeOf": ["define"],
+			"derivation": ["redefinition"]
+		},
+		{
+			"definition": "give a new or different definition to",
+			"partOfSpeech": "verb",
+			"typeOf": ["define", "delimit", "delimitate", "delineate", "specify"],
+			"derivation": ["redefinition"],
+			"examples": ["She redefined his duties"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "de", "fine"]
+	},
+	"pronunciation": {
+		"all": ",rid\u026a'fa\u026an"
+	},
+	"frequency": 2.52
+}

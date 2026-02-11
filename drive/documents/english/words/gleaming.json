@@ -1,0 +1,34 @@
+{
+	"word": "gleaming",
+	"results": [
+		{
+			"definition": "a flash of light (especially reflected light)",
+			"partOfSpeech": "noun",
+			"synonyms": ["gleam", "glimmer"],
+			"typeOf": ["flash"],
+			"derivation": ["gleam"]
+		},
+		{
+			"definition": "bright with a steady but subdued shining",
+			"partOfSpeech": "adjective",
+			"synonyms": ["agleam", "nitid"],
+			"similarTo": ["bright"],
+			"examples": ["the gleaming brass on the altar"]
+		},
+		{
+			"definition": "an appearance of reflected light",
+			"partOfSpeech": "noun",
+			"synonyms": ["gleam", "glow", "lambency"],
+			"typeOf": [
+				"radiance",
+				"radiancy",
+				"refulgence",
+				"refulgency",
+				"shine",
+				"effulgence"
+			]
+		}
+	],
+	"pronunciation": "'\u0261lim\u026a\u014b",
+	"frequency": 2.9
+}

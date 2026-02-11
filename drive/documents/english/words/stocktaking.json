@@ -1,0 +1,26 @@
+{
+	"word": "stocktaking",
+	"results": [
+		{
+			"definition": "reappraisal of a situation or position or outlook",
+			"partOfSpeech": "noun",
+			"synonyms": ["stock-taking"],
+			"typeOf": ["revaluation", "review", "reappraisal", "reassessment"]
+		},
+		{
+			"definition": "making an itemized list of merchandise or supplies on hand",
+			"partOfSpeech": "noun",
+			"synonyms": ["inventory", "inventorying", "stock-taking"],
+			"typeOf": ["itemisation", "itemization", "listing"],
+			"hasTypes": ["stocktake", "stock-take"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["stock", "tak", "ing"]
+	},
+	"pronunciation": {
+		"all": "'st\u0251k,te\u026ak\u026a\u014b"
+	},
+	"frequency": 1.6
+}

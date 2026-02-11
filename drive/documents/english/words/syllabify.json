@@ -1,0 +1,20 @@
+{
+	"word": "syllabify",
+	"results": [
+		{
+			"definition": "divide into syllables",
+			"partOfSpeech": "verb",
+			"synonyms": ["syllabicate", "syllabise", "syllabize"],
+			"typeOf": ["section", "segment"],
+			"derivation": ["syllabification", "syllable"],
+			"examples": ["syllabify the words"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["syl", "lab", "i", "fy"]
+	},
+	"pronunciation": {
+		"all": "s\u026a'l\u00e6b\u0259,fa\u026a"
+	}
+}

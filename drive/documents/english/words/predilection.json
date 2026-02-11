@@ -1,0 +1,27 @@
+{
+	"word": "predilection",
+	"results": [
+		{
+			"definition": "a strong liking",
+			"partOfSpeech": "noun",
+			"synonyms": ["penchant", "preference", "taste"],
+			"typeOf": ["liking"],
+			"hasTypes": ["acquired taste", "weakness"]
+		},
+		{
+			"definition": "a predisposition in favor of something",
+			"partOfSpeech": "noun",
+			"synonyms": ["orientation", "preference"],
+			"typeOf": ["predisposition"],
+			"examples": ["a predilection for expensive cars"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pre", "di", "lec", "tion"]
+	},
+	"pronunciation": {
+		"all": ",pr\u025bd'\u0259l\u025bk\u0283\u0259n"
+	},
+	"frequency": 2.27
+}

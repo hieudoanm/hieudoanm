@@ -1,0 +1,35 @@
+{
+	"word": "dereliction",
+	"results": [
+		{
+			"definition": "a tendency to be negligent and uncaring",
+			"partOfSpeech": "noun",
+			"synonyms": ["delinquency", "willful neglect"],
+			"typeOf": ["neglectfulness", "neglect", "negligence"],
+			"examples": ["his derelictions were not really intended as crimes"]
+		},
+		{
+			"definition": "willful negligence",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"neglect",
+				"negligence",
+				"wrongful conduct",
+				"carelessness",
+				"misconduct",
+				"actus reus",
+				"nonperformance",
+				"wrongdoing"
+			],
+			"hasTypes": ["nonfeasance"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["der", "e", "lic", "tion"]
+	},
+	"pronunciation": {
+		"all": ",d\u025br\u0259'l\u026ak\u0283\u0259n"
+	},
+	"frequency": 2.36
+}

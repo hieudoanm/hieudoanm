@@ -1,0 +1,26 @@
+{
+	"word": "stammer",
+	"results": [
+		{
+			"definition": "speak haltingly",
+			"partOfSpeech": "verb",
+			"synonyms": ["bumble", "falter", "stutter"],
+			"typeOf": ["mouth", "speak", "talk", "utter", "verbalise", "verbalize"],
+			"derivation": ["stammerer"]
+		},
+		{
+			"definition": "a speech disorder involving hesitations and involuntary repetitions of certain sounds",
+			"partOfSpeech": "noun",
+			"synonyms": ["stutter"],
+			"typeOf": ["defect of speech", "speech defect", "speech disorder"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["stam", "mer"]
+	},
+	"pronunciation": {
+		"all": "'st\u00e6m\u0259r"
+	},
+	"frequency": 2.66
+}

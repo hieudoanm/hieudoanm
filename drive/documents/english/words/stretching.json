@@ -1,0 +1,28 @@
+{
+	"word": "stretching",
+	"results": [
+		{
+			"definition": "exercise designed to extend the limbs and muscles to their full extent",
+			"partOfSpeech": "noun",
+			"synonyms": ["stretch"],
+			"typeOf": [
+				"physical exertion",
+				"workout",
+				"exercise",
+				"exercising",
+				"physical exercise"
+			],
+			"hasTypes": ["pandiculation"],
+			"derivation": ["stretch"]
+		},
+		{
+			"definition": "act of expanding by lengthening or widening",
+			"partOfSpeech": "noun",
+			"typeOf": ["enlargement", "expansion"],
+			"hasTypes": ["extension", "tension"],
+			"derivation": ["stretch"]
+		}
+	],
+	"pronunciation": "'str\u025bt\u0283\u026a\u014b",
+	"frequency": 3.44
+}

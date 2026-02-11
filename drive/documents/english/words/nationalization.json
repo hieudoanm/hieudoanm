@@ -1,0 +1,32 @@
+{
+	"word": "nationalization",
+	"results": [
+		{
+			"definition": "the action of forming or becoming a nation",
+			"partOfSpeech": "noun",
+			"synonyms": ["nationalisation"],
+			"typeOf": ["group action"]
+		},
+		{
+			"definition": "changing something from private to state ownership or control",
+			"partOfSpeech": "noun",
+			"synonyms": ["communisation", "communization", "nationalisation"],
+			"typeOf": ["social control"],
+			"antonyms": ["denationalization"],
+			"derivation": ["nationalize"]
+		},
+		{
+			"definition": "the action of rendering national in character",
+			"partOfSpeech": "noun",
+			"synonyms": ["nationalisation"],
+			"typeOf": ["change"],
+			"derivation": ["nationalize"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["na", "tion", "al", "i", "za", "tion"]
+	},
+	"pronunciation": ",n\u00e6\u0283\u028cn\u028cl\u028c'ze\u026a\u0283\u028cn",
+	"frequency": 2.3
+}

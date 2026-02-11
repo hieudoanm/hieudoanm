@@ -1,0 +1,34 @@
+{
+	"word": "paralytic",
+	"results": [
+		{
+			"definition": "relating to or of the nature of paralysis",
+			"partOfSpeech": "adjective",
+			"synonyms": ["paralytical"],
+			"pertainsTo": ["paralysis"],
+			"derivation": ["paralysis"],
+			"examples": ["paralytic symptoms"]
+		},
+		{
+			"definition": "affected with paralysis",
+			"partOfSpeech": "adjective",
+			"synonyms": ["paralyzed"],
+			"similarTo": ["ill", "sick"],
+			"derivation": ["paralysis"]
+		},
+		{
+			"definition": "a person suffering from paralysis",
+			"partOfSpeech": "noun",
+			"typeOf": ["handicapped person"],
+			"hasTypes": ["paretic", "spastic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["par", "a", "lyt", "ic"]
+	},
+	"pronunciation": {
+		"all": ",p\u00e6r\u0259'l\u026at\u026ak"
+	},
+	"frequency": 2.49
+}

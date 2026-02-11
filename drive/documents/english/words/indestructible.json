@@ -1,0 +1,27 @@
+{
+	"word": "indestructible",
+	"results": [
+		{
+			"definition": "very long lasting",
+			"partOfSpeech": "adjective",
+			"synonyms": ["durable", "perdurable", "undestroyable"],
+			"similarTo": ["imperishable"]
+		},
+		{
+			"definition": "not easily destroyed",
+			"partOfSpeech": "adjective",
+			"attribute": ["destructibility"],
+			"similarTo": ["undestroyable"],
+			"antonyms": ["destructible"],
+			"derivation": ["indestructibility"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "de", "struct", "i", "ble"]
+	},
+	"pronunciation": {
+		"all": ",\u026and\u026a'str\u0259kt\u0259b\u0259l"
+	},
+	"frequency": 3.03
+}

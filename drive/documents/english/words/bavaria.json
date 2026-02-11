@@ -1,0 +1,27 @@
+{
+	"word": "bavaria",
+	"results": [
+		{
+			"definition": "a state in southern Germany famous for its beer; site of an automobile factory",
+			"partOfSpeech": "noun",
+			"regionOf": ["hohenlinden", "battle of hohenlinden"],
+			"instanceOf": ["state", "province"],
+			"hasParts": ["muenchen", "hohenlinden", "munich"],
+			"partOf": [
+				"germany",
+				"frg",
+				"deutschland",
+				"federal republic of germany"
+			],
+			"derivation": ["bavarian"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ba", "var", "i", "a"]
+	},
+	"pronunciation": {
+		"all": "b\u0259'v\u025cri\u0259"
+	},
+	"frequency": 2.87
+}

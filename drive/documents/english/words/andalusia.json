@@ -1,0 +1,27 @@
+{
+	"word": "andalusia",
+	"results": [
+		{
+			"definition": "a region in southern Spain on the Atlantic and the Mediterranean; formerly a center of Moorish civilization",
+			"partOfSpeech": "noun",
+			"synonyms": ["andalucia"],
+			"instanceOf": [
+				"geographic area",
+				"geographic region",
+				"geographical area",
+				"geographical region"
+			],
+			"hasParts": ["granada"],
+			"partOf": ["spain", "kingdom of spain", "espana"],
+			"derivation": ["andalusian"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["an", "da", "lu", "si", "a"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6n'd\u0259lu\u0292\u0259"
+	},
+	"frequency": 2.73
+}

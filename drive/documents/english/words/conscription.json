@@ -1,0 +1,33 @@
+{
+	"word": "conscription",
+	"results": [
+		{
+			"definition": "compulsory military service",
+			"partOfSpeech": "noun",
+			"synonyms": ["draft", "muster", "selective service"],
+			"inCategory": [
+				"armed forces",
+				"armed services",
+				"military",
+				"military machine",
+				"war machine"
+			],
+			"typeOf": [
+				"militarization",
+				"mobilisation",
+				"mobilization",
+				"militarisation"
+			],
+			"hasTypes": ["levy", "levy en masse"],
+			"derivation": ["conscript"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["con", "scrip", "tion"]
+	},
+	"pronunciation": {
+		"all": "k\u0259n'skr\u026ap\u0283\u0259n"
+	},
+	"frequency": 2.33
+}

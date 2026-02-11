@@ -1,0 +1,22 @@
+{
+	"word": "glacial epoch",
+	"results": [
+		{
+			"definition": "any period of time during which glaciers covered a large part of the earth's surface",
+			"partOfSpeech": "noun",
+			"synonyms": ["glacial period", "ice age"],
+			"typeOf": ["geological period", "period"],
+			"partOf": ["prehistory", "prehistoric culture"]
+		},
+		{
+			"definition": "from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution",
+			"partOfSpeech": "noun",
+			"synonyms": ["pleistocene", "pleistocene epoch"],
+			"instanceOf": ["epoch"],
+			"partOf": ["quaternary period", "quaternary", "age of man"]
+		}
+	],
+	"pronunciation": {
+		"all": "'gle\u026a\u0283\u0259l_'\u025bp\u0259k"
+	}
+}

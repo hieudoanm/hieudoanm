@@ -1,0 +1,26 @@
+{
+	"word": "sparrow hawk",
+	"results": [
+		{
+			"definition": "small North American falcon",
+			"partOfSpeech": "noun",
+			"synonyms": ["american kestrel", "falco sparverius", "kestrel"],
+			"typeOf": ["falcon"],
+			"memberOf": ["falco", "genus falco"]
+		},
+		{
+			"definition": "small hawk of Eurasia and northern Africa",
+			"partOfSpeech": "noun",
+			"synonyms": ["accipiter nisus"],
+			"typeOf": ["hawk"],
+			"memberOf": ["accipiter", "genus accipiter"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["spar", "row hawk"]
+	},
+	"pronunciation": {
+		"all": "'sp\u00e6ro\u028a_h\u0254k"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"word": "canister",
+	"results": [
+		{
+			"definition": "metal container for storing dry foods such as tea or flour",
+			"partOfSpeech": "noun",
+			"synonyms": ["cannister", "tin"],
+			"typeOf": ["container"]
+		},
+		{
+			"definition": "a metallic cylinder packed with shot and used as ammunition in a firearm",
+			"partOfSpeech": "noun",
+			"synonyms": ["canister shot", "case shot"],
+			"typeOf": ["ammo", "ammunition"],
+			"hasParts": ["pellet", "shot"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["can", "is", "ter"]
+	},
+	"pronunciation": {
+		"all": "'k\u00e6n\u026ast\u0259r"
+	},
+	"frequency": 3.06
+}

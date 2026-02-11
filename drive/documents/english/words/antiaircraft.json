@@ -1,0 +1,33 @@
+{
+	"word": "antiaircraft",
+	"results": [
+		{
+			"definition": "artillery designed to shoot upward at airplanes",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"ack-ack",
+				"ack-ack gun",
+				"antiaircraft gun",
+				"flack",
+				"flak",
+				"pom-pom"
+			],
+			"typeOf": ["gun"],
+			"hasTypes": ["bofors gun"],
+			"hasParts": ["predictor"]
+		},
+		{
+			"definition": "designed for defense from a surface position against air attack",
+			"partOfSpeech": "adjective",
+			"similarTo": ["defensive"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["an", "ti", "air", "craft"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6nti'\u025cr,kr\u00e6ft"
+	},
+	"frequency": 2.08
+}

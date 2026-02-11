@@ -1,0 +1,19 @@
+{
+	"frequency": 1.74,
+	"word": "shuffler",
+	"results": [
+		{
+			"definition": "someone who walks without raising the feet",
+			"partOfSpeech": "noun",
+			"typeOf": ["footer", "pedestrian", "walker"],
+			"derivation": ["shuffle"]
+		},
+		{
+			"definition": "the card player who shuffles the cards",
+			"partOfSpeech": "noun",
+			"typeOf": ["card player"],
+			"derivation": ["shuffle"]
+		}
+	],
+	"pronunciation": "'\u0283\u028cf\u028cl\u025dr"
+}

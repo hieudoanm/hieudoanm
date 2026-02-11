@@ -1,0 +1,30 @@
+{
+	"word": "commonality",
+	"results": [
+		{
+			"definition": "a class composed of persons lacking clerical or noble rank",
+			"partOfSpeech": "noun",
+			"synonyms": ["commonalty", "commons"],
+			"typeOf": ["socio-economic class", "social class", "class", "stratum"],
+			"derivation": ["common"]
+		},
+		{
+			"definition": "sharing of common attributes",
+			"partOfSpeech": "noun",
+			"synonyms": ["commonness"],
+			"attribute": ["common"],
+			"typeOf": ["generality"],
+			"hasTypes": ["solidarity"],
+			"antonyms": ["individuality"],
+			"derivation": ["common"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["com", "mon", "al", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": ",k\u0251m\u0259'n\u00e6l\u026ati"
+	},
+	"frequency": 2.24
+}

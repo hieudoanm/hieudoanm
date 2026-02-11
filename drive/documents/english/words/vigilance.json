@@ -1,0 +1,29 @@
+{
+	"word": "vigilance",
+	"results": [
+		{
+			"definition": "vigilant attentiveness",
+			"partOfSpeech": "noun",
+			"synonyms": ["watchfulness", "weather eye"],
+			"typeOf": ["attentiveness"],
+			"derivation": ["vigilant"]
+		},
+		{
+			"definition": "the process of paying close and continuous attention",
+			"partOfSpeech": "noun",
+			"synonyms": ["alertness", "wakefulness", "watchfulness"],
+			"typeOf": ["attention"],
+			"hasTypes": ["jealousy"],
+			"derivation": ["vigilant"],
+			"examples": ["vigilance is especially susceptible to fatigue"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["vig", "i", "lance"]
+	},
+	"pronunciation": {
+		"all": "'v\u026ad\u0292\u0259l\u0259ns"
+	},
+	"frequency": 2.77
+}

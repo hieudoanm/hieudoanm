@@ -1,0 +1,28 @@
+{
+	"word": "pistachio",
+	"results": [
+		{
+			"definition": "nut of Mediterranean trees having an edible green kernel",
+			"partOfSpeech": "noun",
+			"synonyms": ["pistachio nut"],
+			"typeOf": ["edible nut"],
+			"partOf": ["pistacia vera", "pistachio tree"]
+		},
+		{
+			"definition": "small tree of southern Europe and Asia Minor bearing small hard-shelled nuts",
+			"partOfSpeech": "noun",
+			"synonyms": ["pistachio tree", "pistacia vera"],
+			"typeOf": ["nut tree"],
+			"memberOf": ["genus pistacia", "pistacia"],
+			"hasParts": ["pistachio nut"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pis", "ta", "chi", "o"]
+	},
+	"pronunciation": {
+		"all": "p\u026a'st\u00e6\u0283i,o\u028a"
+	},
+	"frequency": 2.98
+}

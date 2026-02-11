@@ -1,0 +1,36 @@
+{
+	"word": "ineligible",
+	"results": [
+		{
+			"definition": "not eligible",
+			"partOfSpeech": "adjective",
+			"also": ["unqualified"],
+			"similarTo": [
+				"disqualified",
+				"unsuitable",
+				"undesirable",
+				"unentitled",
+				"unqualified"
+			],
+			"antonyms": ["eligible"],
+			"derivation": ["ineligibility"],
+			"examples": ["ineligible to vote", "ineligible for retirement benefits"]
+		},
+		{
+			"definition": "prohibited by official rules",
+			"partOfSpeech": "adjective",
+			"inCategory": ["sport", "athletics"],
+			"similarTo": ["illegal"],
+			"derivation": ["ineligibility"],
+			"examples": ["an ineligible pass receiver"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "el", "i", "gi", "ble"]
+	},
+	"pronunciation": {
+		"all": "\u026an'\u025bl\u026ad\u0292\u0259b\u0259l"
+	},
+	"frequency": 2.17
+}

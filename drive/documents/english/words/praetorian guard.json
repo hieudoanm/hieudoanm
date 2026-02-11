@@ -1,0 +1,24 @@
+{
+	"word": "praetorian guard",
+	"results": [
+		{
+			"definition": "a member of the Praetorian Guard",
+			"partOfSpeech": "noun",
+			"synonyms": ["praetorian"],
+			"typeOf": ["bodyguard", "escort"]
+		},
+		{
+			"definition": "the elite bodyguard of a Roman Emperor in ancient Rome",
+			"partOfSpeech": "noun",
+			"typeOf": ["bodyguard"],
+			"hasMembers": ["praetorian"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["prae", "to", "ri", "an guard"]
+	},
+	"pronunciation": {
+		"all": "pri'to\u028ari\u0259n_g\u0251rd"
+	}
+}

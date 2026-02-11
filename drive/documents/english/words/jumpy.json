@@ -1,0 +1,35 @@
+{
+	"word": "jumpy",
+	"results": [
+		{
+			"definition": "being in a tense state",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"edgy",
+				"high-strung",
+				"highly strung",
+				"jittery",
+				"nervy",
+				"overstrung",
+				"restive",
+				"uptight"
+			],
+			"similarTo": ["tense"],
+			"derivation": ["jumpiness"]
+		},
+		{
+			"definition": "causing or characterized by jolts and irregular movements",
+			"partOfSpeech": "adjective",
+			"synonyms": ["bumpy", "jolting", "jolty", "rocky", "rough"],
+			"derivation": ["jump"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["jump", "y"]
+	},
+	"pronunciation": {
+		"all": "'d\u0292\u0259mpi"
+	},
+	"frequency": 3.32
+}

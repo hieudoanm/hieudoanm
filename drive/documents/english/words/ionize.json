@@ -1,0 +1,31 @@
+{
+	"word": "ionize",
+	"results": [
+		{
+			"definition": "convert into ions",
+			"partOfSpeech": "verb",
+			"synonyms": ["ionise"],
+			"inCategory": ["physical chemistry"],
+			"typeOf": ["turn", "change state"],
+			"verbGroup": ["ionise"],
+			"derivation": ["ion", "ionization"]
+		},
+		{
+			"definition": "become converted into ions",
+			"partOfSpeech": "verb",
+			"synonyms": ["ionise"],
+			"inCategory": ["physical chemistry"],
+			"typeOf": ["change"],
+			"verbGroup": ["ionise"],
+			"derivation": ["ionization"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["i", "on", "ize"]
+	},
+	"pronunciation": {
+		"all": "'a\u026a\u0259,na\u026az"
+	},
+	"frequency": 1.6
+}

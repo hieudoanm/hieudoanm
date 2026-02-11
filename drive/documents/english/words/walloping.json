@@ -1,0 +1,34 @@
+{
+	"word": "walloping",
+	"results": [
+		{
+			"definition": "(used informally) very large",
+			"partOfSpeech": "adjective",
+			"synonyms": ["banging", "humongous", "thumping", "whopping"],
+			"usageOf": ["colloquialism"],
+			"similarTo": ["big", "large"]
+		},
+		{
+			"definition": "a sound defeat",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"debacle",
+				"drubbing",
+				"slaughter",
+				"thrashing",
+				"trouncing",
+				"whipping"
+			],
+			"typeOf": ["defeat", "licking"],
+			"derivation": ["wallop"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["wal", "lop", "ing"]
+	},
+	"pronunciation": {
+		"all": "'w\u0251l\u0259p\u026a\u014b"
+	},
+	"frequency": 1.73
+}

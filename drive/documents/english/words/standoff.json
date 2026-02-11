@@ -1,0 +1,24 @@
+{
+	"word": "standoff",
+	"results": [
+		{
+			"definition": "the act of repulsing or repelling an attack; a successful defensive stand",
+			"partOfSpeech": "noun",
+			"synonyms": ["repulsion"],
+			"typeOf": ["stand"]
+		},
+		{
+			"definition": "the finish of a contest in which the score is tied and the winner is undecided",
+			"partOfSpeech": "noun",
+			"synonyms": ["draw", "tie"],
+			"typeOf": ["finish"],
+			"hasTypes": ["dead heat", "stalemate"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["stand", "off"]
+	},
+	"pronunciation": "'st\u00e6n,d\u0254f",
+	"frequency": 2.68
+}

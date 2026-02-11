@@ -1,0 +1,24 @@
+{
+	"word": "gaggle",
+	"results": [
+		{
+			"definition": "a flock of geese",
+			"partOfSpeech": "noun",
+			"typeOf": ["flock"],
+			"hasMembers": ["goose"]
+		},
+		{
+			"definition": "make a noise characteristic of a goose",
+			"partOfSpeech": "verb",
+			"typeOf": ["cackle"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gag", "gle"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6\u0261\u0259l"
+	},
+	"frequency": 2.3
+}

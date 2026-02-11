@@ -1,0 +1,44 @@
+{
+	"word": "predisposition",
+	"results": [
+		{
+			"definition": "susceptibility to a pathogen",
+			"partOfSpeech": "noun",
+			"synonyms": ["sensitivity"],
+			"attribute": [
+				"desensitizing",
+				"desensitising",
+				"sensitizing",
+				"sensitising"
+			],
+			"typeOf": ["susceptibility", "susceptibleness"],
+			"hasTypes": [
+				"sensitisation",
+				"habitus",
+				"hypersensitivity",
+				"diathesis",
+				"sensitization"
+			]
+		},
+		{
+			"definition": "a disposition in advance to react in a particular way",
+			"partOfSpeech": "noun",
+			"typeOf": ["disposition"]
+		},
+		{
+			"definition": "an inclination beforehand to interpret statements in a particular way",
+			"partOfSpeech": "noun",
+			"typeOf": ["inclination", "disposition", "tendency"],
+			"hasTypes": ["orientation", "predilection", "preference"],
+			"derivation": ["predispose"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["pre", "dis", "po", "si", "tion"]
+	},
+	"pronunciation": {
+		"all": "pri,d\u026asp\u0259'z\u026a\u0283\u0259n"
+	},
+	"frequency": 2.24
+}

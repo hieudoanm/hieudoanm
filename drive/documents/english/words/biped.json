@@ -1,0 +1,33 @@
+{
+	"word": "biped",
+	"results": [
+		{
+			"definition": "having two feet",
+			"partOfSpeech": "adjective",
+			"synonyms": ["bipedal", "two-footed"],
+			"antonyms": ["quadruped"]
+		},
+		{
+			"definition": "an animal with two feet",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"beast",
+				"fauna",
+				"animate being",
+				"animal",
+				"brute",
+				"creature"
+			],
+			"hasParts": ["animal leg"],
+			"derivation": ["bipedal"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bi", "ped"]
+	},
+	"pronunciation": {
+		"all": "'ba\u026ap\u025bd"
+	},
+	"frequency": 2.45
+}

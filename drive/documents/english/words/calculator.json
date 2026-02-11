@@ -1,0 +1,49 @@
+{
+	"word": "calculator",
+	"results": [
+		{
+			"definition": "a small machine that is used for mathematical calculations; can be mechanical or electronic",
+			"partOfSpeech": "noun",
+			"synonyms": ["calculating machine"],
+			"typeOf": ["machine"],
+			"hasTypes": [
+				"pocket calculator",
+				"quipu",
+				"subtracter",
+				"tabulator",
+				"totaliser",
+				"abacus",
+				"totalizer",
+				"adder",
+				"adding machine",
+				"counter",
+				"hand calculator",
+				"napier's bones",
+				"napier's rods"
+			],
+			"derivation": ["calculate"]
+		},
+		{
+			"definition": "an expert at calculation (or at operating calculating machines)",
+			"partOfSpeech": "noun",
+			"synonyms": ["computer", "estimator", "figurer", "reckoner"],
+			"typeOf": ["expert"],
+			"hasTypes": [
+				"statistician",
+				"subtracter",
+				"actuary",
+				"adder",
+				"number cruncher"
+			],
+			"derivation": ["calculate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["cal", "cu", "la", "tor"]
+	},
+	"pronunciation": {
+		"all": "'k\u00e6lkj\u0259,le\u026at\u0259r"
+	},
+	"frequency": 3.1
+}

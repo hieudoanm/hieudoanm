@@ -1,0 +1,25 @@
+{
+	"word": "photoelectric cell",
+	"results": [
+		{
+			"definition": "a transducer used to detect and measure light and other radiations",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"electric eye",
+				"magic eye",
+				"photocell",
+				"photoconductive cell"
+			],
+			"typeOf": ["detector", "sensing element", "sensor", "transducer"],
+			"hasTypes": ["selenium cell"],
+			"hasParts": ["photocathode"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["pho", "to", "e", "lec", "tric cell"]
+	},
+	"pronunciation": {
+		"all": ",fo\u028ato\u028a\u026a'l\u025bktr\u026ak_s\u025bl"
+	}
+}

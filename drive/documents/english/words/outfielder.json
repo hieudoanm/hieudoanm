@@ -1,0 +1,37 @@
+{
+	"word": "outfielder",
+	"results": [
+		{
+			"definition": "a fielder in cricket who is stationed in the outfield",
+			"partOfSpeech": "noun",
+			"typeOf": ["fieldsman", "fielder"]
+		},
+		{
+			"definition": "(baseball) a person who plays in the outfield",
+			"partOfSpeech": "noun",
+			"inCategory": [
+				"baseball game",
+				"softball game",
+				"baseball",
+				"softball",
+				"ball"
+			],
+			"typeOf": ["fielder"],
+			"hasTypes": [
+				"center fielder",
+				"left fielder",
+				"right fielder",
+				"centerfielder"
+			],
+			"derivation": ["outfield"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["out", "field", "er"]
+	},
+	"pronunciation": {
+		"all": "'a\u028at,fild\u0259r"
+	},
+	"frequency": 2.12
+}

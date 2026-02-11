@@ -1,0 +1,42 @@
+{
+	"word": "cytoplasm",
+	"results": [
+		{
+			"definition": "the protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism",
+			"partOfSpeech": "noun",
+			"synonyms": ["cytol"],
+			"typeOf": ["living substance", "protoplasm"],
+			"hasTypes": [
+				"plasmodium",
+				"sarcoplasm",
+				"centrosome",
+				"ectoplasm",
+				"endoplasm",
+				"cytoplast",
+				"syncytium",
+				"central body",
+				"hyaloplasm",
+				"ground substance",
+				"cytosol"
+			],
+			"hasParts": [
+				"golgi body",
+				"cytoskeleton",
+				"dictyosome",
+				"golgi apparatus",
+				"golgi complex",
+				"microsome"
+			],
+			"partOf": ["cell"],
+			"derivation": ["cytoplasmatic", "cytoplasmic", "cytoplastic"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cy", "to", "plasm"]
+	},
+	"pronunciation": {
+		"all": "'sa\u026at\u0259,pl\u00e6z\u0259m"
+	},
+	"frequency": 1.82
+}

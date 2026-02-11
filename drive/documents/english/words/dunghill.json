@@ -1,0 +1,31 @@
+{
+	"word": "dunghill",
+	"results": [
+		{
+			"definition": "a heap of dung or refuse",
+			"partOfSpeech": "noun",
+			"synonyms": ["midden", "muckheap", "muckhill"],
+			"typeOf": [
+				"cumulation",
+				"cumulus",
+				"agglomerate",
+				"mound",
+				"pile",
+				"heap"
+			]
+		},
+		{
+			"definition": "a foul or degraded condition",
+			"partOfSpeech": "noun",
+			"typeOf": ["unsanitariness"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["dung", "hill"]
+	},
+	"pronunciation": {
+		"all": "'d\u0259\u014b,h\u026al"
+	},
+	"frequency": 2.03
+}

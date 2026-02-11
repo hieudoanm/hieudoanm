@@ -1,0 +1,30 @@
+{
+	"word": "anatomize",
+	"results": [
+		{
+			"definition": "dissect in order to analyze",
+			"partOfSpeech": "verb",
+			"synonyms": ["anatomise"],
+			"typeOf": ["dissect"],
+			"derivation": ["anatomy"],
+			"examples": [
+				"anatomize the bodies of the victims of this strange disease"
+			]
+		},
+		{
+			"definition": "analyze down to the smallest detail",
+			"partOfSpeech": "verb",
+			"typeOf": ["analyse", "analyze", "canvass", "examine", "study"],
+			"derivation": ["anatomy"],
+			"examples": ["This writer anatomized the depth of human behavior"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["a", "nat", "o", "mize"]
+	},
+	"pronunciation": {
+		"all": "\u0259'n\u00e6t\u0259,ma\u026az"
+	},
+	"frequency": 1.73
+}

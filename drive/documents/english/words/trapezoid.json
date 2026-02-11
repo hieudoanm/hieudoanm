@@ -1,0 +1,35 @@
+{
+	"word": "trapezoid",
+	"results": [
+		{
+			"definition": "the wrist bone between the trapezium and the capitate bones",
+			"partOfSpeech": "noun",
+			"synonyms": ["os trapezoideum", "trapezoid bone"],
+			"typeOf": ["carpal", "carpal bone", "wrist bone"]
+		},
+		{
+			"definition": "a quadrilateral with two parallel sides",
+			"partOfSpeech": "noun",
+			"inRegion": [
+				"america",
+				"u.s.",
+				"u.s.a.",
+				"united states",
+				"united states of america",
+				"us",
+				"usa",
+				"the states"
+			],
+			"typeOf": ["quadrangle", "quadrilateral", "tetragon"],
+			"derivation": ["trapezoidal"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["trap", "e", "zoid"]
+	},
+	"pronunciation": {
+		"all": "'tr\u00e6p\u026a,z\u0254\u026ad"
+	},
+	"frequency": 2.03
+}

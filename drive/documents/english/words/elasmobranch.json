@@ -1,0 +1,25 @@
+{
+	"word": "elasmobranch",
+	"results": [
+		{
+			"definition": "any of numerous fishes of the class Chondrichthyes characterized by a cartilaginous skeleton and placoid scales: sharks; rays; skates",
+			"partOfSpeech": "noun",
+			"synonyms": ["selachian"],
+			"typeOf": ["chondrichthian", "cartilaginous fish"],
+			"hasTypes": ["shark", "ray"],
+			"memberOf": [
+				"subclass selachii",
+				"elasmobranchii",
+				"selachii",
+				"subclass elasmobranchii"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["e", "las", "mo", "branch"]
+	},
+	"pronunciation": {
+		"all": "\u026a'l\u00e6sm\u0259,br\u00e6\u014bk"
+	}
+}

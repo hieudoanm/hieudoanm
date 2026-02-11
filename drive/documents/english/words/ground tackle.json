@@ -1,0 +1,24 @@
+{
+	"word": "ground tackle",
+	"results": [
+		{
+			"definition": "a mechanical device that prevents a vessel from moving",
+			"partOfSpeech": "noun",
+			"synonyms": ["anchor"],
+			"typeOf": ["claw", "hook"],
+			"hasTypes": [
+				"grapnel anchor",
+				"mushroom anchor",
+				"grapnel",
+				"mooring anchor",
+				"sheet anchor",
+				"waist anchor"
+			],
+			"hasParts": ["shank", "stem", "fluke", "flue"],
+			"partOf": ["watercraft", "vessel"]
+		}
+	],
+	"pronunciation": {
+		"all": "gra\u028and_'t\u00e6k\u0259l"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"word": "come forth",
+	"results": [
+		{
+			"definition": "come out of",
+			"partOfSpeech": "verb",
+			"synonyms": ["come out", "egress", "emerge", "go forth", "issue"],
+			"hasTypes": [
+				"come out",
+				"leak",
+				"debouch",
+				"pop out",
+				"radiate",
+				"escape",
+				"fall",
+				"fall out"
+			]
+		},
+		{
+			"definition": "happen or occur as a result of something",
+			"partOfSpeech": "verb",
+			"synonyms": ["emerge"],
+			"typeOf": [
+				"uprise",
+				"develop",
+				"grow",
+				"originate",
+				"arise",
+				"rise",
+				"spring up"
+			],
+			"hasTypes": ["break"]
+		}
+	],
+	"pronunciation": {
+		"all": "k\u0259m_fo\u028ar\u03b8"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"word": "citron",
+	"results": [
+		{
+			"definition": "thorny evergreen small tree or shrub of India widely cultivated for its large lemonlike fruits that have thick warty rind",
+			"partOfSpeech": "noun",
+			"synonyms": ["citron tree", "citrus medica"],
+			"typeOf": ["citrus tree", "citrus"],
+			"hasSubstances": ["citronwood"]
+		},
+		{
+			"definition": "large lemonlike fruit with thick aromatic rind; usually preserved",
+			"partOfSpeech": "noun",
+			"typeOf": ["citrus fruit", "citrous fruit", "citrus"],
+			"partOf": ["citron tree", "citrus medica"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cit", "ron"]
+	},
+	"pronunciation": {
+		"all": "'s\u026atr\u0259n"
+	},
+	"frequency": 2.36
+}

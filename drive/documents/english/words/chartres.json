@@ -1,0 +1,20 @@
+{
+	"word": "chartres",
+	"results": [
+		{
+			"definition": "a town in northern France that is noted for its Gothic Cathedral",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town"],
+			"hasParts": ["chartres cathedral"],
+			"partOf": ["france", "french republic"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["char", "tres"]
+	},
+	"pronunciation": {
+		"all": "'\u0283\u0251rtr\u0259"
+	},
+	"frequency": 1.9
+}

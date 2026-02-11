@@ -1,0 +1,28 @@
+{
+	"word": "terrorize",
+	"results": [
+		{
+			"definition": "coerce by violence or with threats",
+			"partOfSpeech": "verb",
+			"synonyms": ["terrorise"],
+			"typeOf": ["squeeze", "coerce", "force", "hale", "pressure"],
+			"derivation": ["terror", "terrorization"]
+		},
+		{
+			"definition": "fill with terror; frighten greatly",
+			"partOfSpeech": "verb",
+			"synonyms": ["terrify", "terrorise"],
+			"typeOf": ["scare", "affright", "fright", "frighten"],
+			"hasTypes": ["panic"],
+			"derivation": ["terror", "terrorization"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ter", "ror", "ize"]
+	},
+	"pronunciation": {
+		"all": "'t\u025br\u0259,ra\u026az"
+	},
+	"frequency": 2.81
+}

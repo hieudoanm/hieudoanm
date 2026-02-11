@@ -1,0 +1,32 @@
+{
+	"word": "annapurna",
+	"results": [
+		{
+			"definition": "a mountain in the Himalayas in Nepal (26,500 feet high)",
+			"partOfSpeech": "noun",
+			"synonyms": ["anapurna"],
+			"instanceOf": ["mountain peak"],
+			"partOf": [
+				"nepal",
+				"himalaya mountains",
+				"himalayas",
+				"himalaya",
+				"kingdom of nepal"
+			]
+		},
+		{
+			"definition": "wife of Siva and a benevolent aspect of Devi: Hindu goddess of plenty",
+			"partOfSpeech": "noun",
+			"synonyms": ["anapurna", "parvati"],
+			"instanceOf": ["hindu deity"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["an", "na", "pur", "na"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6n\u0259'p\u028arn\u0259"
+	},
+	"frequency": 1.6
+}

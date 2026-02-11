@@ -1,0 +1,44 @@
+{
+	"word": "countercheck",
+	"results": [
+		{
+			"definition": "something that checks the correctness of a previous check",
+			"partOfSpeech": "noun",
+			"synonyms": ["double check"],
+			"typeOf": ["assay", "check"]
+		},
+		{
+			"definition": "oppose or check by a counteraction",
+			"partOfSpeech": "verb",
+			"synonyms": ["counteract"],
+			"typeOf": [
+				"moderate",
+				"check",
+				"hold in",
+				"curb",
+				"hold",
+				"contain",
+				"control"
+			]
+		},
+		{
+			"definition": "a check that restrains another check",
+			"partOfSpeech": "noun",
+			"typeOf": ["arrest", "check", "halt", "hitch", "stay", "stop", "stoppage"]
+		},
+		{
+			"definition": "check a second time",
+			"partOfSpeech": "verb",
+			"typeOf": ["check"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["coun", "ter", "check"]
+	},
+	"pronunciation": {
+		"all": "'k\u00e6\u028ant\u0259,\u02a7\u025bk",
+		"noun": "'ka\u028ant\u0259r,\u02a7\u025bk",
+		"verb": ",ka\u028ant\u0259r'\u02a7\u025bk"
+	}
+}

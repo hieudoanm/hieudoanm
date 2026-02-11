@@ -1,0 +1,66 @@
+{
+	"word": "counterfeit",
+	"results": [
+		{
+			"definition": "make a copy of with the intent to deceive",
+			"partOfSpeech": "verb",
+			"synonyms": ["fake", "forge"],
+			"typeOf": ["re-create"],
+			"derivation": ["counterfeiter"],
+			"examples": ["they counterfeited dollar bills"]
+		},
+		{
+			"definition": "not genuine; imitating something superior",
+			"partOfSpeech": "adjective",
+			"synonyms": ["imitative"],
+			"also": ["unreal", "artificial", "false", "insincere"],
+			"similarTo": [
+				"bogus",
+				"fake",
+				"unauthentic",
+				"false",
+				"fictitious",
+				"fictive",
+				"forged",
+				"inauthentic",
+				"assumed",
+				"mock",
+				"ostensible",
+				"ostensive",
+				"phoney",
+				"phony",
+				"pinchbeck",
+				"pretended",
+				"pseudo",
+				"put on",
+				"sham",
+				"spurious",
+				"synthetic",
+				"bad",
+				"base",
+				"bastard"
+			],
+			"antonyms": ["genuine"],
+			"examples": [
+				"counterfeit emotion",
+				"counterfeit money",
+				"counterfeit works of art",
+				"a counterfeit prince"
+			]
+		},
+		{
+			"definition": "a copy that is represented as the original",
+			"partOfSpeech": "noun",
+			"synonyms": ["forgery"],
+			"typeOf": ["imitation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["coun", "ter", "feit"]
+	},
+	"pronunciation": {
+		"all": "'ka\u028ant\u0259rf\u026at"
+	},
+	"frequency": 3.44
+}

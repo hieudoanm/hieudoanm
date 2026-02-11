@@ -1,0 +1,27 @@
+{
+	"word": "metacarpal",
+	"results": [
+		{
+			"definition": "any bone of the hand between the wrist and fingers",
+			"partOfSpeech": "noun",
+			"synonyms": ["metacarpal bone"],
+			"typeOf": ["bone", "os"],
+			"partOf": ["metacarpus"]
+		},
+		{
+			"definition": "of or relating to the metacarpus",
+			"partOfSpeech": null,
+			"pertainsTo": ["metacarpus"],
+			"derivation": ["metacarpus"],
+			"examples": ["metacarpal bones"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["met", "a", "car", "pal"]
+	},
+	"pronunciation": {
+		"all": ",m\u025bt\u0259'k\u0251rp\u0259l"
+	},
+	"frequency": 1.82
+}

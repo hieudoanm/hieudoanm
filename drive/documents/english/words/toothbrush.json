@@ -1,0 +1,34 @@
+{
+	"word": "toothbrush",
+	"results": [
+		{
+			"definition": "slang for a mustache",
+			"partOfSpeech": "noun",
+			"synonyms": ["soup-strainer"],
+			"usageOf": [
+				"argot",
+				"cant",
+				"jargon",
+				"lingo",
+				"patois",
+				"slang",
+				"vernacular"
+			],
+			"typeOf": ["mustache", "moustache"]
+		},
+		{
+			"definition": "small brush; has long handle; used to clean teeth",
+			"partOfSpeech": "noun",
+			"typeOf": ["brush", "toilet articles", "toiletry"],
+			"hasTypes": ["electric toothbrush"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["tooth", "brush"]
+	},
+	"pronunciation": {
+		"all": "'tu\u03b8,br\u0259\u0283"
+	},
+	"frequency": 3.57
+}

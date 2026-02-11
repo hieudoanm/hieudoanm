@@ -1,0 +1,27 @@
+{
+	"word": "decipher",
+	"results": [
+		{
+			"definition": "convert code into ordinary language",
+			"partOfSpeech": "verb",
+			"synonyms": ["decode", "decrypt"],
+			"typeOf": ["rewrite"],
+			"derivation": ["decipherer", "decipherment"]
+		},
+		{
+			"definition": "read with difficulty",
+			"partOfSpeech": "verb",
+			"synonyms": ["trace"],
+			"typeOf": ["read"],
+			"examples": ["Can you decipher this letter?"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["de", "ci", "pher"]
+	},
+	"pronunciation": {
+		"all": "d\u026a'sa\u026af\u0259r"
+	},
+	"frequency": 3.18
+}

@@ -1,0 +1,41 @@
+{
+	"word": "rosy",
+	"results": [
+		{
+			"definition": "having the pinkish flush of health",
+			"partOfSpeech": "adjective",
+			"synonyms": ["flushed", "rose-cheeked", "rosy-cheeked"],
+			"similarTo": ["healthy"],
+			"derivation": ["rosiness"]
+		},
+		{
+			"definition": "reflecting optimism",
+			"partOfSpeech": "adjective",
+			"synonyms": ["rose-colored"],
+			"similarTo": ["optimistic"],
+			"examples": ["a rosy future"]
+		},
+		{
+			"definition": "presaging good fortune",
+			"partOfSpeech": "adjective",
+			"synonyms": ["fortunate"],
+			"similarTo": ["auspicious"],
+			"examples": ["rosy predictions"]
+		},
+		{
+			"definition": "of blush color",
+			"partOfSpeech": "adjective",
+			"synonyms": ["blushful"],
+			"similarTo": ["chromatic"],
+			"derivation": ["rose", "rosiness"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ro", "sy"]
+	},
+	"pronunciation": {
+		"all": "'ro\u028azi"
+	},
+	"frequency": 3.38
+}

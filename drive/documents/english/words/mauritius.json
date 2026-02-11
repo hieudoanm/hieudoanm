@@ -1,0 +1,30 @@
+{
+	"word": "mauritius",
+	"results": [
+		{
+			"definition": "a parliamentary state on the island of Mauritius",
+			"partOfSpeech": "noun",
+			"synonyms": ["republic of mauritius"],
+			"instanceOf": ["state", "land", "country"],
+			"hasMembers": ["mauritian"],
+			"hasParts": ["port louis"],
+			"derivation": ["mauritian"]
+		},
+		{
+			"definition": "an island in the southwestern Indian Ocean",
+			"partOfSpeech": "noun",
+			"instanceOf": ["island"],
+			"hasParts": ["republic of mauritius"],
+			"partOf": ["indian ocean"],
+			"derivation": ["mauritian"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mau", "ri", "tius"]
+	},
+	"pronunciation": {
+		"all": "m\u0254'r\u026a\u0283\u0259s"
+	},
+	"frequency": 2.87
+}

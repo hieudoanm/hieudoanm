@@ -1,0 +1,26 @@
+{
+	"word": "ara",
+	"results": [
+		{
+			"definition": "macaws",
+			"partOfSpeech": "noun",
+			"synonyms": ["genus ara"],
+			"typeOf": ["bird genus"],
+			"hasMembers": ["macaw"],
+			"memberOf": ["family psittacidae", "psittacidae"]
+		},
+		{
+			"definition": "a constellation in the southern hemisphere near Telescopium and Norma",
+			"partOfSpeech": "noun",
+			"instanceOf": ["constellation"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["a", "ra"]
+	},
+	"pronunciation": {
+		"all": "'e\u026ar\u0259"
+	},
+	"frequency": 2.56
+}

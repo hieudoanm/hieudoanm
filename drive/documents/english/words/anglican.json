@@ -1,0 +1,30 @@
+{
+	"word": "anglican",
+	"results": [
+		{
+			"definition": "a Protestant who is a follower of Anglicanism",
+			"partOfSpeech": "noun",
+			"typeOf": ["protestant"],
+			"memberOf": [
+				"anglican communion",
+				"church of england",
+				"anglican church"
+			],
+			"antonyms": ["nonconformist"]
+		},
+		{
+			"definition": "of or pertaining to or characteristic of the Anglican church",
+			"partOfSpeech": "adjective",
+			"inCategory": ["faith", "religion", "religious belief"],
+			"pertainsTo": ["anglican church"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["an", "gli", "can"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6\u014bgl\u0259k\u0259n"
+	},
+	"frequency": 2.3
+}

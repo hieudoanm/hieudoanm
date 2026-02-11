@@ -1,0 +1,28 @@
+{
+	"word": "cell organ",
+	"results": [
+		{
+			"definition": "a specialized part of a cell; analogous to an organ",
+			"partOfSpeech": "noun",
+			"synonyms": ["cell organelle", "organelle"],
+			"typeOf": ["organ"],
+			"hasTypes": [
+				"cell nucleus",
+				"centriole",
+				"chondriosome",
+				"cilium",
+				"karyon",
+				"lysosome",
+				"mitochondrion",
+				"nucleole",
+				"nucleolus",
+				"nucleus",
+				"ribosome"
+			],
+			"partOf": ["cell"]
+		}
+	],
+	"pronunciation": {
+		"all": "s\u025bl_'\u0254rg\u0259n"
+	}
+}

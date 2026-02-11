@@ -1,0 +1,27 @@
+{
+	"frequency": 1.74,
+	"word": "distinctiveness",
+	"results": [
+		{
+			"definition": "utter dissimilarity",
+			"partOfSpeech": "noun",
+			"synonyms": ["disparateness"],
+			"typeOf": ["unsimilarity", "dissimilarity"]
+		},
+		{
+			"definition": "a distinguishing trait",
+			"partOfSpeech": "noun",
+			"synonyms": ["peculiarity", "speciality", "specialness", "specialty"],
+			"typeOf": ["individualism", "individuality", "individuation"],
+			"hasTypes": ["mannerism", "foible", "idiosyncrasy"],
+			"derivation": ["distinctive"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["dis", "tinc", "tive", "ness"]
+	},
+	"pronunciation": {
+		"all": "d\u026a'st\u026a\u014bkt\u026avn\u025bs"
+	}
+}

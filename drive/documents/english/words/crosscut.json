@@ -1,0 +1,30 @@
+{
+	"word": "crosscut",
+	"results": [
+		{
+			"definition": "a route shorter than the usual one",
+			"partOfSpeech": "noun",
+			"synonyms": ["cutoff", "shortcut"],
+			"typeOf": ["road", "route"]
+		},
+		{
+			"definition": "cut using a diagonal line",
+			"partOfSpeech": "verb",
+			"synonyms": ["cut across"],
+			"typeOf": ["cut"]
+		},
+		{
+			"definition": "a diagonal path",
+			"partOfSpeech": "noun",
+			"typeOf": ["itinerary", "path", "route"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cross", "cut"]
+	},
+	"pronunciation": {
+		"all": "'kr\u0254s,k\u0259t"
+	},
+	"frequency": 1.6
+}

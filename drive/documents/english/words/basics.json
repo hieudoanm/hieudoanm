@@ -1,0 +1,33 @@
+{
+	"word": "basics",
+	"results": [
+		{
+			"definition": "principles from which other truths can be derived",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"basic principle",
+				"bedrock",
+				"fundamental principle",
+				"fundamentals"
+			],
+			"typeOf": ["principle"],
+			"hasTypes": [
+				"abcs",
+				"alphabet",
+				"first principles",
+				"abc",
+				"rudiments",
+				"abc's"
+			],
+			"examples": ["let's get down to basics"]
+		},
+		{
+			"definition": "a statement of fundamental facts or principles",
+			"partOfSpeech": "noun",
+			"synonyms": ["rudiments"],
+			"typeOf": ["fact"]
+		}
+	],
+	"pronunciation": "'be\u026as\u026aks",
+	"frequency": 3.47
+}

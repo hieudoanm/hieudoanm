@@ -1,0 +1,34 @@
+{
+	"word": "defeated",
+	"results": [
+		{
+			"definition": "people who are defeated",
+			"partOfSpeech": "noun",
+			"synonyms": ["discomfited"],
+			"typeOf": ["people"],
+			"examples": ["the Romans had no pity for the defeated"]
+		},
+		{
+			"definition": "disappointingly unsuccessful",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"disappointed",
+				"discomfited",
+				"foiled",
+				"frustrated",
+				"thwarted"
+			],
+			"similarTo": ["unsuccessful"]
+		},
+		{
+			"definition": "beaten or overcome; not victorious",
+			"partOfSpeech": "adjective",
+			"also": ["unsuccessful"],
+			"similarTo": ["licked", "subjugated"],
+			"antonyms": ["undefeated"],
+			"examples": ["the defeated enemy"]
+		}
+	],
+	"pronunciation": "d\u026a'fit\u028cd",
+	"frequency": 4
+}

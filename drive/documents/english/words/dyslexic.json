@@ -1,0 +1,33 @@
+{
+	"word": "dyslexic",
+	"results": [
+		{
+			"definition": "having impaired ability to comprehend written words usually associated with a neurologic disorder",
+			"partOfSpeech": "adjective",
+			"synonyms": ["dyslectic"],
+			"similarTo": ["impaired"],
+			"derivation": ["dyslexia"]
+		},
+		{
+			"definition": "a person who has dyslexia",
+			"partOfSpeech": "noun",
+			"synonyms": ["dyslectic"],
+			"typeOf": [
+				"individual",
+				"mortal",
+				"person",
+				"somebody",
+				"someone",
+				"soul"
+			]
+		},
+		{
+			"definition": "of or relating to or symptomatic of dyslexia",
+			"partOfSpeech": null,
+			"pertainsTo": ["dyslexia"],
+			"derivation": ["dyslexia"]
+		}
+	],
+	"pronunciation": "d\u026as'l\u025bks\u026ak",
+	"frequency": 2.68
+}

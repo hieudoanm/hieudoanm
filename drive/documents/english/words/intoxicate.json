@@ -1,0 +1,46 @@
+{
+	"word": "intoxicate",
+	"results": [
+		{
+			"definition": "make drunk (with alcoholic drinks)",
+			"partOfSpeech": "verb",
+			"synonyms": ["inebriate", "soak"],
+			"typeOf": ["affect"],
+			"hasTypes": ["fuddle", "befuddle"],
+			"derivation": ["intoxicant", "intoxication"]
+		},
+		{
+			"definition": "fill with high spirits; fill with optimism",
+			"partOfSpeech": "verb",
+			"synonyms": ["elate", "lift up", "pick up", "uplift"],
+			"cause": ["rejoice", "joy"],
+			"typeOf": ["stimulate", "stir", "shake", "shake up", "excite"],
+			"hasTypes": [
+				"tickle pink",
+				"beatify",
+				"exalt",
+				"exhilarate",
+				"inebriate",
+				"puff",
+				"thrill"
+			],
+			"derivation": ["intoxication"]
+		},
+		{
+			"definition": "have an intoxicating effect on, of a drug",
+			"partOfSpeech": "verb",
+			"typeOf": ["poison"],
+			"derivation": ["intoxicant", "intoxication"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "tox", "i", "cate"]
+	},
+	"pronunciation": {
+		"all": "\u026an't\u0251ks\u026a,ke\u026at",
+		"adjective": "\u026an't\u0251ks\u0259k\u026at",
+		"verb": "\u026an't\u0251ks\u0259,ke\u026at"
+	},
+	"frequency": 2.2
+}

@@ -1,0 +1,29 @@
+{
+	"word": "sedation",
+	"results": [
+		{
+			"definition": "the administration of a sedative agent or drug",
+			"partOfSpeech": "noun",
+			"synonyms": ["drugging"],
+			"typeOf": ["administration", "giving medication"],
+			"derivation": ["sedate"]
+		},
+		{
+			"definition": "a state of reduced excitement or anxiety that is induced by the administrative of a sedative agent",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"physical condition",
+				"physiological condition",
+				"physiological state"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["se", "da", "tion"]
+	},
+	"pronunciation": {
+		"all": "s\u026a'de\u026a\u0283\u0259n"
+	},
+	"frequency": 2.66
+}

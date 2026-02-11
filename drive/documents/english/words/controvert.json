@@ -1,0 +1,32 @@
+{
+	"word": "controvert",
+	"results": [
+		{
+			"definition": "be resistant to",
+			"partOfSpeech": "verb",
+			"synonyms": ["contradict", "oppose"],
+			"typeOf": ["rebut", "refute"],
+			"hasTypes": [
+				"negative",
+				"protest",
+				"veto",
+				"dissent",
+				"resist",
+				"blackball"
+			]
+		},
+		{
+			"definition": "prove to be false or incorrect",
+			"partOfSpeech": "verb",
+			"synonyms": ["rebut", "refute"],
+			"typeOf": ["disprove", "confute"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["con", "tro", "vert"]
+	},
+	"pronunciation": {
+		"all": "'k\u0251ntr\u0259,v\u025crt"
+	}
+}

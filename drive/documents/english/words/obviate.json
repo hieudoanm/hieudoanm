@@ -1,0 +1,39 @@
+{
+	"word": "obviate",
+	"results": [
+		{
+			"definition": "prevent the occurrence of; prevent from happening",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"avert",
+				"avoid",
+				"debar",
+				"deflect",
+				"fend off",
+				"forefend",
+				"forfend",
+				"head off",
+				"stave off",
+				"ward off"
+			],
+			"typeOf": ["forestall", "preclude", "prevent", "forbid", "foreclose"],
+			"derivation": ["obviation"]
+		},
+		{
+			"definition": "do away with",
+			"partOfSpeech": "verb",
+			"synonyms": ["eliminate", "rid of"],
+			"hasTypes": ["close out", "preclude", "rule out"],
+			"antonyms": ["necessitate"],
+			"derivation": ["obviation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ob", "vi", "ate"]
+	},
+	"pronunciation": {
+		"all": "'\u0251bvi,e\u026at"
+	},
+	"frequency": 2.03
+}

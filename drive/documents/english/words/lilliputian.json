@@ -1,0 +1,63 @@
+{
+	"word": "lilliputian",
+	"results": [
+		{
+			"definition": "(informal) small and of little importance",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"fiddling",
+				"footling",
+				"little",
+				"niggling",
+				"petty",
+				"picayune",
+				"piddling",
+				"piffling",
+				"trivial"
+			],
+			"usageOf": ["colloquialism"],
+			"similarTo": ["unimportant"],
+			"examples": [
+				"our worries are lilliputian compared with those of countries that are at war"
+			]
+		},
+		{
+			"definition": "very small",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"bantam",
+				"diminutive",
+				"flyspeck",
+				"midget",
+				"petite",
+				"tiny"
+			],
+			"similarTo": ["little", "small"],
+			"examples": ["a lilliputian chest of drawers"]
+		},
+		{
+			"definition": "a 6-inch tall inhabitant of Lilliput in a novel by Jonathan Swift",
+			"partOfSpeech": "noun",
+			"instanceOf": ["fictitious character", "character", "fictional character"]
+		},
+		{
+			"definition": "a very small person (resembling a Lilliputian)",
+			"partOfSpeech": "noun",
+			"typeOf": ["small person"]
+		},
+		{
+			"definition": "tiny; relating to or characteristic of the imaginary country of Lilliput",
+			"partOfSpeech": null,
+			"pertainsTo": ["lilliput"],
+			"derivation": ["lilliput"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["lil", "li", "pu", "ti", "an"]
+	},
+	"pronunciation": {
+		"all": ",l\u026al\u026a'pju\u0283\u0259n"
+	},
+	"frequency": 1.9
+}

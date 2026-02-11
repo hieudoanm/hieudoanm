@@ -1,0 +1,37 @@
+{
+	"word": "placard",
+	"results": [
+		{
+			"definition": "publicize or announce by placards",
+			"partOfSpeech": "verb",
+			"synonyms": ["bill"],
+			"typeOf": ["post"]
+		},
+		{
+			"definition": "a sign posted in a public place as an advertisement",
+			"partOfSpeech": "noun",
+			"synonyms": ["bill", "card", "notice", "poster", "posting"],
+			"typeOf": ["sign"],
+			"hasTypes": [
+				"flashcard",
+				"show bill",
+				"show card",
+				"theatrical poster",
+				"flash card"
+			]
+		},
+		{
+			"definition": "post in a public place",
+			"partOfSpeech": "verb",
+			"typeOf": ["post"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["plac", "ard"]
+	},
+	"pronunciation": {
+		"all": "'pl\u00e6k\u0251rd"
+	},
+	"frequency": 2.03
+}

@@ -1,0 +1,34 @@
+{
+	"word": "picturing",
+	"results": [
+		{
+			"definition": "visual imagery",
+			"partOfSpeech": "noun",
+			"synonyms": ["envisioning"],
+			"typeOf": ["imagination", "imaging", "imagery", "mental imagery"],
+			"derivation": ["picture"]
+		},
+		{
+			"definition": "visual representation as by photography or painting",
+			"partOfSpeech": "noun",
+			"synonyms": ["pictorial representation"],
+			"typeOf": ["representation"],
+			"hasTypes": [
+				"portrayal",
+				"delineation",
+				"tomography",
+				"depiction",
+				"imaging",
+				"photography",
+				"picture taking"
+			],
+			"derivation": ["picture"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["pic", "tur", "ing"]
+	},
+	"pronunciation": "'p\u026akt\u0283\u025dr\u026a\u014b",
+	"frequency": 2.77
+}

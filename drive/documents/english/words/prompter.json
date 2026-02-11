@@ -1,0 +1,28 @@
+{
+	"word": "prompter",
+	"results": [
+		{
+			"definition": "someone who assists a performer by providing the next words of a forgotten speech",
+			"partOfSpeech": "noun",
+			"synonyms": ["theater prompter"],
+			"typeOf": ["assistant", "help", "helper", "supporter"],
+			"derivation": ["prompt"]
+		},
+		{
+			"definition": "a device that displays words for people to read",
+			"partOfSpeech": "noun",
+			"synonyms": ["autocue"],
+			"typeOf": ["device"],
+			"hasTypes": ["teleprompter"],
+			"derivation": ["prompt"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["prompt", "er"]
+	},
+	"pronunciation": {
+		"all": "'pr\u0251mpt\u0259r"
+	},
+	"frequency": 2.38
+}

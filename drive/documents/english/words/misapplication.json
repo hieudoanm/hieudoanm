@@ -1,0 +1,27 @@
+{
+	"frequency": 1.74,
+	"word": "misapplication",
+	"results": [
+		{
+			"definition": "the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"defalcation",
+				"embezzlement",
+				"misappropriation",
+				"peculation"
+			],
+			"typeOf": ["stealing", "theft", "larceny", "thieving", "thievery"],
+			"hasTypes": ["raid", "plunderage"]
+		},
+		{
+			"definition": "wrong use or application",
+			"partOfSpeech": "noun",
+			"typeOf": ["application", "practical application"],
+			"derivation": ["misapply"]
+		}
+	],
+	"pronunciation": {
+		"all": "m\u026as,\u00e6pl\u026a'ke\u026a\u0283\u0259n"
+	}
+}

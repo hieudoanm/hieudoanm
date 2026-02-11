@@ -1,0 +1,37 @@
+{
+	"word": "pharmacology",
+	"results": [
+		{
+			"definition": "the science or study of drugs: their preparation and properties and uses and effects",
+			"partOfSpeech": "noun",
+			"synonyms": ["materia medica", "pharmacological medicine"],
+			"hasCategories": [
+				"decoction",
+				"formulary",
+				"tincture",
+				"adjuvant",
+				"percutaneous",
+				"transcutaneous",
+				"transdermal",
+				"transdermic",
+				"pharmacopeia"
+			],
+			"typeOf": ["medical specialty", "medicine"],
+			"hasTypes": [
+				"pharmacokinetics",
+				"toxicology",
+				"posology",
+				"psychopharmacology"
+			],
+			"derivation": ["pharmacologic", "pharmacological", "pharmacologist"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["phar", "ma", "col", "o", "gy"]
+	},
+	"pronunciation": {
+		"all": ",f\u0251rm\u0259'k\u0251l\u0259d\u0292i"
+	},
+	"frequency": 2.36
+}

@@ -1,0 +1,29 @@
+{
+	"word": "moisten",
+	"results": [
+		{
+			"definition": "make moist",
+			"partOfSpeech": "verb",
+			"synonyms": ["dampen", "wash"],
+			"typeOf": ["wet"],
+			"hasTypes": ["humidify", "moisturise", "moisturize", "baste"],
+			"derivation": ["moistener", "moistening", "moisture"],
+			"examples": ["The dew moistened the meadows"]
+		},
+		{
+			"definition": "moisten with fine drops",
+			"partOfSpeech": "verb",
+			"synonyms": ["drizzle"],
+			"typeOf": ["splosh", "sprinkle", "splash"],
+			"derivation": ["moistening"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["mois", "ten"]
+	},
+	"pronunciation": {
+		"all": "'m\u0254\u026as\u0259n"
+	},
+	"frequency": 2.33
+}

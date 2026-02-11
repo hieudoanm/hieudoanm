@@ -1,0 +1,33 @@
+{
+	"word": "inhalator",
+	"results": [
+		{
+			"definition": "a breathing device for administering long-term artificial respiration",
+			"partOfSpeech": "noun",
+			"synonyms": ["respirator"],
+			"typeOf": [
+				"ventilator",
+				"breathing device",
+				"breathing machine",
+				"breathing apparatus"
+			],
+			"hasTypes": ["iron lung"],
+			"hasParts": ["mouthpiece"],
+			"derivation": ["inhale"]
+		},
+		{
+			"definition": "a dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion",
+			"partOfSpeech": "noun",
+			"synonyms": ["inhaler"],
+			"typeOf": ["dispenser"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "ha", "la", "tor"]
+	},
+	"pronunciation": {
+		"all": "'\u026anh\u0259,le\u026at\u0259r"
+	},
+	"frequency": 1.82
+}

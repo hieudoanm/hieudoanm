@@ -1,0 +1,24 @@
+{
+	"word": "angelus",
+	"results": [
+		{
+			"definition": "the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited",
+			"partOfSpeech": "noun",
+			"synonyms": ["angelus bell"],
+			"typeOf": ["bell", "toll"]
+		},
+		{
+			"definition": "a prayer said 3 times a day by Roman Catholics in memory of the Annunciation",
+			"partOfSpeech": "noun",
+			"instanceOf": ["prayer"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["an", "ge", "lus"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6nd\u0292\u026al\u0259s"
+	},
+	"frequency": 2.38
+}

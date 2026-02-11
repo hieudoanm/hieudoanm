@@ -1,0 +1,32 @@
+{
+	"word": "belittling",
+	"results": [
+		{
+			"definition": "a belittling comment",
+			"partOfSpeech": "noun",
+			"synonyms": ["denigration"],
+			"typeOf": ["depreciation", "derogation", "disparagement"]
+		},
+		{
+			"definition": "tending to diminish or disparage",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"deprecating",
+				"deprecative",
+				"deprecatory",
+				"depreciative",
+				"depreciatory",
+				"slighting"
+			],
+			"similarTo": ["uncomplimentary"],
+			"examples": ["belittling comments"]
+		},
+		{
+			"definition": "the act of belittling",
+			"partOfSpeech": "noun",
+			"typeOf": ["disparagement", "dispraise"]
+		}
+	],
+	"pronunciation": "b\u026a'l\u026at\u028cl\u026a\u014b",
+	"frequency": 2.36
+}

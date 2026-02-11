@@ -1,0 +1,28 @@
+{
+	"word": "metrical",
+	"results": [
+		{
+			"definition": "the rhythmic arrangement of syllables",
+			"partOfSpeech": "adjective",
+			"synonyms": ["measured", "metric"],
+			"inCategory": ["metrics", "prosody"],
+			"similarTo": ["rhythmic", "rhythmical"],
+			"derivation": ["meter", "metre"]
+		},
+		{
+			"definition": "based on the meter as a standard of measurement",
+			"partOfSpeech": "adjective",
+			"synonyms": ["metric"],
+			"pertainsTo": ["meter"],
+			"derivation": ["meter", "metre"],
+			"examples": ["metrical equivalents"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["met", "ri", "cal"]
+	},
+	"pronunciation": {
+		"all": "'m\u025btrik\u0259l"
+	}
+}

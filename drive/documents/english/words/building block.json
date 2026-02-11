@@ -1,0 +1,40 @@
+{
+	"word": "building block",
+	"results": [
+		{
+			"definition": "a single undivided natural thing occurring in the composition of something else",
+			"partOfSpeech": "noun",
+			"synonyms": ["unit"],
+			"typeOf": ["thing"],
+			"hasTypes": [
+				"radical",
+				"unit cell",
+				"molecule",
+				"chain",
+				"chemical chain",
+				"chemical group",
+				"couple",
+				"group"
+			],
+			"hasParts": ["piece", "part"]
+		},
+		{
+			"definition": "a block of material used in construction work",
+			"partOfSpeech": "noun",
+			"typeOf": ["building material"],
+			"hasTypes": [
+				"breeze block",
+				"voussoir",
+				"cinder block",
+				"clinker block",
+				"headstone",
+				"key",
+				"keystone",
+				"ashlar"
+			]
+		}
+	],
+	"pronunciation": {
+		"all": "'b\u026ald\u026a\u014b_bl\u0251k"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"word": "self-destruction",
+	"results": [
+		{
+			"definition": "the act of killing yourself",
+			"partOfSpeech": "noun",
+			"synonyms": ["self-annihilation", "suicide"],
+			"typeOf": ["kill", "killing", "putting to death"],
+			"hasTypes": [
+				"seppuku",
+				"assisted suicide",
+				"suttee",
+				"felo-de-se",
+				"hara-kiri",
+				"harakiri",
+				"harikari"
+			],
+			"derivation": ["self-destroy", "self-destruct"]
+		},
+		{
+			"definition": "the act of destroying yourself",
+			"partOfSpeech": "noun",
+			"typeOf": ["destruction", "devastation"],
+			"derivation": ["self-destroy", "self-destruct"],
+			"examples": ["his insistence was pure self-destruction"]
+		}
+	],
+	"pronunciation": {
+		"all": "s\u025blf_d\u026a'str\u0259k\u0283\u0259n"
+	}
+}

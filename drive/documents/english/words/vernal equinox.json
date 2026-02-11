@@ -1,0 +1,27 @@
+{
+	"word": "vernal equinox",
+	"results": [
+		{
+			"definition": "March 21",
+			"partOfSpeech": "noun",
+			"synonyms": ["march equinox", "spring equinox"],
+			"typeOf": ["equinox"],
+			"hasTypes": ["nowruz", "noruz", "nowrooz"],
+			"partOf": ["march", "spring", "springtime", "mar"],
+			"antonyms": ["autumnal equinox"]
+		},
+		{
+			"definition": "(astronomy) the equinoctial point that lies in the constellation of Pisces",
+			"partOfSpeech": "noun",
+			"inCategory": ["astronomy", "uranology"],
+			"typeOf": ["equinoctial point", "equinox"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ver", "nal e", "qui", "nox"]
+	},
+	"pronunciation": {
+		"all": "'v\u025crn\u0259l_'ikw\u0259,n\u0251ks"
+	}
+}

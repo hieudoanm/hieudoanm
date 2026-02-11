@@ -1,0 +1,31 @@
+{
+	"word": "imbecility",
+	"results": [
+		{
+			"definition": "a stupid mistake",
+			"partOfSpeech": "noun",
+			"synonyms": ["betise", "folly", "foolishness", "stupidity"],
+			"typeOf": ["fault", "error", "mistake"]
+		},
+		{
+			"definition": "retardation more severe than a moron but not as severe as an idiot",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"slowness",
+				"backwardness",
+				"subnormality",
+				"mental retardation",
+				"retardation"
+			],
+			"derivation": ["imbecile"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["im", "be", "cil", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": ",\u026amb\u026a's\u026al\u026ati"
+	},
+	"frequency": 1.9
+}

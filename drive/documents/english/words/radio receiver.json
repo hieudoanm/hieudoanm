@@ -1,0 +1,24 @@
+{
+	"word": "radio receiver",
+	"results": [
+		{
+			"definition": "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+			"partOfSpeech": "noun",
+			"synonyms": ["radio", "radio set", "receiving set", "tuner", "wireless"],
+			"typeOf": ["receiving system", "receiver"],
+			"hasTypes": [
+				"superhet",
+				"push-button radio",
+				"clock radio",
+				"crystal set",
+				"superheterodyne receiver",
+				"heterodyne receiver"
+			],
+			"hasParts": ["amplifier", "detector", "demodulator"],
+			"partOf": ["wireless", "radio", "radio-gramophone", "radio-phonograph"]
+		}
+	],
+	"pronunciation": {
+		"all": "'re\u026adi,o\u028a_r\u026a'siv\u0259r"
+	}
+}

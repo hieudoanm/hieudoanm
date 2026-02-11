@@ -1,0 +1,26 @@
+{
+	"word": "townsman",
+	"results": [
+		{
+			"definition": "a resident of a town or city",
+			"partOfSpeech": "noun",
+			"synonyms": ["towner"],
+			"typeOf": ["occupier", "resident", "occupant"],
+			"hasTypes": ["towny", "townee", "townie"]
+		},
+		{
+			"definition": "a person from the same town as yourself",
+			"partOfSpeech": "noun",
+			"typeOf": ["compeer", "equal", "match", "peer"],
+			"examples": ["a fellow townsman"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["towns", "man"]
+	},
+	"pronunciation": {
+		"all": "'ta\u028anzm\u0259n"
+	},
+	"frequency": 1.9
+}

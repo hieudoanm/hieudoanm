@@ -1,0 +1,28 @@
+{
+	"word": "acrobatics",
+	"results": [
+		{
+			"definition": "the gymnastic moves of an acrobat",
+			"partOfSpeech": "noun",
+			"synonyms": ["tumbling"],
+			"typeOf": ["gymnastics", "gymnastic exercise"],
+			"hasParts": ["acrobatic feat", "acrobatic stunt"],
+			"derivation": ["acrobatic"]
+		},
+		{
+			"definition": "the performance of stunts while in flight in an aircraft",
+			"partOfSpeech": "noun",
+			"synonyms": ["aerobatics", "stunt flying", "stunting"],
+			"typeOf": ["flying", "flight"],
+			"hasTypes": ["spin", "tailspin"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ac", "ro", "bat", "ics"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6kr\u0259'b\u00e6t\u026aks"
+	},
+	"frequency": 2.54
+}

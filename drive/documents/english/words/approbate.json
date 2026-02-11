@@ -1,0 +1,25 @@
+{
+	"word": "approbate",
+	"results": [
+		{
+			"definition": "accept (documents) as valid",
+			"partOfSpeech": "verb",
+			"typeOf": ["accept"],
+			"antonyms": ["reprobate"],
+			"derivation": ["approbation"]
+		},
+		{
+			"definition": "approve or sanction officially",
+			"partOfSpeech": "verb",
+			"typeOf": ["authorise", "authorize", "clear", "pass"],
+			"derivation": ["approval", "approbation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ap", "pro", "bate"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6pr\u0259,be\u026at"
+	}
+}

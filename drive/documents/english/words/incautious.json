@@ -1,0 +1,35 @@
+{
+	"word": "incautious",
+	"results": [
+		{
+			"definition": "carelessly failing to exercise proper caution",
+			"partOfSpeech": "adjective",
+			"similarTo": ["careless"],
+			"derivation": ["incautiousness"],
+			"examples": ["an incautious step sent her headlong down the stairs"]
+		},
+		{
+			"definition": "lacking in caution",
+			"partOfSpeech": "adjective",
+			"also": ["careless", "adventurous", "adventuresome"],
+			"similarTo": [
+				"impulsive",
+				"madcap",
+				"tearaway",
+				"brainish",
+				"hotheaded",
+				"impetuous"
+			],
+			"antonyms": ["cautious"],
+			"examples": ["an incautious remark", "incautious talk"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["in", "cau", "tious"]
+	},
+	"pronunciation": {
+		"all": "\u026an'k\u0254\u0283\u0259s"
+	},
+	"frequency": 1.73
+}

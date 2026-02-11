@@ -1,0 +1,44 @@
+{
+	"word": "enjoin",
+	"results": [
+		{
+			"definition": "give instructions to or direct somebody to do something with authority",
+			"partOfSpeech": "verb",
+			"synonyms": ["order", "say", "tell"],
+			"typeOf": ["request"],
+			"hasTypes": [
+				"command",
+				"direct",
+				"warn",
+				"instruct",
+				"prescribe",
+				"require",
+				"send for",
+				"call"
+			],
+			"derivation": ["injunction"]
+		},
+		{
+			"definition": "issue an injunction",
+			"partOfSpeech": "verb",
+			"typeOf": [
+				"prohibit",
+				"proscribe",
+				"forbid",
+				"disallow",
+				"interdict",
+				"nix",
+				"veto"
+			],
+			"derivation": ["enjoining", "enjoinment", "injunction"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["en", "join"]
+	},
+	"pronunciation": {
+		"all": "\u025bn'd\u0292\u0254\u026an"
+	},
+	"frequency": 2.12
+}

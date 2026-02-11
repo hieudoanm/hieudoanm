@@ -1,0 +1,27 @@
+{
+	"word": "parthenogenesis",
+	"results": [
+		{
+			"definition": "process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods",
+			"partOfSpeech": "noun",
+			"synonyms": ["parthenogeny"],
+			"typeOf": ["apomixis"],
+			"hasTypes": ["androgenesis", "androgeny", "gynogenesis"],
+			"derivation": ["parthenogenetic"]
+		},
+		{
+			"definition": "human conception without fertilization by a man",
+			"partOfSpeech": "noun",
+			"synonyms": ["parthenogeny", "virgin birth"],
+			"typeOf": ["agamogenesis", "asexual reproduction"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["par", "the", "no", "gen", "e", "sis"]
+	},
+	"pronunciation": {
+		"all": ",p\u0251r\u03b8\u026ano\u028a'd\u0292\u025bn\u026as\u026as"
+	},
+	"frequency": 2.24
+}

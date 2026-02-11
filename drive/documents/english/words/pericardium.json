@@ -1,0 +1,24 @@
+{
+	"word": "pericardium",
+	"results": [
+		{
+			"definition": "a serous membrane with two layers that surrounds the heart",
+			"partOfSpeech": "noun",
+			"typeOf": ["serosa", "serous membrane"],
+			"hasParts": [
+				"epicardium",
+				"parietal pericardium",
+				"visceral pericardium"
+			],
+			"derivation": ["pericardial"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["per", "i", "car", "di", "um"]
+	},
+	"pronunciation": {
+		"all": ",p\u025br\u0259'k\u0251rdi\u0259mc\u00e6"
+	},
+	"frequency": 1.9
+}

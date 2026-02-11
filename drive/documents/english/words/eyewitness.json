@@ -1,0 +1,25 @@
+{
+	"word": "eyewitness",
+	"results": [
+		{
+			"definition": "a spectator who can describe what happened",
+			"partOfSpeech": "noun",
+			"typeOf": ["looker", "spectator", "viewer", "watcher", "witness"]
+		},
+		{
+			"definition": "be present at an event and see it with one's own eyes",
+			"partOfSpeech": "verb",
+			"typeOf": ["witness"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["eye", "wit", "ness"]
+	},
+	"pronunciation": {
+		"all": "'a\u026a,w\u026atn\u025bs",
+		"noun": "'a\u026a,w\u026atn\u026as",
+		"verb": ",a\u026a'w\u026atn\u026as"
+	},
+	"frequency": 3.36
+}

@@ -1,0 +1,25 @@
+{
+	"word": "unclassified",
+	"results": [
+		{
+			"definition": "not arranged in any specific grouping",
+			"partOfSpeech": "adjective",
+			"similarTo": ["uncategorised", "uncategorized", "unsorted"],
+			"antonyms": ["classified"]
+		},
+		{
+			"definition": "not subject to a security classification",
+			"partOfSpeech": "adjective",
+			"similarTo": ["declassified", "nonsensitive", "unrestricted"],
+			"antonyms": ["classified"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "clas", "si", "fied"]
+	},
+	"pronunciation": {
+		"all": "\u0259n'kl\u00e6s\u0259,fa\u026ad"
+	},
+	"frequency": 1.9
+}

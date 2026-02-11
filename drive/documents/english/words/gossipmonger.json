@@ -1,0 +1,36 @@
+{
+	"frequency": 2.02,
+	"word": "gossipmonger",
+	"results": [
+		{
+			"definition": "a person given to gossiping and divulging personal information about others",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"gossip",
+				"gossiper",
+				"newsmonger",
+				"rumormonger",
+				"rumourmonger"
+			],
+			"typeOf": ["communicator"],
+			"hasTypes": [
+				"cat",
+				"scandalmonger",
+				"talebearer",
+				"taleteller",
+				"tattler",
+				"tattletale",
+				"telltale",
+				"blabbermouth",
+				"yenta"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["gos", "sip", "mon", "ger"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u0251s\u0259p,m\u0259\u014b\u0261\u0259r"
+	}
+}

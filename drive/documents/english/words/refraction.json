@@ -1,0 +1,26 @@
+{
+	"word": "refraction",
+	"results": [
+		{
+			"definition": "the amount by which a propagating wave is bent",
+			"partOfSpeech": "noun",
+			"synonyms": ["deflection", "deflexion"],
+			"typeOf": ["bend", "bending"]
+		},
+		{
+			"definition": "the change in direction of a propagating wave (light or sound) when passing from one medium to another",
+			"partOfSpeech": "noun",
+			"typeOf": ["physical phenomenon"],
+			"hasTypes": ["birefringence", "double refraction"],
+			"derivation": ["refract"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "frac", "tion"]
+	},
+	"pronunciation": {
+		"all": "r\u026a'fr\u00e6k\u0283\u0259n"
+	},
+	"frequency": 2.03
+}

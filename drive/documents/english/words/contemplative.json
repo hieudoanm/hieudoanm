@@ -1,0 +1,41 @@
+{
+	"word": "contemplative",
+	"results": [
+		{
+			"definition": "deeply or seriously thoughtful",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"brooding",
+				"broody",
+				"meditative",
+				"musing",
+				"pensive",
+				"pondering",
+				"reflective",
+				"ruminative"
+			],
+			"similarTo": ["thoughtful"],
+			"derivation": ["contemplate", "contemplativeness"]
+		},
+		{
+			"definition": "a person devoted to the contemplative life",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"individual",
+				"mortal",
+				"person",
+				"somebody",
+				"someone",
+				"soul"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["con", "tem", "pla", "tive"]
+	},
+	"pronunciation": {
+		"all": "k\u0259n't\u025bmpl\u0259t\u026av"
+	},
+	"frequency": 2.3
+}

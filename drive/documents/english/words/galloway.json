@@ -1,0 +1,30 @@
+{
+	"word": "galloway",
+	"results": [
+		{
+			"definition": "a district in southwestern Scotland",
+			"partOfSpeech": "noun",
+			"instanceOf": [
+				"dominion",
+				"district",
+				"territorial dominion",
+				"territory"
+			],
+			"partOf": ["scotland"],
+			"derivation": ["galwegian"]
+		},
+		{
+			"definition": "breed of hardy black chiefly beef cattle native to Scotland",
+			"partOfSpeech": "noun",
+			"typeOf": ["beef cattle", "beef"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["gal", "lo", "way"]
+	},
+	"pronunciation": {
+		"all": "'\u0261\u00e6l\u0259,we\u026a"
+	},
+	"frequency": 1.9
+}

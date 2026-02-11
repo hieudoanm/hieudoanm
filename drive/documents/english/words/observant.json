@@ -1,0 +1,34 @@
+{
+	"word": "observant",
+	"results": [
+		{
+			"definition": "quick to notice; showing quick and keen perception",
+			"partOfSpeech": "adjective",
+			"synonyms": ["observing"],
+			"similarTo": ["perceptive"],
+			"derivation": ["observe"]
+		},
+		{
+			"definition": "(of individuals) adhering strictly to laws and rules and customs",
+			"partOfSpeech": "adjective",
+			"synonyms": ["law-abiding"],
+			"similarTo": ["lawful"],
+			"derivation": ["observance", "observe"],
+			"examples": ["observant of the speed limit"]
+		},
+		{
+			"definition": "paying close attention especially to details",
+			"partOfSpeech": "adjective",
+			"similarTo": ["attentive"],
+			"derivation": ["observance", "observe"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ob", "ser", "vant"]
+	},
+	"pronunciation": {
+		"all": "\u0259b'z\u025crv\u0259nt"
+	},
+	"frequency": 3.05
+}

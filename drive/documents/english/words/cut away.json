@@ -1,0 +1,21 @@
+{
+	"word": "cut away",
+	"results": [
+		{
+			"definition": "move quickly to another scene or focus when filming",
+			"partOfSpeech": "verb",
+			"typeOf": ["cut"],
+			"examples": ["`cut away now!' the director shouted"]
+		},
+		{
+			"definition": "remove by cutting off or away",
+			"partOfSpeech": "verb",
+			"typeOf": ["cut"],
+			"hasTypes": ["undercut"],
+			"examples": ["cut away the branch that sticks out"]
+		}
+	],
+	"pronunciation": {
+		"all": "k\u0259t_\u0259'we\u026a"
+	}
+}

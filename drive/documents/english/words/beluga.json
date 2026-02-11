@@ -1,0 +1,28 @@
+{
+	"word": "beluga",
+	"results": [
+		{
+			"definition": "valuable source of caviar and isinglass; found in Black and Caspian seas",
+			"partOfSpeech": "noun",
+			"synonyms": ["acipenser huso", "hausen", "white sturgeon"],
+			"typeOf": ["sturgeon"],
+			"memberOf": ["acipenser", "genus acipenser"],
+			"hasParts": ["beluga caviar"]
+		},
+		{
+			"definition": "small northern whale that is white when adult",
+			"partOfSpeech": "noun",
+			"synonyms": ["delphinapterus leucas", "white whale"],
+			"typeOf": ["dolphin"],
+			"memberOf": ["delphinapterus", "genus delphinapterus"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["be", "lu", "ga"]
+	},
+	"pronunciation": {
+		"all": "b\u0259'lu\u0261\u0259"
+	},
+	"frequency": 2.67
+}

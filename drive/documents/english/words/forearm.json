@@ -1,0 +1,39 @@
+{
+	"word": "forearm",
+	"results": [
+		{
+			"definition": "arm in advance of a confrontation",
+			"partOfSpeech": "verb",
+			"typeOf": ["gird", "arm", "build up", "fortify"]
+		},
+		{
+			"definition": "the part of the superior limb between the elbow and the wrist",
+			"partOfSpeech": "noun",
+			"typeOf": ["limb"],
+			"hasParts": [
+				"radial vein",
+				"radius",
+				"accessory cephalic vein",
+				"ulnar vein",
+				"vena basilica",
+				"vena cephalica accessoria",
+				"vena radialis",
+				"vena ulnaris",
+				"ulna",
+				"anconeous muscle",
+				"basilic vein",
+				"elbow bone",
+				"musculus anconeus"
+			],
+			"partOf": ["arm"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["fore", "arm"]
+	},
+	"pronunciation": {
+		"all": "'fo\u028ar,\u0251rm"
+	},
+	"frequency": 2.92
+}

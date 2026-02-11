@@ -1,0 +1,33 @@
+{
+	"word": "uncovering",
+	"results": [
+		{
+			"definition": "the act of discovering something",
+			"partOfSpeech": "noun",
+			"synonyms": ["discovery", "find"],
+			"typeOf": ["deed", "human action", "human activity", "act"],
+			"hasTypes": [
+				"determination",
+				"espial",
+				"finding",
+				"tracing",
+				"breakthrough",
+				"catching",
+				"detection",
+				"rediscovery",
+				"self-discovery",
+				"spotting",
+				"spying"
+			]
+		},
+		{
+			"definition": "the removal of covering",
+			"partOfSpeech": "noun",
+			"synonyms": ["baring", "denudation", "husking", "stripping"],
+			"typeOf": ["removal", "remotion"],
+			"hasTypes": ["disforestation", "deforestation", "cornhusking"]
+		}
+	],
+	"pronunciation": "\u028cn'k\u028cv\u025dr\u026a\u014b",
+	"frequency": 2.63
+}

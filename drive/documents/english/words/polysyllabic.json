@@ -1,0 +1,26 @@
+{
+	"frequency": 2.4,
+	"word": "polysyllabic",
+	"results": [
+		{
+			"definition": "(of words) long and ponderous; having many syllables",
+			"partOfSpeech": "adjective",
+			"synonyms": ["sesquipedalian"],
+			"similarTo": ["long"],
+			"derivation": ["polysyllable"]
+		},
+		{
+			"definition": "having or characterized by words of more than three syllables",
+			"partOfSpeech": "adjective",
+			"similarTo": ["syllabic"],
+			"derivation": ["polysyllable"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["pol", "y", "syl", "lab", "ic"]
+	},
+	"pronunciation": {
+		"all": ",p\u0251lis\u026a'l\u00e6b\u026ak"
+	}
+}

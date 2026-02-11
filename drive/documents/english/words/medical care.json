@@ -1,0 +1,43 @@
+{
+	"word": "medical care",
+	"results": [
+		{
+			"definition": "professional treatment for illness or injury",
+			"partOfSpeech": "noun",
+			"synonyms": ["medical aid"],
+			"typeOf": ["intervention", "treatment"],
+			"hasTypes": [
+				"anticoagulation",
+				"bandaging",
+				"binding",
+				"bloodletting",
+				"defibrillation",
+				"detoxification",
+				"digitalisation",
+				"digitalization",
+				"disinfection",
+				"dressing",
+				"holistic medicine",
+				"homeopathy",
+				"aftercare",
+				"hospice",
+				"hospital care",
+				"hospitalisation",
+				"hospitalization",
+				"injection",
+				"intensive care",
+				"irrigation",
+				"nursing care",
+				"primary care",
+				"shot",
+				"therapy",
+				"homoeopathy",
+				"allopathy"
+			],
+			"hasParts": ["medical diagnosis"]
+		}
+	],
+	"pronunciation": {
+		"all": "'m\u025bd\u026ak\u0259l_k\u025cr"
+	}
+}

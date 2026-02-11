@@ -1,0 +1,31 @@
+{
+	"word": "stenosis",
+	"results": [
+		{
+			"definition": "abnormal narrowing of a bodily canal or passageway",
+			"partOfSpeech": "noun",
+			"synonyms": ["stricture"],
+			"typeOf": ["pathology"],
+			"hasTypes": [
+				"enterostenosis",
+				"laryngostenosis",
+				"mitral stenosis",
+				"mitral valve stenosis",
+				"pulmonary stenosis",
+				"pyloric stenosis",
+				"rhinostenosis",
+				"aortic stenosis",
+				"ureterostenosis"
+			],
+			"derivation": ["stenotic"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ste", "no", "sis"]
+	},
+	"pronunciation": {
+		"all": "st\u026a'no\u028as\u026as"
+	},
+	"frequency": 1.9
+}

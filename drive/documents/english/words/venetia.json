@@ -1,0 +1,27 @@
+{
+	"word": "venetia",
+	"results": [
+		{
+			"definition": "a region of northeastern Italy on the Adriatic",
+			"partOfSpeech": "noun",
+			"synonyms": ["veneto", "venezia-euganea"],
+			"instanceOf": ["italian region"],
+			"hasParts": [
+				"verona",
+				"patavium",
+				"venezia",
+				"venice",
+				"padova",
+				"padua"
+			],
+			"partOf": ["italian republic", "italy", "italia"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ve", "ne", "ti", "a"]
+	},
+	"pronunciation": {
+		"all": "v\u0259'ni\u0283i\u0259"
+	}
+}

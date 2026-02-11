@@ -1,0 +1,26 @@
+{
+	"word": "neolithic",
+	"results": [
+		{
+			"definition": "latest part of the Stone Age beginning about 10,000 BC in the Middle East (but later elsewhere)",
+			"partOfSpeech": "noun",
+			"synonyms": ["neolithic age", "new stone age"],
+			"instanceOf": ["period", "period of time", "time period"],
+			"partOf": ["stone age"]
+		},
+		{
+			"definition": "of or relating to the most recent period of the Stone Age (following the mesolithic)",
+			"partOfSpeech": null,
+			"pertainsTo": ["neolithic age"],
+			"examples": ["evidence of neolithic settlements"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ne", "o", "lith", "ic"]
+	},
+	"pronunciation": {
+		"all": ",ni\u0259'l\u026a\u03b8\u026ak"
+	},
+	"frequency": 2.4
+}

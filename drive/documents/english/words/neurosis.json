@@ -1,0 +1,27 @@
+{
+	"word": "neurosis",
+	"results": [
+		{
+			"definition": "a mental or personality disturbance not attributable to any known neurological or organic dysfunction",
+			"partOfSpeech": "noun",
+			"synonyms": ["neuroticism", "psychoneurosis"],
+			"typeOf": [
+				"mental disorder",
+				"mental disturbance",
+				"psychological disorder",
+				"disturbance",
+				"folie"
+			],
+			"hasTypes": ["hysterical neurosis", "hysteria", "anxiety neurosis"],
+			"derivation": ["neurotic"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["neu", "ro", "sis"]
+	},
+	"pronunciation": {
+		"all": "n\u028a'ro\u028as\u026as"
+	},
+	"frequency": 2.78
+}

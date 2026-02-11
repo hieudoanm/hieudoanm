@@ -1,0 +1,19 @@
+{
+	"word": "lyra",
+	"results": [
+		{
+			"definition": "a small constellation in the northern hemisphere near Cygnus and Draco; contains the star Vega",
+			"partOfSpeech": "noun",
+			"instanceOf": ["constellation"],
+			"hasMembers": ["vega"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ly", "ra"]
+	},
+	"pronunciation": {
+		"all": "'la\u026ar\u0259"
+	},
+	"frequency": 3.22
+}

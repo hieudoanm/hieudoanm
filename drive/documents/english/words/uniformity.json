@@ -1,0 +1,34 @@
+{
+	"word": "uniformity",
+	"results": [
+		{
+			"definition": "the quality of lacking diversity or variation (even to the point of boredom)",
+			"partOfSpeech": "noun",
+			"synonyms": ["uniformness"],
+			"typeOf": ["similarity"],
+			"hasTypes": [
+				"homogeneity",
+				"consistence",
+				"homogeneousness",
+				"consistency"
+			],
+			"antonyms": ["nonuniformity"],
+			"derivation": ["uniform"]
+		},
+		{
+			"definition": "a condition in which everything is regular and unvarying",
+			"partOfSpeech": "noun",
+			"typeOf": ["regularity"],
+			"hasTypes": ["homogeneity"],
+			"derivation": ["uniform"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["u", "ni", "form", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": ",jun\u026a'fo\u028arm\u026ati"
+	},
+	"frequency": 1.97
+}

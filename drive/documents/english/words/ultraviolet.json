@@ -1,0 +1,31 @@
+{
+	"word": "ultraviolet",
+	"results": [
+		{
+			"definition": "radiation lying in the ultraviolet range; wave lengths shorter than light but longer than X rays",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"ultraviolet illumination",
+				"ultraviolet light",
+				"ultraviolet radiation",
+				"uv"
+			],
+			"typeOf": ["actinic radiation", "actinic ray"],
+			"hasTypes": ["sun-ray", "sunray"]
+		},
+		{
+			"definition": "having or employing wavelengths shorter than light but longer than X-rays; lying outside the visible spectrum at its violet end",
+			"partOfSpeech": "adjective",
+			"similarTo": ["invisible", "unseeable"],
+			"examples": ["ultraviolet radiation", "an ultraviolet lamp"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ul", "tra", "vi", "o", "let"]
+	},
+	"pronunciation": {
+		"all": ",\u0259ltr\u0259'va\u026a\u0259l\u026at"
+	},
+	"frequency": 2.83
+}

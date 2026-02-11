@@ -1,0 +1,43 @@
+{
+	"word": "indecisive",
+	"results": [
+		{
+			"definition": "characterized by lack of decision and firmness",
+			"partOfSpeech": "adjective",
+			"also": ["irresolute"],
+			"similarTo": [
+				"hesitating",
+				"undecided",
+				"on the fence",
+				"suspensive",
+				"hesitant"
+			],
+			"antonyms": ["decisive"],
+			"derivation": ["indecisiveness"],
+			"examples": [
+				"an indecisive manager brought the enterprise to a standstill"
+			]
+		},
+		{
+			"definition": "not clearly defined",
+			"partOfSpeech": "adjective",
+			"similarTo": ["indefinite"],
+			"examples": ["indecisive boundaries running through mountains"]
+		},
+		{
+			"definition": "not definitely settling something",
+			"partOfSpeech": "adjective",
+			"also": ["inconclusive", "irresolute"],
+			"antonyms": ["decisive"],
+			"examples": ["a long and indecisive war"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "de", "ci", "sive"]
+	},
+	"pronunciation": {
+		"all": ",\u026and\u026a'sa\u026as\u026av"
+	},
+	"frequency": 2.79
+}

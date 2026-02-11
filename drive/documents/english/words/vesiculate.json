@@ -1,0 +1,28 @@
+{
+	"word": "vesiculate",
+	"results": [
+		{
+			"definition": "become vesicular or full of air cells",
+			"partOfSpeech": "verb",
+			"typeOf": ["change"],
+			"derivation": ["vesiculation"],
+			"examples": ["The organs vesiculated"]
+		},
+		{
+			"definition": "cause to become vesicular or full of air cells",
+			"partOfSpeech": "verb",
+			"typeOf": ["alter", "change", "modify"],
+			"derivation": ["vesiculation"],
+			"examples": ["vesiculate an organ"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ve", "sic", "u", "late"]
+	},
+	"pronunciation": {
+		"all": "v\u026a's\u026akj\u028al\u0259t",
+		"adjective": "v\u0259's\u026akj\u0259l\u026at",
+		"verb": "v\u0259's\u026akj\u0259,le\u026at"
+	}
+}

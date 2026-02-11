@@ -1,0 +1,31 @@
+{
+	"word": "dissection",
+	"results": [
+		{
+			"definition": "a minute and critical analysis",
+			"partOfSpeech": "noun",
+			"typeOf": ["analysis", "analytic thinking"],
+			"derivation": ["dissect"]
+		},
+		{
+			"definition": "cutting so as to separate into pieces",
+			"partOfSpeech": "noun",
+			"typeOf": ["cut", "cutting"],
+			"derivation": ["dissect"]
+		},
+		{
+			"definition": "detailed critical analysis or examination one part at a time (as of a literary work)",
+			"partOfSpeech": "noun",
+			"typeOf": ["analysis"],
+			"derivation": ["dissect"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["dis", "sec", "tion"]
+	},
+	"pronunciation": {
+		"all": "d\u026a's\u025bk\u0283\u0259n"
+	},
+	"frequency": 2.79
+}

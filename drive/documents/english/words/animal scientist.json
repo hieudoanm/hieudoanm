@@ -1,0 +1,40 @@
+{
+	"word": "animal scientist",
+	"results": [
+		{
+			"definition": "a specialist in the branch of biology dealing with animals",
+			"partOfSpeech": "noun",
+			"synonyms": ["zoologist"],
+			"typeOf": ["life scientist", "biologist"],
+			"hasTypes": [
+				"bird watcher",
+				"malacologist",
+				"mammalogist",
+				"herpetologist",
+				"ornithologist",
+				"protozoologist",
+				"ichthyologist",
+				"bug-hunter",
+				"entomologist",
+				"bugologist",
+				"ethologist"
+			],
+			"hasInstances": [
+				"tinbergen",
+				"frisch",
+				"goodall",
+				"jane goodall",
+				"karl von frisch",
+				"kinsey",
+				"konrad lorenz",
+				"konrad zacharias lorenz",
+				"lorenz",
+				"nikolaas tinbergen",
+				"alfred charles kinsey"
+			]
+		}
+	],
+	"pronunciation": {
+		"all": "'\u00e6n\u0259m\u0259l_'sa\u026a\u0259nt\u026ast"
+	}
+}

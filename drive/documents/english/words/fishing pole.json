@@ -1,0 +1,23 @@
+{
+	"word": "fishing pole",
+	"results": [
+		{
+			"definition": "a rod of wood or steel or fiberglass that is used in fishing to extend the fishing line",
+			"partOfSpeech": "noun",
+			"synonyms": ["fishing rod"],
+			"typeOf": ["rod"],
+			"hasTypes": ["spinning rod", "fly rod"],
+			"memberOf": [
+				"rig",
+				"tackle",
+				"fishing rig",
+				"fishing tackle",
+				"fishing gear"
+			],
+			"hasParts": ["stock", "reel"]
+		}
+	],
+	"pronunciation": {
+		"all": "'f\u026a\u0283\u026a\u014b_po\u028al"
+	}
+}

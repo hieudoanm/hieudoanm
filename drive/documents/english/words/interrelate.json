@@ -1,0 +1,37 @@
+{
+	"word": "interrelate",
+	"results": [
+		{
+			"definition": "be in a relationship with",
+			"partOfSpeech": "verb",
+			"synonyms": ["relate"],
+			"typeOf": ["be"],
+			"hasTypes": ["tutor", "predicate", "tie in"],
+			"derivation": ["interrelation"]
+		},
+		{
+			"definition": "place into a mutual relationship",
+			"partOfSpeech": "verb",
+			"typeOf": [
+				"relate",
+				"link up",
+				"colligate",
+				"connect",
+				"link",
+				"associate",
+				"tie in"
+			],
+			"verbGroup": ["relate"],
+			"derivation": ["interrelation"],
+			"examples": ["I cannot interrelate these two events"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "ter", "re", "late"]
+	},
+	"pronunciation": {
+		"all": ",\u026ant\u0259rr\u026a'le\u026at"
+	},
+	"frequency": 1.73
+}

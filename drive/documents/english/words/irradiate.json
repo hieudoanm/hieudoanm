@@ -1,0 +1,36 @@
+{
+	"word": "irradiate",
+	"results": [
+		{
+			"definition": "give spiritual insight to; in religion",
+			"partOfSpeech": "verb",
+			"synonyms": ["enlighten"],
+			"typeOf": ["prophesy", "vaticinate"]
+		},
+		{
+			"definition": "expose to radiation",
+			"partOfSpeech": "verb",
+			"synonyms": ["ray"],
+			"typeOf": ["process", "treat"],
+			"hasTypes": ["bombard"],
+			"derivation": ["irradiation"],
+			"examples": ["irradiate food"]
+		},
+		{
+			"definition": "cast rays of light upon",
+			"partOfSpeech": "verb",
+			"typeOf": ["lighten up", "lighten"],
+			"derivation": ["irradiation"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ir", "ra", "di", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u026a're\u026ad\u026a,e\u026at",
+		"adjective": "\u026a're\u026adi\u026at",
+		"verb": "\u026a're\u026adi,e\u026at"
+	},
+	"frequency": 1.73
+}

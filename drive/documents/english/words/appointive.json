@@ -1,0 +1,33 @@
+{
+	"word": "appointive",
+	"results": [
+		{
+			"definition": "subject to appointment",
+			"partOfSpeech": "adjective",
+			"synonyms": ["appointed"],
+			"similarTo": [
+				"nominated",
+				"nominative",
+				"non-elective",
+				"nonelected",
+				"nonelective"
+			],
+			"antonyms": ["elective"],
+			"derivation": ["appoint"]
+		},
+		{
+			"definition": "relating to the act of appointing",
+			"partOfSpeech": null,
+			"pertainsTo": ["appointment"],
+			"derivation": ["appoint"],
+			"examples": ["appointive powers"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ap", "poin", "tive"]
+	},
+	"pronunciation": {
+		"all": "\u0259'p\u0254\u026ant\u026av"
+	}
+}

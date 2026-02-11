@@ -1,0 +1,27 @@
+{
+	"word": "meteorite",
+	"results": [
+		{
+			"definition": "stony or metallic object that is the remains of a meteoroid that has reached the earth's surface",
+			"partOfSpeech": "noun",
+			"typeOf": ["meteoroid", "meteor"],
+			"hasTypes": [
+				"micrometeorite",
+				"micrometeoroid",
+				"pallasite",
+				"aerolite",
+				"siderite",
+				"micrometeor"
+			],
+			"derivation": ["meteoritic", "meteoritical"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["me", "te", "or", "ite"]
+	},
+	"pronunciation": {
+		"all": "'miti\u0259,ra\u026at"
+	},
+	"frequency": 3.22
+}

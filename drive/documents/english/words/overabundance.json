@@ -1,0 +1,37 @@
+{
+	"word": "overabundance",
+	"results": [
+		{
+			"definition": "a quantity that is more than what is appropriate",
+			"partOfSpeech": "noun",
+			"synonyms": ["overmuch", "overmuchness", "superabundance"],
+			"typeOf": ["abundance", "copiousness", "teemingness"],
+			"hasTypes": [
+				"surplusage",
+				"excess",
+				"glut",
+				"nimiety",
+				"oversupply",
+				"surfeit",
+				"surplus",
+				"bellyful"
+			],
+			"derivation": ["overabundant"],
+			"examples": ["four-year-olds have an overabundance of energy"]
+		},
+		{
+			"definition": "the state of being more than full",
+			"partOfSpeech": "noun",
+			"synonyms": ["excess", "surfeit"],
+			"typeOf": ["fullness"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["o", "ver", "a", "bun", "dance"]
+	},
+	"pronunciation": {
+		"all": "'o\u028av\u0259r\u0259'b\u0259nd\u0259ns"
+	},
+	"frequency": 1.9
+}

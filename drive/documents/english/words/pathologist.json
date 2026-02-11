@@ -1,0 +1,30 @@
+{
+	"word": "pathologist",
+	"results": [
+		{
+			"definition": "a doctor who specializes in medical diagnosis",
+			"partOfSpeech": "noun",
+			"synonyms": ["diagnostician"],
+			"typeOf": ["medical specialist", "specialist"],
+			"hasTypes": ["etiologist", "aetiologist"],
+			"hasInstances": [
+				"karl landsteiner",
+				"landsteiner",
+				"paget",
+				"peyton rous",
+				"rous",
+				"rudolf karl virchow",
+				"rudolf virchow",
+				"sir howard walter florey",
+				"sir james paget",
+				"virchow",
+				"florey",
+				"francis peyton rous",
+				"howard florey"
+			],
+			"derivation": ["pathology"]
+		}
+	],
+	"pronunciation": "p\u028c'\u03b8\u0251l\u028cd\u0292\u028cst",
+	"frequency": 2.98
+}

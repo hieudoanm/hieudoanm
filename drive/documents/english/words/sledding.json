@@ -1,0 +1,25 @@
+{
+	"word": "sledding",
+	"results": [
+		{
+			"definition": "advancing toward a goal",
+			"partOfSpeech": "noun",
+			"synonyms": ["going"],
+			"typeOf": ["accomplishment", "achievement"],
+			"examples": ["the proposal faces tough sledding"]
+		},
+		{
+			"definition": "the sport of riding on a sled or sleigh",
+			"partOfSpeech": "noun",
+			"typeOf": ["athletics", "sport"],
+			"hasTypes": ["bobsledding", "tobogganing"],
+			"derivation": ["sled"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sled", "ding"]
+	},
+	"pronunciation": "'sl\u025bd\u026a\u014b",
+	"frequency": 2.68
+}

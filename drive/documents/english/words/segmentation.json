@@ -1,0 +1,35 @@
+{
+	"frequency": 1.74,
+	"word": "segmentation",
+	"results": [
+		{
+			"definition": "(embryology) the repeated division of a fertilised ovum",
+			"partOfSpeech": "noun",
+			"synonyms": ["cleavage"],
+			"inCategory": ["embryology"],
+			"typeOf": ["cellular division", "cell division"],
+			"partOf": ["pregnancy", "gestation", "maternity"]
+		},
+		{
+			"definition": "the act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"division",
+				"partition",
+				"partitioning",
+				"sectionalisation",
+				"sectionalization"
+			],
+			"typeOf": ["separation"],
+			"hasTypes": ["septation", "subdivision", "zoning"],
+			"derivation": ["segment"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["seg", "men", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",s\u025bgm\u0259n'te\u026a\u0283\u0259n"
+	}
+}

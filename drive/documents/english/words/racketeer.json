@@ -1,0 +1,27 @@
+{
+	"word": "racketeer",
+	"results": [
+		{
+			"definition": "carry on illegal business activities involving crime",
+			"partOfSpeech": "verb",
+			"typeOf": ["deal", "conduct", "carry on"],
+			"derivation": ["racketeering"]
+		},
+		{
+			"definition": "someone who commits crimes for profit (especially one who obtains money by fraud or extortion)",
+			"partOfSpeech": "noun",
+			"typeOf": ["felon", "malefactor", "outlaw", "criminal", "crook"],
+			"hasTypes": ["bagman"],
+			"memberOf": ["underworld"],
+			"derivation": ["racket"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["rack", "et", "eer"]
+	},
+	"pronunciation": {
+		"all": ",r\u00e6k\u026a'tir"
+	},
+	"frequency": 1.9
+}

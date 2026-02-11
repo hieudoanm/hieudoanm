@@ -1,0 +1,47 @@
+{
+	"word": "triangulate",
+	"results": [
+		{
+			"definition": "divide into triangles or give a triangular form to",
+			"partOfSpeech": "verb",
+			"typeOf": [
+				"separate",
+				"split",
+				"split up",
+				"dissever",
+				"divide",
+				"carve up"
+			],
+			"derivation": ["triangle"],
+			"examples": ["triangulate the piece of cardboard"]
+		},
+		{
+			"definition": "measure by using trigonometry",
+			"partOfSpeech": "verb",
+			"typeOf": ["mensurate", "measure", "measure out"],
+			"derivation": ["triangulation"],
+			"examples": ["triangulate the angle"]
+		},
+		{
+			"definition": "survey by triangulation",
+			"partOfSpeech": "verb",
+			"typeOf": ["survey"],
+			"derivation": ["triangle", "triangulation"]
+		},
+		{
+			"definition": "composed of or marked with triangles",
+			"partOfSpeech": null,
+			"pertainsTo": ["triangle"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["tri", "an", "gu", "late"]
+	},
+	"pronunciation": {
+		"all": "tra\u026a'\u00e6\u014b\u0261j\u0259,le\u026at",
+		"adjective": "tra\u026a'\u00e6\u014b\u0261j\u0259l\u026at",
+		"verb": "tra\u026a'\u00e6\u014b\u0261j\u0259,le\u026at"
+	},
+	"frequency": 2.59
+}

@@ -1,0 +1,31 @@
+{
+	"word": "interchangeable",
+	"results": [
+		{
+			"definition": "capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability",
+			"partOfSpeech": "adjective",
+			"synonyms": ["exchangeable", "similar", "standardised", "standardized"],
+			"similarTo": ["replaceable"],
+			"derivation": ["interchangeability", "interchangeableness"],
+			"examples": ["interchangeable electric outlets", "interchangeable parts"]
+		},
+		{
+			"definition": "(mathematics, logic) such that the arguments or roles can be interchanged",
+			"partOfSpeech": "adjective",
+			"inCategory": ["logic"],
+			"similarTo": ["symmetric", "symmetrical"],
+			"derivation": ["interchangeableness"],
+			"examples": [
+				"the arguments of the symmetric relation, `is a sister of,' are interchangeable"
+			]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "ter", "change", "a", "ble"]
+	},
+	"pronunciation": {
+		"all": ",\u026ant\u0259r'\u02a7e\u026and\u0292\u0259b\u0259l"
+	},
+	"frequency": 2.33
+}

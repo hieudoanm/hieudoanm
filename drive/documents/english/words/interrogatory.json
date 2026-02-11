@@ -1,0 +1,38 @@
+{
+	"word": "interrogatory",
+	"results": [
+		{
+			"definition": "relating to the use of or having the nature of an interrogation",
+			"partOfSpeech": "adjective",
+			"synonyms": ["interrogative"],
+			"antonyms": ["declaratory"],
+			"derivation": ["interrogate"]
+		},
+		{
+			"definition": "formal systematic questioning",
+			"partOfSpeech": "noun",
+			"synonyms": ["examination", "interrogation"],
+			"typeOf": ["questioning", "inquiring"],
+			"hasTypes": [
+				"debriefing",
+				"deposition",
+				"direct examination",
+				"inquisition",
+				"interview",
+				"redirect examination",
+				"reexamination",
+				"catechism",
+				"third degree",
+				"cross-examination"
+			]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["in", "ter", "rog", "a", "to", "ry"]
+	},
+	"pronunciation": {
+		"all": ",\u026ant\u0259'r\u0251\u0261\u0259,to\u028ari"
+	},
+	"frequency": 1.73
+}

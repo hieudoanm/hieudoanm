@@ -1,0 +1,16 @@
+{
+	"word": "equal-area map projection",
+	"results": [
+		{
+			"definition": "a map projection in which quadrilaterals formed by meridians and parallels have an area on the map proportional to their area on the globe",
+			"partOfSpeech": "noun",
+			"synonyms": ["equal-area projection"],
+			"typeOf": ["map projection"],
+			"hasTypes": [
+				"homolosine projection",
+				"sanson-flamsteed projection",
+				"sinusoidal projection"
+			]
+		}
+	]
+}

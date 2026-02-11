@@ -1,0 +1,27 @@
+{
+	"word": "victor",
+	"results": [
+		{
+			"definition": "a combatant who is able to defeat rivals",
+			"partOfSpeech": "noun",
+			"synonyms": ["master", "superior"],
+			"typeOf": ["battler", "belligerent", "combatant", "fighter", "scrapper"],
+			"hasTypes": ["vanquisher", "conqueror"]
+		},
+		{
+			"definition": "the contestant who wins the contest",
+			"partOfSpeech": "noun",
+			"synonyms": ["winner"],
+			"typeOf": ["contestant"],
+			"hasTypes": ["contestee", "upsetter", "walloper", "medalist", "medallist"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["vic", "tor"]
+	},
+	"pronunciation": {
+		"all": "'v\u026akt\u0259r"
+	},
+	"frequency": 4.44
+}

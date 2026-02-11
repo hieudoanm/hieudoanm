@@ -1,0 +1,26 @@
+{
+	"word": "surveyor",
+	"results": [
+		{
+			"definition": "an engineer who determines the boundaries and elevations of land or structures",
+			"partOfSpeech": "noun",
+			"typeOf": ["applied scientist", "technologist", "engineer"],
+			"hasTypes": ["locater", "lineman", "locator"],
+			"derivation": ["survey"]
+		},
+		{
+			"definition": "someone who conducts a statistical survey",
+			"partOfSpeech": "noun",
+			"typeOf": ["statistician", "actuary"],
+			"derivation": ["survey"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sur", "vey", "or"]
+	},
+	"pronunciation": {
+		"all": "s\u0259've\u026a\u0259r"
+	},
+	"frequency": 2.69
+}

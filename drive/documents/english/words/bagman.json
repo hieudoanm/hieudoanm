@@ -1,0 +1,37 @@
+{
+	"word": "bagman",
+	"results": [
+		{
+			"definition": "a salesman who travels to call on customers",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"commercial traveler",
+				"commercial traveller",
+				"roadman",
+				"traveling salesman",
+				"travelling salesman"
+			],
+			"typeOf": [
+				"representative",
+				"interpreter",
+				"spokesperson",
+				"salesman",
+				"voice"
+			],
+			"hasTypes": ["tallyman"]
+		},
+		{
+			"definition": "a racketeer assigned to collect or distribute payoff money",
+			"partOfSpeech": "noun",
+			"typeOf": ["racketeer"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bag", "man"]
+	},
+	"pronunciation": {
+		"all": "'b\u00e6gm\u0259n"
+	},
+	"frequency": 2.38
+}

@@ -1,0 +1,54 @@
+{
+	"word": "unconnected",
+	"results": [
+		{
+			"definition": "lacking orderly continuity",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"confused",
+				"disconnected",
+				"disjointed",
+				"disordered",
+				"garbled",
+				"illogical",
+				"scattered"
+			],
+			"similarTo": ["incoherent"]
+		},
+		{
+			"definition": "not connected by birth or family",
+			"partOfSpeech": "adjective",
+			"similarTo": ["unrelated"],
+			"derivation": ["unconnectedness"]
+		},
+		{
+			"definition": "not joined or linked together",
+			"partOfSpeech": "adjective",
+			"also": ["unrelated"],
+			"attribute": ["connexion", "connection", "connectedness"],
+			"similarTo": [
+				"disjoined",
+				"exploded",
+				"apart",
+				"isolated",
+				"obscure",
+				"separate",
+				"separated",
+				"unattached",
+				"uncoupled",
+				"asternal",
+				"detached"
+			],
+			"antonyms": ["connected"],
+			"derivation": ["unconnectedness"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["un", "con", "nect", "ed"]
+	},
+	"pronunciation": {
+		"all": ",\u0259nk\u0259'n\u025bkt\u026ad"
+	},
+	"frequency": 2.3
+}

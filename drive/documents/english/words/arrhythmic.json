@@ -1,0 +1,27 @@
+{
+	"frequency": 2.02,
+	"word": "arrhythmic",
+	"results": [
+		{
+			"definition": "without regard for rhythm",
+			"partOfSpeech": "adjective",
+			"synonyms": ["arrhythmical"],
+			"similarTo": ["unrhythmic", "unrhythmical"]
+		},
+		{
+			"definition": "lacking a steady rhythm",
+			"partOfSpeech": "adjective",
+			"synonyms": ["jerking", "jerky"],
+			"similarTo": ["unsteady"],
+			"derivation": ["arrhythmia"],
+			"examples": ["an arrhythmic heartbeat"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["arrhyth", "mic"]
+	},
+	"pronunciation": {
+		"all": "\u0259'r\u026a\u00f0m\u026ak"
+	}
+}

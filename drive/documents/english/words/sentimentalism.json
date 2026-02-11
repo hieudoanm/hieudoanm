@@ -1,0 +1,32 @@
+{
+	"word": "sentimentalism",
+	"results": [
+		{
+			"definition": "a predilection for sentimentality",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"drippiness",
+				"mawkishness",
+				"mushiness",
+				"sentimentality",
+				"sloppiness",
+				"soupiness"
+			],
+			"derivation": ["sentimentalist"]
+		},
+		{
+			"definition": "the excessive expression of tender feelings, nostalgia, or sadness in any form",
+			"partOfSpeech": "noun",
+			"typeOf": ["expression", "formulation"],
+			"hasTypes": ["slop", "glop", "treacle", "mush"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["sen", "ti", "men", "tal", "ism"]
+	},
+	"pronunciation": {
+		"all": ",s\u025bnt\u0259'm\u025bn,t\u0259l\u026az\u0259m"
+	},
+	"frequency": 1.97
+}

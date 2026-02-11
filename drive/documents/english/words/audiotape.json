@@ -1,0 +1,27 @@
+{
+	"word": "audiotape",
+	"results": [
+		{
+			"definition": "a tape recording of sound",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"audio",
+				"audio recording",
+				"sound recording",
+				"tape",
+				"tape recording",
+				"taping"
+			],
+			"hasTypes": ["dat", "digital audiotape"]
+		},
+		{
+			"definition": "magnetic tape for use in recording sound",
+			"partOfSpeech": "noun",
+			"typeOf": ["tape", "mag tape", "magnetic tape"]
+		}
+	],
+	"pronunciation": {
+		"all": "'\u0251d\u026ao\u028a,te\u026ap"
+	},
+	"frequency": 1.97
+}

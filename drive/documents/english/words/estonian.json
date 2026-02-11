@@ -1,0 +1,25 @@
+{
+	"word": "estonian",
+	"results": [
+		{
+			"definition": "the official language of Estonia; belongs to the Baltic-Finnic family of languages",
+			"partOfSpeech": "noun",
+			"synonyms": ["esthonian"],
+			"typeOf": ["baltic-finnic"]
+		},
+		{
+			"definition": "of or pertaining to Estonia or the people or culture of Estonia",
+			"partOfSpeech": null,
+			"pertainsTo": ["estonia"],
+			"derivation": ["estonia"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["es", "to", "ni", "an"]
+	},
+	"pronunciation": {
+		"all": "\u025b'sto\u028ani\u0259n"
+	},
+	"frequency": 2.92
+}

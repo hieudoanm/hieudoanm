@@ -1,0 +1,26 @@
+{
+	"word": "hammock",
+	"results": [
+		{
+			"definition": "a hanging bed of canvas or rope netting (usually suspended between two trees); swings easily",
+			"partOfSpeech": "noun",
+			"synonyms": ["sack"],
+			"typeOf": ["bed"]
+		},
+		{
+			"definition": "a small natural hill",
+			"partOfSpeech": "noun",
+			"synonyms": ["hillock", "hummock", "knoll", "mound"],
+			"typeOf": ["hill"],
+			"hasTypes": ["formicary", "anthill", "kopje", "koppie", "molehill"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ham", "mock"]
+	},
+	"pronunciation": {
+		"all": "'h\u00e6m\u0259k"
+	},
+	"frequency": 3.07
+}

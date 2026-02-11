@@ -1,0 +1,31 @@
+{
+	"word": "gray mullet",
+	"results": [
+		{
+			"definition": "highly valued lean flesh of marine or freshwater mullet",
+			"partOfSpeech": "noun",
+			"synonyms": ["grey mullet", "mullet"],
+			"typeOf": ["fish"],
+			"partOf": ["grey mullet", "mullet"]
+		},
+		{
+			"definition": "freshwater or coastal food fishes a spindle-shaped body; found worldwide",
+			"partOfSpeech": "noun",
+			"synonyms": ["grey mullet", "mullet"],
+			"typeOf": ["percoid", "percoidean", "percoid fish"],
+			"hasTypes": [
+				"white mullet",
+				"liza",
+				"mugil cephalus",
+				"mugil curema",
+				"mugil liza",
+				"striped mullet"
+			],
+			"memberOf": ["mugilidae", "family mugilidae"],
+			"hasParts": ["grey mullet", "mullet"]
+		}
+	],
+	"pronunciation": {
+		"all": "gre\u026a_'m\u0259l\u026at"
+	}
+}

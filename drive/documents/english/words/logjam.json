@@ -1,0 +1,32 @@
+{
+	"frequency": 2.31,
+	"word": "logjam",
+	"results": [
+		{
+			"definition": "an immovable mass of logs blocking a river",
+			"partOfSpeech": "noun",
+			"typeOf": ["mass"]
+		},
+		{
+			"definition": "any stoppage attributable to unusual activity",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"check",
+				"halt",
+				"hitch",
+				"stay",
+				"stop",
+				"arrest",
+				"stoppage"
+			],
+			"examples": ["the legislation ran into a logjam"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["log", "jam"]
+	},
+	"pronunciation": {
+		"all": "'l\u0254\u0261,d\u0292\u00e6m"
+	}
+}

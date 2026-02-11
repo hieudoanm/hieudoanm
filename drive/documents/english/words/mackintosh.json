@@ -1,0 +1,36 @@
+{
+	"word": "mackintosh",
+	"results": [
+		{
+			"definition": "a waterproof raincoat made of rubberized fabric",
+			"partOfSpeech": "noun",
+			"synonyms": ["mac", "macintosh", "mack"],
+			"inRegion": [
+				"britain",
+				"great britain",
+				"u.k.",
+				"uk",
+				"united kingdom",
+				"united kingdom of great britain and northern ireland"
+			],
+			"typeOf": ["waterproof", "raincoat"],
+			"hasTypes": ["oilskin", "slicker"],
+			"hasSubstances": ["macintosh"]
+		},
+		{
+			"definition": "a lightweight waterproof (usually rubberized) fabric",
+			"partOfSpeech": "noun",
+			"synonyms": ["macintosh"],
+			"typeOf": ["fabric", "textile", "cloth", "material"],
+			"substanceOf": ["mack", "mac", "macintosh"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mack", "in", "tosh"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6k\u026an,t\u0251\u0283"
+	},
+	"frequency": 2.12
+}

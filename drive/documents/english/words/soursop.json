@@ -1,0 +1,26 @@
+{
+	"word": "soursop",
+	"results": [
+		{
+			"definition": "small tropical American tree bearing large succulent slightly acid fruit",
+			"partOfSpeech": "noun",
+			"synonyms": ["annona muricata", "prickly custard apple", "soursop tree"],
+			"typeOf": ["custard apple", "custard apple tree"],
+			"hasParts": ["guanabana"]
+		},
+		{
+			"definition": "large spiny tropical fruit with tart pulp related to custard apples",
+			"partOfSpeech": "noun",
+			"synonyms": ["guanabana"],
+			"typeOf": ["custard apple"],
+			"partOf": ["annona muricata", "prickly custard apple", "soursop tree"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sour", "sop"]
+	},
+	"pronunciation": {
+		"all": "'s\u00e6\u028a\u0259,s\u0251p"
+	}
+}

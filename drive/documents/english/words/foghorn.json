@@ -1,0 +1,25 @@
+{
+	"word": "foghorn",
+	"results": [
+		{
+			"definition": "a loud low warning signal that can be heard by fogbound ships",
+			"partOfSpeech": "noun",
+			"synonyms": ["fogsignal"],
+			"typeOf": ["warning signal", "alarum", "alert", "alarm"]
+		},
+		{
+			"definition": "a warning device consisting of a horn that generates a loud low tone",
+			"partOfSpeech": "noun",
+			"typeOf": ["horn", "signaling device"],
+			"hasTypes": ["diaphone"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["fog", "horn"]
+	},
+	"pronunciation": {
+		"all": "'f\u0251\u0261,h\u0254rn"
+	},
+	"frequency": 2.7
+}

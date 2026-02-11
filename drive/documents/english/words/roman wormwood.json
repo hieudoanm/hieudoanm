@@ -1,0 +1,25 @@
+{
+	"word": "roman wormwood",
+	"results": [
+		{
+			"definition": "glaucous herb of northeastern United States and Canada having loose racemes of yellow-tipped pink flowers; sometimes placed in genus Fumaria",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"corydalis sempervirens",
+				"fumaria sempervirens",
+				"rock harlequin"
+			],
+			"typeOf": ["corydalis", "genus corydalis"]
+		},
+		{
+			"definition": "European wormwood; minor source of absinthe",
+			"partOfSpeech": "noun",
+			"synonyms": ["artemis pontica"],
+			"typeOf": ["wormwood"],
+			"memberOf": ["genus artemisia"]
+		}
+	],
+	"pronunciation": {
+		"all": "'ro\u028am\u0251n_'w\u025crm,w\u028ad"
+	}
+}

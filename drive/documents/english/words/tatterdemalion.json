@@ -1,0 +1,38 @@
+{
+	"word": "tatterdemalion",
+	"results": [
+		{
+			"definition": "worn to shreds; or wearing torn or ragged clothing",
+			"partOfSpeech": "adjective",
+			"synonyms": ["tattered"],
+			"similarTo": ["worn"],
+			"examples": ["a tatterdemalion prince"]
+		},
+		{
+			"definition": "in deplorable condition",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"bedraggled",
+				"broken-down",
+				"derelict",
+				"dilapidated",
+				"ramshackle",
+				"tumble-down"
+			],
+			"similarTo": ["damaged"]
+		},
+		{
+			"definition": "a dirty shabbily clothed urchin",
+			"partOfSpeech": "noun",
+			"synonyms": ["ragamuffin"],
+			"typeOf": ["urchin"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["tat", "ter", "de", "mal", "ion"]
+	},
+	"pronunciation": {
+		"all": ",t\u00e6t\u0259rd\u026a'me\u026alj\u0259n"
+	}
+}

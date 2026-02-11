@@ -1,0 +1,24 @@
+{
+	"word": "holster",
+	"results": [
+		{
+			"definition": "a belt with loops or slots for carrying small hand tools",
+			"partOfSpeech": "noun",
+			"typeOf": ["belt"]
+		},
+		{
+			"definition": "a sheath (usually leather) for carrying a handgun",
+			"partOfSpeech": "noun",
+			"typeOf": ["sheath"],
+			"hasTypes": ["shoulder holster"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hol", "ster"]
+	},
+	"pronunciation": {
+		"all": "'ho\u028alst\u0259r"
+	},
+	"frequency": 2.96
+}

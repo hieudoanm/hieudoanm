@@ -1,0 +1,37 @@
+{
+	"word": "mainstay",
+	"results": [
+		{
+			"definition": "a prominent supporter",
+			"partOfSpeech": "noun",
+			"synonyms": ["pillar"],
+			"typeOf": [
+				"booster",
+				"champion",
+				"friend",
+				"protagonist",
+				"supporter",
+				"admirer"
+			]
+		},
+		{
+			"definition": "a central cohesive source of support and stability",
+			"partOfSpeech": "noun",
+			"synonyms": ["anchor", "backbone", "keystone", "linchpin", "lynchpin"],
+			"typeOf": ["support"]
+		},
+		{
+			"definition": "the forestay that braces the mainmast",
+			"partOfSpeech": "noun",
+			"typeOf": ["forestay"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["main", "stay"]
+	},
+	"pronunciation": {
+		"all": "'me\u026an,ste\u026a"
+	},
+	"frequency": 2.12
+}

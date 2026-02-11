@@ -1,0 +1,25 @@
+{
+	"word": "taenia",
+	"results": [
+		{
+			"definition": "a narrow headband or strip of ribbon worn as a headband",
+			"partOfSpeech": "noun",
+			"synonyms": ["fillet", "tenia"],
+			"typeOf": ["headband"]
+		},
+		{
+			"definition": "tapeworms parasitic in humans which uses the pig as its intermediate host",
+			"partOfSpeech": "noun",
+			"typeOf": ["cestode", "tapeworm"],
+			"memberOf": ["genus taenia"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["tae", "ni", "a"]
+	},
+	"pronunciation": {
+		"all": "'tini\u0259"
+	},
+	"frequency": 3.3
+}

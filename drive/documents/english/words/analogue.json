@@ -1,0 +1,28 @@
+{
+	"word": "analogue",
+	"results": [
+		{
+			"definition": "something having the property of being analogous to something else",
+			"partOfSpeech": "noun",
+			"synonyms": ["analog", "parallel"],
+			"typeOf": ["similarity"],
+			"hasTypes": ["echo"]
+		},
+		{
+			"definition": "of a circuit or device having an output that is proportional to the input",
+			"partOfSpeech": "adjective",
+			"synonyms": ["analog", "linear"],
+			"inCategory": ["electronics"],
+			"antonyms": ["digital"],
+			"examples": ["analogue device"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["an", "a", "logue"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6n,\u0259l\u0254\u0261"
+	},
+	"frequency": 2.45
+}

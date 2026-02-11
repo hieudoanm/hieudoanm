@@ -1,0 +1,25 @@
+{
+	"word": "texarkana",
+	"results": [
+		{
+			"definition": "a town in northeast Texas adjacent to Texarkana, Arkansas",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town"],
+			"partOf": ["tx", "lone-star state", "tex.", "texas"]
+		},
+		{
+			"definition": "a town in southwest Arkansas on the Texas border adjacent to Texarkana, Texas",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town"],
+			"partOf": ["ar", "arkansas", "land of opportunity", "ark."]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["tex", "ar", "kan", "a"]
+	},
+	"pronunciation": {
+		"all": ",t\u025bks\u0251r'k\u00e6n\u0259"
+	},
+	"frequency": 2.03
+}

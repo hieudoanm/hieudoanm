@@ -1,0 +1,29 @@
+{
+	"word": "expressway",
+	"results": [
+		{
+			"definition": "a broad highway designed for high-speed traffic",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"freeway",
+				"motorway",
+				"pike",
+				"state highway",
+				"superhighway",
+				"throughway",
+				"thruway"
+			],
+			"typeOf": ["highway", "main road"],
+			"hasTypes": ["autobahn", "turnpike", "toll road", "autostrada"],
+			"hasParts": ["carriageway"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ex", "press", "way"]
+	},
+	"pronunciation": {
+		"all": "\u026ak'spr\u025bs,we\u026a"
+	},
+	"frequency": 2.85
+}

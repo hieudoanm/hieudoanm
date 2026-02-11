@@ -1,0 +1,26 @@
+{
+	"word": "chimney swallow",
+	"results": [
+		{
+			"definition": "common swallow of North America and Europe that nests in barns etc.",
+			"partOfSpeech": "noun",
+			"synonyms": ["barn swallow", "hirundo rustica"],
+			"typeOf": ["swallow"],
+			"memberOf": ["genus hirundo", "hirundo"]
+		},
+		{
+			"definition": "American swift that nests in e.g. unused chimneys",
+			"partOfSpeech": "noun",
+			"synonyms": ["chateura pelagica", "chimney swift"],
+			"typeOf": ["swift"],
+			"memberOf": ["chateura", "genus chateura"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["chim", "ney swal", "low"]
+	},
+	"pronunciation": {
+		"all": "'\u02a7\u026amni_'sw\u0251lo\u028a"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"word": "cutlery",
+	"results": [
+		{
+			"definition": "tableware implements for cutting and eating food",
+			"partOfSpeech": "noun",
+			"synonyms": ["eating utensil"],
+			"typeOf": ["tableware"],
+			"hasTypes": ["spoon", "spork", "table knife", "fork"],
+			"hasParts": ["handgrip", "handle", "hold", "grip"]
+		},
+		{
+			"definition": "a cutting implement; a tool for cutting",
+			"partOfSpeech": "noun",
+			"synonyms": ["cutter", "cutting tool"],
+			"typeOf": ["cutting implement"],
+			"hasTypes": [
+				"cigar cutter",
+				"die",
+				"edge tool",
+				"bolt cutter",
+				"glass cutter",
+				"tile cutter"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["cut", "ler", "y"]
+	},
+	"pronunciation": {
+		"all": "'k\u0259tl\u0259ri"
+	},
+	"frequency": 3.03
+}

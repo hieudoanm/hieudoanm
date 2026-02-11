@@ -1,0 +1,32 @@
+{
+	"word": "manicure",
+	"results": [
+		{
+			"definition": "care for (one's hand) by cutting and shaping the nails, etc.",
+			"partOfSpeech": "verb",
+			"typeOf": ["neaten", "groom"],
+			"derivation": ["manicurist"]
+		},
+		{
+			"definition": "professional care for the hands and fingernails",
+			"partOfSpeech": "noun",
+			"typeOf": ["beauty treatment", "care", "aid", "tending", "attention"],
+			"derivation": ["manicurist"]
+		},
+		{
+			"definition": "trim carefully and neatly",
+			"partOfSpeech": "verb",
+			"typeOf": ["cut"],
+			"derivation": ["manicurist"],
+			"examples": ["manicure fingernails"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["man", "i", "cure"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6n\u0259kj\u028ar"
+	},
+	"frequency": 3.09
+}

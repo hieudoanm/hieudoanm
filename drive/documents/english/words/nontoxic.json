@@ -1,0 +1,30 @@
+{
+	"frequency": 2.4,
+	"word": "nontoxic",
+	"results": [
+		{
+			"definition": "safe to eat",
+			"partOfSpeech": "adjective",
+			"synonyms": ["non-poisonous", "nonpoisonous"],
+			"similarTo": ["eatable", "edible", "comestible"]
+		},
+		{
+			"definition": "not producing or resulting from poison",
+			"partOfSpeech": "adjective",
+			"synonyms": ["atoxic"],
+			"also": ["harmless"],
+			"similarTo": [
+				"nonvenomous",
+				"non-poisonous",
+				"nonpoisonous",
+				"antitoxic"
+			],
+			"antonyms": ["toxic"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["non", "tox", "ic"]
+	},
+	"pronunciation": "n\u0251n't\u0251ks\u026ak"
+}

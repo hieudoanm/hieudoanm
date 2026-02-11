@@ -1,0 +1,25 @@
+{
+	"word": "goliath",
+	"results": [
+		{
+			"definition": "someone or something that is abnormally large and powerful",
+			"partOfSpeech": "noun",
+			"synonyms": ["behemoth", "colossus", "giant", "monster"],
+			"typeOf": ["anomaly", "unusual person"]
+		},
+		{
+			"definition": "(Old Testament) a giant Philistine warrior who was slain by David with a slingshot",
+			"partOfSpeech": "noun",
+			"inCategory": ["old testament"],
+			"instanceOf": ["warrior"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["go", "li", "ath"]
+	},
+	"pronunciation": {
+		"all": "\u0261\u0259'la\u026a\u0259\u03b8"
+	},
+	"frequency": 3.2
+}

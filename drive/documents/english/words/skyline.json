@@ -1,0 +1,30 @@
+{
+	"word": "skyline",
+	"results": [
+		{
+			"definition": "the line at which the sky and Earth appear to meet",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"apparent horizon",
+				"horizon",
+				"sensible horizon",
+				"visible horizon"
+			],
+			"typeOf": ["line"],
+			"partOf": ["linear perspective", "perspective"]
+		},
+		{
+			"definition": "the outline of objects seen against the sky",
+			"partOfSpeech": "noun",
+			"typeOf": ["lineation", "outline"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["sky", "line"]
+	},
+	"pronunciation": {
+		"all": "'ska\u026a,la\u026an"
+	},
+	"frequency": 2.78
+}

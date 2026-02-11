@@ -1,0 +1,36 @@
+{
+	"word": "nauseous",
+	"results": [
+		{
+			"definition": "causing or able to cause nausea",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"loathsome",
+				"nauseating",
+				"noisome",
+				"offensive",
+				"queasy",
+				"sickening",
+				"vile"
+			],
+			"similarTo": ["unwholesome"],
+			"derivation": ["nausea"],
+			"examples": ["nauseous offal"]
+		},
+		{
+			"definition": "feeling nausea; feeling about to vomit",
+			"partOfSpeech": "adjective",
+			"synonyms": ["nauseated", "queasy", "sick", "sickish"],
+			"similarTo": ["ill", "sick"],
+			"derivation": ["nausea"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["nau", "se", "ous"]
+	},
+	"pronunciation": {
+		"all": "'n\u0254\u0283\u0259s"
+	},
+	"frequency": 3.39
+}

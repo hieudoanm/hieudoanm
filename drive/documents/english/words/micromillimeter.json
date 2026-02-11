@@ -1,0 +1,26 @@
+{
+	"word": "micromillimeter",
+	"results": [
+		{
+			"definition": "a metric unit of length equal to one billionth of a meter",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"micromillimetre",
+				"millimicron",
+				"nanometer",
+				"nanometre",
+				"nm"
+			],
+			"typeOf": ["metric linear unit"],
+			"hasParts": ["a", "angstrom", "angstrom unit"],
+			"partOf": ["micrometer", "micron"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["mi", "cro", "mil", "li", "me", "ter"]
+	},
+	"pronunciation": {
+		"all": ",ma\u026akro\u028a'm\u026al\u0259,mit\u0259r"
+	}
+}

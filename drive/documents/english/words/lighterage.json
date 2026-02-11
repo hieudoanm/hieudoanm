@@ -1,0 +1,30 @@
+{
+	"word": "lighterage",
+	"results": [
+		{
+			"definition": "the fee charged for carrying goods in lighters",
+			"partOfSpeech": "noun",
+			"typeOf": ["fee"],
+			"derivation": ["lighter"]
+		},
+		{
+			"definition": "the transportation of goods on a lighter",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"conveyance",
+				"transfer",
+				"transferral",
+				"transport",
+				"transportation"
+			],
+			"derivation": ["lighter"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["light", "er", "age"]
+	},
+	"pronunciation": {
+		"all": "'la\u026at\u0259r\u026ad\u0292"
+	}
+}

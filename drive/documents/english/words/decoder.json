@@ -1,0 +1,25 @@
+{
+	"word": "decoder",
+	"results": [
+		{
+			"definition": "the kind of intellectual who converts messages from a code to plain text",
+			"partOfSpeech": "noun",
+			"synonyms": ["decipherer"],
+			"typeOf": ["intellect", "intellectual"],
+			"hasTypes": ["cryptanalyst", "cryptographer", "cryptologist"]
+		},
+		{
+			"definition": "a machine that converts a coded text into ordinary language",
+			"partOfSpeech": "noun",
+			"typeOf": ["machine"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["de", "cod", "er"]
+	},
+	"pronunciation": {
+		"all": "di'ko\u028ad\u0259r"
+	},
+	"frequency": 2.68
+}

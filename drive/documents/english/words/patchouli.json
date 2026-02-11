@@ -1,0 +1,26 @@
+{
+	"word": "patchouli",
+	"results": [
+		{
+			"definition": "a heavy perfume made from the patchouli plant",
+			"partOfSpeech": "noun",
+			"synonyms": ["pachouli", "patchouly"],
+			"typeOf": ["essence", "perfume"]
+		},
+		{
+			"definition": "small East Indian shrubby mint; fragrant oil from its leaves is used in perfumes",
+			"partOfSpeech": "noun",
+			"synonyms": ["pachouli", "patchouly", "pogostemon cablin"],
+			"typeOf": ["bush", "shrub"],
+			"memberOf": ["genus pogostemon", "pogostemon"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["patch", "ou", "li"]
+	},
+	"pronunciation": {
+		"all": "'p\u00e6\u02a7\u028ali"
+	},
+	"frequency": 2.2
+}

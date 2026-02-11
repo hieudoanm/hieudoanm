@@ -1,0 +1,28 @@
+{
+	"word": "underwrite",
+	"results": [
+		{
+			"definition": "guarantee financial support of",
+			"partOfSpeech": "verb",
+			"synonyms": ["subvent", "subvention"],
+			"typeOf": ["undertake", "guarantee"]
+		},
+		{
+			"definition": "protect by insurance",
+			"partOfSpeech": "verb",
+			"synonyms": ["cover", "insure"],
+			"typeOf": ["guarantee", "warrant"],
+			"hasTypes": ["indemnify", "reinsure"],
+			"verbGroup": ["overcompensate", "cover", "compensate"],
+			"derivation": ["underwriter"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["un", "der", "write"]
+	},
+	"pronunciation": {
+		"all": ",\u0259nd\u0259r'ra\u026at"
+	},
+	"frequency": 2.08
+}

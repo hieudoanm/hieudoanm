@@ -1,0 +1,40 @@
+{
+	"frequency": 2.02,
+	"word": "countermine",
+	"results": [
+		{
+			"definition": "destroy property or hinder normal operations",
+			"partOfSpeech": "verb",
+			"synonyms": ["counteract", "sabotage", "subvert", "undermine", "weaken"],
+			"typeOf": ["disobey"],
+			"hasTypes": ["derail"]
+		},
+		{
+			"definition": "destroy enemy mines with one's own mines",
+			"partOfSpeech": "verb",
+			"typeOf": ["mine"],
+			"examples": ["We countermined the banks of the river"]
+		},
+		{
+			"definition": "(military) a tunnel dug to defeat similar activities by the enemy",
+			"partOfSpeech": "noun",
+			"inCategory": [
+				"armed forces",
+				"war machine",
+				"military machine",
+				"armed services",
+				"military"
+			],
+			"typeOf": ["countermeasure"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["coun", "ter", "mine"]
+	},
+	"pronunciation": {
+		"all": "'k\u00e6\u028ant\u0259,ma\u026an",
+		"noun": "'ka\u028ant\u0259r,ma\u026an",
+		"verb": ",ka\u028ant\u0259r'ma\u026an"
+	}
+}

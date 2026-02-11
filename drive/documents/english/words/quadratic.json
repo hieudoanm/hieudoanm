@@ -1,0 +1,33 @@
+{
+	"word": "quadratic",
+	"results": [
+		{
+			"definition": "a polynomial of the second degree",
+			"partOfSpeech": "noun",
+			"synonyms": ["quadratic polynomial"],
+			"typeOf": ["multinomial", "polynomial"]
+		},
+		{
+			"definition": "an equation in which the highest power of an unknown quantity is a square",
+			"partOfSpeech": "noun",
+			"synonyms": ["quadratic equation"],
+			"typeOf": ["equation"]
+		},
+		{
+			"definition": "involving  the second and no higher power of a quantity or degree",
+			"partOfSpeech": "adjective",
+			"inCategory": ["math", "mathematics", "maths"],
+			"pertainsTo": ["square"],
+			"derivation": ["quadrate"],
+			"examples": ["quadratic equation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["quad", "rat", "ic"]
+	},
+	"pronunciation": {
+		"all": "kw\u0251'dr\u00e6t\u026ak"
+	},
+	"frequency": 2.56
+}

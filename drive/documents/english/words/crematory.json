@@ -1,0 +1,26 @@
+{
+	"word": "crematory",
+	"results": [
+		{
+			"definition": "a furnace where a corpse can be burned and reduced to ashes",
+			"partOfSpeech": "noun",
+			"synonyms": ["cremation chamber", "crematorium"],
+			"typeOf": ["furnace"],
+			"hasTypes": ["gas oven"]
+		},
+		{
+			"definition": "a mortuary where corpses are cremated",
+			"partOfSpeech": "noun",
+			"synonyms": ["crematorium"],
+			"typeOf": ["dead room", "morgue", "mortuary"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["cre", "ma", "to", "ry"]
+	},
+	"pronunciation": {
+		"all": "'krim\u0259,to\u028ari"
+	},
+	"frequency": 2.43
+}

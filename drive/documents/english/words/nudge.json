@@ -1,0 +1,36 @@
+{
+	"word": "nudge",
+	"results": [
+		{
+			"definition": "to push against gently",
+			"partOfSpeech": "verb",
+			"synonyms": ["poke at", "prod"],
+			"typeOf": ["force", "push"],
+			"hasTypes": ["jog", "elbow"],
+			"derivation": ["nudger"],
+			"examples": [
+				"She nudged my elbow when she saw her friend enter the restaurant"
+			]
+		},
+		{
+			"definition": "a slight push or shake",
+			"partOfSpeech": "noun",
+			"synonyms": ["jog"],
+			"typeOf": ["pushing", "push"]
+		},
+		{
+			"definition": "push into action by pestering or annoying gently",
+			"partOfSpeech": "verb",
+			"typeOf": ["push", "bear on"],
+			"derivation": ["nudger"]
+		}
+	],
+	"syllables": {
+		"count": 1,
+		"list": ["nudge"]
+	},
+	"pronunciation": {
+		"all": "n\u0259d\u0292"
+	},
+	"frequency": 2.92
+}

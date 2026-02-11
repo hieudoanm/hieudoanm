@@ -1,0 +1,24 @@
+{
+	"word": "open account",
+	"results": [
+		{
+			"definition": "credit extended by a business to a customer",
+			"partOfSpeech": "noun",
+			"synonyms": ["charge account", "credit account"],
+			"typeOf": [
+				"charge account credit",
+				"open-end credit",
+				"revolving credit"
+			],
+			"hasTypes": ["revolving charge account"]
+		},
+		{
+			"definition": "an unpaid credit order",
+			"partOfSpeech": "noun",
+			"typeOf": ["bill-me order", "credit order"]
+		}
+	],
+	"pronunciation": {
+		"all": "'o\u028ap\u0259n_\u0259'ka\u028ant"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"word": "overprint",
+	"results": [
+		{
+			"definition": "something added by overprinting",
+			"partOfSpeech": "noun",
+			"synonyms": ["surprint"],
+			"typeOf": ["print"]
+		},
+		{
+			"definition": "print (additional text or colors) onto an already imprinted paper",
+			"partOfSpeech": "verb",
+			"synonyms": ["print over"],
+			"typeOf": ["impress", "print"],
+			"hasTypes": ["surcharge"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["o", "ver", "print"]
+	},
+	"pronunciation": {
+		"noun": "'o\u028av\u0259r,pr\u026ant",
+		"verb": ",o\u028av\u0259r'pr\u026ant"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"word": "instigator",
+	"results": [
+		{
+			"definition": "someone who deliberately foments trouble",
+			"partOfSpeech": "noun",
+			"synonyms": ["firebrand", "inciter", "instigant", "provoker"],
+			"typeOf": [
+				"mischief-maker",
+				"trouble maker",
+				"troublemaker",
+				"troubler",
+				"bad hat"
+			],
+			"hasTypes": ["ringleader"],
+			"derivation": ["instigate"],
+			"examples": ["she was the instigator of their quarrel"]
+		},
+		{
+			"definition": "a person who initiates a course of action",
+			"partOfSpeech": "noun",
+			"synonyms": ["initiator"],
+			"typeOf": ["leader"],
+			"hasTypes": ["aggressor"],
+			"derivation": ["instigate"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "sti", "ga", "tor"]
+	},
+	"pronunciation": "'\u026anst\u028c,\u0261e\u026at\u025dr",
+	"frequency": 2.36
+}

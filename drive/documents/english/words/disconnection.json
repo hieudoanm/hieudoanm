@@ -1,0 +1,33 @@
+{
+	"word": "disconnection",
+	"results": [
+		{
+			"definition": "state of being disconnected",
+			"partOfSpeech": "noun",
+			"synonyms": ["disconnectedness", "disjunction", "disjuncture"],
+			"typeOf": ["separation"],
+			"hasTypes": ["incoherence", "incoherency", "separability"]
+		},
+		{
+			"definition": "the act of breaking a connection",
+			"partOfSpeech": "noun",
+			"synonyms": ["disjunction"],
+			"typeOf": ["separation"],
+			"derivation": ["disconnect"]
+		},
+		{
+			"definition": "an unbridgeable disparity (as from a failure of understanding)",
+			"partOfSpeech": "noun",
+			"synonyms": ["disconnect", "gulf"],
+			"typeOf": ["disparity"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["dis", "con", "nec", "tion"]
+	},
+	"pronunciation": {
+		"all": ",d\u026ask\u0259'n\u025bk\u0283\u0259n"
+	},
+	"frequency": 2.03
+}

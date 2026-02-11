@@ -1,0 +1,25 @@
+{
+	"word": "venetian",
+	"results": [
+		{
+			"definition": "a resident of Venice",
+			"partOfSpeech": "noun",
+			"typeOf": ["italian"],
+			"memberOf": ["venezia", "venice"]
+		},
+		{
+			"definition": "of or relating to or characteristic of Venice or its people",
+			"partOfSpeech": null,
+			"pertainsTo": ["venice"],
+			"derivation": ["venice"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ve", "ne", "tian"]
+	},
+	"pronunciation": {
+		"all": "v\u0259'ni\u0283\u0259n"
+	},
+	"frequency": 3.02
+}

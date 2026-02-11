@@ -1,0 +1,26 @@
+{
+	"word": "estrangement",
+	"results": [
+		{
+			"definition": "separation resulting from hostility",
+			"partOfSpeech": "noun",
+			"synonyms": ["alienation"],
+			"typeOf": ["isolation"],
+			"derivation": ["estrange"]
+		},
+		{
+			"definition": "the feeling of being alienated from other people",
+			"partOfSpeech": "noun",
+			"synonyms": ["alienation", "disaffection"],
+			"typeOf": ["dislike"],
+			"hasTypes": ["isolation"],
+			"derivation": ["estrange"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["es", "trange", "ment"]
+	},
+	"pronunciation": "\u026a'stre\u026and\u0292m\u028cnt",
+	"frequency": 1.9
+}

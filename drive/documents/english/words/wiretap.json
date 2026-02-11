@@ -1,0 +1,26 @@
+{
+	"word": "wiretap",
+	"results": [
+		{
+			"definition": "tap a telephone or telegraph wire to get information",
+			"partOfSpeech": "verb",
+			"synonyms": ["bug", "intercept", "tap"],
+			"typeOf": ["eavesdrop", "listen in"],
+			"derivation": ["wiretapper"]
+		},
+		{
+			"definition": "the act of tapping a telephone or telegraph line to get information",
+			"partOfSpeech": "noun",
+			"synonyms": ["tap"],
+			"typeOf": ["investigating", "investigation"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wire", "tap"]
+	},
+	"pronunciation": {
+		"all": "'wa\u026a\u0259r,t\u00e6p"
+	},
+	"frequency": 2.45
+}

@@ -1,0 +1,34 @@
+{
+	"word": "audacity",
+	"results": [
+		{
+			"definition": "fearless daring",
+			"partOfSpeech": "noun",
+			"synonyms": ["audaciousness", "temerity"],
+			"typeOf": ["hardiness", "boldness", "daring", "hardihood"],
+			"derivation": ["audacious"]
+		},
+		{
+			"definition": "aggressive boldness or unmitigated effrontery",
+			"partOfSpeech": "noun",
+			"synonyms": ["audaciousness"],
+			"typeOf": ["face", "nerve", "boldness", "brass", "cheek"],
+			"hasTypes": [
+				"presumptuousness",
+				"effrontery",
+				"presumption",
+				"assumption"
+			],
+			"derivation": ["audacious"],
+			"examples": ["he had the audacity to question my decision"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["au", "dac", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "\u0254'd\u00e6s\u026ati"
+	},
+	"frequency": 2.94
+}

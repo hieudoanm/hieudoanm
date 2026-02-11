@@ -1,0 +1,27 @@
+{
+	"word": "anecdotal",
+	"results": [
+		{
+			"definition": "characterized by or given to telling anecdotes",
+			"partOfSpeech": "adjective",
+			"synonyms": ["anecdotic", "anecdotical"],
+			"similarTo": ["communicative", "communicatory"],
+			"examples": ["anecdotal conversation", "an anecdotal history of jazz"]
+		},
+		{
+			"definition": "having the character of an anecdote",
+			"partOfSpeech": null,
+			"pertainsTo": ["anecdote"],
+			"derivation": ["anecdote"],
+			"examples": ["anecdotal evidence"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["an", "ec", "do", "tal"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6n\u026ak,do\u028at\u0259l"
+	},
+	"frequency": 2.36
+}

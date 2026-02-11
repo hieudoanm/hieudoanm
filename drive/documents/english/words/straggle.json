@@ -1,0 +1,33 @@
+{
+	"word": "straggle",
+	"results": [
+		{
+			"definition": "wander from a direct or straight course",
+			"partOfSpeech": "verb",
+			"synonyms": ["depart", "digress", "sidetrack"],
+			"typeOf": ["deviate", "divert"],
+			"derivation": ["straggler"]
+		},
+		{
+			"definition": "go, come, or spread in a rambling or irregular way",
+			"partOfSpeech": "verb",
+			"synonyms": ["sprawl"],
+			"typeOf": ["distribute", "spread"]
+		},
+		{
+			"definition": "a wandering or disorderly grouping (of things or persons)",
+			"partOfSpeech": "noun",
+			"typeOf": ["group", "grouping"],
+			"derivation": ["straggly"],
+			"examples": ["a straggle of outbuildings", "a straggle of followers"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["strag", "gle"]
+	},
+	"pronunciation": {
+		"all": "'str\u00e6\u0261\u0259l"
+	},
+	"frequency": 2.03
+}

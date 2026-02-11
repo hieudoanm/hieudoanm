@@ -1,0 +1,29 @@
+{
+	"word": "deputation",
+	"results": [
+		{
+			"definition": "a group of representatives or delegates",
+			"partOfSpeech": "noun",
+			"synonyms": ["commission", "delegacy", "delegation", "mission"],
+			"typeOf": ["organisation", "organization"],
+			"hasTypes": ["diplomatic mission", "embassy"],
+			"derivation": ["depute"]
+		},
+		{
+			"definition": "authorizing subordinates to make certain decisions",
+			"partOfSpeech": "noun",
+			"synonyms": ["delegating", "delegation", "relegating", "relegation"],
+			"typeOf": ["authorisation", "authorization", "empowerment"],
+			"hasTypes": ["devolution", "devolvement"],
+			"derivation": ["depute"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["dep", "u", "ta", "tion"]
+	},
+	"pronunciation": {
+		"all": ",d\u025bpj\u0259'te\u026a\u0283\u0259n"
+	},
+	"frequency": 1.97
+}

@@ -1,0 +1,28 @@
+{
+	"word": "choral",
+	"results": [
+		{
+			"definition": "a stately Protestant (especially Lutheran) hymn tune",
+			"partOfSpeech": "noun",
+			"synonyms": ["chorale"],
+			"typeOf": ["anthem", "hymn"]
+		},
+		{
+			"definition": "related to or written for or performed by a chorus or choir",
+			"partOfSpeech": null,
+			"pertainsTo": ["chorus"],
+			"derivation": ["choir", "chorus"],
+			"examples": ["choral composition", "choral ensemble"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cho", "ral"]
+	},
+	"pronunciation": {
+		"all": "'ko\u028ar\u0259l",
+		"adjective": "'ko\u028ar\u0259l",
+		"noun": "k\u0259'r\u00e6l"
+	},
+	"frequency": 2.6
+}

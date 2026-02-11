@@ -1,0 +1,33 @@
+{
+	"word": "approaching",
+	"results": [
+		{
+			"definition": "the act of drawing spatially closer to something",
+			"partOfSpeech": "noun",
+			"synonyms": ["approach", "coming"],
+			"typeOf": ["move", "motion", "movement"],
+			"hasTypes": ["run-up", "closure", "access", "closing", "landing approach"]
+		},
+		{
+			"definition": "the event of one object coming closer to another",
+			"partOfSpeech": "noun",
+			"synonyms": ["approach"],
+			"typeOf": ["movement", "motion"]
+		},
+		{
+			"definition": "the temporal property of becoming nearer in time",
+			"partOfSpeech": "noun",
+			"synonyms": ["approach", "coming"],
+			"typeOf": ["timing"]
+		},
+		{
+			"definition": "of the relatively near future",
+			"partOfSpeech": "adjective",
+			"synonyms": ["coming", "forthcoming", "upcoming"],
+			"similarTo": ["future"],
+			"examples": ["the approaching election"]
+		}
+	],
+	"pronunciation": "\u028c'pro\u028at\u0283\u026a\u014b",
+	"frequency": 4.12
+}

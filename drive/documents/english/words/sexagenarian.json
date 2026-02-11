@@ -1,0 +1,24 @@
+{
+	"frequency": 2.02,
+	"word": "sexagenarian",
+	"results": [
+		{
+			"definition": "being from 60 to 69 years old",
+			"partOfSpeech": "adjective",
+			"similarTo": ["old"],
+			"examples": ["the sexagenarian population is growing"]
+		},
+		{
+			"definition": "someone whose age is in the sixties",
+			"partOfSpeech": "noun",
+			"typeOf": ["golden ager", "old person", "oldster", "senior citizen"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["sex", "a", "ge", "nar", "i", "an"]
+	},
+	"pronunciation": {
+		"all": ",s\u025bks\u0259d\u0292\u0259'n\u025cri\u0259n"
+	}
+}

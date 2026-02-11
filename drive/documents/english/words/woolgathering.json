@@ -1,0 +1,26 @@
+{
+	"frequency": 2.19,
+	"word": "woolgathering",
+	"results": [
+		{
+			"definition": "dreamy in mood or nature",
+			"partOfSpeech": "adjective",
+			"synonyms": ["dreamy", "moony"],
+			"similarTo": ["inattentive"],
+			"examples": ["a woolgathering moment"]
+		},
+		{
+			"definition": "an idle indulgence in fantasy",
+			"partOfSpeech": "noun",
+			"typeOf": ["dream", "dreaming"],
+			"derivation": ["woolgather"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["wool", "gath", "er", "ing"]
+	},
+	"pronunciation": {
+		"all": "'w\u028al,\u0261\u00e6\u00f0\u0259r\u026a\u014b"
+	}
+}

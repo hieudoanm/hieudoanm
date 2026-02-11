@@ -1,0 +1,33 @@
+{
+	"word": "radiotelephone",
+	"results": [
+		{
+			"definition": "telephony that uses transmission by radio rather than by wire",
+			"partOfSpeech": "noun",
+			"synonyms": ["radiotelephony", "wireless telephone"],
+			"typeOf": ["wireless"],
+			"derivation": ["radiotelephonic"]
+		},
+		{
+			"definition": "a telephone that communicates by radio waves rather than along cables",
+			"partOfSpeech": "noun",
+			"synonyms": ["radiophone", "wireless telephone"],
+			"typeOf": ["phone", "telephone", "telephone set"],
+			"hasTypes": [
+				"cellular telephone",
+				"mobile phone",
+				"cell",
+				"cellphone",
+				"cellular phone"
+			],
+			"derivation": ["radiotelephonic"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["ra", "di", "o", "tel", "e", "phone"]
+	},
+	"pronunciation": {
+		"all": ",re\u026adio\u028a't\u025bl\u0259,fo\u028an"
+	}
+}

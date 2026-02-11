@@ -1,0 +1,28 @@
+{
+	"word": "amble",
+	"results": [
+		{
+			"definition": "walk leisurely",
+			"partOfSpeech": "verb",
+			"synonyms": ["mosey"],
+			"typeOf": ["walk"],
+			"derivation": ["ambler"]
+		},
+		{
+			"definition": "a leisurely walk (usually in some public place)",
+			"partOfSpeech": "noun",
+			"synonyms": ["perambulation", "promenade", "saunter", "stroll"],
+			"typeOf": ["walk"],
+			"hasTypes": ["meander", "ramble", "walkabout"],
+			"derivation": ["ambulate", "perambulate"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["am", "ble"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6mb\u0259l"
+	},
+	"frequency": 2.08
+}

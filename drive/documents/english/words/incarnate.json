@@ -1,0 +1,48 @@
+{
+	"word": "incarnate",
+	"results": [
+		{
+			"definition": "possessing or existing in bodily form",
+			"partOfSpeech": "adjective",
+			"synonyms": ["bodied", "corporal", "corporate", "embodied"],
+			"similarTo": ["corporeal", "material"],
+			"examples": ["an incarnate spirit"]
+		},
+		{
+			"definition": "represent in bodily form",
+			"partOfSpeech": "verb",
+			"synonyms": ["body forth", "embody", "substantiate"],
+			"typeOf": ["be"],
+			"derivation": ["incarnation"]
+		},
+		{
+			"definition": "invested with a bodily form especially of a human body",
+			"partOfSpeech": "adjective",
+			"similarTo": ["bodied"],
+			"examples": ["a monarch...regarded as a god incarnate"]
+		},
+		{
+			"definition": "make concrete and real",
+			"partOfSpeech": "verb",
+			"typeOf": [
+				"actualize",
+				"realise",
+				"realize",
+				"substantiate",
+				"actualise"
+			],
+			"antonyms": ["disincarnate"],
+			"derivation": ["incarnation"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["in", "car", "nate"]
+	},
+	"pronunciation": {
+		"all": "\u026an'k\u0251rn\u0259t",
+		"adjective": "\u026an'k\u0251rn\u026at",
+		"verb": "\u026an'k\u0251rne\u026at"
+	},
+	"frequency": 2.81
+}

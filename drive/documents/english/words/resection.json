@@ -1,0 +1,26 @@
+{
+	"word": "resection",
+	"results": [
+		{
+			"definition": "surgical removal of part of a structure or organ",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"operation",
+				"surgery",
+				"surgical operation",
+				"surgical procedure",
+				"surgical process"
+			],
+			"hasTypes": ["transurethral resection of the prostate", "turp"],
+			"derivation": ["resect"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["re", "sec", "tion"]
+	},
+	"pronunciation": {
+		"all": "r\u026a's\u025bk\u0283\u0259n"
+	},
+	"frequency": 1.9
+}

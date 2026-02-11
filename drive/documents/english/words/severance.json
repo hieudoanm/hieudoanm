@@ -1,0 +1,28 @@
+{
+	"word": "severance",
+	"results": [
+		{
+			"definition": "the act of severing",
+			"partOfSpeech": "noun",
+			"synonyms": ["severing"],
+			"typeOf": ["cut", "cutting"],
+			"derivation": ["sever"]
+		},
+		{
+			"definition": "a personal or social separation (as between opposing factions)",
+			"partOfSpeech": "noun",
+			"synonyms": ["breach", "break", "falling out", "rift", "rupture"],
+			"typeOf": ["breakup", "detachment", "separation"],
+			"hasTypes": ["schism"],
+			"derivation": ["sever"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sev", "er", "ance"]
+	},
+	"pronunciation": {
+		"all": "'s\u025bv\u0259r\u0259ns"
+	},
+	"frequency": 3.13
+}

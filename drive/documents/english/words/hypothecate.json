@@ -1,0 +1,40 @@
+{
+	"word": "hypothecate",
+	"results": [
+		{
+			"definition": "to believe especially on uncertain or tentative grounds",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"conjecture",
+				"hypothesise",
+				"hypothesize",
+				"speculate",
+				"suppose",
+				"theorise",
+				"theorize"
+			],
+			"typeOf": ["expect", "anticipate"],
+			"hasTypes": [
+				"explicate",
+				"formulate",
+				"reconstruct",
+				"retrace",
+				"construct",
+				"develop"
+			],
+			"derivation": ["hypothesis"]
+		},
+		{
+			"definition": "pledge without delivery or title of possession",
+			"partOfSpeech": "verb",
+			"typeOf": ["pledge"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["hy", "poth", "e", "cate"]
+	},
+	"pronunciation": {
+		"all": "ha\u026a'p\u0251\u03b8\u0259,ke\u026at"
+	}
+}

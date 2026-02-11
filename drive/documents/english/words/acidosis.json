@@ -1,0 +1,27 @@
+{
+	"word": "acidosis",
+	"results": [
+		{
+			"definition": "abnormally high acidity (excess hydrogen-ion concentration) of the blood and other body tissues",
+			"partOfSpeech": "noun",
+			"typeOf": ["pathology"],
+			"hasTypes": [
+				"diabetic acidosis",
+				"ketoacidosis",
+				"carbon dioxide acidosis",
+				"respiratory acidosis",
+				"starvation acidosis",
+				"metabolic acidosis"
+			],
+			"derivation": ["acidotic"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ac", "i", "do", "sis"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6s\u026a'do\u028as\u026as"
+	},
+	"frequency": 1.82
+}

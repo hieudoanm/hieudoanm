@@ -1,0 +1,24 @@
+{
+	"frequency": 2.02,
+	"word": "ptolemaic",
+	"results": [
+		{
+			"definition": "of or relating to the geocentric Ptolemaic system",
+			"partOfSpeech": "adjective",
+			"similarTo": ["geocentric"]
+		},
+		{
+			"definition": "of or relating to the astronomer Ptolemy",
+			"partOfSpeech": null,
+			"pertainsTo": ["ptolemy"],
+			"derivation": ["ptolemy"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["ptol", "e", "ma", "ic"]
+	},
+	"pronunciation": {
+		"all": ",t\u0251l\u0259'me\u026a\u026ak"
+	}
+}

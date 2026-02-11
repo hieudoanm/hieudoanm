@@ -1,0 +1,41 @@
+{
+	"word": "foreboding",
+	"results": [
+		{
+			"definition": "ominously prophetic",
+			"partOfSpeech": "adjective",
+			"synonyms": ["fateful", "portentous"],
+			"similarTo": ["prophetic", "prophetical"]
+		},
+		{
+			"definition": "a feeling of evil to come",
+			"partOfSpeech": "noun",
+			"synonyms": ["boding", "premonition", "presentiment"],
+			"typeOf": ["apprehension", "apprehensiveness", "dread"],
+			"hasTypes": ["presage", "shadow"],
+			"derivation": ["forebode"],
+			"examples": ["a steadily escalating sense of foreboding"]
+		},
+		{
+			"definition": "an unfavorable omen",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"prognostication",
+				"presage",
+				"omen",
+				"portent",
+				"prodigy",
+				"prognostic"
+			],
+			"derivation": ["forebode"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["fore", "bod", "ing"]
+	},
+	"pronunciation": {
+		"all": "fo\u028ar'bo\u028ad\u026a\u014b"
+	},
+	"frequency": 2.66
+}

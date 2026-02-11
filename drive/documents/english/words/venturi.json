@@ -1,0 +1,21 @@
+{
+	"frequency": 2.31,
+	"word": "venturi",
+	"results": [
+		{
+			"definition": "United States architect (born in 1925)",
+			"partOfSpeech": "noun",
+			"synonyms": ["robert charles venturi", "robert venturi"],
+			"instanceOf": ["architect", "designer"]
+		},
+		{
+			"definition": "a tube with a constriction; used to control fluid flow (as in the air inlet of a carburetor)",
+			"partOfSpeech": "noun",
+			"typeOf": ["tube", "tubing"],
+			"partOf": ["carburetor", "carburettor"]
+		}
+	],
+	"pronunciation": {
+		"all": "v\u025bn'tj\u028a\u0259ri"
+	}
+}

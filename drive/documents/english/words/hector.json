@@ -1,0 +1,34 @@
+{
+	"word": "hector",
+	"results": [
+		{
+			"definition": "be bossy towards",
+			"partOfSpeech": "verb",
+			"synonyms": [
+				"ballyrag",
+				"boss around",
+				"browbeat",
+				"bully",
+				"bullyrag",
+				"push around",
+				"strong-arm"
+			],
+			"typeOf": ["intimidate"],
+			"hasTypes": ["domineer", "tyrannise", "tyrannize"]
+		},
+		{
+			"definition": "(Greek mythology) a mythical Trojan who was killed by Achilles during the Trojan War",
+			"partOfSpeech": "noun",
+			"inCategory": ["greek mythology"],
+			"instanceOf": ["mythical being"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["hec", "tor"]
+	},
+	"pronunciation": {
+		"all": "'h\u025bkt\u0259r"
+	},
+	"frequency": 3.93
+}

@@ -1,0 +1,30 @@
+{
+	"word": "arteriosclerosis",
+	"results": [
+		{
+			"definition": "sclerosis of the arterial walls",
+			"partOfSpeech": "noun",
+			"synonyms": [
+				"arterial sclerosis",
+				"coronary-artery disease",
+				"hardening of the arteries",
+				"induration of the arteries"
+			],
+			"typeOf": ["induration", "sclerosis"],
+			"hasTypes": [
+				"arteriosclerosis obliterans",
+				"atherosclerosis",
+				"coronary artery disease"
+			],
+			"derivation": ["arteriosclerotic"]
+		}
+	],
+	"syllables": {
+		"count": 7,
+		"list": ["ar", "te", "ri", "o", "scle", "ro", "sis"]
+	},
+	"pronunciation": {
+		"all": "\u0251r,tirio\u028askl\u0259'ro\u028as\u026as"
+	},
+	"frequency": 1.73
+}

@@ -1,0 +1,28 @@
+{
+	"word": "revitalize",
+	"results": [
+		{
+			"definition": "restore strength",
+			"partOfSpeech": "verb",
+			"synonyms": ["regenerate"],
+			"typeOf": ["better", "improve", "ameliorate", "meliorate", "amend"],
+			"hasTypes": ["rejuvenate"],
+			"examples": ["This food revitalized the patient"]
+		},
+		{
+			"definition": "give new life or vigor to",
+			"partOfSpeech": "verb",
+			"synonyms": ["revitalise"],
+			"typeOf": ["regenerate", "renew"],
+			"derivation": ["revitalization"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["re", "vi", "tal", "ize"]
+	},
+	"pronunciation": {
+		"all": "ri'va\u026at\u0259,la\u026az"
+	},
+	"frequency": 2.2
+}

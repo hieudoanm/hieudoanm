@@ -1,0 +1,31 @@
+{
+	"frequency": 1.74,
+	"word": "expectoration",
+	"results": [
+		{
+			"definition": "the act of spitting (forcefully expelling saliva)",
+			"partOfSpeech": "noun",
+			"synonyms": ["spit", "spitting"],
+			"typeOf": ["projection", "ejection", "expulsion", "forcing out"],
+			"derivation": ["expectorate"]
+		},
+		{
+			"definition": "the process of coughing up and spitting out",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"activity",
+				"bodily function",
+				"bodily process",
+				"body process"
+			],
+			"derivation": ["expectorate"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["ex", "pec", "to", "ra", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u026ak,sp\u025bkt\u0259're\u026a\u0283\u0259n"
+	}
+}

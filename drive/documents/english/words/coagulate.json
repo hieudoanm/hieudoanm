@@ -1,0 +1,38 @@
+{
+	"word": "coagulate",
+	"results": [
+		{
+			"definition": "change from a liquid to a thickened or solid state",
+			"partOfSpeech": "verb",
+			"synonyms": ["clot"],
+			"typeOf": ["turn", "change state"],
+			"hasTypes": ["curdle"],
+			"derivation": ["coagulant", "coagulation", "coagulator", "coagulum"],
+			"examples": ["coagulated blood"]
+		},
+		{
+			"definition": "cause to change from a liquid to a solid or thickened state",
+			"partOfSpeech": "verb",
+			"synonyms": ["clot"],
+			"typeOf": ["change", "alter", "modify"],
+			"derivation": ["coagulation", "coagulum"]
+		},
+		{
+			"definition": "transformed from a liquid into a soft semisolid or solid mass",
+			"partOfSpeech": "adjective",
+			"synonyms": ["coagulated", "curdled", "grumose", "grumous"],
+			"similarTo": ["thick"],
+			"examples": ["coagulated blood"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["co", "ag", "u", "late"]
+	},
+	"pronunciation": {
+		"all": "ko\u028a'\u00e6\u0261j\u028a,le\u026at",
+		"adjective": "ko\u028a'\u00e6\u0261j\u0259l\u026at",
+		"verb": "ko\u028a'\u00e6\u0261j\u0259,le\u026at"
+	},
+	"frequency": 2.03
+}

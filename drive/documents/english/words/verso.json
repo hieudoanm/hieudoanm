@@ -1,0 +1,27 @@
+{
+	"word": "verso",
+	"results": [
+		{
+			"definition": "the side of a coin or medal that does not bear the principal design",
+			"partOfSpeech": "noun",
+			"synonyms": ["reverse"],
+			"typeOf": ["side"],
+			"hasTypes": ["tail"],
+			"partOf": ["coin"]
+		},
+		{
+			"definition": "left-hand page",
+			"partOfSpeech": "noun",
+			"typeOf": ["page"],
+			"antonyms": ["recto"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ver", "so"]
+	},
+	"pronunciation": {
+		"all": "'v\u025crso\u028a"
+	},
+	"frequency": 1.73
+}

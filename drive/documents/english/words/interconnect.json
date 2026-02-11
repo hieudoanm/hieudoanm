@@ -1,0 +1,25 @@
+{
+	"word": "interconnect",
+	"results": [
+		{
+			"definition": "cause to be interconnected or interwoven",
+			"partOfSpeech": "verb",
+			"synonyms": ["interlink"],
+			"typeOf": ["tie", "connect", "link up", "link"],
+			"derivation": ["interconnection"]
+		},
+		{
+			"definition": "be interwoven or interconnected",
+			"partOfSpeech": "verb",
+			"synonyms": ["complect", "interlink"],
+			"typeOf": ["unite", "connect", "join", "link", "link up"],
+			"hasTypes": ["intercommunicate"],
+			"derivation": ["interconnection"],
+			"examples": ["The bones are interconnected via the muscle"]
+		}
+	],
+	"pronunciation": {
+		"all": ",\u026ant\u0259rk\u0259'n\u025bkt"
+	},
+	"frequency": 1.73
+}

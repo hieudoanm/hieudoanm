@@ -1,0 +1,27 @@
+{
+	"word": "hadron",
+	"results": [
+		{
+			"definition": "any elementary particle that interacts strongly with other particles",
+			"partOfSpeech": "noun",
+			"typeOf": ["fundamental particle", "elementary particle"],
+			"hasTypes": [
+				"baryon",
+				"antibaryon",
+				"antimeson",
+				"meson",
+				"mesotron",
+				"heavy particle"
+			],
+			"hasParts": ["antiquark", "quark"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["had", "ron"]
+	},
+	"pronunciation": {
+		"all": "'h\u00e6dr\u0251n"
+	},
+	"frequency": 1.9
+}

@@ -1,0 +1,33 @@
+{
+	"word": "ephemeral",
+	"results": [
+		{
+			"definition": "lasting a very short time",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"fugacious",
+				"passing",
+				"short-lived",
+				"transient",
+				"transitory"
+			],
+			"similarTo": ["impermanent", "temporary"],
+			"derivation": ["ephemera", "ephemerality", "ephemeralness"],
+			"examples": ["the ephemeral joys of childhood"]
+		},
+		{
+			"definition": "anything short-lived, as an insect that lives only for a day in its winged form",
+			"partOfSpeech": "noun",
+			"synonyms": ["ephemeron"],
+			"typeOf": ["insect"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["e", "phem", "er", "al"]
+	},
+	"pronunciation": {
+		"all": "\u026a'f\u025bm\u0259r\u0259l"
+	},
+	"frequency": 2.68
+}

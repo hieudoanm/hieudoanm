@@ -1,0 +1,27 @@
+{
+	"word": "exemplification",
+	"results": [
+		{
+			"definition": "showing by example",
+			"partOfSpeech": "noun",
+			"synonyms": ["illustration"],
+			"typeOf": ["demo", "demonstration"],
+			"derivation": ["exemplify"]
+		},
+		{
+			"definition": "a representational or typifying form or model",
+			"partOfSpeech": "noun",
+			"synonyms": ["typification"],
+			"typeOf": ["representational process"],
+			"hasTypes": ["picture"],
+			"derivation": ["exemplify"]
+		}
+	],
+	"syllables": {
+		"count": 6,
+		"list": ["ex", "em", "pli", "fi", "ca", "tion"]
+	},
+	"pronunciation": {
+		"all": "\u026a\u0261,z\u025bmpl\u0259f\u0259'ke\u026a\u0283\u0259n"
+	}
+}

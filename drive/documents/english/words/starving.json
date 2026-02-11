@@ -1,0 +1,24 @@
+{
+	"word": "starving",
+	"results": [
+		{
+			"definition": "the act of depriving of food or subjecting to famine",
+			"partOfSpeech": "noun",
+			"synonyms": ["starvation"],
+			"typeOf": ["deprivation", "privation"],
+			"derivation": ["starve"]
+		},
+		{
+			"definition": "suffering from lack of food",
+			"partOfSpeech": "adjective",
+			"synonyms": ["starved"],
+			"similarTo": ["malnourished"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["starv", "ing"]
+	},
+	"pronunciation": "'st\u0251rv\u026a\u014b",
+	"frequency": 4.27
+}

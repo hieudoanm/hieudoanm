@@ -1,0 +1,28 @@
+{
+	"word": "paging",
+	"results": [
+		{
+			"definition": "the system of numbering pages",
+			"partOfSpeech": "noun",
+			"synonyms": ["folio", "page number", "pagination"],
+			"typeOf": ["number"],
+			"partOf": ["page"],
+			"derivation": ["page"]
+		},
+		{
+			"definition": "calling out the name of a person (especially by a loudspeaker system)",
+			"partOfSpeech": "noun",
+			"typeOf": ["utterance", "vocalization"],
+			"derivation": ["page"],
+			"examples": [
+				"the public address system in the hospital was used for paging"
+			]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pag", "ing"]
+	},
+	"pronunciation": "'pe\u026ad\u0292\u026a\u014b",
+	"frequency": 2.94
+}

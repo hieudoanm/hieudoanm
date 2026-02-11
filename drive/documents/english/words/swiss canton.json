@@ -1,0 +1,18 @@
+{
+	"word": "swiss canton",
+	"results": [
+		{
+			"definition": "one of the cantons of Switzerland",
+			"partOfSpeech": "noun",
+			"typeOf": ["canton"],
+			"hasInstances": ["ticino", "tessin"],
+			"partOf": [
+				"svizzera",
+				"swiss confederation",
+				"switzerland",
+				"schweiz",
+				"suisse"
+			]
+		}
+	]
+}

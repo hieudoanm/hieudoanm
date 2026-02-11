@@ -1,0 +1,32 @@
+{
+	"word": "aperture",
+	"results": [
+		{
+			"definition": "a device that controls amount of light admitted",
+			"partOfSpeech": "noun",
+			"typeOf": ["regulator"],
+			"partOf": ["camera", "photographic camera", "scope", "telescope"]
+		},
+		{
+			"definition": "a natural opening in something",
+			"partOfSpeech": "noun",
+			"typeOf": ["hole"],
+			"hasTypes": ["micropyle", "stoma", "pore", "pupil", "stomate"],
+			"partOf": ["oculus", "eye", "optic"]
+		},
+		{
+			"definition": "an man-made opening; usually small",
+			"partOfSpeech": "noun",
+			"typeOf": ["opening"],
+			"hasTypes": ["mouthpiece", "embouchure"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ap", "er", "ture"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6p\u0259r\u02a7\u0259r"
+	},
+	"frequency": 2.4
+}

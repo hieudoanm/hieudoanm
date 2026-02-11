@@ -1,0 +1,34 @@
+{
+	"word": "flagellum",
+	"results": [
+		{
+			"definition": "a whip used to inflict punishment (often used for pedantic humor)",
+			"partOfSpeech": "noun",
+			"synonyms": ["scourge"],
+			"typeOf": ["whip"],
+			"derivation": ["flagellate"]
+		},
+		{
+			"definition": "a lash-like appendage used for locomotion (e.g., in sperm cells and some bacteria and protozoa)",
+			"partOfSpeech": "noun",
+			"typeOf": ["process", "appendage", "outgrowth"],
+			"partOf": [
+				"sperm cell",
+				"spermatozoan",
+				"spermatozoon",
+				"true bacteria",
+				"sperm",
+				"eubacteria",
+				"eubacterium"
+			],
+			"derivation": ["flagellate"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["fla", "gel", "lum"]
+	},
+	"pronunciation": {
+		"all": "fl\u0259'd\u0292\u025bl\u0259m"
+	}
+}

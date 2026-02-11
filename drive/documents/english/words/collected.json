@@ -1,0 +1,36 @@
+{
+	"word": "collected",
+	"results": [
+		{
+			"definition": "in full control of your faculties",
+			"partOfSpeech": "adjective",
+			"synonyms": [
+				"equanimous",
+				"poised",
+				"self-collected",
+				"self-contained",
+				"self-possessed"
+			],
+			"similarTo": ["composed"],
+			"examples": [
+				"the witness remained collected throughout the cross-examination"
+			]
+		},
+		{
+			"definition": "brought together in one place",
+			"partOfSpeech": "adjective",
+			"synonyms": ["gathered"],
+			"antonyms": ["uncollected"],
+			"participle": ["collect"],
+			"examples": ["the collected works of Milton"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["col", "lect", "ed"]
+	},
+	"pronunciation": {
+		"all": "k\u0259'l\u025bkt\u026ad"
+	},
+	"frequency": 3.89
+}

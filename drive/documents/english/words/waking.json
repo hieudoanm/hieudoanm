@@ -1,0 +1,27 @@
+{
+	"word": "waking",
+	"results": [
+		{
+			"definition": "marked by full consciousness or alertness",
+			"partOfSpeech": "adjective",
+			"synonyms": ["wakeful"],
+			"similarTo": ["awake"],
+			"examples": ["worked every moment of my waking hours"]
+		},
+		{
+			"definition": "the state of remaining awake",
+			"partOfSpeech": "noun",
+			"typeOf": ["consciousness"],
+			"hasTypes": ["wakefulness"],
+			"antonyms": ["sleeping"],
+			"derivation": ["wake"],
+			"examples": ["days of danger and nights of waking"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["wak", "ing"]
+	},
+	"pronunciation": "'we\u026ak\u026a\u014b",
+	"frequency": 3.9
+}

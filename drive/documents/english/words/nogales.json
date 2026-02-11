@@ -1,0 +1,25 @@
+{
+	"word": "nogales",
+	"results": [
+		{
+			"definition": "a town in Arizona on the Mexican border opposite Nogales, Mexico",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town", "point of entry", "port of entry"],
+			"partOf": ["arizona", "az", "grand canyon state"]
+		},
+		{
+			"definition": "a town in northern Mexico on the border of Arizona",
+			"partOfSpeech": "noun",
+			"instanceOf": ["town"],
+			"partOf": ["mexico", "united mexican states"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["no", "gal", "es"]
+	},
+	"pronunciation": {
+		"all": "n\u0259'\u0261\u00e6l\u026as"
+	},
+	"frequency": 1.73
+}

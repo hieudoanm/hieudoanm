@@ -1,0 +1,35 @@
+{
+	"word": "slugger",
+	"results": [
+		{
+			"definition": "a boxer noted for an ability to deliver hard punches",
+			"partOfSpeech": "noun",
+			"synonyms": ["slogger"],
+			"typeOf": ["boxer", "pugilist"],
+			"derivation": ["slug"]
+		},
+		{
+			"definition": "(baseball) a ballplayer who is batting",
+			"partOfSpeech": "noun",
+			"synonyms": ["batsman", "batter", "hitter"],
+			"inCategory": ["baseball game", "baseball", "ball"],
+			"typeOf": ["baseball player", "ballplayer"],
+			"hasTypes": [
+				"whiffer",
+				"bunter",
+				"designated hitter",
+				"pinch hitter",
+				"switch-hitter"
+			],
+			"derivation": ["slug"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["slug", "ger"]
+	},
+	"pronunciation": {
+		"all": "'sl\u0259\u0261\u0259r"
+	},
+	"frequency": 2.79
+}

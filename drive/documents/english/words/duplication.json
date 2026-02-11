@@ -1,0 +1,37 @@
+{
+	"word": "duplication",
+	"results": [
+		{
+			"definition": "a copy that corresponds to an original exactly",
+			"partOfSpeech": "noun",
+			"synonyms": ["duplicate"],
+			"typeOf": ["copy"],
+			"hasTypes": [
+				"computer backup",
+				"twin",
+				"backup",
+				"counterpart",
+				"match",
+				"mate",
+				"similitude"
+			],
+			"derivation": ["duplicate"]
+		},
+		{
+			"definition": "the act of copying or making a duplicate (or duplicates) of something",
+			"partOfSpeech": "noun",
+			"synonyms": ["gemination"],
+			"typeOf": ["copying"],
+			"derivation": ["duplicate"],
+			"examples": ["this kind of duplication is wasteful"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["du", "pli", "ca", "tion"]
+	},
+	"pronunciation": {
+		"all": ",dupl\u0259'ke\u026a\u0283\u0259n"
+	},
+	"frequency": 1.97
+}

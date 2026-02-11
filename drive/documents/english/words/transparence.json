@@ -1,0 +1,27 @@
+{
+	"word": "transparence",
+	"results": [
+		{
+			"definition": "the quality of being clear and transparent",
+			"partOfSpeech": "noun",
+			"synonyms": ["transparency", "transparentness"],
+			"typeOf": ["clearness", "uncloudedness", "clarity"],
+			"hasTypes": ["pellucidity", "limpidity", "pellucidness"],
+			"derivation": ["transparent"]
+		},
+		{
+			"definition": "permitting the free passage of electromagnetic radiation",
+			"partOfSpeech": "noun",
+			"synonyms": ["transparency"],
+			"typeOf": ["physical phenomenon"],
+			"derivation": ["transparent"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["trans", "par", "ence"]
+	},
+	"pronunciation": {
+		"all": "tr\u00e6ns'p\u00e6r\u0259ns"
+	}
+}

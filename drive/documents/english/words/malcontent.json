@@ -1,0 +1,39 @@
+{
+	"word": "malcontent",
+	"results": [
+		{
+			"definition": "discontented as toward authority",
+			"partOfSpeech": "adjective",
+			"synonyms": ["disaffected", "ill-affected", "rebellious"],
+			"similarTo": ["discontent", "discontented"]
+		},
+		{
+			"definition": "a person who is discontented or disgusted",
+			"partOfSpeech": "noun",
+			"typeOf": [
+				"mortal",
+				"somebody",
+				"someone",
+				"person",
+				"soul",
+				"individual"
+			],
+			"hasTypes": [
+				"caviler",
+				"caviller",
+				"pettifogger",
+				"quibbler",
+				"sorehead",
+				"squabbler"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mal", "con", "tent"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6lk\u0259n,t\u025bnt"
+	},
+	"frequency": 1.97
+}

@@ -1,0 +1,21 @@
+{
+	"word": "obsessive-compulsive",
+	"results": [
+		{
+			"definition": "a person with obsessive-compulsive characteristics",
+			"partOfSpeech": "noun",
+			"typeOf": ["mental case", "neurotic", "psychoneurotic"],
+			"derivation": ["obsessive-compulsive disorder"]
+		},
+		{
+			"definition": "characterized by obsessions and compulsions",
+			"partOfSpeech": "adjective",
+			"similarTo": ["neurotic", "psychoneurotic"],
+			"derivation": ["obsessive-compulsive disorder"],
+			"examples": ["obsessive-compulsive neurosis"]
+		}
+	],
+	"pronunciation": {
+		"all": "\u0259b's\u025bs\u026av_k\u0259m'p\u0259ls\u026av"
+	}
+}

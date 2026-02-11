@@ -1,0 +1,30 @@
+{
+	"word": "isomerize",
+	"results": [
+		{
+			"definition": "change into an isomer",
+			"partOfSpeech": "verb",
+			"synonyms": ["isomerise"],
+			"inCategory": ["chemical science", "chemistry"],
+			"typeOf": ["change"],
+			"verbGroup": ["isomerise"],
+			"derivation": ["isomerization"]
+		},
+		{
+			"definition": "cause to change into an isomer",
+			"partOfSpeech": "verb",
+			"synonyms": ["isomerise"],
+			"inCategory": ["chemistry", "chemical science"],
+			"typeOf": ["modify", "alter", "change"],
+			"verbGroup": ["isomerise"],
+			"derivation": ["isomerization"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["i", "som", "er", "ize"]
+	},
+	"pronunciation": {
+		"all": "a\u026a's\u0251m\u0259,ra\u026az"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"word": "satsuma",
+	"results": [
+		{
+			"definition": "a variety of mandarin orange",
+			"partOfSpeech": "noun",
+			"synonyms": ["satsuma tree"],
+			"typeOf": [
+				"mandarin orange tree",
+				"mandarin",
+				"mandarin orange",
+				"citrus reticulata"
+			]
+		},
+		{
+			"definition": "medium-sized largely seedless mandarin orange with thin smooth skin",
+			"partOfSpeech": "noun",
+			"typeOf": ["mandarin orange", "mandarin"],
+			"partOf": ["satsuma tree"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sa", "tsu", "ma"]
+	},
+	"pronunciation": {
+		"all": "'s\u0251ts\u028a,m\u0251"
+	},
+	"frequency": 2.3
+}

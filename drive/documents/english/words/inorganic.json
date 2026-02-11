@@ -1,0 +1,28 @@
+{
+	"word": "inorganic",
+	"results": [
+		{
+			"definition": "lacking the properties characteristic of living organisms",
+			"partOfSpeech": "adjective",
+			"similarTo": ["amorphous", "artificial", "mineral", "unstructured"],
+			"antonyms": ["organic"]
+		},
+		{
+			"definition": "relating or belonging to the class of compounds not having a carbon basis",
+			"partOfSpeech": "adjective",
+			"inCategory": ["chemical science", "chemistry"],
+			"antonyms": ["organic"],
+			"examples": [
+				"hydrochloric and sulfuric acids are called inorganic substances"
+			]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "or", "gan", "ic"]
+	},
+	"pronunciation": {
+		"all": ",\u026an\u0254r'\u0261\u00e6n\u026ak"
+	},
+	"frequency": 2.33
+}

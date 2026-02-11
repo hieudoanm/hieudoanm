@@ -1,0 +1,28 @@
+{
+	"word": "telecast",
+	"results": [
+		{
+			"definition": "broadcast via television",
+			"partOfSpeech": "verb",
+			"synonyms": ["televise"],
+			"inCategory": ["telecasting", "television", "tv", "video"],
+			"typeOf": ["transmit", "air", "beam", "broadcast", "send"],
+			"hasTypes": ["colorcast"],
+			"derivation": ["telecaster", "telecasting"]
+		},
+		{
+			"definition": "a television broadcast",
+			"partOfSpeech": "noun",
+			"typeOf": ["broadcast"],
+			"hasParts": ["film clip"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["tel", "e", "cast"]
+	},
+	"pronunciation": {
+		"all": "'t\u025bl\u0259,k\u00e6st"
+	},
+	"frequency": 3.04
+}

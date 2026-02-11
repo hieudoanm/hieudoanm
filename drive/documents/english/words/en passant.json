@@ -1,0 +1,23 @@
+{
+	"word": "en passant",
+	"results": [
+		{
+			"definition": "incidentally; in the course of doing something else",
+			"partOfSpeech": "adverb",
+			"synonyms": ["in passing"]
+		},
+		{
+			"definition": "(chess) a chess pawn that is moved two squares can be captured by an opponent's pawn commanding the square that was passed",
+			"partOfSpeech": "noun",
+			"inCategory": ["chess", "chess game"],
+			"typeOf": ["capture"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["en pas", "sant"]
+	},
+	"pronunciation": {
+		"all": ",\u0251n_p\u00e6's\u0251nt"
+	}
+}

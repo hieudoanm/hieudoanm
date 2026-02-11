@@ -1,0 +1,22 @@
+{
+	"word": "attache",
+	"results": [
+		{
+			"definition": "a shallow and rectangular briefcase",
+			"partOfSpeech": "noun",
+			"synonyms": ["attache case"],
+			"typeOf": ["briefcase"]
+		},
+		{
+			"definition": "a specialist assigned to the staff of a diplomatic mission",
+			"partOfSpeech": "noun",
+			"typeOf": ["specialiser", "specialist", "specializer"],
+			"hasTypes": ["military attache", "cultural attache"],
+			"memberOf": ["diplomatic mission"]
+		}
+	],
+	"pronunciation": {
+		"all": ",\u00e6t\u0259'\u0283e\u026a"
+	},
+	"frequency": 2.56
+}

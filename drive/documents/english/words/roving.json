@@ -1,0 +1,27 @@
+{
+	"word": "roving",
+	"results": [
+		{
+			"definition": "travelling about without any clear destination",
+			"partOfSpeech": "noun",
+			"synonyms": ["vagabondage", "wandering"],
+			"typeOf": ["travel", "traveling", "travelling"],
+			"hasTypes": ["drifting"],
+			"derivation": ["rove"]
+		},
+		{
+			"definition": "migratory",
+			"partOfSpeech": "adjective",
+			"synonyms": ["mobile", "nomadic", "peregrine", "wandering"],
+			"similarTo": ["unsettled"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["rov", "ing"]
+	},
+	"pronunciation": {
+		"all": "'ro\u028av\u026a\u014b"
+	},
+	"frequency": 2.77
+}

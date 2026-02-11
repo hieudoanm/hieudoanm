@@ -1,0 +1,34 @@
+{
+	"word": "inaugurate",
+	"results": [
+		{
+			"definition": "commence officially",
+			"partOfSpeech": "verb",
+			"synonyms": ["kick off"],
+			"typeOf": ["start", "start up", "commence", "embark on"],
+			"hasTypes": ["swear in", "dedicate"],
+			"derivation": ["inauguration"]
+		},
+		{
+			"definition": "be a precursor of",
+			"partOfSpeech": "verb",
+			"synonyms": ["introduce", "usher in"],
+			"typeOf": ["begin", "commence", "lead off", "start"],
+			"derivation": ["augury"]
+		},
+		{
+			"definition": "open ceremoniously or dedicate formally",
+			"partOfSpeech": "verb",
+			"typeOf": ["open"],
+			"derivation": ["inauguration"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["in", "au", "gu", "rate"]
+	},
+	"pronunciation": {
+		"all": "\u026an'\u0254\u0261j\u0259,re\u026at"
+	},
+	"frequency": 2.69
+}

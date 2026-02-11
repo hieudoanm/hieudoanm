@@ -1,0 +1,26 @@
+{
+	"word": "amity",
+	"results": [
+		{
+			"definition": "a cordial disposition",
+			"partOfSpeech": "noun",
+			"synonyms": ["cordiality"],
+			"typeOf": ["friendliness"]
+		},
+		{
+			"definition": "a state of friendship and cordiality",
+			"partOfSpeech": "noun",
+			"typeOf": ["peace"],
+			"hasTypes": ["peaceableness", "peacefulness"],
+			"derivation": ["amiable"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["am", "i", "ty"]
+	},
+	"pronunciation": {
+		"all": "'\u00e6m\u026ati"
+	},
+	"frequency": 1.97
+}

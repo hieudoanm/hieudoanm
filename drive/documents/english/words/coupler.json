@@ -1,0 +1,29 @@
+{
+	"word": "coupler",
+	"results": [
+		{
+			"definition": "a mechanical device that serves to connect the ends of adjacent objects",
+			"partOfSpeech": "noun",
+			"synonyms": ["coupling"],
+			"typeOf": ["mechanical device"],
+			"hasTypes": [
+				"clutch",
+				"fluid drive",
+				"swivel",
+				"turnbuckle",
+				"universal",
+				"clevis",
+				"universal joint"
+			],
+			"derivation": ["couple"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["cou", "pler"]
+	},
+	"pronunciation": {
+		"all": "'k\u0259pl\u0259r"
+	},
+	"frequency": 1.6
+}

@@ -1,0 +1,34 @@
+{
+	"word": "nausea",
+	"results": [
+		{
+			"definition": "the state that precedes vomiting",
+			"partOfSpeech": "noun",
+			"synonyms": ["sickness"],
+			"typeOf": ["symptom"],
+			"hasTypes": [
+				"morning sickness",
+				"motion sickness",
+				"qualm",
+				"queasiness",
+				"squeamishness",
+				"kinetosis"
+			],
+			"derivation": ["nauseate", "nauseous"]
+		},
+		{
+			"definition": "disgust so strong it makes you feel sick",
+			"partOfSpeech": "noun",
+			"typeOf": ["disgust"],
+			"derivation": ["nauseate", "nauseous"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["nau", "se", "a"]
+	},
+	"pronunciation": {
+		"all": "'n\u0254zi\u0259"
+	},
+	"frequency": 3.21
+}

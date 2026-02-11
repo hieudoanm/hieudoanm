@@ -1,0 +1,26 @@
+{
+	"word": "surfboard",
+	"results": [
+		{
+			"definition": "ride the waves of the sea with a surfboard",
+			"partOfSpeech": "verb",
+			"synonyms": ["surf"],
+			"inCategory": ["athletics", "sport"],
+			"typeOf": ["glide"],
+			"hasTypes": ["windsurf"]
+		},
+		{
+			"definition": "a narrow buoyant board for riding surf",
+			"partOfSpeech": "noun",
+			"typeOf": ["board"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["surf", "board"]
+	},
+	"pronunciation": {
+		"all": "'s\u025crf,bo\u028ard"
+	},
+	"frequency": 2.99
+}

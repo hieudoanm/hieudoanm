@@ -1,0 +1,32 @@
+{
+	"word": "vesicant",
+	"results": [
+		{
+			"definition": "a chemical agent that causes blistering (especially mustard gas)",
+			"partOfSpeech": "noun",
+			"synonyms": ["vesicatory"],
+			"typeOf": ["chemical agent"],
+			"hasTypes": [
+				"dichloroethyl sulfide",
+				"blistering agent",
+				"mustard gas",
+				"sulfur mustard",
+				"mustard agent"
+			]
+		},
+		{
+			"definition": "causing blisters",
+			"partOfSpeech": "adjective",
+			"synonyms": ["vesicatory"],
+			"similarTo": ["noxious"],
+			"derivation": ["vesicate"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ves", "i", "cant"]
+	},
+	"pronunciation": {
+		"all": "'v\u025bs\u0259k_\u0251nt"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"word": "singleton",
+	"results": [
+		{
+			"definition": "a set containing a single member",
+			"partOfSpeech": "noun",
+			"typeOf": ["set"]
+		},
+		{
+			"definition": "a single object (as distinguished from a pair)",
+			"partOfSpeech": "noun",
+			"typeOf": ["ace", "i", "unity", "one", "single", "1"],
+			"hasTypes": ["mate", "fellow"]
+		},
+		{
+			"definition": "the playing card that is the only card in a suit held in a bridge hand as initially dealt",
+			"partOfSpeech": "noun",
+			"typeOf": ["playing card"]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["sin", "gle", "ton"]
+	},
+	"pronunciation": {
+		"all": "'s\u026a\u014b\u0261\u0259lt\u0259n"
+	},
+	"frequency": 2.69
+}

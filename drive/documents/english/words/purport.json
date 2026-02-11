@@ -1,0 +1,39 @@
+{
+	"word": "purport",
+	"results": [
+		{
+			"definition": "the pervading meaning or tenor",
+			"partOfSpeech": "noun",
+			"synonyms": ["drift"],
+			"typeOf": ["tenor", "strain"]
+		},
+		{
+			"definition": "the intended meaning of a communication",
+			"partOfSpeech": "noun",
+			"synonyms": ["intent", "spirit"],
+			"typeOf": ["import", "meaning", "significance", "signification"]
+		},
+		{
+			"definition": "propose or intend",
+			"partOfSpeech": "verb",
+			"synonyms": ["aim", "propose", "purpose"],
+			"typeOf": ["think", "mean", "intend"]
+		},
+		{
+			"definition": "have the often specious appearance of being, intending, or claiming",
+			"partOfSpeech": "verb",
+			"typeOf": ["claim"],
+			"examples": ["The letter purports to express people's opinion"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["pur", "port"]
+	},
+	"pronunciation": {
+		"all": "'p\u0259r,po\u028art",
+		"noun": "'p\u025crpo\u028art",
+		"verb": "p\u0259r'po\u028art"
+	},
+	"frequency": 2.03
+}

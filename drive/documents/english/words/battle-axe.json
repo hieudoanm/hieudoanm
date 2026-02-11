@@ -1,0 +1,26 @@
+{
+	"word": "battle-axe",
+	"results": [
+		{
+			"definition": "a sharp-tongued domineering wife",
+			"partOfSpeech": "noun",
+			"synonyms": ["battle-ax"],
+			"typeOf": ["wife", "married woman"]
+		},
+		{
+			"definition": "a broadax used as a weapon",
+			"partOfSpeech": "noun",
+			"synonyms": ["battle-ax"],
+			"typeOf": ["broadax", "broadaxe"],
+			"hasTypes": ["poleaxe", "lochaber ax", "poleax"],
+			"partOf": ["halberd"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bat", "tle-axe"]
+	},
+	"pronunciation": {
+		"all": "'b\u00e6t\u0259l_\u00e6ks"
+	}
+}

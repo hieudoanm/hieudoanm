@@ -1,0 +1,21 @@
+{
+	"word": "bird louse",
+	"results": [
+		{
+			"definition": "wingless insect with mouth parts adapted for biting; mostly parasitic on birds",
+			"partOfSpeech": "noun",
+			"synonyms": ["biting louse", "louse"],
+			"typeOf": ["insect"],
+			"hasTypes": [
+				"menopon gallinae",
+				"menopon palladum",
+				"shaft louse",
+				"chicken louse"
+			],
+			"memberOf": ["mallophaga", "order mallophaga"]
+		}
+	],
+	"pronunciation": {
+		"all": "b\u025crd_la\u028as"
+	}
+}

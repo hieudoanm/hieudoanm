@@ -1,0 +1,26 @@
+{
+	"word": "hamster",
+	"results": [
+		{
+			"definition": "short-tailed Old World burrowing rodent with large cheek pouches",
+			"partOfSpeech": "noun",
+			"typeOf": ["rodent", "gnawer"],
+			"hasTypes": [
+				"eurasian hamster",
+				"golden hamster",
+				"mesocricetus auratus",
+				"syrian hamster",
+				"cricetus cricetus"
+			],
+			"memberOf": ["genus cricetus", "cricetus"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ham", "ster"]
+	},
+	"pronunciation": {
+		"all": "'h\u00e6mst\u0259r"
+	},
+	"frequency": 3.44
+}

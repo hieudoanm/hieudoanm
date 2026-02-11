@@ -1,0 +1,39 @@
+{
+	"word": "acknowledged",
+	"results": [
+		{
+			"definition": "generally accepted",
+			"partOfSpeech": "adjective",
+			"similarTo": ["unquestionable"]
+		},
+		{
+			"definition": "recognized or made known or admitted",
+			"partOfSpeech": "adjective",
+			"also": ["known"],
+			"attribute": ["recognition", "acknowledgement", "acknowledgment"],
+			"similarTo": [
+				"declarable",
+				"given",
+				"granted",
+				"assumptive",
+				"putative",
+				"recognised",
+				"recognized",
+				"self-confessed",
+				"accepted"
+			],
+			"antonyms": ["unacknowledged"],
+			"examples": [
+				"the acknowledged leader of the community",
+				"a woman of acknowledged accomplishments",
+				"his acknowledged error"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["ac", "knowl", "edged"]
+	},
+	"pronunciation": "\u00e6k'n\u0251l\u026ad\u0292d",
+	"frequency": 3.17
+}

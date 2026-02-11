@@ -1,0 +1,35 @@
+{
+	"word": "inalienable",
+	"results": [
+		{
+			"definition": "not subject to forfeiture",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unforfeitable"],
+			"similarTo": ["indefeasible"]
+		},
+		{
+			"definition": "incapable of being repudiated or transferred to another",
+			"partOfSpeech": "adjective",
+			"synonyms": ["unalienable"],
+			"also": ["intrinsical", "intrinsic"],
+			"similarTo": [
+				"untransferable",
+				"infrangible",
+				"absolute",
+				"inviolable",
+				"non-negotiable",
+				"nontransferable",
+				"unassignable"
+			],
+			"antonyms": ["alienable"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["in", "al", "ien", "a", "ble"]
+	},
+	"pronunciation": {
+		"all": "\u026an'e\u026alj\u0259n\u0259b\u0259l"
+	},
+	"frequency": 2.3
+}

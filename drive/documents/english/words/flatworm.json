@@ -1,0 +1,30 @@
+{
+	"word": "flatworm",
+	"results": [
+		{
+			"definition": "parasitic or free-living worms having a flattened body",
+			"partOfSpeech": "noun",
+			"synonyms": ["platyhelminth"],
+			"typeOf": ["worm"],
+			"hasTypes": [
+				"fluke",
+				"planarian",
+				"tapeworm",
+				"trematode",
+				"trematode worm",
+				"planaria",
+				"cestode"
+			],
+			"memberOf": ["phylum platyhelminthes", "platyhelminthes"],
+			"hasParts": ["flame cell"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["flat", "worm"]
+	},
+	"pronunciation": {
+		"all": "'fl\u00e6t,w\u025crm"
+	},
+	"frequency": 1.73
+}

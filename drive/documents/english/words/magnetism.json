@@ -1,0 +1,33 @@
+{
+	"word": "magnetism",
+	"results": [
+		{
+			"definition": "the branch of science that studies magnetism",
+			"partOfSpeech": "noun",
+			"synonyms": ["magnetics"],
+			"typeOf": ["geophysical science", "geophysics"]
+		},
+		{
+			"definition": "attraction for iron; associated with electric currents as well as magnets; characterized by fields of force",
+			"partOfSpeech": "noun",
+			"synonyms": ["magnetic attraction", "magnetic force"],
+			"attribute": ["attractive"],
+			"typeOf": ["attractive force", "attraction"],
+			"hasTypes": [
+				"antiferromagnetism",
+				"ferromagnetism",
+				"diamagnetism",
+				"electromagnetism",
+				"paramagnetism"
+			]
+		}
+	],
+	"syllables": {
+		"count": 3,
+		"list": ["mag", "net", "ism"]
+	},
+	"pronunciation": {
+		"all": "'m\u00e6gn\u026a,t\u026az\u0259m"
+	},
+	"frequency": 2.92
+}

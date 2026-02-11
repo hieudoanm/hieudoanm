@@ -1,0 +1,26 @@
+{
+	"word": "belgian",
+	"results": [
+		{
+			"definition": "a native or inhabitant of Belgium",
+			"partOfSpeech": "noun",
+			"typeOf": ["european"],
+			"hasTypes": ["fleming", "walloon"],
+			"memberOf": ["belgique", "belgium", "kingdom of belgium"]
+		},
+		{
+			"definition": "of or relating to or characteristic of Belgium or the Belgian people",
+			"partOfSpeech": null,
+			"pertainsTo": ["belgium"],
+			"derivation": ["belgium"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["bel", "gian"]
+	},
+	"pronunciation": {
+		"all": "'b\u025bld\u0292\u0259n"
+	},
+	"frequency": 3.41
+}

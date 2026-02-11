@@ -1,0 +1,28 @@
+{
+	"word": "bird watcher",
+	"results": [
+		{
+			"definition": "a person who identifies and studies birds in their natural habitats",
+			"partOfSpeech": "noun",
+			"synonyms": ["birder"],
+			"typeOf": ["amateur"],
+			"derivation": ["birdwatch"]
+		},
+		{
+			"definition": "a zoologist who studies birds",
+			"partOfSpeech": "noun",
+			"synonyms": ["ornithologist"],
+			"typeOf": ["animal scientist", "zoologist"],
+			"hasInstances": [
+				"wilson",
+				"audubon",
+				"alexander wilson",
+				"john james audubon"
+			],
+			"derivation": ["birdwatch"]
+		}
+	],
+	"pronunciation": {
+		"all": "b\u025crd_'w\u0251\u02a7\u0259r"
+	}
+}

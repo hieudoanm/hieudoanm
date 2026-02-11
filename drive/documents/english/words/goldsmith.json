@@ -1,0 +1,26 @@
+{
+	"word": "goldsmith",
+	"results": [
+		{
+			"definition": "Irish writer of novels and poetry and plays and essays (1728-1774)",
+			"partOfSpeech": "noun",
+			"synonyms": ["oliver goldsmith"],
+			"instanceOf": ["author", "writer"]
+		},
+		{
+			"definition": "an artisan who makes jewelry and other objects out of gold",
+			"partOfSpeech": "noun",
+			"synonyms": ["gold-worker", "goldworker"],
+			"typeOf": ["jeweller", "jeweler", "jewelry maker"],
+			"hasInstances": ["faberge", "peter carl faberge"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["gold", "smith"]
+	},
+	"pronunciation": {
+		"all": "'\u0261o\u028ald,sm\u026a\u03b8"
+	},
+	"frequency": 2.84
+}

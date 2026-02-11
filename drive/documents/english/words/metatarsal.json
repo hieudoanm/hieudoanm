@@ -1,0 +1,26 @@
+{
+	"word": "metatarsal",
+	"results": [
+		{
+			"definition": "any bone of the foot between the ankle and the toes",
+			"partOfSpeech": "noun",
+			"typeOf": ["bone", "os"],
+			"partOf": ["metatarsus"]
+		},
+		{
+			"definition": "of or relating to the metatarsus",
+			"partOfSpeech": null,
+			"pertainsTo": ["metatarsus"],
+			"derivation": ["metatarsus"],
+			"examples": ["metatarsal bones"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["met", "a", "tar", "sal"]
+	},
+	"pronunciation": {
+		"all": ",m\u025bt\u0259't\u0251rs\u0259l"
+	},
+	"frequency": 1.82
+}

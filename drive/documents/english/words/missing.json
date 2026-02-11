@@ -1,0 +1,25 @@
+{
+	"word": "missing",
+	"results": [
+		{
+			"definition": "nonexistent",
+			"partOfSpeech": "adjective",
+			"synonyms": ["absent", "lacking", "wanting"],
+			"similarTo": ["nonexistent"]
+		},
+		{
+			"definition": "not able to be found",
+			"partOfSpeech": "adjective",
+			"similarTo": ["lost"],
+			"examples": ["missing in action", "a missing person"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["mis", "sing"]
+	},
+	"pronunciation": {
+		"all": "'m\u026asi\u014b"
+	},
+	"frequency": 4.98
+}

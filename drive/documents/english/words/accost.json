@@ -1,0 +1,27 @@
+{
+	"word": "accost",
+	"results": [
+		{
+			"definition": "approach with an offer of sexual favors",
+			"partOfSpeech": "verb",
+			"synonyms": ["hook", "solicit"],
+			"typeOf": ["offer"],
+			"verbGroup": ["snare", "hook"]
+		},
+		{
+			"definition": "speak to someone",
+			"partOfSpeech": "verb",
+			"synonyms": ["address", "come up to"],
+			"typeOf": ["come", "come up"],
+			"hasTypes": ["greet", "approach", "recognise", "recognize"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["ac", "cost"]
+	},
+	"pronunciation": {
+		"all": "\u0259'k\u0254st"
+	},
+	"frequency": 1.82
+}

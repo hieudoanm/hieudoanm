@@ -1,0 +1,36 @@
+{
+	"word": "diagnostician",
+	"results": [
+		{
+			"definition": "a doctor who specializes in medical diagnosis",
+			"partOfSpeech": "noun",
+			"synonyms": ["pathologist"],
+			"typeOf": ["medical specialist", "specialist"],
+			"hasTypes": ["etiologist", "aetiologist"],
+			"hasInstances": [
+				"karl landsteiner",
+				"landsteiner",
+				"paget",
+				"peyton rous",
+				"rous",
+				"rudolf karl virchow",
+				"rudolf virchow",
+				"sir howard walter florey",
+				"sir james paget",
+				"virchow",
+				"florey",
+				"francis peyton rous",
+				"howard florey"
+			],
+			"derivation": ["diagnostics"]
+		}
+	],
+	"syllables": {
+		"count": 5,
+		"list": ["di", "ag", "nos", "ti", "cian"]
+	},
+	"pronunciation": {
+		"all": ",da\u026a\u0259gn\u0251'st\u026a\u0283\u0259n"
+	},
+	"frequency": 2.17
+}

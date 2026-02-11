@@ -1,0 +1,31 @@
+{
+	"word": "prerequisite",
+	"results": [
+		{
+			"definition": "something that is required in advance",
+			"partOfSpeech": "noun",
+			"synonyms": ["requirement"],
+			"typeOf": ["duty", "responsibility", "obligation"],
+			"hasTypes": [
+				"precondition",
+				"essential condition",
+				"academic requirement",
+				"sine qua non"
+			],
+			"examples": ["Latin was a prerequisite for admission"]
+		},
+		{
+			"definition": "required as a prior condition or course of study",
+			"partOfSpeech": "adjective",
+			"similarTo": ["obligatory"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["pre", "req", "ui", "site"]
+	},
+	"pronunciation": {
+		"all": "pr\u026a'r\u025bkw\u026az\u026at"
+	},
+	"frequency": 2.38
+}

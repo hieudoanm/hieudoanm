@@ -1,0 +1,34 @@
+{
+	"word": "anorectic",
+	"results": [
+		{
+			"definition": "a person suffering from anorexia nervosa",
+			"partOfSpeech": "noun",
+			"synonyms": ["anorexic"],
+			"typeOf": ["diseased person", "sick person", "sufferer"]
+		},
+		{
+			"definition": "suffering from anorexia nervosa; pathologically thin",
+			"partOfSpeech": "adjective",
+			"synonyms": ["anorexic"],
+			"similarTo": ["lean", "thin"],
+			"derivation": ["anorexia"]
+		},
+		{
+			"definition": "causing loss of appetite",
+			"partOfSpeech": "adjective",
+			"synonyms": ["anorexigenic"],
+			"similarTo": ["causative"],
+			"derivation": ["anorexia"],
+			"examples": ["an anorectic (or anorexigenic) drug"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["an", "o", "rec", "tic"]
+	},
+	"pronunciation": {
+		"all": ",\u00e6n\u0259'r\u025bkt\u026ak"
+	},
+	"frequency": 1.6
+}

@@ -1,0 +1,21 @@
+{
+	"word": "carthage",
+	"results": [
+		{
+			"definition": "an ancient city state on the north African coast near modern Tunis; founded by Phoenicians; destroyed and rebuilt by Romans; razed by Arabs in 697",
+			"partOfSpeech": "noun",
+			"instanceOf": ["city-state", "city state"],
+			"hasMembers": ["carthaginian"],
+			"partOf": ["phenicia", "phoenicia"],
+			"derivation": ["carthaginian"]
+		}
+	],
+	"syllables": {
+		"count": 2,
+		"list": ["car", "thage"]
+	},
+	"pronunciation": {
+		"all": "'k\u0251r\u03b8\u026ad\u0292"
+	},
+	"frequency": 2.4
+}

@@ -1,0 +1,26 @@
+{
+	"word": "donkey engine",
+	"results": [
+		{
+			"definition": "a locomotive for switching rolling stock in a railroad yard",
+			"partOfSpeech": "noun",
+			"synonyms": ["switch engine"],
+			"typeOf": [
+				"engine",
+				"locomotive",
+				"locomotive engine",
+				"railway locomotive"
+			]
+		},
+		{
+			"definition": "(nautical) a small engine (as one used on board ships to operate a windlass)",
+			"partOfSpeech": "noun",
+			"synonyms": ["auxiliary engine"],
+			"inCategory": ["ship"],
+			"typeOf": ["engine"]
+		}
+	],
+	"pronunciation": {
+		"all": "'d\u0251\u014bki_'\u025bnd\u0292\u0259n"
+	}
+}

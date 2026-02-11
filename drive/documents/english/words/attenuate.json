@@ -1,0 +1,36 @@
+{
+	"frequency": 2.19,
+	"word": "attenuate",
+	"results": [
+		{
+			"definition": "weaken the consistency of (a chemical substance)",
+			"partOfSpeech": "verb",
+			"synonyms": ["rarefy"],
+			"inCategory": ["chemistry", "chemical science"],
+			"typeOf": ["weaken"],
+			"derivation": ["attenuation"]
+		},
+		{
+			"definition": "reduced in strength",
+			"partOfSpeech": "adjective",
+			"synonyms": ["attenuated", "faded", "weakened"],
+			"similarTo": ["reduced", "decreased"]
+		},
+		{
+			"definition": "become weaker, in strength, value, or magnitude",
+			"partOfSpeech": "verb",
+			"typeOf": ["weaken"],
+			"hasTypes": ["refine"],
+			"derivation": ["attenuation", "attenuator"]
+		}
+	],
+	"syllables": {
+		"count": 4,
+		"list": ["at", "ten", "u", "ate"]
+	},
+	"pronunciation": {
+		"all": "\u0259't\u025bnj\u0259,we\u026at",
+		"adjective": "\u0259't\u025bnju\u026at",
+		"verb": "\u0259't\u025bnju,e\u026at"
+	}
+}
