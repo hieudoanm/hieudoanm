@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Service Status</title>
+    <meta
+      name="description"
+      content="Live status of third-party services, fetched from each provider's public status API." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Service Status</h1>
+        <p class="sub">
+          Third-party services this page depends on, polled live from each
+          provider's status API — refreshed every two minutes.
+        </p>
+      </div>
+    </header>
+    <main class="wrap">
+      <div class="toolbar">
+        <input
+          id="search"
+          type="search"
+          placeholder="Search services…"
+          autocomplete="off" />
+        <button id="refresh" type="button">Refresh</button>
+        <span id="updated" class="updated"></span>
+      </div>
+      <div id="summary" class="summary"></div>
+      <div id="groups"></div>
+      <p id="empty" class="empty" hidden>No matching services.</p>
+    </main>
+    <footer class="wrap foot">
+      <span id="foot-count"></span>
+    </footer>
+    <script src="scripts.js"></script>
+  </body>
+</html>
