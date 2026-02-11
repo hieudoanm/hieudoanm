@@ -1,0 +1,48 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "page/**"
+      - "assets/apps/**"
+      - ".github/workflows/ci.yaml"
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # Keep the repo layout (page/ + assets/apps/) so the relative
+      # "../assets/apps/..." image paths resolve identically on Pages
+      # and over file://.
+      - name: Stage site
+        run: |
+          mkdir -p _site/page _site/assets/apps
+          cp page/index.html page/styles.css _site/page/
+          cp assets/apps/*.png _site/assets/apps/
+          printf '%s\n' \
+            '<!doctype html><meta http-equiv="refresh" content="0; url=page/">' \
+            '<a href="page/">Projects</a>' > _site/index.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
