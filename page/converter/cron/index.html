@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cron</title>
+    <meta
+      name="description"
+      content="Build and preview cron expressions — presets, per-field editing, natural-language description, and upcoming run times." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Cron</h1>
+        <p class="sub">
+          Five-field cron expression builder — presets, plain-English
+          description, and the next executions.
+        </p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="panel">
+        <div class="toolbar">
+          <button class="btn" id="edit-toggle" type="button">Edit</button>
+          <span class="next-hint" id="next-hint"></span>
+        </div>
+
+        <div class="presets" id="presets"></div>
+
+        <div class="expr" id="expr-view">
+          <div class="expr-fields" id="expr-fields"></div>
+          <p class="desc" id="description"></p>
+          <div class="upcoming" id="upcoming">
+            <p class="label">Upcoming executions</p>
+            <div class="times" id="times"></div>
+          </div>
+        </div>
+
+        <div class="expr-edit" id="expr-edit" hidden>
+          <div class="edit-fields" id="edit-fields"></div>
+        </div>
+      </section>
+      <p class="note">
+        Standard 5-field cron: minute hour day-of-month month day-of-week.
+        Day-of-week accepts 0–7 (both 0 and 7 are Sunday). When both
+        day-of-month and day-of-week are restricted, either match fires.
+      </p>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hieu Doan — Projects</title>
+    <meta
+      name="description"
+      content="Projects by Hieu Doan: Rust tools, design systems, and neuroimaging software." />
+    <meta name="author" content="Hieu Doan" />
+    <meta name="theme-color" content="#0d9488" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: dark)"
+      content="#0f1115" />
+    <script>
+      // Set theme before first paint to avoid a flash of the wrong theme.
+      (function () {
+        var t = null;
+        try {
+          t = localStorage.getItem('theme');
+        } catch (e) {}
+        if (t !== 'dark' && t !== 'light') {
+          t = matchMedia('(prefers-color-scheme: dark)').matches
+            ? 'dark'
+            : 'light';
+        }
+        document.documentElement.dataset.theme = t;
+        var g = null;
+        try {
+          g = localStorage.getItem('glass');
+        } catch (e) {}
+        document.documentElement.dataset.glass =
+          g === 'flat' ? 'flat' : 'liquid';
+      })();
+    </script>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Hieu Doan — Projects" />
+    <meta property="og:title" content="Hieu Doan — Projects" />
+    <meta
+      property="og:description"
+      content="Projects by Hieu Doan: Rust tools, design systems, and neuroimaging software." />
+    <meta property="og:url" content="https://hieudoanm.github.io/hieudoanm/" />
+    <meta
+      property="og:image"
+      content="https://hieudoanm.github.io/hieudoanm/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="styles.css?v=17" />
+    <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <link rel="manifest" href="site.webmanifest" />
+  </head>
+  <body>
+    <svg class="svg-defs" width="0" height="0" aria-hidden="true">
+      <defs>
+        <filter
+          id="liquid-glass"
+          x="-20%"
+          y="-20%"
+          width="140%"
+          height="140%"
+          color-interpolation-filters="sRGB">
+          <feTurbulence
+            id="liquid-noise"
+            type="fractalNoise"
+            baseFrequency="0.011 0.018"
+            numOctaves="2"
+            seed="7"
+            result="noise" />
+          <feGaussianBlur in="noise" stdDeviation="1.3" result="warp" />
+          <feDisplacementMap
+            in="SourceGraphic"
+            in2="warp"
+            scale="13"
+            xChannelSelector="R"
+            yChannelSelector="G" />
+        </filter>
+      </defs>
+    </svg>
+    <div class="ambient" aria-hidden="true"></div>
+    <header class="site-header glass">
+      <div class="wrap">
+        <h1>Hieu Doan</h1>
+        <p class="lede">
+          Software engineer building tools at the intersection of technology,
+          science, and design — mostly in Rust, occasionally in Go and React.
+        </p>
+        <nav class="social" aria-label="Profiles">
+          <a
+            class="card-badge"
+            href="https://github.com/hieudoanm"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="GitHub profile">
+            <img
+              class="card-badge-img"
+              src="https://img.shields.io/badge/GitHub-hieudoanm-24292f?logo=github&logoColor=white&style=flat-square"
+              alt="GitHub"
+              loading="lazy" />
+          </a>
+          <a
+            class="card-badge"
+            href="https://www.linkedin.com/in/hieudoanm/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="LinkedIn profile">
+            <img
+              class="card-badge-img"
+              src="https://img.shields.io/badge/LinkedIn-hieudoanm-0A66C2?logo=linkedin&logoColor=white&style=flat-square"
+              alt="LinkedIn"
+              loading="lazy" />
+          </a>
+          <a
+            class="card-badge"
+            href="https://x.com/hieudoanm"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="X profile">
+            <img
+              class="card-badge-img"
+              src="https://img.shields.io/badge/X-hieudoanm-000000?logo=x&logoColor=white&style=flat-square"
+              alt="X"
+              loading="lazy" />
+          </a>
+          <a
+            class="card-badge"
+            href="https://hieudoanm.github.io/resume"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Resume">
+            <img
+              class="card-badge-img"
+              src="https://img.shields.io/badge/Resume-PDF-0d9488?style=flat-square"
+              alt="Resume"
+              loading="lazy" />
+          </a>
+          <a
+            class="card-badge"
+            href="https://ko-fi.com/hieudoan"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Support on Ko-fi">
+            <img
+              class="card-badge-img"
+              src="https://img.shields.io/badge/Ko--fi-hieudoan-29abe0?logo=kofi&logoColor=white&style=flat-square"
+              alt="Ko-fi"
+              loading="lazy" />
+          </a>
+        </nav>
+        <button
+          class="theme-toggle glass"
+          id="theme-toggle"
+          type="button"
+          aria-label="Toggle dark mode">
+          <svg
+            class="icon-sun"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true">
+            <circle cx="12" cy="12" r="4" />
+            <path
+              d="M12 2v2m0 16v2M4.9 4.9l1.4 1.4m11.4 11.4 1.4 1.4M2 12h2m16 0h2M4.9 19.1l1.4-1.4m11.4-11.4 1.4-1.4" />
+          </svg>
+          <svg
+            class="icon-moon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true">
+            <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z" />
+          </svg>
+        </button>
+        <button
+          class="glass-toggle glass"
+          id="glass-toggle"
+          type="button"
+          aria-label="Toggle liquid glass effect">
+          <svg
+            class="icon-drop"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true">
+            <path
+              d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7Z" />
+          </svg>
+          <svg
+            class="icon-flat"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true">
+            <rect x="3" y="3" width="18" height="18" rx="2" />
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div class="search-bar">
+        <input
+          class="search glass"
+          type="search"
+          id="app-search"
+          placeholder="Search projects, contributions, and minor apps…"
+          aria-label="Search"
+          autocomplete="off" />
+      </div>
+      <section aria-labelledby="contrib">
+        <h2 id="contrib">Open Contribution</h2>
+        <ul class="rows" id="contrib-list"></ul>
+      </section>
+
+      <section aria-labelledby="apps">
+        <div class="section-head">
+          <h2 id="apps">
+            Applications <span class="count" id="app-count"></span>
+          </h2>
+          <div class="view-toggle glass">
+            <input
+              class="sr-only"
+              type="radio"
+              name="view"
+              id="view-gallery"
+              checked />
+            <input class="sr-only" type="radio" name="view" id="view-list" />
+            <label for="view-gallery">Gallery</label>
+            <label for="view-list">List</label>
+          </div>
+        </div>
+        <ul class="grid" id="app-list"></ul>
+      </section>
+
+      <section aria-labelledby="showcase">
+        <div class="section-head">
+          <h2 id="showcase">
+            Showcase <span class="count" id="showcase-count"></span>
+          </h2>
+          <div class="view-toggle glass">
+            <input
+              class="sr-only"
+              type="radio"
+              name="showcase-view"
+              id="showcase-view-gallery"
+              checked />
+            <input
+              class="sr-only"
+              type="radio"
+              name="showcase-view"
+              id="showcase-view-list" />
+            <label for="showcase-view-gallery">Gallery</label>
+            <label for="showcase-view-list">List</label>
+          </div>
+        </div>
+        <ul class="grid" id="showcase-list"></ul>
+      </section>
+
+      <section aria-labelledby="mini">
+        <div class="section-head">
+          <h2 id="mini">
+            Mini-Apps <span class="count" id="mini-count"></span>
+          </h2>
+          <div class="view-toggle glass">
+            <input
+              class="sr-only"
+              type="radio"
+              name="mini-view"
+              id="mini-view-gallery"
+              checked />
+            <input
+              class="sr-only"
+              type="radio"
+              name="mini-view"
+              id="mini-view-list" />
+            <label for="mini-view-gallery">Gallery</label>
+            <label for="mini-view-list">List</label>
+          </div>
+        </div>
+        <ul class="minor-list">
+          <li>
+            <span class="mini-emoji" aria-hidden="true">☀️</span>
+            <a href="awake/" target="_blank" rel="noopener noreferrer">Awake</a>
+            <span class="mini-desc">— keep your screen awake</span>
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">♟️</span>
+            <a href="chess/rivalries/" target="_blank" rel="noopener noreferrer"
+              >Chess Rivalries</a
+            >
+            <span class="mini-desc"
+              >— find who you play the most and your biggest rivals</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">♟️</span>
+            <a href="chess/versus-masters/" target="_blank" rel="noopener noreferrer"
+              >Chess Versus</a
+            >
+            <span class="mini-desc"
+              >— explore games between titled chess players</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🕒</span>
+            <a href="converter/cron/" target="_blank" rel="noopener noreferrer"
+              >Cron</a
+            >
+            <span class="mini-desc">— build and preview cron expressions</span>
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">💱</span>
+            <a
+              href="converter/currency/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Currency</a
+            >
+            <span class="mini-desc">— convert world currencies, base VND</span>
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">⏳</span>
+            <a href="converter/epoch/" target="_blank" rel="noopener noreferrer"
+              >Epoch</a
+            >
+            <span class="mini-desc">— Unix timestamp ↔ date &amp; time</span>
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🔤</span>
+            <a href="figlet/" target="_blank" rel="noopener noreferrer"
+              >Figlet</a
+            >
+            <span class="mini-desc"
+              >— render text as ASCII art, four built-in fonts</span
+            >
+          </li>
+          <li>
+            🏛️
+            <a href="legislation/" target="_blank" rel="noopener noreferrer"
+              >Legislation</a
+            >
+            <span class="mini-desc"
+              >— parliamentary seat distributions as a hemicycle</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">📝</span>
+            <a href="lorem-ipsum/" target="_blank" rel="noopener noreferrer"
+              >Lorem Ipsum</a
+            >
+            <span class="mini-desc"
+              >— generate dummy text: paragraphs, words, bytes, lists</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🕸️</span>
+            <a
+              href="https://hieudoanm.github.io/macron"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Macron</a
+            >
+            <span class="mini-desc"
+              >— interactive graph of linked English words</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🔍</span>
+            <a href="regex/" target="_blank" rel="noopener noreferrer">Regex</a>
+            <span class="mini-desc"
+              >— generate a pattern from samples and test it</span
+            >
+          </li>
+          <li>
+            🎥
+            <a href="screen-recorder/" target="_blank" rel="noopener noreferrer"
+              >Screen Recorder</a
+            >
+            <span class="mini-desc"
+              >— record your screen with audio, save as WebM</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🩺</span>
+            <a href="service-status/" target="_blank" rel="noopener noreferrer"
+              >Service Status</a
+            >
+            <span class="mini-desc">— live status of third-party services</span>
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🧾</span>
+            <a href="split-bill/" target="_blank" rel="noopener noreferrer"
+              >Split Bill</a
+            >
+            <span class="mini-desc"
+              >— split a bill evenly or settle who owes whom</span
+            >
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">💻</span>
+            <a href="system-specs/" target="_blank" rel="noopener noreferrer"
+              >System Specs</a
+            >
+            <span class="mini-desc">— inspect your browser and device</span>
+          </li>
+          <li>
+            <span class="mini-emoji" aria-hidden="true">🧮</span>
+            <a href="tax/" target="_blank" rel="noopener noreferrer">Tax</a>
+            <span class="mini-desc"
+              >— income tax for Vietnam, UK, US, and Germany</span
+            >
+          </li>
+        </ul>
+      </section>
+    </main>
+    <noscript>
+      <p class="wrap" style="padding-bottom: 2rem">
+        This page renders its project listings with JavaScript.
+      </p>
+    </noscript>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Built with plain HTML, CSS, and JavaScript. Screenshots captured with
+          <code>snap</code>.
+        </p>
+      </div>
+    </footer>
+    <script src="scripts.js?v=5"></script>
+  </body>
+</html>

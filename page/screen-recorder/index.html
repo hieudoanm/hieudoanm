@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Screen Recorder</title>
+    <meta
+      name="description"
+      content="Record your screen with audio and download it as a WebM file." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Screen Recorder</h1>
+        <p class="sub">Record your screen with audio — saves as WebM.</p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="card">
+        <p class="hint">Choose a window, tab, or entire screen — and whether to share audio.</p>
+
+        <div class="rec-status" id="status">
+          <span class="dot" id="dot"></span>
+          <span id="status-text">Ready</span>
+          <span class="timer" id="timer"></span>
+        </div>
+
+        <div class="actions">
+          <button class="btn primary" id="start" type="button">● Start Recording</button>
+          <button class="btn danger hidden" id="stop" type="button">■ Stop Recording</button>
+        </div>
+
+        <p class="error hidden" id="error"></p>
+
+        <div class="result hidden" id="result">
+          <p class="result-meta" id="result-meta"></p>
+          <video id="preview" controls></video>
+          <button class="btn primary" id="download" type="button">Download WebM</button>
+        </div>
+      </section>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

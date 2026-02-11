@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Legislation</title>
+    <meta
+      name="description"
+      content="Hemicycle visualization of legislative seat distributions for eight countries." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Legislation</h1>
+        <p class="sub">Parliamentary seat distributions, drawn as a hemicycle.</p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="card">
+        <div class="country-buttons" id="country-buttons"></div>
+        <div class="chamber-tabs" id="chamber-tabs"></div>
+
+        <div class="hemicycle-wrap">
+          <svg id="hemicycle" viewBox="0 0 100 58" xmlns="http://www.w3.org/2000/svg"></svg>
+        </div>
+
+        <div class="stats">
+          <div class="stat">
+            <p class="stat-value" id="stat-total"></p>
+            <p class="stat-label">Total seats</p>
+          </div>
+          <div class="stat">
+            <p class="stat-value" id="stat-majority"></p>
+            <p class="stat-label">For majority</p>
+          </div>
+          <div class="stat">
+            <p class="stat-value" id="stat-largest"></p>
+            <p class="stat-label">Largest party</p>
+          </div>
+        </div>
+
+        <div class="party-list" id="party-list"></div>
+
+        <p class="note">Data approximate — last updated 2024–2025</p>
+      </section>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

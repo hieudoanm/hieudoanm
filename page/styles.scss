@@ -1,0 +1,837 @@
+// Design tokens
+:root {
+  interpolate-size: allow-keywords;
+  --bg: #fafaf9;
+  --surface: #ffffff;
+  --text: #1c1917;
+  --text-muted: #44403c;
+  --border: #e7e5e4;
+  --accent: #0d9488;
+  --accent-hover: #0f766e;
+  --img-overlay: color-mix(in srgb, var(--surface) 30%, transparent);
+  --radius: 12px;
+  --radius-inner: 8px; /* outer radius - padding, per quarter-radius rule */
+  --space: 1.5rem;
+  --font: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono: ui-monospace, 'SF Mono', Menlo, monospace;
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #0f1115;
+  --surface: #171a21;
+  --text: #e6e8ee;
+  --text-muted: #a3adbf;
+  --border: #262b36;
+  --accent: #2dd4bf;
+  --accent-hover: #5eead4;
+  --img-overlay: color-mix(in srgb, var(--bg) 45%, transparent);
+}
+
+$bp-sm: 40rem;
+
+/* Shared liquid-glass surface: translucent tint + SVG-displaced backdrop
+   (real refraction, not just blur) + pointer-tracked specular highlight. */
+@mixin liquid-glass {
+  background-color: var(--glass-bg);
+  background-image: radial-gradient(
+    26rem circle at var(--px) var(--py),
+    var(--glass-specular),
+    transparent 55%
+  );
+  border-color: var(--glass-border);
+  backdrop-filter: blur(14px) saturate(1.5);
+  backdrop-filter: url(#liquid-glass) blur(14px) saturate(1.6);
+  -webkit-backdrop-filter: blur(14px) saturate(1.5);
+  box-shadow:
+    inset 0 1px 0 var(--glass-highlight),
+    var(--glass-shadow);
+}
+$bp-md: 56rem;
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration-style: dotted;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 var(--space);
+}
+
+/* Header — boxed glass panel aligned with the content wrap */
+.site-header {
+  position: relative;
+  /* align outer edges with the card grid inside .wrap's side padding */
+  max-width: calc(72rem - 2 * var(--space));
+  width: calc(100% - 2 * var(--space));
+  margin: 1.5rem auto 0;
+  padding: 2.25rem var(--space);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.site-header .wrap {
+  max-width: none;
+  padding: 0;
+}
+
+.theme-toggle,
+.glass-toggle {
+  position: absolute;
+  top: 1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-inner);
+  color: var(--text-muted);
+  cursor: pointer;
+
+  &:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+
+  svg {
+    width: 1.125rem;
+    height: 1.125rem;
+  }
+
+  .icon-moon,
+  .icon-flat {
+    display: none;
+  }
+}
+
+.theme-toggle {
+  right: 1rem;
+}
+
+.glass-toggle {
+  right: 3.75rem;
+}
+
+:root[data-theme='dark'] .theme-toggle .icon-sun {
+  display: none;
+}
+
+:root[data-theme='dark'] .theme-toggle .icon-moon {
+  display: block;
+}
+
+:root[data-glass='flat'] .glass-toggle .icon-drop {
+  display: none;
+}
+
+:root[data-glass='flat'] .glass-toggle .icon-flat {
+  display: block;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.75rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 3rem 0 1.25rem;
+}
+
+.count {
+  color: var(--text-muted);
+  font-weight: 400;
+  font-size: 0.875rem;
+}
+
+.lede {
+  max-width: 42rem;
+  color: var(--text);
+  font-size: 1.05rem;
+  margin: 0 0 1.25rem;
+}
+
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+
+  a {
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Section header: title + view toggle on one row */
+.section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin: 3rem 0 1.25rem;
+
+  h2 {
+    margin: 0;
+  }
+}
+
+.search-bar {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1.5rem;
+
+  /* Tighten the gap between the bar and the first section heading */
+  & + section > h2 {
+    margin-top: 1.25rem;
+  }
+}
+
+.search {
+  padding: 0.375rem 0.75rem;
+  font: inherit;
+  font-size: 0.8125rem;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-inner);
+  width: 11rem;
+
+  &::placeholder {
+    color: var(--text-muted);
+  }
+
+  &:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: -1px;
+    border-color: var(--accent);
+  }
+
+  /* Hide native clear button for a consistent look */
+  &::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+}
+
+/* View toggle (CSS-only: radio inputs + :has) */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.view-toggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-inner);
+  overflow: hidden;
+
+  label {
+    padding: 0.375rem 0.875rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    cursor: pointer;
+    user-select: none;
+
+    & + label {
+      border-left: 1px solid var(--border);
+    }
+  }
+
+  &:has(#view-gallery:checked) label[for='view-gallery'],
+  &:has(#mini-view-gallery:checked) label[for='mini-view-gallery'],
+  &:has(#showcase-view-gallery:checked) label[for='showcase-view-gallery'],
+  &:has(#view-list:checked) label[for='view-list'],
+  &:has(#mini-view-list:checked) label[for='mini-view-list'],
+  &:has(#showcase-view-list:checked) label[for='showcase-view-list'] {
+    background: var(--accent);
+    color: #ffffff;
+  }
+
+  #view-gallery:focus-visible ~ label[for='view-gallery'],
+  #mini-view-gallery:focus-visible ~ label[for='mini-view-gallery'],
+  #showcase-view-gallery:focus-visible ~ label[for='showcase-view-gallery'],
+  #view-list:focus-visible ~ label[for='view-list'],
+  #mini-view-list:focus-visible ~ label[for='mini-view-list'],
+  #showcase-view-list:focus-visible ~ label[for='showcase-view-list'] {
+    outline: 2px solid var(--accent);
+    outline-offset: -2px;
+  }
+}
+
+/* List view (accordion) — one app per row, full width. */
+section:has(#view-list:checked),
+section:has(#showcase-view-list:checked) {
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .card {
+    flex: 1;
+    min-width: 0;
+    padding: 0.5rem 0.875rem;
+
+    > img {
+      display: none;
+    }
+  }
+
+  .card-body {
+    display: grid;
+    flex: 1;
+    min-width: 0;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      'title actions'
+      'desc desc';
+    column-gap: 1rem;
+    align-items: center;
+    padding: 0;
+  }
+
+  .card-title {
+    grid-area: title;
+    cursor: pointer;
+
+    &::after {
+      content: '▸';
+      margin-left: 0.5rem;
+      color: var(--text-muted);
+    }
+  }
+
+  .grid li:has(input:checked) .card-title::after {
+    content: '▾';
+  }
+
+  .card-desc {
+    grid-area: desc;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    transition:
+      height 0.25s ease,
+      visibility 0.25s;
+  }
+
+  .grid li:has(input:checked) .card-desc {
+    height: auto;
+    visibility: visible;
+  }
+
+  .card-actions {
+    grid-area: actions;
+    margin-top: 0;
+  }
+
+  .card-badges {
+    display: none;
+  }
+}
+
+/* Open Contribution (always-accordion rows) */
+.rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+
+  .card {
+    padding: 0.5rem 0.875rem;
+  }
+
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0;
+  }
+
+  .card-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+  }
+
+  .card-about {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    text-align: right;
+  }
+
+  .card-title {
+    cursor: pointer;
+
+    &::after {
+      content: '▸';
+      margin-left: 0.5rem;
+      color: var(--text-muted);
+    }
+  }
+
+  li:has(input:checked) .card-title::after {
+    content: '▾';
+  }
+
+  .card-desc {
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    transition:
+      height 0.25s ease,
+      visibility 0.25s;
+
+    a {
+      color: var(--accent);
+    }
+
+    ul {
+      margin: 0.25rem 0 0;
+      padding-left: 1.25rem;
+    }
+
+    li {
+      margin: 0.125rem 0;
+    }
+  }
+
+  li:has(input:checked) .card-desc {
+    height: auto;
+    visibility: visible;
+  }
+}
+
+/* Project grid */
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  @media (min-width: $bp-sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $bp-md) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  li {
+    display: flex;
+    flex-direction: column;
+    gap: 0.375rem;
+    min-width: 0; /* let grid items shrink below content min-width */
+  }
+}
+
+.card {
+  position: relative;
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition:
+    border-color 120ms ease,
+    box-shadow 120ms ease;
+
+  > img {
+    display: block;
+    width: 100%;
+    height: auto; /* screenshots are 1280x640 (2:1); keep natural ratio */
+    aspect-ratio: 2 / 1;
+    object-fit: cover;
+    background: var(--border);
+  }
+}
+
+/* Theme-tinted scrim over the screenshot (2:1 image area at card top).
+   Scoped to .grid — .rows cards (Open Contribution) have no screenshot. */
+.grid .card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  aspect-ratio: 2 / 1;
+  background: var(--img-overlay);
+  pointer-events: none;
+}
+
+/* List view hides the screenshot — hide its scrim too. */
+section:has(#view-list:checked) .grid .card::after,
+section:has(#showcase-view-list:checked) .grid .card::after {
+  display: none;
+}
+
+/* Kept top-level: nesting under .card would raise specificity and break
+   .rows overrides for the Open Contribution card. */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.875rem 1rem 1rem;
+  min-width: 0;
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.card-desc {
+  color: var(--text);
+  font-size: 0.875rem;
+}
+
+section:has(#view-gallery:checked) .grid .card-desc,
+section:has(#showcase-view-gallery:checked) .grid .card-desc {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.card-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.card-badges {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  margin-bottom: 0.375rem;
+}
+
+.card-badge {
+  display: inline-flex;
+  align-items: center;
+}
+
+.card-badge-img {
+  display: block;
+  border-radius: var(--radius-inner);
+}
+
+.visit,
+.repo {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    background-color 120ms ease,
+    border-color 120ms ease,
+    color 120ms ease,
+    box-shadow 120ms ease,
+    transform 120ms ease;
+}
+
+.visit {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.12);
+
+  &:hover {
+    background: var(--accent-hover);
+    border-color: var(--accent-hover);
+    box-shadow: 0 2px 6px rgb(0 0 0 / 0.18);
+  }
+
+  &:active {
+    transform: translateY(1px);
+  }
+}
+
+.repo {
+  background: var(--glass-bg);
+  border-color: var(--glass-border);
+  color: var(--text);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+
+  &:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+}
+
+:root[data-theme='dark'] .visit {
+  color: #0f1115;
+}
+
+.visit:focus-visible,
+.repo:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.grid .empty {
+  grid-column: 1 / -1;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  padding: 1rem 0;
+}
+
+/* Minor apps — gallery view: responsive box grid (6/4/3/2/1 columns),
+   emoji + title only; the description is list-view only. */
+section:has(#mini-view-gallery:checked) .minor-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+
+  @media (min-width: 28rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $bp-sm) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: $bp-md) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @media (min-width: 72rem) {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.375rem;
+    margin: 0;
+    padding: 0.875rem 0.5rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-inner);
+    text-align: center;
+    @include liquid-glass;
+  }
+
+  .mini-emoji {
+    font-size: 1.375rem;
+    line-height: 1;
+  }
+
+  .mini-desc {
+    display: none;
+  }
+
+  a {
+    color: var(--text);
+    font-weight: 600;
+  }
+
+  a:hover {
+    color: var(--accent);
+  }
+}
+
+/* `hidden` must beat the gallery li display:flex above. */
+.minor-list li[hidden] {
+  display: none;
+}
+
+/* Minor apps */
+.minor-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin: 0.25rem 0;
+  }
+
+  a {
+    color: var(--accent);
+    font-weight: 600;
+  }
+}
+
+/* Footer */
+.site-footer {
+  margin-top: 4rem;
+  padding: 2rem 0 3rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+code {
+  font-family: var(--mono);
+  font-size: 0.85em;
+}
+
+.license-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+
+  img {
+    height: 20px;
+    width: auto;
+    border-radius: var(--radius-inner);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+  }
+
+  .card-desc {
+    transition: none;
+  }
+}
+
+/* ---------- Liquid glass ---------- */
+
+:root {
+  --px: 50%;
+  --py: 0%;
+  --glass-bg: color-mix(in srgb, var(--surface) 38%, transparent);
+  --glass-border: color-mix(in srgb, var(--text) 22%, transparent);
+  --glass-highlight: rgb(255 255 255 / 0.55);
+  --glass-specular: color-mix(
+    in srgb,
+    var(--accent) 10%,
+    rgb(255 255 255 / 0.3)
+  );
+  --glass-shadow: 0 10px 28px rgb(0 0 0 / 0.1);
+}
+
+:root[data-theme='dark'] {
+  --glass-bg: color-mix(in srgb, var(--surface) 52%, transparent);
+  --glass-border: color-mix(in srgb, var(--text) 24%, transparent);
+  --glass-highlight: rgb(255 255 255 / 0.22);
+  --glass-specular: rgb(255 255 255 / 0.08);
+  --glass-shadow: 0 12px 32px rgb(0 0 0 / 0.45);
+}
+
+/* Flat mode: solid surfaces, no translucency or refraction. */
+:root[data-glass='flat'] {
+  .glass,
+  section:has(#mini-view-gallery:checked) .minor-list li {
+    background: var(--surface);
+    border-color: var(--border);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 0.08);
+  }
+
+  .repo {
+    background: var(--surface);
+    border-color: var(--border);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+}
+
+/* Ambient backdrop — macOS-style gradient wallpaper. A theme-colored wash
+   sits on top: heavy in light mode (pastel vibrancy), light in dark mode. */
+.ambient {
+  position: fixed;
+  inset: -2%;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    linear-gradient(
+      color-mix(in srgb, var(--bg) 66%, transparent),
+      color-mix(in srgb, var(--bg) 66%, transparent)
+    ),
+    url('images/wallpaper.jpg') center / cover no-repeat;
+  animation: ambient-breathe 40s ease-in-out infinite alternate;
+}
+
+:root[data-theme='dark'] .ambient {
+  background:
+    linear-gradient(
+      color-mix(in srgb, var(--bg) 26%, transparent),
+      color-mix(in srgb, var(--bg) 26%, transparent)
+    ),
+    url('images/wallpaper.jpg') center / cover no-repeat;
+}
+
+@keyframes ambient-breathe {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.05);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ambient {
+    animation: none;
+  }
+}
+
+.site-header.glass,
+.search.glass,
+.view-toggle.glass,
+.theme-toggle.glass,
+.card.glass {
+  @include liquid-glass;
+}

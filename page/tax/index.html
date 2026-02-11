@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tax</title>
+    <meta
+      name="description"
+      content="Income tax calculators for Vietnam, the UK, the US, and Germany — take-home pay and bracket breakdowns." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Tax</h1>
+        <p class="sub">
+          Personal income tax for Vietnam, UK, US, and Germany — approximate
+          official rates, not tax advice.
+        </p>
+      </div>
+    </header>
+    <main class="wrap">
+      <div class="tabs" id="country-tabs" role="tablist">
+        <button class="tab active" data-country="vn" type="button" role="tab">
+          Vietnam
+        </button>
+        <button class="tab" data-country="uk" type="button" role="tab">
+          United Kingdom
+        </button>
+        <button class="tab" data-country="us" type="button" role="tab">
+          United States
+        </button>
+        <button class="tab" data-country="de" type="button" role="tab">
+          Germany
+        </button>
+      </div>
+
+      <!-- Vietnam PIT -->
+      <section class="panel" id="panel-vn">
+        <div class="fields">
+          <label class="field">
+            <span class="label">Tax period</span>
+            <select id="vn-period">
+              <option value="monthly" selected>Monthly</option>
+              <option value="annual">Annual</option>
+            </select>
+          </label>
+          <label class="field">
+            <span class="label">Salary mode</span>
+            <button class="mode-btn" id="vn-mode" type="button">
+              Gross → Net
+            </button>
+          </label>
+          <label class="field">
+            <span class="label" id="vn-income-label">Gross income (₫)</span>
+            <input id="vn-income" type="number" min="0" step="any" value="20000000" />
+          </label>
+          <label class="field">
+            <span class="label">Dependents</span>
+            <input id="vn-dependents" type="number" min="0" step="1" value="0" />
+          </label>
+          <label class="field check">
+            <input id="vn-insurance" type="checkbox" checked />
+            <span>Social insurance (BHXH/BHYT/BHTN)</span>
+          </label>
+        </div>
+        <div class="results" id="vn-results"></div>
+      </section>
+
+      <!-- United Kingdom -->
+      <section class="panel" id="panel-uk" hidden>
+        <div class="fields">
+          <label class="field">
+            <span class="label">Annual gross income (£)</span>
+            <input id="uk-income" type="number" min="0" step="any" value="45000" />
+          </label>
+        </div>
+        <div class="results" id="uk-results"></div>
+      </section>
+
+      <!-- United States -->
+      <section class="panel" id="panel-us" hidden>
+        <div class="fields">
+          <label class="field">
+            <span class="label">Filing status</span>
+            <select id="us-status">
+              <option value="single" selected>Single</option>
+              <option value="mfj">Married filing jointly</option>
+            </select>
+          </label>
+          <label class="field">
+            <span class="label">Annual gross income ($)</span>
+            <input id="us-income" type="number" min="0" step="any" value="85000" />
+          </label>
+        </div>
+        <div class="results" id="us-results"></div>
+      </section>
+
+      <!-- Germany -->
+      <section class="panel" id="panel-de" hidden>
+        <div class="fields">
+          <label class="field">
+            <span class="label">Annual gross salary (€)</span>
+            <input id="de-income" type="number" min="0" step="any" value="60000" />
+          </label>
+          <label class="field check">
+            <input id="de-social" type="checkbox" checked />
+            <span>Employee social insurance (~19.6%, capped)</span>
+          </label>
+        </div>
+        <div class="results" id="de-results"></div>
+      </section>
+
+      <p class="note">
+        Figures use 2025/26 official rates and are estimates for salaried
+        employees — they exclude credits, deductions, state/local taxes,
+        surtaxes and edge cases.
+      </p>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>

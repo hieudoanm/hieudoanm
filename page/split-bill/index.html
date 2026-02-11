@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Split Bill</title>
+    <meta
+      name="description"
+      content="Split a bill evenly with tip and tax, or work out who owes whom to settle up." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Split Bill</h1>
+        <p class="sub">
+          Equal split with tip &amp; tax, or settle up who paid what.
+        </p>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="card">
+        <div class="tabs" role="tablist">
+          <button class="tab active" id="tab-equal" type="button" role="tab">
+            Equal Split
+          </button>
+          <button class="tab" id="tab-settle" type="button" role="tab">
+            Who Owes Who
+          </button>
+        </div>
+
+        <!-- Equal split -->
+        <div id="pane-equal">
+          <div class="fields">
+            <label class="field">
+              <span class="label">Total Bill</span>
+              <input id="bill" type="number" min="0" step="0.01" value="100" />
+            </label>
+            <label class="field">
+              <span class="label">Number of People</span>
+              <input id="people" type="number" min="1" step="1" value="2" />
+            </label>
+            <label class="field">
+              <span class="label">Tip (%)</span>
+              <input id="tip" type="number" min="0" step="0.5" value="10" />
+            </label>
+            <label class="field">
+              <span class="label">Tax (%)</span>
+              <input id="tax" type="number" min="0" step="0.5" value="0" />
+            </label>
+          </div>
+
+          <div class="result-box">
+            <div class="row">
+              <span>Tip Amount</span><span id="r-tip"></span>
+            </div>
+            <div class="row">
+              <span>Tax Amount</span><span id="r-tax"></span>
+            </div>
+            <div class="divider"></div>
+            <div class="row"><span>Total</span><span id="r-total"></span></div>
+            <div class="divider"></div>
+            <div class="row big">
+              <span>Per Person</span><span id="r-per"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Who owes who -->
+        <div id="pane-settle" hidden>
+          <p class="hint">
+            Enter what each person paid. The calculator figures out who owes
+            whom to settle up.
+          </p>
+          <label class="split-equal">
+            <input type="checkbox" id="split-equal" checked />
+            <span
+              >Split equally — auto-fill owes as
+              <b id="equal-share"></b> each</span
+            >
+          </label>
+          <div class="persons" id="persons"></div>
+          <div class="settle-actions">
+            <button class="btn ghost" id="add-person" type="button">
+              + Add Person
+            </button>
+            <button class="btn primary" id="settle" type="button">
+              Settle Up
+            </button>
+          </div>
+          <div class="totals" id="totals" hidden>
+            <span>Total Paid: <b id="t-paid"></b></span>
+            <span>Total Owes: <b id="t-owes"></b></span>
+          </div>
+          <div class="settlements" id="settlements"></div>
+        </div>
+
+        <div class="footer">
+          <label class="currency">
+            <span>Currency</span>
+            <select id="currency"></select>
+          </label>
+          <button class="btn ghost" id="copy" type="button">
+            Copy summary
+          </button>
+        </div>
+        <p class="copied" id="copied" hidden>Copied to clipboard</p>
+      </section>
+      <p class="note">
+        Equal Split computes tip, tax, total and the per-person share. Who Owes
+        Who records each person's paid/consumed amounts and produces the minimal
+        set of transfers to settle everyone.
+      </p>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>
