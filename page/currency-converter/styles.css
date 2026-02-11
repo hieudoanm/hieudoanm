@@ -1,0 +1,241 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --border: #262b36;
+  --text: #e6e8ee;
+  --muted: #8b93a3;
+  --accent: #60a5fa;
+  --ok: #3fb950;
+  --radius: 12px;
+  --radius-inner: 8px;
+  --font: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono: ui-monospace, 'SF Mono', Menlo, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font:
+    14px/1.6 var(--font);
+}
+
+.wrap {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+header {
+  border-bottom: 1px solid var(--border);
+  background: var(--panel);
+  padding: 0.75rem 0;
+}
+
+h1 {
+  font-size: 1.25rem;
+  margin: 0 0 0.25rem;
+}
+
+.sub {
+  color: var(--muted);
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+main.wrap {
+  padding: 2rem 1.5rem 3rem;
+}
+
+/* Converter card */
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.25rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.label {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.field input,
+.field select {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-inner);
+  color: var(--text);
+  font: inherit;
+  padding: 0.5rem 0.75rem;
+  width: 100%;
+}
+
+.field input {
+  font-family: var(--mono);
+  font-size: 1.125rem;
+}
+
+.field input:focus,
+.field select:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.swap {
+  align-self: center;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-inner);
+  color: var(--text);
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+  letter-spacing: 0.08em;
+  padding: 0.45rem 1.25rem;
+  text-transform: uppercase;
+}
+
+.swap:hover {
+  border-color: var(--accent);
+}
+
+.result {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-inner);
+  padding: 1rem;
+  text-align: center;
+}
+
+.result .equation {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  margin: 0 0 0.4rem;
+  text-transform: uppercase;
+}
+
+.result .value {
+  font-family: var(--mono);
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.result .value .unit {
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 400;
+  margin-left: 0.4rem;
+}
+
+.result .rate {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.result.empty {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+/* Quick pairs */
+
+.quick {
+  margin-top: 1.75rem;
+}
+
+.quick h2 {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin: 0 0 0.5rem;
+  text-transform: uppercase;
+}
+
+.rows {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.row {
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.row:last-child {
+  border-bottom: 0;
+}
+
+.row:hover {
+  background: #1d212b;
+}
+
+.row.active {
+  background: rgba(96, 165, 250, 0.08);
+}
+
+.row .code {
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+  letter-spacing: 0.06em;
+}
+
+.row.active .code {
+  color: var(--accent);
+}
+
+.row .name {
+  color: var(--muted);
+  font-size: 0.75rem;
+  margin-left: 0.6rem;
+}
+
+.row .rate {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+}
+
+.row.active .rate {
+  color: var(--accent);
+}
+
+.source {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  margin-top: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+}
