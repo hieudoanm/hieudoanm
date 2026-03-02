@@ -21,6 +21,7 @@
   },
   "scripts": {
     "format": "prettier --cache . --write",
+    "lint": "true",
     "prebuild": "rimraf ./docs",
     "build": "rimraf ./docs && docsify init ./docs",
     "serve": "docsify serve ./docs --theme pure",
