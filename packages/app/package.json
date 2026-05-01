@@ -41,7 +41,6 @@
     "@capacitor/android": "8.3.1",
     "@capacitor/core": "8.3.1",
     "@capacitor/ios": "8.3.1",
-    "@chess/elo": "workspace:*",
     "@prisma/adapter-libsql": "7.8.0",
     "@prisma/client": "7.8.0",
     "@tanstack/react-query": "5.100.6",

@@ -26,17 +26,6 @@ const APPS = [
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
   {
-    id: 'chess-elo',
-    href: '/app/elo',
-    title: 'Elo Calculator',
-    subtitle: 'Rating System',
-    description:
-      'Estimate rating changes based on match results. Input player ratings and outcomes to calculate Elo adjustments.',
-    meta: 'FIDE · Expected Score · K-Factor',
-    symbol: '♜', // Rook → structure / rating foundation
-    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
-  },
-  {
     id: 'chess-stats',
     href: '/app/stats',
     title: 'Chess Stats',

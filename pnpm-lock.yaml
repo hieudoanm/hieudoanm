@@ -26,9 +26,6 @@ importers:
       '@capacitor/ios':
         specifier: 8.3.1
         version: 8.3.1(@capacitor/core@8.3.1)
-      '@chess/elo':
-        specifier: workspace:*
-        version: link:../modules/elo
       '@prisma/adapter-libsql':
         specifier: 7.8.0
         version: 7.8.0
@@ -255,42 +252,6 @@ importers:
       webpack-cli:
         specifier: 7.0.2
         version: 7.0.2(webpack@5.106.2)
-
-  packages/modules/elo:
-    devDependencies:
-      '@eslint/js':
-        specifier: 10.0.1
-        version: 10.0.1(eslint@10.2.1(jiti@2.6.1))
-      '@types/jest':
-        specifier: 30.0.0
-        version: 30.0.0
-      '@types/node':
-        specifier: 25.6.0
-        version: 25.6.0
-      eslint:
-        specifier: 10.2.1
-        version: 10.2.1(jiti@2.6.1)
-      globals:
-        specifier: 17.5.0
-        version: 17.5.0
-      jest:
-        specifier: 30.3.0
-        version: 30.3.0(@types/node@25.6.0)(node-notifier@10.0.1)(ts-node@10.9.2(@types/node@25.6.0)(typescript@6.0.3))
-      prettier:
-        specifier: 3.8.3
-        version: 3.8.3
-      ts-jest:
-        specifier: 29.4.9
-        version: 29.4.9(@babel/core@7.29.0)(@jest/transform@30.3.0)(@jest/types@30.3.0)(babel-jest@30.3.0(@babel/core@7.29.0))(jest-util@30.3.0)(jest@30.3.0(@types/node@25.6.0)(node-notifier@10.0.1)(ts-node@10.9.2(@types/node@25.6.0)(typescript@6.0.3)))(typescript@6.0.3)
-      ts-node:
-        specifier: 10.9.2
-        version: 10.9.2(@types/node@25.6.0)(typescript@6.0.3)
-      typescript:
-        specifier: 6.0.3
-        version: 6.0.3
-      typescript-eslint:
-        specifier: 8.59.1
-        version: 8.59.1(eslint@10.2.1(jiti@2.6.1))(typescript@6.0.3)
 
   packages/modules/fen:
     devDependencies:
@@ -10910,7 +10871,7 @@ snapshots:
       eslint: 10.2.1(jiti@2.6.1)
       eslint-import-resolver-node: 0.3.9
       eslint-import-resolver-typescript: 3.10.1(eslint-plugin-import@2.32.0(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1))
-      eslint-plugin-import: 2.32.0(eslint-import-resolver-typescript@3.10.1)(eslint@10.2.1(jiti@2.6.1))
+      eslint-plugin-import: 2.32.0(eslint-import-resolver-typescript@3.10.1(eslint-plugin-import@2.32.0(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1))
       eslint-plugin-jsx-a11y: 6.10.2(eslint@10.2.1(jiti@2.6.1))
       eslint-plugin-react: 7.37.5(eslint@10.2.1(jiti@2.6.1))
       eslint-plugin-react-hooks: 7.0.1(eslint@10.2.1(jiti@2.6.1))
@@ -10943,7 +10904,7 @@ snapshots:
       tinyglobby: 0.2.15
       unrs-resolver: 1.11.1
     optionalDependencies:
-      eslint-plugin-import: 2.32.0(eslint-import-resolver-typescript@3.10.1)(eslint@10.2.1(jiti@2.6.1))
+      eslint-plugin-import: 2.32.0(eslint-import-resolver-typescript@3.10.1(eslint-plugin-import@2.32.0(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1))
     transitivePeerDependencies:
       - supports-color
 
@@ -10957,7 +10918,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  eslint-plugin-import@2.32.0(eslint-import-resolver-typescript@3.10.1)(eslint@10.2.1(jiti@2.6.1)):
+  eslint-plugin-import@2.32.0(eslint-import-resolver-typescript@3.10.1(eslint-plugin-import@2.32.0(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1)))(eslint@10.2.1(jiti@2.6.1)):
     dependencies:
       '@rtsao/scc': 1.1.0
       array-includes: 3.1.9
