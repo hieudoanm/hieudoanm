@@ -15,17 +15,6 @@ const APPS = [
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
   {
-    id: 'chess-clock',
-    href: '/app/clock',
-    title: 'Chess Clock',
-    subtitle: 'Time Control',
-    description:
-      'Manage game time with precision. Supports blitz, rapid, and custom time controls with increment and delay.',
-    meta: 'Blitz · Rapid · Classical',
-    symbol: '♟', // Pawn → tempo / progression
-    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
-  },
-  {
     id: 'chess-stats',
     href: '/app/stats',
     title: 'Chess Stats',

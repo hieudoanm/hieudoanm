@@ -1,2 +1,9 @@
 packages:
   - packages/**
+allowBuilds:
+  '@prisma/engines': true
+  prisma: true
+  sharp: true
+  spawn-sync: true
+  stockfish: true
+  unrs-resolver: true
