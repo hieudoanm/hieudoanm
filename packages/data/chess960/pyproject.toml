@@ -5,6 +5,6 @@ description = "Chess960"
 readme = "README.md"
 requires-python = "==3.14.4"
 dependencies = [
-    "pandas==3.0.2",
+    "pandas==3.0.3",
     "requests==2.33.1",
 ]
