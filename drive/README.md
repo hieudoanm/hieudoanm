@@ -1,5 +1,23 @@
 # GitHub Drive
 
+- Audio
+  - aac: Advanced Audio Coding
+  - flac: Free Lossless Audio Codec
+  - mp3: MPEG-1 Audio Layer III (Moving Picture Experts Group)
+  - opus: Opus Audio Codec
+  - wav: Waveform Audio File Format
 - Documents
+  - JSON: JavaScript Object Notation
+  - PGN: Portable Game Notation
 - Images
+  - GIF: Graphics Interchange Format
+  - JPEG: Joint Photographic Experts Group
+  - PNG: Portable Network Graphics
+  - SVG: Scalable Vector Graphics
+  - WebP: Web Picture
 - Videos
+  - AVI: Audio Video Interleave
+  - MKV: Matroska Video
+  - MOV: QuickTime Movie
+  - MP4: MPEG-4 Part 14
+  - WebM: Web Media
