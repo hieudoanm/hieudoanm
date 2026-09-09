@@ -22,6 +22,8 @@
 [swift]: https://www.swift.org/
 [python]: https://www.python.org/
 
+---
+
 ## [Free Releases](https://hieudoanm.github.io/free)
 
 ### Android (2)
@@ -30,6 +32,8 @@
 | --- | -------- | --------- | ----- | ------------------ | -------------------------- |
 | 1   | Android  | Utilities | Block | [Free][free-block] | [Releases][releases-block] |
 | 2   | Android  | Utilities | NFC   | [Free][free-nfc]   | [Releases][releases-nfc]   |
+
+---
 
 ### Browser Extensions (9)
 
@@ -45,6 +49,8 @@
 | 10  | Browser  | Extension | ShopifyX    | [Free][free-shopifyx]    | [Releases][releases-shopifyx]    |
 | 11  | Browser  | Extension | Snapshot    | [Free][free-snapshot]    | [Releases][releases-snapshot]    |
 
+---
+
 ### Headless (5)
 
 | No  | Platform | Category        | Name           | Free                        | Releases                            |
@@ -55,6 +61,8 @@
 | 15  | Headless | Developer Tools | KeVIN          | [Free][free-kevin]          | [Releases][releases-kevin]          |
 | 16  | Headless | Developer Tools | Landify        | [Free][free-landify]        | [Releases][releases-landify]        |
 
+---
+
 ### Hybrid (46)
 
 #### Business (2)
@@ -63,6 +71,8 @@
 | --- | -------- | -------- | ---- | ----------------- | ------------------------- |
 | 17  | Hybrid   | Business | Menu | [Free][free-menu] | [Releases][releases-menu] |
 | 18  | Hybrid   | Business | POS  | [Free][free-pos]  | [Releases][releases-pos]  |
+
+---
 
 #### Developer Tools (5)
 
@@ -73,6 +83,8 @@
 | 21  | Hybrid   | Developer Tools | Code        | [Free][free-code]        | [Releases][releases-code]        |
 | 22  | Hybrid   | Developer Tools | Database    | [Free][free-database]    | [Releases][releases-database]    |
 | 23  | Hybrid   | Developer Tools | Diagram     | [Free][free-diagram]     | [Releases][releases-diagram]     |
+
+---
 
 #### Education (6)
 
@@ -85,6 +97,8 @@
 | 28  | Hybrid   | Education | Music     | [Free][free-music]     | [Releases][releases-music]     |
 | 29  | Hybrid   | Education | DOI       | [Free][free-doi]       | [Releases][releases-doi]       |
 
+---
+
 #### Finance (2)
 
 | No  | Platform | Category | Name   | Free                | Releases                    |
@@ -92,11 +106,15 @@
 | 30  | Hybrid   | Finance  | Tax    | [Free][free-tax]    | [Releases][releases-tax]    |
 | 31  | Hybrid   | Finance  | Wallet | [Free][free-wallet] | [Releases][releases-wallet] |
 
+---
+
 #### Food & Drink (1)
 
 | No  | Platform | Category     | Name  | Free               | Releases                   |
 | --- | -------- | ------------ | ----- | ------------------ | -------------------------- |
 | 32  | Hybrid   | Food & Drink | Foody | [Free][free-foody] | [Releases][releases-foody] |
+
+---
 
 #### Games (6)
 
@@ -109,6 +127,8 @@
 | 37  | Hybrid   | Games    | Nikoli      | [Free][free-nikoli]      | [Releases][releases-nikoli]      |
 | 38  | Hybrid   | Games    | Tic-Tac-Toe | [Free][free-tic-tac-toe] | [Releases][releases-tic-tac-toe] |
 
+---
+
 #### Graphics & Design (4)
 
 | No  | Platform | Category          | Name   | Free                | Releases                    |
@@ -118,6 +138,8 @@
 | 41  | Hybrid   | Graphics & Design | SVG    | [Free][free-svg]    | [Releases][releases-svg]    |
 | 42  | Hybrid   | Graphics & Design | Video  | [Free][free-video]  | [Releases][releases-video]  |
 
+---
+
 #### Medical (4)
 
 | No  | Platform | Category | Name       | Free                    | Releases                        |
@@ -126,6 +148,8 @@
 | 44  | Hybrid   | Medical  | Eyes       | [Free][free-eyes]       | [Releases][releases-eyes]       |
 | 45  | Hybrid   | Medical  | MRI        | [Free][free-mri]        | [Releases][releases-mri]        |
 | 46  | Hybrid   | Medical  | Psychology | [Free][free-psychology] | [Releases][releases-psychology] |
+
+---
 
 #### Productivity (7)
 
@@ -139,11 +163,15 @@
 | 52  | Hybrid   | Productivity | Projects | [Free][free-projects] | [Releases][releases-projects] |
 | 53  | Hybrid   | Productivity | Resume   | [Free][free-resume]   | [Releases][releases-resume]   |
 
+---
+
 #### Shopping (1)
 
 | No  | Platform | Category | Name  | Free               | Releases                   |
 | --- | -------- | -------- | ----- | ------------------ | -------------------------- |
 | 54  | Hybrid   | Shopping | Store | [Free][free-store] | [Releases][releases-store] |
+
+---
 
 #### Social Networking (2)
 
@@ -151,6 +179,8 @@
 | --- | -------- | ----------------- | --------- | ---------------------- | ------------------------------ |
 | 55  | Hybrid   | Social Networking | Chat      | [Free][free-chat]      | [Releases][releases-chat]      |
 | 56  | Hybrid   | Social Networking | Messaging | [Free][free-messaging] | [Releases][releases-messaging] |
+
+---
 
 #### Sports (3)
 
@@ -160,6 +190,8 @@
 | 58  | Hybrid   | Sports   | Football | [Free][free-football] | [Releases][releases-football] |
 | 59  | Hybrid   | Sports   | Tourney  | [Free][free-tourney]  | [Releases][releases-tourney]  |
 
+---
+
 #### Utilities (3)
 
 | No  | Platform | Category  | Name     | Free                  | Releases                      |
@@ -168,17 +200,19 @@
 | 61  | Hybrid   | Utilities | Docs     | [Free][free-docs]     | [Releases][releases-docs]     |
 | 62  | Hybrid   | Utilities | Password | [Free][free-password] | [Releases][releases-password] |
 
+---
+
 ### macOS (7)
 
 | No  | Platform | Category  | Name    | Free                 | Releases                     |
 | --- | -------- | --------- | ------- | -------------------- | ---------------------------- |
 | 63  | macOS    | Utilities | Brewery | [Free][free-brewery] | [Releases][releases-brewery] |
-| 64  | macOS    | Utilities | Clipper | [Free][free-clipper] | [Releases][releases-clipper] |
-| 65  | macOS    | Utilities | Gauge   | [Free][free-gauge]   | [Releases][releases-gauge]   |
-| 66  | macOS    | Utilities | Mixer   | [Free][free-mixer]   | [Releases][releases-mixer]   |
-| 67  | macOS    | Utilities | Ports   | [Free][free-ports]   | [Releases][releases-ports]   |
-| 68  | macOS    | Utilities | Snap    | [Free][free-snap]    | [Releases][releases-snap]    |
-| 69  | macOS    | Utilities | Top     | [Free][free-top]     | [Releases][releases-top]     |
+| 64  | macOS    | Utilities | Gauge   | [Free][free-gauge]   | [Releases][releases-gauge]   |
+| 65  | macOS    | Utilities | Mixer   | [Free][free-mixer]   | [Releases][releases-mixer]   |
+| 66  | macOS    | Utilities | Snap    | [Free][free-snap]    | [Releases][releases-snap]    |
+| 67  | macOS    | Utilities | Top     | [Free][free-top]     | [Releases][releases-top]     |
+
+---
 
 <!-- Free -->
 
@@ -243,10 +277,8 @@
 [free-browserverless]: https://hieudoanm.github.io/free/browserverless/
 [free-backbone]: https://hieudoanm.github.io/free/backbone/
 [free-brewery]: https://hieudoanm.github.io/free/brewery/
-[free-clipper]: https://hieudoanm.github.io/free/clipper/
 [free-gauge]: https://hieudoanm.github.io/free/gauge/
 [free-mixer]: https://hieudoanm.github.io/free/mixer/
-[free-ports]: https://hieudoanm.github.io/free/ports/
 [free-snap]: https://hieudoanm.github.io/free/snap/
 [free-top]: https://hieudoanm.github.io/free/top/
 [free-kevin]: https://hieudoanm.github.io/free/kevin/
@@ -299,10 +331,8 @@
 [releases-docs]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-utilities-docs-latest
 [releases-password]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-utilities-password-latest
 [releases-brewery]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-brewery-latest
-[releases-clipper]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-clipper-latest
 [releases-gauge]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-gauge-latest
 [releases-mixer]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-mixer-latest
-[releases-ports]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-ports-latest
 [releases-snap]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-snap-latest
 [releases-top]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-top-latest
 [releases-block]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-android-block-latest
