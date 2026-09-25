@@ -26,7 +26,7 @@
 
 ---
 
-## [Open Releases](https://hieudoanm.github.io/open)
+## [Open Releases (38)](https://hieudoanm.github.io/open)
 
 ### Browser Extensions and Native Apps (3)
 
@@ -50,7 +50,7 @@
 
 ---
 
-### Hybrid (31)
+### Hybrid (30)
 
 #### Business (2)
 
@@ -164,13 +164,12 @@
 
 ---
 
-#### Utilities (3)
+#### Utilities (2)
 
 | No  | Platform | Category  | Name     | Open                  | Releases                      |
 | --- | -------- | --------- | -------- | --------------------- | ----------------------------- |
-| 37  | Hybrid   | Utilities | Clock    | [Open][open-clock]    | [Releases][releases-clock]    |
-| 38  | Hybrid   | Utilities | Docs     | [Open][open-docs]     | [Releases][releases-docs]     |
-| 39  | Hybrid   | Utilities | Password | [Open][open-password] | [Releases][releases-password] |
+| 37  | Hybrid   | Utilities | Docs     | [Open][open-docs]     | [Releases][releases-docs]     |
+| 38  | Hybrid   | Utilities | Password | [Open][open-password] | [Releases][releases-password] |
 
 ---
 
@@ -206,7 +205,6 @@
 [open-chess]: https://hieudoanm.github.io/open/chess/
 [open-football]: https://hieudoanm.github.io/open/football/
 [open-tourney]: https://hieudoanm.github.io/open/tourney/
-[open-clock]: https://hieudoanm.github.io/open/clock/
 [open-docs]: https://hieudoanm.github.io/
 [open-password]: https://hieudoanm.github.io/open/password/
 [open-jack]: https://hieudoanm.github.io/open/jack/
@@ -245,7 +243,6 @@
 [releases-chess]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-sports-chess-latest
 [releases-football]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-sports-football-latest
 [releases-tourney]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-sports-tourney-latest
-[releases-clock]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-utilities-clock-latest
 [releases-docs]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-utilities-docs-latest
 [releases-password]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-utilities-password-latest
 [releases-macosx]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-native-macos-macosx-latest
