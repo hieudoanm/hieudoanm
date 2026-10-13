@@ -13,6 +13,21 @@
 [twitter]: https://x.com/hieudoanm
 [instagram]: https://instagram.com/hieudoanm.github.io
 
+## Neuroimaging Projects (3)
+
+| No  | Name      | Repository         | Releases                    |
+| --- | --------- | ------------------ | --------------------------- |
+| 01  | `EEG Lab` | [lab.eeg][lab-eeg] | [Download][lab-eeg-release] |
+| 02  | `MEG Lab` | [lab.meg][lab-meg] | [Download][lab-meg-release] |
+| 03  | `MRI Lab` | [lab.mri][lab-mri] | [Download][lab-mri-release] |
+
+[lab-eeg]: https://github.com/hieudoanm/lab.eeg
+[lab-meg]: https://github.com/hieudoanm/lab.meg
+[lab-mri]: https://github.com/hieudoanm/lab.mri
+[lab-eeg-release]: https://github.com/hieudoanm/lab.eeg/releases/tag/latest
+[lab-meg-release]: https://github.com/hieudoanm/lab.meg/releases/tag/latest
+[lab-mri-release]: https://github.com/hieudoanm/lab.mri/releases/tag/latest
+
 ## [Open Releases (30)](https://hieudoanm.github.io/open)
 
 ### Browser Extensions (1)
@@ -30,28 +45,28 @@
 
 ---
 
-### Headless (7)
+### Headless (8)
 
 | No  | Platform | Category        | Name           | Open                        | Releases                            |
 | --- | -------- | --------------- | -------------- | --------------------------- | ----------------------------------- |
 | 4   | Headless | Developer Tools | Backbone       | [Open][open-backbone]       | [Releases][releases-backbone]       |
 | 5   | Headless | Developer Tools | Browserverless | [Open][open-browserverless] | [Releases][releases-browserverless] |
-| 6   | Headless | Developer Tools | J.A.C.K.       | [Open][open-jack]           | [Releases][releases-jack]           |
-| 7   | Headless | Developer Tools | KeVIN          | [Open][open-kevin]          | [Releases][releases-kevin]          |
-| 8   | Headless | Developer Tools | Landify        | [Open][open-landify]        | [Releases][releases-landify]        |
-| 9   | Headless | Developer Tools | Pagify         | [Open][open-pagify]         | [Releases][releases-pagify]         |
-| 10  | Headless | Developer Tools | Vectify        | [Open][open-vectify]        | [Releases][releases-vectify]        |
+| 6   | Headless | Developer Tools | DBML           | [Open][open-dbml]           | [Releases][releases-dbml]           |
+| 7   | Headless | Developer Tools | J.A.C.K.       | [Open][open-jack]           | [Releases][releases-jack]           |
+| 8   | Headless | Developer Tools | KeVIN          | [Open][open-kevin]          | [Releases][releases-kevin]          |
+| 9   | Headless | Developer Tools | Landify        | [Open][open-landify]        | [Releases][releases-landify]        |
+| 10  | Headless | Developer Tools | Pagify         | [Open][open-pagify]         | [Releases][releases-pagify]         |
+| 11  | Headless | Developer Tools | Vectify        | [Open][open-vectify]        | [Releases][releases-vectify]        |
 
 ---
 
-### Hybrid (20)
+### Hybrid (19)
 
 | No  | Platform | Category          | Name        | Open                     | Releases                         |
 | --- | -------- | ----------------- | ----------- | ------------------------ | -------------------------------- |
-| 11  | Hybrid   | Developer Tools   | API         | [Open][open-api]         | [Releases][releases-api]         |
-| 12  | Hybrid   | Developer Tools   | Boilerplate | [Open][open-boilerplate] | [Releases][releases-boilerplate] |
-| 13  | Hybrid   | Developer Tools   | Code        | [Open][open-code]        | [Releases][releases-code]        |
-| 14  | Hybrid   | Developer Tools   | Database    | [Open][open-database]    | [Releases][releases-database]    |
+| 12  | Hybrid   | Developer Tools   | API         | [Open][open-api]         | [Releases][releases-api]         |
+| 13  | Hybrid   | Developer Tools   | Boilerplate | [Open][open-boilerplate] | [Releases][releases-boilerplate] |
+| 14  | Hybrid   | Developer Tools   | Code        | [Open][open-code]        | [Releases][releases-code]        |
 | 15  | Hybrid   | Developer Tools   | Diagram     | [Open][open-diagram]     | [Releases][releases-diagram]     |
 | 16  | Hybrid   | Education         | DOI         | [Open][open-doi]         | [Releases][releases-doi]         |
 | 17  | Hybrid   | Education         | Lingo       | [Open][open-lingo]       | [Releases][releases-lingo]       |
@@ -79,7 +94,7 @@
 [open-api]: https://hieudoanm.github.io/open/api/
 [open-boilerplate]: https://hieudoanm.github.io/open/boilerplate/
 [open-code]: https://hieudoanm.github.io/open/code/
-[open-database]: https://hieudoanm.github.io/open/database/
+[open-dbml]: https://hieudoanm.github.io/open/dbml/
 [open-diagram]: https://hieudoanm.github.io/open/diagram/
 [open-lingo]: https://hieudoanm.github.io/open/lingo/
 [open-doi]: https://hieudoanm.github.io/open/doi/
@@ -110,7 +125,6 @@
 [releases-api]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-developer-tools-api-latest
 [releases-boilerplate]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-developer-tools-boilerplate-latest
 [releases-code]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-developer-tools-code-latest
-[releases-database]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-developer-tools-database-latest
 [releases-diagram]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-developer-tools-diagram-latest
 [releases-lingo]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-education-lingo-latest
 [releases-doi]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-education-doi-latest
@@ -136,3 +150,4 @@
 [releases-pagify]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-headless-pagify-latest
 [releases-browserx]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/extensions-browser-browserx-latest
 [releases-vectify]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-headless-vectify-latest
+[releases-dbml]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-headless-dbml-latest
