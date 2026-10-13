@@ -28,7 +28,7 @@
 [lab-meg-release]: https://github.com/hieudoanm/lab.meg/releases/tag/latest
 [lab-mri-release]: https://github.com/hieudoanm/lab.mri/releases/tag/latest
 
-## [Open Releases (30)](https://hieudoanm.github.io/open)
+## [Open Releases (28)](https://hieudoanm.github.io/open)
 
 ### Browser Extensions (1)
 
@@ -45,44 +45,42 @@
 
 ---
 
-### Headless (8)
+### Headless (9)
 
 | No  | Platform | Category        | Name           | Open                        | Releases                            |
 | --- | -------- | --------------- | -------------- | --------------------------- | ----------------------------------- |
 | 4   | Headless | Developer Tools | Backbone       | [Open][open-backbone]       | [Releases][releases-backbone]       |
 | 5   | Headless | Developer Tools | Browserverless | [Open][open-browserverless] | [Releases][releases-browserverless] |
-| 6   | Headless | Developer Tools | DBML           | [Open][open-dbml]           | [Releases][releases-dbml]           |
-| 7   | Headless | Developer Tools | J.A.C.K.       | [Open][open-jack]           | [Releases][releases-jack]           |
-| 8   | Headless | Developer Tools | KeVIN          | [Open][open-kevin]          | [Releases][releases-kevin]          |
-| 9   | Headless | Developer Tools | Landify        | [Open][open-landify]        | [Releases][releases-landify]        |
-| 10  | Headless | Developer Tools | Pagify         | [Open][open-pagify]         | [Releases][releases-pagify]         |
-| 11  | Headless | Developer Tools | Vectify        | [Open][open-vectify]        | [Releases][releases-vectify]        |
+| 6   | Headless | Developer Tools | CV             | [Open][open-cv]             | [Releases][releases-cv]             |
+| 7   | Headless | Developer Tools | DBML           | [Open][open-dbml]           | [Releases][releases-dbml]           |
+| 8   | Headless | Developer Tools | J.A.C.K.       | [Open][open-jack]           | [Releases][releases-jack]           |
+| 9   | Headless | Developer Tools | KeVIN          | [Open][open-kevin]          | [Releases][releases-kevin]          |
+| 10  | Headless | Developer Tools | Landify        | [Open][open-landify]        | [Releases][releases-landify]        |
+| 11  | Headless | Developer Tools | Pagify         | [Open][open-pagify]         | [Releases][releases-pagify]         |
+| 12  | Headless | Developer Tools | Vectify        | [Open][open-vectify]        | [Releases][releases-vectify]        |
 
 ---
 
-### Hybrid (19)
+### Hybrid (16)
 
 | No  | Platform | Category          | Name        | Open                     | Releases                         |
 | --- | -------- | ----------------- | ----------- | ------------------------ | -------------------------------- |
-| 12  | Hybrid   | Developer Tools   | API         | [Open][open-api]         | [Releases][releases-api]         |
-| 13  | Hybrid   | Developer Tools   | Boilerplate | [Open][open-boilerplate] | [Releases][releases-boilerplate] |
-| 14  | Hybrid   | Developer Tools   | Code        | [Open][open-code]        | [Releases][releases-code]        |
-| 15  | Hybrid   | Developer Tools   | Diagram     | [Open][open-diagram]     | [Releases][releases-diagram]     |
-| 16  | Hybrid   | Education         | DOI         | [Open][open-doi]         | [Releases][releases-doi]         |
-| 17  | Hybrid   | Education         | Lingo       | [Open][open-lingo]       | [Releases][releases-lingo]       |
-| 18  | Hybrid   | Food & Drink      | Foody       | [Open][open-foody]       | [Releases][releases-foody]       |
-| 19  | Hybrid   | Graphics & Design | Exhibit     | [Open][open-exhibit]     | [Releases][releases-exhibit]     |
-| 20  | Hybrid   | Graphics & Design | SVG         | [Open][open-svg]         | [Releases][releases-svg]         |
-| 21  | Hybrid   | Medical           | Brainbow    | [Open][open-brainbow]    | [Releases][releases-brainbow]    |
-| 22  | Hybrid   | Medical           | MRI         | [Open][open-mri]         | [Releases][releases-mri]         |
-| 23  | Hybrid   | Productivity      | Office      | [Open][open-office]      | [Releases][releases-office]      |
-| 24  | Hybrid   | Productivity      | PDF         | [Open][open-pdf]         | [Releases][releases-pdf]         |
-| 25  | Hybrid   | Productivity      | Resume      | [Open][open-resume]      | [Releases][releases-resume]      |
-| 26  | Hybrid   | Shopping          | Store       | [Open][open-store]       | [Releases][releases-store]       |
-| 27  | Hybrid   | Sports            | Chess       | [Open][open-chess]       | [Releases][releases-chess]       |
-| 28  | Hybrid   | Sports            | Football    | [Open][open-football]    | [Releases][releases-football]    |
-| 29  | Hybrid   | Sports            | Tourney     | [Open][open-tourney]     | [Releases][releases-tourney]     |
-| 30  | Hybrid   | Utilities         | Docs        | [Open][open-docs]        | [Releases][releases-docs]        |
+| 13  | Hybrid   | Developer Tools   | API         | [Open][open-api]         | [Releases][releases-api]         |
+| 14  | Hybrid   | Developer Tools   | Boilerplate | [Open][open-boilerplate] | [Releases][releases-boilerplate] |
+| 15  | Hybrid   | Developer Tools   | Code        | [Open][open-code]        | [Releases][releases-code]        |
+| 16  | Hybrid   | Developer Tools   | Diagram     | [Open][open-diagram]     | [Releases][releases-diagram]     |
+| 17  | Hybrid   | Education         | DOI         | [Open][open-doi]         | [Releases][releases-doi]         |
+| 18  | Hybrid   | Education         | Lingo       | [Open][open-lingo]       | [Releases][releases-lingo]       |
+| 19  | Hybrid   | Food & Drink      | Foody       | [Open][open-foody]       | [Releases][releases-foody]       |
+| 20  | Hybrid   | Graphics & Design | Exhibit     | [Open][open-exhibit]     | [Releases][releases-exhibit]     |
+| 21  | Hybrid   | Graphics & Design | SVG         | [Open][open-svg]         | [Releases][releases-svg]         |
+| 22  | Hybrid   | Productivity      | Office      | [Open][open-office]      | [Releases][releases-office]      |
+| 23  | Hybrid   | Productivity      | PDF         | [Open][open-pdf]         | [Releases][releases-pdf]         |
+| 24  | Hybrid   | Shopping          | Store       | [Open][open-store]       | [Releases][releases-store]       |
+| 25  | Hybrid   | Sports            | Chess       | [Open][open-chess]       | [Releases][releases-chess]       |
+| 26  | Hybrid   | Sports            | Football    | [Open][open-football]    | [Releases][releases-football]    |
+| 27  | Hybrid   | Sports            | Tourney     | [Open][open-tourney]     | [Releases][releases-tourney]     |
+| 28  | Hybrid   | Utilities         | Docs        | [Open][open-docs]        | [Releases][releases-docs]        |
 
 ---
 
@@ -100,11 +98,9 @@
 [open-doi]: https://hieudoanm.github.io/open/doi/
 [open-foody]: https://hieudoanm.github.io/open/foody/
 [open-svg]: https://hieudoanm.github.io/open/svg/
-[open-brainbow]: https://hieudoanm.github.io/open/brainbow/
-[open-mri]: https://hieudoanm.github.io/open/mri/
 [open-office]: https://hieudoanm.github.io/open/office/
 [open-pdf]: https://hieudoanm.github.io/open/pdf/
-[open-resume]: https://hieudoanm.github.io/open/resume/
+[open-cv]: https://hieudoanm.github.io/open/cv/
 [open-store]: https://hieudoanm.github.io/open/store/
 [open-chess]: https://hieudoanm.github.io/open/chess/
 [open-football]: https://hieudoanm.github.io/open/football/
@@ -130,11 +126,8 @@
 [releases-doi]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-education-doi-latest
 [releases-foody]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-food-drink-foody-latest
 [releases-svg]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-graphics-design-svg-latest
-[releases-brainbow]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-medical-brainbow-latest
-[releases-mri]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-medical-mri-latest
 [releases-office]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-productivity-office-latest
 [releases-pdf]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-productivity-pdf-latest
-[releases-resume]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-productivity-resume-latest
 [releases-store]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-shopping-store-latest
 [releases-chess]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-sports-chess-latest
 [releases-football]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-hybrid-sports-football-latest
@@ -151,3 +144,4 @@
 [releases-browserx]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/extensions-browser-browserx-latest
 [releases-vectify]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-headless-vectify-latest
 [releases-dbml]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-headless-dbml-latest
+[releases-cv]: https://github.com/hieudoanm/hieudoanm.github.io/releases/tag/app-headless-cv-latest
