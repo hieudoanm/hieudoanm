@@ -23,14 +23,16 @@ Find me at [Resume][resume] · [LinkedIn][linkedin] · [Twitter][twitter] · [In
 3. 🌐 [Linguae][linguae] · [Repository][linguae.repo] — Detect the language of text with a local character-level model — no cloud, no pretrained weights, no network calls
 4. 🤖 [Local Learning Machine][llm.rs] · [Repository][llm.rs.repo] — Train supervised, semi-supervised, unsupervised, and offline reinforcement-learning models from CSV files and export them as portable ONNX models
 5. 🧠 [Neuroimaging Lab][neuro.lab] · [Repository][neuro.lab.repo] — Local-first desktop workspace for EEG, MEG, and MRI research data — Tauri + React frontend over Rust crates
-6. 🔍 [Tracers][tracers] · [Repository][tracers.repo] — A high-performance, multi-language code intelligence and graph analysis tool
-7. 🎙️ [Transcribers][transcribers] · [Repository][transcribers.repo] — Extract transcripts from video and audio files locally with ffmpeg and whisper.cpp
+6. 📟 [Pagers][pagers] · [Repository][pagers.repo] — A Rust static site generator: Markdown folder → clean-URL site with themes, a page-link graph, and Wikipedia import
+7. 🔍 [Tracers][tracers] · [Repository][tracers.repo] — A high-performance, multi-language code intelligence and graph analysis tool
+8. 🎙️ [Transcribers][transcribers] · [Repository][transcribers.repo] — Extract transcripts from video and audio files locally with ffmpeg and whisper.cpp
 
 [chess]: https://hieudoanm.github.io/chess/
 [grobid.rs]: https://hieudoanm.github.io/grobid.rs/
 [linguae]: https://hieudoanm.github.io/linguae/
 [llm.rs]: https://hieudoanm.github.io/llm.rs/
 [neuro.lab]: https://hieudoanm.github.io/neuro.lab/
+[pagers]: https://hieudoanm.github.io/pagers/
 [tracers]: https://hieudoanm.github.io/tracers/
 [transcribers]: https://hieudoanm.github.io/transcribers/
 
@@ -38,9 +40,10 @@ Find me at [Resume][resume] · [LinkedIn][linkedin] · [Twitter][twitter] · [In
 [grobid.rs.repo]: https://github.com/hieudoanm/grobid.rs
 [linguae.repo]: https://github.com/hieudoanm/linguae
 [llm.rs.repo]: https://github.com/hieudoanm/llm.rs
+[neuro.lab.repo]: https://github.com/hieudoanm/neuro.lab
+[pagers.repo]: https://github.com/hieudoanm/pagers
 [tracers.repo]: https://github.com/hieudoanm/tracers
 [transcribers.repo]: https://github.com/hieudoanm/transcribers
-[neuro.lab.repo]: https://github.com/hieudoanm/neuro.lab
 
 ## Design Projects
 
