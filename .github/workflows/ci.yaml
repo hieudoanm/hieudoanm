@@ -34,11 +34,11 @@ jobs:
             '<!doctype html><meta http-equiv="refresh" content="0; url=page/">' \
             '<a href="page/">Projects</a>' > _site/index.html
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v5.0.0
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: _site
 
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4.0.5
