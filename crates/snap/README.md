@@ -30,18 +30,17 @@ geckodriver --port 9515
 ## Installation
 
 ```sh
-cd scripts/rust/snap
-cargo install --path .   # installs the `snap` binary
-# or build and run without installing:
-cargo run -- https://example.com
+cargo install --path crates/snap   # installs the `snap` binary
+# or run from the repo root via the Cargo workspace:
+cargo run -p snap -- https://example.com
 ```
 
 ## Usage
 
-From this directory:
+From the repository root:
 
 ```sh
-cargo run --release -- https://example.com -o screenshot.png
+cargo run -p snap --release -- https://example.com -o screenshot.png
 snap --apps   # capture every app linked in the repo README
 # or via the repo Makefile:
 make -C ../.. snap SNAP_ARGS="https://example.com -o screenshot.png"

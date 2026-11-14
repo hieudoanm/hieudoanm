@@ -8,7 +8,8 @@ Conventions and commands for working in this repository.
 - `page/` — static landing page (plain HTML/CSS, no build step); deployed to GitHub Pages
 - `assets/` — static assets; `branding/` holds README images/SVGs and `svg-to-png.sh`
 - `scripts/shell/` — standalone Bash utilities (self-contained, executable)
-- `scripts/rust/snap/` — Rust CLI that captures website screenshots via Firefox + geckodriver
+- `crates/` — Cargo workspace: `snap` (Firefox screenshots) and `harness`
+  (MCP client + LLM agent loop)
 - `notes/` — design rules and other notes (`ai-unslop-design.md` applies to `page/`)
 
 ## Commands
@@ -26,6 +27,9 @@ via `FIREFOX_BINARY` (Firefox Developer Edition is installed at
 
 Regenerate branding PNGs: `./assets/branding/svg-to-png.sh assets/branding`
 (requires `brew install librsvg`).
+
+Rust crates live in the `crates/` Cargo workspace — build with
+`cargo build -p snap` / `cargo build -p harness` from the repo root.
 
 ## Rules
 

@@ -29,7 +29,7 @@ GitHub Pages by `.github/workflows/ci.yaml` (uploads `page/` verbatim).
 - **Relative paths only** (`styles.css`, `images/…`, `scripts.js`) — the page
   must work over `file://` and under any GitHub Pages base path.
 - **All project data lives in `scripts.js`.** To add a project: add an entry to
-  `APPS`, add the slug to `APPS` in `../scripts/rust/snap/src/main.rs`, run
+  `APPS`, add the slug to `APPS` in `../crates/snap/src/main.rs`, run
   `make snap-apps` from the repo root. Never hardcode cards back into
   `index.html`.
 - **Interactivity is CSS-first.** The Gallery/List toggle and accordions use

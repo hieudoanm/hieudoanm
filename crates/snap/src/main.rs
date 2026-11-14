@@ -64,8 +64,8 @@ struct Args {
     firefox_binary: Option<String>,
 }
 
-/// Repo root relative to this crate (scripts/rust/snap -> repo root).
-const REPO_ROOT: &str = concat!(env!("CARGO_MANIFEST_DIR"), "/../../..");
+/// Repo root relative to this crate (crates/snap -> repo root).
+const REPO_ROOT: &str = concat!(env!("CARGO_MANIFEST_DIR"), "/../..");
 
 /// Apps linked from the repo README as https://hieudoanm.github.io/<app>.
 const APPS_BASE: &str = "https://hieudoanm.github.io";
@@ -113,7 +113,8 @@ fn default_output() -> std::path::PathBuf {
 /// WebDriver session sized to the requested viewport.
 async fn connect(args: &Args) -> Result<WebDriver> {
     let mut caps = DesiredCapabilities::firefox();
-    caps.set_headless().context("failed to configure headless mode")?;
+    caps.set_headless()
+        .context("failed to configure headless mode")?;
     caps.add_arg(&format!("-width={}", args.width))
         .context("failed to set Firefox width argument")?;
     caps.add_arg(&format!("-height={}", args.height))
@@ -126,12 +127,10 @@ async fn connect(args: &Args) -> Result<WebDriver> {
     }
 
     info!("Connecting to geckodriver at {}", args.geckodriver);
-    let driver = WebDriver::new(&args.geckodriver, caps)
-        .await
-        .context(
-            "failed to start a WebDriver session; is geckodriver running? \
+    let driver = WebDriver::new(&args.geckodriver, caps).await.context(
+        "failed to start a WebDriver session; is geckodriver running? \
              Start it with `geckodriver` and retry (see README)",
-        )?;
+    )?;
 
     info!("Setting viewport to {}x{}", args.width, args.height);
     driver

@@ -10,7 +10,7 @@ Thanks for contributing to the `hieudoanm` profile repository.
 - `assets/` — static assets; `branding/` holds README images/SVGs and
   `svg-to-png.sh`.
 - `scripts/shell/` — standalone Bash utilities.
-- `scripts/rust/snap/` — Rust CLI that captures website screenshots.
+- `crates/snap/` — Rust CLI that captures website screenshots.
 - `notes/` — design rules and notes.
 
 ## Rules
@@ -30,7 +30,7 @@ Thanks for contributing to the `hieudoanm` profile repository.
 bash -n scripts/shell/*.sh
 
 # snap CLI
-cd scripts/rust/snap && cargo fmt --check && cargo clippy && cargo test
+cargo fmt --all -- --check && cargo clippy --workspace && cargo test --workspace
 ```
 
 ## Pull requests

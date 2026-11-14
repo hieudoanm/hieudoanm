@@ -24,7 +24,7 @@ frameworks, no dependencies.
 
 Images in `images/landing/` are captured from
 `https://hieudoanm.github.io/<app>/` with the
-[`snap`](../scripts/rust/snap/README.md) tool:
+[`snap`](../crates/snap/README.md) tool:
 
 ```sh
 make snap-apps     # captures every app in snap's APPS list -> page/images/landing/
@@ -32,7 +32,7 @@ make snap-readmes  # captures every app's GitHub README -> page/images/readme/
 ```
 
 When adding a project, add its entry to `APPS` in `scripts.js`, add the app name
-to `APPS` in `scripts/rust/snap/src/main.rs`, and re-run `make snap-apps`.
+to `APPS` in `crates/snap/src/main.rs`, and re-run `make snap-apps`.
 
 ## Design rules
 

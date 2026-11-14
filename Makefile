@@ -17,20 +17,33 @@ GECKODRIVER_GUARD = \
 		trap 'kill $$GPID 2>/dev/null || true' EXIT; \
 	fi;
 
-# Capture a website screenshot with Firefox (scripts/rust/snap).
+# Capture a website screenshot with Firefox (crates/snap).
 # Usage: make snap SNAP_ARGS="https://example.com -o shot.png"
 snap:
-	@$(GECKODRIVER_GUARD) cd scripts/rust/snap && GECKODRIVER_URL="$(GECKODRIVER_URL)" cargo run --release -- $(SNAP_ARGS)
+	@$(GECKODRIVER_GUARD) GECKODRIVER_URL="$(GECKODRIVER_URL)" cargo run -p snap --release -- $(SNAP_ARGS)
 
 # Capture all apps listed in the README to page/images/landing/<app>.png
 # Usage: make snap-apps SNAP_ARGS="--settle 500"
 snap-apps:
-	@$(GECKODRIVER_GUARD) cd scripts/rust/snap && GECKODRIVER_URL="$(GECKODRIVER_URL)" cargo run --release -- --apps $(SNAP_ARGS)
+	@$(GECKODRIVER_GUARD) GECKODRIVER_URL="$(GECKODRIVER_URL)" cargo run -p snap --release -- --apps $(SNAP_ARGS)
 
 # Capture all apps' GitHub READMEs (full page) to page/images/readme/<app>.png
 # Usage: make snap-readmes SNAP_ARGS="--settle 500"
 snap-readmes:
-	@$(GECKODRIVER_GUARD) cd scripts/rust/snap && GECKODRIVER_URL="$(GECKODRIVER_URL)" cargo run --release -- --readmes $(SNAP_ARGS)
+	@$(GECKODRIVER_GUARD) GECKODRIVER_URL="$(GECKODRIVER_URL)" cargo run -p snap --release -- --readmes $(SNAP_ARGS)
 
 snap-build:
-	cd scripts/rust/snap && cargo build --release
+	cargo build --release -p snap
+
+# Build all crates in the workspace (snap + harness)
+crates-build:
+	cargo build --workspace
+
+# Build the agent harness in release mode
+harness-build:
+	cargo build --release -p harness
+
+# Run the harness (needs LLM_* env and an MCP config; see crates/harness/README.md)
+# Usage: make harness-run HARNESS_ARGS="--config mcp.json tui"
+harness-run:
+	cargo run -p harness -- $(HARNESS_ARGS)

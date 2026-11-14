@@ -22,7 +22,7 @@ brew install librsvg   # provides rsvg-convert
 
 Screenshots of the projects listed in the README are **not** stored here.
 They live in [`page/images/landing/`](../page/images/landing/) next to the landing page and
-are captured with the [`snap`](../scripts/rust/snap/README.md) tool:
+are captured with the [`snap`](../crates/snap/README.md) tool:
 
 ```sh
 make snap-apps     # writes page/images/landing/<app>.png for each README app link
