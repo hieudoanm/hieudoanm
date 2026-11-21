@@ -13,7 +13,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 <!-- Profile -->
 
 [hieudoanm]: https://hieudoanm.github.io
-[resume]: https://github.com/hieudoanm/hieudoanm.github.io/blob/master/RESUME.md
+[resume]: https://hieudoanm.github.io/resume
 [linkedin]: https://www.linkedin.com/in/hieudoanm/
 [twitter]: https://x.com/hieudoanm
 [kofi]: https://ko-fi.com/hieudoan
