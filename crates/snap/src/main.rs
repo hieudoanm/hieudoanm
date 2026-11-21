@@ -87,6 +87,7 @@ const APPS: &[&str] = &[
     "monkey",
     "neo.bank",
     "neuro.imagers",
+    "resume",
     "tracers",
     "transcribers",
     "vectors",

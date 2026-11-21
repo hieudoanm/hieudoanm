@@ -109,6 +109,14 @@
       repo: 'https://github.com/hieudoanm/neuro.imagers',
     },
     {
+      slug: 'resume',
+      title: 'Resume',
+      imgAlt: 'Resume screenshot',
+      desc: 'Rust CLI that renders YAML resumes to Markdown, HTML, and PDF — plus a browser resume editor on GitHub Pages.',
+      url: 'https://hieudoanm.github.io/resume/',
+      repo: 'https://github.com/hieudoanm/resume',
+    },
+    {
       slug: 'tracers',
       title: 'Tracers',
       imgAlt: 'Tracers screenshot',
