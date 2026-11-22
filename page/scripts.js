@@ -13,12 +13,12 @@
       repo: 'https://github.com/hieudoanm/api',
     },
     {
-      slug: 'blazers',
-      title: 'Blazers',
-      imgAlt: 'Blazers screenshot',
+      slug: 'backers',
+      title: 'Backers',
+      imgAlt: 'Backers screenshot',
       desc: 'Blazing fast Back-end as a Service — auth, database, realtime, webhooks and MCP in one Rust binary.',
-      url: 'https://hieudoanm.github.io/blazers/',
-      repo: 'https://github.com/hieudoanm/blazers',
+      url: 'https://hieudoanm.github.io/backers/',
+      repo: 'https://github.com/hieudoanm/backers',
     },
     {
       slug: 'browsers',

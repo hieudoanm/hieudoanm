@@ -21,7 +21,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 ## Build with Rust
 
 1. 📮 [API][api] · [Repository][api.repo] — Convert OpenAPI 3.x specs into ready-to-import collections for Postman, Bruno, Insomnia, and 7 more clients — one Rust CLI, MCP server, and in-browser WASM
-2. 🔥 [Blazers][blazers] · [Repository][blazers.repo] — Blazing fast Back-end as a Service: auth, database, files, realtime, webhooks, cron, secrets and MCP in one Rust binary on SQLite
+2. 🔥 [Backers][backers] · [Repository][backers.repo] — Blazing fast Back-end as a Service: auth, database, files, realtime, webhooks, cron, secrets and MCP in one Rust binary on SQLite
 3. 🕸️ [Browsers][browsers] · [Repository][browsers.repo] — A Servo-powered browser runtime as a library, CLI, and HTTP server — headless screenshots, scraping, and MCP tools from one Rust binary
 4. ♟️ [Chess][chess] · [Repository][chess.repo] — A UCI-compatible chess engine in Rust — alpha-beta search, incremental NNUE evaluation, and an MCP server for AI agents
 5. 🌐 [Linguae][linguae] · [Repository][linguae.repo] — Detect the language of text with a local character-level model — no cloud, no pretrained weights, no network calls
@@ -35,7 +35,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 13. 🖼️ [Vectors][vectors] · [Repository][vectors.repo] — Turn PNG and JPEG images into clean SVG paths — and rasterize SVG back to PNG at any size — entirely offline
 
 [api]: https://hieudoanm.github.io/api/
-[blazers]: https://hieudoanm.github.io/blazers/
+[backers]: https://hieudoanm.github.io/backers/
 [browsers]: https://hieudoanm.github.io/browsers/
 [chess]: https://hieudoanm.github.io/chess/
 [linguae]: https://hieudoanm.github.io/linguae/
@@ -49,7 +49,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 [vectors]: https://hieudoanm.github.io/vectors/
 
 [api.repo]: https://github.com/hieudoanm/api
-[blazers.repo]: https://github.com/hieudoanm/blazers
+[backers.repo]: https://github.com/hieudoanm/backers
 [browsers.repo]: https://github.com/hieudoanm/browsers
 [chess.repo]: https://github.com/hieudoanm/chess
 [linguae.repo]: https://github.com/hieudoanm/linguae

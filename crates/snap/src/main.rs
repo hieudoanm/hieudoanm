@@ -75,7 +75,7 @@ const REPO_ROOT: &str = concat!(env!("CARGO_MANIFEST_DIR"), "/../..");
 const APPS_BASE: &str = "https://hieudoanm.github.io";
 const APPS: &[&str] = &[
     "api",
-    "blazers",
+    "backers",
     "browsers",
     "chess",
     "design.system.design",
