@@ -25,6 +25,8 @@ DIRTY=0
 NO_REMOTE=0
 MERGED_BRANCHES=0
 DELETED_BRANCHES=0
+ORPHAN_COMMITS=0
+PRUNED_COMMITS=0
 FAILED=0
 
 RESET='\033[0m'
@@ -163,6 +165,31 @@ inspect_repository() {
         git remote -v | sort -u
     fi
 
+    # Orphan (unreachable) commits — kept alive only by the reflog
+    local orphan_count
+    orphan_count=$(git fsck --unreachable --no-progress 2>/dev/null \
+        | grep -c '^unreachable commit' || true)
+
+    if [[ "$orphan_count" -gt 0 ]]; then
+        ORPHAN_COMMITS=$((ORPHAN_COMMITS + orphan_count))
+        warn "Orphan commits detected: $orphan_count"
+
+        if [[ "$APPLY" == true ]]; then
+            if git reflog expire --expire=now --all \
+                && git gc --prune=now --quiet; then
+                success "Pruned $orphan_count orphan commit(s)."
+                PRUNED_COMMITS=$((PRUNED_COMMITS + orphan_count))
+            else
+                warn "Could not prune orphan commits."
+                FAILED=$((FAILED + 1))
+            fi
+        else
+            warn "Dry run: orphan commits will not be pruned."
+        fi
+    else
+        success "No orphan commits."
+    fi
+
     # Default branch detection
     local default_ref
     local default_branch
@@ -253,6 +280,7 @@ main() {
     if [[ "$APPLY" == true ]]; then
         warn "APPLY MODE ENABLED."
         warn "Merged local branches may be deleted."
+        warn "Orphan commits will be pruned (reflog expired, git gc)."
         warn "Repository files and remote branches will not be deleted."
         echo
         read -r -p "Continue? [y/N] " confirmation
@@ -265,7 +293,7 @@ main() {
                 ;;
         esac
     else
-        info "Dry-run mode: no branches will be deleted."
+        info "Dry-run mode: no branches will be deleted, no commits pruned."
     fi
 
     local repo
@@ -293,6 +321,8 @@ main() {
     echo "Without remotes        : $NO_REMOTE"
     echo "Merged branches found  : $MERGED_BRANCHES"
     echo "Branches deleted       : $DELETED_BRANCHES"
+    echo "Orphan commits found   : $ORPHAN_COMMITS"
+    echo "Orphan commits pruned  : $PRUNED_COMMITS"
     echo "Failed operations      : $FAILED"
     echo "Duration               : $(elapsed)"
     echo "============================================================"
