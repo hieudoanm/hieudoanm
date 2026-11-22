@@ -73,7 +73,7 @@ function render(d) {
     }) +
     ' UTC';
   document.getElementById('pgen').innerHTML =
-    `<a href="https://github.com/hieudoanm/hieudoanm/blob/master/page/versus-masters/versus.py" target="_blank" rel="noopener noreferrer">Generated</a> at ${genStr}`;
+    `<a href="https://github.com/hieudoanm/hieudoanm/blob/master/page/chess/versus-masters/versus.py" target="_blank" rel="noopener noreferrer">Generated</a> at ${genStr}`;
   if (p.avatar) {
     const a = document.getElementById('avatar');
     a.src = p.avatar;
@@ -297,6 +297,6 @@ async function discoverUsers() {
     document.getElementById('main').innerHTML =
       `<div class="err">Could not load <code>${jsonBase}${requested}_stats.json</code><br>
      ${esc(e.message)} — serve this folder over HTTP, e.g.<br>
-     <code>cd page/versus-masters && python3 -m http.server 8000</code></div>`;
+     <code>cd page/chess/versus-masters && python3 -m http.server 8000</code></div>`;
   }
 })();
