@@ -53,11 +53,18 @@ function thSort(id, key, sort, label) {
   )}${arrow}</th>`;
 }
 
+function scoreDot(o) {
+  const cls = o.score > 0.55 ? 'pos' : o.score < 0.45 ? 'neg' : 'neu';
+  const label =
+    cls === 'pos' ? 'you score well' : cls === 'neg' ? 'they score well' : 'evenly matched';
+  return `<span class="sdot ${cls}" title="${label}: you ${(o.score * 100).toFixed(0)}%"></span>`;
+}
+
 function avatarCell(o) {
   const inner = o.avatar
     ? `<img src="${esc(o.avatar)}" alt="" loading="lazy" />`
     : '<span class="ph"></span>';
-  return `<span class="opp-cell">${inner}<span>${esc(o.opponent)}</span></span>`;
+  return `<span class="opp-cell">${inner}${scoreDot(o)}<a href="${memberUrl(o.opponent)}" target="_blank" rel="noopener noreferrer">${esc(o.opponent)}</a></span>`;
 }
 
 const oppVal = {
@@ -83,12 +90,12 @@ const oppHeads = [
   ['last', 'Last'],
 ];
 const headRow = (fn, sort) =>
-  oppHeads.map(([k, l]) => thSort(fn, k, sort, l)).join('');
+  '<th class="rank">#</th>' + oppHeads.map(([k, l]) => thSort(fn, k, sort, l)).join('');
 
 const memberUrl = (u) =>
   `https://www.chess.com/member/${encodeURIComponent(u)}`;
 
-const oppRow = (o) => `<tr><td>${avatarCell(o)}</td>
+const oppRow = (o, i) => `<tr><td class="rank">${i + 1}</td><td>${avatarCell(o)}</td>
     <td>${esc(o.title || '')}</td><td>${o.games}</td>
     <td class="w">${o.wins}</td><td class="d">${o.draws}</td>
     <td class="l">${o.losses}</td>

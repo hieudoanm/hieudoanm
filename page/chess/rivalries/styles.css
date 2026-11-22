@@ -269,3 +269,34 @@ td a.game-link {
 td a.game-link:hover {
   color: var(--accent);
 }
+
+/* Score indicator dot + rank column */
+.sdot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex: none;
+}
+.sdot.pos {
+  background: var(--win);
+}
+.sdot.neu {
+  background: var(--draw);
+}
+.sdot.neg {
+  background: var(--loss);
+}
+th.rank,
+td.rank {
+  color: var(--muted);
+  text-align: right;
+  min-width: 2rem;
+}
+.opp-cell a {
+  color: var(--text);
+  text-decoration: none;
+}
+.opp-cell a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
