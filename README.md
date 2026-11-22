@@ -21,7 +21,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 ## Build with Rust
 
 1. 📮 [API][api] · [Repository][api.repo] — Convert OpenAPI 3.x specs into ready-to-import collections for Postman, Bruno, Insomnia, and 7 more clients — one Rust CLI, MCP server, and in-browser WASM
-2. 🔥 [Backers][backers] · [Repository][backers.repo] — Blazing fast Back-end as a Service: auth, database, files, realtime, webhooks, cron, secrets and MCP in one Rust binary on SQLite
+2. 🔥 [Backers][backers] · [Repository][backers.repo] — Back-end as a Service: auth, database, files, realtime, webhooks, cron, secrets and MCP in one Rust binary on SQLite
 3. 🕸️ [Browsers][browsers] · [Repository][browsers.repo] — A Servo-powered browser runtime as a library, CLI, and HTTP server — headless screenshots, scraping, and MCP tools from one Rust binary
 4. ♟️ [Chess][chess] · [Repository][chess.repo] — A UCI-compatible chess engine in Rust — alpha-beta search, incremental NNUE evaluation, and an MCP server for AI agents
 5. 🌐 [Linguae][linguae] · [Repository][linguae.repo] — Detect the language of text with a local character-level model — no cloud, no pretrained weights, no network calls
