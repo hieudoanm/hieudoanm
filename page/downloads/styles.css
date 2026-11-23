@@ -78,12 +78,21 @@ main {
   max-width: 72rem;
   margin: 0 auto;
   padding: 1.5rem;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.table-scroll {
   overflow-x: auto;
 }
 
 .dl-table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -133,6 +142,16 @@ main {
 .dl {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.8rem;
+}
+.dl-icon {
+  display: inline-block;
+  margin-left: 0.3rem;
+  color: var(--muted);
+  vertical-align: -0.05em;
+}
+.dl a:hover + .dl-icon,
+.file a:hover + .dl-icon {
+  color: var(--accent);
 }
 .dl a {
   color: var(--text);

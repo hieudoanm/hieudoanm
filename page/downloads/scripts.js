@@ -24,6 +24,9 @@ const APP_NAMES = {
 };
 const appName = (app) => APP_NAMES[app] || app;
 
+const DL_ICON =
+  '<svg class="dl-icon" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>';
+
 function fileName(url) {
   return decodeURIComponent(url.split('/download/').pop());
 }
@@ -151,10 +154,10 @@ function cliLabel(url) {
   const f = lower(url);
   if (f.includes('apple-darwin'))
     return f.includes('aarch64') || f.includes('arm64')
-      ? 'CLI for Apple (Silicon)'
-      : 'CLI for Apple (Intel)';
-  if (f.includes('linux')) return 'CLI for Linux';
-  if (f.includes('windows')) return 'CLI for Windows';
+      ? 'macOS (Silicon)'
+      : 'macOS (Intel)';
+  if (f.includes('linux')) return 'Linux';
+  if (f.includes('windows')) return 'Windows';
   return 'CLI';
 }
 
@@ -177,7 +180,7 @@ function cellFor(links, test, labelFn = fileName) {
     .map((m) => {
       const size = formatSize(m.size);
       const label = labelFn(m.url);
-      const link = `<a href="${m.url}" target="_blank" rel="noopener noreferrer" title="${fileName(m.url)}${size ? ` — ${size}` : ''}">${label}</a>`;
+      const link = `<a href="${m.url}" target="_blank" rel="noopener noreferrer" title="${fileName(m.url)}${size ? ` — ${size}` : ''}">${label}</a>${DL_ICON}`;
       return size ? `${link}<br><span class="size">(${size})</span>` : link;
     })
     .join('<br>')}</td>`;
@@ -201,12 +204,14 @@ function matrixTable(title, links, cols, { labelFn } = {}) {
     .join('');
   return `
     <h2 class="section-title">${title} <span class="count">${apps.length} apps</span></h2>
-    <table class="dl-table">
-      <thead>
-        <tr><th>No.</th><th>App</th>${cols.map((c) => `<th>${c.label}</th>`).join('')}</tr>
-      </thead>
-      <tbody>${rows}</tbody>
-    </table>`;
+    <div class="table-scroll">
+      <table class="dl-table">
+        <thead>
+          <tr><th>No.</th><th>App</th>${cols.map((c) => `<th>${c.label}</th>`).join('')}</tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>`;
 }
 
 function otherTable(links) {
@@ -220,7 +225,7 @@ function otherTable(links) {
       <tr>
         <td class="no">${++no}</td>
         <td class="app-cell"><a href="${APPS_BASE}/${app}/downloads/" target="_blank" rel="noopener noreferrer">${appName(app)}</a></td>
-        <td class="file"><a href="${f.url}" target="_blank" rel="noopener noreferrer" title="${fn}">${fn}</a></td>
+        <td class="file"><a href="${f.url}" target="_blank" rel="noopener noreferrer" title="${fn}">${fn}</a>${DL_ICON}</td>
         <td class="platform">${f.platform}</td>
         <td class="size">${formatSize(f.size)}</td>
       </tr>`);
@@ -228,12 +233,14 @@ function otherTable(links) {
   }
   return `
     <h2 class="section-title">Other files <span class="count">${links.length}</span></h2>
-    <table class="dl-table">
-      <thead>
-        <tr><th>No.</th><th>App</th><th>File</th><th>Platform</th><th>Size</th></tr>
-      </thead>
-      <tbody>${rows.join('')}</tbody>
-    </table>`;
+    <div class="table-scroll">
+      <table class="dl-table">
+        <thead>
+          <tr><th>No.</th><th>App</th><th>File</th><th>Platform</th><th>Size</th></tr>
+        </thead>
+        <tbody>${rows.join('')}</tbody>
+      </table>
+    </div>`;
 }
 
 function render(list) {

@@ -21,6 +21,20 @@
     "url": "https://github.com/hieudoanm/api/releases/latest/download/cli-api-x86_64-unknown-linux-gnu"
   },
   {
+    "app": "api",
+    "platform": "VS Code",
+    "label": "extension-vscode-api.vsix",
+    "size": 242434,
+    "url": "https://github.com/hieudoanm/api/releases/latest/download/extension-vscode-api.vsix"
+  },
+  {
+    "app": "api",
+    "platform": "Zed",
+    "label": "extension-zed-api.tar.gz",
+    "size": 8026,
+    "url": "https://github.com/hieudoanm/api/releases/latest/download/extension-zed-api.tar.gz"
+  },
+  {
     "app": "backers",
     "platform": "macOS",
     "label": "cli-backers-aarch64-apple-darwin",
@@ -346,14 +360,14 @@
     "app": "monkey",
     "platform": "VS Code",
     "label": "extension-vscode-monkey-c.vsix",
-    "size": 103569,
+    "size": 103568,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-vscode-monkey-c.vsix"
   },
   {
     "app": "monkey",
     "platform": "Zed",
     "label": "extension-zed-monkey-c.tar.gz",
-    "size": 30800,
+    "size": 30798,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-zed-monkey-c.tar.gz"
   },
   {
