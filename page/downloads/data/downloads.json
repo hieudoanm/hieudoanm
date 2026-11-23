@@ -8,6 +8,13 @@
   },
   {
     "app": "api",
+    "platform": "macOS",
+    "label": "cli-api-x86_64-apple-darwin",
+    "size": 1678504,
+    "url": "https://github.com/hieudoanm/api/releases/latest/download/cli-api-x86_64-apple-darwin"
+  },
+  {
+    "app": "api",
     "platform": "Windows",
     "label": "cli-api-x86_64-pc-windows-msvc.exe",
     "size": 1807872,
@@ -99,6 +106,13 @@
   },
   {
     "app": "fdr",
+    "platform": "macOS",
+    "label": "cli-fdr-x86_64-apple-darwin",
+    "size": 1969688,
+    "url": "https://github.com/hieudoanm/fdr/releases/latest/download/cli-fdr-x86_64-apple-darwin"
+  },
+  {
+    "app": "fdr",
     "platform": "Windows",
     "label": "cli-fdr-x86_64-pc-windows-msvc.exe",
     "size": 1536512,
@@ -136,35 +150,35 @@
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.app.zip",
-    "size": 2932510,
+    "size": 2932362,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.dmg",
-    "size": 3101389,
+    "size": 3101223,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.app.zip",
-    "size": 3086021,
+    "size": 3085749,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.dmg",
-    "size": 3260534,
+    "size": 3260445,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "Windows",
     "label": "desktop-linguae-x86_64-pc-windows-msvc-setup.exe",
-    "size": 2312642,
+    "size": 2312574,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -185,14 +199,14 @@
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.deb",
-    "size": 3550002,
+    "size": 3549552,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.rpm",
-    "size": 3555537,
+    "size": 3555113,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -323,6 +337,13 @@
   },
   {
     "app": "markers",
+    "platform": "macOS",
+    "label": "cli-markers-x86_64-apple-darwin",
+    "size": 22162664,
+    "url": "https://github.com/hieudoanm/markers/releases/latest/download/cli-markers-x86_64-apple-darwin"
+  },
+  {
+    "app": "markers",
     "platform": "Windows",
     "label": "cli-markers-x86_64-pc-windows-msvc.exe",
     "size": 18631680,
@@ -332,7 +353,7 @@
     "app": "markers",
     "platform": "Linux",
     "label": "cli-markers-x86_64-unknown-linux-gnu",
-    "size": 25494848,
+    "size": 25494744,
     "url": "https://github.com/hieudoanm/markers/releases/latest/download/cli-markers-x86_64-unknown-linux-gnu"
   },
   {
@@ -341,6 +362,13 @@
     "label": "cli-monkey-aarch64-apple-darwin",
     "size": 2117152,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/cli-monkey-aarch64-apple-darwin"
+  },
+  {
+    "app": "monkey",
+    "platform": "macOS",
+    "label": "cli-monkey-x86_64-apple-darwin",
+    "size": 2228552,
+    "url": "https://github.com/hieudoanm/monkey/releases/latest/download/cli-monkey-x86_64-apple-darwin"
   },
   {
     "app": "monkey",
@@ -367,7 +395,7 @@
     "app": "monkey",
     "platform": "Zed",
     "label": "extension-zed-monkey-c.tar.gz",
-    "size": 30798,
+    "size": 30800,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-zed-monkey-c.tar.gz"
   },
   {
@@ -402,7 +430,7 @@
     "app": "neuro.imagers",
     "platform": "macOS",
     "label": "desktop-neuro-aarch64-apple-darwin.dmg",
-    "size": 4422321,
+    "size": 4422305,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-aarch64-apple-darwin.dmg"
   },
   {
@@ -416,14 +444,14 @@
     "app": "neuro.imagers",
     "platform": "macOS",
     "label": "desktop-neuro-x86_64-apple-darwin.dmg",
-    "size": 4803338,
+    "size": 4803335,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-apple-darwin.dmg"
   },
   {
     "app": "neuro.imagers",
     "platform": "Windows",
     "label": "desktop-neuro-x86_64-pc-windows-msvc-setup.exe",
-    "size": 3243758,
+    "size": 3242770,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -444,14 +472,14 @@
     "app": "neuro.imagers",
     "platform": "Linux",
     "label": "desktop-neuro-x86_64-unknown-linux-gnu.deb",
-    "size": 5100080,
+    "size": 5100078,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "neuro.imagers",
     "platform": "Linux",
     "label": "desktop-neuro-x86_64-unknown-linux-gnu.rpm",
-    "size": 5105250,
+    "size": 5105252,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -460,6 +488,13 @@
     "label": "cli-resume-aarch64-apple-darwin",
     "size": 5341472,
     "url": "https://github.com/hieudoanm/resume/releases/latest/download/cli-resume-aarch64-apple-darwin"
+  },
+  {
+    "app": "resume",
+    "platform": "macOS",
+    "label": "cli-resume-x86_64-apple-darwin",
+    "size": 5548112,
+    "url": "https://github.com/hieudoanm/resume/releases/latest/download/cli-resume-x86_64-apple-darwin"
   },
   {
     "app": "resume",
@@ -502,6 +537,13 @@
     "label": "cli-transcribers-aarch64-apple-darwin",
     "size": 17989712,
     "url": "https://github.com/hieudoanm/transcribers/releases/latest/download/cli-transcribers-aarch64-apple-darwin"
+  },
+  {
+    "app": "transcribers",
+    "platform": "macOS",
+    "label": "cli-transcribers-x86_64-apple-darwin",
+    "size": 17941104,
+    "url": "https://github.com/hieudoanm/transcribers/releases/latest/download/cli-transcribers-x86_64-apple-darwin"
   },
   {
     "app": "transcribers",
