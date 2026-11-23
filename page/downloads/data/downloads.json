@@ -38,7 +38,7 @@
     "app": "api",
     "platform": "Zed",
     "label": "extension-zed-api.tar.gz",
-    "size": 8026,
+    "size": 8027,
     "url": "https://github.com/hieudoanm/api/releases/latest/download/extension-zed-api.tar.gz"
   },
   {
@@ -47,6 +47,13 @@
     "label": "cli-backers-aarch64-apple-darwin",
     "size": 14129488,
     "url": "https://github.com/hieudoanm/backers/releases/latest/download/cli-backers-aarch64-apple-darwin"
+  },
+  {
+    "app": "backers",
+    "platform": "macOS",
+    "label": "cli-backers-x86_64-apple-darwin",
+    "size": 16109536,
+    "url": "https://github.com/hieudoanm/backers/releases/latest/download/cli-backers-x86_64-apple-darwin"
   },
   {
     "app": "backers",
@@ -68,6 +75,13 @@
     "label": "cli-browsers-aarch64-apple-darwin",
     "size": 142610912,
     "url": "https://github.com/hieudoanm/browsers/releases/latest/download/cli-browsers-aarch64-apple-darwin"
+  },
+  {
+    "app": "browsers",
+    "platform": "macOS",
+    "label": "cli-browsers-x86_64-apple-darwin",
+    "size": 146799088,
+    "url": "https://github.com/hieudoanm/browsers/releases/latest/download/cli-browsers-x86_64-apple-darwin"
   },
   {
     "app": "browsers",
@@ -164,35 +178,35 @@
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.app.zip",
-    "size": 2932471,
+    "size": 2932393,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.dmg",
-    "size": 3101394,
+    "size": 3101267,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.app.zip",
-    "size": 3085986,
+    "size": 3085745,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.dmg",
-    "size": 3260450,
+    "size": 3260427,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "Windows",
     "label": "desktop-linguae-x86_64-pc-windows-msvc-setup.exe",
-    "size": 2310971,
+    "size": 2313304,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -213,14 +227,14 @@
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.deb",
-    "size": 3550046,
+    "size": 3552524,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.rpm",
-    "size": 3555572,
+    "size": 3555228,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -269,7 +283,7 @@
     "app": "mars",
     "platform": "macOS",
     "label": "desktop-mars-aarch64-apple-darwin.dmg",
-    "size": 15181957,
+    "size": 15181963,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-aarch64-apple-darwin.dmg"
   },
   {
@@ -283,14 +297,14 @@
     "app": "mars",
     "platform": "macOS",
     "label": "desktop-mars-x86_64-apple-darwin.dmg",
-    "size": 15943978,
+    "size": 15943973,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-apple-darwin.dmg"
   },
   {
     "app": "mars",
     "platform": "Windows",
     "label": "desktop-mars-x86_64-pc-windows-msvc-setup.exe",
-    "size": 10843620,
+    "size": 10841758,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -311,14 +325,14 @@
     "app": "mars",
     "platform": "Linux",
     "label": "desktop-mars-x86_64-unknown-linux-gnu.deb",
-    "size": 19155100,
+    "size": 19152460,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "mars",
     "platform": "Linux",
     "label": "desktop-mars-x86_64-unknown-linux-gnu.rpm",
-    "size": 19159907,
+    "size": 19159906,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -332,15 +346,15 @@
     "app": "mars",
     "platform": "VS Code",
     "label": "extension-vscode-mars.vsix",
-    "size": 564275,
+    "size": 564279,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/extension-vscode-mars.vsix"
   },
   {
     "app": "mars",
     "platform": "Zed",
-    "label": "extension-zed-mars.wasm",
-    "size": 200781,
-    "url": "https://github.com/hieudoanm/mars/releases/latest/download/extension-zed-mars.wasm"
+    "label": "extension-zed-mars.tar.gz",
+    "size": 58802,
+    "url": "https://github.com/hieudoanm/mars/releases/latest/download/extension-zed-mars.tar.gz"
   },
   {
     "app": "markers",
@@ -367,7 +381,7 @@
     "app": "markers",
     "platform": "Linux",
     "label": "cli-markers-x86_64-unknown-linux-gnu",
-    "size": 25494632,
+    "size": 25494848,
     "url": "https://github.com/hieudoanm/markers/releases/latest/download/cli-markers-x86_64-unknown-linux-gnu"
   },
   {
@@ -409,7 +423,7 @@
     "app": "monkey",
     "platform": "Zed",
     "label": "extension-zed-monkey-c.tar.gz",
-    "size": 30800,
+    "size": 30796,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-zed-monkey-c.tar.gz"
   },
   {
@@ -418,6 +432,13 @@
     "label": "cli-neuro-aarch64-apple-darwin",
     "size": 2867104,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/cli-neuro-aarch64-apple-darwin"
+  },
+  {
+    "app": "neuro.imagers",
+    "platform": "macOS",
+    "label": "cli-neuro-x86_64-apple-darwin",
+    "size": 3014320,
+    "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/cli-neuro-x86_64-apple-darwin"
   },
   {
     "app": "neuro.imagers",
@@ -444,7 +465,7 @@
     "app": "neuro.imagers",
     "platform": "macOS",
     "label": "desktop-neuro-aarch64-apple-darwin.dmg",
-    "size": 4422305,
+    "size": 4422313,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-aarch64-apple-darwin.dmg"
   },
   {
@@ -465,7 +486,7 @@
     "app": "neuro.imagers",
     "platform": "Windows",
     "label": "desktop-neuro-x86_64-pc-windows-msvc-setup.exe",
-    "size": 3242770,
+    "size": 3244259,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -486,14 +507,14 @@
     "app": "neuro.imagers",
     "platform": "Linux",
     "label": "desktop-neuro-x86_64-unknown-linux-gnu.deb",
-    "size": 5100078,
+    "size": 5100066,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "neuro.imagers",
     "platform": "Linux",
     "label": "desktop-neuro-x86_64-unknown-linux-gnu.rpm",
-    "size": 5105252,
+    "size": 5105251,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -577,7 +598,7 @@
     "app": "transcribers",
     "platform": "Linux",
     "label": "cli-transcribers-x86_64-unknown-linux-gnu",
-    "size": 20032480,
+    "size": 20032712,
     "url": "https://github.com/hieudoanm/transcribers/releases/latest/download/cli-transcribers-x86_64-unknown-linux-gnu"
   },
   {
@@ -661,7 +682,7 @@
     "app": "vectors",
     "platform": "Zed",
     "label": "extension-zed-vectors.tar.gz",
-    "size": 7977,
+    "size": 7979,
     "url": "https://github.com/hieudoanm/vectors/releases/latest/download/extension-zed-vectors.tar.gz"
   }
 ]

@@ -139,6 +139,12 @@ body {
 .app-cell a:hover {
   color: var(--accent);
 }
+.app-cell .gh {
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-weight: 400;
+  margin-left: 0.35rem;
+}
 .dl {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.8rem;
