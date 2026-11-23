@@ -29,6 +29,13 @@
   },
   {
     "app": "api",
+    "platform": "JetBrains",
+    "label": "extension-jetbrains-api.zip",
+    "size": 19854,
+    "url": "https://github.com/hieudoanm/api/releases/latest/download/extension-jetbrains-api.zip"
+  },
+  {
+    "app": "api",
     "platform": "VS Code",
     "label": "extension-vscode-api.vsix",
     "size": 242434,
@@ -402,15 +409,22 @@
     "app": "monkey",
     "platform": "Windows",
     "label": "cli-monkey-x86_64-pc-windows-msvc.exe",
-    "size": 2157056,
+    "size": 2157568,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/cli-monkey-x86_64-pc-windows-msvc.exe"
   },
   {
     "app": "monkey",
     "platform": "Linux",
     "label": "cli-monkey-x86_64-unknown-linux-gnu",
-    "size": 2442376,
+    "size": 2442776,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/cli-monkey-x86_64-unknown-linux-gnu"
+  },
+  {
+    "app": "monkey",
+    "platform": "JetBrains",
+    "label": "extension-jetbrains-monkey-c-0.0.1.zip",
+    "size": 384901,
+    "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-jetbrains-monkey-c-0.0.1.zip"
   },
   {
     "app": "monkey",
@@ -423,7 +437,7 @@
     "app": "monkey",
     "platform": "Zed",
     "label": "extension-zed-monkey-c.tar.gz",
-    "size": 30796,
+    "size": 30798,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-zed-monkey-c.tar.gz"
   },
   {
@@ -670,6 +684,13 @@
     "label": "extension-browser-vectors-v3.zip",
     "size": 241396,
     "url": "https://github.com/hieudoanm/vectors/releases/latest/download/extension-browser-vectors-v3.zip"
+  },
+  {
+    "app": "vectors",
+    "platform": "JetBrains",
+    "label": "extension-jetbrains-vectors.zip",
+    "size": 18875,
+    "url": "https://github.com/hieudoanm/vectors/releases/latest/download/extension-jetbrains-vectors.zip"
   },
   {
     "app": "vectors",
