@@ -122,6 +122,13 @@ const isBrowserExt = (f) =>
   f.includes('chrome') ||
   f.includes('firefox');
 
+const MODEL_COLS = [
+  { label: 'joblib (scikit-learn)', test: (f) => f.endsWith('.joblib') },
+  { label: 'pkl (pickle)', test: (f) => f.endsWith('.pkl') },
+  { label: 'pt (PyTorch)', test: (f) => f.endsWith('.pt') },
+];
+const isModel = (f) => MODEL_COLS.some((c) => c.test(f));
+
 const BROWSER_COLS = [
   { label: 'Chrome', test: (f) => f.endsWith('.crx') },
   { label: 'Firefox', test: (f) => f.endsWith('.xpi') },
@@ -150,6 +157,12 @@ function fileExt(url) {
   if (lowerFn.endsWith('.appimage')) return '.AppImage';
   const m = fn.match(/\.(tar\.gz|[a-z0-9]{1,5})$/i);
   return m ? m[0].toLowerCase() : fn;
+}
+
+function dotExt(url) {
+  const fn = fileName(url);
+  const i = fn.lastIndexOf('.');
+  return i >= 0 ? fn.slice(i).toLowerCase() : fn;
 }
 
 function cliLabel(url) {
@@ -246,7 +259,13 @@ function otherTable(links) {
 }
 
 function render(list) {
-  const cli = list.filter((l) => lower(l.url).startsWith('cli-'));
+  const cliAll = list.filter((l) => lower(l.url).startsWith('cli-'));
+  const cli = cliAll.filter((l) =>
+    CLI_COLS.some((c) => c.test(lower(l.url)))
+  );
+  const cliOther = cliAll.filter(
+    (l) => !CLI_COLS.some((c) => c.test(lower(l.url)))
+  );
   const desktop = list.filter(
     (l) =>
       !lower(l.url).startsWith('cli-') &&
@@ -257,15 +276,18 @@ function render(list) {
     (l) => isExtension(lower(l.url)) && !isBrowserExt(lower(l.url))
   );
   const browser = list.filter((l) => isBrowserExt(lower(l.url)));
+  const model = list.filter((l) => isModel(lower(l.url)));
   const other = list.filter((l) => {
     const f = lower(l.url);
     return (
       !f.startsWith('cli-') &&
       !isDesktop(f) &&
       !isExtension(f) &&
-      !isBrowserExt(f)
+      !isBrowserExt(f) &&
+      !isModel(f)
     );
   });
+  other.push(...cliOther);
 
   main.innerHTML =
     matrixTable('CLI', cli, CLI_COLS, { labelFn: cliLabel }) +
@@ -274,6 +296,7 @@ function render(list) {
       matrixTable('Browser extensions', browser, BROWSER_COLS, {
         labelFn: browserLabel,
       }) +
+      matrixTable('ML Models', model, MODEL_COLS, { labelFn: dotExt }) +
       otherTable(other) ||
     '<div class="err">No downloads match your filter.</div>';
 }

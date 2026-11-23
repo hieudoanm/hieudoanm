@@ -164,7 +164,7 @@
     "app": "linguae",
     "platform": "CLI",
     "label": "cli-linguae-model.zip",
-    "size": 11343376,
+    "size": 2976047,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/cli-linguae-model.zip"
   },
   {
@@ -192,35 +192,35 @@
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.app.zip",
-    "size": 2932649,
+    "size": 2932526,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.dmg",
-    "size": 3101401,
+    "size": 3101437,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.app.zip",
-    "size": 3086022,
+    "size": 3086031,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.dmg",
-    "size": 3260516,
+    "size": 3260501,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "Windows",
     "label": "desktop-linguae-x86_64-pc-windows-msvc-setup.exe",
-    "size": 2311251,
+    "size": 2312598,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -241,15 +241,36 @@
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.deb",
-    "size": 3550282,
+    "size": 3550246,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.rpm",
-    "size": 3555761,
+    "size": 3555735,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.rpm"
+  },
+  {
+    "app": "linguae",
+    "platform": "Other",
+    "label": "model-linguae.joblib",
+    "size": 3068044,
+    "url": "https://github.com/hieudoanm/linguae/releases/latest/download/model-linguae.joblib"
+  },
+  {
+    "app": "linguae",
+    "platform": "Other",
+    "label": "model-linguae.pkl",
+    "size": 3067696,
+    "url": "https://github.com/hieudoanm/linguae/releases/latest/download/model-linguae.pkl"
+  },
+  {
+    "app": "linguae",
+    "platform": "Other",
+    "label": "model-linguae.pt",
+    "size": 3166853,
+    "url": "https://github.com/hieudoanm/linguae/releases/latest/download/model-linguae.pt"
   },
   {
     "app": "mars",
