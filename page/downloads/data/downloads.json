@@ -85,6 +85,13 @@
   },
   {
     "app": "chess",
+    "platform": "macOS",
+    "label": "cli-chess-x86_64-apple-darwin",
+    "size": 9964504,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/cli-chess-x86_64-apple-darwin"
+  },
+  {
+    "app": "chess",
     "platform": "Windows",
     "label": "cli-chess-x86_64-pc-windows-msvc.exe",
     "size": 8637952,
@@ -134,6 +141,13 @@
   },
   {
     "app": "linguae",
+    "platform": "macOS",
+    "label": "cli-linguae-x86_64-apple-darwin",
+    "size": 4018992,
+    "url": "https://github.com/hieudoanm/linguae/releases/latest/download/cli-linguae-x86_64-apple-darwin"
+  },
+  {
+    "app": "linguae",
     "platform": "Windows",
     "label": "cli-linguae-x86_64-pc-windows-msvc.exe",
     "size": 3585024,
@@ -150,35 +164,35 @@
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.app.zip",
-    "size": 2932362,
+    "size": 2932471,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.dmg",
-    "size": 3101223,
+    "size": 3101394,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.app.zip",
-    "size": 3085749,
+    "size": 3085986,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.dmg",
-    "size": 3260445,
+    "size": 3260450,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "Windows",
     "label": "desktop-linguae-x86_64-pc-windows-msvc-setup.exe",
-    "size": 2312574,
+    "size": 2310971,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -199,14 +213,14 @@
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.deb",
-    "size": 3549552,
+    "size": 3550046,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.rpm",
-    "size": 3555113,
+    "size": 3555572,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -353,7 +367,7 @@
     "app": "markers",
     "platform": "Linux",
     "label": "cli-markers-x86_64-unknown-linux-gnu",
-    "size": 25494744,
+    "size": 25494632,
     "url": "https://github.com/hieudoanm/markers/releases/latest/download/cli-markers-x86_64-unknown-linux-gnu"
   },
   {
@@ -519,6 +533,13 @@
   },
   {
     "app": "tracers",
+    "platform": "macOS",
+    "label": "cli-tracers-x86_64-apple-darwin",
+    "size": 46330200,
+    "url": "https://github.com/hieudoanm/tracers/releases/latest/download/cli-tracers-x86_64-apple-darwin"
+  },
+  {
+    "app": "tracers",
     "platform": "Windows",
     "label": "cli-tracers-x86_64-pc-windows-msvc.exe",
     "size": 46189056,
@@ -556,7 +577,7 @@
     "app": "transcribers",
     "platform": "Linux",
     "label": "cli-transcribers-x86_64-unknown-linux-gnu",
-    "size": 20032712,
+    "size": 20032480,
     "url": "https://github.com/hieudoanm/transcribers/releases/latest/download/cli-transcribers-x86_64-unknown-linux-gnu"
   },
   {
@@ -565,6 +586,13 @@
     "label": "cli-vectors-aarch64-apple-darwin",
     "size": 5473984,
     "url": "https://github.com/hieudoanm/vectors/releases/latest/download/cli-vectors-aarch64-apple-darwin"
+  },
+  {
+    "app": "vectors",
+    "platform": "macOS",
+    "label": "cli-vectors-x86_64-apple-darwin",
+    "size": 5653360,
+    "url": "https://github.com/hieudoanm/vectors/releases/latest/download/cli-vectors-x86_64-apple-darwin"
   },
   {
     "app": "vectors",
@@ -633,7 +661,7 @@
     "app": "vectors",
     "platform": "Zed",
     "label": "extension-zed-vectors.tar.gz",
-    "size": 7978,
+    "size": 7977,
     "url": "https://github.com/hieudoanm/vectors/releases/latest/download/extension-zed-vectors.tar.gz"
   }
 ]
