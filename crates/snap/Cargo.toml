@@ -6,7 +6,7 @@ description = "Capture website screenshots with Firefox via WebDriver (no Chromi
 license = "MIT"
 
 [dependencies]
-anyhow = "=1.0.104"
+anyhow = "=1.0.105"
 clap = { version = "=4.6.9", features = ["derive", "env"] }
 env_logger = "=0.11.12"
 futures = "=0.3.34"
