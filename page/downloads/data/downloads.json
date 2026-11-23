@@ -155,6 +155,13 @@
   },
   {
     "app": "linguae",
+    "platform": "CLI",
+    "label": "cli-linguae-model.zip",
+    "size": 11343376,
+    "url": "https://github.com/hieudoanm/linguae/releases/latest/download/cli-linguae-model.zip"
+  },
+  {
+    "app": "linguae",
     "platform": "macOS",
     "label": "cli-linguae-x86_64-apple-darwin",
     "size": 4018992,
@@ -178,35 +185,35 @@
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.app.zip",
-    "size": 2932393,
+    "size": 2932649,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.dmg",
-    "size": 3101267,
+    "size": 3101401,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.app.zip",
-    "size": 3085745,
+    "size": 3086022,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.dmg",
-    "size": 3260427,
+    "size": 3260516,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "Windows",
     "label": "desktop-linguae-x86_64-pc-windows-msvc-setup.exe",
-    "size": 2313304,
+    "size": 2311251,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -227,22 +234,15 @@
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.deb",
-    "size": 3552524,
+    "size": 3550282,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.rpm",
-    "size": 3555228,
+    "size": 3555761,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.rpm"
-  },
-  {
-    "app": "linguae",
-    "platform": "Other",
-    "label": "linguae-artifacts.zip",
-    "size": 2976047,
-    "url": "https://github.com/hieudoanm/linguae/releases/latest/download/linguae-artifacts.zip"
   },
   {
     "app": "mars",
