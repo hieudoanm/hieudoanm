@@ -48,14 +48,15 @@ GRAY='\033[0;90m'
 timestamp() { date '+%Y-%m-%d %H:%M:%S'; }
 
 log() {
-    printf "%b[%s] [%-7s]%b %s\n" \
-        "$GRAY" "$(timestamp)" "$1" "$RESET" "$2"
+    local level="$1" color="$2" message="$3"
+    printf '%b[%s] %b%-7s%b %s\n' \
+        "$GRAY" "$(date +%T)" "$color" "$level" "$RESET" "$message"
 }
 
-info() { log INFO "$1"; }
-success() { log SUCCESS "${GREEN}$1${RESET}"; }
-warn() { log WARN "${YELLOW}$1${RESET}"; }
-error() { log ERROR "${RED}$1${RESET}"; }
+info() { log INFO "$BLUE" "$1"; }
+success() { log SUCCESS "$GREEN" "$1"; }
+warn() { log WARN "$YELLOW" "$1"; }
+error() { log ERROR "$RED" "$1"; }
 
 elapsed() {
     local seconds=$(( $(date +%s) - START_TIME ))
@@ -117,11 +118,13 @@ find_repositories() {
 
 inspect_repository() {
     local repo="$1"
+    local index="$2"
+    local total="$3"
     local name="${repo##*/}"
 
     echo
-    info "Inspecting: $name"
-    info "Location: $repo"
+    printf '%b▸ %s %b(%d/%d)%b\n' \
+        "$BLUE" "$name" "$GRAY" "$index" "$total" "$RESET"
 
     cd "$repo"
 
@@ -139,8 +142,7 @@ inspect_repository() {
         age_days=$(( ($(date +%s) - last_timestamp) / 86400 ))
         last_commit=$(git log -1 --format='%h %s' 2>/dev/null || true)
 
-        info "Last commit: $last_commit"
-        info "Last commit age: $age_days days"
+        info "Last commit (${age_days}d ago): $last_commit"
 
         if (( age_days >= STALE_DAYS )); then
             warn "Repository is stale."
@@ -161,8 +163,9 @@ inspect_repository() {
         warn "No remote configured."
         NO_REMOTE=$((NO_REMOTE + 1))
     else
-        info "Remotes:"
-        git remote -v | sort -u
+        while IFS= read -r remote; do
+            info "Remote $remote: $(git remote get-url "$remote" 2>/dev/null || true)"
+        done < <(git remote)
     fi
 
     # Orphan (unreachable) commits — kept alive only by the reflog
@@ -200,8 +203,6 @@ inspect_repository() {
     if [[ -z "$default_branch" ]]; then
         default_branch=$(git config --get init.defaultBranch || echo main)
     fi
-
-    info "Default branch candidate: $default_branch"
 
     # Inspect merged local branches
     local current_branch
@@ -302,10 +303,7 @@ main() {
     for repo in "${REPOSITORIES[@]}"; do
         index=$((index + 1))
 
-        echo
-        info "Progress: $index/$TOTAL"
-
-        if ! inspect_repository "$repo"; then
+        if ! inspect_repository "$repo" "$index" "$TOTAL"; then
             error "Failed to inspect $repo"
             FAILED=$((FAILED + 1))
         fi

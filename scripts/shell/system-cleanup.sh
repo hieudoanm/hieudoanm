@@ -68,14 +68,15 @@ GRAY='\033[0;90m'
 timestamp() { date '+%Y-%m-%d %H:%M:%S'; }
 
 log() {
-    printf "%b[%s] [%-7s]%b %s\n" \
-        "$GRAY" "$(timestamp)" "$1" "$RESET" "$2"
+    local level="$1" color="$2" message="$3"
+    printf '%b[%s] %b%-7s%b %s\n' \
+        "$GRAY" "$(date +%T)" "$color" "$level" "$RESET" "$message"
 }
 
-info() { log INFO "$1"; }
-success() { log SUCCESS "${GREEN}$1${RESET}"; }
-warn() { log WARN "${YELLOW}$1${RESET}"; }
-error() { log ERROR "${RED}$1${RESET}"; }
+info() { log INFO "$BLUE" "$1"; }
+success() { log SUCCESS "$GREEN" "$1"; }
+warn() { log WARN "$YELLOW" "$1"; }
+error() { log ERROR "$RED" "$1"; }
 
 elapsed() {
     local seconds=$(( $(date +%s) - START_TIME ))

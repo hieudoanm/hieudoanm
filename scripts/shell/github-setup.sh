@@ -64,33 +64,33 @@ timestamp() {
 }
 
 log() {
-    local level="$1"
-    shift
+    local level="$1" color="$2"
+    shift 2
 
-    printf "%b[%s] [%-7s]%b %s\n" \
-        "$GRAY" "$(timestamp)" "$level" "$RESET" "$*"
+    printf '%b[%s] %b%-7s%b %s\n' \
+        "$GRAY" "$(date +%T)" "$color" "$level" "$RESET" "$*"
 }
 
 info() {
-    log INFO "$@"
+    log INFO "$BLUE" "$@"
 }
 
 debug() {
     if [[ "$LOG_LEVEL" == "DEBUG" ]]; then
-        log DEBUG "$@"
+        log DEBUG "$GRAY" "$@"
     fi
 }
 
 success() {
-    log SUCCESS "$GREEN$*$RESET"
+    log SUCCESS "$GREEN" "$@"
 }
 
 warn() {
-    log WARN "$YELLOW$*$RESET"
+    log WARN "$YELLOW" "$@"
 }
 
 error() {
-    log ERROR "$RED$*$RESET" >&2
+    log ERROR "$RED" "$@" >&2
 }
 
 fatal() {
@@ -137,7 +137,7 @@ step() {
 
     echo
     separator
-    log STEP "STEP $CURRENT_STEP/$TOTAL_STEPS: $1"
+    log STEP "$CYAN" "STEP $CURRENT_STEP/$TOTAL_STEPS: $1"
     separator
 }
 
@@ -467,7 +467,7 @@ clone_repositories() {
         echo
         separator
 
-        log REPOSITORY "[$current/$TOTAL_REPOS] $repository"
+        log REPOSITORY "$GRAY" "[$current/$TOTAL_REPOS] $repository"
 
         progress_bar "$current" "$TOTAL_REPOS"
         echo
