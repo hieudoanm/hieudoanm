@@ -31,7 +31,7 @@
     "app": "api",
     "platform": "JetBrains",
     "label": "extension-jetbrains-api.zip",
-    "size": 19854,
+    "size": 19855,
     "url": "https://github.com/hieudoanm/api/releases/latest/download/extension-jetbrains-api.zip"
   },
   {
@@ -126,6 +126,69 @@
     "url": "https://github.com/hieudoanm/chess/releases/latest/download/cli-chess-x86_64-unknown-linux-gnu"
   },
   {
+    "app": "chess",
+    "platform": "macOS",
+    "label": "desktop-chess-aarch64-apple-darwin.app.zip",
+    "size": 4172785,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-aarch64-apple-darwin.app.zip"
+  },
+  {
+    "app": "chess",
+    "platform": "macOS",
+    "label": "desktop-chess-aarch64-apple-darwin.dmg",
+    "size": 4208543,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-aarch64-apple-darwin.dmg"
+  },
+  {
+    "app": "chess",
+    "platform": "macOS",
+    "label": "desktop-chess-x86_64-apple-darwin.app.zip",
+    "size": 4279510,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-apple-darwin.app.zip"
+  },
+  {
+    "app": "chess",
+    "platform": "macOS",
+    "label": "desktop-chess-x86_64-apple-darwin.dmg",
+    "size": 4312373,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-apple-darwin.dmg"
+  },
+  {
+    "app": "chess",
+    "platform": "Windows",
+    "label": "desktop-chess-x86_64-pc-windows-msvc-setup.exe",
+    "size": 3010295,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-pc-windows-msvc-setup.exe"
+  },
+  {
+    "app": "chess",
+    "platform": "Windows",
+    "label": "desktop-chess-x86_64-pc-windows-msvc.msi",
+    "size": 4255744,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-pc-windows-msvc.msi"
+  },
+  {
+    "app": "chess",
+    "platform": "Linux",
+    "label": "desktop-chess-x86_64-unknown-linux-gnu.AppImage",
+    "size": 87804408,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-unknown-linux-gnu.AppImage"
+  },
+  {
+    "app": "chess",
+    "platform": "Linux",
+    "label": "desktop-chess-x86_64-unknown-linux-gnu.deb",
+    "size": 4434486,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-unknown-linux-gnu.deb"
+  },
+  {
+    "app": "chess",
+    "platform": "Linux",
+    "label": "desktop-chess-x86_64-unknown-linux-gnu.rpm",
+    "size": 4439971,
+    "url": "https://github.com/hieudoanm/chess/releases/latest/download/desktop-chess-x86_64-unknown-linux-gnu.rpm"
+  },
+  {
     "app": "fdr",
     "platform": "macOS",
     "label": "cli-fdr-aarch64-apple-darwin",
@@ -192,35 +255,35 @@
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.app.zip",
-    "size": 2932526,
+    "size": 2932540,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-aarch64-apple-darwin.dmg",
-    "size": 3101437,
+    "size": 3101329,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-aarch64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.app.zip",
-    "size": 3086031,
+    "size": 3086071,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.app.zip"
   },
   {
     "app": "linguae",
     "platform": "macOS",
     "label": "desktop-linguae-x86_64-apple-darwin.dmg",
-    "size": 3260501,
+    "size": 3260609,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-apple-darwin.dmg"
   },
   {
     "app": "linguae",
     "platform": "Windows",
     "label": "desktop-linguae-x86_64-pc-windows-msvc-setup.exe",
-    "size": 2312598,
+    "size": 2310276,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -241,14 +304,14 @@
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.deb",
-    "size": 3550246,
+    "size": 3552504,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "linguae",
     "platform": "Linux",
     "label": "desktop-linguae-x86_64-unknown-linux-gnu.rpm",
-    "size": 3555735,
+    "size": 3555845,
     "url": "https://github.com/hieudoanm/linguae/releases/latest/download/desktop-linguae-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -311,7 +374,7 @@
     "app": "mars",
     "platform": "macOS",
     "label": "desktop-mars-aarch64-apple-darwin.dmg",
-    "size": 15181963,
+    "size": 15181947,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-aarch64-apple-darwin.dmg"
   },
   {
@@ -325,14 +388,14 @@
     "app": "mars",
     "platform": "macOS",
     "label": "desktop-mars-x86_64-apple-darwin.dmg",
-    "size": 15943973,
+    "size": 15943983,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-apple-darwin.dmg"
   },
   {
     "app": "mars",
     "platform": "Windows",
     "label": "desktop-mars-x86_64-pc-windows-msvc-setup.exe",
-    "size": 10841758,
+    "size": 10847509,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -353,14 +416,14 @@
     "app": "mars",
     "platform": "Linux",
     "label": "desktop-mars-x86_64-unknown-linux-gnu.deb",
-    "size": 19152460,
+    "size": 19155106,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-unknown-linux-gnu.deb"
   },
   {
     "app": "mars",
     "platform": "Linux",
     "label": "desktop-mars-x86_64-unknown-linux-gnu.rpm",
-    "size": 19159906,
+    "size": 19159905,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/desktop-mars-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -374,14 +437,14 @@
     "app": "mars",
     "platform": "VS Code",
     "label": "extension-vscode-mars.vsix",
-    "size": 564279,
+    "size": 564268,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/extension-vscode-mars.vsix"
   },
   {
     "app": "mars",
     "platform": "Zed",
     "label": "extension-zed-mars.tar.gz",
-    "size": 58802,
+    "size": 58806,
     "url": "https://github.com/hieudoanm/mars/releases/latest/download/extension-zed-mars.tar.gz"
   },
   {
@@ -444,7 +507,7 @@
     "app": "monkey",
     "platform": "JetBrains",
     "label": "extension-jetbrains-monkey-c-0.0.1.zip",
-    "size": 384901,
+    "size": 384902,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-jetbrains-monkey-c-0.0.1.zip"
   },
   {
@@ -458,7 +521,7 @@
     "app": "monkey",
     "platform": "Zed",
     "label": "extension-zed-monkey-c.tar.gz",
-    "size": 30798,
+    "size": 30801,
     "url": "https://github.com/hieudoanm/monkey/releases/latest/download/extension-zed-monkey-c.tar.gz"
   },
   {
@@ -500,7 +563,7 @@
     "app": "neuro.imagers",
     "platform": "macOS",
     "label": "desktop-neuro-aarch64-apple-darwin.dmg",
-    "size": 4422313,
+    "size": 4422306,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-aarch64-apple-darwin.dmg"
   },
   {
@@ -521,7 +584,7 @@
     "app": "neuro.imagers",
     "platform": "Windows",
     "label": "desktop-neuro-x86_64-pc-windows-msvc-setup.exe",
-    "size": 3244259,
+    "size": 3241844,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-pc-windows-msvc-setup.exe"
   },
   {
@@ -549,7 +612,7 @@
     "app": "neuro.imagers",
     "platform": "Linux",
     "label": "desktop-neuro-x86_64-unknown-linux-gnu.rpm",
-    "size": 5105251,
+    "size": 5105250,
     "url": "https://github.com/hieudoanm/neuro.imagers/releases/latest/download/desktop-neuro-x86_64-unknown-linux-gnu.rpm"
   },
   {
@@ -577,7 +640,7 @@
     "app": "resume",
     "platform": "Linux",
     "label": "cli-resume-x86_64-unknown-linux-gnu",
-    "size": 6253752,
+    "size": 6253816,
     "url": "https://github.com/hieudoanm/resume/releases/latest/download/cli-resume-x86_64-unknown-linux-gnu"
   },
   {
@@ -633,7 +696,7 @@
     "app": "transcribers",
     "platform": "Linux",
     "label": "cli-transcribers-x86_64-unknown-linux-gnu",
-    "size": 20032712,
+    "size": 20032592,
     "url": "https://github.com/hieudoanm/transcribers/releases/latest/download/cli-transcribers-x86_64-unknown-linux-gnu"
   },
   {
@@ -710,7 +773,7 @@
     "app": "vectors",
     "platform": "JetBrains",
     "label": "extension-jetbrains-vectors.zip",
-    "size": 18875,
+    "size": 18873,
     "url": "https://github.com/hieudoanm/vectors/releases/latest/download/extension-jetbrains-vectors.zip"
   },
   {
