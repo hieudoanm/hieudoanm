@@ -121,6 +121,14 @@
 
   var SHOWCASE = [
     {
+      slug: 'soccers',
+      title: 'Soccers',
+      imgAlt: 'Soccers screenshot',
+      desc: 'Historical football data platform — 300k matches and event-level stats in SQLite via Prisma 8.',
+      url: 'https://hieudoanm.github.io/soccers/',
+      repo: 'https://github.com/hieudoanm/soccers',
+    },
+    {
       slug: 'design.system.design',
       title: 'Design (System) Design',
       imgAlt: 'Design System Design screenshot',

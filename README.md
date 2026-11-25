@@ -62,13 +62,16 @@ Buy me a Coffee on [Ko-fi][kofi].
 [transcribers.repo]: https://github.com/hieudoanm/transcribers
 [vectors.repo]: https://github.com/hieudoanm/vectors/
 
-## Design Projects
+## Showcase
 
-1. 🎨 [Design (System) Design][design.system.design] · [Repository][design.system.design.repo] — A design system monorepo for building consistent, accessible UI components and documentation
-2. 🍜 [Food & Drink][fdr] · [Repository][fdr.repo] — A small, fast food-picker app: spin a country wheel or dish reel, browse menus, or follow Sheldon's weekly schedule
-3. ⌚ [Forerunner 55][fr55] · [Repository][fr55.repo] — Connect IQ watchfaces for the Garmin Forerunner 55 (240×240 MIP)
-4. 🏦 [NEO Bank][neo.bank] · [Repository][neo.bank.repo] — A full-stack banking demo: Go microservices, Cassandra, Kafka sagas, and a React frontend — with a static landing page on GitHub Pages
+1. ⚽ [Soccers][soccers] · [Repository][soccers.repo] — Historical football data platform: ~300k matches and event-level stats in SQLite via Prisma 8, with Mars-notebook analysis posts
+2. 🎨 [Design (System) Design][design.system.design] · [Repository][design.system.design.repo] — A design system monorepo for building consistent, accessible UI components and documentation
+3. 🍜 [Food & Drink][fdr] · [Repository][fdr.repo] — A small, fast food-picker app: spin a country wheel or dish reel, browse menus, or follow Sheldon's weekly schedule
+4. ⌚ [Forerunner 55][fr55] · [Repository][fr55.repo] — Connect IQ watchfaces for the Garmin Forerunner 55 (240×240 MIP)
+5. 🏦 [NEO Bank][neo.bank] · [Repository][neo.bank.repo] — A full-stack banking demo: Go microservices, Cassandra, Kafka sagas, and a React frontend — with a static landing page on GitHub Pages
 
+[soccers]: https://hieudoanm.github.io/soccers/
+[soccers.repo]: https://github.com/hieudoanm/soccers
 [design.system.design]: https://hieudoanm.github.io/design.system.design/
 [fdr]: https://hieudoanm.github.io/fdr/
 [fr55]: https://hieudoanm.github.io/fr55/
