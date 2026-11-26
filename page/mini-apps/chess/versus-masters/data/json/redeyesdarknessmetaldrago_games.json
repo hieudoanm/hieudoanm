@@ -1191,7 +1191,7 @@
   },
   {
     "opponent": "berlin_wa11",
-    "title": "CM",
+    "title": "FM",
     "date": "2026.05.25",
     "result": "1-0",
     "outcome": "win",
@@ -1290,7 +1290,7 @@
     "speed": "bullet"
   },
   {
-    "opponent": "caissanyx",
+    "opponent": "koalazy_n",
     "title": "WIM",
     "date": "2026.06.28",
     "result": "1/2-1/2",
@@ -1376,6 +1376,16 @@
     "result": "1-0",
     "outcome": "loss",
     "eco": "A40",
+    "time_control": "60",
+    "speed": "bullet"
+  },
+  {
+    "opponent": "wiseoldmaninsocks",
+    "title": "FM",
+    "date": "2026.07.24",
+    "result": "1-0",
+    "outcome": "loss",
+    "eco": "A10",
     "time_control": "60",
     "speed": "bullet"
   },
@@ -1630,7 +1640,7 @@
     "speed": "bullet"
   },
   {
-    "opponent": "caissanyx",
+    "opponent": "koalazy_n",
     "title": "WIM",
     "date": "2026.09.26",
     "result": "1/2-1/2",
@@ -1776,6 +1786,36 @@
     "result": "1-0",
     "outcome": "win",
     "eco": "A01",
+    "time_control": "60",
+    "speed": "bullet"
+  },
+  {
+    "opponent": "nuadvaga",
+    "title": "NM",
+    "date": "2026.11.22",
+    "result": "1-0",
+    "outcome": "win",
+    "eco": "A01",
+    "time_control": "60",
+    "speed": "bullet"
+  },
+  {
+    "opponent": "fredymatsuura",
+    "title": "FM",
+    "date": "2026.11.26",
+    "result": "0-1",
+    "outcome": "win",
+    "eco": "B06",
+    "time_control": "60",
+    "speed": "bullet"
+  },
+  {
+    "opponent": "aklanarcher",
+    "title": "NM",
+    "date": "2026.11.26",
+    "result": "0-1",
+    "outcome": "win",
+    "eco": "A40",
     "time_control": "60",
     "speed": "bullet"
   }
