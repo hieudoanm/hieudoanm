@@ -85,6 +85,14 @@
       repo: 'https://github.com/hieudoanm/neuro.imagers',
     },
     {
+      slug: 'open.deck',
+      title: 'OpenDeck',
+      imgAlt: 'OpenDeck screenshot',
+      desc: 'Turn an old phone into a Steam Deck-style remote desktop companion — Rust server, Android/iOS clients, native desktop companions.',
+      url: 'https://hieudoanm.github.io/open.deck/',
+      repo: 'https://github.com/hieudoanm/open.deck',
+    },
+    {
       slug: 'resume',
       title: 'Resume',
       imgAlt: 'Resume screenshot',

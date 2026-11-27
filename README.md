@@ -29,10 +29,11 @@ Buy me a Coffee on [Ko-fi][kofi].
 7. 🏷️ [Markers][markers] · [Repository][markers.repo] — Markdown → static site generator plus a GROBID PDF→Markdown pipeline with a searchable corpus, MCP server, and Tauri desktop app — all in Rust
 8. 🐒 [Monkey][monkey] · [Repository][monkey.repo] — The Rust-powered developer toolchain for Monkey C / Garmin Connect IQ — CLI, language server, MCP server, VS Code and Zed extensions, SDK build/run/test orchestration
 9. 🧠 [Neuroimager][neuro.imagers] · [Repository][neuro.imagers.repo] — Local-first desktop workspace for EEG, MEG, and MRI research data — Tauri + React frontend over Rust crates
-10. 📄 [Resume][resume.app] · [Repository][resume.repo] — Rust CLI that renders YAML resumes to Markdown, HTML, and PDF — plus a browser resume editor on GitHub Pages
-11. 🔍 [Tracers][tracers] · [Repository][tracers.repo] — A high-performance, multi-language code intelligence and graph analysis tool
-12. 🎙️ [Transcribers][transcribers] · [Repository][transcribers.repo] — Extract transcripts from video and audio files locally with ffmpeg and whisper.cpp
-13. 🖼️ [Vectors][vectors] · [Repository][vectors.repo] — Turn PNG and JPEG images into clean SVG paths — and rasterize SVG back to PNG at any size — entirely offline
+10. 🎴 [OpenDeck][open.deck] · [Repository][open.deck.repo] — Turn an old phone into a Steam Deck-style remote desktop companion — Rust screen-capture server, Android/iOS clients, native desktop companions
+11. 📄 [Resume][resume.app] · [Repository][resume.repo] — Rust CLI that renders YAML resumes to Markdown, HTML, and PDF — plus a browser resume editor on GitHub Pages
+12. 🔍 [Tracers][tracers] · [Repository][tracers.repo] — A high-performance, multi-language code intelligence and graph analysis tool
+13. 🎙️ [Transcribers][transcribers] · [Repository][transcribers.repo] — Extract transcripts from video and audio files locally with ffmpeg and whisper.cpp
+14. 🖼️ [Vectors][vectors] · [Repository][vectors.repo] — Turn PNG and JPEG images into clean SVG paths — and rasterize SVG back to PNG at any size — entirely offline
 
 [api]: https://hieudoanm.github.io/api/
 [backers]: https://hieudoanm.github.io/backers/
@@ -42,6 +43,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 [mars]: https://hieudoanm.github.io/mars/
 [monkey]: https://hieudoanm.github.io/monkey/
 [neuro.imagers]: https://hieudoanm.github.io/neuro.imagers/
+[open.deck]: https://hieudoanm.github.io/open.deck/
 [resume.app]: https://hieudoanm.github.io/resume/
 [markers]: https://hieudoanm.github.io/markers/
 [tracers]: https://hieudoanm.github.io/tracers/
@@ -56,6 +58,7 @@ Buy me a Coffee on [Ko-fi][kofi].
 [mars.repo]: https://github.com/hieudoanm/mars
 [monkey.repo]: https://github.com/hieudoanm/monkey
 [neuro.imagers.repo]: https://github.com/hieudoanm/neuro.imagers
+[open.deck.repo]: https://github.com/hieudoanm/open.deck
 [resume.repo]: https://github.com/hieudoanm/resume
 [markers.repo]: https://github.com/hieudoanm/markers
 [tracers.repo]: https://github.com/hieudoanm/tracers
